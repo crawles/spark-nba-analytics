@@ -1,0 +1,4 @@
+old
+*spark-warehouse
+*.pyc
+spark-warehouse
