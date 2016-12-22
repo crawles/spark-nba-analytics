@@ -1,0 +1,1006 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,4,5,13,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,-2,0,0.40,"Young, Thaddeus",0.80,15.30
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,4,7,27,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Toronto Raptors",6,6,0,0.00,"Lowry, Kyle",2.00,5.80
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,4,2,29,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",-13,0,0,0.00,"Pachulia, Zaza",0.90,10.40
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,1,09,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Washington Wizards",4,1,0,0.00,Nene,2.80,15.00
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,4,11,31,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",-2,19,0,0.00,"Paul, Chris",3.30,10.20
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,11,05,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"New York Knicks",-5,3,0,0.00,"Chandler, Tyson",1.40,9.50
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,4,4,54,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Houston Rockets",12,1,0,0.00,"Lin, Jeremy",5.00,9.70
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,3,1,32,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Los Angeles Clippers",-11,17,0,1.50,"Jordan, DeAndre",2.90,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,3,9,08,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,3,1,0.90,"ONeal, Jermaine",5.20,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,3,3,51,1,"Alley Oop Dunk Shot","2PT Field Goal",3,"Philadelphia 76ers",26,15,0,0.00,,0.00,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,1,3,46,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Sacramento Kings",-5,15,0,0.00,"McLemore, Ben",4.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,2,4,38,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Toronto Raptors",2,3,0,0.00,"Hayes, Charles",6.60,12.70
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,5,09,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",-5,1,0,1.10,"Lopez, Robin",4.60,10.20
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,5,49,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,4,0,0.20,"Turiaf, Ronny",0.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,1,28,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",2,-2,0,0.80,"Barnes, Matt",2.00,18.40
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,4,2,35,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.10,"Hamilton, Jordan",4.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,10,55,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",13,11,0,0.00,"Jordan, DeAndre",5.40,19.40
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,2,2,06,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",-6,3,0,0.80,"Cousins, DeMarcus",5.20,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,4,5,35,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-2,1,1.20,"Johnson, Wesley",4.40,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,0,14,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,4,0,0.00,"Jefferson, Richard",2.40,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,10,05,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Utah Jazz",-8,12,0,1.00,"Garrett, Diante",2.10,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,4,8,19,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",6,0,0,0.80,"Blatche, Andray",1.90,10.30
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,1,8,28,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Denver Nuggets",13,0,0,0.60,"Mozgov, Timofey",4.60,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,4,5,16,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",-18,0,0,0.00,"Terry, Jason",2.20,16.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,2,0,02,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Portland Trail Blazers",0,25,0,0.00,"Lillard, Damian",4.60,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,3,0,01,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Boston Celtics",-5,-6,0,0.60,"Olynyk, Kelly",5.10,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,4,5,23,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",9,4,0,0.00,"Tolliver, Anthony",1.90,14.50
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,8,30,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Orlando Magic",-19,9,0,0.10,"Nelson, Jameer",3.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,6,01,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-7,17,1,0.50,"Gasol, Pau",7.40,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,4,3,22,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Golden State Warriors",15,7,0,3.40,"ONeal, Jermaine",1.50,13.50
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,6,29,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",20,1,0,0.70,"Pierce, Paul",2.70,20.90
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,2,4,19,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Golden State Warriors",4,14,0,4.50,"Bogut, Andrew",6.70,20.00
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,6,35,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",4,0,0,0.50,"Nowitzki, Dirk",4.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,4,5,26,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,4,0,1.00,"Cunningham, Dante",3.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,2,3,55,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Boston Celtics",1,1,1,0.50,"Crawford, Jordan",10.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,4,2,42,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",6,0,0,0.00,"Davis, Glen",5.40,8.50
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,4,43,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",7,-8,0,0.00,"Freeland, Joel",0.40,17.10
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,3,4,32,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,-3,0,0.00,"Parker, Tony",4.60,21.00
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,2,2,28,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",2,0,0,0.00,"Jordan, DeAndre",4.90,13.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,2,5,39,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Indiana Pacers",-24,1,0,0.00,"Scola, Luis",1.80,13.50
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,2,0,46,1,"Alley Oop Layup shot","2PT Field Goal",0,"Portland Trail Blazers",-8,0,0,0.00,"Lopez, Robin",3.10,11.80
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,4,42,1,"Alley Oop Layup shot","2PT Field Goal",0,"Los Angeles Clippers",0,7,0,0.40,"Paul, Chris",2.00,13.40
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,3,32,1,"Alley Oop Layup shot","2PT Field Goal",2,"Los Angeles Clippers",13,22,0,0.00,"Dudley, Jared",1.90,19.30
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,3,2,32,1,"Alley Oop Layup shot","2PT Field Goal",2,"Denver Nuggets",0,20,0,0.00,"Randolph, Anthony",2.10,6.50
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,4,2,25,1,"Alley Oop Layup shot","2PT Field Goal",1,"Golden State Warriors",7,14,0,0.00,"Lee, David",2.20,15.50
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,2,0,18,0,"Alley Oop Layup shot","2PT Field Goal",0,"Los Angeles Clippers",-1,9,0,0.00,"Hollins, Ryan",2.50,11.60
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,4,5,05,0,"Alley Oop Layup shot","2PT Field Goal",2,"Cleveland Cavaliers",17,12,0,5.70,"Jack, Jarrett",1.40,18.70
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,11,20,1,"Driving Bank shot","2PT Field Goal",6,"Denver Nuggets",-57,20,1,2.80,"Mozgov, Timofey",3.40,8.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,4,3,09,0,"Driving Bank shot","2PT Field Goal",6,"Denver Nuggets",65,20,1,2.60,"Chandler, Wilson",2.00,5.90
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,2,1,55,1,"Driving Bank shot","2PT Field Goal",3,"Washington Wizards",15,28,0,1.00,"Ariza, Trevor",0.90,7.60
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,4,3,58,0,"Driving Bank shot","2PT Field Goal",9,"Miami Heat",-30,91,1,1.60,"Bosh, Chris",1.10,12.50
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,3,1,07,1,"Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",-2,6,1,2.10,"Freeland, Joel",2.80,16.30
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,1,6,37,1,"Driving Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",4,1,1,3.30,"Ayon, Gustavo",0.40,7.00
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,3,57,0,"Driving Dunk Shot","2PT Field Goal",3,"Dallas Mavericks",-24,22,0,0.90,"Dalembert, Samuel",2.40,14.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,4,7,36,1,"Driving Dunk Shot","2PT Field Goal",0,"Orlando Magic",1,7,1,2.10,"Oladipo, Victor",3.10,21.20
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,4,48,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",6,1,2,7.00,"Mozgov, Timofey",1.90,10.40
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,2,7,55,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Brooklyn Nets",29,9,4,4.50,"Teletovic, Mirza",0.80,5.10
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,2,48,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-2,25,0,1.00,"Turner, Evan",0.90,21.60
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,5,20,1,"Driving Hook Shot","2PT Field Goal",6,"Dallas Mavericks",-18,61,2,8.40,"Dalembert, Samuel",1.00,7.10
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,1,16,1,"Driving Jump shot","2PT Field Goal",3,"Memphis Grizzlies",-8,37,1,2.00,"Koufos, Kosta",1.50,6.90
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,2,1,17,1,"Driving Jump shot","2PT Field Goal",8,"Chicago Bulls",-23,82,0,2.20,"Noah, Joakim",1.90,12.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,4,04,1,"Driving Jump shot","2PT Field Goal",4,"Atlanta Hawks",-7,42,1,2.40,"Carroll, DeMarre",2.80,11.80
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,3,6,49,1,"Driving Jump shot","2PT Field Goal",6,"Minnesota Timberwolves",-41,48,1,2.90,"Pekovic, Nikola",1.50,11.20
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,4,1,09,0,"Driving Jump shot","2PT Field Goal",10,"Denver Nuggets",-57,85,2,3.30,"Chandler, Wilson",2.00,16.10
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,4,2,59,1,"Driving Jump shot","2PT Field Goal",6,"Los Angeles Clippers",-40,52,1,1.80,"Griffin, Blake",0.30,12.30
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,5,59,0,"Driving Jump shot","2PT Field Goal",3,"Boston Celtics",-30,4,2,3.00,"Humphries, Kris",1.80,12.00
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,1,4,37,0,"Driving Jump shot","2PT Field Goal",3,"Chicago Bulls",-26,15,1,1.90,"Noah, Joakim",2.10,7.50
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,1,5,53,0,"Driving Jump shot","2PT Field Goal",6,"Toronto Raptors",61,15,1,1.30,"Valanciunas, Jonas",0.90,17.80
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,3,5,08,1,"Driving Jump shot","2PT Field Goal",5,"Boston Celtics",-8,50,1,4.20,"Humphries, Kris",2.30,3.70
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,1,9,02,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-4,19,0,0.70,"Hill, Jordan",2.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,5,59,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-29,4,1,1.70,"Johnson, Joe",1.90,12.30
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,5,22,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,7,0,0.00,"Burks, Alec",2.40,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,2,10,58,0,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",-5,6,0,0.70,"Beasley, Michael",1.50,4.90
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,3,6,24,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",26,14,1,4.00,"Turner, Evan",3.10,7.30
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,3,10,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-21,-2,1,3.50,"Randolph, Zach",0.70,10.50
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,7,08,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,1,1,1.80,"Duncan, Tim",1.60,3.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,4,11,06,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,1,1,1.20,"Adrien, Jeff",2.10,14.90
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,2,10,21,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",10,26,0,0.50,"Green, Willie",5.20,4.60
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,4,0,12,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-5,15,2,2.80,"Mills, Patty",2.20,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,5,46,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-18,-6,1,1.90,"Plumlee, Miles",2.80,8.50
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,3,5,05,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",1,15,0,1.10,"Jefferson, Al",1.60,10.10
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,3,10,32,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-19,11,1,1.70,"Nowitzki, Dirk",3.60,14.90
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,4,10,41,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-21,4,1,2.40,"Henry, Xavier",2.70,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,2,3,08,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-24,9,1,4.10,"Acy, Quincy",1.50,6.70
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,8,38,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-13,15,1,1.70,"Crawford, Jamal",3.20,10.90
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,7,17,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-16,6,1,2.00,"Millsap, Paul",3.20,12.40
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,2,4,12,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-19,11,1,1.70,"Gasol, Marc",1.60,6.80
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,3,5,29,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,11,0,0.80,"Aldridge, LaMarcus",2.10,6.90
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,7,39,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-11,1,6,9.00,"Johnson, Wesley",1.60,5.40
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,4,3,01,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",-7,1,1,3.50,"West, David",2.00,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,2,0,44,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-10,6,1,1.60,"Gasol, Marc",1.50,15.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,4,9,43,1,"Driving Layup Shot","2PT Field Goal",3,"Indiana Pacers",-26,19,0,0.00,"Scola, Luis",5.30,12.20
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,3,8,15,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-21,0,0,2.10,"Johnson, Wesley",2.30,1.20
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,2,8,30,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Miami Heat",20,9,1,2.20,"Beasley, Michael",1.80,3.70
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,3,9,28,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",24,7,1,4.60,"Duncan, Tim",1.90,8.80
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,6,17,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",9,-2,1,1.30,"Carter-Williams, Michael",1.40,20.80
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,7,34,1,"Dunk Shot","2PT Field Goal",2,"Chicago Bulls",21,9,0,0.70,"Noah, Joakim",2.90,21.30
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,8,08,1,"Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",9,14,0,0.60,"Batum, Nicolas",3.20,20.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,7,33,1,"Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",15,11,0,1.30,"Wright, Dorell",9.80,20.20
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,3,54,1,"Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",0,22,0,1.10,"Teletovic, Mirza",8.00,22.10
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,2,06,1,"Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",-8,7,0,0.40,"Barton, Will",6.20,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,4,3,50,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",6,4,0,0.70,"Thompson, Hollis",2.60,17.10
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,1,4,36,0,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",-10,3,1,1.00,"Moore, ETwaun",1.10,21.90
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,4,3,52,1,"Dunk Shot","2PT Field Goal",0,"Golden State Warriors",4,0,0,0.70,"Green, Draymond",2.80,10.70
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,2,4,38,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,7,0,0.60,"Olynyk, Kelly",2.50,20.70
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,3,1,00,1,"Dunk Shot","2PT Field Goal",2,"Boston Celtics",21,7,0,0.40,"Johnson, Chris",5.60,7.00
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,2,5,11,1,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",0,11,1,1.30,"Leonard, Kawhi",5.50,13.80
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,4,4,07,1,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",1,1,0,0.70,"Gee, Alonzo",6.60,13.90
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,4,5,46,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",-4,4,0,0.80,"Plumlee, Mason",3.30,19.90
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,3,0,39,0,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,4,0,0.00,"Varejao, Anderson",3.10,20.00
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,4,1,39,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",-2,0,0,0.70,"Kanter, Enes",5.00,12.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,4,3,43,1,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",-2,11,0,0.80,"Plumlee, Mason",2.90,17.00
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,3,3,49,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",2,1,0,0.50,"Lucas III, John",3.10,22.00
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,1,5,26,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",1,1,0,0.00,"Favors, Derrick",2.70,21.30
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,4,2,04,1,"Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",12,6,0,0.60,"Millsap, Paul",3.80,5.50
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,9,49,1,"Dunk Shot","2PT Field Goal",1,"Miami Heat",-8,15,0,0.60,"Haslem, Udonis",2.70,10.10
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,4,21,1,"Dunk Shot","2PT Field Goal",2,"Miami Heat",23,1,3,4.00,"Bosh, Chris",26.80,21.00
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,3,5,36,1,"Dunk Shot","2PT Field Goal",2,"Philadelphia 76ers",2,20,0,0.90,"Morris, Darius",2.10,10.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,2,1,59,1,"Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",23,3,0,0.60,"Plumlee, Mason",4.10,20.00
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,4,8,26,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,-8,0,0.60,"Wolters, Nate",4.20,18.20
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,5,17,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",-2,3,1,1.20,"Jordan, DeAndre",2.50,16.40
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,2,16,1,"Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",6,-8,0,0.80,"Hill, Jordan",8.40,21.20
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,4,5,28,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,0,1,1.30,"Gasol, Marc",5.60,11.10
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,8,58,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",1,4,0,0.60,"Bledsoe, Eric",2.40,22.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,4,5,47,0,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",1,-3,0,0.00,"Randolph, Zach",1.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,0,29,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",1,1,1,1.30,"Johnson, James",3.30,20.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,9,00,1,"Dunk Shot","2PT Field Goal",0,"Orlando Magic",7,1,0,0.00,"Afflalo, Arron",2.00,9.50
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,8,15,0,"Dunk Shot","2PT Field Goal",1,"New York Knicks",-7,12,0,1.00,"Bargnani, Andrea",3.70,4.00
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,3,52,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",-4,-2,0,0.70,"Robinson, Thomas",5.80,20.10
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,2,1,04,1,"Dunk Shot","2PT Field Goal",2,"Charlotte Hornets",21,20,0,0.80,"Adrien, Jeff",4.20,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,4,4,41,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",-2,1,0,0.70,"Jones, Terrence",3.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,10,52,1,"Dunk Shot","2PT Field Goal",1,"Chicago Bulls",17,3,0,0.60,"Augustin, D.J.",6.10,17.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,6,34,0,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",0,15,0,0.00,"Maxiell, Jason",1.70,19.50
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,2,14,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",-2,3,0,0.00,"Gortat, Marcin",3.50,7.60
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,4,2,57,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",-3,0,0,0.80,"Blair, DeJuan",1.10,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,1,13,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,3,1,2.80,"Larkin, Shane",11.30,21.90
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,2,1,05,0,"Dunk Shot","2PT Field Goal",1,"San Antonio Spurs",-12,-1,0,0.00,"Splitter, Tiago",4.40,12.20
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,7,55,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",2,0,1,1.20,"Nowitzki, Dirk",1.10,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,1,7,30,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,3,0,1.40,"Crowder, Jae",5.00,21.80
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,1,4,42,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",4,-5,0,0.80,"Ariza, Trevor",5.10,20.30
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,1,7,04,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,-2,0,0.70,"Gortat, Marcin",9.30,20.90
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,1,2,09,1,"Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",2,0,0,0.60,"Brand, Elton",2.90,12.50
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,3,8,44,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,3,0,0.00,"Bosh, Chris",2.30,9.70
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,4,10,03,0,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",0,-10,0,0.90,"Antetokounmpo, Giannis",2.10,12.10
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,2,4,00,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,-3,0,0.70,"Miles, CJ",5.40,10.10
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,4,4,31,1,"Dunk Shot","2PT Field Goal",1,"Sacramento Kings",-11,15,0,0.70,"Evans, Reggie",8.00,4.40
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,2,00,1,"Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",15,9,0,0.60,"Brooks, MarShon",3.10,19.00
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,8,44,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,-3,0,1.20,"Rubio, Ricky",7.50,20.30
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,3,49,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-2,0,0.60,"Williams, Mo",2.80,16.60
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,7,04,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",1,-2,0,0.60,"Lopez, Robin",5.10,17.10
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,3,13,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",12,3,0,0.60,"Raduljica, Miroslav",3.10,14.50
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,1,10,47,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",-2,0,1,1.40,"Jones, Terrence",6.60,5.60
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,4,0,19,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.70,"Miller, Quincy",2.50,5.60
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,3,01,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,0,0,0.80,"Cunningham, Dante",4.10,10.20
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,4,8,41,1,"Dunk Shot","2PT Field Goal",1,"Sacramento Kings",10,4,0,0.70,"Thornton, Marcus",5.70,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,3,8,37,1,"Dunk Shot","2PT Field Goal",2,"Sacramento Kings",26,14,0,0.70,"Thompson, Jason",6.20,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,1,54,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",4,-2,0,0.80,"Chandler, Wilson",3.60,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,3,19,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,11,0,0.50,"Irving, Kyrie",1.90,16.50
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,1,10,15,0,"Dunk Shot","2PT Field Goal",2,"Denver Nuggets",21,11,0,0.00,"Chandler, Wilson",2.10,20.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,4,9,30,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-169,23,1,1.70,"Antic, Pero",4.90,10.40
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,2,8,29,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Houston Rockets",84,25,1,3.80,"Motiejunas, Donatas",2.10,10.30
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,4,4,45,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",-24,66,0,0.70,"Sacre, Robert",0.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,4,10,10,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",-122,12,2,4.40,"Morris, Markieff",4.00,9.40
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,1,6,32,1,"Finger Roll Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-4,25,4,4.30,"Green, Danny",1.80,8.60
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,2,4,14,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-5,28,0,0.70,"Young, Nick",1.50,20.10
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,4,2,32,1,"Floating Jump shot","2PT Field Goal",3,"Atlanta Hawks",-2,34,1,1.50,"Millsap, Paul",1.90,12.00
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,10,20,1,"Floating Jump shot","2PT Field Goal",10,"Dallas Mavericks",-21,107,2,4.50,"Dalembert, Samuel",2.20,8.20
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,8,50,1,"Floating Jump shot","2PT Field Goal",5,"Miami Heat",39,36,1,1.10,"Bosh, Chris",2.40,16.50
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,1,6,05,1,"Floating Jump shot","2PT Field Goal",3,"San Antonio Spurs",7,39,1,3.20,"Ayres, Jeff",3.50,15.00
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,4,11,35,0,"Hook Shot","2PT Field Goal",11,"Los Angeles Clippers",-65,94,1,3.90,"Turkoglu, Hedo",2.50,9.30
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,11,08,1,"Hook Shot","2PT Field Goal",7,"Milwaukee Bucks",-71,22,0,0.50,"Wolters, Nate",3.00,13.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,11,46,1,"Hook Shot","2PT Field Goal",8,"Orlando Magic",-84,14,0,0.60,"Afflalo, Arron",3.70,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,8,02,0,"Hook Shot","2PT Field Goal",8,"Orlando Magic",77,28,0,0.50,"Maxiell, Jason",2.80,9.90
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,2,2,44,0,"Hook Shot","2PT Field Goal",5,"Philadelphia 76ers",47,31,0,1.00,"Hawes, Spencer",5.30,8.10
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,4,6,11,1,"Hook Shot","2PT Field Goal",4,"Orlando Magic",7,41,0,0.70,"Nicholson, Andrew",1.00,23.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,1,10,05,1,"Hook Shot","2PT Field Goal",4,"Phoenix Suns",48,7,1,1.80,"Green, Gerald",1.10,19.30
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,7,33,1,"Hook Shot","2PT Field Goal",13,"Miami Heat",135,0,1,1.60,"Bosh, Chris",2.00,18.70
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,4,10,00,0,"Hook Shot","2PT Field Goal",8,"Orlando Magic",-64,52,1,3.30,"Nicholson, Andrew",2.00,9.60
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,1,59,1,"Hook Shot","2PT Field Goal",7,"Los Angeles Clippers",70,4,0,0.90,"Griffin, Blake",2.80,7.70
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,3,2,57,1,"Hook Shot","2PT Field Goal",5,"Houston Rockets",48,17,0,0.50,"Howard, Dwight",2.30,10.30
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,1,9,19,0,"Hook Shot","2PT Field Goal",5,"San Antonio Spurs",-30,44,2,5.40,"Diaw, Boris",1.00,9.10
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,5,08,0,"Hook Shot","2PT Field Goal",5,"Washington Wizards",10,52,0,0.50,"Gortat, Marcin",1.40,15.00
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,6,26,0,"Hook Shot","2PT Field Goal",3,"New York Knicks",9,33,1,1.20,"Chandler, Tyson",3.10,9.40
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,0,47,1,"Hook Shot","2PT Field Goal",4,"Minnesota Timberwolves",-49,0,1,3.10,"Dieng, Gorgui",0.90,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,3,44,1,"Hook Shot","2PT Field Goal",6,"Denver Nuggets",-62,19,1,4.20,"Faried, Kenneth",1.90,4.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,10,20,1,"Hook Shot","2PT Field Goal",6,"Brooklyn Nets",-38,53,1,1.50,"Pierce, Paul",2.50,14.00
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,2,5,55,1,"Hook Shot","2PT Field Goal",3,"Minnesota Timberwolves",31,3,0,0.70,"Budinger, Chase",2.10,12.80
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,4,5,47,1,"Hook Shot","2PT Field Goal",8,"Washington Wizards",-34,77,1,5.40,Nene,1.30,7.30
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,4,1,46,0,"Hook Shot","2PT Field Goal",5,"Sacramento Kings",-52,25,1,1.70,"Gray, Aaron",2.10,17.20
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,6,04,1,"Jump Bank Shot","2PT Field Goal",4,"Cleveland Cavaliers",-40,19,1,3.50,"Thompson, Tristan",1.30,7.80
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,2,31,1,"Jump Bank Shot","2PT Field Goal",5,"Dallas Mavericks",-52,15,0,1.60,"Harris, Devin",0.60,7.80
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,2,11,24,1,"Jump Bank Shot","2PT Field Goal",5,"Phoenix Suns",37,36,1,2.40,"Morris, Markieff",0.30,8.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,4,0,08,0,"Jump Bank Shot","2PT Field Goal",7,"Denver Nuggets",-55,51,1,1.50,"Chandler, Wilson",2.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,10,44,1,"Jump Bank Shot","2PT Field Goal",6,"San Antonio Spurs",-68,12,1,6.00,"Diaw, Boris",1.40,6.80
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,1,0,16,1,"Jump Bank Shot","2PT Field Goal",18,"Sacramento Kings",24,181,1,1.60,"Thornton, Marcus",1.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,11,04,1,"Jump Bank Shot","2PT Field Goal",6,"Portland Trail Blazers",-62,11,1,2.00,"Wright, Dorell",1.60,12.60
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,1,4,49,1,"Jump Bank Shot","2PT Field Goal",4,"Phoenix Suns",-43,19,0,0.90,"Frye, Channing",1.60,4.20
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,4,6,23,1,"Jump Bank Shot","2PT Field Goal",21,"Miami Heat",-43,206,1,1.90,"Bosh, Chris",3.80,5.20
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,1,8,49,1,"Jump Hook Shot","2PT Field Goal",5,"Dallas Mavericks",6,56,1,4.00,"Dalembert, Samuel",3.50,11.30
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,1,7,40,0,"Jump Hook Shot","2PT Field Goal",8,"Los Angeles Lakers",-71,37,0,1.90,"Gasol, Pau",2.20,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,3,58,0,"Jump Hook Shot","2PT Field Goal",8,"Orlando Magic",51,67,0,0.60,"Nicholson, Andrew",1.60,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,1,50,0,"Jump Hook Shot","2PT Field Goal",5,"New York Knicks",-35,42,1,3.60,"Stoudemire, Amare",0.30,11.90
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,3,27,0,"Jump Hook Shot","2PT Field Goal",8,"Utah Jazz",-38,75,0,1.50,"Kanter, Enes",4.00,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,4,11,25,1,"Jump Hook Shot","2PT Field Goal",6,"Los Angeles Lakers",61,14,0,0.90,"Henry, Xavier",1.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,4,6,42,1,"Jump Hook Shot","2PT Field Goal",6,"Milwaukee Bucks",-40,47,3,3.60,"Pachulia, Zaza",3.70,12.30
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,9,30,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-56,-5,1,1.70,"Ayres, Jeff",0.90,10.10
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,1,11,45,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-48,26,0,1.00,"Thompson, Jason",2.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,2,5,49,1,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",-106,45,1,3.30,"Singler, Kyle",1.90,8.50
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,1,5,49,1,"Jump Shot","2PT Field Goal",3,"Orlando Magic",-5,34,0,0.90,"Davis, Glen",0.90,16.60
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,2,8,00,0,"Jump Shot","2PT Field Goal",5,"Orlando Magic",40,37,1,2.10,"Harris, Tobias",7.00,11.90
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,9,02,0,"Jump Shot","2PT Field Goal",3,"Orlando Magic",-27,14,0,0.80,"Harris, Tobias",0.70,11.50
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,1,3,29,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-97,102,1,2.00,"Zeller, Tyler",2.70,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,2,11,20,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",15,165,0,0.60,"Zeller, Tyler",3.50,8.80
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,2,3,31,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",-163,-28,0,0.90,"Thompson, Tristan",2.80,10.80
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,4,32,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-4,183,0,1.50,"Thompson, Tristan",5.20,7.50
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,4,5,37,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-60,33,2,5.00,"Bennett, Anthony",0.40,8.90
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,4,4,36,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-175,42,0,3.60,"Bennett, Anthony",4.50,8.70
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,4,3,31,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",141,-17,0,0.80,"Bennett, Anthony",4.50,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,1,7,34,1,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-153,7,0,1.10,"Noah, Joakim",6.40,10.30
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,1,3,04,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",4,214,0,0.00,"Noah, Joakim",3.90,12.10
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,6,24,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",6,197,0,0.80,"Noah, Joakim",4.80,13.80
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,4,8,12,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-177,4,1,4.30,"Noah, Joakim",4.40,8.70
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,4,4,47,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",1,187,0,0.40,"Noah, Joakim",5.80,15.10
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,4,3,26,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",127,134,0,3.60,"Gibson, Taj",5.20,9.20
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,1,10,19,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-101,101,0,1.20,"Diaw, Boris",4.60,14.00
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,4,14,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",-57,63,0,1.30,"Diaw, Boris",2.00,10.80
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,7,31,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",121,82,0,2.60,"Millsap, Paul",7.20,15.90
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,4,34,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-7,159,0,0.90,"Millsap, Paul",4.30,20.00
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,1,11,1,"Jump Shot","2PT Field Goal",3,"Atlanta Hawks",34,19,1,5.60,"Millsap, Paul",1.00,12.10
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,4,3,40,1,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-114,157,0,0.90,"Millsap, Paul",7.00,8.80
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,10,18,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-138,63,0,3.10,"Love, Kevin",4.00,15.00
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,2,1,53,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-155,3,0,0.80,"Turiaf, Ronny",4.90,11.80
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,4,5,12,1,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",-49,80,1,5.90,"Love, Kevin",2.80,9.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,8,19,1,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",147,37,0,0.70,"Blatche, Andray",5.30,13.50
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,6,44,1,"Jump Shot","2PT Field Goal",10,"Brooklyn Nets",50,97,0,0.90,"Blatche, Andray",5.60,8.90
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,3,7,22,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",4,209,0,0.80,"Chandler, Tyson",6.20,12.70
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,1,9,00,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-89,172,0,0.90,"McRoberts, Josh",5.90,13.50
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,1,7,13,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-105,146,1,3.70,"McRoberts, Josh",5.50,8.30
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,1,3,01,1,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",-43,4,1,6.60,"Zeller, Cody",1.90,5.00
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,3,9,10,1,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",39,94,1,2.00,"McRoberts, Josh",3.70,13.20
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,4,2,00,1,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-75,33,0,0.80,"Jefferson, Al",1.60,11.30
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,10,39,1,"Jump Shot","2PT Field Goal",15,"Washington Wizards",122,101,0,0.80,Nene,3.50,14.60
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,8,38,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",47,160,0,0.90,Nene,4.70,12.90
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,2,0,40,1,"Jump Shot","2PT Field Goal",13,"Washington Wizards",127,33,0,0.80,Nene,2.80,10.10
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,5,57,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-127,112,0,1.00,Nene,10.30,5.80
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,4,15,1,"Jump Shot","2PT Field Goal",22,"Washington Wizards",-40,222,0,0.90,Nene,4.80,8.40
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,9,06,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",89,181,0,0.80,"Paul, Chris",8.90,16.40
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,4,1,38,1,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",113,-13,0,0.60,"Hollins, Ryan",4.80,12.10
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,6,44,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-15,197,0,0.80,"Dalembert, Samuel",5.70,15.20
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,2,5,08,0,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-34,61,2,1.60,"Calderon, Jose",3.40,9.10
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,8,12,1,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-23,146,0,0.90,"Plumlee, Miles",4.60,19.80
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,4,25,1,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-144,-10,0,0.70,"Morris, Markieff",4.10,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,2,07,1,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",0,151,0,0.90,"Morris, Markieff",4.90,4.50
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,2,0,22,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",119,145,0,1.00,"Plumlee, Miles",4.70,13.80
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,3,10,24,1,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",-54,116,0,0.80,"Plumlee, Miles",6.00,10.60
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,3,9,43,1,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",105,102,1,3.40,"Plumlee, Miles",2.80,8.60
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,4,3,04,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",64,26,0,2.40,"Morris, Markieff",1.40,9.40
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,4,7,18,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-2,30,1,1.30,"Hollins, Ryan",4.10,12.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,2,0,14,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",155,22,0,0.80,"McLemore, Ben",7.50,8.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,2,0,00,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",152,74,1,1.20,"Thompson, Jason",5.20,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,2,4,59,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",122,145,1,1.80,"Thompson, Jason",2.40,5.10
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,3,9,41,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",159,12,1,1.40,"Cousins, DeMarcus",4.80,2.40
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,4,3,52,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-223,15,0,0.70,"Evans, Reggie",6.00,4.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,0,04,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-117,153,1,1.90,"Kelly, Ryan",4.80,2.90
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,2,5,15,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",86,168,0,0.80,"Gasol, Pau",5.30,17.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,3,4,28,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-69,171,0,1.00,"Kelly, Ryan",5.40,13.60
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,8,24,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-116,142,1,1.90,"Henson, John",5.30,6.80
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,2,0,36,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",241,82,0,0.90,"Middleton, Khris",5.70,7.80
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,4,10,20,1,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",39,140,0,0.70,"Sessions, Ramon",2.00,7.80
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,4,0,39,1,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",-38,7,0,0.50,"Adrien, Jeff",3.80,9.70
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,2,1,17,1,"Jump Shot","2PT Field Goal",4,"Denver Nuggets",9,48,1,4.30,"Vesely, Jan",1.90,8.80
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,8,09,1,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",130,9,0,0.90,"Faried, Kenneth",5.20,12.90
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,7,09,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",154,19,1,1.80,"Faried, Kenneth",3.20,13.30
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,1,31,1,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-157,44,0,3.90,"Faried, Kenneth",4.50,14.80
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,8,26,1,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",99,53,1,5.50,"Randolph, Zach",3.30,10.80
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,2,3,49,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-141,45,0,2.30,"Gasol, Marc",5.80,16.00
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,4,2,03,0,"Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",80,14,2,3.10,"Gasol, Marc",1.50,6.70
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,6,18,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-175,23,0,0.80,"Lopez, Robin",8.80,11.10
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,2,0,26,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-133,23,1,4.80,"Lopez, Robin",5.20,7.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,9,58,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-8,164,1,1.30,"Batum, Nicolas",5.30,15.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,6,07,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-16,156,0,1.20,"Wright, Dorell",4.80,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,4,10,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-56,127,0,0.90,"Lopez, Robin",5.20,10.30
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,3,36,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",23,172,0,0.80,"McCollum, CJ",6.30,14.20
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,8,41,1,"Jump Shot","2PT Field Goal",9,"Boston Celtics",83,47,1,2.00,"Bass, Brandon",2.40,8.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,0,49,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",48,183,0,0.80,"Humphries, Kris",5.10,8.50
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,7,36,1,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-35,172,2,2.50,"Antic, Pero",5.90,4.30
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,2,5,53,1,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-161,9,0,1.30,"Muscala, Mike",3.30,11.20
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,2,1,16,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-152,9,0,3.00,"Antic, Pero",3.50,7.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,3,8,18,1,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",37,135,0,0.80,"Antic, Pero",4.40,17.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,11,42,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",160,12,0,1.10,"Haslem, Udonis",4.00,9.30
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,2,51,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-5,165,1,1.80,"Andersen, Chris",6.50,15.90
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,2,0,18,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-2,151,1,1.90,"Haslem, Udonis",4.20,9.50
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,8,01,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",-161,11,0,0.80,"James, LeBron",11.60,1.40
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,4,3,02,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",111,167,0,0.90,"Haslem, Udonis",8.50,9.80
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,8,00,1,"Jump Shot","2PT Field Goal",3,"Brooklyn Nets",7,37,0,0.80,"Johnson, Joe",3.20,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,2,2,59,1,"Jump Shot","2PT Field Goal",12,"Brooklyn Nets",129,15,1,1.60,"Pierce, Paul",2.00,14.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,3,2,00,0,"Jump Shot","2PT Field Goal",8,"Brooklyn Nets",84,28,1,2.00,"Blatche, Andray",1.50,14.40
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,0,28,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-152,37,0,1.00,"Jordan, DeAndre",4.30,10.60
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,7,56,1,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",-16,72,2,4.30,"Griffin, Blake",3.00,5.40
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,6,00,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",146,50,1,1.50,"Griffin, Blake",3.90,5.50
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,4,5,48,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",6,116,3,6.60,"Griffin, Blake",1.50,2.60
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,1,9,59,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-164,0,4,6.40,"Evans, Reggie",3.80,5.30
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,2,0,36,1,"Jump Shot","2PT Field Goal",3,"Sacramento Kings",-2,37,1,3.70,"Gay, Rudy",1.90,6.80
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,3,10,41,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",146,99,0,1.20,"Evans, Reggie",6.00,6.00
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,3,9,17,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-123,127,0,0.90,"Evans, Reggie",8.00,8.80
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,3,5,33,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",86,105,1,4.40,"Evans, Reggie",4.10,10.80
+"Anthony Davis","New Orleans Pelicans",2014-04-02,2013,6583,1610612740,400489997,1,10,33,1,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",48,113,0,0.70,"Mozgov, Timofey",6.10,8.00
+"Anthony Davis","New Orleans Pelicans",2014-04-02,2013,6583,1610612740,400489997,1,9,10,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-147,39,0,3.40,"Mozgov, Timofey",5.50,5.00
+"Anthony Davis","New Orleans Pelicans",2014-04-02,2013,6583,1610612740,400489997,1,7,13,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",170,85,0,0.90,"Faried, Kenneth",13.40,6.40
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,7,48,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-37,127,2,3.50,"Aldridge, LaMarcus",5.40,12.30
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,5,54,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-90,179,0,4.80,"Aldridge, LaMarcus",4.30,14.10
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,3,11,19,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-59,126,0,0.80,"Lopez, Robin",5.60,6.30
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,1,9,39,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",2,61,1,1.70,"Mahinmi, Ian",1.80,14.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,1,7,09,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-112,162,0,1.10,"West, David",6.50,10.30
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,1,6,28,1,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-82,197,0,1.20,"West, David",4.60,14.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,2,3,48,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",195,26,0,0.90,"Mahinmi, Ian",4.20,3.60
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,3,4,50,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-185,83,2,5.40,"Allen, Lavoy",3.80,15.60
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,9,31,1,"Jump Shot","2PT Field Goal",9,"New York Knicks",91,4,0,0.60,"Martin, Kenyon",2.20,12.70
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,1,11,41,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-34,181,0,0.80,"Batum, Nicolas",5.80,9.00
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,2,9,23,0,"Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",-40,14,0,0.90,"Freeland, Joel",3.90,12.00
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,3,3,22,1,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",53,39,1,2.00,"Lopez, Robin",3.20,5.00
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,4,6,59,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-198,14,0,1.60,"Leonard, Meyers",4.80,2.30
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,4,5,01,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-5,184,0,1.00,"Aldridge, LaMarcus",6.20,16.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,1,2,32,1,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",-92,55,0,0.60,"Cousins, DeMarcus",3.70,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,3,5,26,1,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",24,139,0,0.70,"Mozgov, Timofey",7.30,20.10
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,2,2,15,1,"Jump Shot","2PT Field Goal",9,"Houston Rockets",91,14,0,0.80,"Parsons, Chandler",3.00,12.10
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,4,3,58,1,"Jump Shot","2PT Field Goal",18,"Houston Rockets",0,184,0,1.00,"Harden, James",9.90,11.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,2,7,49,1,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-2,67,1,4.40,"Leonard, Meyers",3.90,8.10
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,9,24,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",84,132,0,1.50,"Lopez, Robin",4.80,13.60
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,4,7,44,1,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-95,75,0,-0.20,"Aldridge, LaMarcus",3.60,5.90
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,10,53,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",154,83,0,0.00,,0.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,4,32,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",0,187,1,1.80,"Humphries, Kris",4.20,3.10
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,3,2,40,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",88,153,0,0.90,"Olynyk, Kelly",6.30,7.00
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,1,4,15,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-86,165,0,1.00,"West, David",4.40,6.30
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,3,8,46,1,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",-119,28,0,1.60,"Hibbert, Roy",3.30,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,9,25,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",132,83,1,2.20,"Lewis, Rashard",2.90,6.70
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,2,8,11,1,"Jump Shot","2PT Field Goal",4,"Miami Heat",17,37,0,0.90,"Beasley, Michael",1.80,23.30
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,3,10,38,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",-106,142,0,1.00,"Lewis, Rashard",3.90,6.20
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,4,7,35,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",196,-6,0,0.90,"Bosh, Chris",14.00,14.90
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,2,7,36,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-90,162,0,0.80,"Temple, Garrett",4.00,8.40
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,3,10,49,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",177,30,0,1.00,"Wall, John",7.00,5.40
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,0,24,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-240,19,0,0.80,"Gortat, Marcin",7.10,16.20
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,2,8,05,1,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-105,88,0,1.00,"Dalembert, Samuel",4.80,7.60
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,2,19,1,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",6,31,1,1.50,"Blair, DeJuan",1.40,11.90
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,4,4,41,0,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",6,41,1,6.30,"Blair, DeJuan",3.10,11.10
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,10,01,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-29,184,0,1.10,"Nowitzki, Dirk",5.60,7.80
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,7,09,0,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-139,165,0,-0.30,"Nowitzki, Dirk",3.20,0.80
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,6,04,1,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-56,145,0,0.90,"Calderon, Jose",3.20,14.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,2,6,48,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-152,36,1,3.40,"Bonner, Matt",2.80,10.90
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,2,0,42,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",23,146,1,1.70,"Duncan, Tim",3.60,6.10
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,7,00,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",110,78,1,6.80,"Diaw, Boris",6.90,9.00
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,1,4,34,1,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-139,72,0,1.00,"Howard, Dwight",5.90,15.30
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,1,3,09,1,"Jump Shot","2PT Field Goal",13,"Houston Rockets",-138,-8,1,4.00,"Casspi, Omri",1.60,10.20
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-8,246,0,0.60,"Jones, Terrence",4.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,3,10,30,1,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-122,97,0,1.00,"Howard, Dwight",6.60,6.50
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,4,6,54,1,"Jump Shot","2PT Field Goal",17,"Houston Rockets",4,172,0,0.90,"Motiejunas, Donatas",4.50,6.90
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,10,37,1,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",50,121,0,0.80,"Curry, Stephen",4.40,15.50
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,8,07,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",0,151,0,0.80,"Lee, David",4.50,16.70
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,7,07,1,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",53,88,0,0.70,"Bogut, Andrew",1.60,15.10
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,4,2,15,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",1,48,0,1.10,"Iguodala, Andre",0.70,10.70
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,2,30,1,"Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",-35,30,0,1.00,"Calathes, Nick",2.70,12.80
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,2,4,45,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",143,131,0,1.00,"Gasol, Marc",5.40,12.50
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,11,27,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-26,151,1,1.20,"Randolph, Zach",4.60,10.80
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,4,31,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",81,200,0,1.00,"Randolph, Zach",4.80,14.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,4,3,19,1,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",-138,6,0,0.80,"Randolph, Zach",7.90,10.50
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,4,0,35,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",151,11,0,0.50,"Conley, Mike",3.90,0.70
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,3,3,41,1,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",37,175,0,0.60,"Thompson, Jason",4.90,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,7,21,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-149,104,0,0.80,"Love, Kevin",3.90,12.00
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,2,5,35,0,"Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-57,82,1,3.20,"Leuer, Jon",2.00,11.60
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,5,00,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",20,58,0,1.00,"Lopez, Robin",1.80,13.90
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,3,7,13,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",45,186,0,0.80,"Love, Kevin",5.70,8.70
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,11,42,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-171,-11,0,0.90,"Gasol, Marc",14.60,9.40
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,1,32,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",94,149,0,0.90,"Young, Thaddeus",8.70,9.10
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,2,2,03,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-175,-3,0,1.10,"Gasol, Pau",4.20,3.20
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,2,2,11,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-75,135,0,0.80,"Kanter, Enes",9.70,8.20
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,3,5,12,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",-38,-8,1,1.60,"Hibbert, Roy",0.80,11.20
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,0,04,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-194,67,0,0.10,"Diaw, Boris",3.40,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,2,11,28,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-111,1,1,4.60,"Leonard, Meyers",2.10,11.70
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,3,40,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",6,173,0,1.00,"Oladipo, Victor",5.40,6.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,11,13,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",95,121,0,1.50,"Johnson, Wesley",4.40,3.40
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,1,00,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-119,142,0,1.00,"Sessions, Ramon",6.50,11.30
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,8,35,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",129,146,0,0.90,"Gasol, Marc",9.60,8.40
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,9,08,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-150,137,0,1.00,"Dalembert, Samuel",5.80,15.30
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,3,11,15,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",24,48,1,3.00,"Cousins, DeMarcus",2.80,3.10
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,1,9,01,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-11,165,1,5.20,"Favors, Derrick",4.50,6.20
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,3,18,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",94,135,0,0.80,"Williams, Mo",6.60,13.50
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,8,27,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-198,0,0,0.80,"Gasol, Marc",5.50,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,2,8,08,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-141,67,0,3.50,"Diaw, Boris",5.20,9.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,7,42,0,"Jump Shot","2PT Field Goal",7,"Utah Jazz",77,-6,1,2.10,"Kanter, Enes",1.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,3,6,48,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",12,88,0,0.90,"Gortat, Marcin",3.90,10.70
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,4,02,0,"Jump Shot","2PT Field Goal",15,"Boston Celtics",4,156,1,6.40,"Green, Jeff",3.70,12.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,1,36,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-87,153,0,0.90,"Lopez, Robin",5.70,14.90
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,0,39,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",75,167,0,0.80,"Smith, Ish",10.90,13.10
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,3,0,23,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",0,165,0,1.20,"Scola, Luis",4.50,14.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,11,08,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-37,168,0,0.80,"Millsap, Paul",6.30,17.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,2,2,15,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-4,192,0,1.50,"Plumlee, Mason",5.20,10.90
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,2,3,03,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",75,168,0,0.70,"Chandler, Tyson",5.60,10.90
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,5,18,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-125,99,1,1.30,"McCollum, CJ",3.60,3.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,3,2,41,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-136,7,1,4.70,"Sacre, Robert",1.90,10.10
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,7,09,0,"Jump Shot","2PT Field Goal",14,"Orlando Magic",-54,131,0,0.90,"Davis, Glen",5.50,10.40
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,9,09,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",34,102,0,0.80,"Sullinger, Jared",4.50,4.20
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,7,43,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",138,94,1,1.90,"Lewis, Rashard",4.30,16.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,10,50,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",173,55,0,1.00,"Chalmers, Mario",4.60,2.50
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,3,8,19,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-65,181,0,1.10,"Frye, Channing",5.70,7.30
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,6,02,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-164,36,0,2.50,"Lopez, Robin",5.10,4.30
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,4,18,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",152,101,0,0.80,"Humphries, Kris",4.50,8.70
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,1,4,18,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",7,190,0,1.00,"Carter, Vince",5.70,17.30
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,4,1,46,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-112,48,0,3.90,"Bennett, Anthony",3.60,8.70
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,1,1,31,0,"Jump Shot","2PT Field Goal",5,"Toronto Raptors",47,33,0,1.20,"Ross, Terrence",1.00,17.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,2,1,43,0,"Jump Shot","2PT Field Goal",6,"Orlando Magic",-67,1,1,1.30,"Nicholson, Andrew",3.20,10.90
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,6,53,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-152,1,0,0.70,"Shumpert, Iman",8.30,7.90
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,11,46,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",-76,22,0,0.60,"Faried, Kenneth",3.20,13.10
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,5,01,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-152,0,0,5.10,"Griffin, Blake",3.30,3.20
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,2,1,27,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",0,33,0,1.10,"Aldridge, LaMarcus",1.10,16.10
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,2,11,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",-51,47,1,1.50,"Ayres, Jeff",1.20,5.00
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,4,03,0,"Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",-10,56,0,0.00,"Barnes, Matt",1.20,23.60
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,2,27,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",116,80,1,3.40,"Cunningham, Dante",3.20,4.40
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,2,0,06,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-229,36,0,0.80,"Griffin, Blake",1.80,1.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,8,42,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-204,9,0,1.40,"West, David",4.40,10.30
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,1,5,24,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",2,183,0,0.80,"Favors, Derrick",8.70,7.70
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,4,02,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",62,7,0,0.60,"Turkoglu, Hedo",6.70,11.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,5,4,46,0,"Jump Shot","2PT Field Goal",15,"Boston Celtics",80,137,0,0.70,"Humphries, Kris",5.40,15.10
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,9,48,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",-5,131,1,4.20,"Haslem, Udonis",2.30,12.30
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,1,8,00,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",7,175,0,1.20,"Wroten, Tony",5.30,7.00
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,1,1,05,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",-54,3,1,1.40,"Hibbert, Roy",2.00,9.80
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,10,47,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-141,74,1,2.00,"Mozgov, Timofey",5.50,6.00
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,4,7,46,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",162,33,0,2.20,"McRoberts, Josh",4.30,5.50
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,3,5,37,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-120,97,1,2.40,"Davis, Ed",3.80,14.00
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,3,11,23,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",-30,17,0,0.70,"Mozgov, Timofey",2.60,10.40
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,4,0,15,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",50,31,3,5.10,"Aldridge, LaMarcus",1.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,2,5,13,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",18,189,0,1.60,"Millsap, Paul",4.90,13.40
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,1,6,31,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",92,108,0,0.80,"Monroe, Greg",4.60,8.50
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,2,5,58,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-27,160,0,0.90,"McRoberts, Josh",6.20,15.20
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,1,15,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",31,26,0,0.90,"Henson, John",1.30,19.30
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,4,2,41,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-130,78,1,3.80,"Johnson, Joe",3.90,2.70
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,4,4,53,0,"Jump Shot","2PT Field Goal",4,"San Antonio Spurs",0,45,0,0.90,"Bonner, Matt",1.60,17.60
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,4,6,16,0,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",147,28,0,3.00,"Hickson, JJ",1.80,3.00
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,2,28,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",54,184,1,1.30,"Griffin, Blake",5.60,12.50
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,4,7,30,0,"Jump Shot","2PT Field Goal",8,"Houston Rockets",80,26,1,2.60,"Motiejunas, Donatas",1.70,7.70
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,7,39,0,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",-97,50,0,1.40,"Hibbert, Roy",1.70,11.70
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,1,36,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-34,26,0,1.00,"Sims, Henry",0.50,7.30
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,3,10,26,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",26,168,0,1.10,"Plumlee, Mason",4.60,8.20
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,5,2,59,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",-57,36,0,0.00,"Brooks, Aaron",2.50,13.60
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,4,9,34,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-29,63,1,3.60,"Kelly, Ryan",3.90,7.40
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,1,21,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-194,30,0,3.80,"Plumlee, Mason",4.50,6.80
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,3,0,37,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-205,-5,0,0.00,"Johnson, Wesley",3.50,21.70
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,2,5,40,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-37,91,1,4.30,"Iguodala, Andre",0.80,4.50
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,1,58,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-56,168,0,0.70,"Nicholson, Andrew",9.70,9.20
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,3,10,15,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-153,91,2,3.70,"Griffin, Blake",4.00,7.20
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,2,56,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-8,86,0,0.40,"Dunleavy, Mike",1.20,8.20
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,4,0,30,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",121,172,0,0.80,"Davis, Ed",4.20,4.80
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,3,11,24,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-128,159,0,0.90,"Millsap, Paul",6.20,12.50
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,5,2,03,0,"Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-75,22,0,0.70,"Plumlee, Mason",4.60,5.80
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,7,30,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-114,11,0,5.10,"Davis, Glen",5.20,8.50
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,9,54,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-95,157,0,0.90,"Dalembert, Samuel",5.60,12.40
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,4,48,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-141,78,1,1.60,"Faried, Kenneth",5.10,23.30
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,3,7,01,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",129,149,0,0.80,"Frye, Channing",11.40,8.60
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,1,8,19,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-180,47,4,4.40,"Ilyasova, Ersan",5.10,8.40
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,4,1,48,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-117,148,0,1.20,Nene,3.50,6.70
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,10,44,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-161,47,0,1.10,"Pekovic, Nikola",6.20,6.80
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,1,9,19,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-175,9,0,1.00,"Valanciunas, Jonas",5.60,11.00
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,2,3,25,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",10,151,2,2.50,"Brown, Shannon",2.10,2.10
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,2,5,02,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-152,66,0,1.00,"Duncan, Tim",5.30,13.00
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,1,5,04,0,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",119,25,1,1.40,"Evans, Reggie",3.40,11.30
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,3,9,57,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-82,137,0,1.20,"Bosh, Chris",4.50,11.30
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,4,2,28,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",234,86,0,2.10,"Smith, Josh",2.80,4.30
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,3,8,49,0,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",160,22,0,2.50,"Thompson, Tristan",3.70,5.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,3,8,47,0,"Jump Shot","2PT Field Goal",9,"Houston Rockets",95,23,0,0.90,"Howard, Dwight",4.40,15.20
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,3,6,16,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",116,157,0,5.20,"Jefferson, Al",4.60,12.00
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,7,20,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",103,14,0,0.80,"Temple, Garrett",5.50,7.60
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,3,8,17,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-133,31,0,1.10,"Cousins, DeMarcus",3.10,15.40
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,11,14,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-172,53,0,1.00,"Griffin, Blake",4.00,7.10
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,1,2,18,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",75,26,2,3.20,"Cousins, DeMarcus",2.80,9.30
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,10,37,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",56,187,0,0.80,"Bass, Brandon",8.20,7.20
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,10,36,0,"Jump Shot","2PT Field Goal",11,"Atlanta Hawks",61,101,0,0.80,"Millsap, Paul",4.10,7.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,1,03,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",143,12,1,1.50,"Leonard, Kawhi",5.20,2.10
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,3,11,18,0,"Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",72,86,1,5.40,"Love, Kevin",1.90,4.90
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,4,5,32,0,"Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-21,102,1,1.70,"Blatche, Andray",4.50,8.10
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,2,55,0,"Jump Shot","2PT Field Goal",7,"Orlando Magic",40,63,0,4.00,"Moore, ETwaun",2.60,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,1,4,11,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",133,75,0,4.00,"Zeller, Cody",3.60,3.60
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,3,9,23,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",4,192,0,0.80,"Gasol, Pau",5.30,12.30
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,3,9,18,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-45,22,0,0.80,"Cousins, DeMarcus",1.90,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,5,04,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",119,149,0,1.60,"Nicholson, Andrew",5.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,1,53,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",31,176,0,1.10,"Andersen, Chris",3.90,5.90
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,3,20,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",-32,44,1,1.80,"Love, Kevin",2.40,9.20
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,1,10,28,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",155,63,0,0.60,"Thompson, Jason",4.10,0.70
+"Anthony Davis","New Orleans Pelicans",2014-03-28,2013,6583,1610612740,400489955,1,11,16,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",108,157,0,5.10,"Favors, Derrick",2.20,4.70
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,7,44,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",-116,22,0,0.70,"Ariza, Trevor",4.20,9.70
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,1,5,14,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",174,22,0,0.40,"Morris, Markieff",6.50,8.20
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,1,23,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-141,64,0,3.90,"Morris, Markieff",4.90,3.10
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,1,8,38,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",64,159,0,0.90,"Frye, Channing",14.00,10.30
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,9,03,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",10,45,1,1.20,"Thompson, Tristan",1.30,20.10
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,1,8,58,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",34,11,1,3.80,"Mahinmi, Ian",3.00,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,1,10,45,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-168,4,0,0.80,"Davis, Glen",3.60,11.80
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,8,30,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",54,170,0,3.90,"Plumlee, Miles",4.90,7.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,2,1,28,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",-54,47,0,1.00,"Morris, Markieff",1.90,9.40
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,9,18,0,"Jump Shot","2PT Field Goal",11,"Phoenix Suns",-101,50,0,4.90,"Plumlee, Miles",1.90,9.10
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,7,58,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",133,22,0,0.90,"Gortat, Marcin",6.00,18.50
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,4,7,03,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",0,132,0,0.70,"Aldridge, LaMarcus",5.50,10.00
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,1,7,59,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",10,153,1,2.00,"Evans, Reggie",5.10,7.40
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,4,3,42,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-187,6,0,0.70,"Hansbrough, Tyler",3.90,16.40
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,0,47,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-18,146,0,0.90,"Ayres, Jeff",7.30,10.60
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,2,4,01,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-139,75,2,5.40,"Morris, Markieff",2.40,2.90
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,4,5,40,0,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",116,39,0,4.00,"Drummond, Andre",5.70,11.90
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,1,11,39,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-131,45,0,2.70,"Carter-Williams, Michael",2.60,9.60
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,3,5,12,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",58,175,0,0.90,"Wall, John",10.40,11.20
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,2,8,31,0,"Jump Shot","2PT Field Goal",12,"Orlando Magic",-67,108,0,0.80,"Vucevic, Nikola",5.40,14.40
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,4,3,46,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",-112,9,3,4.50,"Chandler, Wilson",0.60,8.20
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,0,10,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",72,15,1,2.00,"Diaw, Boris",2.70,5.30
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,3,09,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-138,12,0,0.80,"Wright, Brandan",3.00,13.30
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,7,56,0,"Jump Shot","2PT Field Goal",7,"Boston Celtics",-11,74,1,2.20,"Humphries, Kris",2.10,6.30
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,3,10,48,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-106,149,1,1.30,"West, David",3.80,7.60
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,10,20,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",4,172,0,1.00,"Robinson, Thomas",3.10,4.90
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,1,52,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-2,50,1,3.60,"Duncan, Tim",2.90,6.80
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,2,9,07,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-155,55,3,4.10,"Dalembert, Samuel",4.50,8.00
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,11,07,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",6,146,0,0.70,"Matthews, Wesley",6.60,11.00
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,3,4,18,0,"Jump Shot","2PT Field Goal",9,"Denver Nuggets",-97,7,0,0.70,"Randolph, Anthony",8.80,8.90
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,2,7,43,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-205,36,0,0.80,"Scola, Luis",6.90,7.40
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,1,6,16,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",58,168,0,2.20,"Young, Thaddeus",5.70,11.30
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,2,29,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-146,89,1,1.60,"Randolph, Zach",5.10,10.10
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,4,10,40,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-19,34,0,3.40,"Drummond, Andre",1.70,5.20
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,10,11,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",-103,42,1,1.80,Nene,4.30,9.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,4,2,12,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-114,75,0,7.70,"Cousins, DeMarcus",3.70,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,9,40,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-168,101,0,1.20,"Garnett, Kevin",5.80,11.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,1,8,22,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-10,176,0,0.80,"Frye, Channing",5.40,7.80
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,8,24,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",129,52,1,3.20,"Bynum, Andrew",3.40,9.90
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,3,6,58,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",83,149,0,1.30,"Lopez, Robin",7.10,5.00
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,3,59,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-98,160,0,2.00,"Aldridge, LaMarcus",4.50,13.20
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,4,6,04,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-37,164,1,1.50,"Bonner, Matt",8.20,4.80
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,3,7,48,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",144,15,0,1.20,"Jordan, DeAndre",4.20,9.00
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,6,40,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-49,170,0,1.10,"Martin, Kenyon",5.10,11.40
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,2,6,34,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-76,172,0,1.20,"Love, Kevin",5.80,6.40
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,10,26,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",6,63,3,4.30,"Griffin, Blake",2.60,8.00
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,3,7,58,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-87,148,0,3.60,"Zeller, Cody",4.20,9.70
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,8,51,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-166,60,0,1.00,"Young, Nick",5.30,16.20
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,7,52,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-37,189,0,0.90,"Dalembert, Samuel",6.30,6.90
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,2,2,02,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",171,102,0,1.10,"Gasol, Marc",5.70,10.50
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,4,5,47,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",179,7,0,0.70,"Millsap, Paul",4.20,4.20
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,4,3,30,0,"Jump Shot","2PT Field Goal",11,"Houston Rockets",116,-3,3,8.70,"Harden, James",1.90,4.10
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,11,46,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",151,1,0,0.80,"Dalembert, Samuel",4.80,12.30
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,1,8,44,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-4,157,0,0.80,"Carroll, DeMarre",6.40,13.40
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,0,57,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",15,167,0,1.00,"Scola, Luis",5.70,9.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,4,9,09,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-111,135,0,0.90,"Scola, Luis",3.50,13.10
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,7,37,0,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-32,53,0,0.20,"Tucker, PJ",1.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,5,02,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-119,160,0,0.90,"Millsap, Paul",5.60,2.50
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,6,33,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",28,192,1,2.00,"Faried, Kenneth",4.60,13.90
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,10,06,0,"Jump Shot","2PT Field Goal",3,"Brooklyn Nets",29,14,0,1.50,"Williams, Deron",2.40,22.70
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,1,8,11,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-141,108,0,1.00,"Noah, Joakim",5.20,10.20
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,2,4,13,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-119,119,0,0.90,"Gasol, Pau",6.60,13.90
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,3,3,03,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-117,61,1,3.80,"Lopez, Robin",3.70,10.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,3,8,17,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-45,37,0,2.20,"McLemore, Ben",2.90,13.40
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,1,9,46,0,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",-34,11,1,2.60,"Dalembert, Samuel",0.90,8.50
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,4,8,40,0,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",75,86,0,0.80,"Thomas, Isaiah",3.20,15.10
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,4,9,32,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",37,179,0,0.90,"Burks, Alec",4.30,12.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,2,0,48,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-163,91,1,1.40,"Patterson, Patrick",4.00,8.20
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,2,05,0,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",64,34,1,2.60,"Collison, Darren",1.10,11.10
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,2,39,0,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",45,56,1,5.30,"Randolph, Zach",0.60,12.10
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,11,26,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",29,178,0,0.70,"Wright, Dorell",2.80,12.00
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,1,26,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",0,75,0,0.00,"Hawes, Spencer",4.60,22.80
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,0,09,0,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-226,-10,0,0.70,"Ginobili, Manu",3.40,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,4,3,02,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",116,153,0,1.90,"Gortat, Marcin",5.20,2.60
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,7,40,0,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",-56,20,1,1.90,"Gasol, Marc",0.90,12.90
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,1,09,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",4,37,2,4.00,"Aldridge, LaMarcus",3.20,9.10
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,3,3,25,0,"Jump Shot","2PT Field Goal",12,"Atlanta Hawks",86,97,0,0.50,"Scott, Mike",2.10,6.50
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,1,8,07,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-43,157,0,0.80,"Davis, Glen",5.10,9.10
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,6,55,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-179,77,0,1.00,"Chalmers, Mario",11.60,11.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,3,4,17,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",39,187,0,2.20,"Scott, Mike",4.90,9.70
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,3,11,43,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-153,30,0,1.10,"McRoberts, Josh",6.70,9.90
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,10,39,0,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",-23,25,1,2.20,"Nowitzki, Dirk",3.60,5.80
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,0,30,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",77,181,0,0.90,"Jordan, DeAndre",5.10,8.60
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,1,11,51,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",70,135,0,0.80,"Meeks, Jodie",3.60,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,11,14,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",166,50,0,1.10,"Bynum, Andrew",9.40,10.10
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,4,7,37,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",47,96,0,1.00,"Wright, Brandan",5.90,11.30
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,4,3,39,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",105,154,0,2.60,"Henson, John",5.30,12.10
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,5,19,0,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-52,31,2,4.20,"Morris, Markieff",1.70,12.80
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,1,6,12,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-134,23,0,1.80,"Thompson, Jason",3.60,9.70
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,8,44,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",7,167,0,0.90,"Bradley, Avery",6.90,11.70
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,3,9,28,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",0,116,0,0.80,"Lee, David",3.10,13.60
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,2,8,29,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",124,151,0,0.80,"Griffin, Blake",8.80,10.10
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,7,00,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-155,36,5,8.00,Nene,3.50,2.30
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,1,3,19,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",154,80,0,1.20,"Thompson, Hollis",9.50,4.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,2,6,35,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",-125,80,0,1.30,"James, LeBron",3.60,3.00
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,1,3,20,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-158,69,0,3.60,"Frye, Channing",4.30,8.30
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,4,3,44,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-131,33,0,0.90,"Cousins, DeMarcus",4.40,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,3,57,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-52,78,1,1.50,"Wright, Dorell",1.50,9.70
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,6,55,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",4,55,1,2.20,"Hawes, Spencer",1.10,4.40
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,9,11,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",105,137,1,0.80,"Pachulia, Zaza",6.80,8.60
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,4,5,48,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",105,129,0,1.30,"Bosh, Chris",4.40,9.40
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,8,54,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",207,-16,0,0.70,"Kanter, Enes",4.60,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,1,04,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-2,30,0,0.00,"Griffin, Blake",2.20,12.20
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,8,23,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-76,123,0,0.80,"Bradley, Avery",4.20,14.20
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,2,2,37,0,"Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-2,61,1,3.40,"Gasol, Marc",3.30,8.30
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,3,9,30,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-54,189,0,0.90,"Griffin, Blake",4.30,10.40
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,4,7,00,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",24,42,1,4.60,"Griffin, Blake",1.70,3.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,1,1,11,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-139,1,1,4.20,"Kravtsov, Viacheslav",3.80,4.60
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,3,11,16,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",155,-24,0,0.80,"Ilyasova, Ersan",4.20,10.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,2,04,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-117,82,1,1.60,"Sullinger, Jared",2.60,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,2,4,42,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",6,52,1,3.80,"Thompson, Jason",4.00,9.00
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,5,40,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-150,-8,0,0.70,"Griffin, Blake",3.30,9.80
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,4,10,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-133,82,1,1.70,"Nowitzki, Dirk",3.60,14.00
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,1,10,58,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",64,175,0,0.80,"Thompson, Tristan",4.40,11.50
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,3,5,28,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",10,121,1,2.00,"Kelly, Ryan",1.60,7.30
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,2,6,45,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-191,26,1,2.80,"Hill, Jordan",3.40,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,3,8,04,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",-152,22,0,1.30,"Patterson, Patrick",3.20,15.30
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,3,2,36,0,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-164,42,0,-0.50,"Scott, Mike",7.00,13.10
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,1,8,21,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",-228,-2,0,1.30,"Jordan, DeAndre",9.00,7.60
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,1,5,37,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",67,124,2,4.20,"Monroe, Greg",3.40,10.90
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,3,50,0,"Jump Shot","2PT Field Goal",7,"Utah Jazz",15,74,0,0.40,"Hayward, Gordon",2.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,2,0,55,0,"Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-8,101,2,2.60,"Teletovic, Mirza",2.40,10.50
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,1,8,17,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-18,75,2,2.20,"Hawes, Spencer",3.90,23.10
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,4,8,23,0,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",69,119,0,2.00,"Bonner, Matt",4.30,10.00
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,9,52,0,"Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",48,48,1,5.20,"Pekovic, Nikola",2.90,6.20
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,8,03,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-40,153,0,1.00,"Diaw, Boris",6.30,7.80
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,2,11,37,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-10,157,1,5.60,"Hollins, Ryan",5.40,4.10
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,1,1,58,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",147,15,0,1.00,"Thompson, Jason",5.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,4,2,49,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-232,-2,0,0.80,"Acy, Quincy",4.50,7.00
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,1,5,32,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",122,97,1,3.40,"Duncan, Tim",5.80,8.70
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,9,24,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-10,44,0,0.50,"Kanter, Enes",1.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,2,3,08,0,"Jump Shot","2PT Field Goal",9,"Orlando Magic",67,71,1,1.80,"Davis, Glen",3.20,8.10
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,2,9,50,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",17,50,1,1.20,"Speights, Marreese",3.60,11.90
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,1,7,12,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",-146,7,2,5.30,"Lee, David",2.60,8.60
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,10,35,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-97,85,0,0.90,"Wright, Dorell",2.20,17.50
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,3,5,58,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",7,198,0,0.80,"Aldridge, LaMarcus",4.50,14.80
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,6,36,0,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-11,162,0,0.90,"Millsap, Paul",6.10,16.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,3,50,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-175,85,0,1.10,"Kanter, Enes",6.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,1,1,34,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",1,30,1,7.30,"Bonner, Matt",0.10,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,2,2,12,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",159,1,1,3.60,"Thompson, Jason",2.30,7.20
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,4,1,19,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",53,164,0,0.80,"Allen, Ray",5.10,3.40
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,2,2,20,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",-59,116,0,0.70,Nene,2.40,16.00
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,4,5,09,0,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",-103,67,1,1.40,"West, David",3.80,12.50
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,4,0,50,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",37,23,1,2.10,"Plumlee, Miles",1.30,19.10
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,4,7,53,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-164,-3,1,4.80,"Johnson, James",2.90,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,3,8,52,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-136,69,0,1.10,"Smith, Josh",2.90,9.10
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,2,5,22,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-89,22,2,6.20,"Lopez, Robin",3.20,6.80
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,3,9,47,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-131,157,0,0.90,"Aldridge, LaMarcus",6.50,14.90
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,1,1,15,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-68,53,3,6.10,"Zeller, Cody",2.70,4.80
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,1,7,51,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-160,93,0,2.40,"Lopez, Robin",5.50,8.40
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,4,6,05,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",20,138,0,0.90,"McCallum, Ray",12.00,7.20
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,2,2,23,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",-27,213,0,2.40,"Lee, David",3.90,2.20
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,4,3,37,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",103,138,1,1.40,"Kelly, Ryan",5.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,3,7,09,0,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",53,36,5,5.40,"Dalembert, Samuel",3.20,4.40
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,3,3,50,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",133,102,0,1.00,"Kaman, Chris",11.30,16.90
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,1,9,47,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-153,39,0,4.20,"Thompson, Jason",4.00,2.50
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,3,2,44,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-27,22,0,1.30,"Griffin, Blake",9.00,9.80
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,10,45,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",72,197,0,1.80,"Plumlee, Mason",4.20,6.40
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,6,57,0,"Jump Shot","2PT Field Goal",12,"Brooklyn Nets",-114,60,5,10.20,"Plumlee, Mason",2.50,7.70
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,1,11,14,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",201,-24,0,0.00,"Favors, Derrick",4.20,7.30
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,4,8,19,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-68,132,1,1.70,"Garrett, Diante",3.50,4.40
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,1,9,54,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-70,134,0,0.90,"McRoberts, Josh",5.10,17.50
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,1,5,22,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",151,60,0,0.80,"McRoberts, Josh",4.70,11.00
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,1,1,56,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-134,135,0,0.70,"Zeller, Cody",4.90,11.90
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,3,6,43,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-23,187,0,0.80,"Tolliver, Anthony",4.00,12.80
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,2,7,11,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",61,179,0,0.80,"Morris, Markieff",4.90,14.80
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,2,0,18,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",140,42,0,0.50,"Morris, Markieff",2.60,1.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,7,10,1,"Jump Shot","2PT Field Goal",10,"Phoenix Suns",-100,15,0,0.90,"Plumlee, Miles",2.90,10.80
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,1,6,06,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-49,149,1,1.70,"Gasol, Marc",4.00,14.50
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,1,5,16,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",108,176,0,0.90,"Gasol, Marc",5.80,9.60
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,3,6,39,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-182,-3,0,0.90,"Davis, Ed",6.10,10.80
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,9,19,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-109,145,0,1.00,"Kaman, Chris",3.90,11.80
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,5,15,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",162,77,0,0.70,"Kaman, Chris",4.90,10.30
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,3,7,18,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-16,195,0,1.70,"Gasol, Pau",5.60,11.30
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,1,7,15,1,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",-82,143,0,0.90,"Plumlee, Miles",9.20,6.20
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,1,6,47,0,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",64,14,0,0.50,"Plumlee, Miles",2.50,17.30
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,3,1,23,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",0,64,0,1.00,"Christmas, Dionte",2.40,14.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,2,20,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",86,176,0,0.90,"Williams, Marvin",5.20,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,1,14,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",0,187,0,1.00,"Favors, Derrick",5.40,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,1,6,56,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",7,135,0,0.40,"Hawes, Spencer",1.60,19.10
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,3,9,34,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-30,189,0,3.80,"Young, Thaddeus",3.00,5.90
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,1,7,52,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-62,129,0,1.30,"Favors, Derrick",5.40,8.00
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,2,7,23,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",171,4,0,2.50,"Favors, Derrick",4.30,5.10
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,1,11,25,1,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",185,67,0,0.80,"Splitter, Tiago",7.40,11.80
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,1,8,40,1,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",-133,9,0,3.30,"Barnes, Harrison",2.60,11.10
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,3,46,1,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-116,66,0,2.00,"Hawes, Spencer",3.80,16.80
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,2,2,04,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-19,14,0,0.00,"Duncan, Tim",2.70,16.10
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,2,4,08,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",13,4,0,1.00,"Nicholson, Andrew",3.60,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,10,19,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",-7,0,0,0.50,"Maxiell, Jason",1.90,11.40
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,10,43,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",1,1,0,1.30,"Maxiell, Jason",2.00,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,2,20,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",0,11,0,0.20,"OQuinn, Kyle",0.40,24.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,9,03,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,7,0,0.00,"Hibbert, Roy",1.90,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,1,10,25,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,6,0,0.60,"McRoberts, Josh",3.20,10.70
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,3,2,49,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-7,12,1,5.80,"Millsap, Paul",2.30,9.60
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,4,2,51,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",-21,9,1,2.10,"Chandler, Tyson",1.20,12.10
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,3,3,20,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-18,11,0,0.90,"Sessions, Ramon",2.20,17.60
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,3,1,26,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,3,1,5.30,"Evans, Reggie",1.40,11.00
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,4,10,29,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-23,17,2,2.30,"Davis, Glen",3.40,4.00
+"Anthony Davis","New Orleans Pelicans",2013-11-05,2013,6583,1610612740,400488928,3,11,00,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,11,0,0.60,"Plumlee, Miles",3.00,18.70
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,3,7,16,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-23,17,2,1.80,"Evans, Reggie",2.30,15.40
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,1,7,41,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,-2,0,0.80,"Ilyasova, Ersan",2.60,9.80
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,1,31,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",20,-3,0,0.60,"Nicholson, Andrew",5.10,9.70
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,4,3,29,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",13,-6,1,4.90,"Koufos, Kosta",1.50,11.10
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,11,00,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-24,25,0,0.80,"Kaman, Chris",4.20,23.80
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,1,39,0,"Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",-11,31,0,0.80,"Adrien, Jeff",2.40,23.90
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,1,9,10,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,0,0,1.00,"Pachulia, Zaza",1.70,10.70
+"Anthony Davis","New Orleans Pelicans",2014-03-31,2013,6583,1610612740,400489981,2,1,55,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",6,22,0,5.10,"Cousins, DeMarcus",1.20,10.40
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,2,4,03,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,12,1,6.40,"Griffin, Blake",1.80,4.10
+"Anthony Davis","New Orleans Pelicans",2014-04-02,2013,6583,1610612740,400489997,2,8,06,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-23,17,0,0.60,"Foye, Randy",3.90,14.30
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,4,43,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-26,6,0,1.20,"Paul, Chris",1.20,8.30
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,4,1,33,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",17,19,0,0.90,"Meeks, Jodie",3.40,20.60
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,4,30,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",23,7,0,0.20,"Afflalo, Arron",2.40,13.00
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,1,5,59,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-10,19,0,0.70,"Gay, Rudy",2.10,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,3,7,53,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,4,0,0.00,"Plumlee, Miles",1.30,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,3,4,54,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-26,11,1,1.30,"Morris, Markieff",1.70,13.30
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,9,37,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-16,12,0,0.80,"Livingston, Shaun",4.10,2.40
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,9,54,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-4,23,0,0.00,"Lucas III, John",2.50,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,9,57,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",17,-9,0,0.00,"Burks, Alec",2.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,6,23,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-16,3,0,1.00,"James, LeBron",2.00,8.90
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,1,11,32,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",6,19,0,0.00,"Young, Thaddeus",1.90,20.80
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,8,34,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-7,11,1,1.20,"James, LeBron",4.50,5.90
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,3,43,0,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",-4,9,1,3.40,"Boozer, Carlos",1.70,14.30
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,3,6,48,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-10,17,0,1.00,"Anderson, James",1.60,21.50
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,2,6,50,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-8,7,0,0.80,"Favors, Derrick",3.00,9.60
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,2,3,02,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-18,12,0,0.80,"Kanter, Enes",1.10,18.10
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,3,8,57,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,6,0,1.20,"Favors, Derrick",1.70,20.80
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,3,4,09,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-24,1,1,4.40,"Evans, Jeremy",2.20,10.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,1,4,44,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",21,4,1,1.20,"Millsap, Paul",1.50,11.30
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,3,4,44,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-16,-17,0,0.60,"Hibbert, Roy",4.20,5.90
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,1,2,24,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",11,-5,0,2.20,"Duncan, Tim",2.30,13.60
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,4,3,46,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",17,7,1,1.50,"Duncan, Tim",1.20,7.10
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,0,40,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",0,12,0,0.80,"Sullinger, Jared",2.00,15.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,1,05,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-10,11,1,1.50,"Sullinger, Jared",1.70,7.70
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,5,23,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-2,15,0,1.20,"Bass, Brandon",3.70,19.20
+"Anthony Davis","New Orleans Pelicans",2014-03-26,2013,6583,1610612740,400489939,3,8,38,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-15,9,1,1.60,"Griffin, Blake",1.60,11.30
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,2,10,1,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-5,0,0,0.60,"Anderson, James",2.00,9.10
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,3,34,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-10,22,0,1.00,"Lopez, Robin",1.60,14.90
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,2,3,40,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-21,3,2,2.80,"Wright, Dorell",1.20,7.10
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,2,2,45,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",18,23,1,3.50,"Wright, Dorell",2.30,9.00
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,2,3,43,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-4,22,0,0.90,"Dudley, Jared",2.00,1.30
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,1,8,49,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-15,6,1,4.30,"Wright, Dorell",1.50,12.00
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,4,5,53,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",26,6,0,0.90,"Miller, Mike",2.50,19.70
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,3,0,22,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",4,26,0,0.70,"Jordan, DeAndre",2.80,17.90
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,4,2,37,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-8,25,0,0.00,"Dudley, Jared",2.60,17.80
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,1,11,43,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,-3,0,0.00,"Pachulia, Zaza",3.90,9.70
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,11,39,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-18,0,0,0.70,"Prince, Tayshaun",0.60,6.80
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,3,10,12,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,-8,0,0.60,"Batum, Nicolas",1.90,7.20
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,9,01,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,0,0,0.00,"Hibbert, Roy",0.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,6,19,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",23,11,1,1.40,"Duncan, Tim",1.00,13.20
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,4,2,41,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,7,3,7.90,"Love, Kevin",2.10,5.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,2,1,08,1,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",29,17,0,0.40,"Cousins, DeMarcus",0.90,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,3,5,21,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-15,9,1,1.60,"Thompson, Jason",2.60,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,4,3,11,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,9,1,2.20,"Adrien, Jeff",1.50,7.60
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,3,11,22,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",21,9,0,0.40,"Hamilton, Jordan",2.50,8.90
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,2,5,42,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",17,11,0,0.30,"Mozgov, Timofey",4.80,20.20
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,4,24,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-8,9,0,1.60,"Nelson, Jameer",2.00,23.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,0,30,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-8,11,1,3.60,"Henson, John",2.10,6.20
+"Anthony Davis","New Orleans Pelicans",2013-12-27,2013,6583,1610612740,400489305,4,2,12,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-21,6,0,1.60,"Hickson, JJ",1.70,18.60
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,1,10,07,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",26,1,0,0.70,"Jones, Terrence",0.60,10.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,2,3,35,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-15,11,0,0.70,"Howard, Dwight",1.70,23.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,2,1,41,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-2,28,1,1.40,"Pachulia, Zaza",1.90,11.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,2,7,49,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-19,20,1,1.80,"Antetokounmpo, Giannis",1.90,12.90
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,3,10,51,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",21,0,4,4.50,"Duncan, Tim",2.40,20.70
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,7,09,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-16,9,0,0.40,"Lopez, Robin",1.50,10.90
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,2,44,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-18,20,1,2.20,"Adrien, Jeff",1.70,15.30
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,3,40,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,1,0,1.00,"Aldridge, LaMarcus",1.90,10.00
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,4,2,13,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,0,1,1.70,"Howard, Dwight",1.10,10.90
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,2,5,59,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,7,1,4.90,"Lopez, Robin",1.40,10.50
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,4,11,22,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",-8,29,0,0.20,"Gay, Rudy",1.10,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,1,4,41,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",12,17,0,2.20,"Adrien, Jeff",0.90,13.30
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,4,3,22,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",23,1,0,0.50,"Johnson, Wesley",3.00,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,4,3,00,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,15,0,0.60,"Aldridge, LaMarcus",2.50,12.40
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,8,17,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",7,-2,0,0.00,"Pekovic, Nikola",5.10,18.40
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,6,16,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,7,0,1.00,"Rubio, Ricky",2.80,21.50
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,2,2,57,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",26,11,1,1.80,"Diaw, Boris",1.30,11.00
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,3,27,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-24,12,2,5.40,"Crawford, Jordan",2.90,13.30
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,4,0,11,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-19,14,0,0.70,"Cousins, DeMarcus",0.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,4,8,58,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",17,1,0,0.00,"Sullinger, Jared",2.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,4,4,12,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,0,0,0.00,,0.00,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,4,5,47,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",23,15,0,0.70,"Davis, Glen",1.40,10.80
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,2,3,28,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",18,9,0,0.70,"Wright, Brandan",2.20,23.80
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,4,4,11,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,3,0,1.00,"West, David",2.90,18.00
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,1,6,54,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-16,3,0,0.90,"Love, Kevin",2.30,11.70
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,5,05,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",-5,4,0,0.00,"Bosh, Chris",2.60,5.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,1,9,35,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",11,9,0,0.00,"West, David",2.00,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,3,3,39,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",20,6,0,0.90,"Varejao, Anderson",2.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,3,9,16,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-11,25,1,2.00,"Griffin, Blake",3.60,4.20
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,3,5,39,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",24,1,1,3.50,"Thompson, Jason",1.20,7.50
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,8,11,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-10,4,0,4.90,"Vesely, Jan",3.60,3.70
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,4,6,03,1,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-21,9,1,1.70,"Vesely, Jan",0.40,16.60
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,4,11,45,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",24,-6,0,0.40,"Dragic, Goran",2.20,11.30
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,3,5,49,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,4,0,0.80,"Tucker, PJ",1.00,6.10
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,4,1,49,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",28,-2,0,0.80,"Dragic, Goran",1.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,1,9,49,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",6,-3,0,0.60,"Frye, Channing",8.00,20.60
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,2,5,37,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-23,4,0,0.70,"Jordan, DeAndre",2.50,7.10
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,4,2,15,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",17,3,0,0.00,"Griffin, Blake",1.20,23.10
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,2,9,49,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-13,17,0,0.60,"Dalembert, Samuel",2.50,6.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,0,01,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",7,14,0,1.40,"Davis, Ed",1.70,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,9,44,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",12,9,0,0.90,"Gortat, Marcin",2.80,20.00
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,3,3,29,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-13,4,1,1.60,"Smith, Josh",3.10,7.90
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,4,46,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",12,4,0,0.00,"Carter, Vince",1.00,8.90
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,1,7,36,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,1,0,0.50,"Gortat, Marcin",1.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,4,1,35,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,4,1,3.20,"Randolph, Zach",2.30,8.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,4,23,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-4,23,0,1.50,"Duncan, Tim",1.20,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,4,4,04,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-27,11,1,1.70,"Jefferson, Al",1.60,8.80
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,1,7,46,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,7,0,1.00,"Monroe, Greg",1.90,20.70
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,1,2,15,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",21,4,1,5.60,"Casspi, Omri",5.70,13.20
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,4,1,53,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-23,0,0,0.80,"Morris, Markieff",2.60,10.00
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,2,2,17,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-5,11,0,1.20,"Kidd-Gilchrist, Michael",1.40,23.50
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,2,1,45,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,15,1,4.30,"Lopez, Robin",2.20,13.40
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,4,3,46,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",23,1,0,0.90,"Aldridge, LaMarcus",3.00,14.40
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,1,45,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",0,11,0,0.50,"Barnes, Harrison",1.60,19.20
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,2,2,54,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",20,3,0,0.70,"Walker, Kemba",2.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,3,6,59,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",0,14,0,0.60,"Lee, David",2.30,20.40
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,2,1,35,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-27,7,0,3.00,"McRoberts, Josh",2.30,5.80
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,2,5,38,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,9,0,0.60,"Salmons, John",2.20,9.70
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,3,6,03,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-21,12,1,1.70,"Thompson, Jason",0.70,10.90
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,3,0,56,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-11,1,0,1.30,"Smith, Josh",2.00,6.80
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,1,19,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-10,19,1,1.60,"Clark, Earl",2.30,11.60
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,1,11,42,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-11,3,0,0.60,"Cousins, DeMarcus",1.70,9.90
+"Anthony Davis","New Orleans Pelicans",2014-01-21,2013,6583,1610612740,400489491,1,3,27,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-15,6,1,1.60,"Cousins, DeMarcus",2.60,7.80
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,2,3,12,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",12,25,1,1.30,"Dudley, Jared",2.50,18.60
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,4,0,52,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-10,6,2,4.50,"West, David",1.90,12.20
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,1,23,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-4,15,1,2.40,"Jordan, DeAndre",1.50,16.50
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,4,0,13,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",21,-2,0,0.00,"DeRozan, DeMar",6.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,2,5,15,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-24,12,0,0.60,"Nelson, Jameer",1.10,20.70
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,10,04,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",23,12,1,5.20,"Gasol, Marc",1.30,12.20
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,3,4,34,0,"Layup Shot","2PT Field Goal",3,"Charlotte Hornets",-15,28,2,2.30,"Adrien, Jeff",2.80,8.80
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,9,36,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",10,7,1,1.70,"Davis, Glen",3.00,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,2,58,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",13,19,0,1.80,"Lopez, Robin",1.60,13.60
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,1,2,39,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-21,4,0,0.90,"Diaw, Boris",1.60,12.00
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,2,6,34,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",23,3,0,1.70,"Singler, Kyle",4.70,8.40
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,1,1,32,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",18,0,1,2.20,"Scola, Luis",1.00,13.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,3,01,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-21,6,1,1.60,"Ayres, Jeff",1.10,10.90
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,2,2,55,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-21,15,1,3.20,"Thompson, Tristan",1.70,16.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,11,18,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-19,14,1,2.00,"Davis, Glen",4.10,11.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,11,39,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,7,3,3.80,"Lopez, Robin",1.70,6.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,2,5,54,1,"Layup Shot","2PT Field Goal",3,"Brooklyn Nets",31,9,0,0.10,"Plumlee, Mason",0.60,10.50
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,3,9,24,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",24,12,0,0.90,"Duncan, Tim",1.10,17.80
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,4,5,59,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,11,0,0.60,"McRoberts, Josh",2.30,16.90
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,9,22,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-21,11,0,0.40,"Favors, Derrick",4.20,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-16,2013,6583,1610612740,400489016,1,10,41,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",0,15,0,0.70,"Wroten, Tony",3.00,20.00
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,2,40,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-26,14,0,1.50,"Green, Draymond",1.70,9.60
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,1,4,11,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",-152,50,1,1.60,"Gasol, Pau",4.30,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,3,4,03,1,"Pullup Jump shot","2PT Field Goal",12,"Memphis Grizzlies",-122,-3,1,2.10,"Davis, Ed",0.70,7.10
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,1,1,59,1,"Pullup Jump shot","2PT Field Goal",13,"Miami Heat",-108,85,1,5.40,"Andersen, Chris",2.30,9.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,3,17,1,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",-172,28,2,1.70,"Johnson, Wesley",1.10,12.80
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,4,06,1,"Pullup Jump shot","2PT Field Goal",14,"New York Knicks",136,60,0,4.00,"Chandler, Tyson",6.00,14.40
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,3,8,33,1,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-112,110,1,1.10,"Bass, Brandon",1.50,19.00
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,10,06,1,"Pullup Jump shot","2PT Field Goal",12,"New York Knicks",121,45,1,2.90,"Chandler, Tyson",3.10,9.30
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,5,03,1,"Pullup Jump shot","2PT Field Goal",20,"Milwaukee Bucks",201,22,0,1.00,"Pachulia, Zaza",5.00,14.70
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,7,04,0,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",-157,110,1,1.70,"Nowitzki, Dirk",3.00,5.30
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,10,29,0,"Pullup Jump shot","2PT Field Goal",12,"Portland Trail Blazers",-48,116,0,0.70,"Aldridge, LaMarcus",4.10,19.30
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,3,35,1,"Pullup Jump shot","2PT Field Goal",17,"Brooklyn Nets",72,154,2,6.30,"Garnett, Kevin",4.70,8.80
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,2,1,38,1,"Putback Dunk Shot","2PT Field Goal",2,"Milwaukee Bucks",18,11,0,0.40,"Adrien, Jeff",2.70,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,4,2,19,1,"Putback Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,-5,0,1.70,"Lopez, Robin",2.30,7.80
+"Anthony Davis","New Orleans Pelicans",2013-12-21,2013,6583,1610612740,400489274,2,0,07,1,"Putback Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",-7,0,0,0.00,"Batum, Nicolas",1.50,2.60
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,1,1,17,1,"Putback Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,3,0,0.40,"Moore, ETwaun",2.80,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,9,53,1,"Putback Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",2,-6,1,0.60,"Gasol, Pau",4.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,4,7,55,1,"Putback Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",7,0,0,0.00,"Bonner, Matt",3.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,4,10,33,1,"Putback Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",4,12,0,0.30,"Nowitzki, Dirk",1.80,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,1,2,11,1,"Putback Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",14,9,0,0.20,"Collison, Darren",4.90,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,4,2,37,1,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",2,4,0,0.00,"Millsap, Paul",2.20,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-22,2013,6583,1610612740,400489699,3,8,41,1,"Putback Dunk Shot","2PT Field Goal",1,"Washington Wizards",-11,-1,1,0.30,"Beal, Bradley",0.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,2,0,46,1,"Putback Dunk Shot","2PT Field Goal",0,"Miami Heat",0,4,1,0.30,"James, LeBron",10.60,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,2,0,55,1,"Putback Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-2,0,0.30,"Gasol, Marc",4.60,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,5,30,1,"Putback Dunk Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,8,0,0.00,"Lillard, Damian",1.90,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,4,5,23,1,"Putback Dunk Shot","2PT Field Goal",0,"Houston Rockets",4,0,0,0.00,"Lin, Jeremy",3.10,4.50
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,4,1,07,1,"Putback Dunk Shot","2PT Field Goal",3,"Los Angeles Clippers",0,30,0,0.00,"Dudley, Jared",3.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,7,05,1,"Putback Dunk Shot","2PT Field Goal",1,"Boston Celtics",10,9,0,0.20,"Green, Jeff",1.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,1,5,47,1,"Putback Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",12,11,0,0.50,"Millsap, Paul",4.50,19.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,2,6,26,1,"Putback Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.20,"Randolph, Zach",0.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,1,10,24,1,"Putback Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",0,12,0,0.00,"Johnson, Wesley",1.30,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,4,1,19,0,"Putback Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",1,0,0,0.00,"Davis, Ed",2.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,4,30,1,"Putback Dunk Shot","2PT Field Goal",0,"Miami Heat",0,-3,0,0.00,"James, LeBron",3.90,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-28,2013,6583,1610612740,400489746,4,1,32,1,"Putback Dunk Shot","2PT Field Goal",1,"Phoenix Suns",15,0,1,0.50,"Smith, Ish",5.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,4,0,47,1,"Putback Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,-2,0,0.10,"Barnes, Harrison",4.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-04,2013,6583,1610612740,400489776,4,9,12,1,"Putback Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",4,11,0,0.00,"Sacre, Robert",2.20,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,1,10,21,1,"Putback Dunk Shot","2PT Field Goal",1,"Boston Celtics",6,11,0,0.40,"Rondo, Rajon",2.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,3,26,1,"Putback Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",-17,14,0,0.00,"Plumlee, Mason",0.70,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,2,25,1,"Putback Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,4,0,0.10,"Clark, Earl",4.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,2,4,06,1,"Putback Layup Shot","2PT Field Goal",0,"Dallas Mavericks",2,-3,0,1.10,"Carter, Vince",0.90,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,4,1,53,0,"Putback Layup Shot","2PT Field Goal",2,"Miami Heat",-7,26,0,0.60,"Bosh, Chris",1.50,23.40
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,5,37,0,"Putback Layup Shot","2PT Field Goal",2,"New York Knicks",6,20,0,0.00,"Bargnani, Andrea",2.70,23.40
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,4,2,52,1,"Putback Layup Shot","2PT Field Goal",2,"Utah Jazz",21,17,0,0.00,"Kanter, Enes",3.60,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-24,2013,6583,1610612740,400489717,1,7,02,1,"Putback Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",28,12,0,0.80,"Griffin, Blake",2.70,23.70
+"Anthony Davis","New Orleans Pelicans",2014-02-21,2013,6583,1610612740,400489688,1,9,36,1,"Putback Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,0,0,0.40,"Jefferson, Al",2.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,2,5,38,1,"Putback Layup Shot","2PT Field Goal",1,"Miami Heat",2,14,0,0.20,"Andersen, Chris",2.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,3,6,30,1,"Putback Layup Shot","2PT Field Goal",0,"Golden State Warriors",6,6,1,1.40,"Lee, David",4.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-01,2013,6583,1610612740,400489576,3,2,53,1,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",-2,15,0,0.10,"Butler, Jimmy",3.10,7.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,2,2,12,1,"Putback Layup Shot","2PT Field Goal",2,"Denver Nuggets",26,6,2,1.90,"Vesely, Jan",2.60,11.90
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,2,2,44,1,"Putback Slam Dunk Shot","2PT Field Goal",2,"Portland Trail Blazers",6,20,1,0.30,"Wright, Dorell",3.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,4,2,16,1,"Putback Slam Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",6,9,0,0.00,"Blair, DeJuan",2.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,1,09,1,"Putback Slam Dunk Shot","2PT Field Goal",2,"Miami Heat",17,14,0,0.00,"Beasley, Michael",4.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,1,1,36,1,"Putback Slam Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",11,8,1,0.80,"Teletovic, Mirza",3.00,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,2,12,1,"Putback Slam Dunk Shot","2PT Field Goal",2,"Portland Trail Blazers",18,23,0,0.00,"Wright, Dorell",4.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,8,31,1,"Reverse Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-7,12,0,0.40,"Nowitzki, Dirk",3.70,13.70
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,3,7,05,0,"Reverse Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-5,-6,0,4.60,"Allen, Tony",2.60,13.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,4,11,28,0,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",10,9,1,2.70,"OQuinn, Kyle",1.70,12.50
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,1,1,44,0,"Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,-2,1,0.80,"Blair, DeJuan",1.90,16.00
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,2,5,13,0,"Reverse Layup Shot","2PT Field Goal",3,"Charlotte Hornets",20,25,1,3.60,"McRoberts, Josh",1.90,14.40
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,4,4,29,0,"Running Bank shot","2PT Field Goal",4,"Memphis Grizzlies",-29,36,0,1.60,"Koufos, Kosta",2.70,15.10
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,0,56,1,"Running Bank shot","2PT Field Goal",8,"Cleveland Cavaliers",-75,31,4,7.50,"Bennett, Anthony",1.60,6.80
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,4,10,34,0,"Running Bank shot","2PT Field Goal",7,"Houston Rockets",72,30,1,2.40,"Howard, Dwight",1.70,5.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,4,10,01,1,"Running Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",7,12,1,2.60,"Williams, Louis",8.20,22.20
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,1,5,20,1,"Running Dunk Shot","2PT Field Goal",1,"Boston Celtics",6,9,0,0.80,"Sullinger, Jared",3.00,11.10
+"Anthony Davis","New Orleans Pelicans",2013-12-01,2013,6583,1610612740,400489127,1,7,16,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"New York Knicks",-26,9,1,2.40,"Martin, Kenyon",3.20,6.70
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,1,10,09,1,"Running Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",28,48,1,6.40,"Gasol, Marc",1.50,10.00
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,4,34,1,"Running Hook Shot","2PT Field Goal",12,"Portland Trail Blazers",-78,101,1,5.20,"Aldridge, LaMarcus",3.40,3.50
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,2,4,00,0,"Running Hook Shot","2PT Field Goal",8,"Brooklyn Nets",2,82,0,3.60,"Plumlee, Mason",3.50,11.20
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,1,3,48,0,"Running Hook Shot","2PT Field Goal",8,"Memphis Grizzlies",61,58,1,5.80,"Leuer, Jon",3.30,11.20
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,4,8,26,1,"Running Hook Shot","2PT Field Goal",7,"Los Angeles Lakers",-59,53,1,2.30,"Hill, Jordan",1.90,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,2,3,08,0,"Running Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",23,48,1,2.90,"Davis, Ed",2.70,8.60
+"Anthony Davis","New Orleans Pelicans",2013-11-26,2013,6583,1610612740,400489087,3,7,32,1,"Running Jump Shot","2PT Field Goal",3,"Golden State Warriors",4,39,1,3.90,"Lee, David",2.30,12.00
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,1,5,21,1,"Running Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",47,67,1,1.60,"Pekovic, Nikola",0.90,9.40
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,5,02,0,"Running Jump Shot","2PT Field Goal",6,"Indiana Pacers",1,63,1,2.40,"West, David",2.00,6.20
+"Anthony Davis","New Orleans Pelicans",2014-04-06,2013,6583,1610612740,400490030,1,2,54,1,"Running Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",21,36,1,3.40,"Batum, Nicolas",1.60,8.00
+"Anthony Davis","New Orleans Pelicans",2014-03-21,2013,6583,1610612740,400489898,2,4,04,1,"Running Jump Shot","2PT Field Goal",10,"Atlanta Hawks",61,86,0,0.90,"Mack, Shelvin",2.40,15.80
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,1,0,06,0,"Running Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",-38,26,1,1.70,"Davis, Ed",3.40,4.30
+"Anthony Davis","New Orleans Pelicans",2014-01-11,2013,6583,1610612740,400489422,1,0,44,1,"Running Jump Shot","2PT Field Goal",6,"Dallas Mavericks",26,55,1,1.80,"Larkin, Shane",2.40,8.30
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,3,4,05,0,"Running Jump Shot","2PT Field Goal",9,"Orlando Magic",-98,17,1,2.90,"Maxiell, Jason",1.70,10.20
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,3,9,15,1,"Running Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",69,53,1,1.80,"Zeller, Tyler",1.70,5.20
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,2,21,0,"Running Jump Shot","2PT Field Goal",3,"Orlando Magic",0,36,2,3.70,"Nicholson, Andrew",2.30,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,11,21,1,"Running Jump Shot","2PT Field Goal",2,"Utah Jazz",-8,25,1,1.40,"Kanter, Enes",2.60,0.00
+"Anthony Davis","New Orleans Pelicans",2014-04-04,2013,6583,1610612740,400490011,1,4,58,1,"Running Jump Shot","2PT Field Goal",4,"Utah Jazz",40,25,0,1.10,"Kanter, Enes",1.60,14.50
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,7,36,1,"Running Jump Shot","2PT Field Goal",1,"Utah Jazz",-7,14,0,0.00,"Kanter, Enes",0.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-08,2013,6583,1610612740,400489398,1,6,27,0,"Running Jump Shot","2PT Field Goal",7,"Washington Wizards",-70,12,0,3.20,"Gortat, Marcin",1.80,6.10
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,0,00,1,"Running Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-98,14,1,1.80,"Antetokounmpo, Giannis",2.00,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,4,7,46,0,"Running Jump Shot","2PT Field Goal",5,"Orlando Magic",-21,52,2,2.80,"OQuinn, Kyle",0.60,10.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,6,14,1,"Running Jump Shot","2PT Field Goal",5,"Utah Jazz",12,58,1,2.60,"Kanter, Enes",0.50,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-04,2013,6583,1610612740,400489362,1,2,29,1,"Running Layup Shot","2PT Field Goal",1,"Indiana Pacers",6,-16,1,7.40,"Hibbert, Roy",1.40,7.80
+"Anthony Davis","New Orleans Pelicans",2014-02-26,2013,6583,1610612740,400489729,2,5,07,0,"Running Tip Shot","2PT Field Goal",1,"Dallas Mavericks",4,15,0,0.00,"Calderon, Jose",2.90,9.10
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,1,3,01,1,"Slam Dunk Shot","2PT Field Goal",0,"New York Knicks",4,-3,1,1.20,"Chandler, Tyson",5.50,12.20
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,1,5,00,1,"Slam Dunk Shot","2PT Field Goal",0,"Houston Rockets",4,3,0,0.80,"Howard, Dwight",10.20,15.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,4,9,25,1,"Slam Dunk Shot","2PT Field Goal",1,"Toronto Raptors",9,7,0,0.00,"Novak, Steve",4.10,17.70
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,3,10,53,1,"Slam Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,3,0,0.80,"Hawes, Spencer",1.60,7.70
+"Anthony Davis","New Orleans Pelicans",2013-11-12,2013,6583,1610612740,400488983,1,8,14,1,"Slam Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",1,11,0,1.10,"Gasol, Pau",6.30,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,2,5,25,1,"Slam Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",2,7,0,0.00,"Turner, Evan",1.90,21.00
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,4,1,42,1,"Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",9,0,0,0.70,"Blake, Steve",4.10,20.20
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,7,09,1,"Slam Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",0,17,0,0.90,"Pierce, Paul",1.40,21.00
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,4,1,24,1,"Slam Dunk Shot","2PT Field Goal",0,"Orlando Magic",9,1,0,0.90,"Davis, Glen",2.60,7.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,3,9,38,1,"Slam Dunk Shot","2PT Field Goal",0,"Denver Nuggets",1,1,0,0.60,"Chandler, Wilson",4.20,7.10
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,2,2,25,1,"Slam Dunk Shot","2PT Field Goal",1,"Toronto Raptors",18,1,0,0.80,"Patterson, Patrick",4.00,13.40
+"Anthony Davis","New Orleans Pelicans",2013-12-18,2013,6583,1610612740,400489253,4,1,49,1,"Slam Dunk Shot","2PT Field Goal",3,"Los Angeles Clippers",15,26,0,0.60,"Paul, Chris",7.30,19.40
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,3,11,15,1,"Slam Dunk Shot","2PT Field Goal",0,"Boston Celtics",1,1,0,0.50,"Crawford, Jordan",3.40,15.30
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,4,6,09,1,"Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",6,1,0,1.00,"Blake, Steve",4.60,8.20
+"Anthony Davis","New Orleans Pelicans",2014-02-07,2013,6583,1610612740,400489620,3,9,21,1,"Slam Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,3,0,1.00,"Martin, Kevin",3.90,9.90
+"Anthony Davis","New Orleans Pelicans",2013-11-02,2013,6583,1610612740,400488908,3,11,10,1,"Slam Dunk Shot","2PT Field Goal",2,"Charlotte Hornets",-7,26,0,0.80,"Kidd-Gilchrist, Michael",3.60,12.80
+"Anthony Davis","New Orleans Pelicans",2014-01-26,2013,6583,1610612740,400489529,3,3,20,1,"Slam Dunk Shot","2PT Field Goal",0,"Orlando Magic",1,-2,1,1.20,"OQuinn, Kyle",1.10,9.10
+"Anthony Davis","New Orleans Pelicans",2014-01-01,2013,6583,1610612740,400489343,2,8,51,0,"Step Back Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",-127,20,1,4.40,"Pekovic, Nikola",3.80,10.80
+"Anthony Davis","New Orleans Pelicans",2013-11-06,2013,6583,1610612740,400488938,3,1,27,1,"Step Back Jump shot","2PT Field Goal",12,"Memphis Grizzlies",-114,41,0,4.90,"Pondexter, Quincy",3.10,5.10
+"Anthony Davis","New Orleans Pelicans",2013-11-20,2013,6583,1610612740,400489042,4,6,08,1,"Step Back Jump shot","2PT Field Goal",14,"Utah Jazz",-90,115,1,7.60,"Kanter, Enes",4.20,6.90
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,3,7,33,1,"Step Back Jump shot","2PT Field Goal",8,"Philadelphia 76ers",84,-22,0,0.50,"Young, Thaddeus",4.60,5.90
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,4,6,04,1,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Clippers",-120,6,1,2.00,"Turkoglu, Hedo",3.40,7.60
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,1,7,56,0,"Step Back Jump shot","2PT Field Goal",13,"Sacramento Kings",-128,45,0,5.10,"Thompson, Jason",4.00,9.80
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,3,1,56,0,"Step Back Jump shot","2PT Field Goal",18,"Utah Jazz",-182,3,1,1.90,"Williams, Marvin",2.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-03,2013,6583,1610612740,400489770,3,9,10,1,"Step Back Jump shot","2PT Field Goal",10,"Sacramento Kings",-103,15,1,2.10,"Cousins, DeMarcus",2.50,8.30
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,4,3,16,1,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Lakers",157,34,1,1.70,"Hill, Jordan",3.60,12.00
+"Anthony Davis","New Orleans Pelicans",2014-02-12,2013,6583,1610612740,400489658,3,10,42,0,"Tip Shot","2PT Field Goal",0,"Milwaukee Bucks",-5,-3,0,0.10,"Middleton, Khris",1.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-07,2013,6583,1610612740,400489796,3,10,36,0,"Tip Shot","2PT Field Goal",5,"Milwaukee Bucks",13,52,0,0.00,"Knight, Brandon",0.60,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,3,9,32,0,"Tip Shot","2PT Field Goal",1,"Houston Rockets",1,15,0,0.10,"Parsons, Chandler",0.90,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,3,4,24,0,"Tip Shot","2PT Field Goal",1,"Houston Rockets",-2,12,0,0.20,"Harden, James",1.60,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,1,38,0,"Tip Shot","2PT Field Goal",1,"Orlando Magic",-4,12,0,1.10,"Afflalo, Arron",2.30,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,4,4,18,0,"Tip Shot","2PT Field Goal",1,"Houston Rockets",-4,12,0,0.00,"Jones, Terrence",0.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-13,2013,6583,1610612740,400489432,3,11,47,1,"Tip Shot","2PT Field Goal",1,"San Antonio Spurs",16,8,0,0.00,"Duncan, Tim",2.40,13.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,1,6,42,1,"Tip Shot","2PT Field Goal",1,"Portland Trail Blazers",-8,15,0,0.00,"Batum, Nicolas",0.70,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-01,2013,6583,1610612740,400488894,1,1,30,1,"Tip Shot","2PT Field Goal",2,"Orlando Magic",-10,20,0,2.40,"Afflalo, Arron",1.20,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,3,0,05,0,"Tip Shot","2PT Field Goal",2,"Cleveland Cavaliers",23,7,0,-7.30,"Waiters, Dion",1.60,0.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,1,21,1,"Tip Shot","2PT Field Goal",2,"Indiana Pacers",-19,17,0,0.00,"Mahinmi, Ian",3.60,24.00
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,2,24,1,"Tip Shot","2PT Field Goal",0,"Indiana Pacers",6,7,0,0.00,"West, David",1.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-12-30,2013,6583,1610612740,400489329,3,7,33,1,"Tip Shot","2PT Field Goal",1,"Portland Trail Blazers",15,9,0,0.00,"Aldridge, LaMarcus",2.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,4,2,13,0,"Tip Shot","2PT Field Goal",1,"Golden State Warriors",-2,19,0,0.00,"Lee, David",3.60,21.20
+"Anthony Davis","New Orleans Pelicans",2013-10-30,2013,6583,1610612740,400488884,3,9,26,0,"Tip Shot","2PT Field Goal",1,"Indiana Pacers",15,7,0,0.00,"West, David",3.50,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,1,10,11,0,"Tip Shot","2PT Field Goal",2,"Brooklyn Nets",22,11,0,0.40,"Pierce, Paul",2.90,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-24,2013,6583,1610612740,400489512,4,1,19,1,"Tip Shot","2PT Field Goal",0,"Detroit Pistons",-4,-6,0,0.00,"Smith, Josh",1.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-05,2013,6583,1610612740,400489604,1,7,59,1,"Tip Shot","2PT Field Goal",1,"Atlanta Hawks",-8,11,0,0.00,"Millsap, Paul",1.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-08,2013,6583,1610612740,400488954,1,10,57,1,"Tip Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,12,0,0.00,"Young, Nick",4.60,23.60
+"Anthony Davis","New Orleans Pelicans",2013-11-10,2013,6583,1610612740,400488969,3,7,55,0,"Tip Shot","2PT Field Goal",0,"Phoenix Suns",-8,-3,0,0.60,"Plumlee, Miles",1.20,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,2,4,38,1,"Tip Shot","2PT Field Goal",0,"Golden State Warriors",-4,7,0,0.00,"Lee, David",2.30,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,1,4,42,1,"Tip Shot","2PT Field Goal",1,"Utah Jazz",-7,12,0,0.10,"Favors, Derrick",1.30,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,9,26,1,"Tip Shot","2PT Field Goal",1,"Utah Jazz",18,7,0,0.10,"Hayward, Gordon",3.80,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,2,4,59,0,"Tip Shot","2PT Field Goal",0,"Miami Heat",2,0,0,0.10,"Andersen, Chris",1.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-01,2013,6583,1610612740,400489755,4,9,08,0,"Tip Shot","2PT Field Goal",1,"Los Angeles Clippers",6,11,0,0.00,"Dudley, Jared",0.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,1,9,36,1,"Tip Shot","2PT Field Goal",2,"Cleveland Cavaliers",18,11,0,0.60,"Dellavedova, Matthew",3.10,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,3,0,05,1,"Tip Shot","2PT Field Goal",1,"Cleveland Cavaliers",7,14,0,1.50,"Waiters, Dion",1.60,0.00
+"Anthony Davis","New Orleans Pelicans",2013-11-22,2013,6583,1610612740,400489056,4,1,29,1,"Tip Shot","2PT Field Goal",2,"Cleveland Cavaliers",20,3,0,0.00,"Jack, Jarrett",2.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-25,2013,6583,1610612740,400489081,1,4,27,0,"Tip Shot","2PT Field Goal",1,"San Antonio Spurs",-2,12,0,0.20,"Ginobili, Manu",1.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,11,18,1,"Tip Shot","2PT Field Goal",0,"Boston Celtics",-5,7,0,0.00,"Olynyk, Kelly",2.90,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,1,6,54,0,"Tip Shot","2PT Field Goal",1,"Philadelphia 76ers",2,17,0,0.00,"Young, Thaddeus",1.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,4,1,01,0,"Tip Shot","2PT Field Goal",2,"Portland Trail Blazers",-23,11,0,0.10,"Matthews, Wesley",0.80,23.60
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,3,8,01,1,"Tip Shot","2PT Field Goal",0,"Philadelphia 76ers",1,1,0,0.00,"Young, Thaddeus",2.50,24.00
+"Anthony Davis","New Orleans Pelicans",2013-11-29,2013,6583,1610612740,400489110,3,0,13,1,"Tip Shot","2PT Field Goal",0,"Philadelphia 76ers",-5,0,0,0.00,"Allen, Lavoy",1.10,0.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,2,9,24,1,"Tip Shot","2PT Field Goal",1,"Dallas Mavericks",-11,9,0,0.00,"Dalembert, Samuel",1.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,2,1,09,0,"Tip Shot","2PT Field Goal",1,"Dallas Mavericks",-16,11,0,0.10,"Dalembert, Samuel",1.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-20,2013,6583,1610612740,400489484,3,1,48,1,"Tip Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,-3,0,0.00,"Randolph, Zach",3.90,19.10
+"Anthony Davis","New Orleans Pelicans",2014-02-19,2013,6583,1610612740,400489679,3,0,38,1,"Tip Shot","2PT Field Goal",0,"New York Knicks",-8,1,0,0.00,"Smith, J.R.",5.40,24.00
+"Anthony Davis","New Orleans Pelicans",2014-01-10,2013,6583,1610612740,400489409,4,7,06,0,"Tip Shot","2PT Field Goal",3,"Dallas Mavericks",-37,-1,0,0.00,"Blair, DeJuan",1.90,23.00
+"Anthony Davis","New Orleans Pelicans",2014-03-12,2013,6583,1610612740,400489836,1,6,56,1,"Tip Shot","2PT Field Goal",3,"Memphis Grizzlies",-26,17,0,0.00,"Randolph, Zach",1.30,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-09,2013,6583,1610612740,400489809,1,1,57,0,"Tip Shot","2PT Field Goal",1,"Denver Nuggets",16,11,0,0.80,"Faried, Kenneth",1.60,23.50
+"Anthony Davis","New Orleans Pelicans",2013-12-23,2013,6583,1610612740,400489290,3,4,07,0,"Tip Shot","2PT Field Goal",1,"Sacramento Kings",4,12,0,0.00,"Thompson, Jason",1.60,0.00
+"Anthony Davis","New Orleans Pelicans",2014-02-09,2013,6583,1610612740,400489632,3,0,44,0,"Tip Shot","2PT Field Goal",2,"Brooklyn Nets",7,22,0,-2.30,"Pierce, Paul",2.70,24.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,1,6,21,1,"Tip Shot","2PT Field Goal",1,"Toronto Raptors",1,15,0,0.00,"Valanciunas, Jonas",0.80,24.00
+"Anthony Davis","New Orleans Pelicans",2014-03-14,2013,6583,1610612740,400489850,3,11,09,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Portland Trail Blazers",165,44,3,4.00,"Wright, Dorell",1.40,2.90
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,4,4,54,0,"Turnaround Hook Shot","2PT Field Goal",11,"Miami Heat",-43,108,2,3.60,"Bosh, Chris",2.00,2.00
+"Anthony Davis","New Orleans Pelicans",2014-02-10,2013,6583,1610612740,400489638,3,7,21,1,"Turnaround Hook Shot","2PT Field Goal",8,"Toronto Raptors",65,52,1,3.20,"Patterson, Patrick",1.40,11.10
+"Anthony Davis","New Orleans Pelicans",2014-01-03,2013,6583,1610612740,400489357,4,1,41,1,"Turnaround Hook Shot","2PT Field Goal",4,"Boston Celtics",-45,17,1,5.30,"Bass, Brandon",1.80,6.00
+"Anthony Davis","New Orleans Pelicans",2014-01-15,2013,6583,1610612740,400489445,2,1,23,1,"Turnaround Hook Shot","2PT Field Goal",7,"Houston Rockets",75,6,1,3.80,"Motiejunas, Donatas",1.50,13.20
+"Anthony Davis","New Orleans Pelicans",2014-03-24,2013,6583,1610612740,400489925,4,6,09,1,"Turnaround Jump Shot","2PT Field Goal",4,"Brooklyn Nets",-25,43,2,3.90,"Blatche, Andray",3.40,8.50
+"Anthony Davis","New Orleans Pelicans",2014-03-16,2013,6583,1610612740,400489863,4,0,01,1,"Turnaround Jump Shot","2PT Field Goal",17,"Boston Celtics",11,174,0,2.10,"Green, Jeff",2.40,0.00
+"Anthony Davis","New Orleans Pelicans",2013-12-28,2013,6583,1610612740,400489315,3,11,10,0,"Turnaround Jump Shot","2PT Field Goal",9,"Houston Rockets",97,12,1,5.30,"Lin, Jeremy",1.20,12.40
+"Anthony Davis","New Orleans Pelicans",2014-01-28,2013,6583,1610612740,400489541,1,5,16,1,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",48,64,2,7.60,"Thompson, Tristan",2.70,6.70
+"Anthony Davis","New Orleans Pelicans",2014-02-03,2013,6583,1610612740,400489588,2,6,06,1,"Turnaround Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-2,52,1,5.10,"Diaw, Boris",1.20,5.90
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,4,10,54,1,"Turnaround Jump Shot","2PT Field Goal",8,"Golden State Warriors",12,88,3,5.30,"Speights, Marreese",2.10,3.10
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,1,5,52,1,"Turnaround Jump Shot","2PT Field Goal",13,"Golden State Warriors",-116,72,0,3.40,"Lee, David",3.30,4.30
+"Anthony Davis","New Orleans Pelicans",2014-01-18,2013,6583,1610612740,400489472,4,11,39,1,"Turnaround Jump Shot","2PT Field Goal",8,"Golden State Warriors",59,58,1,7.10,"Speights, Marreese",1.40,6.40
+"Anthony Davis","New Orleans Pelicans",2014-01-07,2013,6583,1610612740,400489384,1,2,33,1,"Turnaround Jump Shot","2PT Field Goal",4,"Miami Heat",37,20,0,0.90,"Bosh, Chris",3.60,23.60
+"Anthony Davis","New Orleans Pelicans",2013-11-13,2013,6583,1610612740,400488992,4,4,20,1,"Turnaround Jump Shot","2PT Field Goal",7,"Utah Jazz",70,11,0,0.40,"Favors, Derrick",1.90,0.00
+"Anthony Davis","New Orleans Pelicans",2014-03-22,2013,6583,1610612740,400489909,3,4,10,1,"Turnaround Jump Shot","2PT Field Goal",11,"Miami Heat",7,112,0,0.70,"Bosh, Chris",3.70,12.80

@@ -1,0 +1,1094 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,2,7,48,1,"Driving Bank shot","2PT Field Goal",3,"Dallas Mavericks",-37,15,7,6.20,"Ellis, Monta",4.30,18.90
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,1,59,1,"Driving Bank shot","2PT Field Goal",3,"Washington Wizards",-30,23,3,5.80,"Gortat, Marcin",1.20,4.10
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,11,45,1,"Driving Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",6,9,1,1.40,"Griffin, Blake",4.60,21.00
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,5,0,56,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",1,9,0,0.90,"Fournier, Evan",10.90,22.90
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,2,0,16,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Miami Heat",9,6,7,7.20,"Andersen, Chris",2.10,4.00
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,4,4,39,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Miami Heat",-13,17,11,11.50,"Beasley, Michael",5.40,11.90
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,6,12,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",7,14,4,4.00,"West, David",0.60,19.60
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,1,5,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,0,3,3.00,"Parsons, Chandler",2.60,18.90
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,2,38,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Washington Wizards",-5,25,5,5.80,"Gortat, Marcin",4.40,2.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,1,9,42,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Golden State Warriors",-15,14,7,7.00,"Bogut, Andrew",2.20,16.90
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,8,56,1,"Driving Jump shot","2PT Field Goal",3,"Atlanta Hawks",-34,20,13,12.30,"Millsap, Paul",3.60,11.50
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,1,8,10,1,"Driving Jump shot","2PT Field Goal",3,"Utah Jazz",-29,12,4,5.10,"Favors, Derrick",4.00,13.50
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,3,4,29,0,"Driving Jump shot","2PT Field Goal",3,"Atlanta Hawks",23,22,2,2.60,"Scott, Mike",1.80,9.70
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,2,11,16,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,0,1,1.80,"Batum, Nicolas",2.20,21.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,1,9,18,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-2,11,4,4.70,"Marshall, Kendall",3.20,12.30
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,1,3,48,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-10,25,9,9.10,"Marshall, Kendall",2.60,14.60
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,1,3,29,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-7,14,3,3.10,"Kaman, Chris",2.30,20.30
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,4,3,18,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-18,7,12,9.20,"ONeal, Jermaine",1.30,9.90
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,1,5,37,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-24,4,13,11.50,"Dalembert, Samuel",3.30,12.60
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,0,12,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-13,-3,6,5.30,"Green, Danny",0.50,0.00
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,1,6,35,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-23,6,1,3.90,"Durant, Kevin",1.40,9.60
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,3,1,14,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",1,3,5,3.90,"Jones, Terrence",0.80,14.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,4,13,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-10,0,8,7.40,"Duncan, Tim",1.90,17.40
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,1,8,37,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,-5,5,3.70,"Thompson, Klay",2.20,15.60
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,2,10,29,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,0,8,6.00,"Speights, Marreese",2.00,18.80
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,4,9,21,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-23,9,12,10.80,"Baynes, Aron",0.70,14.40
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,2,14,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-19,0,3,3.60,"Anthony, Carmelo",1.80,19.10
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,10,13,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-13,-2,2,2.00,"Green, Danny",3.40,7.90
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,0,29,1,"Driving Layup Shot","2PT Field Goal",0,"New York Knicks",-7,3,6,5.60,"Chandler, Tyson",4.50,18.30
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,3,6,16,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",1,7,12,11.60,"Bogut, Andrew",1.30,13.20
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,6,13,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",-7,3,9,5.80,Nene,6.60,17.50
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,3,6,49,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-27,11,5,4.10,"Mack, Shelvin",1.60,10.10
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,3,16,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,-2,6,5.60,"Blair, DeJuan",2.80,19.50
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,2,0,28,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-5,1,8,6.30,"Dalembert, Samuel",2.00,17.70
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,5,11,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",20,3,0,0.30,"Calderon, Jose",1.80,20.20
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,4,07,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,7,5,6.80,"Varejao, Anderson",4.60,17.80
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,6,02,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-8,0,3,2.50,"Carter, Vince",6.40,19.60
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,3,27,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,1,3,4.70,"Morrow, Anthony",2.60,12.40
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,7,06,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-10,-2,7,7.60,"Marion, Shawn",3.20,17.00
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,8,36,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,1,3,3.00,"Ajinca, Alexis",1.30,11.70
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,6,50,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-13,0,7,8.20,"Davis, Anthony",3.00,15.80
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,1,46,0,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-2,3,14,11.60,"Zeller, Tyler",2.10,11.60
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,0,33,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-10,1,2,2.90,"Rivers, Austin",2.20,15.70
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,4,3,47,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-8,7,5,5.00,"Johnson, Wesley",2.90,21.90
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,4,5,35,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,1,2,2.70,"Gasol, Pau",1.40,14.70
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,2,2,43,0,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-4,3,2,2.10,"Harris, Devin",1.00,17.10
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,4,9,05,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",6,9,3,3.40,"Kelly, Ryan",4.10,9.70
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,2,6,46,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,14,4,3.70,"Deng, Luol",4.20,14.90
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,3,6,08,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-8,-5,4,4.10,"Hill, Jordan",1.70,21.00
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,3,11,07,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,0,3,3.30,"Marshall, Kendall",5.60,19.50
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,2,11,12,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,4,14,12.60,"Meeks, Jodie",0.70,12.00
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,4,4,02,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",26,4,6,7.70,"Carroll, DeMarre",3.70,8.50
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,4,5,50,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",18,3,8,6.90,"Martin, Kenyon",6.90,16.30
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,4,6,24,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,4,3,4.80,"Felton, Raymond",1.30,8.00
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,6,05,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-7,11,2,1.90,"Anthony, Carmelo",4.70,21.60
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,9,37,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-18,0,2,3.30,"Jefferson, Al",3.20,7.40
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,4,2,53,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-18,9,4,4.60,"Hinrich, Kirk",2.50,20.30
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,9,01,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",21,-2,4,6.00,"Ibaka, Serge",3.10,12.00
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,6,30,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",-8,-3,3,3.60,Nene,3.80,9.00
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,2,22,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,7,3,2.50,"Butler, Caron",2.40,5.40
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,4,00,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,0,0,0.00,"Brewer, Corey",11.60,24.00
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,8,53,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-16,6,3,3.30,"Turiaf, Ronny",2.40,12.00
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,3,6,58,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-15,1,1,1.30,"Brewer, Corey",2.90,15.20
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,1,4,42,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,4,4,3.80,"Love, Kevin",3.20,19.90
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,4,3,56,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-23,6,5,5.90,"Gibson, Taj",1.30,17.30
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,4,18,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,15,3,3.70,"Henderson, Gerald",3.30,21.30
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,3,5,10,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-2,1,2,2.70,"Jordan, DeAndre",2.10,18.20
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,3,3,27,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-4,3,3,2.20,"Paul, Chris",2.10,19.50
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,3,0,03,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-7,0,15,13.30,"Barnes, Matt",2.30,0.00
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,3,3,59,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",1,15,2,2.20,"Mohammed, Nazr",1.70,17.90
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,4,2,47,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-10,0,0,0.00,"Collison, Darren",2.90,19.70
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,4,2,20,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-16,4,4,3.90,"Paul, Chris",5.10,20.70
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,8,14,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-19,12,13,9.90,"Ilyasova, Ersan",1.20,13.60
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,2,2,21,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-13,20,4,4.20,"Zeller, Cody",2.00,19.80
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,2,0,50,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,-2,4,3.30,"Sanders, Larry",2.20,20.70
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,1,5,50,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-16,17,5,5.00,"Antic, Pero",2.60,17.20
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,9,27,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,-8,3,4.50,"Koufos, Kosta",2.10,10.00
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,3,2,35,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-21,0,3,2.20,"Jefferson, Al",1.20,15.70
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,6,19,1,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-21,1,3,2.90,"Irving, Kyrie",2.30,20.50
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,4,0,09,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",4,4,3,3.70,"Irving, Kyrie",6.40,0.00
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,8,56,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",6,0,7,5.50,"Bayless, Jerryd",1.80,12.80
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,5,03,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",-7,7,4,3.30,"Green, Jeff",1.90,20.80
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,1,8,19,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-11,-2,6,6.50,"Boozer, Carlos",1.00,14.40
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,5,0,29,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,3,4,4.30,"Shumpert, Iman",3.60,8.50
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,2,1,51,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-5,12,9,7.70,"Crawford, Jamal",2.50,15.80
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,1,1,01,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-10,6,19,14.60,"Hansbrough, Tyler",4.80,9.00
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,1,9,14,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",15,1,2,2.20,"Favors, Derrick",2.70,12.60
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,4,1,13,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-4,17,0,4.10,"Ross, Terrence",8.30,14.90
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,5,1,06,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-8,7,2,3.20,"Bargnani, Andrea",3.10,15.90
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,2,5,54,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",28,1,6,5.50,"Livingston, Shaun",1.50,19.10
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,2,5,29,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-10,1,0,0.00,"Pierce, Paul",1.00,16.90
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,2,1,11,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,9,0,2.00,"Thornton, Marcus",2.80,21.00
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,6,46,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-19,1,3,4.80,"Johnson, Joe",3.70,14.10
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,5,52,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",18,14,3,4.60,"Livingston, Shaun",3.80,10.50
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,3,4,49,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-8,0,2,3.40,"Anderson, James",0.90,22.50
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,1,0,59,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",18,-5,8,6.90,"Orton, Daniel",1.20,16.60
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,2,2,56,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,1,5,4.40,"Iguodala, Andre",6.80,19.90
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,2,9,32,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,1,3,4.00,"Barnes, Harrison",8.20,19.90
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,1,10,33,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-19,3,0,1.10,"Iguodala, Andre",9.50,20.10
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,3,5,34,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,-3,4,3.10,"Johnson, Wesley",1.20,18.70
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,2,0,01,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-10,3,3,1.70,"Nowitzki, Dirk",3.00,0.00
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,4,0,59,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-15,7,15,14.30,"Lawson, Ty",3.20,6.00
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,1,4,05,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",13,3,7,6.40,"Smith, Josh",1.70,18.40
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,2,46,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-19,0,5,5.30,"Hinrich, Kirk",1.60,19.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,2,3,45,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-8,23,14,12.80,"Kelly, Ryan",1.60,11.00
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,3,11,31,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",10,1,4,5.40,"Singler, Kyle",0.90,15.30
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,1,7,00,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-4,-2,4,3.80,"Turner, Evan",4.20,19.50
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,4,3,46,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,6,21,18.20,"Lawson, Ty",1.90,5.60
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,1,2,53,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",13,4,7,7.90,"Dieng, Gorgui",2.50,16.20
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,2,0,27,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",13,20,1,2.20,"Martin, Kevin",3.00,17.40
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,1,7,12,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,1,4,4.10,"Parsons, Chandler",0.80,20.00
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,3,7,12,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",9,0,4,4.20,"Dieng, Gorgui",1.60,11.50
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,4,9,02,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-5,14,21,16.00,"Muhammad, Shabazz",2.10,8.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,3,11,43,0,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,9,4,2.30,"Vasquez, Greivis",1.20,10.80
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,4,3,38,0,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,0,3,4.00,"Rubio, Ricky",1.10,21.20
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,3,30,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-10,1,3,3.40,"Gortat, Marcin",2.70,9.00
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,2,10,22,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-11,1,12,12.30,"Randolph, Anthony",0.60,13.50
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,2,0,50,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",9,0,2,2.90,"Wall, John",3.90,19.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,10,53,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",12,4,3,3.90,"Carroll, DeMarre",6.80,16.30
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,1,8,50,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,0,3,3.50,"Faried, Kenneth",3.10,18.50
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,0,41,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",7,6,3,3.40,"Brand, Elton",2.60,18.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,2,15,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-23,4,3,3.40,"Ginobili, Manu",1.40,14.50
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,3,7,17,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,1,2,2.20,"McLemore, Ben",6.80,9.20
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,4,8,00,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-16,3,4,3.20,"Collison, Darren",1.60,6.00
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,7,34,0,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",6,1,4,3.50,"Lopez, Robin",2.60,19.10
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,1,4,37,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",21,-3,2,3.90,"Cousins, DeMarcus",0.80,12.90
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,6,07,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,-5,0,0.90,"Lopez, Robin",2.80,21.10
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,4,2,31,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",17,23,1,1.30,"Bryant, Kobe",3.40,20.70
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,4,5,07,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-27,7,6,5.80,"Batum, Nicolas",3.40,2.60
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,3,10,41,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",4,23,0,1.60,"Williams, Shawne",0.70,21.50
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,4,08,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",1,16,1,1.70,"Bryant, Kobe",5.50,0.00
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,9,23,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",1,23,5,4.30,"Collison, Nick",3.10,6.50
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,3,11,05,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-24,4,5,5.20,"Douglas, Toney",1.30,8.50
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,3,53,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,17,1,1.50,"Durant, Kevin",2.80,15.80
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,2,1,29,0,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",6,31,11,11.80,"Valanciunas, Jonas",1.30,23.10
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,9,15,0,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-30,17,2,2.60,"Gasol, Pau",2.70,0.00
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,2,8,46,1,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",-2,6,4,4.30,"Stone, Julyan",2.20,20.00
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,7,05,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,3,5,3.90,"Westbrook, Russell",3.10,12.00
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,3,11,26,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,-2,0,1.30,"Beverley, Patrick",1.50,19.70
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,0,37,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-13,7,5,3.60,"Withey, Jeff",1.80,20.40
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,7,50,0,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-8,0,2,2.30,"Wright, Brandan",1.90,1.50
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,4,0,07,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",10,-3,5,4.50,"Burke, Trey",5.70,0.00
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,4,0,27,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-21,0,4,3.80,"Burks, Alec",1.90,20.10
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,3,0,26,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",1,1,1,1.40,"Nowitzki, Dirk",3.40,8.60
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,1,5,58,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-18,1,8,7.80,"Sullinger, Jared",1.00,0.00
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,1,5,00,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-10,-2,0,0.00,"Bass, Brandon",3.30,0.00
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,3,1,27,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-16,4,8,6.60,"Drummond, Andre",2.90,18.00
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,2,11,13,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-5,1,2,1.90,"Conley, Mike",2.60,23.00
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,2,3,12,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,-3,4,4.40,"Gasol, Marc",2.80,12.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,6,10,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,-2,3,2.90,"Matthews, Wesley",2.20,20.40
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,2,3,01,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,6,8,7.20,"Lopez, Robin",1.40,12.50
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,1,2,32,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-10,6,6,6.60,"Love, Kevin",2.50,18.40
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,9,00,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,0,2,2.80,"Lillard, Damian",1.30,22.10
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,1,2,51,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,0,0,2.80,"Thompson, Tristan",3.10,7.20
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,0,21,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,4,19,18.00,"Aldridge, LaMarcus",1.20,5.50
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,4,6,36,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",0,11,10,8.50,"Andersen, Chris",2.70,15.00
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,2,10,54,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",24,0,3,3.30,"Green, Danny",2.10,19.90
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,3,9,54,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-10,-6,7,4.70,"Hayward, Gordon",2.20,6.80
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,8,52,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",24,6,7,5.60,"Smith, J.R.",3.10,15.90
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,1,8,54,1,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",-4,3,3,4.30,"Cole, Norris",3.50,8.60
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,4,2,03,1,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",-7,1,17,9.20,"Nelson, Jameer",0.70,0.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,0,37,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",26,0,6,4.90,"Thomas, Isaiah",1.40,19.10
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,5,44,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",13,1,3,2.50,"Wall, John",2.30,19.50
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,1,15,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",7,3,5,4.10,"Patterson, Patrick",3.70,19.50
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,3,10,11,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-18,0,8,7.40,"Lopez, Robin",2.70,7.80
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,8,45,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",12,0,6,4.30,"Cousins, DeMarcus",1.70,19.20
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,9,58,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-19,3,4,4.20,"Mbah a Moute, Luc",1.70,20.10
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,1,5,19,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-15,6,4,4.20,"Parsons, Chandler",3.70,19.40
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,2,7,19,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,9,0,0.40,"McLemore, Ben",2.70,20.70
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,1,10,00,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-24,11,5,5.80,"McLemore, Ben",1.60,6.60
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,7,04,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-13,17,10,8.30,"Kaman, Chris",0.80,15.90
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,7,38,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,-2,7,7.00,"Parsons, Chandler",4.00,18.00
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,4,11,37,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-26,6,3,2.00,"Zeller, Tyler",1.80,5.70
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,2,3,23,0,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",7,4,6,5.10,"Andersen, Chris",1.80,19.00
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,8,12,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-19,3,2,1.40,"Westbrook, Russell",2.80,16.80
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,2,03,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",13,19,3,3.80,"Lillard, Damian",1.90,19.80
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,1,6,40,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-10,3,15,8.90,"Hibbert, Roy",1.90,14.20
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,3,4,05,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,4,0,0.60,"Motiejunas, Donatas",2.40,5.90
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,1,10,49,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-10,-6,2,2.20,"Lawson, Ty",2.10,19.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,4,0,14,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",1,9,4,4.50,"Beverley, Patrick",5.40,0.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,0,06,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,-3,6,3.60,"Larkin, Shane",2.30,0.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,0,43,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-2,-5,6,5.50,"Larkin, Shane",4.80,18.50
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,2,2,00,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-21,11,7,6.00,"Cunningham, Dante",2.00,4.30
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,3,1,09,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-10,3,7,7.80,"McRoberts, Josh",4.40,16.00
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,5,1,29,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-18,-3,4,6.20,"Lopez, Brook",2.00,4.90
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,10,48,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",26,7,8,7.30,"Aldridge, LaMarcus",1.50,17.00
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,0,27,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,4,1,0.90,"Lopez, Robin",3.80,18.00
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,3,9,40,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-10,-5,4,3.60,"Faried, Kenneth",3.00,13.30
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,7,21,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-10,0,2,3.60,"Adams, Steven",4.30,16.80
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,3,21,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",21,0,1,1.40,"Ibaka, Serge",7.00,10.50
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,2,02,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-7,-2,4,3.80,"Durant, Kevin",2.20,19.90
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,2,10,49,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,3,8,7.20,"Johnson, Amir",2.70,17.50
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,1,6,13,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-7,12,0,1.20,"Garcia, Francisco",1.20,19.50
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,1,7,21,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Utah Jazz",-21,-8,6,6.00,"Favors, Derrick",2.40,15.50
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,2,3,20,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,-2,4,4.00,"Smith, Josh",2.10,19.40
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,3,6,30,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Miami Heat",17,0,4,5.20,"James, LeBron",2.60,19.50
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,4,4,57,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,0,12,10.80,"Cunningham, Dante",2.60,13.90
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,3,6,28,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",-10,3,8,8.30,"Favors, Derrick",2.00,16.50
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,5,34,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-10,-3,10,9.10,"Cunningham, Dante",3.10,15.40
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,5,36,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,0,5,6.80,"Ajinca, Alexis",1.90,18.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,4,1,51,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",18,12,0,1.00,"Thompson, Klay",4.30,15.20
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,3,1,44,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",-16,6,11,10.00,"Nicholson, Andrew",3.20,14.90
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,3,55,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",4,6,10,7.40,"Green, Jeff",3.50,16.90
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,1,3,57,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,-5,4,5.10,"Lamb, Jeremy",5.90,7.70
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,5,31,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Washington Wizards",18,1,1,1.70,"Wall, John",1.30,20.70
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,3,10,12,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,0,2,2.60,"Calderon, Jose",1.90,23.60
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,4,10,43,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"New York Knicks",23,0,6,8.70,"Stoudemire, Amare",2.20,12.40
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,9,09,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,3,8,7.50,"Patterson, Patrick",1.90,16.40
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,1,8,11,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",-18,7,8,7.00,"Valanciunas, Jonas",3.20,17.40
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,2,6,41,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,-8,6,5.60,"Aldridge, LaMarcus",2.30,18.70
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,9,26,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",-15,1,5,4.40,"Thompson, Jason",2.10,16.20
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,0,48,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,1,3,3.20,"Mills, Patty",4.30,3.40
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,3,6,22,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",9,0,1,1.40,Nene,3.10,23.20
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,3,2,41,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",7,-3,1,3.30,"Allen, Lavoy",13.10,22.60
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,4,47,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",2,0,1,1.70,"Roberson, Andre",14.00,22.70
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,4,10,21,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",-4,0,1,1.80,"Bonner, Matt",10.00,22.00
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,3,6,45,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,0,1,1.70,"Butler, Caron",5.00,21.40
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,4,0,44,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",2,0,0,1.80,"Hill, George",1.50,22.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,5,50,0,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",1,4,3,2.60,"Diaw, Boris",1.80,21.80
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,3,53,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",6,1,1,1.60,"Batum, Nicolas",22.60,22.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,5,36,1,"Fadeaway Bank shot","2PT Field Goal",12,"Portland Trail Blazers",127,14,4,4.10,"Lopez, Robin",3.30,15.60
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,0,24,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Atlanta Hawks",133,127,6,5.70,"Scott, Mike",5.80,18.50
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,1,9,11,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Denver Nuggets",119,97,3,5.40,"Lawson, Ty",3.90,14.00
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,1,1,39,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",168,3,0,0.30,"Harris, Devin",2.90,14.60
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,4,4,44,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Denver Nuggets",-46,198,3,2.40,"Hickson, JJ",4.10,4.20
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,10,14,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Charlotte Hornets",89,146,5,3.30,"Sessions, Ramon",2.90,8.00
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,1,0,02,1,"Fadeaway Jump Shot","2PT Field Goal",17,"New York Knicks",155,86,12,9.90,"Anthony, Carmelo",4.30,0.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,1,8,29,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Atlanta Hawks",198,42,9,8.00,"Millsap, Paul",2.50,15.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,4,8,47,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",1,69,16,15.70,"Hill, Jordan",3.80,8.90
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,2,2,38,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-2,86,4,6.60,"Walker, Kemba",1.20,17.80
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,3,11,09,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",110,131,8,5.70,"Lopez, Robin",4.90,10.00
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,3,10,01,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Toronto Raptors",149,0,2,2.40,"Ross, Terrence",3.20,18.60
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,3,5,22,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",53,89,3,6.40,"Batum, Nicolas",4.00,16.90
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,2,0,07,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",118,33,0,1.00,"Love, Kevin",3.00,7.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,2,0,37,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",12,0,14,11.20,"Webster, Martell",1.40,13.20
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,1,6,44,1,"Floating Jump shot","2PT Field Goal",9,"Memphis Grizzlies",-86,48,2,5.40,"Conley, Mike",2.60,10.60
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,1,11,18,0,"Floating Jump shot","2PT Field Goal",10,"Chicago Bulls",9,101,1,1.60,"Hinrich, Kirk",2.20,14.50
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,8,39,1,"Floating Jump shot","2PT Field Goal",5,"Los Angeles Lakers",2,52,3,3.00,"Kaman, Chris",2.20,10.20
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,3,10,58,0,"Floating Jump shot","2PT Field Goal",5,"Portland Trail Blazers",-51,15,4,3.80,"Lillard, Damian",2.00,20.10
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,2,10,45,0,"Floating Jump shot","2PT Field Goal",10,"Utah Jazz",-73,69,0,0.00,"Burks, Alec",4.40,10.50
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,11,05,1,"Floating Jump shot","2PT Field Goal",6,"Boston Celtics",-65,19,2,1.70,"Rondo, Rajon",1.70,20.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,4,9,31,0,"Floating Jump shot","2PT Field Goal",8,"Golden State Warriors",-49,75,0,0.80,"Green, Draymond",5.80,0.90
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,1,6,05,0,"Floating Jump shot","2PT Field Goal",8,"Miami Heat",-60,66,5,5.20,"James, LeBron",5.60,2.30
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,3,1,12,0,"Floating Jump shot","2PT Field Goal",7,"Denver Nuggets",36,67,14,13.30,"Randolph, Anthony",3.10,10.10
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,2,1,39,0,"Floating Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",-7,83,1,1.40,"Sefolosha, Thabo",5.80,7.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,1,16,0,"Floating Jump shot","2PT Field Goal",6,"San Antonio Spurs",-27,58,1,1.90,"Duncan, Tim",6.00,14.40
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,3,5,54,0,"Floating Jump shot","2PT Field Goal",11,"Utah Jazz",-52,107,14,10.70,"Burke, Trey",2.20,12.50
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,2,2,56,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",20,77,9,8.00,"McLemore, Ben",2.10,16.20
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,2,1,39,0,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",-5,89,1,1.50,"Koufos, Kosta",2.70,11.00
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,4,0,59,1,"Floating Jump shot","2PT Field Goal",9,"Philadelphia 76ers",-87,36,6,4.50,"Anderson, James",3.10,8.20
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,6,25,0,"Floating Jump shot","2PT Field Goal",9,"Los Angeles Clippers",-13,94,1,2.60,"Crawford, Jamal",1.20,8.60
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,5,09,0,"Jump Bank Shot","2PT Field Goal",7,"Cleveland Cavaliers",-65,36,1,3.80,"Deng, Luol",1.70,18.70
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,9,19,1,"Jump Bank Shot","2PT Field Goal",13,"Portland Trail Blazers",122,58,7,6.70,"Williams, Mo",3.20,17.90
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,3,10,12,0,"Jump Bank Shot","2PT Field Goal",11,"Los Angeles Clippers",105,33,1,2.00,"Paul, Chris",1.90,17.00
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,1,8,52,1,"Jump Bank Shot","2PT Field Goal",10,"Golden State Warriors",-103,31,11,10.90,"Curry, Stephen",3.00,15.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,8,50,1,"Jump Bank Shot","2PT Field Goal",3,"Washington Wizards",34,15,0,0.70,"Ariza, Trevor",1.40,0.80
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,2,6,25,0,"Jump Bank Shot","2PT Field Goal",3,"Utah Jazz",37,3,2,3.60,"Burke, Trey",1.30,11.90
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,3,9,04,1,"Jump Bank Shot","2PT Field Goal",7,"Denver Nuggets",-71,36,1,4.70,"Lawson, Ty",2.50,17.90
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,4,4,22,1,"Jump Bank Shot","3PT Field Goal",24,"Philadelphia 76ers",89,228,0,0.80,"Young, Thaddeus",4.50,1.70
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,3,3,56,1,"Jump Bank Shot","2PT Field Goal",10,"Memphis Grizzlies",103,28,1,2.10,"Allen, Tony",0.90,8.00
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,0,05,0,"Jump Bank Shot","2PT Field Goal",8,"Cleveland Cavaliers",84,14,23,21.40,"Zeller, Tyler",3.00,2.60
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,5,17,0,"Jump Bank Shot","2PT Field Goal",11,"Milwaukee Bucks",102,47,9,8.40,"Knight, Brandon",1.70,15.60
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,3,10,24,0,"Jump Bank Shot","2PT Field Goal",4,"Minnesota Timberwolves",-35,25,4,4.10,"Love, Kevin",4.30,6.80
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,2,0,27,1,"Jump Bank Shot","2PT Field Goal",11,"Minnesota Timberwolves",111,20,9,7.40,"Rubio, Ricky",1.50,16.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,2,7,56,0,"Jump Bank Shot","2PT Field Goal",10,"Dallas Mavericks",102,33,3,2.90,"Larkin, Shane",1.70,5.00
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,4,36,1,"Jump Bank Shot","2PT Field Goal",5,"Indiana Pacers",-48,22,14,12.20,"Hill, George",0.80,11.80
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,1,9,04,1,"Jump Bank Shot","2PT Field Goal",6,"Memphis Grizzlies",-59,31,6,5.50,"Koufos, Kosta",4.70,19.10
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,5,41,1,"Jump Bank Shot","3PT Field Goal",24,"New Orleans Pelicans",0,246,12,9.70,"Evans, Tyreke",3.20,7.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,3,43,0,"Jump Bank Shot","2PT Field Goal",6,"San Antonio Spurs",-59,30,2,1.40,"Ginobili, Manu",2.90,3.20
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,2,2,07,0,"Jump Bank Shot","2PT Field Goal",16,"Sacramento Kings",143,91,6,4.90,"Thompson, Jason",1.90,1.20
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,8,51,0,"Jump Bank Shot","2PT Field Goal",13,"New Orleans Pelicans",124,47,13,14.30,"Roberts, Brian",2.50,9.20
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,1,6,32,0,"Jump Bank Shot","2PT Field Goal",8,"Milwaukee Bucks",81,39,10,10.60,"Sanders, Larry",2.00,13.40
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,5,15,0,"Jump Hook Shot","2PT Field Goal",1,"Dallas Mavericks",-4,19,1,1.80,"Marion, Shawn",1.10,3.40
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,3,5,56,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-87,-24,5,3.80,"Bynum, Will",3.70,19.00
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,5,41,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-164,190,8,10.10,"Gortat, Marcin",4.60,8.20
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,7,06,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",157,197,0,0.90,"Irving, Kyrie",5.70,15.00
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,4,1,46,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",141,118,1,1.70,"Deng, Luol",3.20,5.70
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,1,9,06,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-160,190,0,0.80,"Turner, Evan",4.70,4.70
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,1,7,59,1,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",-89,34,5,5.00,"Hawes, Spencer",4.80,19.10
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,1,2,20,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",113,149,10,9.30,"Dedmon, Dewayne",5.00,14.30
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,2,4,28,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",189,184,2,5.30,"Carter-Williams, Michael",5.30,8.40
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,3,7,44,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",97,239,0,2.50,"Young, Thaddeus",5.10,15.60
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,4,4,51,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",116,124,10,8.70,"Turner, Evan",3.40,14.90
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,1,10,46,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",111,227,0,1.20,"Knight, Brandon",4.40,21.00
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,1,9,45,1,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-120,44,6,6.70,"Antetokounmpo, Giannis",9.70,18.90
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,2,4,51,1,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",65,123,6,6.10,"Butler, Caron",10.30,13.90
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,4,4,02,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",103,233,0,1.00,"Sanders, Larry",4.90,4.90
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,4,2,52,1,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",228,-14,0,1.00,"Ilyasova, Ersan",5.00,1.20
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,4,2,19,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-150,204,3,5.20,"Sanders, Larry",3.70,8.60
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,11,04,1,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",2,75,2,5.20,"Hill, George",1.20,11.90
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,2,09,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",223,160,1,2.20,"Hill, George",5.00,11.90
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,0,06,1,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-155,0,26,19.90,"Hibbert, Roy",4.40,4.20
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,11,40,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",160,47,5,3.70,"George, Paul",3.90,6.30
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,5,05,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",165,197,4,3.60,"West, David",4.20,4.00
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,8,05,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",92,228,0,1.30,"Sessions, Ramon",6.60,3.20
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,6,39,1,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",20,41,2,4.20,"Sessions, Ramon",1.50,18.00
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,4,17,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",125,213,12,8.80,"Noah, Joakim",5.20,4.90
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,0,19,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",102,225,0,0.00,"Gibson, Taj",3.40,0.00
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,2,3,38,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-109,222,6,6.90,"Lin, Jeremy",3.30,16.70
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,2,1,01,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-235,15,0,0.90,"Harden, James",5.30,18.60
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,3,7,41,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",4,244,6,6.50,"Parsons, Chandler",4.50,4.00
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,4,3,35,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-164,183,0,0.90,"Howard, Dwight",5.80,14.60
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,1,5,09,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",42,246,0,0.90,"Thompson, Klay",7.20,15.20
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,2,5,07,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-29,254,0,2.80,"Thompson, Klay",4.50,2.80
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,3,10,15,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",136,213,2,1.80,"Iguodala, Andre",3.90,3.40
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,4,6,56,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",231,96,0,1.10,"ONeal, Jermaine",5.90,7.10
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,4,1,16,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-103,151,22,16.50,"Green, Draymond",4.60,6.60
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,4,0,36,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",53,239,20,17.40,"Green, Draymond",4.40,6.70
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,1,10,15,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",171,187,6,4.80,"Douglas, Toney",5.20,19.00
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,4,7,46,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-237,-6,0,1.00,"Chalmers, Mario",2.00,8.60
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,1,8,32,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-128,209,6,5.00,"Faried, Kenneth",4.60,4.60
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,3,6,15,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-157,206,19,14.10,"Sullinger, Jared",4.00,9.40
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,3,3,29,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",122,213,1,1.70,"Bass, Brandon",4.80,6.70
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,1,8,12,1,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",119,-13,0,1.20,"Joseph, Cory",3.20,15.00
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,2,9,46,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",28,113,8,7.70,"Brown, Shannon",1.90,9.40
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,1,2,03,1,"Jump Shot","2PT Field Goal",17,"Houston Rockets",132,118,0,0.90,"Howard, Dwight",5.10,13.30
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,7,21,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",78,236,0,3.20,"Jones, Terrence",7.60,21.40
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,2,3,13,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-70,241,3,3.70,"Budinger, Chase",4.90,14.00
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,3,6,22,1,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",-67,129,4,5.20,"Rubio, Ricky",3.70,19.50
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,4,3,46,0,"Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",13,126,11,9.10,"Rubio, Ricky",2.40,15.30
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,7,22,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-117,227,0,1.00,"Ajinca, Alexis",10.60,12.90
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,0,58,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-228,1,0,1.30,"Aminu, Al-Farouq",5.60,19.80
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,4,33,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-101,140,2,2.60,"Gordon, Eric",4.50,14.20
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,2,42,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",113,222,16,15.40,"Davis, Anthony",5.80,7.90
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,1,9,07,0,"Jump Shot","2PT Field Goal",4,"Atlanta Hawks",-38,31,6,5.30,"Scott, Mike",2.20,16.30
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,1,8,10,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",83,236,0,1.00,"Teague, Jeff",14.70,11.10
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,2,1,26,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",230,0,0,0.80,"Carroll, DeMarre",4.90,8.80
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,2,1,19,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",233,-19,0,0.90,"Collison, Darren",5.00,12.60
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,3,10,40,1,"Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",-18,55,8,7.60,"Jordan, DeAndre",3.10,6.10
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,10,21,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-134,149,5,4.30,"Ibaka, Serge",4.10,3.00
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,3,18,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",236,56,0,1.40,"Jackson, Reggie",4.20,13.60
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,2,3,15,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",130,213,15,13.30,"Butler, Caron",4.10,11.00
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,3,7,27,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-100,241,0,1.10,"Paul, Chris",3.70,10.20
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,1,8,50,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-82,244,0,1.00,"Irving, Kyrie",4.00,13.00
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,2,6,50,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",168,192,0,1.40,"Waiters, Dion",4.40,12.60
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,2,6,10,0,"Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",-46,77,4,4.80,"Jack, Jarrett",4.00,2.20
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,8,34,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",230,1,0,1.00,"Hawes, Spencer",4.20,13.90
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,1,33,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-234,7,0,0.50,"Bradley, Avery",2.50,19.40
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,3,7,12,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-190,175,0,0.00,"Bass, Brandon",4.10,9.60
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,4,8,40,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-229,6,0,0.00,"Bradley, Avery",3.30,12.90
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,1,6,43,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",99,233,11,10.00,"Lowry, Kyle",3.70,13.00
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,4,4,51,1,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",7,47,6,7.60,"Vasquez, Greivis",1.40,9.00
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,1,9,53,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",171,-5,0,0.90,"Livingston, Shaun",6.50,13.00
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,2,3,12,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-239,-5,0,0.90,"Harkless, Maurice",3.90,9.80
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,1,0,01,1,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",-73,30,10,10.30,"Smith, Josh",2.40,0.00
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,2,2,51,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",125,222,0,1.10,"Smith, Josh",7.00,9.80
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,1,9,58,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",140,206,12,9.90,"Rubio, Ricky",3.50,14.60
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,3,9,29,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",-141,34,6,5.90,"Love, Kevin",4.20,13.40
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,3,6,49,1,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",144,37,4,3.60,"Martin, Kevin",4.60,14.00
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,4,7,28,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",192,165,10,10.20,"Rubio, Ricky",3.80,12.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,1,11,14,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",239,23,0,1.30,"Mack, Shelvin",19.80,19.50
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,1,0,41,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",138,224,0,2.50,"Millsap, Paul",7.10,3.20
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,0,32,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-128,211,9,8.00,"Webster, Martell",5.20,16.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,2,2,00,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",168,197,0,1.00,"Webster, Martell",4.60,13.40
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,6,05,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",146,209,0,0.90,"Wall, John",4.30,9.30
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,3,51,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",163,225,0,1.10,"Gortat, Marcin",4.70,2.00
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,11,41,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",125,213,0,0.90,"Anthony, Carmelo",5.70,17.60
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,6,37,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",24,157,8,6.90,"Smith, J.R.",4.10,18.10
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,6,01,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-226,123,0,1.20,"Felton, Raymond",4.90,10.00
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,5,00,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",121,227,0,0.90,"Stoudemire, Amare",6.30,12.60
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,2,4,03,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",59,242,0,1.00,"Felton, Raymond",6.50,22.40
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,9,30,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-237,6,0,0.90,"Smith, J.R.",5.50,8.00
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,8,55,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",225,-17,0,1.20,"Prigioni, Pablo",4.10,12.30
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,0,04,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",220,131,6,4.40,"Chandler, Tyson",5.10,2.70
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,6,37,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",165,184,0,1.40,"Bazemore, Kent",2.60,13.80
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,4,21,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-71,257,0,0.80,"Marshall, Kendall",4.50,5.30
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,4,5,31,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-127,239,5,5.80,"Kelly, Ryan",6.10,10.70
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,1,2,38,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-218,164,2,2.50,"Barnes, Matt",4.30,2.30
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,3,8,16,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",23,121,0,0.00,"Paul, Chris",3.50,20.80
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,2,9,11,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",190,160,0,1.00,"Williams, Mo",13.90,3.60
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,6,31,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-75,142,11,10.40,"Jackson, Reggie",5.70,13.00
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,4,10,1,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-7,30,16,12.20,"Jackson, Reggie",3.00,11.20
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,2,23,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-215,129,0,1.60,"Westbrook, Russell",4.30,13.20
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,0,09,0,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",54,30,20,18.60,"Butler, Caron",1.80,5.00
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,6,56,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",179,167,1,1.30,"Roberts, Brian",3.80,11.20
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,2,7,20,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,1,0,1.00,"Morrow, Anthony",0.20,7.60
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,4,3,33,1,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",143,3,2,2.70,"Stiemsma, Greg",4.80,12.70
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,4,2,38,1,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-127,-3,0,1.00,"Stiemsma, Greg",5.40,19.60
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,1,2,09,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",140,126,0,1.10,"Harris, Devin",4.10,10.60
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,3,0,00,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-92,42,5,4.50,"Marion, Shawn",1.10,0.00
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,4,52,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",189,22,0,1.20,"Ellis, Monta",3.80,18.00
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,1,10,17,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-82,140,2,3.80,"Gasol, Marc",3.90,7.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,11,34,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",45,179,4,5.40,"Aldridge, LaMarcus",5.50,1.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,8,45,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-229,15,0,0.90,"Matthews, Wesley",3.80,19.30
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,0,00,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-207,-17,0,0.70,"Williams, Mo",1.30,0.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,5,27,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",7,127,6,7.40,"Lillard, Damian",4.30,15.90
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,2,06,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",154,-19,8,5.60,"Lillard, Damian",3.10,12.10
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,2,7,41,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",105,241,4,3.70,"Favors, Derrick",6.00,1.90
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,1,4,36,1,"Jump Shot","2PT Field Goal",7,"Utah Jazz",42,56,10,9.60,"Kanter, Enes",4.00,15.10
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,1,4,00,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",135,67,17,10.90,"Lucas III, John",5.30,12.30
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,1,3,27,1,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-117,74,0,1.10,"Durant, Kevin",5.70,18.40
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,1,0,01,1,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-56,101,5,5.00,"Thomas, Lance",3.90,0.00
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,2,0,00,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",214,172,0,0.90,"Holiday, Jrue",3.50,0.00
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,4,2,33,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",228,12,0,1.20,"Holiday, Jrue",4.70,18.00
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,4,10,13,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",45,236,7,4.70,"Lopez, Robin",4.40,9.70
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,4,9,23,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-199,140,14,11.80,"Lopez, Robin",4.80,11.70
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,3,6,55,1,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",23,42,9,6.20,"Valanciunas, Jonas",4.80,13.20
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,7,52,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",147,38,5,4.40,"Gasol, Pau",3.90,0.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,9,41,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",235,9,0,0.40,"Meeks, Jodie",5.00,0.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,7,14,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",150,208,0,1.00,"Blake, Steve",4.40,0.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,0,37,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",97,261,0,3.00,"Meeks, Jodie",3.80,4.90
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,2,1,04,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",239,-27,0,0.80,"Gasol, Pau",5.90,5.70
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,3,6,41,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",81,123,3,3.20,"Bryant, Kobe",4.60,21.20
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,3,3,39,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",-103,265,4,4.60,"Young, Nick",4.80,1.70
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,1,8,32,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",122,224,0,1.20,"Thomas, Isaiah",3.00,12.00
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,1,6,49,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-117,138,1,1.70,"Thomas, Isaiah",3.90,14.80
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,2,9,42,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-237,25,0,1.00,"Fredette, Jimmer",5.90,16.90
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,2,4,38,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-224,15,0,1.00,"Thomas, Isaiah",14.40,8.40
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,3,6,13,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",228,104,0,1.30,"Cousins, DeMarcus",5.70,22.70
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,1,10,21,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",192,156,7,6.70,"Curry, Stephen",4.10,18.10
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,2,1,49,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-234,-5,0,0.70,"Curry, Stephen",5.70,14.70
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,3,10,02,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",166,194,0,1.00,"Barnes, Harrison",4.10,9.90
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,3,5,36,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-232,20,0,1.10,"Bogut, Andrew",9.10,20.80
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,3,9,07,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",-21,64,12,9.60,"Leonard, Kawhi",3.30,13.70
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,1,8,04,1,"Jump Shot","2PT Field Goal",8,"Denver Nuggets",-4,88,8,7.80,"Foye, Randy",6.20,12.90
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,2,5,32,1,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-49,94,8,6.90,"Lawson, Ty",4.50,10.40
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,3,0,01,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",-4,37,14,11.80,"Randolph, Anthony",0.30,0.00
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,4,1,46,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-34,102,4,4.70,"Lawson, Ty",0.10,2.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,2,6,37,1,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",159,-3,1,3.40,"Ellington, Wayne",1.30,4.50
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,2,7,57,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",105,126,11,8.80,"Meeks, Jodie",3.10,16.50
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,2,0,00,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",-27,31,9,6.90,"Iguodala, Andre",1.60,0.00
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,1,7,23,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-237,9,0,1.20,"Young, Thaddeus",4.00,19.30
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,3,47,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-231,0,0,1.40,"Crawford, Jamal",1.90,14.10
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,2,5,53,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-68,164,0,0.80,"Collison, Darren",5.10,10.90
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,3,1,41,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-90,69,3,2.50,"Collison, Darren",2.40,2.70
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,2,2,50,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",141,-8,13,9.70,"Bayless, Jerryd",3.80,15.40
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,3,47,1,"Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",-79,25,16,12.20,"Bayless, Jerryd",2.40,11.00
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,7,22,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-98,228,6,5.90,"Bayless, Jerryd",5.00,17.00
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,6,45,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-106,222,0,0.00,"Leuer, Jon",0.80,14.30
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,9,24,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",233,-6,0,2.50,"Ridnour, Luke",2.90,12.90
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,8,51,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",108,222,14,10.20,"Ilyasova, Ersan",3.60,12.90
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,0,00,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",89,146,3,3.40,"Mayo, O.J.",2.50,0.00
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,8,30,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-144,104,5,6.10,"Hinrich, Kirk",7.50,4.90
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,8,03,1,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",7,36,4,4.30,"Hinrich, Kirk",1.20,18.90
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,3,3,20,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",136,209,1,1.60,"Gibson, Taj",5.80,15.40
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,4,9,07,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",54,244,9,5.50,"Noah, Joakim",5.50,13.20
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,1,3,47,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-226,44,0,1.60,"Rubio, Ricky",4.30,15.00
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,6,46,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-57,238,9,8.30,"Rubio, Ricky",5.40,15.90
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,4,16,1,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",15,225,8,8.50,"Rubio, Ricky",4.40,15.60
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,1,9,39,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",86,127,12,10.90,"Conley, Mike",5.10,13.90
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,1,8,09,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",114,219,0,1.00,"Conley, Mike",5.10,13.60
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,2,6,26,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-27,242,0,0.90,"Conley, Mike",5.40,11.00
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,3,8,33,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-142,195,2,3.50,"Conley, Mike",3.10,16.90
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,4,0,01,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-120,222,8,5.10,"Lee, Courtney",5.20,0.00
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,2,4,51,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",177,26,0,2.60,"Smith, Josh",17.10,24.00
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,2,0,06,1,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",122,254,23,19.30,"Bynum, Will",2.10,4.80
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,3,9,24,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",192,175,9,9.00,"Monroe, Greg",5.80,15.00
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,1,10,19,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-171,173,0,1.10,"Bargnani, Andrea",16.00,12.70
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,1,3,13,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",58,249,0,0.00,"Felton, Raymond",5.90,22.10
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,0,00,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-234,-33,0,0.00,"Hardaway Jr., Tim",1.60,0.00
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,3,10,24,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-164,181,6,6.60,"Martin, Kenyon",4.90,15.70
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,5,3,38,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",-32,14,25,21.70,"Martin, Kenyon",4.50,3.00
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,1,6,19,1,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-5,30,4,4.90,"Meeks, Jodie",1.10,19.90
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,4,5,02,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",193,-10,0,0.10,"Marshall, Kendall",5.90,14.80
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,9,50,1,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",105,198,6,5.90,"Larkin, Shane",8.70,4.20
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,2,2,45,1,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",34,56,19,16.60,"Hickson, JJ",2.50,6.50
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,1,5,26,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",189,156,13,10.60,"Hill, George",4.80,14.70
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,2,2,03,0,"Jump Shot","2PT Field Goal",4,"Indiana Pacers",-7,41,0,0.80,"West, David",4.40,8.80
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,2,0,09,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",140,116,19,18.30,"Hill, George",1.80,5.60
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,3,7,12,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",159,192,4,2.80,"George, Paul",8.20,15.90
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,1,10,40,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-97,220,0,0.90,"Teague, Jeff",2.80,13.10
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,7,29,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-139,26,1,1.40,"Batum, Nicolas",7.10,14.60
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,1,4,40,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",231,19,0,0.90,"Martin, Kevin",4.40,4.70
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,8,20,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-232,20,0,0.90,"Garnett, Kevin",7.30,15.10
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,5,59,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",163,206,3,2.80,"Bayless, Jerryd",2.70,10.70
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,1,3,49,0,"Jump Shot","2PT Field Goal",9,"Denver Nuggets",1,94,4,3.60,"Lawson, Ty",1.30,20.60
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,1,36,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",168,186,1,1.80,"Rubio, Ricky",4.80,11.20
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,6,52,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-187,156,0,1.00,"Marion, Shawn",6.60,11.90
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,2,4,30,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",147,201,0,1.00,"Bayless, Jerryd",4.30,5.10
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,3,9,04,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",144,7,3,3.70,"Gibson, Taj",3.80,8.80
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,3,58,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",95,230,6,5.60,"Aldridge, LaMarcus",6.30,19.00
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,1,5,41,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",10,89,1,1.70,"Thomas, Isaiah",2.50,10.90
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,1,9,12,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",21,86,0,0.00,"Curry, Stephen",3.70,13.40
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,1,9,06,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",133,219,8,6.20,"Cunningham, Dante",6.00,3.50
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,4,0,25,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-242,23,2,2.80,"Miller, Mike",7.60,21.70
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,4,6,53,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",230,-10,0,0.80,"Paul, Chris",3.10,13.60
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,3,10,13,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",174,203,0,1.00,"Bryant, Kobe",9.60,8.50
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,1,3,40,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",108,219,18,14.90,"Bayless, Jerryd",4.90,9.90
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,3,5,05,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",64,153,8,8.70,"Rubio, Ricky",3.60,2.30
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,8,05,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",174,205,4,4.40,"Prigioni, Pablo",3.50,10.20
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,2,11,35,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-70,131,10,9.50,"Jackson, Reggie",1.90,15.10
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,1,6,57,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-71,242,2,2.70,"Irving, Kyrie",3.70,17.10
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,3,1,10,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",-5,93,1,1.10,"Green, Danny",4.30,23.90
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,2,1,05,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",72,241,7,7.00,"Sessions, Ramon",4.00,15.00
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,1,34,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-106,138,12,9.80,"Livingston, Shaun",4.00,12.90
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,1,7,44,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-49,25,8,7.70,"Joseph, Cory",1.70,16.60
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,3,8,14,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-21,159,11,9.80,"Aminu, Al-Farouq",6.40,13.70
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,2,4,18,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",29,247,13,12.40,"Lopez, Robin",5.60,12.40
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,2,3,43,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-13,263,3,3.20,"Griffin, Blake",4.90,16.00
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,3,10,09,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-18,30,0,2.30,"Bogut, Andrew",2.60,6.70
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,1,9,17,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",223,-21,6,5.70,"Green, Jeff",6.00,0.00
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,4,11,05,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",32,0,10,8.00,"Stoudemire, Amare",5.00,10.70
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,3,9,03,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",204,154,0,1.20,"Wall, John",5.30,18.90
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,1,5,14,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",143,208,0,0.60,"Lawson, Ty",3.90,12.60
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,2,3,51,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-239,-8,1,2.10,"Dunleavy, Mike",3.00,4.90
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,4,2,54,0,"Jump Shot","2PT Field Goal",12,"Toronto Raptors",-125,-13,0,0.10,"Johnson, Amir",3.80,0.90
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,3,4,13,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",237,-14,0,0.80,"Carter-Williams, Michael",5.10,13.90
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,3,10,22,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-73,249,0,1.30,"Lee, Courtney",3.70,13.70
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,4,1,13,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-204,149,1,1.60,"Deng, Luol",4.10,21.10
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,9,03,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,31,0,1.00,"Allen, Tony",3.50,19.00
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,4,11,19,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-212,137,0,0.90,"Olynyk, Kelly",5.50,6.20
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,2,4,39,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",91,238,1,2.10,"Pierce, Paul",4.30,9.50
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,11,43,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-89,44,1,0.90,"Lillard, Damian",2.20,10.60
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,4,7,02,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",124,227,1,1.20,"Olynyk, Kelly",4.60,14.60
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,6,56,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-122,225,0,1.00,"Matthews, Wesley",5.40,8.80
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,1,8,52,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",233,0,0,1.90,"Gasol, Pau",17.20,17.70
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,3,6,06,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",15,238,3,3.60,"Allen, Tony",3.10,17.20
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,2,4,05,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-86,153,12,11.30,"Lopez, Robin",4.40,13.20
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,7,48,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-114,127,11,9.30,"Watson, CJ",3.40,15.00
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,3,5,36,0,"Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-40,64,2,2.00,"Blatche, Andray",2.60,1.00
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,2,2,38,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-116,222,4,7.80,"Young, Thaddeus",3.90,8.00
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,3,8,07,0,"Jump Shot","2PT Field Goal",8,"Utah Jazz",58,58,6,6.10,"Burke, Trey",1.50,17.30
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,4,7,03,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",28,17,6,5.60,"Rivers, Austin",1.20,8.00
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,1,6,27,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",130,220,10,8.40,"Paul, Chris",5.30,16.50
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,2,6,57,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",4,56,10,11.10,"Faried, Kenneth",3.80,12.90
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,10,01,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-188,187,8,6.70,"Beal, Bradley",3.80,15.90
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,4,3,26,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",73,146,8,8.20,"Lopez, Robin",3.50,12.20
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,2,4,28,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",108,231,0,1.00,"Gordon, Eric",3.80,2.10
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,2,0,02,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",31,255,13,8.40,"Paul, Chris",2.30,0.00
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,3,10,28,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-226,96,0,0.80,"Kanter, Enes",9.40,8.80
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,3,4,32,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",121,213,1,1.50,"Rush, Brandon",3.80,6.70
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,0,12,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",231,4,0,1.00,"Gortat, Marcin",4.00,0.00
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,1,2,20,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-202,143,0,1.00,"Hansbrough, Tyler",8.20,19.10
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,3,8,53,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-138,214,0,1.00,"Douglas, Toney",6.30,6.60
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,0,01,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",-146,4,14,13.90,"Mohammed, Nazr",4.40,0.00
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,4,4,14,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",218,126,10,8.30,"Paul, Chris",3.60,15.30
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,1,4,27,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",80,224,4,4.60,"Jones, Terrence",4.30,4.70
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,2,11,41,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",40,156,1,1.30,"Roberts, Brian",4.50,7.90
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,9,16,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-123,93,9,8.40,"Hill, George",3.30,14.90
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,7,25,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",160,123,8,7.70,"Matthews, Wesley",5.10,14.70
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,1,8,50,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",159,-8,4,3.70,"Noah, Joakim",5.00,21.50
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,11,11,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",195,7,2,3.30,"Batum, Nicolas",4.30,11.30
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,1,3,23,0,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",0,91,0,0.70,"Walker, Kemba",1.60,11.40
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,2,0,04,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",-41,17,20,17.90,"Zeller, Cody",2.50,4.10
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,4,2,30,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-27,236,5,6.10,"Casspi, Omri",4.90,6.40
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,6,10,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-146,208,4,4.70,"Thompson, Tristan",0.70,12.60
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,3,28,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-158,4,10,10.30,"Teague, Jeff",10.00,14.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,3,6,56,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",190,-16,5,4.60,"Vasquez, Greivis",3.20,16.80
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,4,0,14,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-147,206,5,4.80,"Jordan, DeAndre",5.00,14.50
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,1,3,35,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-19,250,0,1.00,"James, LeBron",6.10,11.80
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,11,18,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",36,242,0,1.20,"Harris, Devin",4.30,7.40
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,11,07,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",124,149,11,7.20,"Stiemsma, Greg",5.00,6.40
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,1,7,07,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",187,164,1,1.80,"Love, Kevin",4.40,11.00
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,2,4,32,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-158,77,1,1.90,"Wall, John",5.10,10.10
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,8,04,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-125,6,19,15.20,"Lopez, Robin",4.20,9.60
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,7,55,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",127,216,2,3.40,"Westbrook, Russell",4.70,9.80
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,4,3,31,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-54,244,0,0.90,"Cole, Norris",3.80,1.30
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,2,0,01,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",182,178,13,12.00,"Ibaka, Serge",4.70,0.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,1,10,47,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-229,-5,0,0.80,"Marion, Shawn",4.60,11.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,1,5,49,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-108,231,12,11.00,"Hill, Jordan",6.40,12.70
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,1,1,51,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",207,156,0,2.20,"Felton, Raymond",2.20,5.40
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,11,44,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-101,228,0,1.10,"Mills, Patty",4.00,11.50
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,4,5,54,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-41,9,9,9.50,"Turner, Evan",3.20,12.60
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,4,2,36,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-163,189,0,0.80,"Young, Thaddeus",6.40,15.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,3,21,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-98,124,3,3.10,"Booker, Trevor",4.10,6.00
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,1,8,17,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",170,14,4,3.50,"Batum, Nicolas",4.30,0.00
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,3,9,55,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-201,154,0,1.20,"Gortat, Marcin",9.30,20.20
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,2,6,04,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",4,244,0,1.10,"Cunningham, Dante",8.10,5.80
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,2,21,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",40,60,9,7.80,"Hill, George",3.50,3.00
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,1,11,01,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",124,0,1,3.60,"Marshall, Kendall",0.90,2.40
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,2,9,17,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",159,200,0,1.10,"Evans, Tyreke",6.00,20.90
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,10,26,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-70,110,1,1.80,"Cousins, DeMarcus",5.30,10.50
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,1,11,36,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",127,235,2,2.20,"Livingston, Shaun",3.10,4.20
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,3,9,17,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",138,213,10,10.20,"Rubio, Ricky",5.10,14.10
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,1,6,55,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",163,183,0,1.10,"Battier, Shane",3.40,20.40
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,1,6,49,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",217,151,0,1.30,"Faried, Kenneth",5.30,15.00
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,1,6,38,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",31,19,2,2.70,"Bogut, Andrew",3.80,13.80
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,1,0,51,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",181,-11,2,2.00,"Lowry, Kyle",4.40,9.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,8,01,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",212,140,0,1.20,"Nowitzki, Dirk",8.00,19.20
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,5,06,0,"Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",114,1,0,1.00,"Irving, Kyrie",3.90,7.40
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,7,30,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",130,222,0,0.90,"Roberts, Brian",3.50,2.50
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,8,18,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-166,187,0,1.50,"Williams, Deron",8.60,23.30
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,2,3,16,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",36,247,0,1.20,"Meeks, Jodie",4.80,17.00
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,1,6,04,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",133,151,5,5.60,"Pekovic, Nikola",4.80,18.60
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,2,2,22,0,"Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",18,72,19,16.60,"Butler, Caron",2.40,8.20
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,4,1,40,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-87,244,2,2.90,"Sanders, Larry",3.00,2.80
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,3,10,30,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",78,60,3,3.90,"Green, Jeff",4.10,6.00
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,3,8,16,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-120,148,4,4.10,"Walker, Kemba",2.20,5.60
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,8,10,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",31,4,3,3.50,"Williams, Mo",2.30,20.50
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,3,7,52,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-49,112,7,5.20,"Lee, David",5.70,12.10
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,1,07,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",234,88,0,0.30,"Dellavedova, Matthew",10.10,23.90
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,1,8,17,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",162,194,0,1.30,"Durant, Kevin",4.60,9.80
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,1,9,08,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",149,31,4,4.20,"Varejao, Anderson",5.00,19.50
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,4,4,55,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",36,173,23,17.60,"Williams, Marvin",4.70,7.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,3,9,41,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",80,-3,8,7.10,"Thompson, Jason",5.40,11.00
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,2,29,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-212,140,2,2.80,"Green, Danny",4.20,1.10
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,3,5,26,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-193,159,1,1.90,"Paul, Chris",4.10,17.00
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,1,6,30,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-64,50,4,4.10,"Hawes, Spencer",3.90,20.60
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,3,9,28,0,"Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",36,56,3,3.40,"Lee, Courtney",2.60,16.00
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,0,08,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",72,254,11,7.50,"Johnson, Chris",2.70,5.40
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,1,7,27,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-147,-21,3,3.00,"Griffin, Blake",5.60,4.40
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,4,44,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-29,9,9,7.40,"Ibaka, Serge",1.50,8.20
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,6,57,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-228,26,2,2.00,"Prince, Tayshaun",6.00,19.10
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,2,7,59,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-70,28,3,3.40,"Williams, Mo",2.00,11.00
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,3,5,01,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",173,173,1,1.90,"Harden, James",13.20,21.30
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,1,4,42,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",124,220,0,1.10,"Nelson, Jameer",4.10,0.00
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,4,9,28,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",4,108,2,2.40,"Turkoglu, Hedo",0.60,8.70
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,1,7,44,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-194,151,0,0.90,"Lee, Courtney",5.80,22.00
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,4,1,31,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-2,149,2,1.80,"Marshall, Kendall",1.50,3.40
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,3,8,15,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-158,183,10,9.70,"Griffin, Blake",3.70,8.40
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,1,7,01,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",242,-28,0,2.40,"Anthony, Carmelo",1.90,7.00
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,1,5,02,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-89,142,5,7.30,"Thomas, Isaiah",2.80,5.80
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,3,4,11,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",140,153,1,1.90,"Thomas, Isaiah",3.90,10.60
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,3,9,35,0,"Jump Shot","3PT Field Goal",27,"Orlando Magic",160,222,0,1.20,"Vucevic, Nikola",4.90,0.00
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,1,8,53,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",225,26,8,5.80,"Ibaka, Serge",5.40,7.60
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,1,8,57,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-103,145,4,4.40,"Ilyasova, Ersan",5.10,18.60
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,5,37,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",147,66,1,1.20,"Westbrook, Russell",4.00,12.90
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,4,4,09,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",89,104,1,1.80,"Carter-Williams, Michael",1.80,4.40
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,4,4,44,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",181,157,0,0.90,"Rubio, Ricky",5.70,7.00
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,7,55,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",166,183,0,1.60,"Lopez, Robin",6.20,4.00
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,2,2,44,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",70,145,3,3.30,"Collison, Darren",3.20,6.40
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,1,7,19,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",110,224,10,10.00,"Scott, Mike",4.50,14.80
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,10,14,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",70,113,9,9.20,"Chandler, Tyson",5.90,13.70
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,11,16,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-35,3,0,1.20,"Collison, Nick",2.00,9.80
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,3,8,31,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-40,30,6,7.80,"Green, Danny",2.80,5.10
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,1,3,28,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",127,83,6,5.40,"Lucas III, John",1.50,5.80
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,3,7,58,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-79,238,0,1.00,"Rondo, Rajon",4.00,13.90
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,1,9,45,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-150,-5,13,11.00,"Leonard, Kawhi",12.70,13.60
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,2,10,17,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-90,231,1,2.00,"Burks, Alec",3.80,18.20
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,4,1,17,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-175,167,20,16.90,"Bargnani, Andrea",6.10,4.00
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,3,3,01,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",233,-10,11,8.00,"Sacre, Robert",4.80,8.70
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,2,0,05,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",72,239,21,18.20,"Iguodala, Andre",3.50,4.10
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,7,34,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",196,63,3,2.90,"Teague, Jeff",3.80,12.50
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,2,0,54,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",233,-2,1,1.70,"Foye, Randy",4.80,19.40
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,2,11,44,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",102,224,0,1.40,"Thomas, Isaiah",6.10,11.60
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,3,10,59,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-117,105,5,5.70,"Nelson, Jameer",3.10,0.00
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,4,3,38,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",171,184,0,1.10,"Hickson, JJ",4.50,19.60
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,2,2,44,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",0,86,1,1.60,"Thompson, Klay",5.90,5.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,3,7,54,0,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-57,22,10,8.90,"Calderon, Jose",2.40,8.60
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,1,10,33,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",122,129,1,2.00,"Meeks, Jodie",6.90,0.40
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,2,0,16,0,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",28,126,2,2.20,"Calderon, Jose",1.90,8.80
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,1,11,09,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-139,203,0,1.70,"Meeks, Jodie",3.80,18.00
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,2,8,06,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-122,227,0,1.00,"Kelly, Ryan",5.30,2.70
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,3,1,59,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",141,9,6,6.30,"Rubio, Ricky",3.30,18.00
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,1,11,40,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",165,0,0,1.00,"Pekovic, Nikola",8.90,7.50
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,3,3,57,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",187,162,10,9.70,"Conley, Mike",4.90,14.90
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,2,0,04,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",73,236,21,20.10,"Vasquez, Greivis",4.30,3.90
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,1,5,35,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",140,195,0,1.60,"Beverley, Patrick",2.60,17.70
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,4,6,36,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-228,-11,0,0.90,"Stone, Julyan",3.50,8.20
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,4,6,56,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",129,216,5,5.80,"Lopez, Brook",7.10,14.60
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,3,5,28,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",1,249,1,1.80,"Hickson, JJ",4.40,10.20
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,3,11,08,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-109,47,13,12.20,"Roberts, Brian",3.30,12.10
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,3,9,16,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-5,105,3,2.70,"Paul, Chris",1.70,17.00
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,1,3,25,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",129,99,3,3.40,"Bass, Brandon",5.40,0.00
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,4,3,11,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-155,205,0,0.80,"Thomas, Isaiah",4.40,10.50
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,1,5,02,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-76,159,4,3.10,"Lucas III, John",5.00,12.70
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,6,35,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-202,135,0,1.30,"Calderon, Jose",3.30,12.50
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,3,27,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",106,101,0,1.10,"Williams, Mo",4.40,19.50
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,3,8,04,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-172,0,5,4.40,"Calderon, Jose",3.90,17.70
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,2,0,26,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",83,260,3,3.60,"Fournier, Evan",5.60,20.50
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,3,9,58,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-217,124,0,1.10,"Lillard, Damian",2.90,7.30
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,3,3,43,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",171,183,0,1.40,"Temple, Garrett",3.20,4.00
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,2,9,22,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",222,105,0,1.20,"Garrett, Diante",6.50,13.10
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-142,209,1,1.80,"Lin, Jeremy",2.40,0.00
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,2,3,20,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-153,137,2,2.90,"Ridnour, Luke",4.50,11.10
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,3,7,16,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-232,17,0,1.00,"Marion, Shawn",4.60,8.80
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,2,4,23,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",170,203,18,14.00,"Babbitt, Luke",6.10,10.00
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,11,15,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",80,134,9,7.20,"Koufos, Kosta",4.30,18.70
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,3,2,05,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",173,179,0,1.10,"Jack, Jarrett",4.30,19.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,2,4,56,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-147,201,8,8.60,"Wright, Brandan",3.90,9.30
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,1,8,51,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",163,78,9,8.50,"Calderon, Jose",3.50,17.60
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,1,5,50,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-239,-10,0,1.00,"Collison, Darren",3.90,15.80
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,0,18,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",83,228,5,3.90,"Vasquez, Greivis",3.80,20.20
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,3,0,01,0,"Jump Shot","2PT Field Goal",4,"Houston Rockets",-38,26,1,1.70,"Howard, Dwight",5.40,0.00
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,1,1,10,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",231,25,1,2.80,"Smith, Josh",14.30,6.80
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,9,45,0,"Jump Shot","2PT Field Goal",21,"Washington Wizards",171,124,1,1.50,"Wall, John",3.40,9.70
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,3,6,33,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",176,178,0,0.60,"Beverley, Patrick",2.20,13.30
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,3,12,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-163,6,1,2.20,"Augustin, D.J.",4.00,10.30
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,2,0,25,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-23,30,7,5.30,"Bazemore, Kent",2.50,18.80
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,1,10,07,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-95,153,0,1.20,"Thompson, Klay",3.90,16.10
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,5,19,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",61,239,7,6.80,"Vasquez, Greivis",4.30,18.00
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,3,10,02,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",-41,6,0,1.20,"Middleton, Khris",1.30,7.00
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,9,07,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",225,121,6,5.70,"Evans, Tyreke",3.90,9.90
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,1,2,43,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-46,11,4,4.30,"Jennings, Brandon",3.50,20.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,2,3,11,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",237,56,0,0.90,"Kaman, Chris",5.40,8.70
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,2,5,19,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",21,42,6,7.40,"Stone, Julyan",1.90,17.20
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,2,6,41,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",143,6,1,1.40,"Kelly, Ryan",3.80,16.70
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,1,13,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-79,96,11,10.10,"Lillard, Damian",4.20,13.40
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,5,24,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",118,30,1,2.20,"Hinrich, Kirk",1.20,11.40
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,3,6,36,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",203,170,0,2.20,"Jennings, Brandon",4.10,9.20
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,3,5,44,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-120,220,0,1.40,"Oladipo, Victor",5.40,11.30
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,3,7,40,0,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",119,69,0,1.00,"Knight, Brandon",2.40,9.60
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,1,41,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",211,140,6,9.00,"Jackson, Reggie",4.70,5.70
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,3,1,21,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",43,249,6,9.10,"Beasley, Michael",3.70,14.80
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,4,0,07,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",97,189,3,2.30,"Hinrich, Kirk",3.00,0.00
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,2,1,25,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-240,20,0,0.90,"Jefferson, Richard",4.30,11.10
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,3,34,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",23,60,0,1.60,"Jefferson, Al",3.60,6.20
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,2,4,08,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",-76,9,8,7.30,"Foye, Randy",3.60,15.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,0,47,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",138,200,12,11.70,"Carter, Vince",4.50,10.80
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,2,8,49,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-245,-10,0,1.00,"Allen, Tony",4.60,11.60
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,3,8,47,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",21,244,9,6.60,"Favors, Derrick",5.30,7.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,7,55,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",228,63,0,1.50,"Wright, Brandan",7.10,22.40
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,3,6,22,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-116,214,0,0.90,"Lowry, Kyle",3.90,19.10
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,1,22,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",157,208,0,1.00,"Young, Nick",4.20,5.80
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,2,5,40,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",108,96,1,1.90,"Schroder, Dennis",3.00,0.30
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,10,08,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-150,197,0,0.80,"Fisher, Derek",5.70,9.20
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,3,8,43,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-155,48,5,4.60,"Drummond, Andre",4.40,12.80
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,1,11,20,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",220,132,0,0.90,"Paul, Chris",4.80,11.10
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,4,3,53,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",130,78,11,10.50,"Howard, Dwight",0.70,13.20
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,1,7,22,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-5,64,11,9.20,"Curry, Stephen",2.00,4.50
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,2,6,34,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",226,15,0,0.90,"Barea, Jose Juan",2.80,14.90
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,3,9,20,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",135,213,14,11.20,"Hawes, Spencer",4.90,13.50
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,0,00,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",81,145,23,21.80,"Nicholson, Andrew",2.90,0.00
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,3,3,04,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-223,116,20,13.00,"Stoudemire, Amare",5.90,11.20
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,1,6,17,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",203,154,0,0.90,"Conley, Mike",5.80,18.90
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,2,3,16,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",77,99,12,9.10,"Curry, Stephen",1.50,14.20
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,3,4,48,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-190,168,1,5.30,"Anthony, Carmelo",5.20,12.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,2,0,32,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",42,52,8,7.10,"Iguodala, Andre",2.40,17.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,1,3,18,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-224,17,0,1.00,"Lin, Jeremy",3.60,11.20
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,10,53,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-240,0,0,1.00,"Thomas, Isaiah",1.00,5.70
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,4,05,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",0,145,15,14.20,"Butler, Caron",7.10,10.70
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,3,7,29,0,"Jump Shot","2PT Field Goal",22,"Toronto Raptors",65,216,1,1.50,"Lowry, Kyle",11.70,17.30
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,3,7,31,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",36,257,7,5.20,"Hickson, JJ",4.50,7.70
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,3,7,42,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-32,55,15,12.80,"Mbah a Moute, Luc",2.40,11.40
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,1,5,52,0,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",-89,4,8,8.30,"Rubio, Ricky",4.20,16.10
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,4,05,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",54,242,9,9.00,"Bayless, Jerryd",3.80,15.30
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,3,7,42,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-150,-5,3,3.60,"Belinelli, Marco",5.10,21.00
+"Goran Dragic","Phoenix Suns",2013-12-27,2013,3423,1610612756,400489308,3,10,35,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",-131,63,2,4.60,"Curry, Stephen",3.90,12.40
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,1,40,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",116,219,1,0.90,"Livingston, Shaun",4.10,6.00
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,2,7,02,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",230,91,0,1.50,"Brooks, Aaron",4.30,18.20
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,2,11,05,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-166,186,0,1.20,"Larkin, Shane",3.20,8.50
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,2,5,36,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",154,190,0,0.90,"Bayless, Jerryd",4.30,8.10
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,3,39,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",-128,26,0,0.00,"Shumpert, Iman",1.30,10.30
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,3,1,07,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-196,146,22,17.10,"Mozgov, Timofey",2.30,6.40
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,4,7,05,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",73,227,0,1.00,"Noah, Joakim",6.10,22.70
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,2,4,32,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",144,201,0,0.80,"Augustin, D.J.",2.90,22.40
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,3,8,08,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",158,121,9,8.20,"Roberts, Brian",3.10,16.60
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,2,5,59,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",86,131,5,5.40,"Belinelli, Marco",2.10,10.80
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,3,6,19,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",42,241,19,14.00,"Nowitzki, Dirk",6.20,10.80
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,2,9,20,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",230,61,0,1.00,"Mack, Shelvin",3.00,13.40
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,3,11,11,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",189,165,0,0.90,"Livingston, Shaun",5.20,0.70
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,4,0,06,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",136,93,7,7.30,"Patterson, Patrick",4.70,0.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,7,40,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",116,219,0,1.20,"Mbah a Moute, Luc",10.40,19.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,0,01,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",-13,82,7,2.40,"Patterson, Patrick",3.00,0.00
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,5,39,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",36,241,10,8.30,"Patterson, Patrick",5.80,13.90
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,4,0,24,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-95,231,3,2.40,"Vasquez, Greivis",5.40,21.60
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,2,0,44,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",69,244,11,10.30,"Sessions, Ramon",4.70,11.60
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,3,10,28,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-97,137,6,5.00,"McRoberts, Josh",4.60,13.70
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,3,7,39,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-106,145,7,8.60,"Walker, Kemba",8.60,14.40
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,1,9,59,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",9,252,10,9.20,"Nelson, Jameer",5.00,0.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,2,2,11,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",226,6,0,0.80,"Nelson, Jameer",4.30,0.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,4,0,50,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",84,137,25,18.10,"Afflalo, Arron",5.70,0.00
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,1,5,04,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-67,140,0,1.60,"Bosh, Chris",5.80,17.50
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,3,0,02,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",179,190,2,2.30,"Cole, Norris",4.00,0.00
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,6,05,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-112,220,0,1.80,"Aldridge, LaMarcus",5.80,13.60
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,7,25,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",50,239,0,1.30,"Robinson, Thomas",5.80,12.70
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,3,9,06,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",114,219,14,12.00,"Lopez, Robin",5.20,10.30
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,3,7,06,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-232,-11,5,4.70,"Aldridge, LaMarcus",5.30,6.80
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,2,0,23,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",17,148,8,7.80,"Burke, Trey",2.90,16.10
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,1,9,08,1,"Jump Shot","2PT Field Goal",7,"Utah Jazz",4,75,6,4.40,"Burke, Trey",1.70,9.40
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,2,6,41,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",92,151,0,1.00,"Burks, Alec",4.70,12.00
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,2,2,57,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",155,72,3,2.60,"Jefferson, Richard",4.40,21.40
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,4,1,59,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-68,126,3,2.80,"Biedrins, Andris",4.60,16.00
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,1,6,35,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",50,244,11,9.60,"Williams, Marvin",4.80,15.10
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,3,10,42,1,"Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",-23,37,17,11.00,"Prince, Tayshaun",4.50,13.60
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,4,6,41,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",36,238,8,6.80,"Bayless, Jerryd",4.20,15.50
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,2,6,40,1,"Jump Shot","2PT Field Goal",4,"Houston Rockets",9,48,0,3.20,"Brooks, Aaron",2.40,7.90
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,3,6,28,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",102,220,0,1.00,"Howard, Dwight",6.30,7.20
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,2,0,14,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-10,247,0,1.00,"Stone, Julyan",5.00,8.40
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,3,4,40,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",13,3,2,2.20,"Harris, Tobias",1.60,10.00
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,3,47,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",0,12,4,3.30,"Oladipo, Victor",3.20,21.30
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,7,44,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-7,12,5,5.00,"Hibbert, Roy",1.70,18.60
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,1,11,02,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-13,3,0,0.90,"Carroll, DeMarre",2.70,17.20
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,2,5,50,1,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",9,0,0,0.00,"Scott, Mike",1.40,20.00
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,4,47,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",4,-2,0,0.80,"Oladipo, Victor",3.30,22.30
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,2,3,05,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-19,17,1,0.70,"Williams, Louis",2.20,17.60
+"Goran Dragic","Phoenix Suns",2014-01-15,2013,3423,1610612756,400489447,1,10,43,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",4,1,1,1.80,"Meeks, Jodie",1.90,21.30
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,8,04,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-18,1,0,0.90,"Afflalo, Arron",1.90,20.90
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,9,38,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",15,4,4,4.10,"OQuinn, Kyle",2.00,20.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,9,25,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,7,2,3.80,"Casspi, Omri",7.20,23.00
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,4,0,11,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",0,11,1,1.50,"Johnson, Chris",17.80,0.00
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,10,31,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-5,0,1,2.90,"Griffin, Blake",14.50,21.90
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,9,20,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-4,12,10,9.70,"Livingston, Shaun",2.80,13.90
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,1,09,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",7,11,4,3.80,"Brewer, Corey",2.70,20.90
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,1,2,13,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-16,3,1,1.80,"Barnes, Matt",1.80,14.60
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,8,36,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-24,0,6,7.40,"Hibbert, Roy",0.80,16.80
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,2,4,55,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,3,5,4.90,"Collison, Darren",1.20,20.80
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,1,3,32,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",4,-8,4,4.10,"Kaman, Chris",3.80,20.80
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,3,7,58,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",1,3,0,0.90,"Dudley, Jared",6.80,20.50
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,3,4,18,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",2,9,5,4.70,"Dudley, Jared",3.20,18.00
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,1,8,05,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,9,0,1.30,"Irving, Kyrie",2.60,11.40
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,1,6,31,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",1,-2,1,1.40,"Humphries, Kris",1.30,20.80
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,1,48,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-10,4,1,1.80,"Deng, Luol",2.60,21.40
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,1,6,21,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,-6,1,2.60,"Prince, Tayshaun",3.40,21.20
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,1,3,26,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,-8,0,0.00,"Prince, Tayshaun",10.30,24.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,2,0,42,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-5,12,4,3.90,"Oladipo, Victor",0.90,0.00
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,3,26,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-16,6,0,0.80,"Hawes, Spencer",0.70,14.50
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,10,14,1,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-11,25,1,2.70,"Thompson, Tristan",3.70,13.30
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,8,01,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-8,0,1,1.40,"Conley, Mike",2.70,22.10
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,1,0,42,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",0,4,0,0.60,"Lin, Jeremy",5.40,20.70
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,6,35,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-16,-3,1,1.20,"Conley, Mike",1.60,17.70
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,2,13,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-4,19,2,2.60,"Shumpert, Iman",3.90,19.00
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,1,3,37,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",24,6,2,4.70,"Allen, Ray",0.80,3.80
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,2,2,40,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-18,1,0,1.30,"Paul, Chris",1.60,22.50
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,0,56,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,4,3,3.80,"Davis, Ed",45.00,21.80
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,1,3,35,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",0,15,0,0.80,"Irving, Kyrie",1.40,21.50
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,2,1,00,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-8,1,3,3.10,"Paul, Chris",2.30,22.40
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,1,9,41,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-8,0,1,1.60,"Henry, Xavier",1.50,19.20
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,4,5,11,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",20,0,8,6.70,"Bass, Brandon",3.60,14.10
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,4,09,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-13,0,0,0.80,"Roberts, Brian",2.90,11.50
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,9,29,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,0,1,1.10,"Babbitt, Luke",1.40,12.30
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,3,0,57,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-11,3,0,1.00,"Oladipo, Victor",2.30,21.00
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,4,8,04,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",6,-5,0,0.00,"Roberts, Brian",0.80,19.00
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,4,0,32,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",21,1,1,1.00,"Collison, Darren",9.70,16.10
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,7,51,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",18,6,1,1.70,"Knight, Brandon",1.90,22.30
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,3,4,50,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,0,0,1.80,"Smith, Josh",1.60,21.20
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,1,52,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-7,1,2,2.40,"Batum, Nicolas",3.20,21.40
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,3,3,45,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,0,6,6.10,"Davis, Anthony",3.50,3.50
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,1,4,11,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-8,9,2,2.60,"Prince, Tayshaun",3.20,22.10
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,2,3,01,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-2,6,14,10.20,"Irving, Kyrie",1.20,14.30
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,3,9,43,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-19,9,5,3.40,"Hinrich, Kirk",1.40,19.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,1,8,18,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,-5,3,3.40,"Calderon, Jose",4.60,24.00
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,2,6,08,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,0,4,4.10,"Matthews, Wesley",2.00,21.10
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,4,4,06,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-19,1,15,11.80,"Hibbert, Roy",1.00,12.10
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,4,0,40,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",21,6,9,8.20,"Griffin, Blake",1.90,15.30
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,1,9,56,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,7,6,6.20,"Hamilton, Jordan",3.90,15.60
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,2,1,34,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,4,0,0.40,"Randolph, Zach",0.50,23.40
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,9,56,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,9,4,4.20,"Hibbert, Roy",4.20,20.70
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,1,14,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-8,-11,2,2.80,"Livingston, Shaun",1.40,20.90
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,5,16,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",2,4,2,2.40,"Pierce, Paul",1.90,21.20
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,2,3,54,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-8,9,9,7.20,"Davis, Glen",2.90,0.00
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,2,4,10,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-2,5,4.80,"Wolters, Nate",3.40,19.70
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,0,03,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-13,-6,3,2.50,"Gortat, Marcin",1.80,0.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,4,10,16,0,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-29,14,0,1.00,"Kelly, Ryan",2.00,22.90
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,10,48,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-15,17,2,3.00,"Hill, George",1.40,20.20
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,2,6,44,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,1,1,0.80,"Davis, Ed",1.60,13.40
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,2,7,40,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",6,-24,0,0.60,"West, David",1.30,23.80
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,2,6,17,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-8,7,0,0.80,"Kanter, Enes",1.30,17.60
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,2,4,04,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,6,2,2.60,"Burke, Trey",1.20,14.90
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,1,6,15,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-5,3,0,0.00,"McRoberts, Josh",2.20,20.20
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,1,0,03,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-18,-13,0,1.40,"Mozgov, Timofey",1.10,0.00
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,3,10,16,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,6,4,4.30,"Durant, Kevin",4.20,20.10
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,4,57,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-21,6,3,2.70,Nene,1.70,4.90
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,9,37,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,-6,8,6.90,"Koufos, Kosta",3.60,11.70
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,7,22,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,4,3,2.80,"Prince, Tayshaun",3.30,19.90
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,1,6,18,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,0,0,1.20,"Allen, Tony",2.20,19.10
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,2,0,45,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-13,0,0,0.70,"Zeller, Cody",5.40,20.30
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,1,36,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",23,0,0,1.00,"Plumlee, Mason",2.80,22.00
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,3,10,19,1,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",-7,-5,4,3.60,"Hinrich, Kirk",38.50,22.00
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,4,4,59,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-21,0,0,1.00,"Miller, Darius",3.70,19.50
+"Goran Dragic","Phoenix Suns",2013-11-20,2013,3423,1610612756,400489044,1,11,43,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",1,-5,3,3.30,"Vasquez, Greivis",13.40,23.40
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,1,10,23,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",-5,4,4,4.00,"Nelson, Jameer",3.10,0.00
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,6,29,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,1,3,2.90,"Miller, Darius",1.20,20.60
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,4,3,41,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-21,-2,0,0.30,"Leuer, Jon",0.90,18.80
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,8,12,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-26,4,0,0.00,"Stiemsma, Greg",1.30,19.20
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,2,5,29,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",9,3,10,6.70,"Wallace, Gerald",6.50,17.20
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,2,6,58,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-15,4,0,0.80,"Burks, Alec",3.00,22.50
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,3,40,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-19,1,11,9.40,"Ibaka, Serge",1.70,16.00
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,3,9,07,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",10,-6,0,0.70,"Noah, Joakim",4.70,19.50
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,3,4,02,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",26,0,0,0.30,"Oladipo, Victor",0.80,0.00
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,2,0,50,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-16,-2,0,2.00,"Hawes, Spencer",2.30,8.40
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,3,7,57,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-5,15,5,6.40,"Rubio, Ricky",1.20,18.10
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,6,08,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-21,20,4,4.40,"Gortat, Marcin",2.60,20.50
+"Goran Dragic","Phoenix Suns",2014-04-09,2013,3423,1610612756,400490043,1,6,12,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-27,4,0,1.00,"Stiemsma, Greg",2.40,20.40
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,10,01,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-9,6,1,2.00,"Meeks, Jodie",4.40,0.00
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,1,6,54,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",6,3,4,2.90,"Miles, CJ",2.80,21.00
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,3,3,26,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-11,1,10,10.40,"Hibbert, Roy",2.20,13.70
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,4,4,18,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",4,20,4,4.40,"Bryant, Kobe",0.50,8.10
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,2,9,44,0,"Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",23,25,6,7.40,"Freeland, Joel",3.10,16.80
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,1,9,56,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-16,-5,5,3.70,"Hansbrough, Tyler",2.20,19.40
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,2,11,02,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-11,31,0,1.50,"Johnson, Wesley",1.40,7.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,2,3,39,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",1,7,0,0.90,"Oladipo, Victor",2.30,0.00
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,1,10,16,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,0,8,7.00,"Perkins, Kendrick",3.40,9.30
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,2,3,44,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",7,23,5,4.20,"Foye, Randy",1.30,18.30
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,2,0,59,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",4,12,0,1.90,"Augustin, D.J.",1.80,11.80
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,0,01,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",26,1,11,7.90,"Lopez, Robin",2.40,0.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,4,6,12,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",0,26,20,20.00,"Blake, Steve",2.20,3.40
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,4,43,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,1,4,3.60,"Williams, Mo",1.90,19.10
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,1,10,05,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-18,0,0,0.50,"Thompson, Jason",2.80,24.00
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,1,4,41,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-18,14,0,0.40,"Irving, Kyrie",1.70,19.60
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,3,18,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-27,-5,0,0.60,"Nowitzki, Dirk",0.80,24.00
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,2,8,47,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-2,1,4,4.10,"Wright, Dorell",1.70,20.50
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,2,4,44,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-15,-3,1,3.00,"Lopez, Robin",2.00,24.00
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,2,7,31,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-5,-2,2,2.40,"Fredette, Jimmer",5.00,22.00
+"Goran Dragic","Phoenix Suns",2013-12-10,2013,3423,1610612756,400489190,1,8,50,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-17,20,0,1.00,"Williams, Shawne",1.50,0.00
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,3,9,49,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",1,-2,0,0.70,"Gay, Rudy",4.80,21.10
+"Goran Dragic","Phoenix Suns",2014-01-29,2013,3423,1610612756,400489552,1,8,09,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,-5,20,14.60,"Henson, John",3.60,9.50
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,6,37,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-7,-2,5,4.40,"Hill, George",0.40,19.10
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,3,5,47,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-19,0,3,3.80,"Thompson, Klay",0.60,9.50
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,4,7,50,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-13,0,5,3.40,"Smith, J.R.",1.90,21.50
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,1,9,24,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-10,0,0,1.20,"Leonard, Kawhi",2.10,21.40
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,2,0,29,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,4,7,4.10,"Wall, John",2.60,21.60
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,1,20,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",2,9,2,3.40,"Prigioni, Pablo",6.00,22.00
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,2,1,09,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-18,-3,7,7.40,"Boozer, Carlos",1.80,17.40
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,3,8,48,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,-5,2,2.40,"Belinelli, Marco",1.40,22.70
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,4,1,12,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-15,1,2,3.70,"George, Paul",1.30,24.00
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,1,52,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-24,3,9,6.20,"Gortat, Marcin",1.60,17.70
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,2,5,21,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,1,3,3.50,"Calathes, Nick",2.10,20.80
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,8,51,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",7,0,0,1.90,"Garnett, Kevin",5.40,23.80
+"Goran Dragic","Phoenix Suns",2014-01-08,2013,3423,1610612756,400489397,4,3,23,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",7,9,3,2.90,"Love, Kevin",1.30,19.30
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,3,8,11,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-21,0,15,11.10,"Hawes, Spencer",3.70,12.40
+"Goran Dragic","Phoenix Suns",2013-12-18,2013,3423,1610612756,400489251,4,9,58,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",20,-3,0,1.00,"Green, Danny",3.30,21.20
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,1,2,28,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",6,-5,1,3.90,"Lawson, Ty",3.60,21.80
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,7,34,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-29,-2,1,1.20,"Wall, John",2.10,20.50
+"Goran Dragic","Phoenix Suns",2013-12-20,2013,3423,1610612756,400489263,4,6,09,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",10,14,1,1.90,"Foye, Randy",0.80,21.40
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,1,9,10,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,9,13,11.50,"Dieng, Gorgui",2.40,12.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,9,23,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",1,28,6,7.30,"Beal, Bradley",2.10,7.20
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,1,2,16,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",23,-2,1,3.90,"Cunningham, Dante",2.00,20.80
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,3,7,46,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",1,1,8,9.80,"Humphries, Kris",4.10,14.90
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,5,07,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",0,-11,1,1.80,"Ellis, Monta",4.00,21.10
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,4,9,05,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",-8,0,6,4.30,"OQuinn, Kyle",1.90,20.80
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,3,3,53,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-7,25,3,2.60,"Anderson, James",1.50,21.10
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,4,10,26,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",26,-2,17,15.60,"Davis, Glen",1.10,8.50
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,2,0,11,0,"Pullup Bank shot","2PT Field Goal",8,"Memphis Grizzlies",84,30,17,18.50,"Conley, Mike",3.70,3.80
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,1,8,32,0,"Pullup Bank shot","2PT Field Goal",14,"Oklahoma City Thunder",-141,45,3,2.90,"Durant, Kevin",5.10,16.40
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,1,11,38,0,"Pullup Bank shot","2PT Field Goal",17,"Utah Jazz",132,115,4,3.40,"Kanter, Enes",5.50,6.70
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,4,10,06,1,"Pullup Bank shot","2PT Field Goal",8,"Washington Wizards",-75,41,16,10.90,"Gooden, Drew",4.70,13.40
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,1,6,28,1,"Pullup Bank shot","2PT Field Goal",15,"Houston Rockets",-152,42,8,6.80,"Beverley, Patrick",3.30,17.90
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,3,9,23,1,"Pullup Bank shot","2PT Field Goal",16,"Indiana Pacers",-98,131,2,4.80,"Hill, George",3.00,7.90
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,3,8,03,0,"Pullup Jump shot","2PT Field Goal",11,"Houston Rockets",-81,82,4,3.90,"Harden, James",3.90,15.40
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,2,0,02,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",214,145,6,6.20,"Green, Draymond",5.20,0.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,2,0,23,1,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",233,64,0,0.80,"Barnes, Harrison",3.80,22.40
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,1,7,52,0,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-92,142,4,4.00,"Beverley, Patrick",2.80,19.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,1,9,39,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",113,116,9,7.90,"Beverley, Patrick",6.20,17.10
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,3,6,16,1,"Pullup Jump shot","2PT Field Goal",4,"Charlotte Hornets",-5,42,15,11.30,"Sessions, Ramon",2.60,11.80
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,1,7,31,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",81,149,14,14.90,"Aldridge, LaMarcus",5.70,0.00
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,2,4,47,0,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",135,41,4,4.30,"Fisher, Derek",3.30,19.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,3,5,17,0,"Pullup Jump shot","2PT Field Goal",13,"Golden State Warriors",51,129,6,5.40,"Blake, Steve",3.90,9.00
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,1,9,38,0,"Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",70,153,6,5.60,"Hill, George",3.90,19.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,2,5,24,1,"Pullup Jump shot","2PT Field Goal",14,"Orlando Magic",73,127,5,3.50,"Nicholson, Andrew",5.60,0.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,3,10,07,1,"Pullup Jump shot","2PT Field Goal",16,"Orlando Magic",106,126,5,4.10,"Vucevic, Nikola",6.40,0.00
+"Goran Dragic","Phoenix Suns",2014-01-30,2013,3423,1610612756,400489559,1,4,05,1,"Pullup Jump shot","2PT Field Goal",12,"Indiana Pacers",61,113,10,11.10,"Hibbert, Roy",4.40,7.80
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,1,1,08,1,"Pullup Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",103,82,9,7.60,"Jackson, Reggie",5.00,15.90
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,1,9,37,1,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-153,52,4,3.60,"Durant, Kevin",4.20,19.70
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,2,33,1,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",110,143,5,4.40,"Lopez, Robin",4.70,17.00
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,7,05,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",18,159,2,2.00,"Lopez, Robin",3.10,8.10
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,1,9,18,0,"Pullup Jump shot","2PT Field Goal",12,"Charlotte Hornets",-59,112,0,0.00,"Walker, Kemba",1.40,21.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,4,10,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",36,249,4,5.30,"Harden, James",5.30,11.50
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,1,9,11,0,"Pullup Jump shot","2PT Field Goal",14,"Milwaukee Bucks",61,127,1,2.00,"Knight, Brandon",1.70,7.40
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,3,10,54,0,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",-38,156,2,1.90,"Lowry, Kyle",1.80,12.30
+"Goran Dragic","Phoenix Suns",2013-11-30,2013,3423,1610612756,400489119,3,6,57,1,"Pullup Jump shot","2PT Field Goal",13,"Utah Jazz",-71,115,2,2.30,"Favors, Derrick",4.80,10.90
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,3,9,13,1,"Pullup Jump shot","2PT Field Goal",13,"Dallas Mavericks",34,131,2,2.40,"Calderon, Jose",5.30,3.10
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,3,32,1,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",53,236,10,7.10,"Parsons, Chandler",5.60,14.90
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,1,37,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-112,230,19,18.10,"Howard, Dwight",4.80,5.70
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,4,6,07,0,"Pullup Jump shot","2PT Field Goal",19,"Miami Heat",-100,170,10,7.30,"Mason Jr., Roger",3.40,16.00
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,1,8,58,1,"Pullup Jump shot","2PT Field Goal",15,"Houston Rockets",83,134,6,4.70,"Beverley, Patrick",4.00,17.60
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,2,3,40,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",-90,135,5,5.00,"Sullinger, Jared",5.50,19.00
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,0,28,0,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",-108,126,3,3.10,"Bayless, Jerryd",3.90,20.30
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,10,30,1,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-103,123,3,3.00,"Jackson, Reggie",2.60,17.90
+"Goran Dragic","Phoenix Suns",2014-02-01,2013,3423,1610612756,400489579,1,4,40,1,"Pullup Jump shot","2PT Field Goal",16,"Charlotte Hornets",-75,148,2,1.90,"Henderson, Gerald",5.50,5.40
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,1,7,27,0,"Pullup Jump shot","2PT Field Goal",12,"Washington Wizards",-105,67,10,9.10,"Gortat, Marcin",5.10,15.70
+"Goran Dragic","Phoenix Suns",2013-11-01,2013,3423,1610612756,400488903,2,3,44,0,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",78,129,10,10.80,"Lucas III, John",2.30,14.00
+"Goran Dragic","Phoenix Suns",2014-02-05,2013,3423,1610612756,400489602,1,9,17,0,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",113,145,3,2.90,"Jones, Terrence",4.50,10.80
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,1,2,53,0,"Pullup Jump shot","2PT Field Goal",17,"Detroit Pistons",99,142,8,7.10,"Bynum, Will",3.70,17.50
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,2,09,1,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",23,160,12,7.30,"Noah, Joakim",4.80,14.00
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,1,11,22,1,"Pullup Jump shot","2PT Field Goal",12,"Washington Wizards",1,123,6,5.80,"Beal, Bradley",5.40,8.70
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,1,10,04,1,"Pullup Jump shot","2PT Field Goal",9,"Indiana Pacers",-92,0,3,5.00,"Hill, George",4.10,12.80
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,3,5,33,1,"Pullup Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",174,15,2,2.30,"Hummel, Robbie",3.50,19.70
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,11,20,1,"Pullup Jump shot","2PT Field Goal",11,"Dallas Mavericks",-87,82,2,2.40,"Nowitzki, Dirk",6.00,22.00
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,10,39,1,"Pullup Jump shot","2PT Field Goal",17,"New Orleans Pelicans",-112,131,12,9.60,"Roberts, Brian",3.10,14.40
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,3,3,51,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Lakers",0,142,5,3.80,"Williams, Shawne",5.40,19.10
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,1,31,1,"Pullup Jump shot","3PT Field Goal",24,"Orlando Magic",31,239,15,13.60,"Nicholson, Andrew",5.50,10.80
+"Goran Dragic","Phoenix Suns",2014-03-16,2013,3423,1610612756,400489861,2,2,44,1,"Pullup Jump shot","3PT Field Goal",24,"Toronto Raptors",102,220,6,5.80,"Novak, Steve",4.90,6.30
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,1,1,31,0,"Pullup Jump shot","2PT Field Goal",16,"New York Knicks",-134,91,5,4.70,"Chandler, Tyson",4.30,8.70
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,3,9,02,0,"Pullup Jump shot","2PT Field Goal",9,"New York Knicks",18,91,6,4.60,"Bargnani, Andrea",5.40,20.00
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,0,45,1,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-95,132,19,14.00,"Westbrook, Russell",5.50,9.20
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,1,6,37,1,"Pullup Jump shot","2PT Field Goal",17,"Chicago Bulls",75,153,4,5.70,"Dunleavy, Mike",5.90,11.30
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,3,8,54,1,"Pullup Jump shot","2PT Field Goal",11,"Los Angeles Clippers",-116,6,7,6.90,"Barnes, Matt",3.40,17.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,3,10,30,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-15,258,9,7.70,"Curry, Stephen",3.20,15.90
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,4,5,13,1,"Putback Layup Shot","2PT Field Goal",3,"Dallas Mavericks",-29,14,0,1.20,"Ellis, Monta",1.60,2.00
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,4,4,59,1,"Putback Layup Shot","2PT Field Goal",0,"Dallas Mavericks",6,0,0,0.20,"Wright, Brandan",1.50,24.00
+"Goran Dragic","Phoenix Suns",2014-03-28,2013,3423,1610612756,400489958,2,5,16,1,"Putback Layup Shot","2PT Field Goal",1,"New York Knicks",-15,1,0,0.20,"Felton, Raymond",2.90,24.00
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,1,7,15,0,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-23,4,12,10.70,"Jordan, DeAndre",2.80,13.00
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,1,3,30,1,"Reverse Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-8,0,3,3.80,"Livingston, Shaun",1.50,21.80
+"Goran Dragic","Phoenix Suns",2013-11-22,2013,3423,1610612756,400489049,1,7,28,1,"Reverse Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-7,1,0,1.20,"Walker, Kemba",5.10,13.40
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,3,9,19,1,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,0,1,1.50,"Gasol, Marc",1.80,22.00
+"Goran Dragic","Phoenix Suns",2014-01-07,2013,3423,1610612756,400489386,3,5,39,1,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-11,14,5,6.20,"Gibson, Taj",3.20,11.10
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,1,2,53,1,"Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",17,20,10,10.00,"Blake, Steve",2.40,13.80
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,4,1,14,0,"Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,0,6,4.30,"Conley, Mike",4.30,18.80
+"Goran Dragic","Phoenix Suns",2014-01-11,2013,3423,1610612756,400489418,2,4,02,0,"Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,3,4,4.60,"Villanueva, Charlie",2.70,18.70
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,1,9,15,0,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",18,6,8,6.90,"Koufos, Kosta",3.50,17.70
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,4,10,49,1,"Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",13,-2,4,5.80,"Rivers, Austin",1.20,10.30
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,2,29,1,"Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",21,0,0,0.00,"Roberts, Brian",1.80,13.10
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,1,47,1,"Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-11,0,0,0.00,"Larkin, Shane",7.80,6.10
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,4,7,42,1,"Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",9,-2,1,2.90,"Harden, James",3.50,20.60
+"Goran Dragic","Phoenix Suns",2014-01-26,2013,3423,1610612756,400489530,1,11,11,0,"Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-2,3,2,2.70,"Irving, Kyrie",1.00,20.00
+"Goran Dragic","Phoenix Suns",2014-03-30,2013,3423,1610612756,400489973,3,4,59,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-13,15,2,3.40,"Hill, Jordan",3.20,13.30
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,3,9,27,1,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-13,-5,2,3.30,"Boozer, Carlos",1.30,19.20
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,4,0,25,0,"Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",18,-2,5,4.00,"Rondo, Rajon",2.10,19.90
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,1,6,25,1,"Running Bank shot","2PT Field Goal",6,"Orlando Magic",-67,14,5,6.00,"Vucevic, Nikola",1.20,0.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,3,6,06,1,"Running Bank shot","2PT Field Goal",9,"Orlando Magic",-78,60,14,11.50,"Vucevic, Nikola",4.10,0.00
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,2,0,20,1,"Running Bank shot","2PT Field Goal",5,"Boston Celtics",-48,31,15,12.60,"Wallace, Gerald",3.40,11.00
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,4,50,1,"Running Bank shot","2PT Field Goal",3,"Los Angeles Clippers",-16,33,3,3.70,"Crawford, Jamal",2.10,17.60
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,3,9,05,1,"Running Bank shot","2PT Field Goal",8,"Denver Nuggets",73,37,3,4.90,"Lawson, Ty",3.20,11.00
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,9,22,0,"Running Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",-32,12,3,5.00,"Aldridge, LaMarcus",1.20,11.50
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,4,4,02,1,"Running Jump Shot","2PT Field Goal",7,"Sacramento Kings",4,71,16,11.70,"Patterson, Patrick",2.30,12.20
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,2,5,47,1,"Running Jump Shot","2PT Field Goal",8,"Golden State Warriors",-29,77,1,2.60,"Curry, Stephen",2.50,9.50
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,3,10,14,0,"Running Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",13,78,2,1.40,"Aldridge, LaMarcus",6.30,9.50
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,10,21,0,"Running Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-26,99,4,3.70,"Teague, Jeff",2.00,11.40
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,1,7,19,1,"Running Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",-8,74,2,2.80,"Randolph, Zach",2.20,14.10
+"Goran Dragic","Phoenix Suns",2014-04-14,2013,3423,1610612756,400490085,1,10,43,0,"Running Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",51,25,2,2.50,"Gasol, Marc",4.60,4.30
+"Goran Dragic","Phoenix Suns",2013-11-25,2013,3423,1610612756,400489078,1,10,11,0,"Running Jump Shot","2PT Field Goal",9,"Miami Heat",-48,83,7,5.20,"Bosh, Chris",3.80,16.70
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,1,7,37,1,"Running Jump Shot","2PT Field Goal",12,"Sacramento Kings",-71,99,3,4.70,"McLemore, Ben",2.80,6.20
+"Goran Dragic","Phoenix Suns",2013-11-29,2013,3423,1610612756,400489112,1,7,48,1,"Running Jump Shot","2PT Field Goal",2,"Utah Jazz",-23,12,6,5.30,"Burke, Trey",3.10,19.00
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,3,7,47,0,"Running Jump Shot","2PT Field Goal",5,"Denver Nuggets",0,53,2,2.60,"Hickson, JJ",5.70,17.90
+"Goran Dragic","Phoenix Suns",2013-11-19,2013,3423,1610612756,400489033,2,1,11,0,"Running Jump Shot","2PT Field Goal",5,"Sacramento Kings",-23,45,14,13.80,"Thompson, Jason",4.20,10.20
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,2,5,53,0,"Running Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-75,30,5,3.80,"Aldridge, LaMarcus",5.20,17.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,0,01,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",13,7,5,4.20,"Carroll, DeMarre",1.50,0.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,3,3,03,1,"Running Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-7,4,1,1.80,"Teague, Jeff",5.60,21.40
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,1,0,46,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-5,9,2,2.60,"Paul, Chris",2.00,19.00
+"Goran Dragic","Phoenix Suns",2014-03-24,2013,3423,1610612756,400489921,1,10,21,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-11,0,3,3.50,"Teague, Jeff",4.10,21.00
+"Goran Dragic","Phoenix Suns",2014-01-10,2013,3423,1610612756,400489407,4,0,28,1,"Running Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,9,6,5.60,"Randolph, Zach",6.20,18.50
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,2,2,45,0,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Clippers",160,0,8,6.80,"Barnes, Matt",4.30,17.60
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,1,8,57,1,"Step Back Jump shot","3PT Field Goal",24,"Detroit Pistons",91,231,2,3.00,"Jennings, Brandon",8.80,13.00
+"Goran Dragic","Phoenix Suns",2014-03-23,2013,3423,1610612756,400489914,4,7,14,1,"Step Back Jump shot","3PT Field Goal",26,"Minnesota Timberwolves",140,228,1,2.90,"Love, Kevin",4.70,13.00
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,2,0,00,0,"Step Back Jump shot","2PT Field Goal",14,"Denver Nuggets",141,-6,9,7.30,"Hickson, JJ",3.40,0.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,3,9,51,1,"Step Back Jump shot","2PT Field Goal",15,"Houston Rockets",-150,11,8,7.20,"Jones, Terrence",4.70,14.40
+"Goran Dragic","Phoenix Suns",2014-01-19,2013,3423,1610612756,400489478,3,5,24,1,"Step Back Jump shot","2PT Field Goal",18,"Denver Nuggets",118,145,4,2.90,"Lawson, Ty",2.60,8.90
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,2,0,34,1,"Step Back Jump shot","3PT Field Goal",24,"Houston Rockets",42,244,8,7.10,"Lin, Jeremy",2.90,16.80
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,3,10,42,1,"Step Back Jump shot","2PT Field Goal",14,"Indiana Pacers",-141,0,6,5.60,"Hill, George",4.40,17.40
+"Goran Dragic","Phoenix Suns",2014-03-26,2013,3423,1610612756,400489935,3,10,17,1,"Step Back Jump shot","2PT Field Goal",14,"Washington Wizards",-147,15,6,9.70,"Wall, John",9.10,10.90
+"Goran Dragic","Phoenix Suns",2013-12-13,2013,3423,1610612756,400489213,3,6,31,0,"Step Back Jump shot","2PT Field Goal",12,"Sacramento Kings",67,105,3,2.40,"Thornton, Marcus",7.70,11.90
+"Goran Dragic","Phoenix Suns",2014-01-22,2013,3423,1610612756,400489502,3,4,19,1,"Step Back Jump shot","2PT Field Goal",17,"Indiana Pacers",171,-24,4,5.10,"Mahinmi, Ian",5.10,4.60
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,4,5,58,1,"Step Back Jump shot","2PT Field Goal",15,"Miami Heat",152,-28,9,8.50,"Cole, Norris",2.00,5.70
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,7,49,1,"Step Back Jump shot","2PT Field Goal",17,"Chicago Bulls",116,132,9,7.40,"Gibson, Taj",6.20,16.20
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,2,6,46,1,"Step Back Jump shot","2PT Field Goal",17,"Denver Nuggets",108,140,12,10.50,"Chandler, Wilson",8.80,13.20
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,10,13,0,"Step Back Jump shot","2PT Field Goal",17,"Portland Trail Blazers",174,-35,9,6.80,"Aldridge, LaMarcus",4.40,10.10
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,10,25,0,"Step Back Jump shot","2PT Field Goal",16,"Dallas Mavericks",91,134,7,6.80,"Larkin, Shane",2.40,18.00
+"Goran Dragic","Phoenix Suns",2014-03-17,2013,3423,1610612756,400489871,3,2,54,0,"Step Back Jump shot","2PT Field Goal",16,"Brooklyn Nets",-168,17,6,7.60,"Thornton, Marcus",4.50,16.00
+"Goran Dragic","Phoenix Suns",2014-03-19,2013,3423,1610612756,400489889,1,10,10,1,"Step Back Jump shot","2PT Field Goal",15,"Orlando Magic",154,-10,3,2.80,"Afflalo, Arron",2.50,16.30
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,1,3,25,0,"Step Back Jump shot","2PT Field Goal",20,"Portland Trail Blazers",201,-3,4,3.80,"Williams, Mo",2.70,7.60
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,3,7,05,1,"Step Back Jump shot","2PT Field Goal",18,"Milwaukee Bucks",70,176,7,6.00,"Ilyasova, Ersan",5.40,7.00
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,4,4,54,0,"Step Back Jump shot","3PT Field Goal",25,"Portland Trail Blazers",-106,228,9,9.50,"Lopez, Robin",4.10,3.10
+"Goran Dragic","Phoenix Suns",2014-01-02,2013,3423,1610612756,400489351,3,7,06,1,"Step Back Jump shot","2PT Field Goal",17,"Memphis Grizzlies",105,137,8,7.20,"Conley, Mike",3.50,16.30
+"Goran Dragic","Phoenix Suns",2014-01-24,2013,3423,1610612756,400489516,4,7,26,1,"Step Back Jump shot","2PT Field Goal",16,"Washington Wizards",86,140,2,2.00,Nene,4.60,13.60
+"Goran Dragic","Phoenix Suns",2014-03-14,2013,3423,1610612756,400489848,4,7,34,0,"Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",89,135,5,6.60,"Sullinger, Jared",3.10,5.10
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,2,9,19,1,"Step Back Jump shot","2PT Field Goal",18,"Philadelphia 76ers",88,159,3,3.60,"Orton, Daniel",3.90,12.80
+"Goran Dragic","Phoenix Suns",2014-03-02,2013,3423,1610612756,400489762,3,8,20,1,"Step Back Jump shot","2PT Field Goal",18,"Atlanta Hawks",162,94,2,4.20,"Teague, Jeff",3.60,8.70
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,1,0,38,1,"Step Back Jump shot","2PT Field Goal",16,"Philadelphia 76ers",102,131,15,11.60,"Orton, Daniel",4.20,12.40
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,1,4,56,0,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",173,-13,0,1.00,"Hawes, Spencer",6.20,10.70
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,1,10,33,0,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",70,124,4,3.80,"Calderon, Jose",3.40,17.60
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,3,8,53,0,"Step Back Jump shot","2PT Field Goal",15,"Los Angeles Lakers",152,-8,3,4.00,"Johnson, Wesley",3.30,13.10
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,4,2,21,0,"Step Back Jump shot","2PT Field Goal",15,"Golden State Warriors",92,123,18,14.30,"Lee, David",4.60,7.60
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,3,6,08,0,"Step Back Jump shot","2PT Field Goal",20,"Dallas Mavericks",133,151,4,3.60,"Nowitzki, Dirk",4.30,0.00
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,4,7,15,0,"Step Back Jump shot","2PT Field Goal",19,"Houston Rockets",193,1,9,8.20,"Harden, James",4.50,17.00
+"Goran Dragic","Phoenix Suns",2013-12-23,2013,3423,1610612756,400489289,1,3,49,1,"Step Back Jump shot","2PT Field Goal",18,"Los Angeles Lakers",189,0,5,4.80,"Hill, Jordan",4.40,17.50
+"Goran Dragic","Phoenix Suns",2013-12-21,2013,3423,1610612756,400489273,3,6,49,1,"Step Back Jump shot","2PT Field Goal",15,"Dallas Mavericks",154,-13,3,4.80,"Nowitzki, Dirk",7.20,14.80
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,4,4,21,1,"Step Back Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",162,88,9,6.40,"Love, Kevin",5.10,9.40
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,3,3,50,0,"Step Back Jump shot","2PT Field Goal",15,"Los Angeles Clippers",81,135,4,5.10,"Collison, Darren",2.80,17.40
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,1,10,34,1,"Step Back Jump shot","2PT Field Goal",15,"Detroit Pistons",151,-22,4,3.60,"Jennings, Brandon",4.10,15.00
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,4,3,15,0,"Step Back Jump shot","2PT Field Goal",19,"Golden State Warriors",190,12,5,4.40,"Lee, David",4.80,17.80
+"Goran Dragic","Phoenix Suns",2014-01-04,2013,3423,1610612756,400489368,2,0,04,0,"Step Back Jump shot","2PT Field Goal",17,"Milwaukee Bucks",108,137,13,10.70,"Ridnour, Luke",1.40,0.00
+"Goran Dragic","Phoenix Suns",2013-11-27,2013,3423,1610612756,400489099,4,6,52,1,"Step Back Jump shot","2PT Field Goal",18,"Portland Trail Blazers",129,129,11,8.00,"Aldridge, LaMarcus",7.50,5.20
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,5,2,14,0,"Step Back Jump shot","2PT Field Goal",17,"Denver Nuggets",-27,176,10,10.10,"Faried, Kenneth",4.60,12.30
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,1,9,30,1,"Step Back Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-7,165,7,7.20,"Aldridge, LaMarcus",5.10,8.30
+"Goran Dragic","Phoenix Suns",2014-02-23,2013,3423,1610612756,400489711,4,3,07,0,"Step Back Jump shot","2PT Field Goal",16,"Houston Rockets",81,143,1,1.40,"Beverley, Patrick",2.40,12.10
+"Goran Dragic","Phoenix Suns",2013-10-30,2013,3423,1610612756,400488888,3,2,27,1,"Step Back Jump shot","2PT Field Goal",17,"Portland Trail Blazers",4,176,8,7.30,"Aldridge, LaMarcus",6.20,7.10
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,1,4,29,0,"Step Back Jump shot","2PT Field Goal",16,"San Antonio Spurs",92,135,4,3.60,"Belinelli, Marco",4.80,3.00
+"Goran Dragic","Phoenix Suns",2013-11-24,2013,3423,1610612756,400489072,4,1,18,1,"Step Back Jump shot","3PT Field Goal",25,"Orlando Magic",-142,214,1,2.30,"Vucevic, Nikola",4.60,0.00
+"Goran Dragic","Phoenix Suns",2013-11-03,2013,3423,1610612756,400488917,2,9,51,1,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",83,145,0,0.60,"Collison, Nick",4.20,6.10
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,2,1,06,0,"Step Back Jump shot","2PT Field Goal",17,"Detroit Pistons",-105,134,11,12.60,"Drummond, Andre",3.50,12.20
+"Goran Dragic","Phoenix Suns",2013-12-15,2013,3423,1610612756,400489228,1,4,45,0,"Step Back Jump shot","2PT Field Goal",16,"Golden State Warriors",-130,101,5,3.70,"Curry, Stephen",2.40,9.60
+"Goran Dragic","Phoenix Suns",2014-01-27,2013,3423,1610612756,400489535,1,9,44,1,"Step Back Jump shot","2PT Field Goal",13,"Philadelphia 76ers",-127,-35,0,1.10,"Hawes, Spencer",4.30,9.40
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,1,0,37,1,"Step Back Jump shot","2PT Field Goal",19,"New Orleans Pelicans",-116,153,6,5.30,"Stiemsma, Greg",9.30,17.80
+"Goran Dragic","Phoenix Suns",2013-12-28,2013,3423,1610612756,400489318,4,5,51,0,"Step Back Jump shot","2PT Field Goal",14,"Philadelphia 76ers",-10,146,17,13.90,"Hawes, Spencer",4.50,8.30
+"Goran Dragic","Phoenix Suns",2014-03-09,2013,3423,1610612756,400489815,1,7,46,1,"Step Back Jump shot","2PT Field Goal",10,"Golden State Warriors",103,20,15,13.10,"Curry, Stephen",3.40,11.00
+"Goran Dragic","Phoenix Suns",2014-02-19,2013,3423,1610612756,400489680,4,0,48,0,"Step Back Jump shot","3PT Field Goal",26,"Boston Celtics",177,194,1,2.40,"Green, Jeff",5.60,4.90
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,4,4,23,1,"Step Back Jump shot","3PT Field Goal",25,"Golden State Warriors",103,230,7,3.90,"Iguodala, Andre",4.50,7.60
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,1,4,13,1,"Step Back Jump shot","2PT Field Goal",14,"Miami Heat",143,-14,2,2.40,"Douglas, Toney",3.50,16.50
+"Goran Dragic","Phoenix Suns",2013-12-30,2013,3423,1610612756,400489332,3,2,54,0,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Clippers",80,159,1,1.40,"Griffin, Blake",3.60,1.60
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,1,6,31,1,"Step Back Jump shot","2PT Field Goal",16,"Golden State Warriors",36,164,6,4.60,"Barnes, Harrison",7.80,19.20
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,2,4,33,1,"Step Back Jump shot","2PT Field Goal",14,"Denver Nuggets",31,146,3,5.00,"Hickson, JJ",4.20,9.80
+"Goran Dragic","Phoenix Suns",2014-03-10,2013,3423,1610612756,400489822,1,7,45,0,"Step Back Jump shot","2PT Field Goal",18,"Los Angeles Clippers",-188,4,13,10.30,"Collison, Darren",3.70,13.10
+"Goran Dragic","Phoenix Suns",2014-02-18,2013,3423,1610612756,400489672,3,4,50,0,"Step Back Jump shot","2PT Field Goal",16,"Denver Nuggets",165,1,3,2.30,"Faried, Kenneth",5.40,10.10
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,2,0,33,1,"Step Back Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",36,249,20,16.50,"Butler, Caron",4.00,7.40
+"Goran Dragic","Phoenix Suns",2014-02-04,2013,3423,1610612756,400489596,4,0,57,0,"Step Back Jump shot","2PT Field Goal",15,"Chicago Bulls",155,-3,8,6.30,"Boozer, Carlos",4.50,16.00
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,2,2,05,1,"Step Back Jump shot","3PT Field Goal",23,"Toronto Raptors",-234,9,1,2.60,"Fields, Landry",7.60,16.50
+"Goran Dragic","Phoenix Suns",2013-12-04,2013,3423,1610612756,400489144,4,4,48,1,"Step Back Jump shot","3PT Field Goal",24,"Houston Rockets",-144,198,10,8.60,"Howard, Dwight",6.30,7.40
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,3,7,25,1,"Step Back Jump shot","2PT Field Goal",13,"Memphis Grizzlies",-35,134,5,5.50,"Prince, Tayshaun",4.20,8.20
+"Goran Dragic","Phoenix Suns",2013-12-03,2013,3423,1610612756,400489138,2,4,39,1,"Step Back Jump shot","2PT Field Goal",15,"Memphis Grizzlies",-158,1,7,7.70,"Conley, Mike",2.70,5.70
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,3,11,20,0,"Step Back Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",173,-14,1,2.60,"Adams, Steven",4.30,8.30
+"Goran Dragic","Phoenix Suns",2014-04-12,2013,3423,1610612756,400490068,1,10,32,1,"Step Back Jump shot","2PT Field Goal",16,"Dallas Mavericks",163,23,2,3.40,"Calderon, Jose",3.90,12.90
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,2,4,42,1,"Tip Shot","2PT Field Goal",1,"Portland Trail Blazers",-10,0,0,0.00,"Williams, Mo",2.40,24.00
+"Goran Dragic","Phoenix Suns",2014-01-17,2013,3423,1610612756,400489464,4,0,14,1,"Turnaround Bank shot","2PT Field Goal",5,"Dallas Mavericks",48,26,8,7.20,"Larkin, Shane",1.60,0.00
+"Goran Dragic","Phoenix Suns",2014-04-02,2013,3423,1610612756,400489998,2,7,32,1,"Turnaround Bank shot","2PT Field Goal",7,"Los Angeles Clippers",-71,19,7,6.20,"Davis, Glen",1.10,19.00
+"Goran Dragic","Phoenix Suns",2014-03-21,2013,3423,1610612756,400489902,4,3,57,0,"Turnaround Bank shot","2PT Field Goal",11,"Detroit Pistons",-90,69,1,2.40,"Stuckey, Rodney",1.80,7.00
+"Goran Dragic","Phoenix Suns",2013-12-06,2013,3423,1610612756,400489160,4,8,07,1,"Turnaround Jump Shot","2PT Field Goal",12,"Toronto Raptors",-125,4,15,13.20,"Stone, Julyan",3.70,12.10
+"Goran Dragic","Phoenix Suns",2014-03-04,2013,3423,1610612756,400489775,1,0,12,1,"Turnaround Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-139,-28,24,20.20,"Davis, Glen",4.70,3.80
+"Goran Dragic","Phoenix Suns",2014-04-04,2013,3423,1610612756,400490013,1,8,59,0,"Turnaround Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-73,126,8,6.60,"Lopez, Robin",3.90,7.90
+"Goran Dragic","Phoenix Suns",2014-04-06,2013,3423,1610612756,400490029,3,8,10,1,"Turnaround Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",100,31,3,5.80,"Westbrook, Russell",2.50,8.20
+"Goran Dragic","Phoenix Suns",2014-01-13,2013,3423,1610612756,400489430,2,5,12,1,"Turnaround Jump Shot","2PT Field Goal",8,"New York Knicks",70,53,6,5.40,"Felton, Raymond",2.40,17.40
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,2,6,00,0,"Turnaround Jump Shot","2PT Field Goal",12,"Miami Heat",-60,104,3,3.30,"Chalmers, Mario",1.80,16.20
+"Goran Dragic","Phoenix Suns",2014-02-08,2013,3423,1610612756,400489627,2,9,30,0,"Turnaround Jump Shot","2PT Field Goal",8,"Golden State Warriors",-82,4,1,0.90,"Curry, Stephen",2.50,8.70
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,2,8,35,0,"Turnaround Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-64,97,8,5.90,"Brown, Shannon",3.10,2.60
+"Goran Dragic","Phoenix Suns",2013-11-10,2013,3423,1610612756,400488969,4,9,37,0,"Turnaround Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",-32,48,13,11.90,"Smith, Jason",3.20,13.40
+"Goran Dragic","Phoenix Suns",2014-03-12,2013,3423,1610612756,400489839,1,10,43,0,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",72,50,8,6.30,"Hawes, Spencer",3.50,4.50
+"Goran Dragic","Phoenix Suns",2014-02-21,2013,3423,1610612756,400489695,1,9,05,1,"Turnaround Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-153,-3,11,8.50,"Joseph, Cory",5.30,14.90
+"Goran Dragic","Phoenix Suns",2014-02-28,2013,3423,1610612756,400489746,1,9,34,0,"Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",108,80,16,11.40,"Roberts, Brian",1.90,13.50
+"Goran Dragic","Phoenix Suns",2014-02-11,2013,3423,1610612756,400489647,2,0,39,0,"Turnaround Jump Shot","2PT Field Goal",9,"Miami Heat",92,7,12,9.80,"Chalmers, Mario",2.30,14.40
+"Goran Dragic","Phoenix Suns",2013-11-13,2013,3423,1610612756,400488993,3,7,16,0,"Turnaround Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",73,23,5,6.10,"Lillard, Damian",2.00,13.10
+"Goran Dragic","Phoenix Suns",2014-02-25,2013,3423,1610612756,400489724,1,11,29,1,"Turnaround Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",-112,0,1,2.30,"Cunningham, Dante",3.70,4.90
+"Goran Dragic","Phoenix Suns",2014-03-06,2013,3423,1610612756,400489788,4,1,33,0,"Turnaround Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",80,66,8,7.20,"Butler, Caron",3.20,13.10
+"Goran Dragic","Phoenix Suns",2013-11-15,2013,3423,1610612756,400489005,4,0,04,0,"Turnaround Jump Shot","2PT Field Goal",13,"Brooklyn Nets",138,-22,4,3.30,"Lopez, Brook",2.90,0.90

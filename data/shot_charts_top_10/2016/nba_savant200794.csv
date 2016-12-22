@@ -1,0 +1,1025 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,2,3,14,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,0.00,"Calderon, Jose",7.10,19.10
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,7,04,1,"Alley Oop Layup shot","2PT Field Goal",3,"Philadelphia 76ers",-1,31,0,0.10,"Okafor, Jahlil",2.40,24.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,4,6,17,1,"Alley Oop Layup shot","2PT Field Goal",2,"Denver Nuggets",20,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,4,3,28,1,"Alley Oop Layup shot","2PT Field Goal",1,"Chicago Bulls",12,2,0,0.00,"Mirotic, Nikola",4.70,24.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,2,6,54,0,"Alley Oop Layup shot","2PT Field Goal",1,"New York Knicks",15,2,0,0.00,"Anthony, Carmelo",2.30,6.50
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,11,45,1,"Alley Oop Layup shot","2PT Field Goal",2,"Utah Jazz",22,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,1,11,29,1,"Cutting Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,2,5,01,0,"Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,3,4,05,1,"Cutting Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.70,"Young, Thaddeus",4.00,16.70
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,2,3,47,1,"Cutting Dunk Shot","2PT Field Goal",1,"Toronto Raptors",-11,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,5,06,1,"Cutting Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.60,"Hood, Rodney",1.00,6.30
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,4,4,10,1,"Cutting Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.40,"Dragic, Goran",2.90,11.80
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,11,02,1,"Cutting Dunk Shot","2PT Field Goal",2,"Indiana Pacers",-12,21,0,0.70,"Mahinmi, Ian",4.00,19.70
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,3,5,41,1,"Cutting Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.90,"Batum, Nicolas",3.80,11.50
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,1,10,39,1,"Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,4,1,10,0,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Toronto Raptors",9,18,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,4,7,16,1,"Cutting Layup Shot","2PT Field Goal",0,"Dallas Mavericks",9,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,2,4,40,0,"Cutting Layup Shot","2PT Field Goal",1,"Boston Celtics",10,7,0,0.40,"Crowder, Jae",2.90,4.30
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,4,6,41,1,"Cutting Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-7,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,4,6,24,1,"Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-9,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,3,17,1,"Cutting Layup Shot","2PT Field Goal",2,"Washington Wizards",-22,2,0,1.20,"Dudley, Jared",1.20,10.90
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,4,2,47,1,"Cutting Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-9,7,0,0.60,"Henson, John",2.80,10.60
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,1,2,39,1,"Cutting Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,3,6,58,1,"Cutting Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",1,31,1,1.30,"Antetokounmpo, Giannis",0.50,6.50
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,3,11,20,1,"Cutting Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,3,9,27,1,"Cutting Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",14,2,0,0.60,"Babbitt, Luke",2.80,10.70
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,2,3,01,1,"Cutting Layup Shot","2PT Field Goal",1,"Boston Celtics",10,-1,0,0.50,"Bradley, Avery",4.50,16.70
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,9,11,1,"Cutting Layup Shot","2PT Field Goal",1,"Washington Wizards",-7,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,3,9,06,0,"Cutting Layup Shot","2PT Field Goal",1,"Orlando Magic",12,8,0,0.40,"Frye, Channing",2.90,15.80
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,2,2,23,0,"Cutting Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,1,9,39,0,"Cutting Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",1,7,1,1.50,"Gasol, Marc",2.70,18.80
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,1,10,08,1,"Cutting Layup Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,1.00,"Harris, Tobias",5.10,13.10
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,2,2,08,1,"Cutting Layup Shot","2PT Field Goal",3,"Houston Rockets",-30,11,0,0.60,"Howard, Dwight",5.00,12.90
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,1,6,55,0,"Cutting Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-29,8,1,1.90,"Aldridge, LaMarcus",2.50,14.40
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,3,8,12,1,"Cutting Layup Shot","2PT Field Goal",2,"Chicago Bulls",-22,-1,0,0.60,"Butler, Jimmy",1.90,15.20
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,3,2,04,1,"Cutting Layup Shot","2PT Field Goal",1,"Orlando Magic",14,2,1,1.00,"Gordon, Aaron",2.20,10.60
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,1,6,28,0,"Cutting Layup Shot","2PT Field Goal",1,"Sacramento Kings",-12,2,1,1.00,"Cousins, DeMarcus",2.30,8.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,8,05,0,"Cutting Layup Shot","2PT Field Goal",0,"Utah Jazz",1,3,1,1.50,"Gobert, Rudy",1.80,13.60
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,2,6,15,1,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-19,3,0,1.10,"Towns, Karl-Anthony",3.20,13.60
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,10,13,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-14,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,8,49,1,"Cutting Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",10,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,1,5,15,0,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,-5,0,1.00,"Hibbert, Roy",1.10,15.20
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,2,8,06,1,"Cutting Layup Shot","2PT Field Goal",0,"Charlotte Hornets",2,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,2,44,1,"Cutting Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,2,0,0.60,"Waiters, Dion",2.00,16.30
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,4,6,57,1,"Cutting Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,2,52,1,"Cutting Layup Shot","2PT Field Goal",2,"Boston Celtics",12,16,0,1.10,"Bradley, Avery",1.40,11.20
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,3,6,40,1,"Cutting Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,4,4,31,1,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",12,-1,0,0.00,"Bryant, Kobe",1.80,13.50
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,2,2,59,1,"Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",-14,11,0,1.20,"Mahinmi, Ian",3.60,8.40
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,4,1,39,1,"Cutting Layup Shot","2PT Field Goal",2,"Indiana Pacers",-24,16,0,0.50,"Hill, George",2.10,5.20
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,2,1,37,0,"Cutting Layup Shot","2PT Field Goal",1,"Chicago Bulls",-12,-5,0,0.00,"Gasol, Pau",0.80,10.60
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,5,41,1,"Cutting Layup Shot","2PT Field Goal",0,"Boston Celtics",-4,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,3,31,1,"Cutting Layup Shot","2PT Field Goal",3,"Indiana Pacers",-37,2,0,0.80,"Hill, Jordan",1.60,13.70
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,6,47,1,"Cutting Layup Shot","2PT Field Goal",2,"Washington Wizards",0,-21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,3,3,08,1,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-14,-1,1,1.70,"Bogdanovic, Bojan",1.50,5.90
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,10,59,1,"Cutting Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",20,11,0,0.60,"Smith, Ish",3.30,9.80
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,4,5,35,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",15,0,0,0.50,"Barnes, Matt",2.00,12.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,3,5,06,1,"Driving Bank shot","2PT Field Goal",3,"Dallas Mavericks",-32,11,2,3.40,"Powell, Dwight",3.50,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,3,2,35,1,"Driving Bank shot","2PT Field Goal",6,"New Orleans Pelicans",51,41,2,3.00,"Anderson, Ryan",1.50,5.30
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,1,7,53,0,"Driving Bank shot","2PT Field Goal",2,"Philadelphia 76ers",-25,11,1,4.00,"Marshall, Kendall",2.80,10.30
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,4,7,29,1,"Driving Bank shot","2PT Field Goal",6,"Cleveland Cavaliers",27,56,1,2.80,"Varejao, Anderson",4.50,16.60
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,5,28,1,"Driving Bank shot","2PT Field Goal",2,"Detroit Pistons",-24,11,4,3.00,"Ilyasova, Ersan",2.60,22.70
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,8,58,1,"Driving Bank shot","2PT Field Goal",4,"Los Angeles Clippers",32,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,3,10,53,1,"Driving Bank shot","2PT Field Goal",4,"Dallas Mavericks",33,31,1,2.60,"Matthews, Wesley",2.10,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,3,6,26,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,2,4,26,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,1,1.60,"Whiteside, Hassan",2.90,14.70
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,4,6,14,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,1,2.10,"Porzingis, Kristaps",0.40,16.50
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,5,0,12,1,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,3,1,05,1,"Driving Dunk Shot","2PT Field Goal",1,"Orlando Magic",4,11,1,3.00,"Smith, Jason",4.40,11.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,3,49,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,2,2.90,"Henson, John",3.40,11.90
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,4,2,28,1,"Driving Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,4,6,58,0,"Driving Dunk Shot","2PT Field Goal",2,"Golden State Warriors",-20,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,1,7,20,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,1,10,27,0,"Driving Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,2,3.30,"Biyombo, Bismack",2.70,13.70
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,1,4,36,1,"Driving Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1,1.80,"Okafor, Jahlil",3.90,13.20
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,4,2,26,0,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,0,15,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,2,4,48,1,"Driving Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,7,25,0,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,4,5,07,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",6,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,1,5,12,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-1,26,6,3.90,"Young, Thaddeus",4.20,13.00
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,1,2,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-19,8,2,2.00,"Ajinca, Alexis",5.90,8.20
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,1,9,39,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",-12,8,4,4.80,"Johnson, Amir",1.60,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,1,7,33,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Orlando Magic",-4,-6,2,5.00,"Frye, Channing",5.10,9.60
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,1,52,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"San Antonio Spurs",2,-5,1,1.40,"West, David",2.00,19.60
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,2,10,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-1,-11,1,1.40,"West, David",4.90,16.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,2,1,14,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Chicago Bulls",25,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,1,9,02,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",17,7,2,2.90,"Sullinger, Jared",1.70,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,2,3,39,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Boston Celtics",-47,21,2,2.60,"Johnson, Amir",5.80,8.10
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,11,13,1,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Utah Jazz",45,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,3,7,54,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",0,65,0,1.80,"Rubio, Ricky",3.30,17.30
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,4,5,20,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Toronto Raptors",63,16,2,4.20,"Patterson, Patrick",0.40,11.10
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,2,4,37,0,"Driving Floating Jump Shot","2PT Field Goal",8,"New York Knicks",-2,85,0,3.10,"Williams, Derrick",1.70,14.20
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,3,6,36,0,"Driving Floating Jump Shot","2PT Field Goal",4,"New York Knicks",6,47,2,2.40,"Lopez, Robin",1.70,8.40
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,2,4,45,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Charlotte Hornets",-70,70,1,2.10,"Kaminsky, Frank",5.10,11.80
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,1,5,25,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-17,100,1,2.90,"Crabbe, Allen",4.40,6.80
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,6,58,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Boston Celtics",-79,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,4,1,43,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Golden State Warriors",81,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,4,3,40,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Boston Celtics",35,18,1,1.00,"Zeller, Tyler",1.20,11.60
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,3,6,23,0,"Driving Floating Jump Shot","2PT Field Goal",13,"Houston Rockets",-61,115,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,3,9,30,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",9,111,1,2.70,"Grant, Jerami",5.40,8.90
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,3,4,15,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",10,31,3,3.00,"Wroten, Tony",1.70,11.20
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,1,9,36,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Phoenix Suns",-2,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,2,6,02,1,"Driving Floating Jump Shot","2PT Field Goal",1,"Miami Heat",9,16,2,3.70,"Deng, Luol",2.50,11.80
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,1,1,40,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Toronto Raptors",-1,70,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,2,0,36,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",24,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,3,11,37,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",14,43,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,1,20,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Brooklyn Nets",17,105,1,5.40,"Young, Thaddeus",3.80,7.70
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,2,5,32,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Toronto Raptors",-16,41,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,1,8,17,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Orlando Magic",4,62,3,1.90,"Vucevic, Nikola",1.90,16.70
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,1,0,28,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Orlando Magic",51,87,2,2.60,"Nicholson, Andrew",2.30,3.40
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,2,2,08,0,"Driving Floating Jump Shot","2PT Field Goal",9,"San Antonio Spurs",24,95,2,1.60,"Ginobili, Manu",4.30,8.90
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,10,09,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Detroit Pistons",1,61,2,2.20,"Ilyasova, Ersan",1.30,14.50
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,2,25,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Detroit Pistons",-16,80,1,1.80,"Johnson, Stanley",3.10,3.80
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,0,47,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Miami Heat",43,70,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,3,6,23,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",45,36,2,5.20,"Green, JaMychal",2.80,14.20
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,2,3,51,1,"Driving Floating Jump Shot","2PT Field Goal",12,"Chicago Bulls",-55,110,1,1.70,"Mirotic, Nikola",5.60,13.40
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,2,3,12,1,"Driving Floating Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",2,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,8,01,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Boston Celtics",-19,92,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,3,2,25,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Detroit Pistons",-12,67,1,5.40,"Ilyasova, Ersan",2.30,11.10
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,4,09,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",-47,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,4,4,35,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Chicago Bulls",-60,21,2,3.10,"Mirotic, Nikola",2.70,8.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,10,08,1,"Driving Floating Jump Shot","2PT Field Goal",2,"San Antonio Spurs",2,21,3,2.30,"Aldridge, LaMarcus",2.30,15.80
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,5,2,36,0,"Driving Floating Jump Shot","2PT Field Goal",11,"Milwaukee Bucks",-115,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,4,0,15,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Sacramento Kings",-50,100,1,6.00,"Gay, Rudy",2.40,9.10
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,1,7,26,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-1,80,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,9,47,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Boston Celtics",20,41,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,2,6,25,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Dallas Mavericks",1,95,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,4,08,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Orlando Magic",-16,41,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,2,2,43,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-78,16,1,1.60,"Towns, Karl-Anthony",2.30,12.70
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,5,30,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Indiana Pacers",-88,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,6,26,0,"Driving Floating Jump Shot","2PT Field Goal",11,"Washington Wizards",-14,116,1,2.60,"Dudley, Jared",2.20,20.20
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,2,4,07,0,"Driving Floating Jump Shot","2PT Field Goal",7,"New York Knicks",24,67,0,3.40,"Calderon, Jose",3.10,4.60
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,3,3,11,0,"Driving Hook Shot","2PT Field Goal",4,"New York Knicks",16,44,0,0.90,"Porzingis, Kristaps",7.20,12.90
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,2,4,48,0,"Driving Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",32,51,2,3.00,"Ibaka, Serge",4.70,0.20
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,2,4,04,1,"Driving Hook Shot","2PT Field Goal",4,"Los Angeles Lakers",17,46,3,3.20,"Hibbert, Roy",2.20,5.60
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,1,11,15,1,"Driving Hook Shot","2PT Field Goal",6,"Boston Celtics",-1,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,1,3,50,1,"Driving Hook Shot","2PT Field Goal",2,"Chicago Bulls",-2,28,1,3.20,"Portis, Bobby",1.90,14.80
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,1,8,41,0,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",-4,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-28,2015,3015,1610612737,400828579,2,4,36,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-17,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,2,0,26,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",20,21,2,2.30,"Vucevic, Nikola",1.40,6.40
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,3,13,0,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",12,11,1,2.00,"Hill, Solomon",0.00,20.70
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,3,2,31,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,8,1,2.20,"O'Bryant, Johnny",3.30,12.10
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,1,8,02,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,0,07,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-2,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,3,6,02,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,7,2,5.10,"Ilyasova, Ersan",4.60,5.60
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,1,5,22,1,"Driving Layup Shot","2PT Field Goal",4,"Indiana Pacers",-42,7,0,0.00,"Mahinmi, Ian",2.20,8.60
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,4,3,25,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",20,7,3,3.00,"Bjelica, Nemanja",2.40,9.30
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,4,1,36,0,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",-19,7,3,3.00,"Ilyasova, Ersan",3.50,8.20
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,2,5,56,0,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",28,2,2,2.40,"Humphries, Kris",0.60,23.60
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,2,1,14,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-19,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,1,9,06,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",12,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,2,3,51,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-19,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,1,7,45,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-17,-6,2,2.70,"Bosh, Chris",0.50,15.80
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,4,7,28,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,3,24,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-20,2,1,1.70,"Biyombo, Bismack",2.60,12.50
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,2,3,31,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",9,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,2,5,43,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",6,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,4,4,25,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",1,11,1,2.50,"Towns, Karl-Anthony",2.30,9.60
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,2,2,01,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",14,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,8,31,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-2,26,1,2.20,"Olynyk, Kelly",1.80,9.90
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,3,3,25,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",20,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,2,7,10,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-6,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,8,31,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-17,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,2,5,02,0,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-2,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,3,2,21,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-12,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,3,11,10,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-16,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,0,59,0,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",-12,21,1,1.30,"Hill, Jordan",0.10,13.40
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,4,3,04,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-12,3,1,1.60,"Morris, Marcus",1.70,17.20
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,1,2,30,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-14,7,1,1.60,"Motiejunas, Donatas",1.00,17.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,4,0,00,0,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",9,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,9,17,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-7,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,6,28,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,-1,0,0.00,"Westbrook, Russell",2.60,3.30
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,1,7,44,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,1,10,38,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-14,23,2,2.30,"Hibbert, Roy",2.80,10.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,1,4,11,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",12,2,1,3.10,"Williams, Derrick",1.50,14.40
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,1,9,03,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-12,2,2,3.30,"Porzingis, Kristaps",1.30,15.40
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,3,3,47,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",19,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,9,17,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-24,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,4,5,09,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-22,2,2,3.50,"Motiejunas, Donatas",4.00,24.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,3,11,18,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",14,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,10,18,0,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-1,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,7,43,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,-5,0,1.30,"Lopez, Brook",2.10,9.10
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,9,02,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",4,2,1,2.70,"Howard, Dwight",0.60,11.60
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,1,10,14,0,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,4,25,0,"Driving Layup Shot","2PT Field Goal",3,"Denver Nuggets",6,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,3,13,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-16,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,2,4,28,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",10,-1,0,0.00,"Beverley, Patrick",2.80,14.90
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,3,8,13,1,"Driving Layup Shot","2PT Field Goal",0,"New York Knicks",-7,7,2,3.00,"Anthony, Carmelo",3.00,6.80
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,2,3,20,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-19,13,2,3.00,"Bosh, Chris",0.20,10.40
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,2,4,34,0,"Driving Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",-32,16,0,0.90,"Carter-Williams, Michael",2.50,1.30
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,1,6,12,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",10,13,0,2.70,"Lopez, Brook",3.60,7.30
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,5,1,24,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,3,10,25,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-2,18,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,4,5,24,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-27,10,1,3.00,"Thompson, Tristan",2.60,16.50
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,4,3,47,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-4,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,4,10,14,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,0,1,1.60,"Leonard, Meyers",3.00,2.80
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,1,6,19,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",19,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,1,2,45,0,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-16,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,3,2,06,0,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",32,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,4,4,30,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",9,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,4,4,54,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-22,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,4,1,00,0,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",-2,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,11,39,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",15,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,4,3,51,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",1,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,4,4,30,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-12,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,2,1,01,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",19,-1,2,3.30,"Ibaka, Serge",3.40,10.90
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,1,8,52,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",19,7,2,2.40,"Lopez, Robin",2.30,9.60
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,1,4,32,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",19,7,5,9.20,"Lopez, Brook",2.40,17.90
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,2,1,38,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",19,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,11,04,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-16,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,1,4,09,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-19,9,2,1.70,"Jefferson, Al",1.60,17.50
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,5,1,52,0,"Driving Layup Shot","2PT Field Goal",3,"Orlando Magic",-32,9,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,2,4,55,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",24,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,3,07,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",12,-1,0,2.40,"Ibaka, Serge",5.30,11.10
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,6,17,0,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",-9,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,3,6,38,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,2,1,2.70,"Ibaka, Serge",2.10,4.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,4,2,21,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",19,7,1,3.40,"Bjelica, Nemanja",3.00,11.10
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,5,05,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-7,8,1,1.80,"Belinelli, Marco",0.80,2.70
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,4,4,04,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-11,-5,2,2.10,"Cousins, DeMarcus",3.00,3.60
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,3,2,46,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-24,-1,1,1.60,"Bjelica, Nemanja",2.30,12.60
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,3,8,30,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-29,2,1,1.50,"Vonleh, Noah",1.00,11.40
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,5,21,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Orlando Magic",-4,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,4,8,40,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"New York Knicks",14,21,2,2.60,"Thomas, Lance",4.40,8.60
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,7,31,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-14,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,4,1,40,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,0,3,3.80,"Rudez, Damjan",0.60,13.60
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,3,4,28,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"New York Knicks",17,16,3,2.70,"Lopez, Robin",4.30,4.40
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,3,2,47,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Washington Wizards",-16,-1,0,0.00,"Neal, Gary",0.50,11.90
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,1,10,27,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,3,8,41,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,2,0,2.10,"Ibaka, Serge",1.70,14.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,1,6,56,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,2,5,56,1,"Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,0.70,"Lopez, Robin",3.10,11.20
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,4,04,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,1,1.80,"Young, Thaddeus",3.90,15.00
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,1,7,46,0,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,7,30,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1,0.90,"Sampson, JaKarr",2.20,13.50
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,3,9,21,0,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,3,6,23,1,"Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,2,6,23,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,1,1.20,"Villanueva, Charlie",4.60,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,3,5,56,0,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,2,1,23,1,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.60,"Varejao, Anderson",4.90,13.70
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,1,11,01,1,"Fadeaway Bank shot","2PT Field Goal",7,"Denver Nuggets",-70,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,1,4,39,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",20,80,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,2,2,32,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Houston Rockets",68,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,1,11,04,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Houston Rockets",102,126,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,9,10,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Utah Jazz",117,131,2,3.90,"Favors, Derrick",4.50,15.20
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,1,4,20,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Miami Heat",61,16,3,6.50,"Deng, Luol",1.90,11.70
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,4,24,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",9,115,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,4,4,48,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",187,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,8,03,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",50,95,0,0.70,"Noel, Nerlens",6.00,13.40
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,1,5,52,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",22,129,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,2,3,15,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Golden State Warriors",-153,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,2,5,25,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Brooklyn Nets",163,-24,0,3.80,"Johnson, Joe",4.80,0.40
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,3,32,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Detroit Pistons",177,51,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,9,00,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Detroit Pistons",-122,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,3,9,56,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Detroit Pistons",-174,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,1,9,26,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Houston Rockets",-133,31,1,6.30,"Capela, Clint",4.40,10.10
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,4,7,33,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Toronto Raptors",-150,2,2,3.20,"Patterson, Patrick",4.40,24.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,3,8,57,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-24,115,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,1,7,16,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Chicago Bulls",74,110,2,3.20,"Butler, Jimmy",1.30,12.80
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,3,3,54,1,"Fadeaway Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-130,-11,5,5.20,"Cunningham, Dante",2.30,8.30
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,2,1,50,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-56,51,0,4.10,"Wiggins, Andrew",3.80,21.80
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,4,5,17,0,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",-45,139,1,3.30,"Galloway, Langston",2.30,2.70
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,2,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-151,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,1,6,55,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Orlando Magic",-81,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,2,05,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Orlando Magic",28,174,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,2,5,31,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",9,120,0,0.60,"Ibaka, Serge",4.20,8.80
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,2,0,30,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",-104,16,0,1.10,"Garnett, Kevin",4.90,2.40
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,1,3,03,0,"Fadeaway Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",35,7,2,1.60,"Leonard, Meyers",2.90,17.40
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,3,11,25,1,"Fadeaway Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",32,8,1,1.40,"Covington, Robert",2.40,10.20
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,7,10,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Boston Celtics",105,77,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,1,2,38,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Sacramento Kings",-91,11,2,1.90,"Cauley-Stein, Willie",3.90,16.20
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,4,5,55,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Sacramento Kings",-148,2,0,0.80,"Koufos, Kosta",3.90,5.10
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,1,8,30,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Indiana Pacers",-32,100,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,2,59,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",2,7,1,1.10,"Grant, Jerami",1.90,19.40
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,4,7,14,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",-2,3,1,1.40,"Haslem, Udonis",3.20,16.10
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,1,5,47,1,"Floating Jump shot","2PT Field Goal",10,"Sacramento Kings",-2,101,0,0.80,"Gay, Rudy",3.40,14.30
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,3,2,42,0,"Floating Jump shot","2PT Field Goal",7,"Cleveland Cavaliers",6,75,2,1.80,"Thompson, Tristan",4.50,14.70
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,4,7,42,1,"Floating Jump shot","2PT Field Goal",5,"Brooklyn Nets",-20,56,1,1.20,"Bargnani, Andrea",3.30,8.70
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,3,5,49,0,"Floating Jump shot","2PT Field Goal",10,"Miami Heat",9,101,2,1.90,"Wade, Dwyane",0.80,12.70
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,0,49,0,"Floating Jump shot","2PT Field Goal",4,"Boston Celtics",33,36,0,0.70,"Jerebko, Jonas",2.80,6.20
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,2,3,18,1,"Floating Jump shot","2PT Field Goal",7,"New York Knicks",-76,21,2,3.00,"Calderon, Jose",2.60,11.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,2,1,38,0,"Floating Jump shot","2PT Field Goal",7,"Philadelphia 76ers",32,70,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,3,10,05,0,"Floating Jump shot","2PT Field Goal",10,"Charlotte Hornets",33,95,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,1,5,52,1,"Floating Jump shot","2PT Field Goal",9,"San Antonio Spurs",-2,92,0,0.50,"Aldridge, LaMarcus",5.10,10.90
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,1,52,1,"Floating Jump shot","2PT Field Goal",11,"Detroit Pistons",14,116,0,0.80,"Ilyasova, Ersan",4.80,7.20
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,4,4,44,1,"Floating Jump shot","2PT Field Goal",8,"Detroit Pistons",-32,75,0,0.80,"Jackson, Reggie",2.40,10.10
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,3,7,15,1,"Floating Jump shot","2PT Field Goal",8,"Chicago Bulls",-11,80,0,1.00,"Gasol, Pau",5.90,14.70
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,10,15,0,"Floating Jump shot","2PT Field Goal",8,"Orlando Magic",-19,85,1,1.40,"Vucevic, Nikola",4.20,13.60
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,2,55,1,"Floating Jump shot","2PT Field Goal",9,"Brooklyn Nets",-1,97,0,0.90,"Young, Thaddeus",4.10,14.10
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,1,9,30,0,"Floating Jump shot","2PT Field Goal",5,"New York Knicks",37,41,2,3.20,"Lopez, Robin",3.00,13.90
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,2,2,18,0,"Floating Jump shot","2PT Field Goal",8,"New Orleans Pelicans",17,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,4,5,33,1,"Floating Jump shot","2PT Field Goal",3,"Milwaukee Bucks",-22,31,2,4.00,"Middleton, Khris",1.50,4.60
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,2,0,37,1,"Floating Jump shot","2PT Field Goal",6,"Washington Wizards",-22,57,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,4,6,00,1,"Floating Jump shot","2PT Field Goal",7,"Boston Celtics",-73,13,0,0.50,"Sullinger, Jared",3.80,13.90
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,3,7,21,1,"Floating Jump shot","2PT Field Goal",7,"Los Angeles Clippers",-68,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,3,10,48,0,"Floating Jump shot","2PT Field Goal",10,"Washington Wizards",-107,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,1,8,20,1,"Floating Jump shot","2PT Field Goal",9,"Miami Heat",97,11,0,0.60,"Wade, Dwyane",3.90,16.90
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,3,42,1,"Floating Jump shot","2PT Field Goal",8,"Sacramento Kings",-52,62,1,0.80,"Cousins, DeMarcus",3.90,6.60
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,1,10,15,0,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Lakers",-34,75,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,3,5,13,0,"Floating Jump shot","2PT Field Goal",8,"Miami Heat",-86,11,0,0.60,"Whiteside, Hassan",5.30,17.10
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,2,1,25,1,"Floating Jump shot","2PT Field Goal",14,"Orlando Magic",146,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,1,42,1,"Floating Jump shot","2PT Field Goal",8,"Utah Jazz",74,31,0,0.70,"Booker, Trevor",4.80,5.20
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,9,38,1,"Floating Jump shot","2PT Field Goal",10,"Utah Jazz",104,26,0,0.50,"Favors, Derrick",4.60,5.40
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,2,2,58,1,"Floating Jump shot","2PT Field Goal",9,"Minnesota Timberwolves",97,2,2,2.20,"Garnett, Kevin",3.20,5.70
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,2,7,04,0,"Floating Jump shot","2PT Field Goal",3,"San Antonio Spurs",-4,38,0,0.70,"Parker, Tony",0.00,16.20
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,3,9,47,1,"Floating Jump shot","2PT Field Goal",7,"Washington Wizards",-76,8,0,0.70,"Humphries, Kris",2.80,13.40
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,2,3,33,1,"Floating Jump shot","2PT Field Goal",6,"New York Knicks",-19,62,0,0.90,"Porzingis, Kristaps",2.90,11.20
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,10,17,1,"Floating Jump shot","2PT Field Goal",9,"Utah Jazz",-78,56,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,2,1,17,1,"Floating Jump shot","2PT Field Goal",11,"Brooklyn Nets",-11,110,0,0.60,"Young, Thaddeus",3.50,10.60
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,4,4,01,1,"Hook Shot","2PT Field Goal",5,"Miami Heat",50,16,0,0.70,"Whiteside, Hassan",6.70,13.10
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,2,8,08,0,"Hook Shot","2PT Field Goal",6,"Milwaukee Bucks",61,16,0,1.90,"Monroe, Greg",3.60,14.30
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,11,44,0,"Hook Shot","2PT Field Goal",3,"Denver Nuggets",22,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,3,11,35,1,"Hook Shot","2PT Field Goal",2,"Orlando Magic",-2,26,0,1.30,"Frye, Channing",2.40,17.60
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,4,1,55,1,"Hook Shot","2PT Field Goal",3,"Memphis Grizzlies",33,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,3,3,47,1,"Hook Shot","2PT Field Goal",10,"Memphis Grizzlies",105,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,3,2,56,0,"Hook Shot","2PT Field Goal",2,"Los Angeles Lakers",-6,21,1,1.30,"Williams, Lou",2.20,9.90
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,3,7,17,1,"Jump Bank Shot","2PT Field Goal",12,"Detroit Pistons",-120,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,11,18,1,"Jump Bank Shot","2PT Field Goal",12,"Detroit Pistons",-112,57,0,0.70,"Caldwell-Pope, Kentavious",6.60,13.10
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,1,4,47,1,"Jump Bank Shot","2PT Field Goal",9,"Golden State Warriors",89,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,3,3,51,0,"Jump Bank Shot","2PT Field Goal",5,"Los Angeles Lakers",-52,16,3,6.50,"Randle, Julius",2.30,8.50
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,0,39,0,"Jump Bank Shot","2PT Field Goal",6,"Utah Jazz",-68,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,2,1,40,0,"Jump Bank Shot","2PT Field Goal",8,"Cleveland Cavaliers",-60,57,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,2,0,00,1,"Jump Bank Shot","2PT Field Goal",12,"Charlotte Hornets",101,72,1,2.10,"Kaminsky, Frank",2.90,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,4,9,27,1,"Jump Bank Shot","2PT Field Goal",8,"Cleveland Cavaliers",-84,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,3,11,43,1,"Jump Bank Shot","2PT Field Goal",3,"Los Angeles Clippers",-35,18,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,3,11,19,0,"Jump Bank Shot","2PT Field Goal",6,"Miami Heat",-60,26,1,1.90,"Dragic, Goran",3.80,7.90
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,2,0,34,1,"Jump Bank Shot","2PT Field Goal",9,"Detroit Pistons",-96,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,1,11,35,0,"Jump Bank Shot","2PT Field Goal",5,"Boston Celtics",-53,26,4,3.60,"Johnson, Amir",3.00,3.10
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,1,5,59,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",225,18,0,0.80,"Vonleh, Noah",7.70,10.60
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,4,7,32,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-81,237,2,2.20,"Thomas, Lance",4.30,14.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,2,3,42,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-171,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,1,5,28,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-25,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,5,17,1,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",-132,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,10,30,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-101,228,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,4,8,07,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-2,247,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,7,22,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",236,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,1,10,52,1,"Jump Shot","2PT Field Goal",14,"New York Knicks",119,80,1,1.10,"Porzingis, Kristaps",3.50,4.50
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,1,6,12,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",-142,56,1,3.60,"Lopez, Robin",5.60,8.40
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,1,7,24,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",32,252,0,1.00,"Porzingis, Kristaps",7.50,12.00
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,1,4,52,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-178,61,0,0.80,"Thomas, Lance",5.90,14.70
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,2,3,09,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",-35,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,10,45,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",225,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,6,06,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-109,228,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,1,4,20,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-222,28,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,1,35,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-58,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,2,6,32,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",105,159,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,2,5,35,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-11,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,2,5,00,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",151,33,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,3,2,59,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",37,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,3,10,18,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",69,232,0,1.20,"Gibson, Taj",9.20,7.70
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,1,4,47,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",87,229,0,1.00,"Mirotic, Nikola",5.80,5.70
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,4,02,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-37,244,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,1,20,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",197,149,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,1,7,24,1,"Jump Shot","2PT Field Goal",10,"Utah Jazz",-7,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,8,58,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",45,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,2,9,46,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",19,-49,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,2,2,12,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-27,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,4,53,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",173,188,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,3,4,27,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",10,252,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,3,0,30,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-235,-1,0,1.20,"Bosh, Chris",20.00,1.40
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,3,4,58,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",25,178,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,1,7,46,1,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",-117,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,3,4,05,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",2,239,0,0.90,"Winslow, Justise",6.00,7.60
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,2,56,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-114,218,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,3,2,23,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",27,252,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,6,01,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",86,232,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,3,8,58,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",-174,43,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,1,1,45,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",87,124,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,2,1,21,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-20,254,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,1,29,0,"Jump Shot","2PT Field Goal",4,"Denver Nuggets",40,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,2,5,18,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",155,193,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,3,3,16,1,"Jump Shot","2PT Field Goal",3,"Miami Heat",-1,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,3,2,14,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-40,239,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,2,2,04,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-142,-15,0,0.80,"Aminu, Al-Farouq",5.50,12.30
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,2,5,42,0,"Jump Shot","2PT Field Goal",4,"Miami Heat",-45,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,2,0,55,0,"Jump Shot","2PT Field Goal",4,"Miami Heat",-37,18,6,5.10,"Whiteside, Hassan",2.40,18.10
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,2,9,46,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",10,149,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,4,58,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",230,-1,0,1.20,"Middleton, Khris",10.30,1.10
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,4,6,33,1,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",20,31,2,2.00,"Parker, Jabari",1.90,17.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,2,4,15,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-150,219,0,1.00,"Parker, Jabari",9.20,16.70
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,5,50,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",24,252,0,1.10,"Lopez, Robin",6.90,9.40
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,1,11,26,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",176,7,0,1.10,"Porzingis, Kristaps",4.70,8.60
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,2,19,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-24,242,0,1.30,"Calderon, Jose",5.10,15.40
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,11,02,1,"Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",51,-11,0,0.50,"Antetokounmpo, Giannis",1.70,11.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,2,3,12,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",233,2,0,0.40,"Carter-Williams, Michael",10.60,4.40
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,3,9,10,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",187,149,0,1.00,"Monroe, Greg",19.20,16.50
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,3,18,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-168,47,1,1.00,"Henson, John",3.70,17.60
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,0,50,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-71,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,4,3,38,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",69,239,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,3,7,56,0,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",-119,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,4,4,09,1,"Jump Shot","2PT Field Goal",7,"Chicago Bulls",74,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,1,9,32,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",233,43,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,2,0,40,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",119,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,4,1,29,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-81,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,2,0,24,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",197,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,2,3,23,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",-148,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,3,10,56,1,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",-112,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,8,22,1,"Jump Shot","2PT Field Goal",16,"New York Knicks",166,-6,0,0.80,"Porzingis, Kristaps",6.10,10.40
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,7,23,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",238,46,0,1.30,"Lopez, Robin",6.00,8.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,4,19,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-91,228,0,1.00,"O'Quinn, Kyle",6.30,16.60
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,4,5,51,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",60,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,2,6,27,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",35,242,0,0.60,"Afflalo, Arron",10.00,13.50
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,0,43,0,"Jump Shot","2PT Field Goal",23,"New York Knicks",-122,203,0,1.50,"Grant, Jerian",9.00,16.10
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,5,0,19,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",210,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,3,0,27,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-132,214,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,4,10,46,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",166,183,0,1.10,"Leonard, Meyers",9.70,12.00
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,1,1,42,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-83,237,0,1.10,"Davis, Ed",6.50,12.10
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,4,2,31,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",230,2,0,0.90,"Aminu, Al-Farouq",5.90,11.50
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,2,3,21,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",230,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,5,1,15,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-183,165,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,1,6,35,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",71,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,1,2,59,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",218,141,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,1,9,36,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",209,144,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,2,0,01,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",96,247,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,2,0,38,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",60,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,3,3,00,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",109,214,0,1.00,"Porzingis, Kristaps",6.70,12.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,3,2,29,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",212,129,0,1.30,"Afflalo, Arron",11.10,16.50
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,10,21,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,3,0,1.10,"Porzingis, Kristaps",7.90,19.40
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,1,6,45,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",30,247,0,0.90,"Ellington, Wayne",6.30,0.70
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,1,6,32,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",114,149,0,0.80,"Vonleh, Noah",5.70,13.70
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,2,3,10,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-232,13,0,0.00,"Harkless, Maurice",6.70,0.90
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,4,1,20,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",177,2,1,1.80,"Aminu, Al-Farouq",5.00,12.80
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,3,7,33,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-130,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,1,2,39,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-29,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,2,5,57,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-89,156,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,1,11,09,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-20,188,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,3,0,48,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-63,234,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,3,0,00,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-230,-26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,3,11,18,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-1,183,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,3,5,22,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-109,213,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,2,4,11,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-68,247,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,9,54,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",101,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,1,9,23,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-78,139,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,2,3,36,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",119,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,1,7,56,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-110,228,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,2,5,06,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-91,229,0,1.10,"Sullinger, Jared",7.40,15.50
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,1,37,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-14,247,0,0.80,"Hill, Jordan",6.00,12.00
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,3,6,28,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",171,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,4,0,08,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",32,28,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,3,1,06,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-45,247,0,1.20,"Robinson, Thomas",11.30,12.70
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,1,9,48,1,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",68,136,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,2,3,38,1,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",223,16,0,1.10,"Hill, Jordan",5.00,9.00
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,1,2,26,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-102,229,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,4,1,41,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-55,159,0,1.00,"Nowitzki, Dirk",6.90,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,3,2,44,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",112,214,0,1.20,"Powell, Dwight",6.70,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,1,3,30,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-160,85,0,0.90,"Powell, Dwight",5.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,1,5,14,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,7,0,1.10,"Powell, Dwight",6.30,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,1,2,16,0,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",17,31,1,1.80,"Williams, Deron",2.90,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,2,7,17,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",235,41,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,4,9,20,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-155,195,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,3,5,33,0,"Jump Shot","2PT Field Goal",4,"Chicago Bulls",-45,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,1,8,11,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",141,198,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,1,5,23,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-148,203,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,1,6,00,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-112,178,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,3,10,36,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-163,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,1,6,41,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-55,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,3,16,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",107,144,0,0.80,"Ilyasova, Ersan",7.20,14.20
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,1,8,53,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",230,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,3,10,29,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-147,210,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,2,0,32,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",176,169,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,1,11,03,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",238,3,0,1.80,"Johnson, Amir",7.90,10.60
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,4,3,51,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-156,188,0,1.10,"Ilyasova, Ersan",8.30,13.60
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,3,1,30,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-70,242,0,1.10,"Kaminsky, Frank",9.10,16.60
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,3,4,57,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",135,205,0,2.90,"Holmes, Richaun",6.50,8.00
+"Paul Millsap","Atlanta Hawks",2015-12-10,2015,3015,1610612737,400828218,1,6,42,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,23,0,1.20,"Ibaka, Serge",5.20,2.10
+"Paul Millsap","Atlanta Hawks",2015-12-10,2015,3015,1610612737,400828218,3,10,51,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",87,146,0,2.50,"Westbrook, Russell",4.70,11.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,9,37,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",153,3,0,0.80,"Jerebko, Jonas",5.10,11.40
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,3,4,29,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",164,188,1,0.90,"Sullinger, Jared",8.80,11.30
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,2,1,42,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",232,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,3,3,35,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-78,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,4,5,38,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-148,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,1,3,58,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",24,242,0,1.10,"Ellis, Monta",10.30,16.90
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,9,25,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-155,214,0,1.00,"Allen, Lavoy",7.50,12.20
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,4,41,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-56,247,0,0.80,"Hill, Jordan",6.40,13.70
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,4,5,54,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-117,144,0,0.90,"Ellis, Monta",3.70,13.40
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,2,7,23,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",24,18,0,1.00,"Hill, Jordan",1.70,16.80
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,1,7,49,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",76,3,1,1.40,"Allen, Lavoy",0.00,10.70
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,3,3,36,1,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-42,2,0,0.60,"Thompson, Hollis",4.80,16.80
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,1,9,10,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-135,-6,0,1.40,"Noel, Nerlens",7.70,17.20
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,2,0,47,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-11,257,0,1.00,"Holmes, Richaun",7.30,15.20
+"Paul Millsap","Atlanta Hawks",2016-01-28,2015,3015,1610612737,400828579,2,6,01,0,"Jump Shot","2PT Field Goal",8,"Indiana Pacers",82,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,3,3,31,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",89,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,0,49,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",-14,41,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,3,36,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",33,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,1,4,28,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",0,151,0,0.90,"Ginobili, Manu",3.20,15.30
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,4,30,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",110,214,0,1.20,"Howard, Dwight",7.70,14.50
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,2,6,18,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",213,31,0,1.10,"Capela, Clint",6.40,10.80
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,2,3,57,0,"Jump Shot","2PT Field Goal",4,"Houston Rockets",-40,11,2,2.90,"Harden, James",2.10,9.60
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,3,21,0,"Jump Shot","2PT Field Goal",7,"Houston Rockets",19,77,0,2.10,"Brewer, Corey",4.20,6.40
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,3,07,0,"Jump Shot","2PT Field Goal",4,"Houston Rockets",-7,41,0,0.80,"Motiejunas, Donatas",3.20,24.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,1,8,24,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",71,229,0,0.90,"Ariza, Trevor",5.60,15.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,11,03,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",92,223,0,1.10,"Capela, Clint",8.10,11.00
+"Paul Millsap","Atlanta Hawks",2016-01-28,2015,3015,1610612737,400828579,1,4,58,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",1,57,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-28,2015,3015,1610612737,400828579,1,10,03,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-99,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,2,5,22,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",184,170,0,0.90,"Ilyasova, Ersan",7.20,2.60
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,3,8,55,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-6,190,0,1.00,"Ilyasova, Ersan",7.10,10.30
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,0,49,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",174,51,2,3.20,"Nicholson, Andrew",3.70,16.30
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,0,54,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",14,247,0,1.60,"West, David",6.10,20.70
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,3,5,19,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-169,188,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,2,0,54,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-192,188,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,4,01,0,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",228,7,1,1.50,"Green, Danny",4.90,17.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,4,6,08,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-101,232,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,0,01,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",9,244,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,1,39,1,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",228,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,3,8,41,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",232,65,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,3,26,1,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",-4,95,1,2.40,"Mills, Patty",1.60,10.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,8,35,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",155,190,0,2.00,"Aldridge, LaMarcus",5.00,2.90
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,2,0,00,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",69,46,0,2.60,"Ginobili, Manu",2.10,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,4,29,0,"Jump Shot","2PT Field Goal",6,"Orlando Magic",-38,56,1,1.80,"Nicholson, Andrew",2.60,16.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,3,2,45,0,"Jump Shot","2PT Field Goal",5,"Orlando Magic",40,31,0,0.60,"Fournier, Evan",2.00,9.70
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,2,39,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",115,106,0,0.90,"Nicholson, Andrew",8.00,10.20
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,8,15,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-117,120,0,0.20,"Frye, Channing",5.90,8.10
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,3,2,04,0,"Jump Shot","2PT Field Goal",14,"Orlando Magic",4,144,1,1.50,"Nicholson, Andrew",3.20,12.40
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,2,5,19,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-71,242,0,1.80,"Vucevic, Nikola",6.90,1.40
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,4,1,58,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",45,254,0,1.10,"Harris, Tobias",5.30,7.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,2,54,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",15,178,0,0.90,"Kaminsky, Frank",7.80,14.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,2,4,43,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-181,62,0,0.10,"Williams, Marvin",4.10,4.10
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,3,2,29,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",42,249,0,1.00,"Kaminsky, Frank",5.30,11.50
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,4,09,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-1,65,2,2.80,"Lin, Jeremy",1.40,5.40
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,10,55,1,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",-58,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,3,1,46,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-173,208,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,3,7,20,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-174,180,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,4,30,1,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",-71,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,2,3,56,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-16,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,3,11,23,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-14,38,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,4,6,37,0,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",-96,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,4,1,44,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-184,169,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,2,2,26,0,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-102,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,2,1,37,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",209,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,1,5,45,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",169,198,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,1,10,19,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",245,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,1,6,37,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",227,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,3,6,20,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",97,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,4,36,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",-47,100,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,3,5,52,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-171,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,1,8,25,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",155,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,7,22,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-22,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,1,10,53,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",6,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,1,7,07,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",204,156,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,2,0,57,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",168,185,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,3,7,13,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",35,247,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,2,2,26,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",195,-26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,3,7,58,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-133,82,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,1,6,29,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",42,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,5,4,08,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",197,170,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,1,52,1,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-60,28,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,4,3,06,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",120,209,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,6,53,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",233,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,8,41,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-102,23,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,4,0,24,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",192,156,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,2,2,11,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",33,33,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,3,2,12,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-156,203,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,1,6,15,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-194,169,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,3,3,06,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-132,210,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,1,2,16,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-9,183,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,4,8,20,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",204,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,8,19,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",235,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,3,9,45,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-147,159,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,1,3,44,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",1,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,1,9,54,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-110,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,2,0,00,0,"Jump Shot","3PT Field Goal",62,"Phoenix Suns",164,599,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,1,7,23,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",15,242,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,1,10,09,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",9,180,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,2,5,22,1,"Jump Shot","3PT Field Goal",28,"Washington Wizards",-66,278,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,1,10,29,0,"Jump Shot","2PT Field Goal",11,"Miami Heat",4,115,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,5,43,0,"Jump Shot","3PT Field Goal",40,"Miami Heat",-2,400,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,3,9,49,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-104,224,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,7,29,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-58,239,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,3,38,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",92,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,10,18,1,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-60,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,3,9,50,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-150,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,4,2,05,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",140,47,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,2,38,0,"Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",-30,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,3,5,06,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-99,223,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,8,44,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",-89,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,2,0,01,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",30,90,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,1,6,56,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",-30,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,1,5,02,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",145,51,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,1,3,48,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",48,254,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,3,46,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",195,178,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,2,4,50,0,"Jump Shot","3PT Field Goal",28,"Washington Wizards",92,267,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,3,2,32,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",-34,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,6,27,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",233,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,3,2,36,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",-50,51,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,11,23,0,"Jump Shot","2PT Field Goal",12,"Washington Wizards",-117,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,3,4,18,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",14,51,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,1,7,04,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",53,33,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,3,8,44,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",9,262,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,2,10,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-235,0,0,0.80,"Morris, Marcus",5.80,12.50
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,1,3,30,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-176,65,0,1.70,"Young, Thaddeus",5.20,5.30
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,5,55,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-151,198,0,1.10,"Ilyasova, Ersan",5.90,6.10
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,4,6,23,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",110,149,0,1.10,"Drummond, Andre",5.70,9.70
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,2,3,16,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-168,2,0,0.50,"Kaminsky, Frank",5.70,6.70
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,1,11,18,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-115,26,0,0.90,"Parker, Tony",3.20,9.60
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,1,10,45,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",163,100,0,1.10,"Bosh, Chris",4.00,11.80
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,1,6,25,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",9,146,0,0.90,"Aldridge, LaMarcus",4.50,14.40
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,1,6,08,1,"Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-109,-6,0,0.70,"Duncan, Tim",5.20,19.10
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,3,8,26,0,"Jump Shot","2PT Field Goal",23,"Charlotte Hornets",-8,233,0,2.00,"Williams, Marvin",1.60,3.50
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,3,0,35,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",10,242,0,1.30,"Zeller, Cody",5.90,14.90
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,4,4,55,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",102,228,0,1.00,"Williams, Marvin",4.70,7.30
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,1,11,06,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",48,234,0,1.00,"Williams, Marvin",8.00,11.10
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,2,1,37,1,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-158,56,0,2.70,"Lee, David",4.90,12.40
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,2,2,05,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-78,237,0,1.20,"Kaminsky, Frank",7.00,19.10
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,11,13,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",233,18,0,0.80,"Ibaka, Serge",6.00,9.90
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,3,6,00,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",15,247,0,1.30,"Towns, Karl-Anthony",11.00,16.70
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,2,1,29,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",156,183,0,1.00,"Towns, Karl-Anthony",5.90,9.90
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,2,2,11,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-74,237,0,1.10,"Towns, Karl-Anthony",6.90,12.10
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,3,2,47,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",42,237,0,1.00,"Kanter, Enes",8.60,3.40
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,1,11,05,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-110,228,0,1.20,"Holiday, Jrue",9.90,10.00
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,1,8,48,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",53,190,0,1.10,"Cunningham, Dante",5.50,24.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,4,1,59,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-158,193,0,1.10,"Porzingis, Kristaps",8.30,13.50
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,2,0,37,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-35,242,0,1.00,"Zeller, Cody",6.50,12.70
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,1,7,11,1,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-3,140,0,0.60,"Williams, Marvin",3.40,13.40
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,3,2,51,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-92,225,0,1.20,"Zeller, Cody",5.10,13.90
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,4,0,40,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",5,245,0,1.10,"Williams, Marvin",4.80,15.00
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,3,6,52,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-117,51,0,1.20,"Batum, Nicolas",5.90,14.70
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,4,6,48,0,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",-77,57,2,2.50,"Hawes, Spencer",5.20,16.50
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,3,6,02,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-160,203,0,1.40,"Anthony, Carmelo",4.80,5.60
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,3,5,50,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",69,193,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,1,3,32,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",32,239,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,2,0,59,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-88,232,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,3,4,00,0,"Jump Shot","2PT Field Goal",5,"Boston Celtics",-1,51,4,4.30,"Olynyk, Kelly",2.80,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,8,27,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-40,242,0,1.00,"Scola, Luis",6.80,11.20
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,5,36,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-7,156,0,1.10,"Gobert, Rudy",3.80,10.90
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,3,6,29,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",210,2,0,0.80,"Favors, Derrick",8.30,14.80
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,2,0,31,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",2,242,0,1.20,"Gobert, Rudy",8.10,7.10
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,4,0,01,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",9,249,0,1.30,"Wiggins, Andrew",0.30,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,1,7,11,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",125,210,0,0.90,"Garnett, Kevin",5.40,12.60
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,1,8,19,1,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",3,97,8,8.40,"Towns, Karl-Anthony",3.70,16.10
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,5,51,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-84,232,0,1.10,"Dudley, Jared",5.80,15.30
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,2,1,49,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-235,3,0,0.90,"Humphries, Kris",5.60,4.80
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,2,1,50,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-4,62,2,3.20,"Thompson, Tristan",2.30,9.40
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,3,11,21,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",191,174,0,1.10,"Johnson, Joe",6.10,5.80
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,2,38,0,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",-140,31,0,1.70,"Biyombo, Bismack",5.00,9.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,4,6,41,1,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",-94,11,3,3.10,"Johnson, Joe",0.60,14.10
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,4,3,42,1,"Jump Shot","2PT Field Goal",3,"Boston Celtics",30,2,0,0.60,"Johnson, Amir",1.20,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,1,5,20,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-40,170,0,1.10,"Biyombo, Bismack",12.70,24.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,2,5,35,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-92,183,0,5.10,"Biyombo, Bismack",4.70,0.80
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,4,7,17,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-227,-19,0,1.00,"Johnson, Joe",5.20,7.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,1,2,32,1,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-2,272,0,1.10,"Olynyk, Kelly",6.60,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,4,1,28,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",110,219,0,0.80,"Johnson, Amir",4.90,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,3,5,32,1,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",133,-16,0,0.00,"Green, JaMychal",7.80,16.30
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,1,6,20,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",17,159,0,1.10,"Barnes, Matt",3.90,10.90
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,4,8,06,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-235,-1,0,1.10,"Baynes, Aron",6.90,17.90
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,0,50,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",99,223,0,1.30,"Morris, Marcus",5.70,13.40
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,6,57,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-228,26,0,1.50,"Jackson, Reggie",1.50,2.80
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,4,40,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",9,242,0,1.20,"Drummond, Andre",7.80,17.30
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,3,5,21,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",155,61,0,3.10,"Aldridge, LaMarcus",4.40,9.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,4,1,59,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",94,224,0,0.90,"Dragic, Goran",15.10,12.30
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,1,8,49,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-166,193,0,1.00,"Dragic, Goran",11.80,16.70
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,4,5,18,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",97,224,0,1.20,"Bosh, Chris",7.40,8.20
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,2,7,31,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",150,200,0,0.60,"Aldridge, LaMarcus",10.00,14.80
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,3,7,54,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",55,21,1,1.30,"Green, Danny",0.40,7.30
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,1,6,32,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",227,43,1,1.70,"Randle, Julius",5.30,16.80
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,1,8,12,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-230,13,0,1.00,"Acy, Quincy",4.20,13.70
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,1,30,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",-7,75,1,4.20,"Cauley-Stein, Willie",1.20,10.10
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,10,48,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-160,-6,0,1.10,"Acy, Quincy",9.30,8.30
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,3,6,57,0,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-228,-6,0,0.00,"Young, Thaddeus",4.00,12.70
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,1,10,36,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",117,213,0,1.30,"Young, Thaddeus",9.10,9.90
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,4,3,58,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",45,237,0,1.10,"Young, Thaddeus",6.00,16.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,3,1,18,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",158,203,0,1.30,"Olynyk, Kelly",6.90,9.60
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,3,4,36,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",-43,7,0,3.80,"Lee, David",0.60,13.80
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,1,3,18,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",64,232,0,1.00,"Bjelica, Nemanja",5.50,12.30
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,3,8,15,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",58,165,0,2.40,"Westbrook, Russell",4.00,8.90
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,2,4,07,1,"Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",-50,31,0,0.70,"Anderson, Ryan",4.00,11.70
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,1,0,18,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",132,-5,1,1.40,"Babbitt, Luke",2.70,0.50
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,1,1,14,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-4,242,0,1.30,"Anderson, Ryan",5.50,6.70
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,3,6,02,0,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",1,65,0,0.70,"Smith, Ish",2.80,10.60
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,1,4,44,1,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",-39,61,2,3.40,"Batum, Nicolas",2.60,23.30
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,2,3,46,1,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",-55,-46,1,1.80,"Hairston, PJ",1.80,4.00
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,3,1,48,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",79,235,0,1.00,"Zeller, Cody",4.90,15.30
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,1,2,44,0,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",32,86,2,2.50,"Zeller, Cody",3.50,4.30
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,1,8,21,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-148,199,0,1.30,"Williams, Marvin",5.70,15.50
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,3,2,13,0,"Jump Shot","2PT Field Goal",9,"New York Knicks",91,26,1,2.50,"Thomas, Lance",3.60,2.20
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,1,7,02,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",19,31,0,0.70,"Lopez, Robin",2.80,19.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,1,11,46,0,"Jump Shot","2PT Field Goal",9,"New York Knicks",68,67,0,1.30,"Porzingis, Kristaps",4.80,14.50
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,2,4,05,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-66,0,5,4.50,"Porzingis, Kristaps",2.30,9.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,10,16,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",4,242,0,1.20,"Favors, Derrick",6.10,12.30
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,3,8,36,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",164,193,0,1.30,"Hood, Rodney",15.70,14.70
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,2,36,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",27,26,2,2.20,"Hood, Rodney",1.80,8.80
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,3,10,36,0,"Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",-9,43,2,1.90,"Towns, Karl-Anthony",2.70,4.60
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,4,3,44,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",15,252,0,1.00,"Rudez, Damjan",5.90,9.40
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,3,7,29,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",223,13,0,1.20,"Wiggins, Andrew",5.80,8.90
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,1,10,57,1,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",9,124,0,0.80,"Love, Kevin",6.50,14.80
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,4,5,40,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",102,223,0,0.00,"Humphries, Kris",6.70,11.40
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,2,3,36,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-151,208,0,1.00,"Humphries, Kris",4.80,4.30
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,4,16,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",177,170,0,1.10,"Dudley, Jared",6.50,4.90
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,1,4,18,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",22,242,0,1.10,"Love, Kevin",5.50,13.70
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,3,10,23,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-34,239,0,1.00,"Love, Kevin",3.70,10.80
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,3,1,43,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",210,124,0,1.10,"Cunningham, Jared",9.20,18.60
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,1,9,55,0,"Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-1,115,0,0.80,"Love, Kevin",4.40,9.50
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,2,0,07,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",30,237,0,1.20,"Ross, Terrence",5.70,4.60
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,3,2,06,0,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-145,-6,0,1.00,"Robinson, Thomas",5.20,9.20
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,2,2,23,0,"Jump Shot","2PT Field Goal",6,"Boston Celtics",-63,13,2,2.30,"Smart, Marcus",0.60,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,1,8,06,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",53,259,0,1.00,"Thomas, Isaiah",7.50,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,3,3,06,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",236,-26,0,0.90,"Lee, Courtney",6.40,13.40
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,1,9,53,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",42,237,0,1.00,"Barnes, Matt",8.10,16.60
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,3,3,28,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",4,7,0,1.20,"Bryant, Kobe",4.00,9.10
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,4,2,24,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-7,21,0,0.40,"Fournier, Evan",0.80,11.20
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,4,7,36,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-17,-5,0,1.60,"Capela, Clint",2.00,23.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,1,2,35,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",1,0,1,1.10,"Bass, Brandon",3.50,11.20
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,5,25,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",4,-5,0,0.50,"Dudley, Jared",0.10,20.20
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,4,45,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",14,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,10,03,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,4,2,47,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,2,11,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-18,21,0,5.20,"Capela, Clint",0.00,4.80
+"Paul Millsap","Atlanta Hawks",2015-11-01,2015,3015,1610612737,400827926,3,2,19,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",0,15,0,0.10,"Zeller, Cody",2.40,5.10
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,4,3,51,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-14,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,1,9,16,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",9,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,2,1,50,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-22,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,1,9,39,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-16,-6,0,1.30,"Gortat, Marcin",1.90,10.10
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,4,5,32,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-17,-1,0,0.60,"Durant, Kevin",4.60,13.00
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,4,4,24,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,10,40,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",10,-6,0,1.30,"Porzingis, Kristaps",3.40,16.60
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,8,30,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",1,13,7,6.40,"Williams, Marvin",2.10,17.90
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,4,3,54,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,1,8,34,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-12,0,0,0.60,"Porzingis, Kristaps",5.90,18.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,2,2,14,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",-24,3,0,1.30,"Lopez, Robin",2.40,16.40
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,11,20,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-12,11,0,0.80,"Hairston, PJ",1.90,12.90
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,8,03,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-14,16,0,1.10,"Ariza, Trevor",1.10,5.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,2,6,15,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",20,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,2,0,31,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,7,0,0.00,"Aminu, Al-Farouq",2.60,8.70
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,3,19,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",4,-11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,5,09,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-9,7,2,4.50,"Zeller, Cody",0.80,9.40
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,4,1,41,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,-6,0,0.50,"Ibaka, Serge",1.10,15.80
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,1,7,07,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,11,0,0.80,"McCollum, CJ",3.10,19.10
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,4,7,23,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,3,1,1.20,"Ibaka, Serge",2.10,5.80
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,3,11,24,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-6,2,4,4.00,"Garnett, Kevin",1.80,20.60
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,3,3,49,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-6,13,0,1.10,"Zeller, Cody",2.30,4.20
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,5,29,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-9,3,0,0.40,"Harden, James",2.30,0.50
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,1,4,25,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-7,21,0,2.10,"Vucevic, Nikola",2.00,13.80
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,2,5,21,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-7,11,0,0.80,"Conley, Mike",4.10,11.60
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,3,1,12,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,0,0,0.60,"Booker, Trevor",3.20,19.20
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,1,5,00,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-11,23,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,1,10,32,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",14,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,4,4,22,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-12,2,0,1.10,"Winslow, Justise",1.50,7.70
+"Paul Millsap","Atlanta Hawks",2016-01-31,2015,3015,1610612737,400828602,1,9,53,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-24,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-10,2015,3015,1610612737,400828846,1,2,46,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",24,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,7,43,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-16,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,1,24,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",9,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,6,12,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-7,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,9,13,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",9,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,3,3,57,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-17,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-19,2015,3015,1610612737,400828916,3,4,51,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,2,8,11,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-22,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,3,11,42,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-9,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,3,10,09,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,0,1,0.70,"Lopez, Brook",3.20,9.80
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,1,9,03,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,2,1,20,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",15,21,2,3.00,"Garnett, Kevin",1.90,11.40
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,2,8,17,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-14,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,3,01,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-14,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-13,2015,3015,1610612737,400829108,3,4,16,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-12,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,3,5,35,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-7,13,0,5.10,"Antetokounmpo, Giannis",1.70,10.10
+"Paul Millsap","Atlanta Hawks",2015-12-10,2015,3015,1610612737,400828218,3,2,15,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-17,7,0,0.80,"Ibaka, Serge",1.30,13.10
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,10,25,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",10,7,0,0.50,"Ilyasova, Ersan",1.60,16.30
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,3,59,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-20,18,4,2.50,"Crowder, Jae",2.80,11.70
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,1,4,23,1,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-1,-1,0,0.80,"Powell, Dwight",4.60,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,4,3,21,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",20,-5,0,1.90,"Jerebko, Jonas",1.20,15.30
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,3,3,04,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,7,6,7.80,"Payne, Adreian",2.20,17.10
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,1,7,28,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",9,7,0,1.60,"Crowder, Jae",0.00,17.20
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,4,0,07,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",19,2,0,0.70,"Lopez, Brook",1.80,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,1,7,00,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,2,0,1.00,"Johnson, Amir",3.10,9.50
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,10,13,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-1,0,0.50,"Monroe, Greg",5.50,12.10
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,1,7,40,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-6,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,1,11,33,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-9,18,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,1,8,48,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-14,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,4,0,41,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-19,8,0,0.00,"Garnett, Kevin",2.20,21.80
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,3,7,21,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,3,5,08,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-19,11,0,0.90,"Mahinmi, Ian",2.20,4.50
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,1,10,22,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,1,5,18,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-4,-1,0,0.40,"Gasol, Marc",2.80,23.60
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,5,1,05,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-16,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,4,1,57,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-6,8,2,4.00,"Antetokounmpo, Giannis",1.50,2.40
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,1,5,20,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-2,-6,0,1.00,"Cousins, DeMarcus",1.50,17.80
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,1,5,49,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,-1,5,4.20,"Antetokounmpo, Giannis",1.70,12.10
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,1,10,38,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-19,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,1,5,14,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",9,2,0,0.70,"Johnson, Amir",1.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,5,28,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-19,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,4,7,31,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",15,2,0,0.00,"Casspi, Omri",2.80,16.20
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,3,6,49,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-2,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,1,11,49,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-20,21,0,0.80,"Noel, Nerlens",3.50,11.80
+"Paul Millsap","Atlanta Hawks",2016-01-15,2015,3015,1610612737,400828486,3,3,59,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",24,13,0,0.60,"Antetokounmpo, Giannis",0.30,12.60
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,2,4,51,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",-17,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,1,3,17,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-4,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,4,3,48,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,7,1,1.40,"Porzingis, Kristaps",2.60,11.40
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,2,4,43,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",12,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,6,29,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-6,18,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,3,7,34,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,4,4,13,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",25,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,1,4,31,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",2,11,0,1.00,"Kaminsky, Frank",2.80,16.60
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,9,54,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",15,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,1,3,41,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",14,0,0,0.70,"Bjelica, Nemanja",2.90,17.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,1,4,46,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-6,7,0,6.90,"Motiejunas, Donatas",1.90,24.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,4,5,04,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",24,2,0,0.50,"Nance Jr., Larry",2.50,10.40
+"Paul Millsap","Atlanta Hawks",2016-03-16,2015,3015,1610612737,400828894,1,10,20,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,1,2,20,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,3,9,05,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,8,0,1.70,"Garnett, Kevin",3.00,16.70
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,2,3,27,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,3,4,52,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-13,14,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-26,2015,3015,1610612737,400828972,3,3,30,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,-5,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,1,27,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",17,13,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,3,3,41,0,"Pullup Bank shot","2PT Field Goal",16,"Chicago Bulls",-124,110,0,2.90,"Mirotic, Nikola",4.10,10.60
+"Paul Millsap","Atlanta Hawks",2015-12-10,2015,3015,1610612737,400828218,4,6,01,1,"Pullup Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",-43,75,1,2.40,"Waiters, Dion",1.80,13.30
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,2,23,0,"Pullup Jump shot","2PT Field Goal",10,"Milwaukee Bucks",-83,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,5,4,18,0,"Pullup Jump shot","2PT Field Goal",18,"Milwaukee Bucks",101,149,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,0,01,0,"Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",-153,52,1,1.50,"Gobert, Rudy",8.80,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,0,59,0,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",184,159,0,1.00,"Favors, Derrick",5.70,17.50
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,6,10,0,"Pullup Jump shot","2PT Field Goal",3,"Boston Celtics",9,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,1,2,15,0,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",-153,26,3,4.70,"Gasol, Pau",6.10,13.40
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,6,2,36,0,"Pullup Jump shot","3PT Field Goal",24,"Milwaukee Bucks",122,218,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,3,6,36,0,"Pullup Jump shot","2PT Field Goal",10,"Orlando Magic",30,101,1,2.30,"Frye, Channing",3.80,10.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,1,2,32,1,"Pullup Jump shot","2PT Field Goal",8,"New Orleans Pelicans",-4,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,2,17,0,"Pullup Jump shot","2PT Field Goal",3,"Golden State Warriors",30,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,4,1,40,1,"Pullup Jump shot","2PT Field Goal",19,"New Orleans Pelicans",148,131,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,4,1,32,0,"Pullup Jump shot","2PT Field Goal",6,"Orlando Magic",-38,47,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,4,4,34,0,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",9,178,1,1.40,"Durant, Kevin",5.40,13.20
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,2,2,25,1,"Pullup Jump shot","2PT Field Goal",6,"Golden State Warriors",4,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,3,9,26,0,"Pullup Jump shot","2PT Field Goal",4,"New York Knicks",14,46,2,3.90,"Porzingis, Kristaps",1.90,12.80
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,6,03,1,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",27,156,1,1.40,"Ibaka, Serge",5.60,12.50
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,2,0,04,0,"Pullup Jump shot","2PT Field Goal",5,"Los Angeles Lakers",-48,31,1,2.30,"Bass, Brandon",1.70,2.10
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,5,0,25,0,"Pullup Jump shot","2PT Field Goal",4,"Cleveland Cavaliers",38,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,4,6,40,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",-147,75,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,2,0,01,0,"Pullup Jump shot","2PT Field Goal",11,"Chicago Bulls",-94,62,2,2.40,"Rose, Derrick",3.60,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,4,8,03,0,"Pullup Jump shot","2PT Field Goal",11,"Dallas Mavericks",28,110,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,2,1,18,1,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",-4,244,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,2,1,43,1,"Pullup Jump shot","2PT Field Goal",18,"Philadelphia 76ers",71,170,0,1.00,"Grant, Jerami",6.40,10.70
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,2,5,39,0,"Pullup Jump shot","2PT Field Goal",3,"Indiana Pacers",33,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,3,9,16,0,"Pullup Jump shot","2PT Field Goal",4,"Miami Heat",-35,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,1,4,23,1,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",115,164,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-01,2015,3015,1610612737,400828782,3,9,16,1,"Putback Layup Shot","2PT Field Goal",2,"Golden State Warriors",-12,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-28,2015,3015,1610612737,400828346,4,8,00,1,"Putback Layup Shot","2PT Field Goal",1,"Indiana Pacers",-4,11,0,0.00,"Hill, Solomon",2.10,0.50
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,2,4,24,1,"Putback Layup Shot","2PT Field Goal",0,"Sacramento Kings",1,7,0,0.00,"Casspi, Omri",1.50,3.50
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,5,03,0,"Putback Layup Shot","2PT Field Goal",1,"Sacramento Kings",-12,-1,0,0.00,"Cauley-Stein, Willie",2.10,24.00
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,4,38,1,"Putback Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,2,0,0.00,"Drummond, Andre",0.20,23.90
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,6,55,1,"Putback Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,2,0,36,1,"Putback Layup Shot","2PT Field Goal",0,"Sacramento Kings",2,7,0,0.00,"Cousins, DeMarcus",2.00,24.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,3,9,35,1,"Putback Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,-1,0,0.10,"Johnson, Amir",0.30,24.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,2,4,04,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",-2,7,0,0.00,"Williams, Derrick",2.60,24.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,6,56,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",-1,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,3,8,53,0,"Putback Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-17,7,0,0.00,"Vonleh, Noah",2.00,24.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,2,2,14,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",4,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,4,0,07,0,"Putback Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",9,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,5,2,33,0,"Putback Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,3,10,49,1,"Putback Layup Shot","2PT Field Goal",0,"Utah Jazz",6,7,0,1.50,"Favors, Derrick",5.00,22.70
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,8,01,1,"Putback Layup Shot","2PT Field Goal",0,"Houston Rockets",-4,8,0,1.30,"Capela, Clint",2.10,3.80
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,4,1,12,0,"Putback Layup Shot","2PT Field Goal",0,"Chicago Bulls",0,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,7,11,0,"Putback Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-6,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,1,8,22,0,"Putback Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",13,21,0,0.00,"Love, Kevin",3.60,13.60
+"Paul Millsap","Atlanta Hawks",2015-12-14,2015,3015,1610612737,400828247,4,0,38,1,"Putback Layup Shot","2PT Field Goal",0,"Miami Heat",-2,0,0,0.00,"Bosh, Chris",2.10,24.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,3,9,18,0,"Putback Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",2,-11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,2,3,18,1,"Putback Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,-1,0,1.50,"Noel, Nerlens",4.40,16.90
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,2,08,1,"Putback Layup Shot","2PT Field Goal",1,"Denver Nuggets",-14,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,2,5,23,1,"Putback Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,4,2,53,1,"Putback Layup Shot","2PT Field Goal",0,"Dallas Mavericks",2,7,0,0.00,"Matthews, Wesley",3.40,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,3,1,32,0,"Reverse Layup Shot","2PT Field Goal",3,"Phoenix Suns",35,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-04,2015,3015,1610612737,400828173,1,5,41,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,-1,1,1.40,"Hibbert, Roy",1.40,3.70
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,9,26,1,"Reverse Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-6,33,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,1,9,55,1,"Reverse Layup Shot","2PT Field Goal",1,"Washington Wizards",-11,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,3,2,52,1,"Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",15,-5,0,0.50,"Morris, Marcus",1.90,19.20
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,2,4,03,0,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",15,2,0,1.40,"Biyombo, Bismack",1.70,8.70
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,2,5,40,1,"Reverse Layup Shot","2PT Field Goal",0,"Denver Nuggets",9,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-16,2015,3015,1610612737,400828263,1,8,30,1,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-14,-5,1,1.60,"Grant, Jerami",1.80,10.50
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,1,6,21,1,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-21,2015,3015,1610612737,400828300,1,4,30,1,"Running Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.90,"Davis, Ed",4.20,19.20
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,3,6,10,1,"Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,1,1.50,"Favors, Derrick",2.30,19.90
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,3,6,24,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,7,35,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,1,1.50,"DeRozan, DeMar",5.70,21.00
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,4,1,15,1,"Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,1,2,23,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,2,28,1,"Running Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,1,9,53,1,"Running Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,3,7,29,1,"Running Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.80,"Jackson, Reggie",2.50,19.80
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,1,10,53,1,"Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",2,-6,0,0.50,"Adams, Steven",5.90,19.00
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,4,6,46,1,"Running Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,1,2.70,"Bargnani, Andrea",5.70,20.40
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,1,4,54,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,3,3,13,1,"Running Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,1,1.80,"Payton, Elfrid",8.20,20.90
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,4,10,30,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,2,5,3.60,"Leonard, Meyers",3.20,20.30
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,1,2,17,1,"Running Jump Shot","2PT Field Goal",11,"San Antonio Spurs",56,105,1,2.00,"Mills, Patty",5.30,14.30
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,0,07,0,"Running Jump Shot","3PT Field Goal",25,"New York Knicks",-161,198,0,1.00,"Anthony, Carmelo",4.50,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,7,34,1,"Running Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",-2,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,1,9,38,0,"Running Jump Shot","3PT Field Goal",24,"Miami Heat",17,247,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-28,2015,3015,1610612737,400828129,1,10,32,0,"Running Jump Shot","2PT Field Goal",4,"San Antonio Spurs",35,33,0,0.40,"Aldridge, LaMarcus",5.70,13.30
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,2,0,01,0,"Running Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",192,159,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,0,46,1,"Running Jump Shot","3PT Field Goal",24,"Boston Celtics",25,244,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,1,7,50,1,"Running Jump Shot","3PT Field Goal",24,"Phoenix Suns",10,244,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,0,27,1,"Running Jump Shot","3PT Field Goal",24,"Miami Heat",182,160,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-27,2015,3015,1610612737,400828120,2,0,00,1,"Running Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,-6,0,0.40,"Conley, Mike",2.20,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,6,54,0,"Running Layup Shot","2PT Field Goal",1,"New York Knicks",12,11,7,4.10,"Thomas, Lance",0.20,21.20
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,9,08,1,"Running Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-16,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,1,2,47,0,"Running Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,7,0,0.90,"James, LeBron",4.30,18.80
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,2,1,23,1,"Running Layup Shot","2PT Field Goal",0,"Sacramento Kings",-2,2,0,0.70,"Acy, Quincy",5.30,18.60
+"Paul Millsap","Atlanta Hawks",2016-03-12,2015,3015,1610612737,400828861,4,2,46,1,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-7,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,3,0,31,1,"Running Layup Shot","2PT Field Goal",0,"Brooklyn Nets",4,7,1,1.50,"Robinson, Thomas",3.00,18.50
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,3,9,53,1,"Running Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",20,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,0,30,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",14,-10,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-29,2015,3015,1610612737,400828357,3,6,02,1,"Running Layup Shot","2PT Field Goal",0,"Houston Rockets",1,0,3,3.20,"Motiejunas, Donatas",1.50,24.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,9,44,1,"Running Layup Shot","2PT Field Goal",1,"New York Knicks",-11,0,1,1.80,"Lopez, Robin",2.40,18.90
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,4,0,17,0,"Running Layup Shot","2PT Field Goal",1,"Toronto Raptors",15,13,5,4.90,"Patterson, Patrick",5.00,18.80
+"Paul Millsap","Atlanta Hawks",2016-03-30,2015,3015,1610612737,400829000,2,7,26,1,"Running Layup Shot","2PT Field Goal",1,"Toronto Raptors",4,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-01,2015,3015,1610612737,400828610,3,7,49,1,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",19,8,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,3,4,01,1,"Running Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,4,1,32,1,"Running Layup Shot","2PT Field Goal",0,"Utah Jazz",-4,2,0,0.50,"Gobert, Rudy",4.10,20.30
+"Paul Millsap","Atlanta Hawks",2016-01-07,2015,3015,1610612737,400828423,1,8,47,1,"Running Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",9,3,5,5.50,"Okafor, Jahlil",1.70,19.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,2,2,41,1,"Running Layup Shot","2PT Field Goal",2,"Toronto Raptors",9,21,4,4.90,"Carroll, DeMarre",2.70,20.00
+"Paul Millsap","Atlanta Hawks",2015-12-12,2015,3015,1610612737,400828234,3,9,18,1,"Running Layup Shot","2PT Field Goal",2,"San Antonio Spurs",20,7,2,1.80,"Leonard, Kawhi",2.20,20.30
+"Paul Millsap","Atlanta Hawks",2015-11-09,2015,3015,1610612737,400827988,4,0,21,0,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",146,205,1,1.80,"Rubio, Ricky",5.60,17.70
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,3,3,15,0,"Running Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",28,2,2,3.40,"Lee, David",1.80,5.80
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,6,25,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-11,0,0,2.00,"Young, Thaddeus",2.90,18.20
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,1,4,21,0,"Step Back Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",91,156,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,9,38,1,"Step Back Jump shot","2PT Field Goal",20,"Indiana Pacers",159,126,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,4,2,35,0,"Step Back Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",128,43,4,4.60,"Durant, Kevin",3.90,13.80
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,1,9,15,1,"Step Back Jump shot","2PT Field Goal",18,"Utah Jazz",173,65,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,3,5,40,1,"Step Back Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",-132,129,2,2.40,"Payne, Adreian",3.80,4.80
+"Paul Millsap","Atlanta Hawks",2016-03-08,2015,3015,1610612737,400828834,3,9,55,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",123,92,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,2,6,01,0,"Step Back Jump shot","2PT Field Goal",12,"Chicago Bulls",-120,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,4,1,17,0,"Step Back Jump shot","2PT Field Goal",12,"Washington Wizards",-45,115,1,2.40,"Wall, John",4.00,5.40
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,6,35,1,"Step Back Jump shot","3PT Field Goal",24,"Indiana Pacers",48,237,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,1,4,06,0,"Step Back Jump shot","2PT Field Goal",13,"Toronto Raptors",-124,47,3,3.50,"DeRozan, DeMar",5.10,4.30
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,11,24,1,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",123,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,8,11,0,"Step Back Jump shot","2PT Field Goal",12,"Milwaukee Bucks",-92,82,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,4,8,56,0,"Step Back Jump shot","3PT Field Goal",24,"Cleveland Cavaliers",-135,210,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,4,6,24,1,"Step Back Jump shot","2PT Field Goal",19,"Denver Nuggets",132,141,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,1,7,13,0,"Step Back Jump shot","2PT Field Goal",16,"Orlando Magic",125,100,2,2.00,"Frye, Channing",4.70,19.60
+"Paul Millsap","Atlanta Hawks",2015-11-07,2015,3015,1610612737,400827973,2,0,04,0,"Step Back Jump shot","3PT Field Goal",24,"Washington Wizards",0,242,2,2.60,"Humphries, Kris",4.80,1.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,1,10,00,1,"Step Back Jump shot","2PT Field Goal",16,"Chicago Bulls",163,21,0,3.20,"Butler, Jimmy",4.20,4.10
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,1,6,58,0,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Clippers",127,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,1,7,09,0,"Step Back Jump shot","2PT Field Goal",13,"Miami Heat",69,120,3,3.20,"Deng, Luol",3.80,4.00
+"Paul Millsap","Atlanta Hawks",2015-11-13,2015,3015,1610612737,400828016,3,8,38,0,"Step Back Jump shot","2PT Field Goal",18,"Boston Celtics",110,146,2,2.50,"Johnson, Amir",3.80,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-03,2015,3015,1610612737,400828623,2,3,32,0,"Step Back Jump shot","2PT Field Goal",7,"Philadelphia 76ers",-30,70,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,1,11,15,1,"Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",50,237,0,1.30,"Young, Thaddeus",8.10,24.00
+"Paul Millsap","Atlanta Hawks",2016-03-04,2015,3015,1610612737,400828808,1,3,11,1,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Lakers",-161,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,3,5,13,1,"Step Back Jump shot","2PT Field Goal",19,"Boston Celtics",-199,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,4,5,41,0,"Step Back Jump shot","3PT Field Goal",23,"Golden State Warriors",235,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-27,2015,3015,1610612737,400828574,2,5,25,1,"Step Back Jump shot","2PT Field Goal",11,"Los Angeles Clippers",84,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-01,2015,3015,1610612737,400829018,2,6,26,0,"Step Back Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",171,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,7,08,1,"Step Back Jump shot","2PT Field Goal",14,"Detroit Pistons",104,95,3,4.80,"Ilyasova, Ersan",4.60,4.60
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,2,7,38,0,"Step Back Jump shot","3PT Field Goal",24,"Washington Wizards",66,234,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,4,5,54,0,"Step Back Jump shot","2PT Field Goal",13,"Denver Nuggets",-130,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-17,2015,3015,1610612737,400828902,2,2,27,0,"Step Back Jump shot","2PT Field Goal",12,"Denver Nuggets",-1,121,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-25,2015,3015,1610612737,400828109,1,5,24,0,"Step Back Jump shot","2PT Field Goal",11,"Minnesota Timberwolves",81,87,3,4.70,"Payne, Adreian",3.00,5.10
+"Paul Millsap","Atlanta Hawks",2015-11-15,2015,3015,1610612737,400828035,1,4,06,0,"Step Back Jump shot","2PT Field Goal",14,"Utah Jazz",-145,7,0,1.50,"Booker, Trevor",2.80,13.60
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,11,00,1,"Step Back Jump shot","2PT Field Goal",12,"Detroit Pistons",76,95,5,4.30,"Ilyasova, Ersan",5.40,7.60
+"Paul Millsap","Atlanta Hawks",2016-04-09,2015,3015,1610612737,400829075,2,8,33,0,"Step Back Jump shot","2PT Field Goal",15,"Boston Celtics",155,28,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-13,2015,3015,1610612737,400828871,3,10,10,1,"Step Back Jump shot","2PT Field Goal",14,"Indiana Pacers",-145,26,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,6,03,1,"Step Back Jump shot","2PT Field Goal",19,"Washington Wizards",-166,100,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,8,54,0,"Step Back Jump shot","2PT Field Goal",19,"Miami Heat",148,124,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,2,3,16,1,"Step Back Jump shot","2PT Field Goal",14,"Chicago Bulls",-129,57,1,1.30,"McDermott, Doug",3.00,5.70
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,1,1,28,0,"Step Back Jump shot","3PT Field Goal",22,"Milwaukee Bucks",-228,3,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,4,5,29,0,"Step Back Jump shot","2PT Field Goal",16,"Detroit Pistons",107,124,2,4.00,"Morris, Marcus",1.80,6.10
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,3,6,35,1,"Step Back Jump shot","2PT Field Goal",2,"Chicago Bulls",19,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,1,55,0,"Tip Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,"Biyombo, Bismack",3.50,24.00
+"Paul Millsap","Atlanta Hawks",2016-02-08,2015,3015,1610612737,400828667,1,4,38,1,"Tip Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,3,07,1,"Tip Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.20,"Koufos, Kosta",2.30,24.00
+"Paul Millsap","Atlanta Hawks",2015-11-18,2015,3015,1610612737,400828056,3,5,03,0,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",-5,-1,0,0.80,"Belinelli, Marco",0.00,24.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,2,2,18,1,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,4,2,01,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",1,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-26,2015,3015,1610612737,400828329,3,10,06,1,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",1,0,0,0.00,"Afflalo, Arron",2.40,24.00
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,1,8,51,1,"Tip Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-2,2,0,1.00,"Jefferson, Al",2.10,24.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,1,11,32,0,"Tip Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-16,-6,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-20,2015,3015,1610612737,400828294,4,3,44,0,"Tip Layup Shot","2PT Field Goal",2,"Orlando Magic",12,23,0,0.20,"Vucevic, Nikola",1.90,24.00
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,4,4,27,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-2,0,0,0.00,"Plumlee, Mason",1.80,24.00
+"Paul Millsap","Atlanta Hawks",2015-10-29,2015,3015,1610612737,400827906,2,2,12,1,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",-6,7,0,0.00,"Porzingis, Kristaps",1.10,15.50
+"Paul Millsap","Atlanta Hawks",2015-11-21,2015,3015,1610612737,400828078,3,2,41,0,"Tip Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-17,-1,0,0.40,"Cunningham, Jared",2.00,24.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,2,5,32,0,"Tip Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-2,28,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,2,2,21,0,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-1,-1,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,2,5,44,1,"Turnaround Bank shot","2PT Field Goal",7,"Cleveland Cavaliers",-68,21,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-16,2015,3015,1610612737,400828489,2,3,30,1,"Turnaround Bank shot","2PT Field Goal",8,"Brooklyn Nets",-66,46,1,1.60,"Johnson, Joe",2.80,8.40
+"Paul Millsap","Atlanta Hawks",2016-02-22,2015,3015,1610612737,400828723,1,1,35,0,"Turnaround Bank shot","2PT Field Goal",7,"Golden State Warriors",15,72,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,2,6,02,0,"Turnaround Bank shot","2PT Field Goal",12,"Milwaukee Bucks",114,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-05,2015,3015,1610612737,400828408,4,7,38,0,"Turnaround Bank shot","2PT Field Goal",5,"New York Knicks",-56,11,1,1.90,"Anthony, Carmelo",2.70,14.90
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,3,2,10,1,"Turnaround Bank shot","2PT Field Goal",8,"Brooklyn Nets",-83,23,4,6.30,"Young, Thaddeus",0.10,7.80
+"Paul Millsap","Atlanta Hawks",2015-10-27,2015,3015,1610612737,400827888,1,10,01,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Detroit Pistons",123,3,2,2.30,"Ilyasova, Ersan",4.80,14.90
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,4,7,39,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",15,"Chicago Bulls",-148,46,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,1,7,45,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",14,110,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,4,6,59,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",6,"Chicago Bulls",-6,65,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,4,8,26,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",15,"Chicago Bulls",-150,11,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,1,2,25,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Toronto Raptors",9,62,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,9,36,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Washington Wizards",140,2,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-04,2015,3015,1610612737,400827949,3,6,19,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Brooklyn Nets",163,16,1,3.70,"Young, Thaddeus",4.00,5.50
+"Paul Millsap","Atlanta Hawks",2016-02-28,2015,3015,1610612737,400828765,1,11,06,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Charlotte Hornets",-66,120,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-07,2015,3015,1610612737,400829060,4,7,14,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Toronto Raptors",-140,16,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,4,5,41,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Washington Wizards",-4,116,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,4,4,49,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Milwaukee Bucks",-137,7,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,2,2,28,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Cleveland Cavaliers",73,31,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-05,2015,3015,1610612737,400829044,2,3,38,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Phoenix Suns",114,36,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-25,2015,3015,1610612737,400828963,1,10,57,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Milwaukee Bucks",-56,121,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,3,8,27,1,"Turnaround Hook Shot","2PT Field Goal",1,"Dallas Mavericks",2,16,0,0.50,"Matthews, Wesley",1.40,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,1,8,51,1,"Turnaround Hook Shot","2PT Field Goal",13,"Brooklyn Nets",135,16,6,4.80,"Johnson, Joe",2.50,15.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,2,4,34,0,"Turnaround Jump Shot","2PT Field Goal",12,"Miami Heat",-71,105,3,3.10,"Wade, Dwyane",2.30,2.10
+"Paul Millsap","Atlanta Hawks",2016-01-18,2015,3015,1610612737,400828507,3,10,54,0,"Turnaround Jump Shot","2PT Field Goal",10,"Orlando Magic",-29,106,2,3.90,"Frye, Channing",3.60,24.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,4,3,21,1,"Turnaround Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-40,105,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,1,5,19,0,"Turnaround Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-25,75,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-05,2015,3015,1610612737,400828816,4,1,31,0,"Turnaround Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-37,110,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-21,2015,3015,1610612737,400828935,1,6,40,1,"Turnaround Jump Shot","2PT Field Goal",14,"Washington Wizards",135,43,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-18,2015,3015,1610612737,400828276,1,5,01,0,"Turnaround Jump Shot","2PT Field Goal",5,"Boston Celtics",22,46,4,3.90,"Olynyk, Kelly",2.60,14.10
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,1,11,17,0,"Turnaround Jump Shot","2PT Field Goal",7,"Boston Celtics",62,37,0,1.00,"Johnson, Amir",0.00,24.00
+"Paul Millsap","Atlanta Hawks",2015-11-03,2015,3015,1610612737,400827942,3,3,26,1,"Turnaround Jump Shot","2PT Field Goal",11,"Miami Heat",0,115,0,0.00,"Winslow, Justise",12.20,24.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,1,2,32,0,"Turnaround Jump Shot","2PT Field Goal",5,"Chicago Bulls",-14,57,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,4,4,23,1,"Turnaround Jump Shot","2PT Field Goal",11,"Boston Celtics",14,110,2,4.30,"Zeller, Tyler",2.80,4.60
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,4,8,45,0,"Turnaround Jump Shot","2PT Field Goal",6,"Dallas Mavericks",64,18,0,0.60,"Harris, Devin",2.10,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-09,2015,3015,1610612737,400828438,3,6,50,0,"Turnaround Jump Shot","2PT Field Goal",6,"Chicago Bulls",17,65,7,4.90,"Butler, Jimmy",1.80,14.00
+"Paul Millsap","Atlanta Hawks",2015-11-06,2015,3015,1610612737,400827968,3,6,43,1,"Turnaround Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",53,38,1,4.50,"Cunningham, Dante",2.50,13.20
+"Paul Millsap","Atlanta Hawks",2016-02-19,2015,3015,1610612737,400828695,4,6,31,0,"Turnaround Jump Shot","2PT Field Goal",2,"Miami Heat",9,23,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-12-02,2015,3015,1610612737,400828159,3,4,59,0,"Turnaround Jump Shot","2PT Field Goal",12,"Toronto Raptors",-1,120,5,5.40,"Biyombo, Bismack",3.90,10.60
+"Paul Millsap","Atlanta Hawks",2015-12-10,2015,3015,1610612737,400828218,2,9,49,1,"Turnaround Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",33,21,0,1.70,"Augustin, D.J.",4.30,16.20
+"Paul Millsap","Atlanta Hawks",2016-01-20,2015,3015,1610612737,400828526,2,2,25,0,"Turnaround Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",51,16,2,4.10,"Aminu, Al-Farouq",1.80,11.30
+"Paul Millsap","Atlanta Hawks",2015-12-09,2015,3015,1610612737,400828215,1,7,44,0,"Turnaround Jump Shot","2PT Field Goal",7,"Dallas Mavericks",71,28,2,3.60,"Matthews, Wesley",1.60,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-17,2015,3015,1610612737,400828046,1,3,52,0,"Turnaround Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-140,2,4,3.10,"Jack, Jarrett",3.50,9.10
+"Paul Millsap","Atlanta Hawks",2016-01-03,2015,3015,1610612737,400828393,3,6,03,0,"Turnaround Jump Shot","2PT Field Goal",10,"New York Knicks",12,105,0,0.00,"Williams, Derrick",4.10,13.60
+"Paul Millsap","Atlanta Hawks",2016-02-20,2015,3015,1610612737,400828706,1,9,21,1,"Turnaround Jump Shot","2PT Field Goal",11,"Milwaukee Bucks",-61,95,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-30,2015,3015,1610612737,400828143,3,3,13,0,"Turnaround Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",94,18,3,3.10,"Collison, Nick",2.20,13.00
+"Paul Millsap","Atlanta Hawks",2016-02-10,2015,3015,1610612737,400828683,3,8,16,1,"Turnaround Jump Shot","2PT Field Goal",16,"Chicago Bulls",-160,0,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,2,2,47,0,"Turnaround Jump Shot","2PT Field Goal",17,"Chicago Bulls",168,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-13,2015,3015,1610612737,400828464,2,2,01,0,"Turnaround Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-68,75,1,4.10,"Kaminsky, Frank",2.60,12.80
+"Paul Millsap","Atlanta Hawks",2016-03-28,2015,3015,1610612737,400828986,1,3,18,0,"Turnaround Jump Shot","2PT Field Goal",7,"Chicago Bulls",-38,65,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-01-25,2015,3015,1610612737,400828559,3,11,14,1,"Turnaround Jump Shot","2PT Field Goal",3,"Denver Nuggets",12,33,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-11,2015,3015,1610612737,400828004,3,1,38,0,"Turnaround Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-17,85,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,2,5,29,1,"Turnaround Jump Shot","2PT Field Goal",1,"Boston Celtics",9,16,3,5.00,"Turner, Evan",2.70,3.10
+"Paul Millsap","Atlanta Hawks",2015-12-23,2015,3015,1610612737,400828316,1,7,45,0,"Turnaround Jump Shot","2PT Field Goal",11,"Detroit Pistons",-114,18,6,5.40,"Ilyasova, Ersan",2.40,10.60
+"Paul Millsap","Atlanta Hawks",2015-10-30,2015,3015,1610612737,400827913,1,6,08,1,"Turnaround Jump Shot","2PT Field Goal",2,"Charlotte Hornets",-7,28,3,3.50,"Hairston, PJ",2.00,13.20
+"Paul Millsap","Atlanta Hawks",2015-11-24,2015,3015,1610612737,400828097,1,3,24,1,"Turnaround Jump Shot","2PT Field Goal",10,"Boston Celtics",-47,97,2,2.00,"Sullinger, Jared",2.40,9.20
+"Paul Millsap","Atlanta Hawks",2016-03-23,2015,3015,1610612737,400828943,3,6,45,1,"Turnaround Jump Shot","2PT Field Goal",17,"Washington Wizards",150,90,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-02-26,2015,3015,1610612737,400828752,2,1,29,0,"Turnaround Jump Shot","2PT Field Goal",6,"Chicago Bulls",-11,61,0,0.00,,0.00,0.00
+"Paul Millsap","Atlanta Hawks",2016-04-11,2015,3015,1610612737,400829090,3,10,34,1,"Turnaround Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-29,61,0,0.00,,0.00,0.00

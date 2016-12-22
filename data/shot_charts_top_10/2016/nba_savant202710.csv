@@ -1,0 +1,1012 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,3,5,15,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.70,"George, Paul",3.60,16.10
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,1,5,29,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,"Gordon, Eric",0.10,13.40
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,4,4,54,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,0,0.00,"Bazemore, Kent",5.20,9.80
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,1,5,06,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,"Bogut, Andrew",4.90,13.50
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,1,8,32,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,3,10,50,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,2,4,26,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1,0.90,"Thompson, Hollis",3.30,24.00
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,3,0,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.00,"Matthews, Wesley",2.80,13.30
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,1,5,33,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,2,1,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",4,-1,1,0.60,"Parker, Jabari",6.30,24.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,1,8,14,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,"Mozgov, Timofey",3.20,13.80
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,5,16,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1,0.80,"Thompson, Hollis",5.70,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,6,09,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,5,08,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,1,39,1,"Alley Oop Dunk Shot","2PT Field Goal",2,"Detroit Pistons",9,19,0,0.40,"Tolliver, Anthony",4.90,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,2,3,55,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,1,39,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,"Lee, Courtney",0.30,8.90
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,2,8,29,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,1,2,50,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,2.20,"Ilyasova, Ersan",8.80,24.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,1,10,44,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,"Tucker, PJ",4.90,14.80
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,8,50,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,2,1,21,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,2,2,47,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,1,0.40,"Leonard, Kawhi",4.20,24.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,3,5,18,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,1,6,17,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,1,0,42,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.00,"Kanter, Enes",6.40,12.70
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,2,6,34,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.00,"Augustin, D.J.",3.30,13.80
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,2,2,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,1.00,"Smith, J.R.",2.30,10.90
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,2,5,39,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,2,1,30,0,"Alley Oop Layup shot","2PT Field Goal",1,"Houston Rockets",6,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,2,2,29,1,"Alley Oop Layup shot","2PT Field Goal",0,"Charlotte Hornets",-4,2,0,0.00,"Batum, Nicolas",2.60,14.30
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,1,5,34,1,"Alley Oop Layup shot","2PT Field Goal",2,"Toronto Raptors",2,26,0,0.20,"Carroll, DeMarre",3.20,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,3,6,16,0,"Alley Oop Layup shot","2PT Field Goal",3,"New York Knicks",32,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,4,6,02,1,"Alley Oop Layup shot","2PT Field Goal",2,"New Orleans Pelicans",22,7,0,1.20,"Cunningham, Dante",0.00,13.70
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,3,8,02,1,"Alley Oop Layup shot","2PT Field Goal",1,"Indiana Pacers",12,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,2,09,1,"Alley Oop Layup shot","2PT Field Goal",2,"Philadelphia 76ers",-27,-1,0,0.00,"McConnell, TJ",2.80,11.70
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,3,2,36,0,"Alley Oop Layup shot","2PT Field Goal",1,"Los Angeles Lakers",12,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,1,9,26,1,"Alley Oop Layup shot","2PT Field Goal",0,"Detroit Pistons",1,-1,0,0.00,"Ilyasova, Ersan",5.20,7.40
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,3,6,35,1,"Alley Oop Layup shot","2PT Field Goal",1,"Utah Jazz",-14,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,2,5,10,1,"Alley Oop Layup shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,5,0,01,1,"Alley Oop Layup shot","2PT Field Goal",0,"Indiana Pacers",9,2,0,1.00,"George, Paul",0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,1,41,1,"Alley Oop Layup shot","2PT Field Goal",2,"Los Angeles Lakers",19,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,1,7,44,0,"Alley Oop Layup shot","2PT Field Goal",1,"Houston Rockets",10,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,3,6,07,1,"Alley Oop Layup shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.00,"Davis, Ed",6.80,14.30
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,2,1,25,0,"Alley Oop Layup shot","2PT Field Goal",3,"New York Knicks",33,7,0,2.40,"Thomas, Lance",3.80,13.20
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,1,4,50,1,"Alley Oop Layup shot","2PT Field Goal",1,"Washington Wizards",9,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,2,3,24,1,"Alley Oop Layup shot","2PT Field Goal",2,"New York Knicks",24,2,0,0.00,"Porzingis, Kristaps",5.10,23.20
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,2,4,55,1,"Alley Oop Layup shot","2PT Field Goal",1,"Milwaukee Bucks",-1,-10,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,3,7,10,0,"Alley Oop Layup shot","2PT Field Goal",1,"Detroit Pistons",14,7,2,5.10,"Caldwell-Pope, Kentavious",2.80,13.70
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,1,2,53,1,"Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,1.10,"DeRozan, DeMar",3.70,14.60
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,1,4,07,1,"Cutting Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,1,1.40,"Kaminsky, Frank",2.90,14.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,4,6,19,1,"Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,3,0,32,1,"Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,1,6,06,0,"Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,4.60,"Bledsoe, Eric",1.40,12.50
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,3,6,16,1,"Cutting Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.60,"Tucker, PJ",3.30,21.30
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,4,2,08,1,"Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,1,07,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.00,"Johnson, Amir",5.50,14.40
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,2,4,42,1,"Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,1,1.20,"Holmes, Richaun",1.10,6.50
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,2,5,54,1,"Cutting Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.80,"Parker, Jabari",4.00,16.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,3,10,26,1,"Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,2,5,36,1,"Cutting Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.60,"Durant, Kevin",4.10,16.10
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,1,6,23,0,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,0,0,0.80,"Lowry, Kyle",2.80,18.30
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,5,47,1,"Cutting Layup Shot","2PT Field Goal",0,"Toronto Raptors",9,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,1,9,48,1,"Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",-17,-6,0,0.80,"George, Paul",0.10,20.80
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,0,21,0,"Cutting Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-12,-1,0,1.10,"Monroe, Greg",2.10,3.90
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,3,5,06,0,"Cutting Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-24,16,0,0.80,"Thompson, Hollis",2.10,6.60
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,4,8,04,1,"Cutting Layup Shot","2PT Field Goal",0,"Washington Wizards",0,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,5,07,1,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",9,7,0,0.70,"Johnson, Joe",3.30,13.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,3,10,46,1,"Cutting Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,7,0,0.80,"Carter-Williams, Michael",2.60,7.20
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,1,4,25,1,"Cutting Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-14,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,4,1,56,0,"Cutting Layup Shot","2PT Field Goal",0,"Orlando Magic",-6,5,0,1.10,"Gordon, Aaron",0.00,18.60
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,3,48,1,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,-6,0,0.90,"Wiggins, Andrew",5.50,9.40
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,1,8,49,1,"Cutting Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,-1,0,1.20,"Young, Thaddeus",1.20,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,5,39,1,"Cutting Layup Shot","2PT Field Goal",1,"Toronto Raptors",14,7,0,1.20,"Lowry, Kyle",3.70,19.50
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,1,3,17,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",17,7,0,0.70,"Chalmers, Mario",3.80,20.70
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,4,6,19,1,"Cutting Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-17,11,0,1.00,"Zeller, Cody",1.20,14.40
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,1,6,53,1,"Cutting Layup Shot","2PT Field Goal",1,"Orlando Magic",0,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,2,24,1,"Cutting Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-11,7,0,0.90,"Covington, Robert",4.00,13.70
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,1,6,26,1,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-19,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,3,4,29,0,"Cutting Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-16,-1,0,1.20,"Middleton, Khris",1.60,14.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,6,15,1,"Driving Bank shot","2PT Field Goal",5,"Los Angeles Clippers",43,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,2,9,15,1,"Driving Bank shot","2PT Field Goal",9,"Philadelphia 76ers",-96,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,8,58,1,"Driving Bank shot","2PT Field Goal",4,"Milwaukee Bucks",46,18,3,2.80,"Parker, Jabari",2.20,17.80
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,1,2,38,0,"Driving Bank shot","2PT Field Goal",8,"New York Knicks",81,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,3,05,1,"Driving Bank shot","2PT Field Goal",3,"Atlanta Hawks",30,26,3,4.80,"Millsap, Paul",2.50,7.80
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,4,4,24,1,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,2,2.90,"Love, Kevin",2.80,10.80
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,1,7,59,1,"Driving Dunk Shot","2PT Field Goal",0,"Utah Jazz",-1,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,0,06,1,"Driving Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,2,1,17,1,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,4,1,10,1,"Driving Dunk Shot","2PT Field Goal",3,"Brooklyn Nets",-31,2,19,16.30,"Johnson, Joe",6.10,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,4,3,45,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,8,15,1,"Driving Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,10,12.60,"Covington, Robert",3.40,13.70
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,4,3,31,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",28,-1,1,4.90,"Parker, Jabari",2.90,6.70
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,7,26,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-1,16,3,3.60,"Williams, Marvin",3.20,13.10
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,9,02,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Toronto Raptors",66,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,1,5,28,0,"Driving Floating Bank Jump Shot","2PT Field Goal",10,"Utah Jazz",99,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,3,5,49,0,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Utah Jazz",38,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,1,42,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Toronto Raptors",-58,36,12,9.90,"Carroll, DeMarre",1.50,12.70
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,9,47,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Toronto Raptors",22,2,0,1.80,"Valanciunas, Jonas",1.60,14.70
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,1,5,39,0,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Toronto Raptors",51,11,9,7.80,"Valanciunas, Jonas",2.00,15.50
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,6,06,1,"Driving Floating Bank Jump Shot","2PT Field Goal",6,"Toronto Raptors",66,21,9,8.00,"Valanciunas, Jonas",3.60,13.90
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,7,47,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-48,46,10,10.30,"Thompson, Hollis",2.40,11.30
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,10,50,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Toronto Raptors",27,26,10,10.70,"Scola, Luis",1.80,12.60
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,6,39,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Toronto Raptors",51,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,2,39,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Toronto Raptors",84,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,5,08,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Golden State Warriors",-2,87,4,5.60,"Barnes, Harrison",2.20,12.50
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,4,7,09,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Golden State Warriors",-4,61,4,5.80,"Thompson, Klay",1.30,0.40
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,3,58,0,"Driving Floating Jump Shot","2PT Field Goal",8,"Boston Celtics",89,2,2,1.90,"Crowder, Jae",3.20,14.60
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,3,3,13,0,"Driving Floating Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",61,31,1,4.00,"Gee, Alonzo",1.80,3.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,7,29,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Indiana Pacers",9,51,2,2.80,"Allen, Lavoy",1.90,9.60
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,4,28,0,"Driving Hook Shot","2PT Field Goal",5,"Memphis Grizzlies",-32,47,8,7.80,"Green, Jeff",0.10,16.70
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,1,1,41,0,"Driving Hook Shot","2PT Field Goal",2,"Toronto Raptors",-25,7,1,2.70,"Biyombo, Bismack",0.70,15.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,10,01,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",15,21,13,12.10,"Okafor, Jahlil",1.90,12.20
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,5,3,41,1,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,8,3,5.10,"Turner, Myles",3.10,1.60
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,1,3,28,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-19,2,2,2.00,"Allen, Lavoy",2.90,0.90
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,1,5,01,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-20,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,5,54,0,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",-6,28,10,9.30,"Hill, Jordan",3.30,12.50
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,4,25,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",14,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,4,19,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-9,18,15,12.60,"Iguodala, Andre",1.70,5.10
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,2,2,44,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,7,0,0.00,"Wiggins, Andrew",1.00,14.90
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,4,1,42,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",1,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,1,10,31,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-22,-1,3,4.60,"Roberson, Andre",3.30,13.00
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,2,4,43,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-17,16,4,6.30,"Smith, Ish",1.70,9.90
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,3,5,57,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,3,6,24,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-16,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,1,5,48,1,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",22,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,3,6,46,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",10,0,2,2.00,"Green, Danny",2.50,21.80
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,11,47,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",17,3,1,4.90,"Carroll, DeMarre",1.80,13.20
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,10,04,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,6,42,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",12,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,5,41,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-16,7,3,2.90,"Rush, Brandon",0.40,20.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,2,4,19,0,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",9,-1,2,3.50,"Teague, Jeff",2.70,11.80
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,2,4,52,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-9,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,0,55,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",19,2,2,3.80,"Horford, Al",5.50,11.70
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,1,6,27,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-29,-6,2,2.00,"Korver, Kyle",0.90,17.50
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,7,24,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,2,14,14.00,"Ross, Terrence",1.10,8.90
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,2,1,12,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-14,-1,3,5.40,"Antetokounmpo, Giannis",1.70,2.90
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,11,21,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-7,0,1,3.60,"Bazemore, Kent",2.60,11.80
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,3,10,03,1,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",-30,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,4,49,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-9,-5,2,2.30,"Parker, Jabari",2.80,14.50
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,6,30,1,"Driving Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",35,7,4,5.50,"Parker, Jabari",1.80,11.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,2,48,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",28,2,7,5.50,"Antetokounmpo, Giannis",1.70,3.20
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,3,1,07,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-12,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,1,1,45,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",24,7,4,6.20,"Asik, Omer",1.10,10.50
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,4,2,37,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-22,8,0,1.10,"Turner, Evan",0.40,5.70
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,4,1,38,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-29,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,2,00,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",17,7,10,10.80,"Scott, Mike",4.30,11.60
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,3,3,31,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-14,13,3,6.50,"Noel, Nerlens",1.20,15.90
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,4,11,02,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",14,8,1,2.40,"Schroder, Dennis",1.80,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,3,0,00,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-14,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,4,4,29,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",28,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,1,02,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-25,3,9,7.50,"Kanter, Enes",0.80,4.90
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,0,33,1,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-22,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,5,4,18,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,13,1,2.10,"Ilyasova, Ersan",1.40,6.50
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,2,2,45,1,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",20,7,8,7.10,"Dudley, Jared",2.10,10.30
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,4,9,04,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",9,16,10,7.80,Nene,1.90,15.20
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,10,35,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-14,3,2,4.30,"Ibaka, Serge",1.90,10.40
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,4,11,05,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-16,2,1,2.40,"Drummond, Andre",2.30,12.70
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,0,49,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",2,16,2,3.10,"Kanter, Enes",3.80,17.10
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,3,11,03,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",19,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,9,49,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-8,24,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,7,3,59,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,7,10,9.50,"Ilyasova, Ersan",1.70,14.90
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,4,0,48,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-5,14,4,5.00,"Wiggins, Andrew",0.00,13.70
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,4,8,35,1,"Driving Layup Shot","2PT Field Goal",3,"Detroit Pistons",27,18,4,5.90,"Tolliver, Anthony",2.00,10.70
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,3,1,44,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-20,-1,12,10.70,"O'Quinn, Kyle",1.90,11.90
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,3,6,56,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",6,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,11,44,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",2,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,3,0,46,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",19,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,4,11,1,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",-7,26,1,1.70,"Turner, Myles",1.80,8.30
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,3,1,27,1,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",-27,13,4,4.60,"George, Paul",2.50,6.20
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,4,4,48,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",15,11,3,5.00,"Calderon, Jose",3.50,3.90
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,10,51,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",10,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,1,2,47,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-24,-1,3,4.00,"Thomas, Lance",3.90,8.20
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,7,03,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",25,0,1,2.20,"Roberson, Andre",1.60,4.20
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,4,08,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-6,13,0,1.40,"Calderon, Jose",4.90,18.80
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,4,3,04,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,0,25,1,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",19,7,5,5.20,"George, Paul",2.10,17.90
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,1,6,03,0,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",33,7,6,7.00,"Green, Jeff",3.10,12.90
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,3,36,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",17,21,1,1.60,"O'Quinn, Kyle",2.40,18.60
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,0,44,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-12,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,11,01,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-16,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,1,0,00,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-24,-1,19,18.80,"O'Quinn, Kyle",1.30,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,2,2,00,0,"Driving Layup Shot","2PT Field Goal",3,"Indiana Pacers",-4,31,0,1.10,"Allen, Lavoy",1.70,8.10
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,0,56,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",30,13,4,5.00,"Lee, Courtney",0.20,13.30
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,4,3,30,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-24,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,2,46,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-6,-1,13,12.60,"Chandler, Tyson",1.50,11.20
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,0,24,0,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",-6,21,4,3.80,"George, Paul",0.30,5.20
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,4,45,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-12,11,2,3.40,"Mayo, O.J.",0.90,6.70
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,5,56,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-24,-6,4,5.40,"Bjelica, Nemanja",2.80,8.40
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,3,10,41,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-19,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,3,7,16,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,2,9,8.30,"Antetokounmpo, Giannis",1.80,14.10
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,0,51,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",4,2,6,5.30,"Crowder, Jae",4.60,15.30
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,5,26,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",24,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,3,18,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",19,7,7,7.70,"Johnson, Amir",2.30,7.40
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,1,8,38,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,2,11,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,7,8,9.60,"Sullinger, Jared",0.20,13.70
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,4,4,19,0,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",6,-4,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,3,11,38,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-1,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,11,18,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-19,8,2,2.50,"Wiggins, Andrew",0.20,4.10
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,1,3,09,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-2,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,0,19,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-12,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,4,1,08,0,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",24,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,3,0,53,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,7,16,15.40,"Henson, John",1.10,7.80
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,3,4,35,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-16,7,3,6.10,"Davis, Ed",1.80,9.40
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,4,5,16,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-17,21,5,7.50,"Evans, Tyreke",2.40,6.50
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,4,3,53,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-12,21,2,2.80,"Gee, Alonzo",0.00,9.40
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,4,5,59,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-14,3,4,7.40,"Davis, Ed",3.00,6.10
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,3,7,19,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,4,48,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-20,2,0,1.30,"Ibaka, Serge",4.30,16.10
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,1,2,17,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Detroit Pistons",27,11,3,4.70,"Caldwell-Pope, Kentavious",2.30,10.60
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,3,40,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-20,2,4,5.60,"Green, Jeff",1.90,11.70
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,3,50,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",-14,0,10,8.60,"Johnson, Amir",3.00,16.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,4,6,01,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",12,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,0,41,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-16,-1,2,2.70,"Hawes, Spencer",0.70,4.20
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,10,52,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",22,8,1,3.10,"Sampson, JaKarr",2.40,7.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,9,26,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",-14,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,3,3,02,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",-9,2,0,0.00,"Johnson, Stanley",2.10,14.30
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,2,3,32,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-20,3,5,5.10,"Davis, Anthony",2.80,17.30
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,3,00,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-16,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,3,3,13,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,3,3.80,"Ginobili, Manu",0.30,22.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,6,08,1,"Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,2,3,10,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.60,"Tucker, PJ",5.50,18.90
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,3,44,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,1.00,"McConnell, TJ",0.80,17.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,7,30,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,1.00,"Lopez, Brook",31.30,20.50
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,4,25,1,"Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,3,5.50,"Ilyasova, Ersan",3.00,6.10
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,0,28,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,3.00,"Durant, Kevin",11.20,22.80
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,2,3,52,1,"Dunk Shot","2PT Field Goal",3,"Detroit Pistons",-17,36,0,0.70,"Morris, Marcus",2.90,19.90
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,2,4,12,1,"Fadeaway Bank shot","2PT Field Goal",14,"Brooklyn Nets",-135,46,7,7.90,"Young, Thaddeus",2.70,8.60
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,3,8,48,0,"Fadeaway Bank shot","2PT Field Goal",14,"Indiana Pacers",-122,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,3,07,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Indiana Pacers",79,11,5,5.00,"Allen, Lavoy",2.70,9.20
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,1,2,45,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Brooklyn Nets",-137,10,0,1.10,"Hollis-Jefferson, Rondae",3.60,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,2,34,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Boston Celtics",146,111,1,1.20,"Turner, Evan",2.70,10.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,1,5,34,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Utah Jazz",174,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,8,45,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Utah Jazz",-84,129,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,11,30,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Boston Celtics",141,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,4,2,58,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Golden State Warriors",128,120,11,10.00,"Curry, Stephen",3.00,13.80
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,7,08,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Golden State Warriors",-47,110,2,3.80,"Barnes, Harrison",3.10,14.90
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,3,3,14,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",163,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,0,56,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Detroit Pistons",-110,149,2,4.60,"Morris, Marcus",1.40,3.40
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,3,0,01,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-168,38,2,3.60,"Matthews, Wesley",4.30,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,8,19,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Toronto Raptors",117,-11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,1,39,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-173,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,1,14,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Golden State Warriors",-156,16,2,4.40,"Ezeli, Festus",5.00,3.00
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,1,0,40,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Boston Celtics",135,7,2,5.60,"Turner, Evan",2.80,8.30
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,1,7,29,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",181,70,5,4.50,"Green, Jeff",4.40,17.70
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,4,5,51,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",102,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,6,02,1,"Fadeaway Jump Shot","3PT Field Goal",23,"Utah Jazz",238,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,9,22,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",-132,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,3,0,48,0,"Floating Jump shot","2PT Field Goal",6,"Philadelphia 76ers",-4,65,2,2.50,"Okafor, Jahlil",2.90,12.80
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,4,3,29,0,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",84,7,1,1.60,"Green, Jeff",1.60,1.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,3,9,02,0,"Floating Jump shot","2PT Field Goal",8,"Toronto Raptors",0,80,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,1,0,53,1,"Floating Jump shot","2PT Field Goal",7,"Golden State Warriors",-16,70,2,1.90,"Ezeli, Festus",5.10,4.90
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,2,8,27,1,"Floating Jump shot","2PT Field Goal",5,"New Orleans Pelicans",42,38,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,4,9,01,1,"Hook Shot","2PT Field Goal",5,"Philadelphia 76ers",48,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,4,7,08,1,"Hook Shot","2PT Field Goal",3,"Boston Celtics",14,36,2,5.50,"Jerebko, Jonas",3.20,16.50
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,3,10,59,0,"Hook Shot","2PT Field Goal",8,"Philadelphia 76ers",-25,82,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,1,0,20,1,"Jump Bank Shot","2PT Field Goal",9,"Washington Wizards",-96,11,1,1.50,"Sessions, Ramon",1.40,16.80
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,8,36,1,"Jump Bank Shot","2PT Field Goal",19,"Phoenix Suns",105,170,1,6.80,"Tucker, PJ",2.40,7.80
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,2,2,02,1,"Jump Bank Shot","3PT Field Goal",25,"Oklahoma City Thunder",189,174,0,0.40,"Durant, Kevin",4.40,4.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,2,0,29,0,"Jump Bank Shot","2PT Field Goal",17,"Golden State Warriors",173,33,9,7.70,"Thompson, Klay",2.60,15.60
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,3,5,48,1,"Jump Bank Shot","2PT Field Goal",5,"New Orleans Pelicans",55,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,9,46,1,"Jump Bank Shot","2PT Field Goal",6,"Golden State Warriors",58,26,0,1.40,"Bogut, Andrew",2.80,11.90
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,3,5,05,0,"Jump Bank Shot","2PT Field Goal",7,"Boston Celtics",73,8,0,2.00,"Smart, Marcus",1.60,17.80
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,7,17,1,"Jump Bank Shot","2PT Field Goal",19,"Milwaukee Bucks",-179,80,0,0.30,"Middleton, Khris",3.40,20.70
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,1,52,0,"Jump Bank Shot","2PT Field Goal",10,"Milwaukee Bucks",104,31,1,2.20,"Antetokounmpo, Giannis",3.00,8.40
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,4,08,0,"Jump Bank Shot","2PT Field Goal",2,"Toronto Raptors",-25,13,4,4.50,"DeRozan, DeMar",1.20,22.10
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,1,5,00,1,"Jump Bank Shot","2PT Field Goal",3,"Utah Jazz",32,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,1,10,32,1,"Jump Bank Shot","2PT Field Goal",16,"New York Knicks",161,36,1,2.40,"Afflalo, Arron",2.90,19.50
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,2,4,33,0,"Jump Shot","2PT Field Goal",23,"Indiana Pacers",89,219,0,0.80,"Stuckey, Rodney",4.70,10.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,0,30,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",223,23,0,4.10,"Carroll, DeMarre",3.00,14.00
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,2,1,48,0,"Jump Shot","2PT Field Goal",11,"New York Knicks",55,100,1,1.50,"Calderon, Jose",2.10,13.80
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,2,2,19,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",217,111,5,4.80,"Afflalo, Arron",3.00,17.20
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,1,1,15,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-17,239,0,1.00,"Collison, Nick",9.50,20.70
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,3,4,35,1,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",-63,214,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,0,58,0,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",194,80,2,3.00,"Carroll, DeMarre",4.40,6.70
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,9,06,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-29,210,12,10.30,"Sampson, JaKarr",5.80,14.10
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,3,2,35,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",35,208,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,3,0,02,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",94,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,0,36,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-45,-11,18,16.40,"Okafor, Jahlil",1.60,8.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,2,7,01,0,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",78,105,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,2,3,27,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-71,164,8,8.20,"Thompson, Hollis",3.40,15.90
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,4,0,27,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-235,-16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,0,00,0,"Jump Shot","3PT Field Goal",50,"Atlanta Hawks",73,496,1,1.10,"Schroder, Dennis",3.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,3,3,02,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-120,213,0,0.80,"George, Paul",4.40,10.90
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,5,45,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-74,239,0,0.70,"Ross, Terrence",7.60,13.40
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,3,6,56,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",-40,-6,0,1.00,"Lopez, Robin",3.40,9.20
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,4,10,11,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-137,110,3,4.70,"Durant, Kevin",4.90,5.70
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,4,3,20,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-120,46,2,2.50,"Durant, Kevin",5.30,7.90
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,3,5,00,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",169,75,2,2.10,"Anthony, Carmelo",5.20,13.90
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,3,5,17,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",184,165,0,0.90,"Porzingis, Kristaps",6.10,16.50
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,1,6,06,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-184,-29,1,3.50,"Afflalo, Arron",2.10,11.40
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,4,5,07,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",119,218,4,4.50,"Westbrook, Russell",2.80,20.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,2,4,33,1,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",92,13,1,1.60,"Hawes, Spencer",2.30,19.30
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,3,11,19,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",64,254,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,5,1,32,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",104,131,3,4.80,"Sampson, JaKarr",4.70,3.10
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,3,6,54,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",51,239,2,3.30,"Batum, Nicolas",6.00,17.90
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,11,32,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",63,183,2,2.60,"Stauskas, Nik",2.70,0.40
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,3,0,02,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-168,190,3,3.80,"Sampson, JaKarr",3.20,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,10,30,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-241,7,0,1.20,"Landry, Carl",7.50,19.90
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,7,07,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",12,33,2,5.90,"Okafor, Jahlil",1.10,7.30
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,2,44,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",73,247,2,4.70,"Stauskas, Nik",3.90,3.70
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,3,10,38,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-166,193,2,3.40,"Stauskas, Nik",4.50,17.30
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,11,41,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",-14,31,2,2.00,"Okafor, Jahlil",2.30,5.70
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,8,12,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-163,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,2,38,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",137,228,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,0,00,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-96,247,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,0,55,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-145,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,0,10,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",169,193,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,0,40,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-24,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,9,44,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-178,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,8,18,0,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",9,214,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,4,1,51,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",187,160,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,3,2,00,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-183,164,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,4,14,0,"Jump Shot","2PT Field Goal",5,"Miami Heat",48,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,3,4,42,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",174,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,2,0,02,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",182,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,0,00,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",197,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,1,0,01,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-114,218,0,0.90,"Holiday, Justin",2.60,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,4,5,00,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",232,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,2,30,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",-17,144,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,7,19,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-237,70,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,8,50,0,"Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",-35,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,4,04,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",-6,80,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,0,48,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",169,200,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,3,7,12,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-235,-21,0,1.20,"Covington, Robert",18.30,17.60
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,9,50,1,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",127,61,3,3.40,"Green, Draymond",1.30,8.70
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,6,13,1,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",101,52,4,5.80,"Thompson, Klay",3.60,5.30
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,4,0,19,1,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",176,195,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,0,34,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",138,208,0,0.90,"Hill, George",4.60,13.90
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,4,7,11,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-125,213,0,0.90,"George, Paul",5.30,7.40
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,3,5,04,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-173,180,0,0.80,"Batum, Nicolas",6.20,14.20
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,3,44,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",101,222,0,0.80,"Batum, Nicolas",5.50,10.80
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,3,6,55,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",105,159,0,0.80,"George, Paul",5.10,12.80
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,8,43,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",148,198,1,3.30,"Hairston, PJ",3.30,5.10
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,4,0,05,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-29,254,0,0.90,"Batum, Nicolas",4.10,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,3,11,38,0,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",117,-10,2,1.60,"Zeller, Cody",4.50,14.50
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,0,00,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",27,254,2,3.10,"Young, Thaddeus",3.90,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,1,1,44,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-151,188,0,0.80,"Felton, Raymond",6.30,4.60
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,1,4,40,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-47,180,7,10.90,"Green, Draymond",3.00,6.70
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,9,17,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-235,0,0,1.20,"Bogdanovic, Bojan",4.70,18.90
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,4,0,08,0,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",50,154,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,4,0,36,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",225,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,8,03,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-181,-24,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,1,5,33,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-137,154,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,4,18,1,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-122,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,8,36,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",50,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,3,07,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",45,244,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,1,2,13,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",204,134,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,4,5,17,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-148,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,2,4,43,0,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",105,193,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,0,41,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",168,198,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,3,6,56,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",74,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,1,54,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",125,126,5,7.30,"Ilyasova, Ersan",5.80,14.30
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,5,02,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",82,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,1,3,08,1,"Jump Shot","2PT Field Goal",7,"Miami Heat",79,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,2,4,57,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-47,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,3,49,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-135,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,4,7,21,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-6,154,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,4,8,48,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",66,185,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,4,2,59,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-169,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,1,2,25,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",64,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,7,35,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-166,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,5,28,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",32,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,2,20,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",137,126,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,7,29,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-79,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,9,54,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-240,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,4,03,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",233,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,2,37,1,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",37,47,2,5.10,"Thompson, Hollis",2.10,4.90
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,3,2,24,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",19,51,0,1.00,"Stauskas, Nik",4.20,11.00
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,2,1,39,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-187,16,1,1.70,"Thompson, Hollis",4.20,9.50
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,0,22,1,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-40,2,13,12.30,"Wood, Christian",1.60,11.20
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,5,53,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-148,-16,0,0.80,"Thompson, Hollis",4.70,8.40
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,3,4,40,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-209,26,1,1.60,"Thompson, Hollis",2.70,8.50
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,1,7,37,0,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",141,-1,3,5.20,"Covington, Robert",2.40,7.90
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,3,6,49,0,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",107,36,3,3.30,"Matthews, Wesley",2.10,15.40
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,2,57,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",194,28,7,5.90,"Crowder, Jae",4.70,16.00
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,3,3,31,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",87,144,11,9.10,"Matthews, Wesley",2.80,13.90
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,1,1,21,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-168,-15,2,3.80,"Matthews, Wesley",2.70,9.60
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,1,4,48,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",120,154,0,1.80,"Williams, Deron",3.50,10.00
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,4,0,11,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",109,219,0,0.80,"Parsons, Chandler",2.60,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,4,0,05,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",92,224,0,1.10,"Parsons, Chandler",5.20,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,4,0,45,0,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",17,33,9,8.40,"Matthews, Wesley",2.10,15.90
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,3,5,36,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-115,219,0,0.80,"Williams, Deron",2.30,0.60
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,2,2,23,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",179,169,0,0.80,"Matthews, Wesley",4.90,11.60
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,2,50,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-101,121,1,2.50,"Morris, Marcus",8.10,11.50
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,3,11,13,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",128,218,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,1,5,45,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",236,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,3,8,15,0,"Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-112,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,4,7,26,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",102,141,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,3,6,55,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",230,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,2,5,27,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",137,208,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,1,10,48,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",33,239,0,1.10,"Matthews, Wesley",5.80,16.80
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,1,9,32,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",102,16,0,0.80,"Temple, Garrett",7.10,10.50
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,4,0,34,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",166,183,1,1.10,"Matthews, Wesley",2.80,20.70
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,4,3,28,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",173,7,5,6.50,"Nowitzki, Dirk",7.00,18.50
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,1,10,58,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-145,129,0,4.80,"Matthews, Wesley",2.00,11.40
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,3,6,59,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",145,208,0,1.30,"Matthews, Wesley",4.90,12.60
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,5,17,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",46,170,0,1.30,"Barnes, Matt",2.00,12.20
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,0,30,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",169,124,4,4.30,"Ezeli, Festus",4.50,11.10
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,1,1,40,0,"Jump Shot","2PT Field Goal",21,"Washington Wizards",191,105,0,0.10,"Oubre, Kelly",3.30,9.30
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,1,5,59,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",138,156,2,1.80,"Thompson, Klay",3.20,12.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,2,5,14,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",150,46,2,5.20,"Curry, Stephen",2.90,2.20
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",145,198,3,7.80,"Curry, Stephen",6.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,2,5,55,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-79,239,0,0.80,"Thompson, Klay",5.70,9.70
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,1,1,28,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",143,124,3,3.40,"Ezeli, Festus",5.30,6.80
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,4,18,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-88,156,7,6.50,"Thompson, Klay",1.90,16.50
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,3,5,30,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-227,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,3,6,08,1,"Jump Shot","2PT Field Goal",12,"Orlando Magic",114,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,2,2,40,0,"Jump Shot","2PT Field Goal",13,"Orlando Magic",66,116,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,3,10,18,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-68,170,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,2,7,48,1,"Jump Shot","2PT Field Goal",16,"Orlando Magic",163,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,1,3,04,1,"Jump Shot","2PT Field Goal",4,"Orlando Magic",-2,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,1,4,04,0,"Jump Shot","2PT Field Goal",4,"Orlando Magic",4,41,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,10,06,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",158,198,0,0.80,"Carter-Williams, Michael",7.30,21.90
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,4,2,37,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",-48,-1,6,5.70,"Carter-Williams, Michael",1.90,18.70
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,9,42,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-168,183,0,1.00,"Parker, Jabari",5.10,13.20
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,4,1,29,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",240,-1,0,1.30,"Middleton, Khris",7.40,6.40
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,3,17,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",187,56,4,5.00,"Johnson, Joe",3.50,17.40
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,3,1,18,1,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",117,169,3,5.30,"Lopez, Brook",4.60,0.90
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,4,21,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",53,188,2,1.90,"Lopez, Brook",3.80,18.10
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,1,54,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",109,144,8,6.90,"Jack, Jarrett",2.40,15.70
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,0,00,0,"Jump Shot","3PT Field Goal",36,"Brooklyn Nets",197,311,4,3.40,"Johnson, Joe",0.50,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,3,6,06,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-120,219,0,1.00,"Johnson, Joe",5.60,15.20
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,3,3,34,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-109,223,0,1.00,"Jack, Jarrett",7.60,21.60
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,2,2,44,0,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",-92,36,2,2.00,"Lopez, Brook",4.40,1.10
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,0,05,0,"Jump Shot","2PT Field Goal",7,"Brooklyn Nets",61,41,1,1.40,"Johnson, Joe",1.70,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,7,27,0,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",56,75,3,4.10,"Bargnani, Andrea",1.90,13.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,5,39,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",79,242,0,1.00,"Johnson, Joe",5.90,6.30
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",107,218,5,6.50,"Wall, John",5.30,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,3,4,17,1,"Jump Shot","3PT Field Goal",22,"Washington Wizards",228,-5,0,0.80,"Wall, John",3.20,18.30
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,1,5,39,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",110,165,9,7.50,"Temple, Garrett",3.80,14.50
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,3,9,18,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",143,218,5,5.20,"Wall, John",5.20,19.80
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,4,7,03,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",-52,52,7,7.40,Nene,2.30,6.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,6,43,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",45,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,7,3,12,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",127,51,17,14.50,"Drummond, Andre",4.80,8.60
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,5,28,0,"Jump Shot","2PT Field Goal",3,"Toronto Raptors",-22,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,1,25,0,"Jump Shot","2PT Field Goal",3,"Toronto Raptors",17,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,3,9,23,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",50,257,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,1,6,22,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",-17,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,1,55,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",91,183,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,4,6,51,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-235,-15,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,4,7,45,1,"Jump Shot","2PT Field Goal",6,"New York Knicks",50,38,2,2.60,"Thomas, Lance",2.40,16.20
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,10,23,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",58,149,0,0.90,"Anthony, Carmelo",4.10,9.40
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,2,0,58,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",145,200,3,4.40,"Thomas, Lance",5.70,14.20
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,7,45,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",158,139,0,1.00,"Thomas, Lance",5.60,7.80
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,0,15,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",94,26,1,2.90,"Morris, Marcus",0.80,4.10
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,1,28,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-202,0,1,3.70,"Morris, Marcus",3.60,19.40
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,3,8,26,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",191,8,1,2.10,"Tucker, PJ",4.10,2.40
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,3,9,27,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",71,232,1,2.90,"Lowry, Kyle",4.70,12.70
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,4,1,51,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-115,218,0,0.90,"Knight, Brandon",6.90,6.40
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,2,1,15,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",235,-31,1,1.50,"Tucker, PJ",5.50,17.10
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,1,7,45,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",151,56,1,2.50,"Leuer, Jon",4.90,11.40
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,1,8,05,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-202,-6,0,3.80,"Bledsoe, Eric",3.30,12.00
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,2,1,23,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-230,13,0,1.40,"Bledsoe, Eric",4.40,5.10
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,6,0,12,0,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",119,21,0,2.70,"Morris, Marcus",4.40,3.60
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,0,00,0,"Jump Shot","3PT Field Goal",43,"Boston Celtics",68,434,2,1.40,"Crowder, Jae",10.50,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,3,10,24,0,"Jump Shot","2PT Field Goal",21,"Boston Celtics",-138,159,2,1.70,"Crowder, Jae",3.60,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,3,2,09,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",186,43,2,2.00,"Crowder, Jae",3.30,5.30
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,0,43,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",-4,124,1,1.70,"Crowder, Jae",3.90,19.60
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,0,20,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",66,249,2,2.60,"Bradley, Avery",2.70,17.90
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,3,5,19,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",228,7,0,0.60,"Crowder, Jae",4.70,5.30
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,3,11,12,0,"Jump Shot","2PT Field Goal",21,"Boston Celtics",202,61,2,1.40,"Crowder, Jae",3.30,10.50
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,3,21,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",79,232,0,1.00,"Crowder, Jae",3.70,16.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,2,22,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-183,170,0,0.80,"Crowder, Jae",6.60,8.20
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,5,0,29,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",166,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,3,9,43,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",192,70,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,2,5,51,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-158,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,3,6,09,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-207,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,5,1,22,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",143,198,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,7,27,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",182,70,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,2,12,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-148,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,8,56,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",227,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,2,4,44,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-89,224,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,1,11,26,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",115,229,1,4.20,"Carroll, DeMarre",8.00,9.10
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,1,5,44,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-133,105,10,8.50,"Caldwell-Pope, Kentavious",2.80,15.50
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,1,7,28,0,"Jump Shot","2PT Field Goal",7,"Utah Jazz",74,18,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,10,34,1,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",-179,124,2,4.40,"Griffin, Blake",4.10,13.80
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,3,5,33,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-210,149,1,1.20,"Parker, Jabari",5.50,12.30
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,4,3,58,1,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-186,65,7,11.30,"Middleton, Khris",3.30,5.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,2,0,01,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",22,208,16,17.40,"Middleton, Khris",4.30,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,9,03,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-151,223,0,1.10,"Parker, Jabari",7.80,13.80
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,2,6,36,0,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",30,2,2,2.00,"Monroe, Greg",3.80,13.60
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,2,56,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",177,183,0,1.10,"Middleton, Khris",4.80,14.10
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,4,1,31,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",176,198,0,1.00,"Carter-Williams, Michael",4.40,6.60
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,4,0,05,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",150,208,0,1.00,"Middleton, Khris",3.60,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,2,1,24,0,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-7,121,2,3.10,"Middleton, Khris",1.40,11.80
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",161,198,1,2.40,"Green, Jeff",5.70,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,5,50,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",141,213,6,6.80,"Barnes, Matt",4.10,17.10
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,1,2,16,1,"Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-40,46,4,5.20,"Gasol, Marc",3.10,14.30
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,1,6,31,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",115,120,9,7.40,"Green, Jeff",3.80,13.20
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,2,22,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",105,232,0,1.20,"Chalmers, Mario",7.90,9.80
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,10,07,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-150,193,0,0.70,"Barnes, Matt",4.80,11.50
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,1,10,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",153,-5,0,0.80,"Ennis, James",1.70,13.30
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,3,27,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",-155,160,2,3.40,"Lee, Courtney",3.90,5.00
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,4,1,12,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",63,174,26,19.70,"Barnes, Matt",1.80,4.00
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,3,11,14,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",115,218,0,0.80,"Turner, Evan",4.90,20.50
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,3,11,01,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-219,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,3,6,14,1,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-210,180,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,1,3,11,1,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",17,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,4,57,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",112,228,2,3.20,"Griffin, Blake",4.90,9.80
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,4,6,35,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Clippers",-174,139,0,0.90,"Johnson, Wesley",3.70,9.30
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,3,6,20,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",159,124,5,7.00,"Griffin, Blake",4.40,5.60
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,3,12,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",168,-1,0,0.80,"Johnson, Wesley",3.90,11.80
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,3,6,54,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Clippers",-187,126,3,7.00,"Stephenson, Lance",4.70,10.20
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,4,0,06,0,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",-38,62,4,13.50,"Crawford, Jamal",6.90,3.40
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,3,3,46,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",143,208,0,0.80,"Paul, Chris",6.50,19.70
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,2,05,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",148,-10,1,1.90,"Griffin, Blake",8.80,9.70
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,2,5,16,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",19,195,1,1.40,"Mbah a Moute, Luc",2.90,10.70
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,3,47,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-137,116,2,3.70,"Mbah a Moute, Luc",2.10,14.60
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,4,0,51,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",76,151,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,4,3,17,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-148,116,5,4.40,"Morris, Marcus",3.80,13.10
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,0,04,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",110,218,0,0.90,"Caldwell-Pope, Kentavious",0.70,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,0,19,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-217,144,4,4.20,"Caldwell-Pope, Kentavious",2.90,16.70
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,1,1,54,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",181,-16,1,1.20,"Johnson, Stanley",3.10,15.60
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,3,4,47,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",99,11,1,4.30,"Jackson, Reggie",1.10,7.20
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,0,01,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",78,252,0,1.50,"Caldwell-Pope, Kentavious",1.70,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,3,7,29,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",0,51,3,5.20,"Caldwell-Pope, Kentavious",1.90,5.30
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,3,6,38,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",212,115,0,0.80,"Ilyasova, Ersan",7.90,13.80
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,3,2,08,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",24,169,8,8.10,"Joseph, Cory",5.80,2.70
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,2,3,35,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",166,185,0,1.00,"DeRozan, DeMar",5.90,10.90
+"Jimmy Butler","Chicago Bulls",2015-12-28,2015,6430,1610612741,400828350,1,5,52,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-176,90,0,0.70,"Carroll, DeMarre",5.80,10.20
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,2,4,38,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",68,193,4,3.70,"Johnson, Amir",4.70,6.80
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-125,223,3,3.00,"Johnson, Amir",3.80,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,2,2,12,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-78,178,7,6.50,"Crowder, Jae",3.70,18.00
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,4,6,43,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",19,183,8,8.40,"Crowder, Jae",2.00,13.30
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,1,4,46,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-223,-1,0,0.80,"Turner, Evan",2.00,9.60
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,1,2,49,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-156,90,8,6.70,"Turner, Evan",2.40,17.40
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,2,1,42,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",164,106,3,4.80,"Johnson, Amir",3.10,10.10
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,2,7,41,0,"Jump Shot","2PT Field Goal",5,"Houston Rockets",-11,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,3,5,40,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",138,205,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,4,8,47,0,"Jump Shot","2PT Field Goal",10,"Houston Rockets",102,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,4,10,32,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",186,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,4,7,32,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",233,-11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,2,2,14,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-20,190,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,2,4,44,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",96,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,2,6,22,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",137,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,9,36,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-17,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,11,03,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",228,-11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,2,2,20,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",238,-6,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,2,0,01,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",181,92,6,5.60,"Caldwell-Pope, Kentavious",3.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,4,4,30,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",6,257,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,3,9,11,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-171,195,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,2,6,11,0,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-140,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,1,7,34,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",146,100,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,1,2,13,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",96,100,2,3.50,"Davis, Anthony",5.20,11.30
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,3,4,13,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",43,139,2,2.80,"Davis, Anthony",5.90,14.20
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,1,8,55,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-169,193,0,0.90,"Evans, Tyreke",5.80,19.30
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,2,6,51,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",133,7,2,4.00,"Gee, Alonzo",4.90,14.50
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,2,2,06,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",137,7,1,6.10,"Morris, Marcus",4.90,10.00
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,1,5,08,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",146,62,0,1.40,"Caldwell-Pope, Kentavious",3.80,24.00
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,1,0,21,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-163,-5,3,2.80,"Ilyasova, Ersan",1.70,13.40
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,1,6,06,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",61,252,0,1.00,"Jackson, Reggie",4.60,13.20
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,3,3,12,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-156,200,1,2.80,"Johnson, Stanley",1.30,0.80
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,1,11,34,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-178,3,1,1.60,"Morris, Marcus",3.40,18.80
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,3,9,44,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",61,169,2,3.00,"Morris, Marcus",2.70,13.40
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,4,5,22,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-219,164,0,0.80,"Morris, Marcus",4.30,8.70
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,3,0,45,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",28,101,7,8.70,"Baynes, Aron",9.00,14.80
+"Jimmy Butler","Chicago Bulls",2016-01-18,2015,6430,1610612741,400828506,4,3,23,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-205,7,0,0.80,"Jackson, Reggie",3.40,0.30
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,2,2,00,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-96,75,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,9,22,0,"Jump Shot","2PT Field Goal",11,"Boston Celtics",115,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,3,43,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",156,188,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,4,1,08,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",166,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,4,5,41,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-147,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,4,8,14,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",148,115,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,4,2,40,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",138,203,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,1,10,45,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",-29,124,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,8,38,0,"Jump Shot","2PT Field Goal",13,"Boston Celtics",-135,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,9,35,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",174,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,4,0,18,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",213,139,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,3,6,06,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",15,100,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,4,3,03,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",153,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,1,0,00,0,"Jump Shot","3PT Field Goal",29,"Boston Celtics",-160,252,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,1,7,16,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",148,105,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,3,10,55,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-225,-26,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,3,4,17,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",30,169,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,3,7,12,0,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",-106,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,3,0,46,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",176,85,4,4.20,"Shumpert, Iman",3.40,7.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,2,7,59,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",135,36,0,1.30,"Smith, J.R.",11.00,13.50
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,1,11,07,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",194,141,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,3,6,37,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",199,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,3,0,00,0,"Jump Shot","3PT Field Goal",50,"Brooklyn Nets",135,483,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,4,23,0,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",89,33,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,1,8,38,0,"Jump Shot","2PT Field Goal",5,"Brooklyn Nets",-37,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,2,26,0,"Jump Shot","2PT Field Goal",6,"Brooklyn Nets",-2,62,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,1,0,45,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",87,242,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,1,1,50,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",230,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,1,11,26,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",209,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,4,7,53,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",225,110,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,2,0,44,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",205,129,0,0.80,"Smith, J.R.",3.00,4.10
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,4,0,30,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",186,165,15,15.10,"James, LeBron",5.90,6.60
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,4,3,28,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-124,126,14,13.40,"Love, Kevin",4.20,10.80
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,1,4,43,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-55,185,0,1.60,"Shumpert, Iman",6.00,7.30
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,4,7,45,0,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-101,8,0,1.50,"Thompson, Tristan",2.90,5.30
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,4,8,12,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-215,170,5,4.70,"Shumpert, Iman",2.80,3.10
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,2,1,45,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",4,124,2,4.10,"Love, Kevin",2.30,6.80
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,1,10,32,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",156,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,3,10,43,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-238,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,2,4,27,1,"Jump Shot","2PT Field Goal",13,"New York Knicks",135,26,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,2,5,08,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",99,164,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,3,5,13,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",97,144,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,4,10,54,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",176,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,2,5,38,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-58,244,0,1.30,"Williams, Marvin",4.40,15.90
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,2,10,09,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",125,203,0,0.80,"James, LeBron",4.90,17.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,2,7,57,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",46,249,0,0.90,"Smith, J.R.",6.80,15.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,1,0,05,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-191,-31,1,4.00,"James, LeBron",1.80,0.80
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,4,1,15,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-187,-21,0,1.00,"Love, Kevin",5.50,12.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,8,34,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-109,224,1,3.70,"Williams, Marvin",6.00,13.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,6,29,1,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",55,100,2,1.50,"Hairston, PJ",2.00,18.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,1,11,24,1,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",-155,160,0,1.00,"Hairston, PJ",3.80,8.90
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,1,3,56,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",69,156,5,6.60,"Batum, Nicolas",4.70,10.70
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",89,229,9,8.80,"Morris, Marcus",3.60,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,5,0,02,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-129,208,0,0.60,"Caldwell-Pope, Kentavious",1.40,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,4,5,31,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-201,55,0,1.10,"Morris, Marcus",3.80,15.30
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,11,09,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",164,7,10,7.70,"Teletovic, Mirza",5.10,15.60
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,4,12,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-96,232,1,1.80,"Tucker, PJ",7.10,14.60
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,1,08,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",233,31,0,0.70,"Morris, Markieff",4.30,6.20
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,1,1,04,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",187,21,1,1.40,"Tucker, PJ",5.30,9.30
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,4,4,49,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",12,178,9,8.20,"Durant, Kevin",3.40,8.60
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,4,16,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",84,139,3,3.30,"Roberson, Andre",3.00,6.70
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,1,4,52,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-235,0,0,1.30,"Ibaka, Serge",0.60,1.40
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,2,2,57,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",177,102,1,1.70,"Morris, Marcus",3.00,10.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,5,0,25,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",181,162,0,1.00,"Morris, Marcus",4.70,15.70
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,2,17,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",85,187,1,5.30,"Morris, Marcus",9.90,7.70
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,3,8,05,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",112,139,1,2.10,"McCollum, CJ",3.90,16.50
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,1,7,53,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-228,95,0,3.30,"Aminu, Al-Farouq",5.50,11.00
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,3,11,26,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",110,232,0,0.80,"Holmes, Richaun",10.20,3.10
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,1,4,21,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-25,239,1,2.20,"Leonard, Kawhi",4.70,10.60
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,1,10,05,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-104,237,2,2.40,"Grant, Jerami",4.70,16.90
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,3,5,24,1,"Jump Shot","2PT Field Goal",10,"Orlando Magic",-44,95,2,2.60,"Oladipo, Victor",2.50,16.50
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,3,59,1,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",159,149,1,3.20,"Batum, Nicolas",4.00,3.70
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,1,2,30,1,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",-70,115,0,0.10,"Green, Draymond",4.30,19.30
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,2,0,33,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-81,242,9,6.50,"Iguodala, Andre",6.30,17.60
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,6,41,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",-34,43,0,4.70,"Green, Draymond",0.80,6.70
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,2,1,43,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-155,92,18,15.60,"Green, Draymond",4.70,9.10
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,2,0,05,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",117,174,17,16.10,"Foye, Randy",3.10,6.30
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,4,0,05,1,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-125,160,0,2.20,"Batum, Nicolas",4.60,2.60
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,1,24,1,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",73,131,3,6.60,"Mahinmi, Ian",2.50,7.40
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,3,0,00,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",130,213,0,1.40,"Barton, Will",2.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,2,4,06,1,"Jump Shot","2PT Field Goal",22,"Indiana Pacers",-210,85,0,1.00,"George, Paul",3.80,7.10
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,1,10,30,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",209,-26,8,7.60,"Miles, CJ",3.40,15.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,6,40,1,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",6,75,8,7.60,"Walker, Kemba",0.00,16.80
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,4,43,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-194,36,7,4.10,"Mahinmi, Ian",10.50,24.00
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,6,50,1,"Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",127,3,0,1.00,"Wiggins, Andrew",4.00,6.50
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,3,10,39,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-191,11,0,1.20,"Mahinmi, Ian",12.80,17.40
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,1,3,07,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",151,-6,2,2.50,"Kaminsky, Frank",6.60,10.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,1,7,49,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",177,31,3,4.20,"Batum, Nicolas",6.20,14.40
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,3,3,12,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",176,180,0,1.20,"Foye, Randy",4.30,12.50
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,4,8,35,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-169,75,0,1.20,"George, Paul",3.00,24.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,4,5,30,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-178,36,9,9.50,"Williams, Marvin",6.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,1,4,36,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",-42,2,1,2.00,"Batum, Nicolas",1.00,15.80
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,2,7,31,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-241,-15,0,0.80,"Batum, Nicolas",6.00,13.50
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,4,1,40,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",164,177,2,7.60,"Johnson, Joe",5.30,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,4,10,55,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",89,237,3,3.10,"George, Paul",3.10,16.80
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,4,6,58,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-181,100,4,7.40,"Williams, Mo",3.10,6.20
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,1,8,40,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-55,198,3,4.90,"Smith, J.R.",2.30,10.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,2,8,18,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",166,82,0,0.80,"Smith, J.R.",11.40,20.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,4,7,48,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-201,2,0,1.20,"Thompson, Tristan",9.20,16.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,2,6,40,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",114,85,0,2.20,"Smith, J.R.",2.20,2.40
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,2,2,04,0,"Jump Shot","2PT Field Goal",1,"Detroit Pistons",10,-2,3,4.20,"Ilyasova, Ersan",0.60,20.50
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,1,7,40,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",182,-29,1,2.10,"Adams, Steven",4.40,21.90
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,2,1,57,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-161,203,0,0.80,"Batum, Nicolas",5.00,11.70
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,2,6,19,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-160,52,0,2.50,"Lin, Jeremy",4.00,16.40
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,1,9,49,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-125,224,0,1.00,"Hairston, PJ",5.10,13.10
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,0,00,0,"Jump Shot","3PT Field Goal",47,"Charlotte Hornets",140,458,3,3.00,"Batum, Nicolas",2.50,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,1,2,53,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-125,26,6,9.00,"Batum, Nicolas",3.30,6.10
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,10,40,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-109,223,1,0.60,"Hairston, PJ",4.40,4.70
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,1,8,29,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-189,28,15,13.40,"Williams, Marvin",3.60,11.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,1,9,46,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",158,87,2,4.10,"Caldwell-Pope, Kentavious",6.10,11.60
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,2,1,37,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",135,151,1,3.00,"Tucker, PJ",3.40,11.40
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,8,33,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",177,2,0,0.90,"Teletovic, Mirza",8.70,15.70
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,7,34,0,"Jump Shot","3PT Field Goal",30,"Phoenix Suns",197,232,0,0.70,"Tucker, PJ",5.90,1.80
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,10,10,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",-35,70,0,3.80,"Booker, Devin",2.70,22.50
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,2,0,00,0,"Jump Shot","2PT Field Goal",3,"Phoenix Suns",35,7,6,5.00,"Len, Alex",2.40,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,9,35,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-184,193,0,1.10,"Tucker, PJ",5.60,1.30
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,1,3,15,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",84,239,0,1.40,"Tucker, PJ",4.50,5.90
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,6,18,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-171,198,0,0.80,"Tucker, PJ",6.40,13.80
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,2,0,00,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-181,106,1,1.60,"Durant, Kevin",5.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,2,0,57,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",66,249,2,2.40,"Adams, Steven",6.90,8.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,4,7,46,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",140,203,0,1.10,"Ibaka, Serge",4.60,11.20
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,2,9,38,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-160,188,0,0.90,"Durant, Kevin",4.40,10.60
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,8,03,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-107,134,3,3.30,"Roberson, Andre",1.80,12.90
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,1,7,04,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-168,62,0,3.30,"Waiters, Dion",3.50,14.30
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,4,0,09,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",174,80,18,16.20,"Ibaka, Serge",5.00,5.10
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,1,4,23,0,"Jump Shot","2PT Field Goal",8,"Detroit Pistons",50,66,2,3.00,"Morris, Marcus",5.00,19.90
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,0,27,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",158,-7,2,2.90,"Morris, Marcus",2.70,4.20
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,6,44,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-97,135,2,2.60,"Ilyasova, Ersan",3.70,15.70
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,2,0,00,1,"Jump Shot","3PT Field Goal",47,"Portland Trail Blazers",176,439,1,1.20,"Crabbe, Allen",6.90,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,1,2,16,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",232,-21,0,1.20,"Wood, Christian",16.00,17.50
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,3,2,39,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",97,159,7,6.30,"Leonard, Kawhi",5.20,15.70
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,4,5,04,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",171,193,5,6.60,"Aldridge, LaMarcus",4.10,4.70
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,1,1,33,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",107,160,2,1.90,"Aldridge, LaMarcus",5.80,8.50
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,2,4,14,1,"Jump Shot","2PT Field Goal",9,"Orlando Magic",54,83,2,4.10,"Fournier, Evan",1.80,9.70
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,1,0,00,0,"Jump Shot","3PT Field Goal",66,"Orlando Magic",-150,650,9,9.20,"Oladipo, Victor",4.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,3,7,32,0,"Jump Shot","2PT Field Goal",12,"Orlando Magic",-127,-6,2,3.10,"Oladipo, Victor",2.10,18.10
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,4,3,52,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-201,155,3,4.50,"Oladipo, Victor",4.50,8.30
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,1,10,02,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-199,20,0,3.40,"Oladipo, Victor",3.50,13.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,2,2,05,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",120,232,0,1.50,"Green, Draymond",4.60,6.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,7,42,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-230,43,1,1.40,"Green, Draymond",6.80,18.40
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,4,4,06,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",128,116,17,14.40,"Thompson, Klay",1.90,9.20
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,2,36,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",130,144,1,3.80,"Thompson, Klay",1.40,2.90
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,3,8,18,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",182,164,5,5.40,"Green, Draymond",4.60,17.60
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,9,29,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",105,16,0,0.20,"Wiggins, Andrew",4.00,23.30
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,3,4,47,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-166,31,8,8.10,"Ellis, Monta",5.30,14.90
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,5,47,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-165,178,1,2.40,"Batum, Nicolas",4.10,16.10
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,5,2,16,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",207,154,0,0.90,"Wiggins, Andrew",4.00,11.90
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,5,1,07,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",120,213,0,0.80,"Wiggins, Andrew",17.10,24.00
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,4,2,55,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",115,218,0,2.70,"Wiggins, Andrew",4.30,1.00
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,2,6,45,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-79,237,1,2.80,"Wiggins, Andrew",4.70,15.30
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,1,4,43,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",132,218,1,2.30,"Wiggins, Andrew",4.90,14.70
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,3,8,03,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",68,229,7,6.50,"Wiggins, Andrew",4.50,16.50
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,5,0,19,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",114,218,1,2.40,"Wiggins, Andrew",3.70,15.60
+"Jimmy Butler","Chicago Bulls",2015-11-07,2015,6430,1610612741,400827972,1,11,46,0,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",137,-1,0,0.90,"Wiggins, Andrew",5.00,15.90
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,9,16,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",137,-16,3,5.60,"Ellis, Monta",0.30,10.10
+"Jimmy Butler","Chicago Bulls",2015-11-16,2015,6430,1610612741,400828040,4,5,12,0,"Jump Shot","2PT Field Goal",22,"Indiana Pacers",-166,149,0,0.30,"George, Paul",2.50,0.90
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,4,8,17,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",-114,0,5,6.10,"Nelson, Jameer",0.70,5.80
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,1,6,56,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",-42,61,2,4.80,"Foye, Randy",1.90,2.70
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,1,7,46,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-240,51,0,0.00,"Mudiay, Emmanuel",7.80,6.80
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,3,2,13,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",43,193,6,6.40,"Arthur, Darrell",1.30,6.20
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,4,4,01,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-169,178,0,0.90,"Faried, Kenneth",5.70,16.20
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,1,6,03,0,"Jump Shot","2PT Field Goal",4,"Denver Nuggets",43,-1,10,10.10,"Jokic, Nikola",1.60,11.90
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,2,07,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",91,228,0,0.00,"Lin, Jeremy",19.10,10.80
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,1,2,45,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-120,-15,1,1.50,"Lamb, Jeremy",1.50,20.20
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,5,12,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",7,252,0,0.90,"Hairston, PJ",5.50,9.40
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,1,6,07,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-81,241,0,1.10,"Larkin, Shane",2.50,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,3,11,42,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",95,173,2,2.50,"Johnson, Joe",4.20,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,4,2,37,1,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",228,0,0,0.80,"George, Paul",4.20,7.00
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,1,0,54,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",91,223,0,1.10,"George, Paul",4.60,17.70
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,4,4,55,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-212,139,0,0.70,"George, Paul",5.80,12.50
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,2,2,16,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",125,139,2,2.50,"Budinger, Chase",5.30,14.70
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,3,4,09,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",101,126,2,5.30,"George, Paul",2.90,4.80
+"Jimmy Butler","Chicago Bulls",2015-11-27,2015,6430,1610612741,400828118,1,3,23,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",-71,31,8,8.30,"Stuckey, Rodney",3.50,15.90
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,1,29,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",19,7,1,1.90,"Hawes, Spencer",0.00,10.20
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,3,10,21,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",22,-5,3,4.20,"Caldwell-Pope, Kentavious",2.20,15.20
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,1,34,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",17,16,1,2.20,"Morris, Marcus",1.40,20.40
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,2,3,36,0,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",-25,23,0,0.50,"Lee, Courtney",1.30,11.30
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,2,0,46,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-15,9,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,2,6,19,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-2,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,2,5,30,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-25,-6,8,5.50,"Thompson, Hollis",2.60,16.40
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,1,03,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",27,8,4,4.00,"Ezeli, Festus",0.50,12.50
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,3,10,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",15,-6,0,0.70,"Crowder, Jae",1.40,17.10
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,1,5,32,0,"Layup Shot","2PT Field Goal",3,"New York Knicks",30,2,8,7.90,"Porzingis, Kristaps",1.30,15.40
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,2,5,48,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,3,1,1.40,"Westbrook, Russell",3.40,24.00
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,4,5,29,1,"Layup Shot","2PT Field Goal",5,"Brooklyn Nets",-18,48,0,1.20,"Bogdanovic, Bojan",1.60,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,2,7,33,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-17,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,2,0,06,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-27,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,1,7,08,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-19,2,1,1.40,"Calderon, Jose",3.00,10.10
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,9,19,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",6,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,9,43,0,"Layup Shot","2PT Field Goal",3,"New York Knicks",-17,26,2,2.40,"Lopez, Robin",1.50,11.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,3,8,45,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",24,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,3,33,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",-24,11,2,3.10,"Biyombo, Bismack",1.10,12.20
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,1,0,56,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",19,8,0,1.20,"Seraphin, Kevin",1.80,2.60
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,1,9,08,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,3,5,6.50,"Bledsoe, Eric",1.20,9.80
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,2,6,08,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-12,8,4,5.20,"Wood, Christian",1.80,2.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,2,58,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,11,0,0.90,"Kaminsky, Frank",2.50,12.30
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,4,0,42,1,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",19,26,1,2.60,"Conley, Mike",1.60,5.20
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,7,39,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",6,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,3,1,47,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-13,2015,6430,1610612741,400828019,3,11,30,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-20,10,3,3.00,"Hairston, PJ",0.50,11.20
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,1,3,53,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",22,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,3,9,40,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",24,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,2,7,09,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",0,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,2,6,57,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-12,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,3,4,56,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-6,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,2,12,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-12,16,7,7.60,"Booker, Devin",1.60,17.50
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,1,1,18,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-11,27,4,3.60,"Blake, Steve",4.60,20.20
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,10,30,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-26,-10,2,4.10,"Morris, Marcus",2.20,8.50
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,3,4,29,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-12,8,3,2.80,"Lopez, Brook",1.70,15.10
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,1,6,37,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",20,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,10,07,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,11,0,0.00,"Teletovic, Mirza",3.20,22.40
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,3,7,13,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-17,-1,4,2.90,"Olynyk, Kelly",4.30,8.20
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,3,4,20,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-25,8,2,3.50,"Arthur, Darrell",2.20,9.60
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,2,3,38,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-1,14,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,4,7,04,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,13,4,5.60,"Arthur, Darrell",2.70,9.00
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,1,2,32,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-7,21,0,1.30,"Barton, Will",0.60,10.60
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,2,46,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-17,7,1,6.00,"Morris, Marcus",1.80,9.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,5,33,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-7,23,0,0.80,"Noel, Nerlens",2.00,20.20
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,3,1,34,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-10,14,1,2.20,"Leuer, Jon",1.30,11.80
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,5,1,50,0,"Layup Shot","2PT Field Goal",4,"Detroit Pistons",40,6,5,3.90,"Caldwell-Pope, Kentavious",0.80,20.20
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,3,0,06,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",17,11,3,11.20,"Gooden, Drew",1.50,5.40
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,4,10,55,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",2,2,3,4.20,"Ibaka, Serge",0.80,3.20
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,2,7,00,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-12,7,0,0.60,"Augustin, D.J.",0.20,24.00
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,2,6,12,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",15,-1,2,4.40,"Wall, John",1.30,9.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,1,2,52,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",14,11,0,1.40,"Bargnani, Andrea",0.40,17.10
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,4,5,41,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-20,7,3,3.00,"Nelson, Jameer",2.10,17.30
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,3,11,20,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",19,7,0,0.80,"Gee, Alonzo",4.40,13.50
+"Jimmy Butler","Chicago Bulls",2015-12-14,2015,6430,1610612741,400828248,3,8,08,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-5,9,2,2.20,"Covington, Robert",1.20,17.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,7,48,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",22,-1,0,0.60,"Antetokounmpo, Giannis",4.30,20.50
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,2,0,00,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",0,21,0,0.00,"Cunningham, Dante",5.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,1,8,04,0,"Layup Shot","2PT Field Goal",6,"Detroit Pistons",61,34,2,2.80,"Drummond, Andre",2.40,15.90
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,7,2,00,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",9,13,14,11.80,"Ilyasova, Ersan",2.30,7.30
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,0,08,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",26,-9,0,1.10,"Baynes, Aron",2.60,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-07,2015,6430,1610612741,400828196,1,3,41,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",8,15,1,3.60,"Teletovic, Mirza",2.80,5.50
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,1,10,29,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-27,4,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,4,34,1,"Pullup Bank shot","2PT Field Goal",13,"Toronto Raptors",-135,26,9,8.60,"Lowry, Kyle",1.50,14.10
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,2,3,53,0,"Pullup Bank shot","2PT Field Goal",7,"Los Angeles Clippers",43,61,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,1,7,21,1,"Pullup Bank shot","2PT Field Goal",10,"Cleveland Cavaliers",97,51,2,3.20,"Smith, J.R.",5.00,18.50
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,3,7,23,1,"Pullup Bank shot","2PT Field Goal",9,"Utah Jazz",82,46,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,0,00,0,"Pullup Bank shot","3PT Field Goal",37,"Toronto Raptors",-181,323,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,1,1,52,0,"Pullup Bank shot","2PT Field Goal",10,"Oklahoma City Thunder",76,65,7,6.90,"Collison, Nick",5.90,17.60
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,2,7,15,0,"Pullup Jump shot","3PT Field Goal",25,"Milwaukee Bucks",153,198,0,1.00,"Antetokounmpo, Giannis",6.80,11.20
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,8,04,1,"Pullup Jump shot","3PT Field Goal",25,"Milwaukee Bucks",-178,180,2,4.00,"Middleton, Khris",5.40,15.50
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,1,10,02,0,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",79,160,1,3.20,"Mahinmi, Ian",3.50,10.10
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,4,3,01,1,"Pullup Jump shot","2PT Field Goal",17,"Denver Nuggets",-2,174,3,2.90,"Barton, Will",3.10,6.60
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,3,3,48,0,"Pullup Jump shot","2PT Field Goal",15,"Denver Nuggets",156,31,0,2.40,"Foye, Randy",2.90,8.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,4,6,53,1,"Pullup Jump shot","2PT Field Goal",18,"Charlotte Hornets",143,110,2,1.90,"Lamb, Jeremy",4.10,14.30
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,1,0,00,1,"Pullup Jump shot","3PT Field Goal",35,"Oklahoma City Thunder",156,316,0,0.00,"Durant, Kevin",4.50,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,1,8,18,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",-4,198,1,2.90,"Bazemore, Kent",1.90,8.90
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,2,5,53,1,"Pullup Jump shot","2PT Field Goal",13,"Houston Rockets",102,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,1,9,29,1,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",191,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,3,7,46,1,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",-61,164,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,5,00,1,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",79,131,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,1,4,11,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",-81,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,4,7,07,0,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",33,178,12,11.50,"Thompson, Tristan",4.80,12.40
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,1,5,16,0,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",146,134,2,4.80,"George, Paul",3.20,7.40
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,1,2,21,0,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",122,124,3,3.20,"Durant, Kevin",3.10,11.80
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,1,11,22,1,"Pullup Jump shot","2PT Field Goal",19,"Utah Jazz",176,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,2,2,59,0,"Pullup Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",107,169,11,7.00,"Roberson, Andre",5.30,8.20
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,2,0,36,0,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",76,174,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,2,1,20,0,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",141,151,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,4,1,11,0,"Pullup Jump shot","2PT Field Goal",17,"Utah Jazz",-1,178,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,3,1,00,1,"Pullup Jump shot","2PT Field Goal",14,"Houston Rockets",104,105,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,4,0,24,1,"Pullup Jump shot","2PT Field Goal",20,"Golden State Warriors",-109,174,10,8.70,"Green, Draymond",5.60,15.40
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,7,36,0,"Pullup Jump shot","2PT Field Goal",12,"Charlotte Hornets",-129,-1,4,6.80,"Hairston, PJ",4.10,12.50
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,11,27,0,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-122,97,3,6.10,"Crowder, Jae",2.60,8.20
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,3,10,20,1,"Pullup Jump shot","2PT Field Goal",21,"Utah Jazz",-194,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,3,16,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",115,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-09,2015,6430,1610612741,400829078,1,1,55,1,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",112,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,1,4,35,0,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",107,139,9,7.40,"Horford, Al",4.10,15.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,2,39,0,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",42,203,8,10.20,"Joseph, Cory",3.70,13.70
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,1,7,52,1,"Pullup Jump shot","2PT Field Goal",18,"Brooklyn Nets",96,159,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,4,6,07,1,"Pullup Jump shot","2PT Field Goal",9,"Boston Celtics",-94,-1,1,2.10,"Lee, David",3.10,14.70
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,1,7,58,1,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",159,26,4,5.60,"Sullinger, Jared",3.40,9.70
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,7,04,1,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",109,214,2,2.40,"Millsap, Paul",10.20,15.50
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,4,5,54,0,"Pullup Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-79,33,12,11.20,"Monroe, Greg",3.70,13.10
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,2,38,1,"Pullup Jump shot","3PT Field Goal",24,"Toronto Raptors",32,244,11,14.20,"DeRozan, DeMar",5.20,6.90
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,4,6,58,0,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",4,178,9,8.70,"McCollum, CJ",2.70,13.60
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,1,5,13,1,"Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",-140,149,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,1,7,11,0,"Pullup Jump shot","2PT Field Goal",12,"New York Knicks",120,33,3,3.20,"Afflalo, Arron",2.40,15.60
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,7,11,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",10,115,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,1,51,1,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",50,154,6,5.30,"Sampson, JaKarr",1.30,15.60
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,1,6,38,1,"Pullup Jump shot","2PT Field Goal",17,"New Orleans Pelicans",141,95,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,4,5,56,0,"Pullup Jump shot","2PT Field Goal",17,"Miami Heat",96,141,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,2,5,22,0,"Pullup Jump shot","2PT Field Goal",13,"Miami Heat",30,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,9,48,0,"Pullup Jump shot","2PT Field Goal",9,"Miami Heat",99,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,3,5,19,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",97,56,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,1,5,45,0,"Pullup Jump shot","2PT Field Goal",10,"Philadelphia 76ers",6,101,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,1,6,01,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",53,169,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,1,2,36,1,"Pullup Jump shot","2PT Field Goal",10,"Milwaukee Bucks",63,85,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,3,5,24,0,"Pullup Jump shot","2PT Field Goal",14,"Cleveland Cavaliers",140,18,3,3.00,"Smith, J.R.",2.30,12.20
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,1,9,25,1,"Pullup Jump shot","2PT Field Goal",18,"Orlando Magic",99,153,3,2.60,"Oladipo, Victor",2.80,14.00
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,1,7,57,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-156,-5,2,5.00,"Durant, Kevin",3.00,11.70
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,2,1,10,1,"Pullup Jump shot","2PT Field Goal",17,"Miami Heat",114,139,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,4,4,45,1,"Pullup Jump shot","2PT Field Goal",13,"Golden State Warriors",50,120,10,8.90,"Livingston, Shaun",1.80,15.10
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,1,5,55,1,"Pullup Jump shot","2PT Field Goal",12,"Philadelphia 76ers",-43,120,2,1.80,"Sampson, JaKarr",2.50,13.10
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,3,8,45,0,"Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",-184,100,8,7.30,"Gee, Alonzo",2.50,15.70
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,1,4,37,0,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",-65,139,2,4.50,"Aminu, Al-Farouq",3.10,12.90
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,9,25,0,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",53,105,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,4,0,03,1,"Pullup Jump shot","2PT Field Goal",9,"Indiana Pacers",78,61,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,1,4,54,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",69,237,2,3.20,"Lillard, Damian",3.20,10.80
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,9,19,1,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",-1,156,1,1.80,"Valanciunas, Jonas",5.20,11.50
+"Jimmy Butler","Chicago Bulls",2016-01-07,2015,6430,1610612741,400828424,3,1,40,1,"Pullup Jump shot","2PT Field Goal",18,"Boston Celtics",4,180,1,1.30,"Turner, Evan",5.60,14.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,3,7,35,1,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",130,139,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,1,5,42,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-166,31,10,10.10,"Harkless, Maurice",3.50,10.20
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,0,31,1,"Pullup Jump shot","2PT Field Goal",14,"Toronto Raptors",-140,47,0,0.40,"Joseph, Cory",2.70,12.10
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,2,0,00,0,"Pullup Jump shot","2PT Field Goal",20,"Milwaukee Bucks",58,198,3,3.00,"Mayo, O.J.",2.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,3,11,37,1,"Pullup Jump shot","2PT Field Goal",20,"Indiana Pacers",-186,92,3,15.70,"George, Paul",3.30,2.60
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,1,2,35,1,"Pullup Jump shot","2PT Field Goal",10,"San Antonio Spurs",-37,101,2,2.50,"Parker, Tony",3.60,18.60
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,3,25,1,"Pullup Jump shot","2PT Field Goal",12,"Milwaukee Bucks",-122,-21,2,2.50,"Parker, Jabari",5.80,8.00
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,7,48,1,"Putback Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,"Bogut, Andrew",3.30,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,1,3,02,1,"Putback Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,1,8,36,1,"Putback Layup Shot","2PT Field Goal",2,"Detroit Pistons",27,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,2,4,17,1,"Putback Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-2,-10,0,0.00,"Millsap, Paul",0.80,24.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,0,00,1,"Putback Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-22,3,0,0.00,"Lamb, Jeremy",0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,1,11,18,0,"Putback Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",11,24,0,0.00,"Love, Kevin",3.10,24.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,2,9,41,1,"Putback Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-9,11,0,0.00,"Williams, Mo",9.10,23.80
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,3,4,34,1,"Putback Layup Shot","2PT Field Goal",1,"Miami Heat",-16,7,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,2,50,1,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,7,0,1.40,"Noel, Nerlens",4.20,7.90
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,3,5,30,1,"Reverse Layup Shot","2PT Field Goal",2,"Charlotte Hornets",22,2,0,17.30,"Williams, Marvin",5.30,11.40
+"Jimmy Butler","Chicago Bulls",2016-03-17,2015,6430,1610612741,400828903,4,4,19,1,"Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-11,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-30,2015,6430,1610612741,400827912,3,8,45,0,"Reverse Layup Shot","2PT Field Goal",3,"Detroit Pistons",18,25,0,1.00,"Ilyasova, Ersan",2.90,12.80
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,8,35,0,"Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-1,-1,2,2.80,"Ibaka, Serge",3.70,9.90
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,4,0,08,0,"Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-6,2,2,3.40,"Antetokounmpo, Giannis",3.10,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,2,17,1,"Running Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,2,2.40,"Batum, Nicolas",8.80,22.70
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,4,2,18,1,"Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,0,32,1,"Running Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.60,"Crowder, Jae",1.90,21.70
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,1,2,36,1,"Running Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,1.60,"Middleton, Khris",2.30,20.90
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,2,8,01,1,"Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,3,7,51,1,"Running Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,2,2.00,"Wall, John",24.90,22.30
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,0,09,1,"Running Dunk Shot","2PT Field Goal",1,"Phoenix Suns",-11,0,1,1.50,"Bledsoe, Eric",50.30,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,1,1,45,1,"Running Dunk Shot","2PT Field Goal",83,"Orlando Magic",0,834,0,1.20,"Hezonja, Mario",12.60,20.60
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,3,11,21,1,"Running Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",25,14,2,3.80,"Lopez, Brook",10.60,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,4,11,32,1,"Running Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,3,3,23,1,"Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,4,7,00,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Miami Heat",25,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-23,2015,6430,1610612741,400828947,1,3,11,0,"Running Finger Roll Layup Shot","2PT Field Goal",2,"New York Knicks",1,23,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,2,0,00,0,"Running Jump Shot","3PT Field Goal",48,"Dallas Mavericks",-151,457,0,0.00,"Matthews, Wesley",7.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,3,24,0,"Running Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-114,80,2,2.30,"Hawes, Spencer",7.60,19.70
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,1,7,22,1,"Running Jump Shot","3PT Field Goal",24,"Phoenix Suns",-122,218,0,1.20,"Chandler, Tyson",14.10,19.80
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,1,5,33,0,"Running Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-240,-16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,7,49,1,"Running Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",19,11,1,4.20,"Smith, Ish",3.50,21.70
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,2,0,31,0,"Running Layup Shot","2PT Field Goal",2,"New York Knicks",20,8,6,5.30,"Williams, Derrick",2.30,18.70
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,1,9,12,0,"Running Layup Shot","2PT Field Goal",3,"Detroit Pistons",35,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,1,13,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",9,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-30,2015,6430,1610612741,400828365,2,3,22,1,"Running Layup Shot","2PT Field Goal",0,"Indiana Pacers",4,8,3,4.30,"Stuckey, Rodney",4.10,21.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,1,27,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-11,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,3,1,53,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-14,7,2,3.80,"Harkless, Maurice",3.70,21.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,7,22,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,0,1,3.60,"Middleton, Khris",3.60,22.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,7,45,0,"Running Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-25,13,1,1.90,"Batum, Nicolas",1.90,21.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,5,1,20,1,"Running Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",28,2,2,3.90,"Smith, Ish",4.10,20.50
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,3,2,42,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-12,-6,0,0.00,"Powell, Dwight",1.60,19.50
+"Jimmy Butler","Chicago Bulls",2016-01-15,2015,6430,1610612741,400828484,3,6,38,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,3,2,4.20,"Nowitzki, Dirk",12.20,21.00
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,4,6,59,1,"Running Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-4,7,4,4.10,"Bargnani, Andrea",3.30,20.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,2,1,26,0,"Running Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-12,3,1,2.70,"Lin, Jeremy",1.80,21.80
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,4,08,1,"Running Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",14,11,4,3.80,"Green, Jeff",5.10,20.80
+"Jimmy Butler","Chicago Bulls",2015-12-18,2015,6430,1610612741,400828278,8,2,26,1,"Running Layup Shot","2PT Field Goal",1,"Detroit Pistons",-16,-5,1,1.60,"Morris, Marcus",2.80,20.40
+"Jimmy Butler","Chicago Bulls",2016-04-03,2015,6430,1610612741,400829037,2,1,53,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-05,2015,6430,1610612741,400829045,1,9,52,0,"Running Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-14,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-16,2015,6430,1610612741,400828264,3,8,18,1,"Running Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",27,-1,2,3.40,"Barnes, Matt",4.40,21.50
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,3,1,50,0,"Running Layup Shot","2PT Field Goal",1,"New York Knicks",-14,2,8,7.00,"O'Quinn, Kyle",3.80,18.80
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,2,5,48,1,"Running Pull-Up Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-24,193,7,5.10,"Splitter, Tiago",8.00,19.00
+"Jimmy Butler","Chicago Bulls",2015-10-27,2015,6430,1610612741,400827889,1,7,19,0,"Running Reverse Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",24,2,7,4.90,"James, LeBron",3.60,20.30
+"Jimmy Butler","Chicago Bulls",2015-11-01,2015,6430,1610612741,400827930,2,3,57,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",5,10,1,3.40,"Payton, Elfrid",5.10,22.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,2,1,11,0,"Running Reverse Layup Shot","2PT Field Goal",2,"Charlotte Hornets",25,8,0,0.00,"Walker, Kemba",1.40,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,4,6,51,1,"Step Back Bank Jump Shot","2PT Field Goal",17,"Utah Jazz",161,65,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,2,0,32,1,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-97,151,9,10.90,"Landry, Carl",5.10,5.20
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,4,5,46,0,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-166,-15,1,4.50,"Waiters, Dion",2.80,8.50
+"Jimmy Butler","Chicago Bulls",2015-11-09,2015,6430,1610612741,400827987,1,4,04,0,"Step Back Jump shot","2PT Field Goal",12,"Philadelphia 76ers",-127,-26,0,1.30,"Canaan, Isaiah",3.60,18.90
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,2,0,00,0,"Step Back Jump shot","2PT Field Goal",18,"Boston Celtics",-124,134,8,6.70,"Bradley, Avery",4.60,9.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,2,0,00,0,"Step Back Jump shot","2PT Field Goal",20,"Toronto Raptors",182,87,3,2.80,"Carroll, DeMarre",4.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,2,4,58,0,"Step Back Jump shot","2PT Field Goal",15,"Los Angeles Clippers",145,51,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,3,3,59,0,"Step Back Jump shot","2PT Field Goal",20,"Miami Heat",-165,120,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,7,00,1,"Step Back Jump shot","2PT Field Goal",18,"Boston Celtics",182,52,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,4,5,45,1,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Clippers",122,111,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,2,1,50,0,"Step Back Jump shot","2PT Field Goal",20,"Toronto Raptors",120,165,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,3,2,57,0,"Step Back Jump shot","2PT Field Goal",16,"Los Angeles Lakers",163,13,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,1,6,57,0,"Step Back Jump shot","2PT Field Goal",16,"Toronto Raptors",168,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-29,2015,6430,1610612741,400828994,3,6,56,0,"Step Back Jump shot","2PT Field Goal",18,"Indiana Pacers",120,136,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,2,5,03,0,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",-133,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,2,05,1,"Step Back Jump shot","2PT Field Goal",21,"Phoenix Suns",-124,175,5,6.10,"Tucker, PJ",4.20,2.20
+"Jimmy Butler","Chicago Bulls",2015-12-09,2015,6430,1610612741,400828206,3,9,53,0,"Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",122,116,5,6.50,"Sullinger, Jared",5.30,9.80
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,1,4,22,0,"Step Back Jump shot","2PT Field Goal",17,"Utah Jazz",171,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,1,5,24,0,"Step Back Jump shot","2PT Field Goal",19,"Miami Heat",-196,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,0,52,0,"Step Back Jump shot","2PT Field Goal",17,"Atlanta Hawks",-176,11,0,0.60,"Bazemore, Kent",6.50,8.70
+"Jimmy Butler","Chicago Bulls",2016-01-22,2015,6430,1610612741,400828533,2,11,26,1,"Step Back Jump shot","2PT Field Goal",18,"Boston Celtics",158,95,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,4,8,57,1,"Step Back Jump shot","2PT Field Goal",17,"Phoenix Suns",168,46,0,0.50,"Booker, Devin",3.90,15.00
+"Jimmy Butler","Chicago Bulls",2015-11-03,2015,6430,1610612741,400827940,3,0,11,1,"Step Back Jump shot","2PT Field Goal",18,"Charlotte Hornets",-53,174,3,5.00,"Zeller, Cody",3.30,6.10
+"Jimmy Butler","Chicago Bulls",2015-12-21,2015,6430,1610612741,400828301,3,11,50,1,"Step Back Jump shot","2PT Field Goal",21,"Brooklyn Nets",-40,208,2,3.20,"Johnson, Joe",7.70,15.30
+"Jimmy Butler","Chicago Bulls",2016-02-01,2015,6430,1610612741,400828615,4,7,59,0,"Step Back Jump shot","2PT Field Goal",22,"Utah Jazz",207,77,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-05,2015,6430,1610612741,400828179,1,9,12,0,"Step Back Jump shot","2PT Field Goal",15,"Charlotte Hornets",156,-10,4,3.80,"Hairston, PJ",6.20,17.40
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,1,11,22,1,"Step Back Jump shot","2PT Field Goal",18,"Golden State Warriors",155,105,0,1.00,"Barnes, Harrison",4.40,12.90
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,4,56,1,"Step Back Jump shot","2PT Field Goal",16,"Philadelphia 76ers",-135,92,17,16.00,"Stauskas, Nik",5.00,7.90
+"Jimmy Butler","Chicago Bulls",2016-01-09,2015,6430,1610612741,400828438,3,4,52,1,"Tip Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,0,0.00,"Teague, Jeff",3.50,23.90
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,4,4,06,0,"Tip Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.00,"Crabbe, Allen",2.20,23.60
+"Jimmy Butler","Chicago Bulls",2015-11-30,2015,6430,1610612741,400828144,2,3,34,1,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-2,7,0,0.00,"Parker, Tony",1.90,24.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,6,41,0,"Tip Layup Shot","2PT Field Goal",1,"Detroit Pistons",4,11,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,2,4,39,1,"Tip Layup Shot","2PT Field Goal",3,"Detroit Pistons",35,-1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-28,2015,6430,1610612741,400828986,2,6,47,0,"Tip Layup Shot","2PT Field Goal",2,"Atlanta Hawks",27,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,1,8,32,0,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",4,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-04-13,2015,6430,1610612741,400829109,1,10,07,0,"Tip Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,8,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,5,50,0,"Tip Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",0,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,2,6,59,1,"Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",2,11,0,0.00,"Augustin, D.J.",0.10,24.00
+"Jimmy Butler","Chicago Bulls",2016-03-21,2015,6430,1610612741,400828936,4,1,55,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,2,1,06,1,"Tip Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-11,-1,0,0.20,"Bogdanovic, Bojan",2.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-16,2015,6430,1610612741,400828893,3,9,38,1,"Tip Layup Shot","2PT Field Goal",1,"Washington Wizards",6,16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,4,8,03,1,"Turnaround Bank shot","2PT Field Goal",9,"Toronto Raptors",84,51,1,3.90,"Ross, Terrence",2.20,1.50
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,4,6,30,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Philadelphia 76ers",109,-11,6,10.20,"Stauskas, Nik",2.20,6.60
+"Jimmy Butler","Chicago Bulls",2015-11-05,2015,6430,1610612741,400827957,3,9,17,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Oklahoma City Thunder",94,61,1,2.10,"Roberson, Andre",3.40,20.30
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,1,8,31,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Los Angeles Clippers",-101,57,1,2.20,"Griffin, Blake",4.10,4.60
+"Jimmy Butler","Chicago Bulls",2016-01-20,2015,6430,1610612741,400828521,3,5,17,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Golden State Warriors",143,-1,0,1.00,"Thompson, Klay",3.00,17.50
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,4,7,31,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Los Angeles Clippers",-94,134,11,16.00,"Johnson, Wesley",3.20,6.70
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,1,5,40,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Philadelphia 76ers",-99,87,4,5.20,"Covington, Robert",3.80,4.70
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,2,1,33,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Washington Wizards",-145,28,2,5.50,"Temple, Garrett",4.50,2.20
+"Jimmy Butler","Chicago Bulls",2016-01-03,2015,6430,1610612741,400828394,3,7,41,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Toronto Raptors",137,7,0,3.60,"Carroll, DeMarre",2.60,7.20
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,2,0,37,1,"Turnaround Fadeaway shot","2PT Field Goal",7,"Milwaukee Bucks",76,-10,7,6.60,"Middleton, Khris",2.20,16.70
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,1,38,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Oklahoma City Thunder",96,41,1,3.40,"Waiters, Dion",2.60,8.80
+"Jimmy Butler","Chicago Bulls",2015-11-24,2015,6430,1610612741,400828100,4,0,53,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Portland Trail Blazers",-42,149,0,1.80,"Lillard, Damian",3.00,4.80
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,3,2,29,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Milwaukee Bucks",-55,52,1,1.60,"Antetokounmpo, Giannis",4.20,13.20
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,2,0,35,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Dallas Mavericks",146,3,2,3.20,"Matthews, Wesley",2.80,11.40
+"Jimmy Butler","Chicago Bulls",2016-03-31,2015,6430,1610612741,400829011,3,11,26,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Houston Rockets",143,-10,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-05,2015,6430,1610612741,400828409,1,11,42,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Milwaukee Bucks",138,80,1,4.80,"Parker, Jabari",3.90,9.80
+"Jimmy Butler","Chicago Bulls",2015-12-26,2015,6430,1610612741,400828336,1,3,35,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Dallas Mavericks",-160,2,1,0.00,"Matthews, Wesley",3.00,1.30
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,3,6,57,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Brooklyn Nets",59,104,3,3.90,"Johnson, Joe",3.80,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-02,2015,6430,1610612741,400828160,2,1,41,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Denver Nuggets",-179,2,0,0.80,"Foye, Randy",5.30,8.80
+"Jimmy Butler","Chicago Bulls",2016-04-02,2015,6430,1610612741,400829026,4,5,22,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Detroit Pistons",-94,-5,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-10,2015,6430,1610612741,400828217,2,0,00,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Los Angeles Clippers",151,-5,8,10.60,"Jordan, DeAndre",5.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-01,2015,6430,1610612741,400828380,2,2,27,0,"Turnaround Fadeaway shot","2PT Field Goal",5,"New York Knicks",17,-51,4,3.00,"Afflalo, Arron",2.30,3.60
+"Jimmy Butler","Chicago Bulls",2016-01-14,2015,6430,1610612741,400828474,3,8,31,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Philadelphia 76ers",55,131,2,4.30,"Sampson, JaKarr",3.70,10.80
+"Jimmy Butler","Chicago Bulls",2016-03-05,2015,6430,1610612741,400828814,3,7,51,1,"Turnaround Hook Shot","2PT Field Goal",4,"Houston Rockets",-45,0,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,1,6,34,1,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",-88,11,0,2.00,"Mozgov, Timofey",4.80,8.80
+"Jimmy Butler","Chicago Bulls",2015-11-20,2015,6430,1610612741,400828074,4,3,23,0,"Turnaround Jump Shot","2PT Field Goal",18,"Golden State Warriors",76,164,4,11.60,"Curry, Stephen",4.10,4.30
+"Jimmy Butler","Chicago Bulls",2016-04-07,2015,6430,1610612741,400829061,4,3,25,1,"Turnaround Jump Shot","2PT Field Goal",12,"Miami Heat",122,21,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,1,11,36,1,"Turnaround Jump Shot","2PT Field Goal",14,"New York Knicks",-138,33,0,1.10,"Afflalo, Arron",4.20,24.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,2,5,00,1,"Turnaround Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-171,2,4,5.50,"Smith, J.R.",2.00,4.80
+"Jimmy Butler","Chicago Bulls",2015-12-25,2015,6430,1610612741,400828324,3,3,55,0,"Turnaround Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-7,77,3,4.10,"Morrow, Anthony",4.30,3.10
+"Jimmy Butler","Chicago Bulls",2016-04-11,2015,6430,1610612741,400829095,4,1,26,0,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",138,36,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,3,3,52,1,"Turnaround Jump Shot","2PT Field Goal",12,"Utah Jazz",-127,-16,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-14,2015,6430,1610612741,400828878,4,4,31,0,"Turnaround Jump Shot","2PT Field Goal",14,"Toronto Raptors",-132,47,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-23,2015,6430,1610612741,400828546,1,5,18,1,"Turnaround Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-153,-6,0,1.20,"Smith, J.R.",2.80,11.80
+"Jimmy Butler","Chicago Bulls",2016-03-26,2015,6430,1610612741,400828970,1,8,46,0,"Turnaround Jump Shot","2PT Field Goal",14,"Orlando Magic",143,2,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,1,10,21,1,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",137,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-12,2015,6430,1610612741,400828460,2,4,08,0,"Turnaround Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",87,2,1,1.60,"Henson, John",3.00,11.60
+"Jimmy Butler","Chicago Bulls",2016-01-25,2015,6430,1610612741,400828556,1,10,32,0,"Turnaround Jump Shot","2PT Field Goal",17,"Miami Heat",177,31,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-31,2015,6430,1610612741,400828601,3,10,47,0,"Turnaround Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",96,3,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-01-11,2015,6430,1610612741,400828454,3,6,29,1,"Turnaround Jump Shot","2PT Field Goal",7,"Washington Wizards",25,72,2,4.30,"Gooden, Drew",2.80,10.70
+"Jimmy Butler","Chicago Bulls",2015-10-28,2015,6430,1610612741,400827893,4,6,08,1,"Turnaround Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-226,104,0,1.80,"Johnson, Joe",4.60,0.00
+"Jimmy Butler","Chicago Bulls",2015-12-12,2015,6430,1610612741,400828235,2,2,37,1,"Turnaround Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",-4,38,1,4.90,"Gee, Alonzo",2.30,11.30
+"Jimmy Butler","Chicago Bulls",2015-12-19,2015,6430,1610612741,400828287,3,8,36,0,"Turnaround Jump Shot","2PT Field Goal",7,"New York Knicks",-73,23,1,4.20,"Afflalo, Arron",2.30,12.60
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,1,4,58,1,"Turnaround Jump Shot","2PT Field Goal",10,"Phoenix Suns",-71,80,0,1.30,"Knight, Brandon",2.00,16.90
+"Jimmy Butler","Chicago Bulls",2016-01-28,2015,6430,1610612741,400828584,1,0,37,0,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-107,90,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2016-03-19,2015,6430,1610612741,400828921,4,3,53,0,"Turnaround Jump Shot","2PT Field Goal",16,"Utah Jazz",158,43,0,0.00,,0.00,0.00
+"Jimmy Butler","Chicago Bulls",2015-11-18,2015,6430,1610612741,400828061,3,2,05,0,"Turnaround Jump Shot","2PT Field Goal",14,"Phoenix Suns",146,7,1,4.10,"Bledsoe, Eric",0.90,10.50

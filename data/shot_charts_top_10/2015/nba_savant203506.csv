@@ -1,0 +1,1087 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,2,3,31,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.20,"Covington, Robert",5.30,20.70
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,2,0,44,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,"Bogut, Andrew",2.60,24.00
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,5,32,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.30,"McCallum, Ray",8.30,20.00
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,4,35,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.30,"Black, Tarik",3.30,21.60
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,2,3,35,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.20,"Harden, James",7.10,19.90
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,3,5,20,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.10,"Kelly, Ryan",6.00,19.00
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,9,10,0,"Alley Oop Layup shot","2PT Field Goal",1,"Charlotte Hornets",-11,15,0,0.00,"Henderson, Gerald",0.70,20.20
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,1,3,35,1,"Alley Oop Layup shot","2PT Field Goal",1,"Detroit Pistons",-9,17,0,0.10,"Caldwell-Pope, Kentavious",2.00,19.40
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,2,6,51,1,"Alley Oop Layup shot","2PT Field Goal",1,"Chicago Bulls",-16,9,0,0.30,"Rose, Derrick",3.20,12.50
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,9,22,1,"Alley Oop Layup shot","2PT Field Goal",0,"Phoenix Suns",1,3,0,0.10,"Len, Alex",3.60,5.70
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,3,06,0,"Alley Oop Layup shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.40,"LaVine, Zach",2.50,19.40
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,10,32,1,"Driving Bank shot","2PT Field Goal",5,"Indiana Pacers",37,36,3,2.90,"Stuckey, Rodney",1.90,13.10
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,2,7,31,0,"Driving Bank shot","2PT Field Goal",3,"Boston Celtics",23,25,20,16.20,"Zeller, Tyler",1.00,8.60
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,0,27,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.60,"Speights, Marreese",3.00,13.90
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,3,8,03,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,1.00,"Nurkic, Jusuf",5.40,20.50
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,7,28,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,2,3.60,"Chalmers, Mario",6.20,22.10
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,1,3,56,0,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,1,1.60,"Griffin, Blake",0.80,24.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,1,54,0,"Driving Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,2,1.60,"Duncan, Tim",3.10,4.50
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,1,4,13,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,6,4.70,"Kelly, Ryan",2.80,0.00
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,2,59,0,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,11,9.70,"Chalmers, Mario",2.00,12.20
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,2,4,21,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,9,7.40,"Nurkic, Jusuf",1.00,13.80
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,8,11,1,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,1,4.40,"Motiejunas, Donatas",3.80,21.30
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,1,9,10,1,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,12,9.50,"Irving, Kyrie",8.00,15.20
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,8,29,1,"Driving Dunk Shot","2PT Field Goal",1,"Sacramento Kings",7,9,4,3.90,"McCallum, Ray",3.50,20.90
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,3,15,1,"Driving Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.70,"Young, Thaddeus",5.50,17.40
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,1,5,32,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Indiana Pacers",12,17,6,5.70,"Allen, Lavoy",1.50,18.00
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,4,4,52,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",0,-13,10,7.50,"Webster, Martell",2.50,16.70
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,11,03,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Charlotte Hornets",4,9,3,2.50,"Zeller, Cody",2.10,10.30
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,1,5,00,0,"Driving Jump shot","2PT Field Goal",4,"Atlanta Hawks",-34,34,4,4.90,"Horford, Al",1.90,16.00
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,3,6,33,0,"Driving Jump shot","2PT Field Goal",4,"Atlanta Hawks",1,44,4,3.60,"Horford, Al",2.60,3.30
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,7,55,1,"Driving Jump shot","2PT Field Goal",7,"Charlotte Hornets",0,74,4,4.10,"Jefferson, Al",3.70,16.30
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,5,19,1,"Driving Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",-10,47,5,4.10,"Adams, Steven",2.00,14.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,4,6,18,1,"Driving Jump shot","2PT Field Goal",3,"Oklahoma City Thunder",23,20,1,1.80,"Collison, Nick",1.60,19.80
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,1,8,32,1,"Driving Jump shot","2PT Field Goal",2,"Miami Heat",0,26,2,2.70,"Bosh, Chris",2.30,20.70
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,7,33,0,"Driving Jump shot","2PT Field Goal",13,"Miami Heat",77,110,3,2.90,"Wade, Dwyane",2.20,14.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,1,4,40,0,"Driving Jump shot","2PT Field Goal",3,"Oklahoma City Thunder",32,15,7,7.50,"Waiters, Dion",2.70,16.70
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,4,0,25,0,"Driving Jump shot","2PT Field Goal",4,"Dallas Mavericks",23,33,2,2.30,"Rondo, Rajon",1.90,21.70
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,9,57,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-19,0,10,10.30,"Drummond, Andre",1.60,13.90
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,2,3,23,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,12,4,4.30,"Thompson, Tristan",0.80,10.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,1,9,24,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",12,25,6,6.20,"Bledsoe, Eric",2.20,8.10
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,3,9,23,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",20,12,5,3.30,"Wade, Dwyane",1.70,1.70
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,2,00,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",1,1,7,6.20,"Cousins, DeMarcus",1.40,3.50
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,4,2,00,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",10,4,5,7.10,"Butler, Jimmy",0.90,8.40
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,1,46,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",1,11,3,4.10,"Whiteside, Hassan",2.60,14.10
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,4,2,46,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",21,14,12,9.40,"Bosh, Chris",2.10,3.10
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,4,0,43,1,"Driving Layup Shot","2PT Field Goal",3,"Miami Heat",31,1,4,4.60,"Wade, Dwyane",1.70,3.00
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,2,6,00,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-2,15,2,2.90,"Deng, Luol",4.00,11.20
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,4,2,14,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",7,7,8,7.30,"Millsap, Paul",3.20,16.90
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,1,10,52,1,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",31,17,10,9.30,"Johnson, Amir",1.50,14.40
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,1,5,00,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,14,10,9.50,"Nurkic, Jusuf",0.60,7.90
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,3,5,58,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",24,9,10,10.10,"Noah, Joakim",1.20,9.00
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,2,0,27,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-8,6,8,7.30,"Arthur, Darrell",3.70,7.00
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,7,57,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",24,9,2,2.80,"Andersen, Chris",2.20,5.20
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,5,55,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",12,1,6,3.50,"Caldwell-Pope, Kentavious",2.70,13.00
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,4,7,04,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,0,10,11.10,"Faried, Kenneth",2.30,6.40
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,3,11,0,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",-4,3,11,9.70,"Gasol, Pau",3.50,15.10
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,1,8,23,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",21,12,6,5.20,"Nurkic, Jusuf",1.80,12.40
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,4,39,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",4,19,3,2.90,"Napier, Shabazz",7.60,21.90
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,3,10,57,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-11,25,10,9.80,"Allen, Tony",3.30,13.90
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,2,6,01,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",18,1,4,3.40,"Sanders, Larry",1.90,15.20
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,3,10,39,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,4,3,4.60,"Caldwell-Pope, Kentavious",0.60,10.40
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,5,1,03,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,7,14,12.60,"Sacre, Robert",1.60,11.00
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,3,4,46,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",29,9,7,6.90,"Randolph, Zach",0.70,9.60
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,3,0,35,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",21,3,4,3.40,"Randolph, Zach",0.40,3.10
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,2,28,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",10,26,5,4.30,"Wright, Brandan",2.30,14.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,4,1,27,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",13,9,5,4.70,"Harden, James",2.80,7.60
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,1,52,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",1,1,3,3.60,"Harden, James",2.10,21.00
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,5,06,0,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-4,9,13,10.90,"Kidd-Gilchrist, Michael",4.20,2.40
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,4,4,59,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",7,11,10,8.40,"Noel, Nerlens",3.30,16.40
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,1,11,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",7,15,13,12.00,"Knight, Brandon",1.40,12.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,5,35,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",15,11,3,3.70,"Beverley, Patrick",1.10,20.30
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,2,0,38,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",4,28,4,4.00,"Deng, Luol",4.30,15.40
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,3,31,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,17,5,4.80,"Tucker, PJ",2.20,11.60
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,5,20,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-18,-3,5,4.40,"Adams, Steven",2.50,16.80
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,9,11,1,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",18,12,11,7.90,"Monroe, Greg",2.80,4.80
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,6,30,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",6,12,6,5.20,"Monroe, Greg",3.20,5.10
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,1,15,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,12,12,10.20,"Len, Alex",2.10,13.10
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,11,11,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",7,3,14,11.00,"Thompson, Jason",2.10,12.90
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,3,6,33,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",1,-2,0,0.70,"Turner, Evan",2.10,19.60
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,10,28,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",6,19,12,10.60,"Drummond, Andre",2.60,12.10
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,2,5,24,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",-5,4,4,6.10,"Thompson, Jason",3.60,10.90
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,2,0,02,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",2,4,2,10.80,"Bradley, Avery",6.90,0.00
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,2,55,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",0,3,6,6.70,"Olynyk, Kelly",2.20,11.20
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,2,5,30,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,6,3,3.40,"Hibbert, Roy",1.20,13.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,2,0,10,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",9,15,7,11.90,"Middleton, Khris",2.50,6.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,3,20,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-8,22,0,0.80,"Smith, J.R.",2.40,15.00
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,5,56,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",6,7,4,3.60,"West, David",2.80,21.20
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,10,05,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-13,22,3,3.70,"Green, Draymond",1.00,5.60
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,6,21,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",17,14,3,2.80,"Thompson, Tristan",4.20,10.90
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,8,54,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-13,20,1,2.40,"Smith, J.R.",2.00,12.80
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,3,0,47,0,"Driving Layup Shot","2PT Field Goal",4,"Sacramento Kings",40,12,5,4.60,"Landry, Carl",0.90,11.80
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,1,36,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-15,17,2,2.30,"Irving, Kyrie",3.00,18.80
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,8,38,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",-15,0,7,6.10,"Aldrich, Cole",1.40,17.60
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,0,12,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",17,3,6,6.00,"Anthony, Carmelo",4.80,0.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,0,39,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-15,20,8,7.70,"Perkins, Kendrick",2.10,16.20
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,2,09,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",1,15,4,3.40,"Thompson, Tristan",2.30,15.00
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,5,45,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",20,17,9,8.80,"Green, Draymond",1.90,13.20
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,5,31,1,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",12,20,0,1.10,"Perkins, Kendrick",0.30,21.70
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,1,6,30,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-5,12,1,1.70,"Henderson, Gerald",3.70,14.90
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,1,5,10,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",9,17,5,4.20,"Jordan, DeAndre",2.20,2.20
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,3,7,28,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",28,4,6,6.20,"Bosh, Chris",0.20,15.50
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,5,32,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",17,15,6,6.70,"Curry, Stephen",1.60,16.70
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,5,09,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",10,14,3,3.80,"Plumlee, Mason",2.50,14.30
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,3,9,46,0,"Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",-11,30,9,7.50,"Favors, Derrick",3.10,15.40
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,4,52,1,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",4,4,5,5.50,"Ennis, James",2.00,19.20
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,4,4,29,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",7,17,2,2.20,"Horford, Al",3.00,12.30
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,1,8,08,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",15,20,2,2.80,"Aldrich, Cole",1.40,12.00
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,7,10,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-2,20,3,3.60,"Koufos, Kosta",0.80,16.10
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,7,19,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,6,2,1.70,"Adams, Steven",0.70,12.10
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,5,04,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-13,20,2,2.10,"Martin, Kenyon",1.40,19.70
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,1,9,20,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",17,-2,12,10.80,"Morris, Markieff",5.10,14.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,4,11,0,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",7,6,4,2.40,"Mayo, O.J.",2.00,12.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,9,37,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",28,4,4,3.20,"Adams, Steven",0.20,10.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,1,2,20,0,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",4,3,8,6.70,"Antic, Pero",1.60,16.90
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,4,5,10,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-10,1,17,13.70,"Green, Gerald",2.20,10.20
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,1,10,06,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-23,-2,3,3.30,"Adams, Steven",2.30,15.00
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,1,5,49,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",18,15,2,2.40,"Randolph, Zach",1.70,13.30
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,2,04,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,0,4,5.60,"Anderson, Ryan",2.70,11.90
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,2,2,27,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,0,1,1.60,"Antic, Pero",2.30,15.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,2,0,45,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",7,20,4,4.10,"Hardaway Jr., Tim",2.20,20.70
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,1,6,16,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",7,0,5,3.50,"Curry, Stephen",15.90,20.80
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,9,47,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",21,1,2,3.20,"Millsap, Paul",5.80,15.90
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,6,56,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",21,-5,9,7.20,"Baynes, Aron",2.80,15.50
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,3,7,41,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,-5,3,3.90,"Duncan, Tim",2.20,5.00
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,2,6,30,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,-5,4,3.40,"Splitter, Tiago",2.20,12.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,0,33,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-7,25,6,5.50,"Smith, Jason",2.10,16.90
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,2,0,00,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",28,7,1,1.50,"Larkin, Shane",1.50,0.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,2,1,09,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",12,22,17,14.20,"Aldrich, Cole",1.70,8.30
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,10,27,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",17,11,2,2.00,"Galloway, Langston",0.00,20.70
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,7,42,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,0,4,3.90,"Belinelli, Marco",0.40,7.30
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,4,0,15,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",18,9,2,2.50,"Horford, Al",1.70,0.00
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,8,46,0,"Driving Layup Shot","2PT Field Goal",4,"Houston Rockets",-41,6,5,4.90,"Dorsey, Joey",1.90,7.60
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,1,02,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",17,12,3,5.60,"Thomas, Lance",3.00,18.40
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,9,20,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",28,4,6,7.30,"Motiejunas, Donatas",1.40,16.80
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,1,0,01,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-2,15,10,8.40,"Walker, Henry",2.10,0.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,4,2,12,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,4,1,2.70,"Korver, Kyle",0.80,15.90
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,3,19,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-8,12,4,4.60,"McCollum, CJ",0.30,18.10
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,2,5,53,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",15,23,1,1.30,"Gibson, Taj",2.80,14.10
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,3,3,08,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,12,8,8.40,"Parker, Jabari",2.80,8.50
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,4,0,01,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",10,20,5,4.00,"Butler, Jimmy",0.90,0.00
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,4,6,19,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",28,6,4,4.30,"Collison, Darren",1.40,19.70
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,1,10,24,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",15,20,0,1.00,"Zeller, Tyler",1.00,12.90
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,1,58,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",17,19,14,12.40,"Datome, Gigi",1.60,8.00
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,4,1,34,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",13,17,7,6.00,"Bass, Brandon",1.10,0.60
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,6,15,0,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,1,0,1.20,"Lopez, Robin",1.90,14.70
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,2,0,22,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",0,15,3,3.10,"Crowder, Jae",6.60,20.80
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,4,51,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-11,22,2,2.90,"Olynyk, Kelly",3.10,13.00
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,3,45,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",1,15,3,2.20,"James, LeBron",1.60,6.60
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,7,44,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",4,12,1,2.30,"Lopez, Robin",0.50,12.80
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,4,7,44,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-23,17,7,7.20,"Jerebko, Jonas",1.90,9.60
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,1,6,36,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",10,11,2,2.90,"Turner, Evan",2.10,19.80
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,9,20,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",18,9,1,2.00,"Turner, Evan",0.50,20.10
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,1,0,02,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,3,6,5.80,"Dudley, Jared",1.70,0.00
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,6,05,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",13,3,3,3.00,"Burke, Trey",0.20,12.70
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,1,5,27,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,6,5,3.00,"Horford, Al",1.10,10.60
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,1,34,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",9,7,16,11.30,"Favors, Derrick",2.90,11.70
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,4,0,13,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,4,3.90,"Carroll, DeMarre",1.80,0.00
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,3,4,05,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-26,-10,5,4.10,"Favors, Derrick",0.00,9.80
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,2,30,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-18,0,6,6.30,"Young, Thaddeus",1.10,7.60
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,4,4,42,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",13,1,3,3.90,"Motiejunas, Donatas",3.40,10.80
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,4,1,36,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-13,0,8,6.40,"Booker, Trevor",0.10,6.90
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,1,0,44,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",28,-3,3,3.00,"Thompson, Hollis",2.20,12.10
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,2,1,31,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",24,12,5,5.60,"Martin, Kevin",2.70,9.30
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,4,1,12,0,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",1,9,0,0.00,"Thompson, Hollis",1.70,11.70
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,3,2,36,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-8,-2,1,3.60,"Griffin, Blake",8.60,21.60
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,4,26,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,4,8,6.20,"Tolliver, Anthony",2.60,10.70
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,8,44,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-15,15,2,3.20,"Williams, Deron",1.30,14.10
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,0,24,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-8,23,12,10.10,"Paul, Chris",0.90,14.00
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,3,4,58,0,"Driving Layup Shot","2PT Field Goal",0,"Miami Heat",4,7,5,6.10,"Andersen, Chris",3.40,4.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,2,1,35,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",6,15,10,8.30,"Martin, Kenyon",1.50,14.20
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,1,9,34,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-11,23,0,1.20,"Teague, Jeff",3.20,20.70
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,9,49,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,4,2,3.80,"Dorsey, Joey",4.90,16.70
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,3,6,36,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",9,0,13,10.90,"Humphries, Kris",2.70,13.40
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,0,00,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-2,11,3,3.50,"Maxiell, Jason",2.10,0.00
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,4,4,54,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-8,11,2,1.90,"Waiters, Dion",0.90,18.60
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,4,4,00,1,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",0,6,3,2.30,"Wall, John",2.00,5.20
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,4,0,16,0,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",23,4,14,12.90,"Beal, Bradley",2.50,11.00
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,1,10,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,11,13,12.60,"Biyombo, Bismack",1.60,7.80
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,4,2,34,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",21,-6,2,2.60,"Robinson, Nate",4.50,20.20
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,7,10,0,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-5,17,3,2.40,"Henson, John",2.90,15.00
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,2,36,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",29,4,10,8.40,"Gibson, Taj",2.70,2.40
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,2,3,35,0,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,6,8,6.90,"Thompson, Tristan",1.80,8.30
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,1,3,11,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",0,19,2,1.90,"Biyombo, Bismack",1.50,12.10
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,3,54,1,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",-2,6,3,4.30,"Valanciunas, Jonas",1.70,12.60
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,2,0,31,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",17,12,15,14.00,"Jefferson, Al",0.10,10.00
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,2,0,02,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",17,3,14,11.30,"Jefferson, Al",1.90,0.00
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,2,3,06,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",7,20,3,3.30,"Stephenson, Lance",3.10,21.30
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,1,0,03,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",20,9,5,12.40,"Bledsoe, Eric",1.70,1.60
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,1,4,46,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,4,12,10.20,"Love, Kevin",3.70,13.10
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,4,17,1,"Driving Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,3,3.20,"Gordon, Eric",1.20,12.70
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,4,49,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",9,17,4,5.50,"Asik, Omer",2.30,12.50
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,1,11,02,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-5,9,0,1.00,"Johnson, Joe",1.50,21.10
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,1,10,41,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-15,4,2,3.30,"Len, Alex",2.20,13.70
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,2,3,54,0,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-2,9,2,2.10,"Jack, Jarrett",0.40,8.00
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,11,24,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-7,12,17,12.80,"Varejao, Anderson",3.20,10.70
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,6,16,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",26,-6,4,4.60,"Asik, Omer",0.90,12.80
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,0,00,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",15,4,10,8.20,"Whiteside, Hassan",2.30,0.00
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,9,56,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",15,15,4,4.20,"Garnett, Kevin",3.00,20.80
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,9,01,1,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-23,20,6,5.10,"Karasev, Sergey",7.10,17.30
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,3,08,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",18,15,21,16.50,"Plumlee, Mason",1.20,6.90
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,3,5,21,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-4,22,3,3.80,"Favors, Derrick",2.00,19.90
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,3,09,1,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",0,4,4,2.90,"Maxiell, Jason",1.30,15.50
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,1,35,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",0,11,10,7.50,"Maxiell, Jason",2.80,15.70
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,4,36,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",13,0,5,4.60,"Morris, Markieff",1.60,13.70
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,4,5,48,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-23,9,15,10.80,"Whiteside, Hassan",1.90,12.90
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,6,58,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-15,-5,5,5.10,"Batum, Nicolas",1.70,12.50
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,10,03,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-7,7,4,5.00,"Love, Kevin",5.40,4.50
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,2,53,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-16,-10,2,1.80,"Batum, Nicolas",1.30,12.20
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,8,35,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",12,25,6,6.60,"Amundson, Lou",1.90,10.10
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,1,11,24,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,9,3,3.80,"Nowitzki, Dirk",2.50,9.10
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,3,8,00,0,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",34,20,3,3.70,"Fields, Landry",1.80,2.60
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,8,04,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",6,9,8,6.60,"Henson, John",1.70,0.00
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,3,5,38,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,-10,3,6.30,"Kaman, Chris",0.60,13.60
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,4,7,08,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-5,-2,2,2.10,"Thompson, Tristan",1.80,18.40
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,5,04,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",23,1,2,2.30,"Aldrich, Cole",2.50,15.10
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,3,10,50,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",2,0,1,2.80,"Batum, Nicolas",1.90,21.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,9,27,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,9,7,5.50,"Smith, Jason",2.20,7.80
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,11,29,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",13,3,2,2.50,"Whiteside, Hassan",2.00,12.20
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,11,34,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",2,20,5,5.10,"Deng, Luol",0.40,1.90
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,3,8,13,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",-7,-3,2,2.50,"Faried, Kenneth",2.00,13.80
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,8,37,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",23,12,11,10.70,"Green, Draymond",2.30,4.30
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,3,4,48,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Phoenix Suns",-21,-5,0,2.60,"Bledsoe, Eric",1.70,11.60
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,1,8,21,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",-10,11,10,8.40,"Favors, Derrick",3.20,16.10
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,2,0,33,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-15,23,7,6.50,"Stephenson, Lance",2.20,14.10
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,4,12,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",-7,14,6,8.60,"Turner, Evan",1.70,5.70
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,1,8,00,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",12,9,2,2.10,"Ellington, Wayne",1.30,0.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,1,10,14,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,-6,7,5.80,"Roberson, Andre",3.80,18.00
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,8,55,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",24,17,10,9.40,"Jordan, DeAndre",0.70,14.70
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,4,1,22,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Miami Heat",0,12,2,2.40,"Williams, Shawne",4.50,17.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,3,9,50,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",-2,9,4,4.10,"Snell, Tony",2.50,17.90
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,10,40,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,1,3,3.10,"Motiejunas, Donatas",1.30,8.90
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,4,46,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",4,0,6,5.70,"Varejao, Anderson",1.40,8.20
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,2,4,10,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-15,4,9,7.60,"Noel, Nerlens",2.70,16.10
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,1,3,08,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-10,12,15,13.00,"Thompson, Tristan",2.10,10.40
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,5,17,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Denver Nuggets",7,1,9,10.10,"Hickson, JJ",2.10,14.30
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,1,5,19,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Brooklyn Nets",17,11,2,2.20,"Lopez, Brook",0.60,9.20
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,4,2,15,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",-5,0,13,12.20,"Gasol, Pau",3.70,6.40
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,1,21,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-21,15,6,5.80,"Allen, Tony",2.70,18.20
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,0,35,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,15,18,15.30,"Thompson, Tristan",2.90,9.50
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,3,9,49,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",-8,11,2,2.10,"McLemore, Ben",3.40,15.90
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,8,24,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-5,17,0,0.80,"Evans, Tyreke",5.10,19.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,2,3,00,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-4,15,2,2.50,"Butler, Jimmy",0.90,20.20
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,4,40,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",4,11,2,3.50,"Anthony, Joel",1.60,18.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,3,10,19,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",7,11,1,1.40,"Snell, Tony",2.90,16.20
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,0,31,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-8,-3,6,7.10,"Davis, Anthony",0.50,7.00
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,9,20,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-21,-2,3,4.00,"Young, Thaddeus",3.50,13.20
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,7,58,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",24,0,9,7.80,"Sacre, Robert",1.60,16.60
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,2,2,19,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Washington Wizards",15,0,1,1.90,"Gortat, Marcin",0.80,2.10
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,5,3,14,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-4,6,8,7.10,"Sacre, Robert",3.70,8.00
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,4,6,08,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",-27,6,9,8.60,"Hansbrough, Tyler",2.20,14.50
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,8,13,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",2,14,5,5.40,"Faried, Kenneth",0.40,16.90
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,3,34,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-11,6,9,8.40,"Love, Kevin",1.80,15.80
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,4,17,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",18,14,1,2.80,"Butler, Rasual",3.30,11.50
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,4,23,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Dallas Mavericks",15,15,2,3.20,"Chandler, Tyson",0.70,16.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,2,4,44,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-15,0,3,3.80,"Millsap, Paul",2.60,13.50
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,3,10,36,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",15,15,4,3.10,"Gasol, Marc",2.40,16.00
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,3,7,16,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,7,2,4.50,"Henderson, Gerald",1.60,5.70
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,1,20,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-7,7,2,3.20,"Stoudemire, Amar'e",3.40,17.10
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,4,0,37,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,1,2.40,"Ariza, Trevor",4.80,21.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,2,3,39,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,7,5.10,"Bayless, Jerryd",3.50,19.00
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,3,6,42,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,1.00,"Miller, Mike",3.00,21.00
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,4,5,35,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,3,5.40,"Patterson, Patrick",4.50,6.10
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,3,4,10,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,6,5.60,"Green, Draymond",2.20,6.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,0,02,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,10,7.50,"Dellavedova, Matthew",0.80,0.00
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,1,07,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.80,"Young, Nick",2.70,9.80
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,6,24,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.60,"Waiters, Dion",2.00,20.60
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,5,50,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,1,2.50,"Paul, Chris",11.70,21.80
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,3,8,35,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,1.00,"Gasol, Marc",8.30,10.00
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,3,8,13,0,"Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,0.60,"Amundson, Lou",1.30,11.10
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,2,1,48,1,"Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.90,"Williams, Marvin",8.80,21.30
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,4,6,48,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,4,3.90,"Sims, Henry",4.10,22.60
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,3,5,49,1,"Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,0.70,"Larkin, Shane",3.70,14.30
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,5,06,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.20,"Turner, Evan",3.40,21.40
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,4,7,01,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.70,"Jones, Terrence",5.60,14.00
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,2,27,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,3.40,"Stuckey, Rodney",7.00,21.80
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,1,3,40,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,2,1.90,"Olynyk, Kelly",11.50,21.30
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,1,6,17,0,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.50,"Ibaka, Serge",3.20,21.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,3,7,55,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,1,1.20,"Butler, Jimmy",2.80,21.60
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,7,00,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,1,1.80,"Green, Jeff",47.40,21.30
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,2,0,12,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Brooklyn Nets",103,165,1,2.90,"Bogdanovic, Bojan",3.80,7.50
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,2,8,17,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",77,131,5,4.30,"Bogdanovic, Bojan",3.30,7.40
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,0,35,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Washington Wizards",-24,129,7,5.50,Nene,5.70,18.40
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,8,43,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Denver Nuggets",-68,52,8,6.60,"Faried, Kenneth",3.90,17.80
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,0,01,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Boston Celtics",53,66,23,21.00,"Smart, Marcus",3.70,0.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,0,02,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,17,12,12.50,"Perkins, Kendrick",5.50,0.00
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,1,11,03,0,"Floating Jump shot","2PT Field Goal",4,"Boston Celtics",-4,44,2,3.70,"Sullinger, Jared",3.10,12.70
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,2,2,14,1,"Floating Jump shot","2PT Field Goal",13,"Charlotte Hornets",-10,138,6,5.50,"Henderson, Gerald",3.20,14.80
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,1,1,03,0,"Floating Jump shot","2PT Field Goal",4,"Atlanta Hawks",24,37,2,2.50,"Teague, Jeff",1.40,12.30
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,4,1,05,1,"Floating Jump shot","2PT Field Goal",12,"Chicago Bulls",51,119,4,6.30,"Butler, Jimmy",1.30,7.30
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,3,0,41,0,"Floating Jump shot","2PT Field Goal",7,"Brooklyn Nets",51,52,4,3.80,"Bogdanovic, Bojan",3.20,15.00
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,3,5,40,1,"Floating Jump shot","2PT Field Goal",10,"Sacramento Kings",10,104,3,2.60,"Hollins, Ryan",4.00,13.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,10,27,1,"Floating Jump shot","2PT Field Goal",5,"Houston Rockets",0,56,2,1.80,"Ariza, Trevor",1.90,9.00
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,10,44,1,"Floating Jump shot","2PT Field Goal",12,"New Orleans Pelicans",53,112,2,2.10,"Gordon, Eric",3.10,9.70
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,4,5,37,0,"Floating Jump shot","2PT Field Goal",8,"Denver Nuggets",42,77,4,5.10,"Afflalo, Arron",3.70,12.70
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,2,34,0,"Floating Jump shot","2PT Field Goal",4,"Cleveland Cavaliers",1,42,12,8.30,"Dellavedova, Matthew",3.60,15.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,0,13,0,"Floating Jump shot","2PT Field Goal",8,"Atlanta Hawks",13,85,21,16.20,"Scott, Mike",3.00,7.20
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,1,8,18,1,"Floating Jump shot","2PT Field Goal",7,"Memphis Grizzlies",-8,74,3,2.90,"Gasol, Marc",4.00,16.00
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,2,3,25,0,"Floating Jump shot","2PT Field Goal",9,"Boston Celtics",-71,61,4,3.40,"Nelson, Jameer",1.40,6.20
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,1,9,25,0,"Floating Jump shot","2PT Field Goal",9,"Boston Celtics",-34,85,7,7.60,"Smart, Marcus",2.70,17.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,1,8,36,1,"Floating Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",6,83,1,1.30,"Waiters, Dion",1.70,8.20
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,1,6,00,1,"Floating Jump shot","2PT Field Goal",14,"Indiana Pacers",97,108,10,8.60,"Sloan, Donald",2.90,15.50
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,1,1,30,1,"Floating Jump shot","2PT Field Goal",6,"Denver Nuggets",23,66,3,2.30,"Hickson, JJ",4.20,2.60
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,3,5,04,1,"Floating Jump shot","2PT Field Goal",12,"Washington Wizards",114,42,9,7.90,"Wall, John",3.40,17.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,10,07,0,"Floating Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",31,112,4,5.70,"Mozgov, Timofey",3.60,8.80
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,3,4,25,0,"Floating Jump shot","2PT Field Goal",9,"Boston Celtics",53,83,6,7.70,"Smart, Marcus",2.10,10.00
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,1,4,35,0,"Floating Jump shot","2PT Field Goal",8,"Indiana Pacers",6,89,3,4.80,"Hibbert, Roy",3.80,8.50
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,2,6,29,0,"Floating Jump shot","2PT Field Goal",4,"Boston Celtics",-19,39,6,5.10,"Bass, Brandon",1.70,18.60
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,3,11,07,0,"Floating Jump shot","2PT Field Goal",14,"Chicago Bulls",-106,104,1,1.80,"Snell, Tony",2.60,13.60
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,4,5,12,1,"Floating Jump shot","2PT Field Goal",11,"Golden State Warriors",105,36,1,1.50,"Thompson, Klay",4.30,4.50
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,7,57,1,"Floating Jump shot","2PT Field Goal",16,"New Orleans Pelicans",-120,108,3,2.30,"Cunningham, Dante",4.10,14.10
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,2,0,00,0,"Floating Jump shot","2PT Field Goal",8,"Cleveland Cavaliers",-7,85,4,2.90,"James, LeBron",9.30,0.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,4,46,0,"Hook Shot","2PT Field Goal",4,"Oklahoma City Thunder",-5,41,0,1.30,"Perkins, Kendrick",3.10,10.50
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,4,2,40,0,"Hook Shot","2PT Field Goal",6,"Boston Celtics",40,48,1,1.80,"Zeller, Tyler",0.80,10.90
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,8,07,1,"Jump Bank Shot","2PT Field Goal",5,"Houston Rockets",34,37,1,1.70,"Motiejunas, Donatas",1.20,22.80
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,3,1,50,0,"Jump Bank Shot","2PT Field Goal",15,"Atlanta Hawks",143,56,7,6.90,"Carroll, DeMarre",2.10,10.30
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,8,00,1,"Jump Bank Shot","2PT Field Goal",11,"Indiana Pacers",113,34,2,1.60,"Hill, Solomon",1.80,8.90
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,1,3,22,0,"Jump Bank Shot","2PT Field Goal",7,"Toronto Raptors",61,48,12,11.20,"Johnson, James",1.90,13.00
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,2,1,06,1,"Jump Bank Shot","2PT Field Goal",14,"San Antonio Spurs",-123,74,1,1.70,"Belinelli, Marco",1.70,12.20
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,1,5,51,1,"Jump Bank Shot","2PT Field Goal",9,"San Antonio Spurs",99,12,1,1.40,"Belinelli, Marco",1.70,14.00
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,2,5,53,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",114,224,0,0.80,"Hill, Solomon",6.80,9.70
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,0,03,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-174,201,1,2.10,"Thomas, Lance",2.30,0.00
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,1,0,42,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-54,244,0,1.00,"Knight, Brandon",5.90,11.70
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,3,9,27,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",222,111,0,0.80,"Parker, Jabari",6.30,10.10
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,7,59,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",118,15,4,8.10,"Seraphin, Kevin",0.20,7.90
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,7,55,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-5,195,11,10.00,"Miller, Andre",8.30,14.40
+"Victor Oladipo","Orlando Magic",2014-11-17,2014,2527963,1610612753,400578442,3,6,23,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",231,15,0,0.80,"Jennings, Brandon",4.50,6.30
+"Victor Oladipo","Orlando Magic",2014-11-17,2014,2527963,1610612753,400578442,3,1,28,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",168,74,1,3.20,"Caldwell-Pope, Kentavious",1.70,5.70
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,7,29,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-234,37,0,0.80,"Redick, JJ",7.30,8.10
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,1,25,1,"Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",24,82,14,11.60,"Griffin, Blake",4.90,11.90
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,0,00,0,"Jump Shot","3PT Field Goal",46,"Los Angeles Clippers",69,455,4,2.50,"Paul, Chris",2.60,0.00
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,4,23,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",138,93,6,6.90,"Walker, Kemba",4.50,4.50
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,10,45,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",222,115,0,1.90,"Chalmers, Mario",3.20,10.80
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,3,10,38,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-235,1,0,0.90,"Chalmers, Mario",5.80,10.50
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,4,3,09,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-234,1,0,0.90,"Waiters, Dion",3.90,10.20
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,4,1,53,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",159,211,0,1.10,"Sloan, Donald",5.40,2.10
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,1,9,49,1,"Jump Shot","2PT Field Goal",11,"Phoenix Suns",118,0,10,10.50,"Dragic, Goran",5.10,14.40
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,1,2,02,1,"Jump Shot","2PT Field Goal",10,"Phoenix Suns",103,6,0,0.60,"Len, Alex",3.90,4.50
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,1,3,31,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-183,107,3,4.10,"McLemore, Ben",5.40,6.00
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,4,2,17,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",141,116,12,11.00,"Collison, Darren",9.70,11.10
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,6,37,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",0,198,4,4.20,"Kanter, Enes",2.50,20.00
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,0,10,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",168,176,23,19.20,"Burke, Trey",5.30,4.70
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,3,4,42,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-114,233,0,1.10,"Barnes, Matt",7.20,13.20
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,1,9,12,1,"Jump Shot","2PT Field Goal",22,"Washington Wizards",-164,148,10,9.80,"Humphries, Kris",5.30,12.30
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,3,10,25,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-163,205,1,3.80,"Gortat, Marcin",5.90,7.90
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,3,9,40,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",-128,242,2,2.10,"Wall, John",4.20,1.20
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,4,6,26,1,"Jump Shot","2PT Field Goal",14,"Washington Wizards",47,137,7,7.20,Nene,3.70,6.90
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,1,4,48,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-232,-10,0,0.80,"Teague, Jeff",9.80,11.20
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,2,6,30,1,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-193,192,0,0.80,"Bazemore, Kent",5.50,14.00
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,4,2,45,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-4,244,0,0.80,"Teague, Jeff",4.40,14.60
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,2,3,06,1,"Jump Shot","2PT Field Goal",10,"Boston Celtics",-89,56,5,5.80,"Rondo, Rajon",2.50,16.20
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,3,9,47,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",-84,129,2,3.00,"Sullinger, Jared",6.80,9.10
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,4,1,59,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-180,184,0,1.00,"Bradley, Avery",4.10,3.40
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,1,6,10,1,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-226,3,0,0.70,"Mbah a Moute, Luc",10.00,10.20
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,3,4,54,1,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",125,160,0,1.00,"Noel, Nerlens",4.70,13.70
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,2,5,15,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-187,173,1,1.40,"Smart, Marcus",5.60,5.00
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,1,26,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-54,254,0,1.00,"Meeks, Jodie",8.40,7.10
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,1,8,02,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-204,138,0,0.90,"Wade, Dwyane",5.20,11.40
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,2,5,26,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",6,246,5,5.20,"Cole, Norris",5.60,16.30
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,2,0,24,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-147,197,12,10.60,"Chalmers, Mario",5.20,13.50
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,2,1,54,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-232,31,0,0.70,"Jack, Jarrett",4.10,6.50
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,2,1,18,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-237,47,0,1.40,"Plumlee, Mason",6.10,6.90
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,4,3,22,1,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",226,14,0,0.80,"Walker, Kemba",4.10,16.50
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,4,0,54,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",143,194,0,0.80,"Kidd-Gilchrist, Michael",4.40,22.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,1,12,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",228,1,0,0.80,"Knight, Brandon",4.90,7.60
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,1,6,51,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",2,261,0,0.80,"Hibbert, Roy",11.20,16.60
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,8,10,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",23,37,8,6.60,"Aldrich, Cole",4.10,15.00
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,4,7,12,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-68,249,4,7.10,"Pondexter, Quincy",4.90,17.70
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,8,59,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",241,15,0,0.90,"McLemore, Ben",4.90,4.40
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,4,5,02,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-7,266,3,3.20,"Vasquez, Greivis",3.30,7.70
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,1,6,03,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-106,230,0,0.90,"Hardaway Jr., Tim",8.50,19.90
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,11,19,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",92,236,0,1.00,"Roberson, Andre",6.30,5.50
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,9,47,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-97,238,0,0.70,"Waiters, Dion",7.40,16.90
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,10,31,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-139,201,3,3.60,"Durant, Kevin",6.40,7.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,4,25,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-188,167,8,8.70,"Westbrook, Russell",5.40,12.90
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,9,16,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-82,137,4,3.00,"Roberson, Andre",4.60,15.90
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,4,10,47,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-82,239,0,0.90,"Jackson, Reggie",7.20,2.50
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,3,7,47,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-231,0,0,0.80,"Roberson, Andre",7.40,5.00
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,1,10,58,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",230,-6,0,0.80,"Dragic, Goran",3.90,8.60
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,3,31,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",26,42,5,5.80,"Smith, Jason",3.10,9.20
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,3,17,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",106,230,0,0.80,"Thomas, Lance",6.00,13.70
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,8,06,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-11,258,0,0.80,"Hardaway Jr., Tim",7.70,9.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,0,09,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-229,47,0,0.80,"Galloway, Langston",5.00,0.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,2,5,26,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-232,11,0,0.90,"Rose, Derrick",3.70,3.60
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,1,3,53,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",31,255,0,0.80,"Dragic, Goran",4.60,9.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,3,6,27,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",226,88,1,2.30,"Ariza, Trevor",11.20,10.30
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,11,18,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",70,194,1,1.60,"Hardaway Jr., Tim",4.40,5.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,9,11,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",1,263,0,0.90,"Hardaway Jr., Tim",7.30,21.10
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,5,27,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",78,172,1,3.10,"Hardaway Jr., Tim",4.60,16.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,1,11,19,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-127,138,1,2.60,"Ross, Terrence",4.30,4.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,2,07,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-2,247,0,0.80,"Larkin, Shane",4.30,9.60
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,2,10,53,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",114,165,1,3.20,"Larkin, Shane",2.50,12.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,2,9,48,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",83,244,0,0.80,"Larkin, Shane",4.40,1.30
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,2,29,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",203,153,6,4.80,"Bass, Brandon",6.60,14.60
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,1,2,09,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-158,189,0,0.70,"Smart, Marcus",4.80,2.40
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,6,59,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",9,257,0,0.90,"Turner, Evan",7.60,19.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,4,16,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",29,252,0,1.40,"Snell, Tony",17.10,21.30
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,4,8,35,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",15,198,6,5.90,"Seraphin, Kevin",5.60,18.40
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,11,16,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",83,239,0,0.80,"Hardaway Jr., Tim",5.60,10.20
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,4,5,40,1,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-57,143,3,3.10,"Webster, Martell",8.90,11.00
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,3,7,49,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",34,23,5,4.30,Nene,2.00,9.60
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,2,0,00,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-98,175,9,11.20,"Temple, Garrett",3.80,0.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,6,18,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",196,44,11,9.80,"Smith, Jason",6.90,13.60
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,1,10,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",43,255,0,0.70,"Shumpert, Iman",7.60,15.10
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,4,9,05,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-160,206,0,0.90,"Frazier, Tim",4.80,2.40
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,1,1,18,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",89,157,4,3.30,"Frazier, Tim",4.30,20.20
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,3,7,36,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-10,263,0,0.80,"Sims, Henry",4.90,7.40
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,3,00,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",58,184,1,1.70,"Wall, John",4.40,11.00
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,3,4,29,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",73,255,10,9.20,Nene,4.60,14.00
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,1,7,39,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",50,42,2,2.90,"James, LeBron",1.50,8.40
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,4,0,00,0,"Jump Shot","2PT Field Goal",22,"Washington Wizards",125,184,15,12.30,"Beal, Bradley",3.80,0.00
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,3,9,28,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-111,159,0,0.90,"Galloway, Langston",3.60,10.40
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,3,7,50,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",20,206,2,1.90,"Burke, Trey",3.80,4.70
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,2,4,31,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",173,17,2,2.80,"Sessions, Ramon",3.00,2.00
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,4,52,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",78,170,9,9.00,"Dellavedova, Matthew",4.90,14.20
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,1,19,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",239,47,0,0.90,"Wall, John",6.20,7.40
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,7,59,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-232,3,0,1.10,"Augustin, D.J.",7.30,12.00
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,3,7,11,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",133,60,0,1.20,"Barnes, Harrison",5.90,24.00
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,1,4,55,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",144,214,0,0.80,"Barnes, Matt",6.50,14.20
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,1,3,56,0,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-15,142,5,5.50,"Wall, John",4.50,8.50
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,4,5,50,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",4,198,13,11.00,Nene,4.60,5.20
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,0,02,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",212,146,0,1.00,"Anthony, Carmelo",14.10,0.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,0,39,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-229,-25,0,0.50,"Galloway, Langston",5.60,23.60
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,4,2,05,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",195,0,1,3.00,"Henson, John",5.40,9.00
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,4,11,29,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-7,34,3,4.70,"Anthony, Joel",3.50,11.20
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,4,6,23,0,"Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-62,91,9,10.40,"Teague, Jeff",3.10,14.00
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,2,3,53,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",159,3,11,11.40,"Love, Kevin",5.00,2.50
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,2,1,27,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-57,250,3,3.30,"Temple, Garrett",5.10,6.60
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,8,08,0,"Jump Shot","2PT Field Goal",23,"Cleveland Cavaliers",106,211,17,11.50,"Irving, Kyrie",4.30,12.40
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,2,3,46,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-141,61,5,4.40,"Galloway, Langston",3.40,16.00
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,7,36,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",108,238,0,0.80,"Irving, Kyrie",8.20,9.90
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,4,4,50,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-157,220,0,1.50,"Thompson, Hollis",5.00,3.30
+"Victor Oladipo","Orlando Magic",2014-12-29,2014,2527963,1610612753,400578754,1,5,20,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",182,175,0,0.80,"Wade, Dwyane",4.60,4.30
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,1,7,53,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",119,178,3,3.50,"Canaan, Isaiah",5.10,5.80
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,3,9,24,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",196,167,0,0.80,"Temple, Garrett",6.70,14.40
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,0,20,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",116,216,0,0.90,"Butler, Caron",8.00,17.10
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,3,10,27,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-127,146,4,3.60,"Temple, Garrett",3.10,6.30
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,4,59,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",34,63,1,1.00,"Caldwell-Pope, Kentavious",2.30,12.20
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,3,2,58,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",75,238,0,0.80,"Brown, Shannon",8.10,14.80
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,1,5,03,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-232,15,10,9.10,"Bogut, Andrew",4.00,4.80
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,4,0,13,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",154,194,0,0.80,"Porter, Otto",5.20,0.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,11,43,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-51,186,0,1.30,"Waiters, Dion",3.10,9.70
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,2,0,03,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-116,96,3,13.10,"Calderon, Jose",5.10,4.80
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,3,8,06,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-226,94,0,1.00,"Dragic, Goran",10.40,8.90
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,1,43,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-23,246,0,0.80,"Westbrook, Russell",6.30,18.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,2,5,20,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-220,110,0,1.00,"Westbrook, Russell",12.20,22.50
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,1,10,15,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",204,167,0,0.80,"Dellavedova, Matthew",7.20,9.80
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,1,6,35,0,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",6,211,0,1.40,"Dellavedova, Matthew",2.50,16.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,1,5,13,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-190,53,5,5.50,"Ross, Terrence",2.70,1.00
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,4,0,10,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",135,121,6,6.10,"Turner, Evan",3.80,0.00
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,4,2,56,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-190,-14,4,4.90,"Favors, Derrick",2.10,2.60
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,3,4,46,0,"Jump Shot","3PT Field Goal",29,"Charlotte Hornets",174,242,1,2.30,"Henderson, Gerald",5.60,3.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,4,2,36,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",173,194,0,0.70,"Snell, Tony",6.30,10.30
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,2,3,06,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-139,205,1,3.90,"Napier, Shabazz",3.70,12.80
+"Victor Oladipo","Orlando Magic",2014-11-17,2014,2527963,1610612753,400578442,3,4,06,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-153,60,5,4.60,"Jennings, Brandon",5.50,6.00
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,2,6,28,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-164,213,1,1.50,"Henderson, Gerald",6.40,9.90
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,2,3,25,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-49,200,9,7.70,"Paul, Chris",4.20,8.70
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,11,21,0,"Jump Shot","2PT Field Goal",23,"Cleveland Cavaliers",-160,166,2,2.10,"Smith, J.R.",4.90,14.90
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,4,4,14,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",75,142,8,7.30,"Green, Gerald",2.60,12.80
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,4,5,13,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-232,19,0,0.60,"Nelson, Jameer",2.10,1.90
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,3,5,50,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",70,244,0,0.80,"Carter-Williams, Michael",7.20,12.00
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,10,19,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",143,151,6,5.10,"Bradley, Avery",3.00,16.10
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,2,4,13,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-112,227,0,0.60,"Turner, Evan",9.40,12.90
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,4,4,19,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",73,118,3,2.80,"Caldwell-Pope, Kentavious",7.40,16.30
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,7,43,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",-78,-10,7,6.70,"Larkin, Shane",2.50,15.70
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,2,1,01,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-4,244,0,0.80,"Ellington, Wayne",6.60,9.60
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,1,5,48,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",230,20,0,1.10,"Stuckey, Rodney",6.80,13.70
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,2,2,37,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",23,96,11,10.70,"Bradley, Avery",0.80,14.20
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,2,0,58,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",102,255,0,1.00,"Fields, Landry",9.20,1.80
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,4,1,08,0,"Jump Shot","2PT Field Goal",3,"Boston Celtics",31,12,0,1.10,"Bass, Brandon",1.20,22.70
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,2,2,00,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-223,127,17,15.00,"Walker, Kemba",4.20,9.30
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,1,9,14,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-235,-8,0,0.90,"Wall, John",4.20,10.20
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,3,10,47,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-168,175,0,1.00,"Sampson, JaKarr",7.00,8.90
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,3,7,55,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-13,173,1,3.10,"Redick, JJ",4.60,10.50
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,2,37,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",9,255,0,0.90,"Williams, Marvin",6.70,14.50
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,9,42,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-111,233,0,0.90,"Knight, Brandon",10.90,16.40
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,1,2,38,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",234,47,0,1.80,"McLemore, Ben",2.40,11.00
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,4,8,21,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",110,132,9,8.50,"Smart, Marcus",3.40,14.50
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,4,0,22,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-235,3,0,0.60,"Bradley, Avery",7.00,23.20
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,5,21,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",184,154,7,7.00,"Caldwell-Pope, Kentavious",2.70,0.70
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,2,5,50,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",146,104,3,3.70,"Watson, CJ",4.50,12.80
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,4,2,17,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",7,260,6,5.90,"Caldwell-Pope, Kentavious",5.00,16.80
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,4,5,36,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",133,135,3,4.00,"Hill, George",4.70,12.20
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,2,09,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",97,242,0,0.70,"Bradley, Avery",4.30,6.40
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,4,6,21,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-235,1,0,0.90,"Bradley, Avery",4.90,7.70
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,1,5,33,0,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",73,129,12,9.90,"Lowry, Kyle",1.60,15.90
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,4,6,04,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",80,194,2,3.10,"Burks, Alec",7.30,19.30
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,1,6,55,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-193,154,0,0.80,"Galloway, Langston",6.30,8.50
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,3,2,41,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-142,217,0,0.80,"Turner, Evan",7.00,15.10
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,2,17,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-73,175,14,12.10,"Tolliver, Anthony",4.60,12.10
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,1,39,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",23,71,1,1.80,"Jennings, Brandon",4.00,12.40
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,1,10,00,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",108,143,9,9.60,"Bradley, Avery",7.00,13.90
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,4,4,50,0,"Jump Shot","2PT Field Goal",13,"Boston Celtics",133,1,10,9.80,"Wright, Brandan",2.30,15.10
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,2,4,42,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",37,239,0,0.70,"Westbrook, Russell",5.40,6.10
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,2,5,18,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-54,261,3,5.20,"Richardson, Jason",4.60,12.00
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,3,10,45,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-60,53,10,8.80,"Walker, Kemba",4.00,15.20
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,3,4,34,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-11,250,0,0.80,"Caldwell-Pope, Kentavious",5.50,12.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,3,6,35,0,"Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",-24,48,8,8.20,"Henson, John",2.40,6.00
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,1,10,41,0,"Jump Shot","2PT Field Goal",14,"Washington Wizards",122,86,9,7.80,"Wall, John",3.90,15.50
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,1,5,13,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-213,123,0,0.80,"Pierce, Paul",5.00,7.40
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,2,2,02,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",36,168,13,12.20,"Collison, Darren",5.10,11.80
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,4,6,11,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",198,160,0,0.70,"Hill, Solomon",4.60,10.30
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,1,0,29,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-35,260,6,6.20,"Butler, Rasual",6.30,16.20
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,1,6,50,0,"Jump Shot","2PT Field Goal",3,"Sacramento Kings",28,15,14,13.60,"Collison, Darren",1.40,8.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,6,41,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",138,181,2,2.70,"Noah, Joakim",4.70,6.50
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,2,38,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-120,224,0,0.90,"Walker, Kemba",4.70,9.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,4,29,0,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",-11,113,12,9.80,"Rose, Derrick",3.80,13.10
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,4,2,51,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-242,0,0,0.70,"McDaniels, KJ",6.10,17.10
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,3,10,47,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-128,146,8,7.60,"Wall, John",5.50,17.00
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,4,1,39,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",147,200,3,2.80,"Sessions, Ramon",1.90,6.30
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,1,6,43,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-172,176,0,0.60,"Roberson, Andre",2.30,0.70
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,3,9,31,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",24,249,0,0.80,"Hollins, Ryan",7.90,7.20
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,5,30,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-62,178,12,10.20,"Burke, Trey",2.90,13.90
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,2,0,43,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",223,126,0,1.20,"Galloway, Langston",10.20,16.00
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,4,5,41,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",69,124,9,6.50,"Teague, Jeff",2.10,17.00
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,1,3,50,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-68,190,2,3.90,"Neal, Gary",4.90,5.60
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,1,5,26,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-149,89,3,3.90,"Teague, Jeff",3.10,7.00
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,3,6,01,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",1,157,2,3.00,"West, David",0.40,1.40
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,4,7,31,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",81,255,7,10.70,"Bayless, Jerryd",8.70,8.00
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,2,4,27,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",102,244,10,8.00,"Lowry, Kyle",6.20,15.30
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,1,1,41,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-147,214,9,7.90,"Wall, John",8.90,15.90
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,2,10,47,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",200,184,0,1.10,"Butler, Rasual",6.40,13.00
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,2,5,30,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",-41,22,9,7.70,"Bargnani, Andrea",0.20,17.00
+"Victor Oladipo","Orlando Magic",2014-11-17,2014,2527963,1610612753,400578442,4,1,10,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-144,93,20,18.20,"Monroe, Greg",0.90,2.10
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,4,15,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",211,145,0,0.80,"Smith, J.R.",11.80,22.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,7,30,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",105,227,0,1.10,"Irving, Kyrie",5.60,10.70
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,5,36,0,"Jump Shot","2PT Field Goal",23,"Cleveland Cavaliers",132,194,1,2.70,"Perkins, Kendrick",4.80,6.70
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,5,38,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",146,209,0,0.80,"Smith, J.R.",8.60,20.00
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,11,15,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",135,228,0,1.50,"Faried, Kenneth",4.60,13.10
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,1,4,33,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",166,205,0,0.70,"Chandler, Wilson",7.50,22.30
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,1,9,50,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",113,175,0,0.80,"Chandler, Wilson",6.60,11.00
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,2,4,54,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",67,184,3,2.40,"Barton, Will",3.70,16.40
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,5,36,1,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",143,22,0,0.50,"Batum, Nicolas",3.00,15.00
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,5,39,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-45,36,7,7.40,"Robinson, Thomas",0.80,16.30
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,1,42,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-150,113,2,3.90,"Batum, Nicolas",2.90,4.80
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,4,4,56,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",1,208,14,10.00,"Matthews, Wesley",4.50,13.10
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,3,20,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-59,41,0,1.30,"Leonard, Meyers",2.40,12.70
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,3,58,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",119,231,0,0.80,"Lillard, Damian",3.40,15.30
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,2,5,04,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-4,124,4,3.80,"Batum, Nicolas",2.50,14.70
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,3,0,48,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",228,15,0,0.00,"Blake, Steve",5.20,23.00
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,4,1,57,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-138,222,1,1.40,"Matthews, Wesley",4.70,16.10
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,2,21,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",151,197,0,0.80,"McCollum, CJ",7.50,10.70
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,8,10,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-242,-2,0,0.90,"Matthews, Wesley",4.40,13.90
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,4,0,52,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",-23,271,0,1.80,"Matthews, Wesley",4.30,6.40
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,7,25,1,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-64,121,0,0.70,"Davis, Anthony",5.50,13.70
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,4,3,55,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",239,44,0,0.70,"Anderson, Ryan",5.60,2.90
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,2,59,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-239,7,0,0.80,"Anderson, Ryan",5.50,11.20
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,6,26,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-172,186,0,0.80,"Cunningham, Dante",9.70,7.10
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,3,0,44,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",61,200,4,0.30,"Roberts, Brian",5.90,13.80
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,3,5,15,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-127,230,5,4.30,"Henderson, Gerald",6.60,17.80
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,3,10,03,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-73,104,3,3.20,"Jefferson, Al",2.60,15.80
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,2,6,19,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-98,192,6,5.80,"Henderson, Gerald",9.70,11.30
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,2,4,38,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",102,148,9,5.80,"Whiteside, Hassan",4.70,4.80
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,2,2,47,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-8,55,5,5.70,"Cousins, DeMarcus",1.20,10.10
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,0,53,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",160,127,20,17.40,"Miller, Andre",3.10,6.30
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,3,6,15,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",170,209,11,13.40,"McLemore, Ben",5.00,11.50
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,9,31,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",138,-8,1,1.40,"Casspi, Omri",3.00,2.00
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,3,11,27,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",103,151,2,2.10,"McLemore, Ben",3.60,11.30
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,8,52,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-228,3,0,1.40,"Miller, Andre",4.60,20.00
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,2,34,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",59,25,1,1.60,"Cousins, DeMarcus",2.10,8.30
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,0,00,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",-15,37,12,9.10,"Harden, James",3.10,0.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,2,14,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-23,244,0,0.80,"Ariza, Trevor",4.50,21.70
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,7,39,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",179,194,3,3.40,"Ariza, Trevor",5.90,15.00
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,2,3,34,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-38,172,4,4.30,"Carroll, DeMarre",5.00,8.70
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,4,5,13,0,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",37,7,7,8.50,"Carter, Vince",1.10,6.70
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,4,1,01,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",143,206,0,0.90,"Lee, Courtney",5.20,21.20
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,2,8,18,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-155,184,0,0.80,"Calathes, Nick",5.60,6.40
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,6,00,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-29,195,2,3.60,"Belinelli, Marco",8.20,13.00
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,4,8,33,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",125,220,1,2.20,"Johnson, Chris",3.80,18.50
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,4,1,42,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",192,119,0,0.00,,0.00,0.00
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,3,4,01,1,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-34,261,7,6.00,"Noah, Joakim",5.10,10.60
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,2,1,47,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",165,179,0,0.80,"Snell, Tony",9.30,17.80
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,3,0,00,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",-90,86,6,4.60,"Brooks, Aaron",3.80,0.00
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,3,11,21,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-232,-19,0,0.70,"Butler, Jimmy",5.10,13.80
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,4,05,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-64,201,4,4.40,"Noah, Joakim",5.10,12.90
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,7,58,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",1,37,0,0.80,"Gasol, Pau",2.60,13.00
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,2,0,01,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",21,247,4,2.80,"Rose, Derrick",1.70,0.00
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,11,48,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-187,165,0,0.90,"Faried, Kenneth",6.00,14.30
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,3,0,03,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-223,37,0,1.00,"Teague, Jeff",3.90,13.40
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,1,8,02,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",234,83,2,2.30,"Allen, Tony",0.10,11.20
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,4,9,54,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",204,164,0,0.00,,0.00,0.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,1,8,08,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-163,131,2,4.00,"Martin, Kevin",4.20,13.30
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,1,9,14,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",173,118,2,3.00,"Martin, Kevin",7.20,12.70
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,7,23,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-158,140,1,2.80,"Payne, Adreian",4.30,2.40
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,4,1,31,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",146,213,0,0.70,"Middleton, Khris",5.30,9.10
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,11,00,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-198,142,1,5.70,"Leonard, Kawhi",6.40,7.90
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,5,40,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",116,145,5,4.00,"Duncan, Tim",4.70,19.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,2,1,34,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",245,23,0,0.80,"Leonard, Kawhi",5.60,19.50
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,8,42,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",67,205,1,2.80,"Green, Danny",4.50,15.50
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,2,0,00,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-196,157,0,1.30,"Leonard, Kawhi",4.30,0.00
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,4,9,02,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",129,220,0,0.90,"Calathes, Nick",5.90,10.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,4,2,22,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-152,197,0,1.00,"Diaw, Boris",6.20,18.30
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,3,47,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",2,89,7,6.80,"Duncan, Tim",0.60,15.80
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,4,0,16,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",86,14,3,3.50,"Green, Danny",0.70,0.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,1,11,15,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",0,145,6,5.60,"Leonard, Kawhi",3.00,8.20
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,9,16,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-49,238,0,1.00,"Parker, Tony",8.50,12.90
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,4,2,48,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-57,129,3,3.10,"Ginobili, Manu",2.00,10.80
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,3,1,46,0,"Jump Shot","2PT Field Goal",3,"Atlanta Hawks",-18,25,0,0.90,"Korver, Kyle",4.20,11.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,2,29,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",159,189,0,0.70,"LaVine, Zach",4.60,3.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,1,6,40,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",166,44,2,1.70,"Martin, Kevin",2.60,16.30
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,9,02,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",223,12,0,1.30,"Budinger, Chase",4.50,14.40
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,2,6,38,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",138,201,7,6.00,"Payne, Adreian",12.80,18.90
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,8,34,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",162,189,0,0.90,"Budinger, Chase",8.10,9.30
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,4,7,12,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",36,140,11,11.40,"Budinger, Chase",1.80,13.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,1,5,59,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-198,145,0,0.90,"Martin, Kevin",4.20,1.70
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,4,10,13,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",-54,86,1,1.00,"Hummel, Robbie",3.10,16.90
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,4,0,07,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-185,156,2,14.90,"Martin, Kevin",3.60,3.30
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,1,3,21,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-239,-11,0,0.90,"Bledsoe, Eric",5.00,8.60
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,3,36,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",77,132,2,5.00,"Belinelli, Marco",5.00,11.90
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,1,4,45,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",32,183,5,4.80,"Mayo, O.J.",2.80,2.30
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,2,4,39,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-97,231,0,0.80,"Dinwiddie, Spencer",6.30,18.80
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,1,7,17,0,"Jump Shot","2PT Field Goal",22,"San Antonio Spurs",-2,222,0,0.90,"Green, Danny",5.00,15.20
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,3,7,59,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",21,173,3,3.20,"Carter-Williams, Michael",3.80,2.80
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,0,26,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-199,162,0,0.90,"Bayless, Jerryd",5.30,13.80
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,0,45,1,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",129,0,1,1.90,"Middleton, Khris",2.00,5.00
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,9,21,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",37,23,3,3.40,"Mayo, O.J.",2.00,0.70
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,1,28,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",242,37,0,0.90,"Ilyasova, Ersan",16.10,5.00
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,2,36,1,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",138,-6,2,1.90,"Ilyasova, Ersan",8.40,6.40
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,9,17,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",160,206,0,1.00,"Vasquez, Greivis",17.60,15.90
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,8,10,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-34,249,0,1.00,"Carter-Williams, Michael",6.40,4.40
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,4,21,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-232,1,0,0.80,"Mayo, O.J.",2.30,6.00
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,10,05,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",110,129,4,4.00,"Dudley, Jared",4.90,11.70
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,7,35,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",72,149,3,2.90,"Antetokounmpo, Giannis",5.10,14.40
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,5,28,0,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",135,20,7,5.90,"Middleton, Khris",1.00,8.90
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,7,37,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-234,56,0,0.90,"Mayo, O.J.",4.90,9.70
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,6,36,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",36,12,0,0.70,"Beverley, Patrick",2.00,20.30
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,1,9,12,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-174,60,2,2.10,"Green, Danny",3.00,14.70
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,1,6,07,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",159,148,11,10.40,"Horford, Al",4.90,14.20
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,3,3,12,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-180,175,0,0.80,"Sefolosha, Thabo",7.50,8.40
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,1,8,54,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",225,82,0,0.80,"Teague, Jeff",4.00,14.90
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,1,6,12,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",42,25,1,2.00,"Mayo, O.J.",3.50,12.40
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,1,1,02,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",171,201,5,7.00,"Mayo, O.J.",6.10,7.80
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,4,3,26,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",20,45,15,15.20,"Middleton, Khris",1.30,6.60
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,2,2,10,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-78,172,2,2.00,"Carter-Williams, Michael",3.40,8.40
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,4,6,25,0,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",26,15,1,2.00,"Dudley, Jared",1.30,14.70
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,2,4,46,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-188,189,2,2.60,"Ilyasova, Ersan",7.40,11.00
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,2,6,52,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",177,131,3,2.30,"Schroder, Dennis",3.80,11.50
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,2,1,38,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",80,247,0,0.80,"Hill, George",4.60,7.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,4,5,59,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-207,156,0,0.80,"Afflalo, Arron",5.20,20.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,5,16,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-133,217,7,6.00,"Leonard, Meyers",6.60,8.80
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,1,7,39,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-79,179,7,4.80,"Aldridge, LaMarcus",4.50,13.30
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,1,27,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",88,173,3,2.90,"Leonard, Meyers",6.50,11.60
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,1,5,41,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-73,67,5,7.20,"Afflalo, Arron",2.70,24.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,4,1,05,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",89,154,1,1.30,"Afflalo, Arron",4.70,7.40
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,2,4,03,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-229,3,0,1.20,"McCollum, CJ",4.30,6.90
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,4,6,07,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-68,148,6,6.60,"Afflalo, Arron",4.30,16.50
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,0,03,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",114,159,28,22.80,"Blake, Steve",4.50,1.70
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,7,13,0,"Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",53,91,3,3.90,"Afflalo, Arron",2.20,14.20
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,7,46,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",29,252,6,6.20,"Beverley, Patrick",5.00,16.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,4,0,13,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",135,231,4,3.80,"Lowry, Kyle",5.70,0.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,6,36,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",212,132,0,0.80,"Lowry, Kyle",6.50,14.40
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,2,35,1,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",174,194,1,1.20,"Mills, Patty",4.20,7.50
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,2,1,55,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",228,61,0,0.70,"Belinelli, Marco",3.40,11.80
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,3,5,40,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",152,0,2,2.30,"Splitter, Tiago",0.90,1.80
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,1,11,28,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",92,184,1,1.80,"Green, Danny",6.20,11.80
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,4,10,50,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-232,-2,0,1.00,"Stuckey, Rodney",5.50,22.10
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,3,8,24,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",102,244,9,7.20,"West, David",6.60,16.00
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,4,06,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",15,61,4,5.40,"Mahinmi, Ian",2.70,10.50
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,3,0,51,0,"Jump Shot","2PT Field Goal",4,"Indiana Pacers",31,30,7,6.80,"Stuckey, Rodney",3.10,17.00
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,2,4,25,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",12,153,9,7.00,"Watson, CJ",4.30,15.90
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,2,1,38,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-89,170,1,1.50,"Knight, Brandon",9.40,3.10
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,3,5,37,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",171,195,0,0.80,"Butler, Caron",5.70,15.00
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,3,4,14,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-177,50,5,4.80,"Boozer, Carlos",3.40,11.20
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,10,03,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",152,214,0,0.50,"Bledsoe, Eric",7.80,0.60
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,3,5,55,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-15,260,1,3.10,"Butler, Jimmy",5.20,10.60
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,2,4,09,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",228,74,0,1.10,"Curry, Stephen",4.30,12.20
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,9,35,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",89,246,0,0.90,"Tucker, PJ",6.30,20.20
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,6,12,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-231,77,16,14.50,"Curry, Stephen",3.80,9.00
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,2,57,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",6,252,0,0.80,"Iguodala, Andre",7.80,6.70
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,2,27,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",81,203,7,5.80,"Speights, Marreese",3.80,7.20
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,10,17,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",31,15,1,1.50,"Bogut, Andrew",1.90,19.90
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,4,46,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",65,23,2,2.40,"Thompson, Klay",2.50,11.30
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,2,2,09,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",70,105,0,-0.30,"Thompson, Klay",2.50,1.00
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,3,8,14,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-152,44,0,1.00,"Bogut, Andrew",8.70,9.70
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,4,0,04,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-24,252,11,8.30,"Rondo, Rajon",1.70,0.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,2,4,04,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",225,58,0,0.70,"Butler, Jimmy",6.00,12.00
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,4,0,17,1,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-212,41,0,0.30,"Rondo, Rajon",0.90,0.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,9,53,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",29,236,1,1.60,"Thornton, Marcus",3.50,16.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,0,00,0,"Jump Shot","3PT Field Goal",41,"Phoenix Suns",21,413,3,2.90,"Morris, Marcus",1.80,0.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,10,21,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-7,244,0,1.10,"Bledsoe, Eric",7.00,7.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,3,5,05,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-139,208,0,0.80,"Bledsoe, Eric",4.60,3.90
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,1,9,43,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",159,213,0,0.80,"Rondo, Rajon",4.80,8.60
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,4,10,16,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-213,135,0,0.80,"Green, Jeff",4.30,15.50
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,6,17,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-235,37,0,1.30,"Allen, Tony",3.80,21.90
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,10,27,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-185,165,0,1.00,"Ellis, Monta",6.10,9.60
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,1,59,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-76,261,0,1.30,"Ellis, Monta",5.50,11.00
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,1,5,59,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",214,164,0,1.00,"Rondo, Rajon",7.60,20.10
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,2,3,45,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-128,213,0,0.80,"Rondo, Rajon",5.10,17.40
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,11,34,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",37,255,1,2.60,"Lee, Courtney",3.20,0.30
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,4,6,38,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-100,11,0,0.00,"Afflalo, Arron",4.30,17.00
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,2,6,49,1,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",39,6,1,1.30,"Nurkic, Jusuf",1.90,9.90
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,3,4,39,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-109,224,1,2.00,"Hickson, JJ",6.70,4.50
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,3,8,28,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",138,146,0,0.50,"Afflalo, Arron",2.20,18.30
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,9,45,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",1,252,0,0.80,"Williams, Deron",3.30,5.10
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,3,10,05,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",162,187,2,2.90,"Bogdanovic, Bojan",2.00,0.50
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,2,5,09,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-229,107,0,0.90,"Jack, Jarrett",5.40,4.80
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,1,30,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",99,227,0,0.70,"Bogdanovic, Bojan",4.40,16.90
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,3,11,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",78,231,0,1.00,"Williams, Deron",9.00,2.50
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,10,31,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",110,246,0,1.00,"Brown, Markel",5.40,12.40
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,9,11,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",159,195,0,0.80,"Brown, Markel",6.20,11.40
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,2,1,29,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",234,104,0,0.80,"Butler, Jimmy",5.10,10.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,2,7,37,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",108,233,0,1.30,"Hinrich, Kirk",6.80,17.50
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,1,0,00,0,"Jump Shot","3PT Field Goal",40,"Chicago Bulls",81,400,2,1.60,"Brooks, Aaron",9.70,0.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,4,1,30,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",226,67,0,0.90,"Brooks, Aaron",4.70,19.00
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,4,10,23,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-111,231,3,3.20,"Noah, Joakim",4.30,4.30
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,2,42,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",222,113,0,0.70,"Schroder, Dennis",3.90,3.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,1,11,42,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-134,201,1,6.60,"Teague, Jeff",5.20,10.30
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,0,00,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",196,160,0,0.00,"Bazemore, Kent",2.80,0.00
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,4,6,29,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-239,17,3,3.60,"Wade, Dwyane",3.90,14.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,6,58,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-108,219,0,0.80,"Millsap, Paul",8.00,4.90
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,4,59,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",187,170,0,0.70,"Korver, Kyle",5.50,6.50
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,4,0,21,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-239,14,0,0.80,"Ennis, James",4.50,23.20
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,3,19,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-125,151,6,4.50,"Deng, Luol",4.60,6.40
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,8,12,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",62,238,6,6.80,"Deng, Luol",5.30,16.80
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,1,10,36,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",114,220,1,1.20,"Deng, Luol",4.50,11.00
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,4,30,0,"Jump Shot","2PT Field Goal",9,"Miami Heat",77,47,5,6.10,"Ennis, James",2.30,5.20
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,2,33,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",113,121,2,2.90,"Dragic, Goran",2.30,14.70
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,4,0,13,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",122,222,0,3.00,"Ennis, James",7.00,0.00
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,0,37,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",242,-2,0,0.80,"Dragic, Goran",6.50,19.20
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,1,6,58,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",144,200,4,3.50,"Deng, Luol",4.60,12.30
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,9,45,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",135,140,0,0.80,"Dragic, Goran",2.10,9.00
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,10,19,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",20,184,13,12.10,"Walker, Kemba",4.80,11.90
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,1,9,51,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-46,181,12,10.30,"Walker, Kemba",7.10,13.90
+"Victor Oladipo","Orlando Magic",2014-12-27,2014,2527963,1610612753,400578736,1,10,58,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",152,105,1,2.10,"Walker, Kemba",5.60,5.20
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,1,41,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-150,-2,1,1.40,"Martin, Kenyon",5.10,15.30
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,10,06,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-237,-16,0,0.80,"Middleton, Khris",5.50,9.70
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,4,8,42,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",92,238,0,1.20,"Mayo, O.J.",4.40,14.70
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,1,8,11,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-68,138,2,2.90,"Caldwell-Pope, Kentavious",4.90,15.30
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,5,35,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-89,168,7,6.60,"Caldwell-Pope, Kentavious",5.40,17.90
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,4,1,44,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",64,17,7,5.40,"Drummond, Andre",1.60,17.90
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,5,28,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",89,246,7,6.50,"Caldwell-Pope, Kentavious",5.70,17.80
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,8,47,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-29,200,2,3.00,"Caldwell-Pope, Kentavious",5.20,7.70
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,3,7,31,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",62,131,5,3.90,"Drummond, Andre",8.10,9.80
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,10,10,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",218,121,0,1.50,"Galloway, Langston",6.40,19.70
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,3,9,20,0,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",136,-16,1,1.40,"Mayo, O.J.",0.60,4.20
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,1,7,05,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,-10,0,1.20,"Martin, Kevin",0.50,20.60
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,2,56,1,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-23,0,0,0.70,"Butler, Rasual",7.40,19.90
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,4,5,38,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-10,22,2,2.00,"Dinwiddie, Spencer",3.50,13.20
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,4,3,18,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",6,17,4,4.10,"Ellis, Monta",3.60,20.50
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,2,7,26,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",18,22,1,3.60,"Lin, Jeremy",2.60,0.00
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,2,06,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",7,3,0,0.70,"Evans, Tyreke",2.00,15.30
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,7,02,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,6,11,8.50,"Sacre, Robert",1.90,15.10
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,3,11,23,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",2,1,1,1.80,"Wade, Dwyane",2.10,20.60
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,1,59,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",6,4,8,6.90,"Thompson, Tristan",1.00,15.80
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,2,13,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,-6,0,1.00,"Mayo, O.J.",2.20,20.40
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,1,3,51,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",0,19,0,0.30,"Ennis, James",3.20,24.00
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,4,6,11,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-24,14,16,11.60,"Bradley, Avery",2.40,13.40
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,9,07,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-19,12,10,9.40,"Beverley, Patrick",2.10,13.90
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,3,40,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-15,-16,12,11.00,"Gortat, Marcin",1.00,13.30
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,10,22,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",-4,9,2,3.30,"Ennis, James",0.60,21.30
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,1,52,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,4,2,3.70,"Middleton, Khris",3.00,20.90
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,1,3,15,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-8,12,4,4.50,"Ilyasova, Ersan",3.90,10.50
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,4,3,49,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",1,-5,1,1.50,"Kidd-Gilchrist, Michael",2.00,18.10
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,4,24,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",17,15,2,2.70,"Perkins, Kendrick",1.50,12.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,1,7,54,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",4,-5,3,2.70,"Green, Danny",2.20,20.00
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,4,3,00,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,15,12,10.90,"Johnson, Wesley",2.20,13.90
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,1,8,47,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,9,2,2.50,"Caldwell-Pope, Kentavious",3.30,11.00
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,2,6,33,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-5,26,1,2.00,"Green, Gerald",1.10,3.40
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,7,50,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,12,0,0.70,"Gordon, Eric",1.20,13.40
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,2,6,26,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",13,26,0,1.90,"Zeller, Tyler",1.80,23.00
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,1,2,32,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-27,7,0,0.60,"Bass, Brandon",1.50,14.80
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,2,7,14,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-13,19,0,0.80,"Teletovic, Mirza",0.70,18.00
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,3,2,08,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-19,19,11,11.80,"Dudley, Jared",1.50,3.80
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,4,3,30,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-5,-8,1,3.00,"Wall, John",0.60,22.10
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,1,2,02,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",17,12,1,1.80,"Perkins, Kendrick",1.60,12.30
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,2,4,37,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",21,1,0,1.30,"Mbah a Moute, Luc",0.80,4.00
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,8,08,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",23,4,4,4.00,"West, David",3.30,16.50
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,4,11,49,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-1,1,2.30,"Mayo, O.J.",2.10,16.10
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,1,28,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",21,-2,8,6.40,"Gortat, Marcin",2.30,16.00
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,5,18,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,6,1,2.30,"Stuckey, Rodney",2.90,4.10
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,1,3,58,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-4,6,5,4.80,"Hill, George",2.30,20.30
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,2,11,24,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",21,9,9,7.20,"Wroten, Tony",2.10,6.50
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,2,3,42,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,0,6,5.30,"Green, Gerald",2.10,5.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,0,59,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",17,-14,2,3.50,"Knight, Brandon",0.00,19.70
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,2,0,15,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",7,0,12,9.80,"Watson, CJ",2.30,5.30
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,8,32,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",0,9,3,5.40,"Leonard, Meyers",1.20,13.20
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,2,8,10,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,11,1,2.30,"Lin, Jeremy",1.40,0.00
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,4,2,46,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,7,0,0.70,"Drummond, Andre",4.50,18.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,6,44,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",-13,23,0,0.20,"Larkin, Shane",2.80,8.50
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,1,10,16,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",26,12,10,10.00,Nene,2.00,15.60
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,2,49,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,-3,2,2.40,"Caldwell-Pope, Kentavious",4.30,16.00
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,4,2,29,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",21,-2,4,3.50,"Kaman, Chris",0.60,15.00
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,1,6,58,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",2,4,13,10.80,"Barnes, Matt",2.40,11.50
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,1,4,17,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-27,11,3,4.20,"Hollins, Ryan",2.20,5.00
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,2,2,32,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-13,6,11,10.20,"Thompson, Jason",2.60,14.50
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,3,9,55,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-19,7,1,1.10,"Batum, Nicolas",3.30,20.70
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,7,35,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",0,22,5,6.60,"James, LeBron",3.70,9.90
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,2,10,59,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,3,6,5.80,"Baynes, Aron",1.00,8.80
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,3,2,20,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",20,6,19,15.80,"Zeller, Tyler",1.40,9.60
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,11,25,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",26,-2,0,0.50,"Harden, James",2.20,11.10
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,5,31,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",23,7,5,4.50,"Perkins, Kendrick",1.10,13.80
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,4,46,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-5,15,3,2.60,"Leonard, Meyers",0.00,15.80
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,1,7,03,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,0,0,3.40,Nene,9.60,22.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,3,10,34,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,3,0,1.80,"Anthony, Carmelo",1.50,14.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,5,25,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",13,7,0,0.60,"Antetokounmpo, Giannis",6.10,9.90
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,3,0,53,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",22,9,5,3.90,"Hinrich, Kirk",1.30,17.90
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,2,35,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-19,19,7,7.80,"Plumlee, Mason",2.50,15.80
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,3,0,37,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",18,7,6,5.80,"Maxiell, Jason",1.70,18.30
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,1,4,12,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,6,1,2.00,"Smith, Jason",1.90,22.50
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,7,29,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",0,1,2,3.10,"West, David",2.50,20.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,3,6,05,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",9,15,2,2.30,"Diaw, Boris",2.80,8.40
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,1,10,56,1,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",0,20,1,1.20,"Thompson, Tristan",3.20,9.80
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,1,7,11,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",9,20,5,5.20,"Johnson, Joe",2.40,19.50
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,3,1,00,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-17,11,3,1.90,"Johnson, Chris",2.10,6.90
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,3,3,20,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-19,-3,0,0.70,"Carroll, DeMarre",1.50,16.80
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,2,2,43,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",2,7,5,5.20,"Carter-Williams, Michael",1.00,21.10
+"Victor Oladipo","Orlando Magic",2014-11-17,2014,2527963,1610612753,400578442,1,3,37,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,6,5,5.40,"Caldwell-Pope, Kentavious",1.50,19.30
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,1,8,33,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",4,11,3,4.70,"Duncan, Tim",1.00,12.00
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,4,0,37,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-5,22,6,5.60,"Randolph, Zach",2.70,18.80
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,3,4,22,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,7,4.80,"Carter-Williams, Michael",1.80,11.40
+"Victor Oladipo","Orlando Magic",2015-01-07,2014,2527963,1610612753,400578822,1,7,01,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,9,12,9.50,"Chandler, Wilson",0.40,6.40
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,2,5,33,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-11,20,2,2.30,"Middleton, Khris",2.60,20.20
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,3,3,30,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",7,3,0,0.40,"Antetokounmpo, Giannis",0.60,6.00
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,3,0,02,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,7,9,9.30,"Henson, John",1.80,0.00
+"Victor Oladipo","Orlando Magic",2015-03-11,2014,2527963,1610612753,400579248,2,1,26,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,4,3,3.20,"Middleton, Khris",1.70,20.80
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,4,1,38,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,9,0,1.80,"Mbah a Moute, Luc",1.90,20.60
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,4,0,38,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-7,-6,1,1.20,"Joseph, Cory",0.70,22.70
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,10,49,0,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",4,1,4,5.00,"Lowry, Kyle",1.40,18.00
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,4,7,17,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-16,-10,1,2.20,"Thompson, Hollis",3.30,18.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,11,14,0,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",4,0,6,4.40,"Wright, Brandan",1.40,18.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,1,10,03,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",4,6,0,0.40,"Ross, Terrence",6.90,20.30
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,9,34,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-8,4,0,-0.20,"Lopez, Robin",1.90,7.60
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,4,47,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",13,11,14,13.20,"Drummond, Andre",1.90,13.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,8,12,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",0,7,0,1.60,"Harden, James",4.00,19.30
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,7,39,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",13,22,0,1.70,"Brewer, Corey",4.60,19.80
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,2,3,32,1,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",0,9,1,2.60,"Ellis, Monta",3.40,20.90
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,1,7,31,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",21,12,3,3.10,"Teague, Jeff",6.00,5.90
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,5,28,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-7,1,3,3.40,"Afflalo, Arron",2.20,20.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,5,59,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",4,3,4,3.30,"Harden, James",2.40,21.20
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,2,1,51,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-4,11,2,1.80,"Gasol, Pau",2.80,5.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,1,8,09,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,11,3,4.20,"Batum, Nicolas",0.40,19.90
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,4,6,57,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-19,4,0,0.80,"Kanter, Enes",1.40,14.20
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,8,25,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",4,4,0,1.00,"Seraphin, Kevin",3.50,9.80
+"Victor Oladipo","Orlando Magic",2014-12-26,2014,2527963,1610612753,400578725,4,7,32,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",0,22,0,-1.30,"James, LeBron",3.10,9.80
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,4,0,06,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-7,7,8,5.50,"Duncan, Tim",0.50,0.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,9,37,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,1,5,4.80,"Afflalo, Arron",0.60,11.00
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,2,4,08,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",9,25,0,1.00,"Jordan, DeAndre",1.50,23.10
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,5,34,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-15,4,0,0.50,"Williams, Deron",4.40,17.20
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,2,4,42,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",12,-3,0,1.10,"Burke, Trey",3.50,19.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,2,5,32,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",2,20,3,3.70,"Aldridge, LaMarcus",0.50,15.10
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,2,39,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-2,11,0,2.00,"McCollum, CJ",2.10,7.30
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,4,59,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",0,7,2,2.70,"Ennis, James",0.60,15.20
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,3,7,36,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",-4,11,1,1.30,"Dragic, Goran",1.10,18.70
+"Victor Oladipo","Orlando Magic",2015-04-04,2014,2527963,1610612753,400579435,3,7,38,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-3,3,4.00,"Ilyasova, Ersan",0.40,20.80
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,2,4,35,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",2,14,1,3.10,"Wade, Dwyane",2.20,1.70
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,4,7,55,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,3,3,3.20,"Vasquez, Greivis",3.10,19.10
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,1,10,02,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",2,12,4,4.00,"Wade, Dwyane",2.70,18.10
+"Victor Oladipo","Orlando Magic",2015-01-03,2014,2527963,1610612753,400578787,4,7,09,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",0,4,2,3.10,"Maxiell, Jason",2.30,6.60
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,3,3,41,0,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-8,4,1,1.40,"McLemore, Ben",1.20,12.10
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,3,8,23,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-2,12,0,0.50,"Deng, Luol",2.80,17.30
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,1,8,14,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",10,15,2,2.20,"Green, Danny",0.40,19.60
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,4,5,02,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,7,7,5.00,"Meeks, Jodie",1.00,20.00
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,1,3,57,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-5,17,0,1.10,"Gasol, Marc",0.80,24.00
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,2,0,58,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",7,7,0,0.80,"Dragic, Goran",1.40,20.70
+"Victor Oladipo","Orlando Magic",2014-11-21,2014,2527963,1610612753,400578464,2,3,58,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-13,9,0,0.90,"Jefferson, Al",2.70,7.00
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,9,39,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",23,17,0,0.90,"Aldrich, Cole",1.70,8.60
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,8,10,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-4,6,0,0.40,"Thompson, Jason",2.70,22.00
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,1,07,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,-2,4,3.70,"Olynyk, Kelly",2.70,9.50
+"Victor Oladipo","Orlando Magic",2015-03-13,2014,2527963,1610612753,400579261,1,4,31,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",4,0,6,5.10,"Zeller, Tyler",1.30,17.40
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,2,1,29,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,1,6,5.30,"Caldwell-Pope, Kentavious",2.00,4.10
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,3,29,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",-4,-3,0,0.40,"Hansbrough, Tyler",3.80,23.30
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,1,11,28,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",-4,-3,4,3.20,"Bosh, Chris",1.30,19.90
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,1,10,28,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",7,17,1,1.60,"Deng, Luol",1.90,11.30
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,5,38,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,7,5,3.80,"Evans, Reggie",2.00,20.30
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,1,5,08,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",13,4,10,8.10,"Jordan, DeAndre",2.00,5.00
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,4,2,41,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",13,19,4,3.90,"Kidd-Gilchrist, Michael",1.90,14.90
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,3,8,25,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-13,17,10,9.40,"Bogut, Andrew",1.20,13.60
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,1,6,35,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",0,19,3,3.60,"Hill, Jordan",2.50,0.00
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,10,38,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-15,3,0,0.00,"Kelly, Ryan",2.40,4.90
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,1,4,01,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",15,15,0,2.90,"Udrih, Beno",2.10,15.60
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,2,4,40,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-8,7,6,6.20,"Sanders, Larry",0.50,12.30
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,1,4,46,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",0,26,1,1.80,"Hill, Jordan",4.00,0.00
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,2,6,51,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,3,6,6.10,"Joseph, Cory",1.70,18.30
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,2,1,51,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",10,28,4,3.90,"Green, Jeff",3.30,21.30
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,2,1,49,0,"Pullup Bank shot","2PT Field Goal",9,"Washington Wizards",61,69,7,6.90,"Gortat, Marcin",5.10,10.00
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,3,6,54,1,"Pullup Bank shot","2PT Field Goal",13,"San Antonio Spurs",116,74,2,1.90,"Green, Danny",3.70,13.00
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,3,9,21,0,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",-73,146,8,6.60,"Evans, Tyreke",4.20,5.00
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,1,49,1,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",-23,257,7,6.90,"Bledsoe, Eric",5.20,16.60
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,1,3,57,1,"Pullup Jump shot","2PT Field Goal",20,"Boston Celtics",-103,173,10,9.10,"Smart, Marcus",5.10,15.60
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,2,6,58,0,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",160,48,1,2.00,"Ellis, Monta",3.60,7.60
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,1,10,21,0,"Pullup Jump shot","2PT Field Goal",8,"Phoenix Suns",-71,48,2,2.30,"Knight, Brandon",2.70,9.90
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,3,8,19,0,"Pullup Jump shot","2PT Field Goal",17,"Milwaukee Bucks",-45,170,5,3.30,"Middleton, Khris",2.60,3.80
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,3,9,47,1,"Pullup Jump shot","2PT Field Goal",19,"Philadelphia 76ers",77,183,5,3.50,"Mbah a Moute, Luc",4.90,16.40
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,3,5,17,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",108,151,10,8.50,"Lee, Courtney",3.80,14.60
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,1,9,43,1,"Pullup Jump shot","2PT Field Goal",21,"Philadelphia 76ers",-122,179,4,3.10,"Noel, Nerlens",6.10,12.40
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,1,8,28,1,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",146,129,11,9.90,"Temple, Garrett",4.80,12.90
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,4,2,59,1,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",-82,186,2,6.40,"Lowry, Kyle",6.10,4.00
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,3,7,08,1,"Pullup Jump shot","2PT Field Goal",18,"Atlanta Hawks",26,187,4,4.00,"Horford, Al",5.20,13.90
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,3,2,34,1,"Pullup Jump shot","2PT Field Goal",18,"Milwaukee Bucks",-149,107,2,2.30,"Knight, Brandon",5.30,9.70
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,3,4,59,1,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",138,213,1,2.80,"Schroder, Dennis",5.10,7.20
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,4,3,06,0,"Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",-105,236,17,14.40,"Allen, Tony",4.30,8.30
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,4,5,55,1,"Pullup Jump shot","2PT Field Goal",13,"Chicago Bulls",9,137,2,5.90,"Moore, ETwaun",2.00,11.00
+"Victor Oladipo","Orlando Magic",2015-04-13,2014,2527963,1610612753,400579499,2,0,59,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",-5,118,8,6.50,"Deng, Luol",3.10,11.70
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,3,10,44,1,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",-78,162,5,4.60,"Teague, Jeff",4.50,8.70
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,0,12,0,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",122,142,20,17.50,"Cousins, DeMarcus",4.60,6.60
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,3,7,14,1,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",-57,184,4,4.20,"Gortat, Marcin",5.20,9.30
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,2,0,28,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",36,186,2,2.00,"Jones, Terrence",6.20,15.40
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,1,8,25,1,"Pullup Jump shot","2PT Field Goal",21,"Atlanta Hawks",198,93,7,4.60,"Millsap, Paul",3.70,5.00
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,1,5,51,0,"Pullup Jump shot","2PT Field Goal",20,"Milwaukee Bucks",62,195,1,1.40,"Henson, John",4.10,8.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,3,4,08,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",-112,110,4,4.40,"McCollum, CJ",2.00,5.70
+"Victor Oladipo","Orlando Magic",2014-11-22,2014,2527963,1610612753,400578477,3,7,57,1,"Pullup Jump shot","2PT Field Goal",19,"Miami Heat",86,173,10,9.30,"Brown, Shannon",3.50,14.30
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,0,05,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",24,195,19,19.20,"Brewer, Corey",4.50,4.90
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,2,4,52,1,"Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",0,172,8,6.70,"Thompson, Jason",4.90,8.30
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,9,59,0,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-26,167,4,3.50,"Ariza, Trevor",6.10,11.70
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,2,39,0,"Pullup Jump shot","2PT Field Goal",22,"New York Knicks",34,222,4,3.80,"Thomas, Lance",5.80,3.50
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,1,0,02,0,"Pullup Jump shot","2PT Field Goal",23,"Brooklyn Nets",0,235,2,1.90,"Bogdanovic, Bojan",5.60,0.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,3,3,11,1,"Pullup Jump shot","2PT Field Goal",9,"Toronto Raptors",-65,64,9,9.60,"Hansbrough, Tyler",3.70,13.80
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,4,1,21,0,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",113,107,14,14.00,"Johnson, Wesley",6.00,10.70
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,3,02,0,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",-86,170,4,4.40,"West, David",4.20,18.30
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,1,4,25,1,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",75,143,5,5.10,"Butler, Jimmy",5.20,3.70
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,11,02,0,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",135,134,9,8.40,"Paul, Chris",3.50,8.20
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,3,6,31,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",4,165,2,2.40,"Bradley, Avery",4.50,3.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,2,40,1,"Pullup Jump shot","2PT Field Goal",15,"New York Knicks",-38,154,2,2.20,"Larkin, Shane",3.20,21.00
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,1,8,48,1,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",26,197,3,3.70,"Korver, Kyle",3.30,13.50
+"Victor Oladipo","Orlando Magic",2015-01-02,2014,2527963,1610612753,400578777,3,1,28,0,"Pullup Jump shot","2PT Field Goal",18,"Brooklyn Nets",-109,154,12,9.90,"Williams, Deron",3.40,14.70
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,2,8,20,0,"Pullup Jump shot","3PT Field Goal",25,"Philadelphia 76ers",-65,247,2,3.00,"Carter-Williams, Michael",4.70,0.40
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,3,6,05,0,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",61,168,0,1.40,"Bazemore, Kent",3.60,2.70
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,11,47,1,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",72,142,2,4.20,"Lowry, Kyle",2.70,13.00
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,2,0,06,1,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",124,143,15,14.30,"James, LeBron",5.50,6.90
+"Victor Oladipo","Orlando Magic",2015-03-10,2014,2527963,1610612753,400579238,1,9,45,1,"Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",-144,80,7,6.20,"Hill, Solomon",5.00,16.60
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,3,8,49,0,"Pullup Jump shot","2PT Field Goal",16,"Cleveland Cavaliers",133,99,1,1.40,"Smith, J.R.",3.20,8.00
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,3,6,49,0,"Pullup Jump shot","2PT Field Goal",17,"Utah Jazz",-67,162,12,10.00,"Burke, Trey",5.60,13.90
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,2,4,10,0,"Pullup Jump shot","2PT Field Goal",14,"Indiana Pacers",-144,41,5,4.90,"Stuckey, Rodney",5.40,8.90
+"Victor Oladipo","Orlando Magic",2015-03-15,2014,2527963,1610612753,400579277,2,2,55,0,"Pullup Jump shot","2PT Field Goal",16,"Cleveland Cavaliers",159,22,4,4.70,"Smith, J.R.",2.50,3.60
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,2,4,09,0,"Pullup Jump shot","2PT Field Goal",19,"Milwaukee Bucks",53,184,3,2.90,"Sanders, Larry",6.70,6.30
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,5,0,31,0,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",122,113,13,12.60,"Sacre, Robert",5.40,7.80
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,1,2,54,1,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",17,197,4,3.50,"Chandler, Wilson",5.70,2.60
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,0,40,0,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",53,241,2,2.80,"Harris, Gary",4.00,19.40
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,2,5,13,1,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",69,170,8,7.20,"Miller, Andre",5.30,15.80
+"Victor Oladipo","Orlando Magic",2015-01-10,2014,2527963,1610612753,400578849,1,4,27,1,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",-43,108,5,4.10,"Leonard, Meyers",4.50,10.60
+"Victor Oladipo","Orlando Magic",2014-11-14,2014,2527963,1610612753,400578415,2,10,28,0,"Pullup Jump shot","2PT Field Goal",18,"Milwaukee Bucks",106,157,1,1.20,"Bayless, Jerryd",4.30,12.50
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,4,4,11,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",215,146,0,0.70,"Curry, Stephen",4.50,10.20
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,1,5,35,0,"Pullup Jump shot","2PT Field Goal",11,"Chicago Bulls",75,86,5,4.50,"Butler, Jimmy",4.50,13.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,8,49,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",50,165,3,2.40,"Waiters, Dion",7.40,12.10
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,1,3,51,1,"Pullup Jump shot","2PT Field Goal",14,"New Orleans Pelicans",-21,146,7,6.00,"Gordon, Eric",5.30,16.70
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,4,5,24,1,"Pullup Jump shot","2PT Field Goal",21,"Charlotte Hornets",99,187,11,10.00,"Kidd-Gilchrist, Michael",5.20,14.00
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,1,8,24,1,"Pullup Jump shot","2PT Field Goal",10,"Charlotte Hornets",62,82,3,3.70,"Henderson, Gerald",2.80,12.20
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,3,2,45,1,"Pullup Jump shot","2PT Field Goal",15,"Charlotte Hornets",110,112,10,8.80,"Roberts, Brian",2.80,15.60
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,2,7,06,0,"Pullup Jump shot","2PT Field Goal",17,"Phoenix Suns",108,132,6,7.10,"Goodwin, Archie",2.30,16.80
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,1,5,58,0,"Pullup Jump shot","2PT Field Goal",19,"Charlotte Hornets",103,165,2,2.00,"Henderson, Gerald",4.60,15.00
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,1,0,00,1,"Pullup Jump shot","2PT Field Goal",17,"New York Knicks",111,137,13,13.00,"Prigioni, Pablo",2.60,0.00
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,1,9,51,0,"Pullup Jump shot","2PT Field Goal",20,"Boston Celtics",-127,157,1,2.50,"Green, Jeff",3.50,4.80
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,3,5,04,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",184,186,0,1.70,"Curry, Stephen",5.30,10.20
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,11,04,1,"Pullup Jump shot","2PT Field Goal",22,"Sacramento Kings",-67,211,1,2.10,"Thompson, Jason",6.10,13.50
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,5,0,02,0,"Pullup Jump shot","3PT Field Goal",26,"Miami Heat",-142,220,4,3.50,"Deng, Luol",2.10,0.00
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,4,1,22,1,"Pullup Jump shot","2PT Field Goal",18,"Detroit Pistons",106,149,8,6.30,"Anthony, Joel",4.90,16.90
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,3,9,29,1,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",-147,102,9,7.20,"Beverley, Patrick",3.90,5.50
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,9,46,0,"Pullup Jump shot","2PT Field Goal",17,"Chicago Bulls",-136,110,11,8.80,"Butler, Jimmy",4.90,15.80
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,9,26,1,"Pullup Jump shot","2PT Field Goal",20,"Indiana Pacers",23,205,3,2.30,"West, David",3.90,17.50
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,1,35,1,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-46,241,4,3.80,"Ariza, Trevor",5.20,17.60
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,2,1,44,1,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",132,146,16,13.50,"Curry, Stephen",4.40,11.00
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,2,8,52,1,"Pullup Jump shot","2PT Field Goal",18,"Golden State Warriors",65,175,7,5.40,"Iguodala, Andre",8.20,10.60
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,2,5,32,0,"Pullup Jump shot","2PT Field Goal",19,"Philadelphia 76ers",39,192,1,1.90,"Wroten, Tony",3.80,4.00
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,3,6,25,0,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Clippers",129,156,2,2.40,"Paul, Chris",3.70,22.10
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,3,11,50,0,"Pullup Jump shot","2PT Field Goal",14,"Memphis Grizzlies",-2,149,3,2.40,"Lee, Courtney",3.50,17.00
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,1,9,24,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",47,239,7,6.70,"Lee, Courtney",4.30,17.00
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,1,7,39,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",124,228,0,0.90,"Curry, Stephen",6.20,13.60
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,11,03,0,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",-71,159,2,2.70,"Green, Draymond",4.50,11.40
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,1,10,53,0,"Pullup Jump shot","2PT Field Goal",18,"New York Knicks",155,99,5,4.60,"Galloway, Langston",2.60,2.70
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,3,59,0,"Pullup Jump shot","2PT Field Goal",9,"Golden State Warriors",-32,85,11,10.70,"Bogut, Andrew",2.60,7.30
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,2,0,38,0,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",-84,153,7,6.30,"Hibbert, Roy",4.20,16.70
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,3,36,1,"Pullup Jump shot","2PT Field Goal",16,"Denver Nuggets",77,146,4,6.30,"Harris, Gary",4.50,16.90
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,9,39,0,"Pullup Jump shot","2PT Field Goal",21,"Toronto Raptors",119,181,10,8.30,"Lowry, Kyle",7.40,15.80
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,11,20,1,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",29,172,2,2.20,"Bonner, Matt",4.70,4.40
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,2,2,26,1,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",149,105,4,3.40,"Martin, Kevin",4.10,17.00
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,1,7,02,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",-13,173,2,3.00,"Bradley, Avery",3.20,12.40
+"Victor Oladipo","Orlando Magic",2014-12-19,2014,2527963,1610612753,400578675,4,2,09,0,"Pullup Jump shot","2PT Field Goal",19,"Utah Jazz",132,140,11,9.90,"Burks, Alec",4.90,14.40
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,1,5,37,1,"Putback Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-5,12,0,0.20,"Afflalo, Arron",1.50,24.00
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,2,4,29,1,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",6,14,0,0.00,"Gasol, Pau",1.90,24.00
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,1,9,00,1,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,12,12,9.80,"Thompson, Klay",2.80,9.70
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,1,2,53,1,"Reverse Layup Shot","2PT Field Goal",1,"Washington Wizards",1,11,0,0.70,"Gortat, Marcin",4.60,15.40
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,3,4,33,1,"Reverse Layup Shot","2PT Field Goal",0,"Indiana Pacers",7,6,0,0.60,"Hill, George",1.60,11.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,3,4,13,1,"Reverse Layup Shot","2PT Field Goal",2,"New York Knicks",20,20,0,1.20,"Amundson, Lou",1.90,15.30
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,3,11,13,0,"Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",-15,15,10,7.70,"Curry, Stephen",2.00,16.80
+"Victor Oladipo","Orlando Magic",2014-11-19,2014,2527963,1610612753,400578453,1,6,46,0,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-19,14,8,7.00,"Jordan, DeAndre",3.50,16.30
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,5,31,1,"Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",12,0,0,0.90,"Dorsey, Joey",4.80,19.30
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,2,10,23,1,"Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",4,12,0,0.80,"Waiters, Dion",2.50,18.20
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,1,4,12,1,"Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",2,15,0,1.50,"Hollins, Ryan",2.30,21.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,1,1,00,0,"Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,7,1,3.00,"Hansbrough, Tyler",3.20,4.00
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,5,51,0,"Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",-8,6,1,2.10,"Evans, Reggie",1.70,0.60
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,4,9,03,1,"Reverse Layup Shot","2PT Field Goal",2,"Sacramento Kings",6,22,0,0.60,"Stauskas, Nik",3.20,16.30
+"Victor Oladipo","Orlando Magic",2014-12-06,2014,2527963,1610612753,400578584,3,4,44,1,"Reverse Layup Shot","2PT Field Goal",2,"Sacramento Kings",22,1,0,0.80,"Gay, Rudy",3.50,12.90
+"Victor Oladipo","Orlando Magic",2014-11-30,2014,2527963,1610612753,400578538,3,7,37,1,"Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",9,3,0,1.30,"Plumlee, Miles",2.40,22.30
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,10,57,1,"Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",12,-5,0,1.20,"Jerebko, Jonas",2.30,22.80
+"Victor Oladipo","Orlando Magic",2014-12-12,2014,2527963,1610612753,400578622,1,2,57,1,"Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-10,6,0,0.60,"Sefolosha, Thabo",4.80,15.70
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,4,4,15,1,"Reverse Layup Shot","2PT Field Goal",0,"Indiana Pacers",-7,1,3,2.50,"Allen, Lavoy",1.00,2.40
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,1,3,25,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",13,-8,1,1.50,"Irving, Kyrie",4.80,21.00
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,3,6,16,0,"Reverse Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",-29,-11,8,5.80,"Jordan, DeAndre",1.80,11.80
+"Victor Oladipo","Orlando Magic",2015-02-04,2014,2527963,1610612753,400579031,2,5,49,1,"Reverse Layup Shot","2PT Field Goal",0,"San Antonio Spurs",2,0,1,1.80,"Green, Danny",2.60,19.30
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,3,10,21,1,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,3,9,8.20,"Randolph, Zach",0.20,15.80
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,1,9,52,0,"Reverse Layup Shot","2PT Field Goal",2,"Detroit Pistons",28,3,0,1.00,"Caldwell-Pope, Kentavious",0.90,5.90
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,1,7,24,1,"Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,6,1,2.00,"Thompson, Jason",1.40,15.20
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,3,4,29,1,"Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",-6,14,0,0.70,"Caldwell-Pope, Kentavious",2.70,9.00
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,4,2,10,0,"Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",-2,9,0,0.80,"Patterson, Patrick",2.90,10.20
+"Victor Oladipo","Orlando Magic",2014-12-23,2014,2527963,1610612753,400578710,3,9,31,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",29,4,0,1.00,"Zeller, Tyler",2.00,11.50
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,9,22,1,"Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",6,6,0,0.60,"Beverley, Patrick",4.10,17.00
+"Victor Oladipo","Orlando Magic",2014-12-05,2014,2527963,1610612753,400578578,1,5,06,1,"Running Bank shot","2PT Field Goal",7,"Utah Jazz",70,31,13,10.00,"Favors, Derrick",2.20,14.10
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,2,7,43,1,"Running Bank shot","2PT Field Goal",4,"Dallas Mavericks",15,47,4,5.40,"Aminu, Al-Farouq",2.00,2.30
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,3,8,04,0,"Running Bank shot","2PT Field Goal",11,"Minnesota Timberwolves",108,31,1,1.70,"Budinger, Chase",2.70,12.50
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,7,30,1,"Running Bank shot","2PT Field Goal",6,"Boston Celtics",-49,41,2,3.00,"Bass, Brandon",1.80,6.30
+"Victor Oladipo","Orlando Magic",2015-04-15,2014,2527963,1610612753,400579516,4,11,14,1,"Running Bank shot","2PT Field Goal",5,"Brooklyn Nets",26,48,8,8.00,"Williams, Deron",1.00,16.70
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,3,8,55,1,"Running Bank shot","2PT Field Goal",5,"Charlotte Hornets",43,41,1,3.20,"Henderson, Gerald",5.80,7.40
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,4,2,37,0,"Running Bank shot","2PT Field Goal",5,"Miami Heat",28,44,4,3.80,"Deng, Luol",2.90,13.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,4,0,58,0,"Running Bank shot","2PT Field Goal",8,"Minnesota Timberwolves",77,42,1,1.70,"Hamilton, Justin",1.90,4.00
+"Victor Oladipo","Orlando Magic",2014-11-26,2014,2527963,1610612753,400578504,1,6,06,0,"Running Bank shot","2PT Field Goal",8,"Golden State Warriors",67,45,12,10.70,"Bogut, Andrew",4.60,13.30
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,2,3,35,1,"Running Bank shot","2PT Field Goal",9,"Portland Trail Blazers",83,42,1,2.70,"McCollum, CJ",1.80,11.30
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,9,19,1,"Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.70,"Ellis, Monta",1.80,21.30
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,2,8,24,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",13,12,9,6.40,"Gooden, Drew",1.50,10.00
+"Victor Oladipo","Orlando Magic",2015-03-08,2014,2527963,1610612753,400579227,3,0,29,0,"Running Hook Shot","2PT Field Goal",9,"Boston Celtics",51,75,3,7.10,"Datome, Gigi",3.00,9.00
+"Victor Oladipo","Orlando Magic",2015-01-21,2014,0,1610612753,0,2,3,20,1,"Running Jump Shot","2PT Field Goal",8,"Detroit Pistons",62,58,8,7.70,"Caldwell-Pope, Kentavious",3.50,16.80
+"Victor Oladipo","Orlando Magic",2015-03-01,2014,2527963,1610612753,400579174,1,2,51,0,"Running Jump Shot","2PT Field Goal",9,"Charlotte Hornets",78,47,2,2.30,"Roberts, Brian",1.10,11.30
+"Victor Oladipo","Orlando Magic",2015-03-06,2014,2527963,1610612753,400579205,3,6,43,1,"Running Jump Shot","2PT Field Goal",4,"Sacramento Kings",-18,45,3,5.70,"McCallum, Ray",1.30,10.80
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,2,3,32,0,"Running Jump Shot","2PT Field Goal",6,"Toronto Raptors",2,60,3,3.60,"Ross, Terrence",1.40,13.60
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,2,0,54,0,"Running Jump Shot","2PT Field Goal",8,"Atlanta Hawks",-81,28,6,5.20,"Antic, Pero",2.40,18.00
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,2,6,15,0,"Running Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-127,15,1,1.60,"Ellis, Monta",4.60,12.00
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,0,40,0,"Running Jump Shot","2PT Field Goal",6,"Houston Rockets",53,34,2,2.10,"Jones, Terrence",1.40,2.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,2,2,47,0,"Running Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",31,-5,6,4.90,"Ibaka, Serge",1.00,4.70
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,4,5,57,0,"Running Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",64,11,2,2.50,"Perkins, Kendrick",2.60,7.00
+"Victor Oladipo","Orlando Magic",2015-02-02,2014,2527963,1610612753,400579015,3,10,53,0,"Running Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",0,42,11,8.90,"Adams, Steven",3.90,15.00
+"Victor Oladipo","Orlando Magic",2015-04-03,2014,2527963,1610612753,400579425,2,7,16,0,"Running Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-56,44,6,6.00,"Payne, Adreian",3.20,7.40
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,0,31,0,"Running Jump Shot","2PT Field Goal",6,"Phoenix Suns",61,7,3,2.50,"Knight, Brandon",2.00,21.60
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,2,04,0,"Running Jump Shot","2PT Field Goal",12,"San Antonio Spurs",37,118,9,8.10,"Mills, Patty",2.90,16.30
+"Victor Oladipo","Orlando Magic",2014-11-24,2014,2527963,1610612753,400578491,3,10,47,1,"Running Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",-15,56,2,2.10,"Irving, Kyrie",2.10,16.60
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,0,02,1,"Running Jump Shot","2PT Field Goal",12,"Chicago Bulls",122,39,16,15.90,"Gasol, Pau",5.10,0.00
+"Victor Oladipo","Orlando Magic",2015-02-22,2014,2527963,1610612753,400579117,4,8,13,0,"Running Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-109,112,11,10.40,"Thompson, Hollis",2.50,6.10
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,3,10,42,0,"Running Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",-34,64,2,2.50,"Kelly, Ryan",1.80,9.10
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,3,4,51,0,"Running Jump Shot","2PT Field Goal",15,"New York Knicks",130,85,7,6.10,"Larkin, Shane",1.70,17.20
+"Victor Oladipo","Orlando Magic",2014-12-13,2014,2527963,1610612753,400578635,4,11,11,0,"Running Jump Shot","2PT Field Goal",5,"Atlanta Hawks",42,31,6,5.60,"Bazemore, Kent",1.30,11.00
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,1,2,12,0,"Running Jump Shot","2PT Field Goal",10,"Denver Nuggets",70,72,3,5.50,"Chandler, Wilson",1.70,13.10
+"Victor Oladipo","Orlando Magic",2015-04-08,2014,2527963,1610612753,400579453,4,1,55,1,"Running Jump Shot","2PT Field Goal",7,"Chicago Bulls",64,30,1,2.40,"Butler, Jimmy",2.20,6.20
+"Victor Oladipo","Orlando Magic",2015-04-10,2014,2527963,1610612753,400579467,4,0,00,0,"Running Jump Shot","2PT Field Goal",14,"Toronto Raptors",0,143,2,1.60,"Lowry, Kyle",3.10,0.00
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,1,0,04,1,"Running Layup Shot","2PT Field Goal",2,"Washington Wizards",18,11,0,0.00,"Temple, Garrett",9.20,0.00
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,4,5,01,1,"Running Layup Shot","2PT Field Goal",2,"Chicago Bulls",20,1,6,5.20,"Mirotic, Nikola",0.90,14.80
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,2,4,40,0,"Running Layup Shot","2PT Field Goal",2,"Chicago Bulls",-24,6,0,1.00,"Butler, Jimmy",7.60,22.70
+"Victor Oladipo","Orlando Magic",2015-02-09,2014,2527963,1610612753,400579068,2,2,27,1,"Running Layup Shot","2PT Field Goal",1,"Washington Wizards",15,-2,2,2.40,Nene,1.70,6.90
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,3,22,1,"Running Layup Shot","2PT Field Goal",0,"Chicago Bulls",7,0,7,5.70,"Gasol, Pau",1.20,17.40
+"Victor Oladipo","Orlando Magic",2014-11-15,2014,2527963,1610612753,400578424,4,0,06,1,"Running Layup Shot","2PT Field Goal",0,"Washington Wizards",-7,-5,5,4.90,Nene,5.30,0.00
+"Victor Oladipo","Orlando Magic",2015-02-27,2014,2527963,1610612753,400579150,2,1,56,1,"Running Layup Shot","2PT Field Goal",2,"Atlanta Hawks",20,0,5,4.20,"Millsap, Paul",1.70,20.30
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,4,6,25,0,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",0,14,0,0.70,"Ellis, Monta",0.80,16.40
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,3,3,28,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",15,1,4,2.80,"Motiejunas, Donatas",2.30,13.70
+"Victor Oladipo","Orlando Magic",2015-01-12,2014,2527963,1610612753,400578858,1,9,28,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-15,1,3,2.10,"Noah, Joakim",0.10,15.40
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,5,1,24,1,"Running Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,1,3.20,"Johnson, Wesley",2.70,21.80
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,3,06,1,"Running Slam Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.90,"Stoudemire, Amar'e",3.90,13.70
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,4,5,36,1,"Slam Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.90,"Beverley, Patrick",5.30,7.60
+"Victor Oladipo","Orlando Magic",2015-02-08,2014,2527963,1610612753,400579062,1,1,22,1,"Slam Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.90,"Snell, Tony",3.10,20.90
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,4,9,19,1,"Slam Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,1.00,"Thornton, Marcus",52.00,21.30
+"Victor Oladipo","Orlando Magic",2015-01-29,2014,2527963,1610612753,400578984,3,9,31,1,"Slam Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.70,"Henson, John",0.90,17.60
+"Victor Oladipo","Orlando Magic",2014-11-28,2014,2527963,1610612753,400578522,3,9,54,1,"Slam Dunk Shot","2PT Field Goal",1,"Indiana Pacers",9,9,0,3.00,"Sloan, Donald",1.90,21.90
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,3,8,37,1,"Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,1.20,"Davis, Ed",2.40,14.60
+"Victor Oladipo","Orlando Magic",2015-03-04,2014,2527963,1610612753,400579189,2,6,43,1,"Slam Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.60,"Knight, Brandon",1.70,24.00
+"Victor Oladipo","Orlando Magic",2015-02-20,2014,2527963,1610612753,400579095,4,5,19,1,"Slam Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,2,2.20,"Evans, Tyreke",9.30,20.90
+"Victor Oladipo","Orlando Magic",2014-12-17,2014,2527963,1610612753,400578663,4,6,58,0,"Step Back Jump shot","2PT Field Goal",9,"Boston Celtics",-51,80,3,5.30,"Bass, Brandon",5.40,1.60
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,1,2,25,0,"Step Back Jump shot","3PT Field Goal",23,"San Antonio Spurs",234,-16,8,10.30,"Baynes, Aron",9.60,12.50
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,4,20,1,"Step Back Jump shot","3PT Field Goal",24,"Houston Rockets",-79,230,3,3.50,"Jones, Terrence",5.60,14.70
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,2,7,10,1,"Step Back Jump shot","2PT Field Goal",20,"Toronto Raptors",-41,205,2,3.70,"Williams, Lou",2.90,21.20
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,3,9,42,1,"Step Back Jump shot","2PT Field Goal",19,"Toronto Raptors",-100,173,9,7.60,"Lowry, Kyle",4.90,14.90
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,2,1,10,0,"Step Back Jump shot","3PT Field Goal",22,"New York Knicks",-228,4,3,4.40,"Smith, Jason",4.50,3.00
+"Victor Oladipo","Orlando Magic",2015-04-01,2014,2527963,1610612753,,4,10,00,1,"Step Back Jump shot","2PT Field Goal",18,"San Antonio Spurs",-24,187,2,2.40,"Belinelli, Marco",4.40,5.00
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,4,4,03,0,"Step Back Jump shot","3PT Field Goal",25,"Houston Rockets",-7,254,2,3.40,"Brewer, Corey",6.80,12.20
+"Victor Oladipo","Orlando Magic",2015-01-16,2014,2527963,1610612753,400578880,2,10,55,0,"Step Back Jump shot","2PT Field Goal",12,"Memphis Grizzlies",-76,99,8,6.60,"Allen, Tony",4.00,7.30
+"Victor Oladipo","Orlando Magic",2015-03-27,2014,2527963,1610612753,400579366,3,6,08,0,"Step Back Jump shot","2PT Field Goal",18,"Detroit Pistons",147,119,5,6.00,"Drummond, Andre",8.10,12.20
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,2,5,48,0,"Step Back Jump shot","2PT Field Goal",17,"Miami Heat",-68,159,2,2.60,"Wade, Dwyane",3.60,0.20
+"Victor Oladipo","Orlando Magic",2015-03-22,2014,2527963,1610612753,400579336,4,0,12,0,"Step Back Jump shot","2PT Field Goal",17,"Denver Nuggets",176,11,15,15.70,"Harris, Gary",2.70,3.90
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,1,4,22,0,"Step Back Jump shot","2PT Field Goal",9,"New York Knicks",-51,78,1,1.60,"Hardaway Jr., Tim",5.50,15.00
+"Victor Oladipo","Orlando Magic",2015-03-20,2014,2527963,1610612753,400579312,1,3,56,0,"Step Back Jump shot","2PT Field Goal",20,"Portland Trail Blazers",0,206,3,3.10,"McCollum, CJ",3.70,5.00
+"Victor Oladipo","Orlando Magic",2015-01-18,2014,2527963,1610612753,400578901,4,9,01,0,"Step Back Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",48,115,3,2.60,"Jackson, Reggie",3.90,7.10
+"Victor Oladipo","Orlando Magic",2014-12-03,2014,2527963,1610612753,400578564,3,9,39,0,"Step Back Jump shot","2PT Field Goal",20,"Los Angeles Clippers",151,137,12,10.60,"Paul, Chris",4.80,13.80
+"Victor Oladipo","Orlando Magic",2015-03-18,2014,2527963,1610612753,400579304,3,7,31,0,"Step Back Jump shot","2PT Field Goal",12,"Dallas Mavericks",-51,119,0,2.30,"Parsons, Chandler",5.90,15.80
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,1,0,03,1,"Step Back Jump shot","2PT Field Goal",19,"New York Knicks",-71,183,15,14.90,"Larkin, Shane",2.30,3.70
+"Victor Oladipo","Orlando Magic",2014-12-21,2014,2527963,1610612753,400578697,3,9,06,1,"Step Back Jump shot","2PT Field Goal",19,"Philadelphia 76ers",9,197,4,3.80,"Sampson, JaKarr",3.30,0.90
+"Victor Oladipo","Orlando Magic",2015-01-25,2014,2527963,1610612753,400578954,2,7,38,1,"Step Back Jump shot","2PT Field Goal",16,"Indiana Pacers",-133,105,2,2.90,"Hill, Solomon",3.60,1.30
+"Victor Oladipo","Orlando Magic",2015-03-25,2014,2527963,1610612753,400579354,2,1,52,1,"Step Back Jump shot","2PT Field Goal",18,"Atlanta Hawks",118,137,5,4.20,"Bazemore, Kent",4.80,17.60
+"Victor Oladipo","Orlando Magic",2014-12-15,2014,2527963,1610612753,400578651,1,3,19,1,"Tip Shot","2PT Field Goal",1,"Toronto Raptors",10,-3,0,0.00,"Valanciunas, Jonas",1.50,24.00
+"Victor Oladipo","Orlando Magic",2015-01-09,2014,2527963,1610612753,400578840,2,7,23,1,"Tip Shot","2PT Field Goal",0,"Los Angeles Lakers",4,7,0,0.00,"Sacre, Robert",3.00,0.00
+"Victor Oladipo","Orlando Magic",2015-02-11,2014,2527963,1610612753,400579080,3,6,12,1,"Tip Shot","2PT Field Goal",1,"New York Knicks",7,9,0,0.00,"Larkin, Shane",0.60,24.00
+"Victor Oladipo","Orlando Magic",2015-03-17,2014,2527963,1610612753,400579294,1,0,39,0,"Tip Shot","2PT Field Goal",1,"Houston Rockets",12,14,0,0.00,"Jones, Terrence",2.20,1.00
+"Victor Oladipo","Orlando Magic",2015-02-25,2014,2527963,1610612753,400579134,1,8,27,1,"Tip Shot","2PT Field Goal",0,"Miami Heat",1,1,0,0.00,"Whiteside, Hassan",0.60,24.00
+"Victor Oladipo","Orlando Magic",2015-02-06,2014,2527963,1610612753,400579040,4,2,36,0,"Tip Shot","2PT Field Goal",1,"Los Angeles Lakers",13,-3,0,1.70,"Sacre, Robert",1.30,24.00
+"Victor Oladipo","Orlando Magic",2015-01-26,2014,2527963,1610612753,400578962,3,3,42,1,"Tip Shot","2PT Field Goal",0,"Memphis Grizzlies",9,3,0,0.00,"Gasol, Marc",2.80,24.00
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,1,9,07,1,"Tip Shot","2PT Field Goal",1,"Houston Rockets",0,17,0,0.00,"Beverley, Patrick",2.00,13.80
+"Victor Oladipo","Orlando Magic",2015-01-14,2014,2527963,1610612753,400578867,2,3,28,0,"Tip Shot","2PT Field Goal",0,"Houston Rockets",1,1,0,0.00,"Harden, James",5.10,24.00
+"Victor Oladipo","Orlando Magic",2014-12-30,2014,2527963,1610612753,400578757,2,8,44,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Detroit Pistons",-169,33,15,11.20,"Augustin, D.J.",2.50,4.40
+"Victor Oladipo","Orlando Magic",2014-12-02,2014,2527963,1610612753,400578554,2,0,02,1,"Turnaround Hook Shot","2PT Field Goal",6,"Golden State Warriors",-18,60,13,14.40,"Curry, Stephen",2.60,0.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,9,05,1,"Turnaround Hook Shot","2PT Field Goal",7,"New York Knicks",-68,23,2,2.40,"Thomas, Lance",1.00,21.90
+"Victor Oladipo","Orlando Magic",2014-12-10,2014,2527963,1610612753,400578610,3,4,56,0,"Turnaround Jump Shot","2PT Field Goal",12,"Washington Wizards",-103,66,21,18.00,"Wall, John",6.90,6.30
+"Victor Oladipo","Orlando Magic",2015-04-11,2014,2527963,1610612753,400579479,4,4,21,1,"Turnaround Jump Shot","2PT Field Goal",13,"New York Knicks",28,134,3,4.00,"Thomas, Lance",2.40,1.00
+"Victor Oladipo","Orlando Magic",2015-01-23,2014,2527963,1610612753,400578937,4,7,15,0,"Turnaround Jump Shot","2PT Field Goal",4,"New York Knicks",28,36,1,1.60,"Smith, Jason",6.10,14.40

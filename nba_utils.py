@@ -1,4 +1,6 @@
 from matplotlib.patches import Circle, Rectangle, Arc
+from matplotlib import pyplot as plt
+import seaborn as sns
 
 def draw_court(ax=None, color='black', lw=2, outer_lines=False):
     '''Draws NBA court on axis. 
@@ -69,3 +71,57 @@ def draw_court(ax=None, color='black', lw=2, outer_lines=False):
         ax.add_patch(element)
 
     return ax
+
+def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', title = ''):
+    ''' Add source '''
+    cmap=plt.cm.gist_heat_r
+    joint_shot_chart = sns.jointplot(x, y, stat_func=None,
+                                     kind=kind, space=0, color=cmap(.2), 
+                                     cmap=cmap, size = 20, joint_kws=dict(gridsize=gridsize,
+                                                                          norm = norm))
+    joint_shot_chart.fig.set_size_inches(12,11)
+    
+    # color bar
+#     cax = joint_shot_chart.fig.add_axes([.77, .03, .03, .2]) # size and placement of bar
+#     plt.colorbar(cax=cax)
+    
+    # A joint plot has 3 Axes, the first one called ax_joint 
+    # is the one we want to draw our court onto 
+    ax = joint_shot_chart.ax_joint
+    draw_court(ax)
+
+    # Adjust the axis limits and orientation of the plot in order
+    # to plot half court, with the hoop by the top of the plot
+    ax.set_xlim(-250,250)
+    ax.set_ylim(422.5, -47.5)
+
+    # Get rid of axis labels and tick marks
+    ax.set_xlabel('')
+    ax.set_ylabel('')
+    ax.tick_params(labelbottom='off', labelleft='off')
+
+    # Add Data Source
+    ax.text(-250,445,'Data Source: stats.nba.com', fontsize=12)
+    
+    # label
+    ax.text(-200,405,label, fontsize=30)
+    return joint_shot_chart
+
+sns_colors = sns.color_palette('deep',8)
+def draw_3pt_piechart(per_3, per_midrange):
+    '''Draws a pie chart showing percentage of 3's on shotchart'''
+    plt.axes([.05, .1, .2, .2], axisbg='y')
+    patches,_ = plt.pie(x = [per_3,per_midrange],
+                    startangle = 180,
+                    counterclock = False)
+    labels = ['3 pointer','midrange']
+    #     colors = ['red', 'orange']
+    colors = [sns_colors[1], sns_colors[4]]
+    patches,_ = plt.pie(x = [per_3,per_midrange],
+                    startangle = 180,
+                    colors = colors,
+    #                         labels = labels,
+    #                         labeldistance = .4,
+                    counterclock = False)
+    plt.legend(patches, labels, loc=3 ,shadow=True, fontsize='x-large', frameon = True) 
+    plt.title('Percentage of shots', y = -0.08)

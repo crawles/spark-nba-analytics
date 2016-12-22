@@ -1,0 +1,1010 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,3,5,58,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,-2,1,0.70,"Foye, Randy",5.80,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,3,9,54,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",4,-6,0,0.00,"Turner, Evan",2.30,19.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,3,7,08,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,3,0,0.10,"Harden, James",2.40,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,1,10,03,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Houston Rockets",2,4,0,0.00,"Harden, James",4.90,14.80
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,2,1,48,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",-8,-3,0,4.60,"Cousins, DeMarcus",2.00,13.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,1,7,27,1,"Alley Oop Layup shot","2PT Field Goal",0,"Boston Celtics",6,4,0,0.00,"Crawford, Jordan",2.50,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,4,4,47,1,"Alley Oop Layup shot","2PT Field Goal",0,"Utah Jazz",1,0,0,0.30,"Favors, Derrick",2.90,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,1,10,38,1,"Alley Oop Layup shot","2PT Field Goal",0,"San Antonio Spurs",7,-2,0,0.00,"Parker, Tony",3.20,14.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,1,4,38,1,"Alley Oop Layup shot","2PT Field Goal",1,"Utah Jazz",12,0,0,0.00,"Burke, Trey",4.80,15.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,8,17,1,"Alley Oop Layup shot","2PT Field Goal",1,"Indiana Pacers",17,9,0,0.00,"Granger, Danny",1.30,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,1,24,1,"Alley Oop Layup shot","2PT Field Goal",2,"Dallas Mavericks",26,1,0,-0.30,"Ellis, Monta",3.70,16.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,3,7,03,0,"Alley Oop Layup shot","2PT Field Goal",1,"Cleveland Cavaliers",-18,-6,0,3.50,"Irving, Kyrie",4.50,19.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,5,46,0,"Alley Oop Layup shot","2PT Field Goal",0,"Chicago Bulls",1,1,0,0.00,"Deng, Luol",1.40,7.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,3,9,12,1,"Alley Oop Layup shot","2PT Field Goal",1,"Sacramento Kings",-11,-8,0,0.00,"Cousins, DeMarcus",5.00,14.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,3,1,21,1,"Driving Bank shot","2PT Field Goal",4,"San Antonio Spurs",-45,6,8,7.20,"Diaw, Boris",2.40,15.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,2,42,1,"Driving Bank shot","2PT Field Goal",8,"Dallas Mavericks",81,30,3,3.00,"Calderon, Jose",4.30,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,4,5,46,1,"Driving Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,-8,0,0.80,"Young, Nick",2.50,20.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,1,6,55,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",15,0,3,2.60,"Mozgov, Timofey",4.00,7.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,3,5,45,1,"Driving Dunk Shot","2PT Field Goal",2,"Los Angeles Clippers",0,23,1,2.00,"Crawford, Jamal",4.20,13.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,3,9,23,1,"Driving Dunk Shot","2PT Field Goal",1,"Houston Rockets",0,14,1,1.30,"Motiejunas, Donatas",1.70,22.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,2,2,11,1,"Driving Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,4,2,1.70,"Booker, Trevor",6.00,17.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,1,51,1,"Driving Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",-7,-6,4,3.40,"Green, Danny",2.70,21.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,2,0,11,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-29,-2,0,-4.80,"Ibaka, Serge",3.10,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,4,10,24,1,"Driving Hook Shot","2PT Field Goal",3,"Brooklyn Nets",32,23,2,4.20,"Teague, Marquis",2.30,12.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,2,2,15,0,"Driving Jump shot","2PT Field Goal",3,"Atlanta Hawks",-2,39,0,1.90,"Millsap, Paul",2.80,15.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,9,51,1,"Driving Jump shot","2PT Field Goal",3,"Phoenix Suns",-35,12,5,6.00,"Plumlee, Miles",3.00,8.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,2,10,10,0,"Driving Jump shot","2PT Field Goal",7,"San Antonio Spurs",-64,36,4,4.70,"Bonner, Matt",2.10,5.50
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,1,46,1,"Driving Jump shot","2PT Field Goal",3,"New Orleans Pelicans",-4,39,0,3.80,"Rivers, Austin",2.50,15.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,4,6,04,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",10,-2,0,0.80,"Hickson, JJ",6.90,23.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,0,15,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",18,19,2,3.30,"Cunningham, Dante",1.70,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,2,0,17,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,20,3,3.10,"Valanciunas, Jonas",1.70,12.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,4,2,13,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",18,-2,2,2.60,"Ibaka, Serge",1.40,3.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,2,4,44,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",21,12,1,1.80,"Noah, Joakim",1.50,12.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,0,42,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",7,-5,1,1.80,"Cousins, DeMarcus",2.50,18.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,1,5,37,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",0,25,1,2.60,"Ibaka, Serge",3.50,9.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,3,6,28,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,0,1,3.50,"Sefolosha, Thabo",2.80,21.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,4,3,39,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-13,-2,4,5.60,"Davis, Anthony",0.20,18.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,1,7,09,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,-6,4,3.80,"Prince, Tayshaun",3.50,20.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,8,50,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",15,3,3,4.80,"Jones, Terrence",3.90,10.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,2,5,14,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-29,7,2,2.90,"Holiday, Jrue",2.50,6.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,1,7,30,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-8,-8,0,1.60,"Garnett, Kevin",3.10,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,3,5,32,0,"Driving Layup Shot","2PT Field Goal",3,"Golden State Warriors",-29,11,2,4.90,"Bogut, Andrew",1.30,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,4,4,54,0,"Driving Layup Shot","2PT Field Goal",4,"Denver Nuggets",-30,29,1,1.80,"Miller, Quincy",2.00,5.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,4,7,36,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-5,4,3.40,"Irving, Kyrie",2.00,21.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,1,5,20,1,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",4,-3,2,4.40,"Ginobili, Manu",2.80,21.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,4,9,30,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",12,0,8,5.80,"Martin, Kevin",2.70,18.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,1,11,31,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,15,0,0.60,"Thompson, Klay",1.80,12.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,3,3,40,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-21,7,1,2.00,"Pierce, Paul",1.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,4,0,42,1,"Driving Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-5,-5,3,2.50,"Anderson, Ryan",0.70,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,6,09,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,15,0,0.60,"Davis, Anthony",5.90,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,2,4,50,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,7,2,2.00,"Gasol, Pau",2.50,12.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,2,2,26,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-26,7,8,7.00,"Randolph, Anthony",4.00,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,1,4,15,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,0,1,1.80,"Anderson, Ryan",1.70,20.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,2,6,20,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,0,2,3.40,"Mbah a Moute, Luc",2.40,20.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,2,4,16,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",15,0,7,6.40,"Burks, Alec",1.60,17.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,3,5,17,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",17,7,0,3.00,"Oden, Greg",1.70,4.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,3,3,12,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,9,2,2.70,"Thompson, Klay",1.80,9.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,4,6,24,1,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,4,5,5.30,"Diaw, Boris",2.40,6.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,2,3,39,0,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",0,4,1,3.10,"Pachulia, Zaza",1.60,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,4,07,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",0,6,0,0.00,"Garrett, Diante",6.60,21.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,3,4,44,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-16,1,2,2.30,"Evans, Reggie",2.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,1,8,43,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-18,12,3,3.30,"DeRozan, DeMar",3.80,21.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,1,4,57,0,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,7,3,3.80,"Meeks, Jodie",1.30,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,4,21,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",9,-3,2,2.90,"Kanter, Enes",2.00,10.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,3,6,07,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,0,8,5.60,"Martin, Kevin",2.70,16.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,1,10,10,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",6,26,2,3.00,"Ellis, Monta",1.90,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,4,6,33,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-5,17,1,1.40,"Harden, James",5.30,20.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,9,08,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-10,7,1,2.30,"Jefferson, Al",2.90,18.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,1,5,15,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,1,0,0.90,"Sefolosha, Thabo",2.20,19.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,3,10,25,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-15,-2,0,1.10,"Stephenson, Lance",4.60,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,3,5,07,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",18,-6,1,1.70,"Bonner, Matt",2.60,19.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,3,47,1,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",1,1,1,3.90,"Deng, Luol",2.50,21.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,0,01,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-11,-14,2,2.30,"Deng, Luol",2.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,7,43,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,15,4,4.30,"Diaw, Boris",5.50,17.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,2,10,22,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",10,15,2,2.80,"Green, Danny",3.20,16.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,2,0,28,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",7,3,2,2.80,"Stephenson, Lance",1.30,6.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,10,01,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",7,7,4,3.30,"Barnes, Matt",3.10,21.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,2,9,15,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-26,4,1,2.20,"Evans, Tyreke",1.80,4.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,4,9,38,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,17,2,2.30,"Mbah a Moute, Luc",2.60,19.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,2,7,50,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-8,11,2,3.20,"Thompson, Klay",2.50,19.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,4,7,11,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,9,3,3.00,"Evans, Reggie",3.80,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,2,3,26,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",4,3,1,2.50,"Frye, Channing",1.60,9.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,3,9,31,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",4,0,5,6.30,"Drummond, Andre",2.90,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,6,23,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,4,2,2.20,"Jefferson, Al",3.10,10.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,1,7,49,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,3,2,2.60,"Green, Danny",2.90,17.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,3,10,33,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",-8,-3,1,2.80,"Ross, Terrence",4.40,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,9,57,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",13,7,7,6.80,"Dalembert, Samuel",1.30,17.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,1,9,07,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,6,2,2.30,"Marion, Shawn",4.50,3.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,4,3,13,0,"Driving Reverse Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",29,12,2,3.60,"Davis, Anthony",2.00,4.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,4,5,40,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-15,-3,4,10.70,"Lee, David",2.30,3.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,4,11,26,1,"Driving Slam Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-7,9,3,3.10,"Carter, Vince",3.60,20.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,2,0,28,1,"Driving Slam Dunk Shot","2PT Field Goal",1,"Houston Rockets",4,15,2,3.10,"Harden, James",6.90,20.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,3,11,20,1,"Dunk Shot","2PT Field Goal",1,"Orlando Magic",0,17,1,1.30,"Vucevic, Nikola",13.30,22.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,4,0,21,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",9,0,0,0.00,"Diaw, Boris",3.80,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,4,3,05,0,"Dunk Shot","2PT Field Goal",1,"Miami Heat",17,0,0,0.00,"Chalmers, Mario",5.80,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,2,10,26,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,-3,1,1.20,"Shved, Alexey",4.40,20.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,4,46,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,7,0,0.70,"Jackson, Reggie",5.00,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,1,10,23,1,"Fadeaway Bank shot","2PT Field Goal",9,"Sacramento Kings",95,22,3,4.20,"Thornton, Marcus",5.20,15.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,2,8,47,1,"Fadeaway Bank shot","2PT Field Goal",12,"Washington Wizards",111,55,2,3.90,"Beal, Bradley",2.70,14.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,4,9,38,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Denver Nuggets",4,110,2,3.90,"Miller, Andre",3.50,7.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,3,10,44,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Golden State Warriors",-141,-2,0,2.60,"Barnes, Harrison",4.20,10.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,8,17,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Houston Rockets",-24,105,6,6.20,"Howard, Dwight",4.70,4.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,3,4,16,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-179,22,0,1.60,"Lee, Courtney",2.80,3.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,1,48,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Chicago Bulls",-158,6,2,3.20,"Teague, Marquis",1.40,14.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,3,9,49,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",61,112,2,3.60,"Westbrook, Russell",4.40,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,3,4,49,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Detroit Pistons",-146,31,0,1.00,"Smith, Josh",4.60,17.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,4,1,10,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-30,131,2,2.40,"Meeks, Jodie",2.90,12.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,6,09,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Houston Rockets",-79,20,2,3.20,"Harden, James",4.70,15.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,4,8,27,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Phoenix Suns",187,30,4,12.90,"Green, Gerald",4.00,2.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,4,9,28,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-163,72,10,8.30,"Anderson, Alan",4.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,3,2,48,1,"Fadeaway Jump Shot","2PT Field Goal",5,"Sacramento Kings",56,-1,0,0.80,"Cousins, DeMarcus",3.00,23.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,2,2,13,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",119,-17,0,0.90,"Turner, Evan",4.80,15.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,1,11,13,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Toronto Raptors",108,115,1,2.10,"DeRozan, DeMar",3.80,10.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,4,1,04,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Sacramento Kings",162,28,1,2.00,"Vasquez, Greivis",2.40,0.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,1,1,41,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",0,91,0,4.50,"Lamb, Jeremy",4.20,13.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,1,4,02,1,"Fadeaway Jump Shot","3PT Field Goal",22,"Miami Heat",-229,17,0,0.80,"Allen, Ray",4.40,19.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,1,5,30,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Golden State Warriors",-125,12,2,3.80,"Thompson, Klay",4.90,7.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,2,8,26,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Orlando Magic",12,126,4,3.40,"Moore, ETwaun",2.90,1.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,3,5,08,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Detroit Pistons",130,124,4,3.30,"Smith, Josh",5.00,13.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,3,3,18,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",-112,-3,3,5.60,"Garrett, Diante",3.40,10.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,2,7,43,0,"Fadeaway Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",201,142,0,2.50,"Fisher, Derek",1.50,3.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,3,4,45,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Utah Jazz",-82,181,1,2.00,"Burks, Alec",6.30,10.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,2,2,42,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",-45,151,4,3.90,"Lin, Jeremy",5.30,5.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,2,5,37,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-127,4,1,2.60,"Thompson, Tristan",4.00,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,3,11,12,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",94,45,0,0.00,"Marshall, Kendall",2.30,6.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,1,10,20,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Boston Celtics",-100,25,1,1.80,"Crawford, Jordan",2.80,17.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,3,10,54,1,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Clippers",28,41,2,2.10,"Barnes, Matt",2.90,5.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,1,10,17,0,"Floating Jump shot","2PT Field Goal",13,"Indiana Pacers",-57,119,1,2.10,"Granger, Danny",0.80,10.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,4,04,0,"Jump Bank Shot","2PT Field Goal",7,"Denver Nuggets",70,28,0,0.90,"Lawson, Ty",3.20,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,1,9,04,0,"Jump Bank Shot","2PT Field Goal",6,"Los Angeles Lakers",69,7,3,4.80,"Bazemore, Kent",0.20,4.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,3,1,47,0,"Jump Bank Shot","3PT Field Goal",23,"Denver Nuggets",-237,33,2,2.30,"Hickson, JJ",4.40,4.30
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,2,6,43,0,"Jump Bank Shot","2PT Field Goal",7,"Phoenix Suns",-73,20,0,3.20,"Dragic, Goran",5.00,9.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,2,25,1,"Jump Bank Shot","2PT Field Goal",11,"Milwaukee Bucks",113,30,1,2.90,"Wolters, Nate",2.70,12.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,3,03,1,"Jump Bank Shot","2PT Field Goal",6,"Utah Jazz",-65,7,0,0.10,"Burks, Alec",1.10,6.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,4,5,57,0,"Jump Bank Shot","2PT Field Goal",8,"Denver Nuggets",80,28,4,3.30,"Robinson, Nate",1.20,9.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,3,0,29,0,"Jump Bank Shot","2PT Field Goal",11,"Utah Jazz",-90,64,2,2.20,"Burke, Trey",3.20,16.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,3,7,50,0,"Jump Bank Shot","2PT Field Goal",7,"Minnesota Timberwolves",65,41,2,2.00,"Turiaf, Ronny",4.30,7.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,1,3,51,1,"Jump Bank Shot","2PT Field Goal",5,"Detroit Pistons",56,17,0,0.00,"Jennings, Brandon",1.50,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,8,41,0,"Jump Bank Shot","2PT Field Goal",9,"San Antonio Spurs",-68,69,8,5.00,"Leonard, Kawhi",2.20,18.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,2,6,25,1,"Jump Hook Shot","2PT Field Goal",6,"Sacramento Kings",20,63,0,6.40,"Outlaw, Travis",3.50,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,5,1,11,1,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",228,9,0,0.90,"Thompson, Klay",4.00,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,11,44,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",47,242,0,0.90,"Barnes, Matt",6.10,21.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,10,56,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-209,119,0,0.90,"Davis, Glen",13.70,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,2,43,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-100,224,0,0.90,"Bullock, Reggie",9.70,15.00
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,1,8,40,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-243,23,0,0.80,"Tucker, PJ",4.90,6.30
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,4,7,18,1,"Jump Shot","2PT Field Goal",10,"Phoenix Suns",105,31,2,3.40,"Dragic, Goran",4.40,7.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,2,4,21,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-152,15,1,1.70,"Foye, Randy",2.00,5.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,2,3,16,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-138,126,1,1.80,"Foye, Randy",3.50,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,9,25,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-149,205,0,0.80,"Fournier, Evan",8.60,22.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,8,40,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",89,238,2,3.10,"Fournier, Evan",3.80,7.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,7,42,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-232,15,1,1.00,"Lawson, Ty",1.10,17.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,4,4,12,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",78,241,0,1.00,"Lawson, Ty",9.70,15.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,3,8,26,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",97,179,1,2.10,"Parker, Tony",9.10,12.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,3,6,39,1,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",226,3,0,0.00,"Green, Danny",8.70,16.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,4,10,59,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-235,89,0,0.80,"Ginobili, Manu",3.10,3.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,4,10,26,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-218,108,1,1.90,"Ginobili, Manu",2.70,10.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,1,11,20,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-187,168,0,0.90,"Harden, James",5.70,10.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,2,5,13,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-196,41,2,0.90,"Harden, James",2.20,9.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,2,3,52,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",26,247,0,0.80,"Harden, James",8.90,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,4,8,45,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",149,190,0,0.80,"Harden, James",8.30,3.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,4,6,17,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-202,80,1,0.80,"Harden, James",3.50,8.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,1,11,03,1,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",111,6,3,3.00,"Patterson, Patrick",4.20,3.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,4,30,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-182,170,0,1.00,"Thornton, Marcus",6.00,15.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,3,28,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",231,-22,0,0.00,"Salmons, John",18.20,12.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,2,36,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-48,156,1,1.60,"Thornton, Marcus",3.60,15.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,2,02,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-237,-8,0,1.00,"Vasquez, Greivis",16.40,17.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,3,6,25,1,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",127,61,1,1.30,"Vasquez, Greivis",7.90,21.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,3,8,54,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",233,4,0,0.60,"Salmons, John",6.60,8.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,3,4,48,1,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-228,17,0,1.30,"Thornton, Marcus",3.50,7.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,4,11,04,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",151,4,5,4.50,"Fredette, Jimmer",2.20,8.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,4,9,13,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-231,56,0,0.90,"McLemore, Ben",8.90,9.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-11,2013,4032,1610612757,400488978,1,10,50,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",75,238,0,0.70,"Jennings, Brandon",5.80,6.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,1,3,02,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",0,63,0,0.00,"Green, Gerald",3.50,7.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,3,9,43,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-133,7,1,2.40,"Plumlee, Miles",6.70,12.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,4,7,31,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-127,208,0,0.80,"Bledsoe, Eric",4.60,16.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,1,4,58,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-157,195,0,0.80,"Wallace, Gerald",7.40,4.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,1,9,04,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",181,176,0,1.00,"DeRozan, DeMar",7.00,15.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,3,7,51,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-41,258,0,0.80,"Barnes, Matt",3.70,8.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,1,6,33,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-205,126,0,0.80,"Rubio, Ricky",6.60,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,2,7,51,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-175,37,0,1.10,"Brewer, Corey",9.60,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,3,5,35,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",151,192,0,0.90,"Martin, Kevin",4.40,11.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,4,9,32,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",-8,47,4,2.90,"Crawford, Jordan",1.80,14.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,4,6,03,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-223,119,0,0.50,"Barnes, Harrison",7.10,15.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,4,4,28,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-78,247,0,0.70,"Barnes, Harrison",6.60,17.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,2,10,10,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-221,123,1,2.10,"Davis, Ed",6.70,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,4,7,30,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",114,227,0,0.80,"Prince, Tayshaun",5.40,13.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,4,4,18,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-231,-11,0,0.80,"Miller, Mike",5.90,14.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,1,10,32,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-157,189,0,0.70,"Ross, Terrence",5.80,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,1,0,37,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-228,23,0,1.00,"Salmons, John",11.10,18.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,4,11,47,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-231,-6,0,1.00,"DeRozan, DeMar",7.30,13.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,4,9,22,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",234,-2,0,0.60,"Salmons, John",6.70,17.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,4,7,42,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-134,200,1,2.00,"Ross, Terrence",4.00,19.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,2,10,56,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-160,195,0,0.90,"Ariza, Trevor",4.90,16.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,4,0,49,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",1,261,0,0.90,"Beal, Bradley",3.70,22.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,1,6,36,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",26,242,0,1.00,"Smith, J.R.",7.90,13.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,1,5,09,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-153,112,0,1.00,"Smith, J.R.",5.00,13.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,2,5,48,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-223,36,0,0.80,"Tyler, Jeremy",7.30,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,2,2,02,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-8,203,3,4.10,"Anthony, Carmelo",3.60,4.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,3,4,40,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",236,9,0,0.70,"Felton, Raymond",6.20,5.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,2,0,31,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-16,265,0,0.80,"Hill, George",3.40,17.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,5,39,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",12,33,1,1.70,"Hill, George",2.30,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,7,44,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-232,17,0,0.70,"Butler, Rasual",6.30,14.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,1,41,1,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",125,30,1,1.20,"Hill, George",1.10,6.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,1,11,19,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-158,187,0,1.00,"Brewer, Corey",6.60,15.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,1,5,26,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-180,78,0,1.00,"Brewer, Corey",6.00,11.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,2,0,12,0,"Jump Shot","2PT Field Goal",3,"Minnesota Timberwolves",-23,30,2,2.40,"Turiaf, Ronny",1.30,4.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,10,27,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-146,162,3,3.90,"Muhammad, Shabazz",4.80,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,7,38,1,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-224,39,0,0.80,"Muhammad, Shabazz",8.00,14.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,3,00,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",135,209,0,1.80,"Cunningham, Dante",5.00,4.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,1,28,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-73,26,1,2.60,"Rubio, Ricky",2.30,7.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,1,7,02,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-228,1,0,1.00,"Jackson, Reggie",10.90,16.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,3,8,40,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",181,168,0,0.80,"Jackson, Reggie",4.60,18.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,4,9,49,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-27,244,0,1.00,"Ibaka, Serge",8.30,16.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,1,6,10,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-237,15,0,0.00,"Jordan, DeAndre",16.20,5.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,1,0,30,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",-228,6,0,0.60,"Turkoglu, Hedo",6.30,4.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,2,4,11,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",236,-3,0,0.80,"Crawford, Jamal",7.00,15.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,2,0,13,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",23,30,2,2.50,"Dudley, Jared",3.20,6.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,3,8,28,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",140,225,0,0.80,"Barnes, Matt",4.30,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,4,2,11,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",182,50,1,1.70,"Griffin, Blake",3.30,7.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,2,11,27,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",87,11,1,2.70,"Green, Danny",1.30,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,2,8,31,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",48,250,0,1.00,"Green, Danny",8.40,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,3,3,06,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",21,246,0,0.80,"Brown, Shannon",5.40,9.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,0,46,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",34,12,0,0.00,"Diaw, Boris",1.70,14.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,0,26,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-248,-17,0,0.90,"Green, Danny",2.50,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,0,05,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",-161,148,1,1.70,"Green, Danny",3.50,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,1,6,09,1,"Jump Shot","2PT Field Goal",7,"Utah Jazz",-62,50,0,0.00,"Williams, Marvin",10.30,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,2,0,50,1,"Jump Shot","2PT Field Goal",7,"Utah Jazz",-56,50,0,-1.20,"Kanter, Enes",3.00,11.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,6,22,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",103,225,0,1.00,"Williams, Marvin",11.90,14.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,2,5,02,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-183,160,0,0.80,"Muhammad, Shabazz",4.90,12.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,3,10,44,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",69,30,5,4.90,"Cunningham, Dante",0.50,20.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,3,10,12,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-142,206,0,0.90,"Brewer, Corey",7.10,14.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,4,6,52,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-226,44,0,1.10,"Hummel, Robbie",8.30,17.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,4,4,54,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",1,183,0,0.00,"Muhammad, Shabazz",4.30,23.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,1,11,41,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-229,-11,0,0.80,"Chandler, Wilson",7.20,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,2,1,05,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",12,258,0,0.90,"Foye, Randy",6.10,17.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,4,8,52,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-109,224,0,0.80,"Teletovic, Mirza",8.50,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,2,4,16,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-224,0,0,0.80,"Bazemore, Kent",6.40,17.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,1,8,49,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",91,224,1,1.50,"Scott, Mike",4.10,3.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,1,8,00,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",59,235,0,0.80,"Carroll, DeMarre",12.90,11.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,1,6,27,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",146,164,1,1.20,"Korver, Kyle",5.10,19.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,2,5,03,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",39,246,0,0.80,"Martin, Cartier",7.00,12.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,3,4,28,0,"Jump Shot","2PT Field Goal",7,"Atlanta Hawks",-38,60,4,5.60,"Korver, Kyle",0.50,10.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,8,12,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-177,104,1,1.80,"Dalembert, Samuel",5.50,8.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,4,44,1,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",154,211,0,1.00,"Calderon, Jose",11.30,14.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,11,45,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",59,236,0,0.90,"Ellis, Monta",2.80,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,6,51,1,"Jump Shot","2PT Field Goal",9,"Dallas Mavericks",64,74,1,1.90,"Ellis, Monta",2.00,11.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,4,02,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-228,14,0,0.80,"Calderon, Jose",4.40,15.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,2,54,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-185,156,5,4.50,"Nowitzki, Dirk",7.00,20.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,4,9,59,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,33,0,0.80,"Crowder, Jae",7.60,4.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,2,6,41,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",168,194,0,0.90,"Jones, Terrence",14.60,4.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,9,48,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",21,250,0,0.80,"Harden, James",7.70,8.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,9,01,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",129,235,0,0.80,"Parsons, Chandler",4.70,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,6,56,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-10,250,0,1.10,"Beverley, Patrick",5.20,9.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,5,1,38,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",17,255,0,0.80,"Harden, James",4.50,7.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,1,5,14,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-177,176,0,1.00,"Leonard, Kawhi",16.40,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,9,09,1,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",1,126,2,1.80,"Leonard, Kawhi",2.00,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,2,19,1,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",113,131,9,7.60,"Green, Danny",4.50,16.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,2,0,00,0,"Jump Shot","3PT Field Goal",34,"New Orleans Pelicans",29,347,0,0.90,"Evans, Tyreke",2.90,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,3,9,42,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-125,225,0,0.80,"Gordon, Eric",4.10,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,3,6,26,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-114,217,3,4.10,"Gordon, Eric",2.80,7.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,4,8,11,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-239,7,0,0.80,"Evans, Tyreke",5.80,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,2,0,59,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-221,97,0,1.00,"Lee, David",5.30,11.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,3,9,09,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",170,175,2,2.20,"Iguodala, Andre",4.20,15.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,2,2,42,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-232,-5,0,0.90,"Adrien, Jeff",13.70,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,3,8,32,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-234,7,0,0.70,"Wolters, Nate",4.80,9.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,3,7,15,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-67,236,0,0.80,"Wolters, Nate",6.00,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,4,7,19,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-68,239,0,1.00,"Sessions, Ramon",12.00,17.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,2,2,20,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-224,4,0,1.30,"Webster, Martell",6.40,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,3,10,02,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-232,25,0,0.00,"Ariza, Trevor",4.90,23.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,3,7,52,1,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-223,23,0,0.90,"Wall, John",4.10,12.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,4,6,53,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-64,239,0,0.70,"Beal, Bradley",6.00,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,4,3,38,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-109,222,0,0.90,"Beal, Bradley",2.70,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,10,39,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-152,201,0,0.90,"Henderson, Gerald",5.30,12.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,5,47,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",0,33,2,2.40,"Henderson, Gerald",0.80,10.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,4,16,1,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-116,45,0,0.60,"Henderson, Gerald",3.90,13.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,3,44,1,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",28,15,1,1.80,"Henderson, Gerald",4.80,14.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,3,19,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-122,225,0,0.80,"Henderson, Gerald",4.60,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,3,6,59,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",146,217,1,2.80,"Chalmers, Mario",2.00,3.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,4,4,33,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",135,216,0,0.80,"Cole, Norris",4.40,2.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,4,2,55,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",116,228,0,0.90,"Allen, Ray",6.80,14.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,2,7,10,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",189,178,0,1.00,"Harris, Tobias",6.10,19.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,3,5,30,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-234,41,0,0.80,"Oladipo, Victor",6.40,17.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,4,8,10,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-38,246,0,0.90,"Moore, ETwaun",3.50,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,4,2,31,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-98,239,0,1.00,"Afflalo, Arron",7.90,21.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,4,1,11,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",119,231,0,0.80,"Oladipo, Victor",1.90,14.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,2,4,32,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-224,12,0,0.80,"Teague, Jeff",4.30,19.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,1,5,17,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-229,30,0,0.80,"Carroll, DeMarre",5.70,10.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,2,0,00,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",162,195,1,1.90,"Mack, Shelvin",2.40,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,4,0,56,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-134,214,0,0.90,"Mack, Shelvin",6.40,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,1,11,28,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-191,143,0,0.80,"Butler, Jimmy",5.50,13.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,1,1,16,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",160,78,6,4.90,"Butler, Jimmy",8.10,8.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,2,1,18,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",-49,116,2,2.30,"Butler, Jimmy",4.00,5.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,3,10,32,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",160,11,0,2.20,"Butler, Jimmy",2.40,8.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,3,9,22,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",209,137,0,0.80,"Dunleavy, Mike",5.60,19.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,1,8,25,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,3,0,0.80,"Lee, Courtney",5.00,12.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,4,7,27,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,60,0,0.80,"Johnson, James",10.20,17.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,1,10,19,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-199,160,0,0.90,"Meeks, Jodie",14.90,19.70
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,4,5,13,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-215,142,0,0.90,"Young, Nick",11.20,4.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,1,15,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,7,0,1.00,"Tucker, PJ",5.10,16.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,9,38,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-217,107,0,-0.30,"Evans, Tyreke",3.40,6.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,8,33,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-134,217,0,0.90,"Davis, Anthony",8.60,17.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,2,07,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",32,239,0,1.00,"Evans, Tyreke",5.50,15.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,0,50,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-187,86,4,4.20,"Ajinca, Alexis",6.30,14.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,3,7,13,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",233,23,0,0.80,"Davis, Anthony",5.70,3.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,4,6,45,0,"Jump Shot","2PT Field Goal",23,"New Orleans Pelicans",-62,224,0,1.00,"Davis, Anthony",5.30,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,1,1,59,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-95,179,1,2.80,"Williams, Derrick",4.30,17.50
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,2,5,16,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-225,-8,0,0.80,"Acy, Quincy",4.30,8.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,3,9,41,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",157,197,0,0.90,"McLemore, Ben",6.70,15.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,3,7,53,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-235,0,0,0.80,"McLemore, Ben",5.20,4.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,3,3,55,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-127,213,0,0.80,"McLemore, Ben",5.70,6.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,1,6,47,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-209,131,0,2.80,"Burks, Alec",8.50,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,2,1,18,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-160,183,0,0.90,"Burks, Alec",4.50,10.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,2,0,44,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",182,159,0,1.10,"Burks, Alec",4.00,9.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,4,2,14,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-213,121,0,0.90,"Burks, Alec",4.50,14.50
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,1,4,37,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-34,247,0,0.80,"Iguodala, Andre",6.40,10.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,3,2,32,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-101,225,0,0.80,"Barnes, Harrison",3.80,14.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,4,0,01,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-226,-5,0,0.50,"Green, Draymond",3.80,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,5,3,34,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-169,175,0,0.80,"Johnson, Amir",8.90,12.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,2,2,24,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-149,34,6,6.40,"Martin, Kevin",5.40,9.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,1,9,52,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",64,241,0,0.80,"Oladipo, Victor",5.60,8.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,2,1,46,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",116,156,0,1.00,"Blair, DeJuan",8.80,6.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,3,0,12,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-193,143,0,0.80,"Hickson, JJ",6.00,9.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,1,4,03,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-109,242,0,0.90,"Turner, Evan",7.50,8.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,3,8,56,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-120,238,0,0.90,"Turner, Evan",7.30,15.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,2,2,42,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",236,-35,0,0.80,"Rubio, Ricky",3.50,18.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,4,4,11,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",225,19,0,0.80,"Carter-Williams, Michael",7.30,8.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,4,4,28,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",225,-17,0,0.70,"Henson, John",6.90,13.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,3,3,45,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,37,0,1.80,"Jackson, Reggie",2.50,12.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,0,48,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-245,14,0,0.70,"Hill, George",3.90,18.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,3,11,46,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-226,7,0,1.60,"Martin, Kevin",4.00,12.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,1,6,09,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-193,30,0,0.80,"Irving, Kyrie",7.40,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,2,1,57,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-160,192,0,1.00,"Dragic, Goran",13.40,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,0,32,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",77,209,4,6.70,"Gibson, Taj",4.80,10.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,3,5,26,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",222,116,0,0.70,"Lee, Courtney",6.00,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,4,6,15,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",233,66,0,0.70,"Oladipo, Victor",4.60,17.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,2,0,01,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",51,242,0,0.80,"Ariza, Trevor",6.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,2,40,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",143,211,0,0.90,"Hinrich, Kirk",3.40,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,2,4,30,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",43,241,0,0.80,"Bazemore, Kent",5.50,11.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,3,6,01,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",24,77,2,1.90,"Diaw, Boris",3.20,12.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,1,9,26,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",62,247,2,2.80,"Noah, Joakim",6.80,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,3,3,50,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-187,156,0,0.80,"Marion, Shawn",5.40,13.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,1,8,13,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",189,30,2,3.00,"Carroll, DeMarre",4.20,9.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,4,3,59,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-125,222,0,0.90,"George, Paul",5.80,15.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,1,11,03,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-229,52,0,1.00,"Randolph, Zach",4.70,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,1,7,06,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",121,183,2,2.50,"Wolters, Nate",4.10,8.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,1,5,39,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",140,222,0,0.80,"Meeks, Jodie",3.30,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,1,6,01,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-234,28,0,0.80,"Korver, Kyle",7.00,20.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,7,10,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-164,198,0,0.60,"Leonard, Kawhi",2.70,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,2,7,49,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-35,64,1,2.10,"Dieng, Gorgui",2.80,3.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,6,34,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-139,77,2,2.50,"Mayo, O.J.",4.00,3.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,4,1,47,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",223,4,0,0.90,"Meeks, Jodie",5.00,4.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,3,0,32,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",215,124,0,0.90,"Green, Draymond",1.70,11.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,3,8,10,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",162,179,0,0.80,"Lin, Jeremy",5.80,16.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,2,8,19,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",9,247,0,0.80,"Butler, Rasual",5.50,20.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,4,2,44,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",226,124,1,1.70,"Fredette, Jimmer",4.50,2.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,1,11,19,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-198,145,0,0.80,"Ellis, Monta",3.80,6.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,1,0,01,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",190,175,1,2.30,"Nash, Steve",4.40,3.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,4,2,36,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-228,-5,0,0.80,"Lee, David",4.30,2.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,2,6,29,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-234,17,0,0.90,"Williams, Derrick",8.40,16.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,2,0,01,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-201,156,0,0.70,"Lin, Jeremy",3.50,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,1,6,16,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",47,250,0,0.80,"Afflalo, Arron",4.30,11.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,0,30,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",195,160,0,0.80,"Thomas, Isaiah",11.30,16.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,3,9,52,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-201,143,0,0.80,"Harden, James",4.40,14.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,3,6,28,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-246,0,0,0.60,"Young, Thaddeus",5.60,19.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,2,3,49,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,0,0,0.70,"Holiday, Jrue",5.90,15.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,1,7,29,0,"Jump Shot","2PT Field Goal",10,"Utah Jazz",0,108,2,2.60,"Hayward, Gordon",3.10,8.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,4,6,37,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-193,149,1,1.70,"Evans, Tyreke",4.00,5.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,1,18,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",26,255,0,0.90,"Harden, James",6.50,10.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,3,10,40,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",163,184,1,1.30,"Splitter, Tiago",3.80,2.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,4,5,39,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-128,213,0,0.90,"Calderon, Jose",7.00,20.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,3,8,03,0,"Jump Shot","2PT Field Goal",8,"Orlando Magic",-60,61,4,3.90,"Afflalo, Arron",4.40,18.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,2,4,14,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-224,-19,0,0.70,"Foye, Randy",5.50,10.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,7,18,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",230,15,0,0.70,"Deng, Luol",4.90,18.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,3,0,44,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-229,74,0,0.80,"Shumpert, Iman",4.50,10.20
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,1,7,51,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",196,151,0,0.80,"Dragic, Goran",7.80,7.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,0,46,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-163,183,0,0.80,"Chalmers, Mario",4.70,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,2,0,33,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",233,25,0,0.90,"Iguodala, Andre",6.80,3.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,1,11,40,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-210,127,0,1.30,"Bazemore, Kent",6.50,18.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,1,6,43,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",113,214,0,0.80,"Afflalo, Arron",4.10,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,2,6,46,0,"Jump Shot","2PT Field Goal",11,"Phoenix Suns",-103,42,2,4.00,"Smith, Ish",4.10,2.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,3,9,17,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",234,69,0,0.90,"Shumpert, Iman",7.80,11.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,3,8,00,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-229,6,0,0.90,"Afflalo, Arron",4.40,12.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,3,37,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",56,205,1,2.30,"Jefferson, Richard",4.20,14.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,1,53,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-228,19,0,0.90,"Dalembert, Samuel",9.30,6.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,1,9,01,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",4,77,1,3.50,"Belinelli, Marco",2.50,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,3,9,30,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-201,64,0,0.80,"Lee, Courtney",7.80,13.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,2,10,46,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-232,9,0,0.90,"Parsons, Chandler",5.40,10.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,1,42,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",163,192,0,0.90,"Wolters, Nate",7.80,22.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,4,1,30,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",143,198,0,0.90,"Hayward, Gordon",5.70,2.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,1,9,04,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",72,123,2,3.80,"Burke, Trey",4.70,5.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,2,6,13,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",0,189,3,2.90,"Terry, Jason",10.90,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,1,7,12,0,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",17,53,2,4.50,"Gasol, Marc",3.10,9.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,2,0,02,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",144,217,0,0.70,"Burks, Alec",2.60,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,2,11,02,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-228,17,0,1.40,"Miller, Quincy",1.80,17.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,4,8,02,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-226,28,1,1.70,"Ibaka, Serge",3.00,11.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,4,5,04,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-198,146,0,0.80,"Miller, Andre",10.30,23.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,8,44,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",185,175,1,2.80,"Jefferson, Richard",4.00,2.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,4,1,37,0,"Jump Shot","2PT Field Goal",22,"Houston Rockets",166,149,0,1.10,"Harden, James",5.00,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,2,7,28,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",15,208,0,0.80,"Rubio, Ricky",3.70,9.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,3,2,22,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",119,214,0,0.80,"Favors, Derrick",5.20,13.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,1,7,28,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-163,175,1,2.10,"Harden, James",7.00,11.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,1,1,45,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",84,184,0,0.80,"Brown, Shannon",3.50,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,1,8,27,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",201,146,0,0.70,"Marshall, Kendall",6.50,12.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,3,24,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-201,80,0,1.20,"Boozer, Carlos",18.90,19.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,3,3,24,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",200,140,0,1.00,"Splitter, Tiago",7.50,21.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,2,10,00,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",36,241,0,0.80,"Barea, Jose Juan",3.80,15.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,2,6,08,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",103,219,1,1.80,"Harden, James",5.00,3.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,3,9,46,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",226,11,0,1.00,"Jones, Terrence",9.40,17.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,2,5,42,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-194,145,1,2.00,"Harkless, Maurice",5.10,13.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,1,4,19,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",218,22,0,0.70,"Turner, Evan",6.40,19.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,1,3,05,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",231,-5,0,0.80,"Beal, Bradley",3.20,5.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,2,1,02,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",236,-3,0,0.80,"Brown, Lorenzo",8.20,10.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,1,9,09,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",110,219,0,0.80,"Brewer, Corey",4.70,20.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,4,3,50,0,"Jump Shot","2PT Field Goal",6,"Orlando Magic",-45,50,4,4.00,"Oladipo, Victor",2.30,4.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,1,8,34,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-171,176,0,1.30,"Bass, Brandon",15.80,5.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,3,9,33,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",4,89,1,1.80,"Meeks, Jodie",3.60,3.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,2,0,19,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-133,233,2,2.10,"Crawford, Jamal",2.00,1.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,2,7,04,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-183,179,0,0.80,"Johnson, James",4.80,19.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,4,2,58,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",225,22,0,0.80,"Brewer, Corey",7.00,18.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,3,3,47,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,6,0,0.70,"Ellis, Monta",4.60,22.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,2,3,08,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",130,201,0,0.90,"Burks, Alec",4.50,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,4,0,08,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-108,236,2,1.90,"Barnes, Matt",2.10,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,3,21,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-235,85,1,3.60,"Casspi, Omri",5.70,18.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,1,38,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",182,173,0,0.00,"Wolters, Nate",4.90,22.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,2,5,23,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-157,192,6,5.70,"Anthony, Carmelo",5.20,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,2,4,20,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",50,250,0,1.10,"Billups, Chauncey",8.80,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,4,0,32,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,15,0,0.80,"Lin, Jeremy",4.50,6.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,7,23,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",67,231,0,0.90,"Parsons, Chandler",6.20,14.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,1,10,09,0,"Jump Shot","2PT Field Goal",9,"Phoenix Suns",97,3,2,2.20,"Tucker, PJ",0.90,4.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,2,4,58,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-174,179,1,2.70,"Williams, Derrick",5.50,16.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,1,4,57,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-18,254,2,3.10,"Harden, James",3.90,12.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,3,10,12,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",207,124,0,1.10,"Turner, Evan",10.00,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,2,1,46,0,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",170,142,1,1.80,"Mozgov, Timofey",7.40,20.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,3,3,16,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-231,31,1,2.00,"Salmons, John",4.10,17.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,7,30,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,-5,0,0.90,"Bargnani, Andrea",7.50,7.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,3,4,49,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",97,50,2,4.00,"Meeks, Jodie",1.80,7.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,4,3,05,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",75,181,2,2.70,"Faried, Kenneth",9.10,10.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,1,9,03,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",81,173,2,2.10,"Thornton, Marcus",2.90,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,4,1,38,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-122,127,3,3.20,"Hayward, Gordon",5.30,10.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,3,9,18,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",111,102,2,3.50,"Kanter, Enes",6.10,7.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,5,3,29,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-224,4,0,0.90,"Novak, Steve",6.70,22.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,3,8,59,0,"Jump Shot","2PT Field Goal",9,"Sacramento Kings",-10,91,2,5.10,"Thornton, Marcus",3.10,8.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,1,8,05,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-131,214,0,3.90,"Henderson, Gerald",7.20,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,8,41,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-193,148,0,0.80,"Anthony, Carmelo",4.10,15.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,5,2,03,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-120,213,0,0.90,"Crawford, Jamal",3.70,6.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,3,5,42,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",201,146,0,1.40,"Oden, Greg",8.30,17.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,2,6,22,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",10,254,0,0.90,"Mack, Shelvin",4.80,17.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,1,6,47,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-226,77,0,1.10,"Lin, Jeremy",9.10,20.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,3,6,29,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",198,151,1,1.60,"Beal, Bradley",7.70,3.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,2,0,40,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",-62,119,1,1.90,"Chandler, Tyson",6.50,3.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,1,2,52,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-228,0,0,0.80,"Barnes, Harrison",8.50,12.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,3,5,55,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-87,235,2,1.90,"Green, Danny",4.50,5.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,1,8,20,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-106,224,0,2.80,"Barnes, Matt",8.80,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,2,1,57,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",43,154,0,1.50,"Gay, Rudy",4.40,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,4,4,52,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-26,247,1,1.60,"Miller, Mike",5.90,17.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,1,9,53,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",-43,14,0,0.70,"Meeks, Jodie",2.30,5.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,5,27,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",135,211,0,1.00,"Durant, Kevin",8.10,15.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,2,4,42,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",228,-30,0,0.70,"Blair, DeJuan",6.20,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,3,11,07,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",58,242,0,0.80,"Marion, Shawn",5.10,5.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,3,11,12,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",2,45,2,2.50,"Davis, Anthony",5.90,9.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,3,55,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",18,241,0,0.90,"Ibaka, Serge",4.70,22.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,4,2,04,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",53,112,0,1.10,"Barnes, Matt",7.60,18.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,1,5,46,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",225,0,0,1.00,"Rubio, Ricky",6.80,10.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,1,4,06,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",86,228,1,1.70,"Beal, Bradley",4.90,6.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,3,2,38,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",144,216,0,0.80,"Butler, Jimmy",4.10,11.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,3,8,08,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",97,224,0,0.80,"Bradley, Avery",3.20,10.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,4,1,37,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",125,216,0,0.90,"Pekovic, Nikola",6.00,14.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,1,9,19,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",114,216,0,1.20,"Carter-Williams, Michael",7.20,22.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,3,5,42,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-239,-10,0,0.80,"Livingston, Shaun",5.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,4,0,42,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-237,42,0,1.00,"Temple, Garrett",2.40,20.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,4,7,00,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",181,186,0,0.90,"Miller, Darius",7.30,19.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,3,11,50,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-210,146,0,2.10,"Beal, Bradley",5.30,15.70
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,3,9,15,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-229,42,0,0.90,"Bazemore, Kent",4.50,14.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,1,10,53,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-229,48,0,1.00,"Varejao, Anderson",8.50,19.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,3,6,27,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",160,189,0,0.80,"Monroe, Greg",8.50,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,1,7,27,0,"Jump Shot","2PT Field Goal",22,"New York Knicks",206,78,1,2.00,"Felton, Raymond",3.10,8.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,1,7,30,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",209,129,0,0.60,"Granger, Danny",5.30,14.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,3,3,23,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-229,101,0,0.70,"Waiters, Dion",6.30,5.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,0,46,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-26,186,2,3.30,"Morris, Marcus",4.20,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,2,9,19,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",62,142,2,1.50,"Novak, Steve",3.70,12.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,3,1,48,0,"Jump Shot","2PT Field Goal",12,"Utah Jazz",0,124,3,2.00,"Hayward, Gordon",2.10,2.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,1,11,24,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",173,183,0,0.90,"Henderson, Gerald",8.40,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,1,8,01,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-224,0,0,1.30,"Sefolosha, Thabo",8.20,20.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,6,00,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-119,159,0,0.80,"Robinson, Nate",4.00,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,1,1,36,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-139,216,0,0.90,"Henry, Xavier",13.20,9.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,3,11,01,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-139,138,7,4.80,"Stephenson, Lance",3.30,3.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,1,6,18,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",201,3,0,0.70,"Pierce, Paul",5.00,13.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,4,6,44,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",187,159,3,3.00,"Barnes, Harrison",3.40,5.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,3,43,0,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",1,41,1,1.60,"Thomas, Isaiah",2.90,20.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,3,7,48,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",122,214,0,1.00,"Barnes, Matt",4.90,16.30
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,4,1,15,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",23,255,0,1.00,"Tucker, PJ",4.10,21.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,4,3,15,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-177,165,0,0.80,"Bargnani, Andrea",8.20,1.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,2,9,27,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-209,140,0,0.80,"Gibson, Taj",7.50,7.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",92,233,1,1.60,"Sessions, Ramon",5.20,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,3,5,34,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-248,75,0,0.70,"Belinelli, Marco",5.10,14.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,1,7,21,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",195,165,0,0.80,"Foye, Randy",6.10,14.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,1,5,49,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-226,75,0,1.00,"Morrow, Anthony",5.00,11.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,4,1,28,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",189,157,0,1.00,"Shved, Alexey",8.50,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,7,25,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",135,203,0,0.90,"Dudley, Jared",6.00,16.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,1,9,27,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",236,86,5,4.40,"Bynum, Andrew",7.00,16.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,3,8,41,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",91,178,1,1.20,"Shumpert, Iman",4.40,11.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,8,22,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",228,-2,0,0.90,"Howard, Dwight",23.20,14.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,3,5,53,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",149,194,0,1.20,"Crawford, Jamal",13.00,5.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,1,7,02,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",10,247,0,0.90,"Parsons, Chandler",7.20,8.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,1,46,0,"Jump Shot","2PT Field Goal",23,"Los Angeles Clippers",132,190,2,1.90,"Crawford, Jamal",7.20,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,3,2,08,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-218,115,0,1.00,"Calathes, Nick",8.40,19.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,2,9,05,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-101,175,1,1.60,"Miller, Mike",6.70,15.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,2,8,12,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-207,154,1,2.00,"Moore, ETwaun",5.30,16.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,7,25,0,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",220,19,0,0.70,"Jackson, Reggie",4.20,3.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,2,14,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,23,0,0.80,"Calderon, Jose",4.30,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,1,9,48,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",125,17,2,4.50,"Joseph, Cory",3.20,10.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,5,35,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-201,140,0,0.90,"Udrih, Beno",5.40,13.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,2,9,13,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-149,78,2,5.40,"Crawford, Jordan",5.10,9.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,1,3,46,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-234,34,0,0.90,"McLemore, Ben",3.60,14.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,1,8,17,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-229,12,0,0.80,"Chalmers, Mario",4.60,8.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,4,8,10,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",105,230,0,0.00,,0.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,4,43,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",233,33,0,0.80,"Thompson, Jason",13.00,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,4,5,19,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-232,0,0,0.60,"Duncan, Tim",5.30,13.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,3,6,56,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-229,4,0,0.90,"Bass, Brandon",7.00,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,3,5,33,0,"Jump Shot","2PT Field Goal",12,"Toronto Raptors",95,80,3,4.70,"DeRozan, DeMar",2.80,6.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,8,48,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-175,168,0,0.90,"Oladipo, Victor",7.10,18.00
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,3,7,55,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",-40,22,1,1.60,"Frye, Channing",1.50,10.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,11,13,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-92,233,2,2.50,"Jefferson, Richard",5.40,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,1,5,41,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-226,7,0,1.00,"Lee, Courtney",3.10,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,2,7,20,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-240,66,0,1.20,"Barnes, Harrison",3.60,17.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,2,3,25,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-168,176,0,0.90,"Patterson, Patrick",6.20,19.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,3,12,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",78,233,2,5.10,"Chalmers, Mario",3.30,5.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,3,6,26,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",230,6,0,0.90,"Gasol, Pau",5.20,9.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,4,3,28,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",203,153,1,1.60,"Vasquez, Greivis",3.40,1.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,4,5,34,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",102,33,1,1.70,"Jennings, Brandon",2.10,7.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,3,7,20,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-18,244,0,0.80,"Foye, Randy",2.90,15.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,2,7,09,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-229,112,1,1.80,"Pachulia, Zaza",14.70,19.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,4,1,54,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-229,47,1,1.40,"Gordon, Eric",5.70,2.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,2,8,14,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-224,-5,0,0.80,"Burks, Alec",9.10,6.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,1,7,37,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-4,260,0,1.00,"Miller, Darius",6.20,16.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-11,2013,4032,1610612757,400488978,1,8,19,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-223,52,1,1.60,"Billups, Chauncey",4.30,15.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,3,7,05,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-231,0,0,0.80,"Tucker, PJ",5.60,16.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,2,7,56,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",185,184,6,6.20,"Miller, Quincy",4.10,14.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,3,4,46,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",225,99,3,3.00,"Martin, Kevin",4.10,4.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,3,5,42,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-111,227,0,0.80,"Roberts, Brian",4.70,2.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,2,5,42,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",0,252,0,0.90,"Ross, Terrence",5.10,17.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,2,3,52,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-226,6,0,0.80,"DeRozan, DeMar",6.70,7.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,2,3,44,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",58,194,1,0.40,"DeRozan, DeMar",6.00,22.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,3,9,26,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",190,22,1,2.30,"DeRozan, DeMar",2.30,14.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,1,9,56,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",113,222,0,0.80,"Johnson, Joe",4.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,1,7,56,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-54,235,0,0.90,"Garnett, Kevin",5.60,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,1,7,23,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-103,238,0,0.90,"Livingston, Shaun",9.30,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,1,6,22,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-122,214,0,0.90,"Johnson, Joe",3.60,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,2,4,17,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",236,34,0,0.90,"Johnson, Joe",9.30,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,10,39,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-234,118,0,2.00,"Mayo, O.J.",5.70,8.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,9,56,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-245,-6,0,0.00,"Udoh, Ekpe",6.90,8.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,2,48,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",206,132,0,1.20,"Ilyasova, Ersan",12.90,21.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,2,1,31,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-204,-5,0,0.90,"Mayo, O.J.",3.90,13.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,4,5,06,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-243,-8,0,1.10,"Pachulia, Zaza",9.90,14.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,9,08,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-142,203,0,0.90,"Deng, Luol",3.90,16.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,5,02,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",212,131,0,0.00,"Deng, Luol",9.10,5.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,2,6,02,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-188,187,0,1.20,"Hinrich, Kirk",3.70,0.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,2,3,16,1,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-228,14,0,0.80,"Hinrich, Kirk",15.30,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,2,0,02,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",236,-14,0,0.60,"Hinrich, Kirk",9.80,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,4,1,37,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",132,153,7,8.10,"Deng, Luol",3.50,8.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,2,7,26,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",222,1,0,0.70,"Prigioni, Pablo",4.50,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,3,1,50,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",228,-2,0,1.00,"Stoudemire, Amare",6.50,18.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,4,9,09,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",233,-8,0,0.80,"Bargnani, Andrea",7.60,18.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,4,6,35,1,"Jump Shot","2PT Field Goal",22,"New York Knicks",168,151,1,4.20,"Prigioni, Pablo",8.20,2.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,1,6,48,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-237,77,0,1.00,"Tucker, PJ",4.50,10.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,3,7,29,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",228,56,0,0.00,"Plumlee, Miles",10.00,16.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,3,9,20,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-122,231,0,1.00,"Blake, Steve",2.60,15.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,3,6,40,1,"Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",50,11,2,3.60,"Hill, Jordan",2.80,4.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,3,6,14,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",190,194,0,0.00,"Young, Nick",6.40,22.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,4,1,20,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-234,45,0,0.90,"Meeks, Jodie",1.80,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,4,6,37,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",234,53,0,0.70,"Hill, George",4.40,11.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,1,4,30,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",86,230,0,0.90,"Adams, Steven",15.70,18.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,1,6,46,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-228,-2,0,0.70,"Jefferson, Richard",6.90,15.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,1,4,06,0,"Jump Shot","2PT Field Goal",9,"Utah Jazz",37,91,0,3.20,"Burke, Trey",3.20,12.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,2,0,20,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-142,200,0,0.70,"Rush, Brandon",6.70,13.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,11,24,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",135,203,0,0.80,"Hayward, Gordon",8.20,19.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,7,13,1,"Jump Shot","2PT Field Goal",3,"Utah Jazz",2,37,2,3.00,"Favors, Derrick",5.30,16.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,1,48,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",176,179,0,1.00,"Harris, Michael",6.90,19.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,1,7,05,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-13,244,0,0.80,"Ellis, Monta",5.00,10.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,4,7,25,0,"Jump Shot","2PT Field Goal",7,"Dallas Mavericks",-75,20,4,5.60,"Mekel, Gal",0.60,12.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,1,4,28,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",141,110,0,0.80,"Hayward, Gordon",6.30,10.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,3,10,33,1,"Jump Shot","2PT Field Goal",23,"Utah Jazz",97,209,1,1.50,"Kanter, Enes",5.50,3.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,3,8,29,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",228,23,0,0.80,"Hayward, Gordon",6.60,9.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,1,5,45,1,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-56,143,0,1.20,"Beverley, Patrick",5.80,11.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,3,9,26,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-229,-8,0,0.80,"Parsons, Chandler",7.40,18.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,3,6,37,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-224,-13,0,0.80,"Howard, Dwight",7.90,18.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,3,6,03,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",168,179,0,0.00,"Harden, James",3.20,23.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,1,7,41,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",193,168,0,0.80,"Wroten, Tony",5.80,7.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,2,5,50,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",125,225,0,0.90,"Young, Thaddeus",8.10,21.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,3,9,42,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",231,-19,0,0.80,"Turner, Evan",5.80,9.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,1,9,01,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-146,14,0,1.00,"Jennings, Brandon",3.00,12.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,2,5,15,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",29,263,0,0.90,"Billups, Chauncey",4.50,11.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,2,6,02,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-237,80,0,0.80,"Irving, Kyrie",16.30,19.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,3,7,18,1,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",1,96,0,0.90,"Irving, Kyrie",3.70,23.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,3,5,23,1,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-103,4,3,5.20,"Waiters, Dion",3.40,7.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,4,4,51,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-224,105,0,0.80,"Waiters, Dion",8.20,21.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,4,2,51,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-237,19,0,0.90,"Jack, Jarrett",8.40,18.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,1,8,25,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-179,176,0,1.20,"Martin, Kevin",16.40,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,3,4,02,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",118,160,5,5.60,"Martin, Kevin",2.90,18.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,4,8,22,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",43,238,0,0.90,"Cunningham, Dante",9.70,22.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,4,0,32,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",226,105,1,2.10,"Brewer, Corey",2.90,17.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,1,10,20,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-120,227,0,0.80,"Holiday, Jrue",10.20,9.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,3,11,16,1,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",39,1,9,8.20,"Gordon, Eric",4.30,15.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,3,4,57,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-209,3,1,2.10,"Gordon, Eric",4.90,12.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,4,8,50,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-221,104,0,0.80,"Evans, Tyreke",5.50,14.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,1,6,45,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-231,14,0,1.20,"Crawford, Jamal",5.00,11.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,1,2,48,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-223,94,0,1.10,"Jamison, Antawn",5.50,17.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,2,3,13,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-220,110,0,1.00,"Paul, Chris",4.20,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,3,10,03,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",201,142,0,0.90,"Dudley, Jared",3.40,15.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,1,5,52,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-193,151,0,0.90,"Battier, Shane",6.90,19.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,7,15,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-221,121,0,0.90,"Beasley, Michael",8.40,22.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,6,20,1,"Jump Shot","2PT Field Goal",22,"Miami Heat",-198,110,0,1.20,"Wade, Dwyane",9.20,23.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,4,43,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-223,-8,0,0.80,"Cole, Norris",6.40,4.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,2,30,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-226,-5,0,0.60,"Chalmers, Mario",19.70,11.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,3,4,22,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-226,0,0,0.00,"Lewis, Rashard",4.00,13.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,1,6,23,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",23,244,0,0.00,"Holiday, Jrue",5.30,7.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,2,3,06,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",222,-8,0,0.80,"Anderson, Ryan",7.30,10.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,2,0,41,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",118,228,0,1.80,"Evans, Tyreke",1.80,0.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,3,5,27,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-228,6,0,0.00,"Evans, Tyreke",5.00,16.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,4,10,42,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",223,29,2,4.80,"Rivers, Austin",1.70,9.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,4,9,53,1,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-7,44,0,0.80,"Holiday, Jrue",5.60,13.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,6,48,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-234,72,0,1.00,"Lamb, Jeremy",4.70,14.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,6,04,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",176,162,0,0.90,"Lamb, Jeremy",4.90,5.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,4,0,27,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",234,50,1,1.90,"Sefolosha, Thabo",4.00,4.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,1,10,17,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-217,134,0,0.80,"Henderson, Gerald",4.70,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,1,8,08,1,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",223,-5,1,1.80,"Walker, Kemba",10.20,12.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,2,3,13,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-229,91,1,3.30,"Henderson, Gerald",2.50,9.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,3,8,28,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",114,230,0,0.90,"Henderson, Gerald",13.60,16.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,3,5,43,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-202,52,0,0.90,"Henderson, Gerald",5.30,19.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,3,3,24,1,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",121,252,0,0.00,"Sessions, Ramon",5.60,23.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,2,5,39,1,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",0,64,4,3.30,"Wroten, Tony",2.20,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,2,0,00,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-224,53,1,2.20,"Williams, Elliot",3.20,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,4,1,29,1,"Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",102,23,1,1.60,"Anderson, James",2.90,7.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,10,31,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",215,131,0,1.00,"Gay, Rudy",8.20,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,4,50,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-45,249,0,1.00,"Gay, Rudy",6.50,18.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,1,7,41,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",39,244,0,0.80,"Afflalo, Arron",4.00,14.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,3,4,08,1,"Jump Shot","2PT Field Goal",7,"Orlando Magic",72,9,3,4.40,"Afflalo, Arron",0.90,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,11,43,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",114,219,1,2.10,"Harkless, Maurice",5.00,9.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,2,13,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",29,247,0,1.10,"Nelson, Jameer",5.30,6.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,1,3,45,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",59,236,0,1.10,"Green, Jeff",9.40,18.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,2,10,26,1,"Jump Shot","2PT Field Goal",22,"Boston Celtics",214,77,0,1.00,"Wallace, Gerald",10.50,10.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,2,7,41,0,"Jump Shot","2PT Field Goal",21,"Boston Celtics",-213,-2,0,0.90,"Bayless, Jerryd",2.90,13.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,3,8,01,1,"Jump Shot","2PT Field Goal",20,"Boston Celtics",70,195,1,1.60,"Humphries, Kris",5.50,22.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,3,7,34,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",193,143,0,0.00,"Green, Jeff",8.40,10.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,2,7,44,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",2,124,1,2.40,"Waiters, Dion",5.00,16.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,2,6,09,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",138,201,0,0.90,"Deng, Luol",8.70,9.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,3,7,41,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-179,172,0,1.10,"Varejao, Anderson",7.50,13.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,4,0,58,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-46,241,0,0.80,"Waiters, Dion",7.00,6.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,1,8,30,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",114,113,2,2.20,"Duncan, Tim",5.90,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,1,5,56,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",182,160,0,1.20,"Belinelli, Marco",2.80,7.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,2,8,18,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-196,156,0,0.80,"Mills, Patty",4.80,19.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,3,11,05,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-232,63,0,0.80,"Belinelli, Marco",6.10,14.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,3,0,59,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-187,20,0,0.90,"Ayres, Jeff",3.40,7.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,4,3,46,1,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-223,-3,0,0.70,"Parker, Tony",3.60,22.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,4,2,39,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",200,165,0,0.80,"Belinelli, Marco",7.80,11.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,4,1,25,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",223,119,0,0.90,"Belinelli, Marco",7.40,6.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,2,10,22,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-144,197,0,0.70,"Larkin, Shane",4.10,6.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,3,10,08,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-226,60,1,1.80,"Nowitzki, Dirk",3.20,19.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,3,8,37,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",133,213,0,0.80,"Ellis, Monta",8.00,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,3,5,06,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-188,206,0,1.10,"Parsons, Chandler",5.50,18.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,3,4,39,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-234,4,0,1.00,"Casspi, Omri",15.30,5.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,1,9,25,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-2,239,0,0.90,"Sefolosha, Thabo",5.10,2.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,2,11,07,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-179,179,0,0.90,"Lamb, Jeremy",6.80,16.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,2,5,48,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-164,173,0,1.00,"Collison, Nick",6.10,8.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,10,34,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",135,214,0,0.70,"Jackson, Reggie",3.80,12.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,9,08,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",209,126,0,0.80,"Jackson, Reggie",4.70,6.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,4,8,45,1,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",140,159,1,2.20,"Lamb, Jeremy",5.40,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,1,11,14,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-232,-5,3,4.60,"Foye, Randy",7.10,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,1,8,02,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",226,-5,0,0.90,"Hickson, JJ",6.40,22.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,2,7,56,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-215,0,0,1.00,"Mozgov, Timofey",6.80,12.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,4,10,10,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-146,47,1,1.80,"Robinson, Nate",3.30,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,4,0,43,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",228,19,1,1.60,"Foye, Randy",5.40,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,3,2,52,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",1,44,2,3.00,"Henderson, Gerald",2.10,14.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,1,4,44,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",114,216,0,0.80,"Martin, Kevin",5.80,8.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,1,8,13,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-149,203,0,0.80,"Lee, Courtney",4.60,3.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,4,8,27,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-93,233,0,0.80,"Mbah a Moute, Luc",8.30,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,1,5,04,0,"Jump Shot","2PT Field Goal",7,"Utah Jazz",-65,31,4,5.20,"Burks, Alec",1.40,12.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,4,6,56,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-131,-6,1,1.90,"Paul, Chris",3.20,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,4,56,0,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",-223,19,0,1.00,"Green, Gerald",5.10,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,4,8,20,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-157,189,0,0.80,"Foye, Randy",6.30,3.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,1,6,33,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",236,6,0,0.80,"Allen, Ray",6.40,15.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,5,01,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-79,231,0,0.80,"Lamb, Jeremy",5.60,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,1,0,00,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-108,224,3,3.30,"Jefferson, Richard",2.70,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,4,0,53,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-231,0,0,0.70,"Westbrook, Russell",5.40,7.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,2,7,01,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-158,197,0,1.00,"Anthony, Carmelo",6.40,14.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,2,0,30,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",174,200,2,2.10,"Crawford, Jordan",3.70,11.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,1,6,33,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-92,228,0,0.90,"Wallace, Gerald",5.20,10.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,2,7,27,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",190,168,0,0.70,"Henry, Xavier",5.00,9.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,4,3,18,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-237,-21,0,0.70,"Johnson, Joe",5.80,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,1,9,55,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-218,116,0,1.00,"Dudley, Jared",12.50,13.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,1,4,33,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",13,252,0,0.70,"Holiday, Jrue",4.90,15.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,4,2,33,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",92,246,0,0.70,"Thompson, Klay",4.20,17.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,1,5,08,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",233,11,0,0.80,"Sefolosha, Thabo",5.10,21.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,4,5,36,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-231,1,0,0.80,"Collison, Darren",4.00,7.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,1,7,11,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",201,134,0,0.80,"Green, Danny",7.80,19.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,4,1,21,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",207,44,1,2.50,"Johnson, James",5.00,1.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,4,1,44,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-213,110,0,0.80,"James, LeBron",1.30,16.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,2,1,29,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",24,151,1,1.30,"Thornton, Marcus",2.60,12.30
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,3,8,43,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-84,239,0,0.80,"Davis, Anthony",6.30,15.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,2,6,03,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-212,119,0,0.80,"Frye, Channing",8.20,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,3,8,17,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-166,209,0,1.60,"Thompson, Klay",3.70,7.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,1,7,50,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-224,63,0,0.90,"Ariza, Trevor",12.20,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,3,7,20,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-81,151,0,1.20,"Mack, Shelvin",9.50,23.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,2,0,34,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",231,96,7,6.20,"Evans, Jeremy",8.00,17.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,4,0,41,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",0,254,4,3.00,"Thompson, Tristan",3.70,2.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,3,4,35,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",105,250,0,1.20,"Barnes, Matt",4.60,11.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,2,3,56,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-194,0,3,8.80,"Dunleavy, Mike",6.50,4.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-18,2013,4032,1610612757,400489023,4,1,12,0,"Jump Shot","3PT Field Goal",33,"Brooklyn Nets",-172,283,0,0.90,"Garnett, Kevin",2.70,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,3,10,31,0,"Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",-65,17,3,3.20,"Mayo, O.J.",3.00,19.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,1,9,05,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",140,112,2,2.10,"Hayward, Gordon",1.90,14.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,2,10,53,0,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",-163,153,6,5.10,"Withey, Jeff",7.60,7.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,3,5,40,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-234,17,0,0.80,"Thornton, Marcus",5.10,2.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,6,06,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-213,119,0,0.50,"Cousins, DeMarcus",4.30,8.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,3,8,06,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",-37,14,10,8.30,"Gortat, Marcin",0.80,16.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,2,8,45,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",231,82,0,0.00,"Miller, Quincy",4.90,15.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,3,9,00,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-231,7,0,0.80,"Leonard, Kawhi",6.40,18.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,4,7,52,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",-134,25,1,2.90,"Prigioni, Pablo",1.90,4.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-11,2013,4032,1610612757,400488978,4,5,55,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",230,28,0,0.90,"Monroe, Greg",9.70,17.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,1,8,10,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",-23,55,3,4.60,"Love, Kevin",5.50,5.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,2,5,41,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",237,42,1,1.90,"Aminu, Al-Farouq",7.50,9.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,1,0,01,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-226,-18,0,0.90,"Collison, Nick",3.30,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,9,54,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-64,238,0,0.90,"Harkless, Maurice",5.50,18.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,4,1,54,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-147,44,1,2.10,"Shved, Alexey",4.70,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,4,6,12,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",177,173,0,0.90,"Iguodala, Andre",2.40,10.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,1,3,47,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-65,47,2,4.00,"Jefferson, Al",2.30,13.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,2,6,51,0,"Jump Shot","2PT Field Goal",7,"Dallas Mavericks",-71,36,2,3.10,"Calderon, Jose",2.00,15.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,3,4,51,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-187,80,2,2.20,"Henson, John",5.20,14.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,2,1,33,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-108,227,0,0.90,"Roberts, Brian",7.60,16.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,2,3,35,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-242,-8,0,0.90,"Turner, Evan",7.10,18.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,4,5,44,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-188,160,0,0.70,"James, LeBron",8.40,12.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,3,6,09,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-180,164,0,1.00,"Plumlee, Miles",20.60,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,3,10,36,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",110,227,1,1.80,"McLemore, Ben",8.50,11.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,4,10,51,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",244,17,0,0.70,"Drummond, Andre",9.00,13.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,2,8,35,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",10,250,0,0.80,"Butler, Rasual",6.80,7.40
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,3,11,30,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",43,189,4,3.50,"Sefolosha, Thabo",11.60,17.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,4,4,04,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",189,156,0,0.80,"Parsons, Chandler",7.10,2.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,3,9,13,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-168,200,0,0.80,"Ellis, Monta",4.70,19.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,1,9,59,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",234,7,0,1.00,"Kidd-Gilchrist, Michael",6.20,19.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,2,9,53,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",100,228,0,0.70,"Jack, Jarrett",4.40,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,1,3,19,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",228,4,0,0.80,"Lee, David",18.20,16.80
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,2,0,53,0,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",56,15,9,5.60,"Gasol, Marc",4.60,19.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,3,7,47,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,31,1,1.80,"Jackson, Reggie",6.50,22.80
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,3,6,47,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-158,187,0,0.80,"Thompson, Jason",4.50,12.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,1,9,50,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-157,217,1,1.70,"Young, Thaddeus",5.70,16.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,2,8,38,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-24,241,1,2.00,"Dellavedova, Matthew",5.30,8.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,4,7,36,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",106,252,0,0.70,"Stuckey, Rodney",4.20,16.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,5,27,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-245,22,3,4.30,"Udoh, Ekpe",5.40,8.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,1,6,01,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",146,205,0,0.90,"Mack, Shelvin",3.80,5.90
+"Wesley Matthews","Portland Trail Blazers",2014-04-16,2013,4032,1610612757,400490101,1,4,04,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",73,235,0,0.80,"Crawford, Jamal",6.10,10.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,1,6,33,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",143,205,0,0.90,"Lowry, Kyle",4.70,20.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,4,4,54,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-180,168,0,0.90,"Harden, James",9.50,6.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,2,2,53,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-57,192,1,1.40,"Anderson, Ryan",4.30,12.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,4,3,49,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",230,-13,0,0.70,"Beverley, Patrick",4.30,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,4,7,35,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-24,208,9,6.60,"Wroten, Tony",8.80,18.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,2,9,18,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",203,129,0,0.80,"Larkin, Shane",13.40,4.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,4,6,58,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",239,66,2,2.00,"Allen, Ray",4.00,6.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,2,2,43,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",166,200,4,4.90,"Brewer, Corey",2.00,1.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,2,5,50,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,12,1,4.20,"Harden, James",7.80,16.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,2,5,30,0,"Jump Shot","2PT Field Goal",22,"Indiana Pacers",31,224,1,1.40,"Johnson, Orlando",4.10,14.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,1,7,23,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",140,19,1,1.40,"Sefolosha, Thabo",3.70,13.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,1,4,05,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-166,173,0,0.70,"James, LeBron",5.90,21.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,3,6,56,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",83,236,0,0.90,"Mayo, O.J.",5.20,10.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,3,8,14,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",242,3,0,0.90,"Meeks, Jodie",16.30,15.30
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,5,52,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",75,227,0,0.80,"Tucker, PJ",4.20,18.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,3,8,08,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",231,4,0,0.80,"Foye, Randy",5.00,11.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,4,0,12,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",222,4,1,2.40,"Bazemore, Kent",1.60,3.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,2,0,01,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-75,197,1,2.40,"Lin, Jeremy",2.20,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,5,0,08,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",233,-6,0,0.60,"Hamilton, Jordan",5.20,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,1,10,59,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",242,6,0,0.70,"Chalmers, Mario",4.60,17.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,3,9,49,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-64,242,0,0.80,"Green, Gerald",5.10,10.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,7,15,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-150,85,1,1.10,"Splitter, Tiago",8.60,4.80
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,2,11,44,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-157,187,0,0.80,"Ginobili, Manu",4.10,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,9,24,0,"Jump Shot","2PT Field Goal",7,"Orlando Magic",-62,48,0,0.40,"Harkless, Maurice",1.70,2.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,2,9,15,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-231,14,0,0.80,"Lin, Jeremy",3.50,11.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,4,5,12,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-204,170,0,0.80,"Roberts, Brian",3.40,7.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,3,11,28,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-105,228,0,0.10,"Foye, Randy",4.30,0.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,4,1,45,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",230,0,0,1.00,"Barnes, Harrison",7.20,7.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,1,5,53,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-133,209,0,0.80,"Shumpert, Iman",8.00,13.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,5,53,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-232,42,1,2.10,"Green, Danny",4.10,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-01,2013,4032,1610612757,400489986,2,6,13,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",36,9,1,1.60,"Kaman, Chris",2.10,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,1,10,03,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",37,250,0,0.80,"DeRozan, DeMar",5.10,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,2,5,34,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-224,47,0,0.80,"Deng, Luol",5.80,18.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,4,5,02,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-226,-5,0,0.90,"Young, Thaddeus",5.70,12.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,5,3,05,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-150,194,0,0.80,"Iguodala, Andre",4.00,21.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,2,4,04,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-155,195,0,0.80,"Rubio, Ricky",3.40,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,3,1,09,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",28,178,1,3.80,"Iguodala, Andre",5.40,1.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,2,6,32,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,4,0,0.80,"Roberts, Brian",2.00,11.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,4,1,58,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",23,11,0,0.00,"Ibaka, Serge",2.30,5.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,4,6,17,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",13,-5,1,1.40,"Brooks, MarShon",3.80,22.70
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,1,4,34,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",1,20,2,2.20,"Martin, Kevin",1.50,18.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,3,8,48,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",7,-5,0,0.60,"Martin, Kevin",3.00,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,11,04,0,"Layup Shot","2PT Field Goal",3,"Indiana Pacers",29,14,1,1.60,"Granger, Danny",1.20,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,4,3,21,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",12,3,1,1.80,"Beal, Bradley",3.30,20.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,3,3,15,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",7,7,2,3.40,"Johnson, Orlando",2.90,9.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,9,40,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-16,3,1,2.00,"Kanter, Enes",3.30,18.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,1,1,37,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,-10,0,0.20,"Green, Gerald",4.30,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,1,9,37,1,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-5,-3,2,2.90,"Ellis, Monta",2.10,7.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,4,9,28,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-10,0,2,3.90,"Green, Danny",1.10,7.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,9,49,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-26,11,0,1.20,"Hibbert, Roy",1.60,15.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-09,2013,4032,1610612757,400489181,2,3,03,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-10,0,0,1.20,"Kanter, Enes",1.90,20.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-19,2013,4032,1610612757,400489682,3,10,03,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",7,3,3,3.80,"Splitter, Tiago",0.50,11.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,4,51,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",24,3,1,1.60,"Plumlee, Miles",4.50,22.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,1,0,17,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",13,12,1,2.00,"Butler, Jimmy",3.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,1,2,37,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-15,20,0,1.50,"Allen, Lavoy",2.80,22.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-01,2013,4032,1610612757,400489580,2,10,54,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",6,-8,0,1.00,"Novak, Steve",5.00,20.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,1,2,10,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",6,4,0,0.60,"Hayward, Gordon",3.30,20.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,1,5,46,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,7,7,6.30,"Barnes, Matt",2.80,16.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,4,2,05,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",9,0,2,2.00,"Howard, Dwight",1.50,17.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,4,6,12,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",20,3,0,0.40,"Harden, James",1.70,13.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,1,2,40,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-8,-5,2,6.20,"Allen, Lavoy",1.90,10.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,3,3,51,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",24,7,0,1.70,"Jackson, Reggie",0.60,16.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,4,5,36,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-5,22,5,4.80,"Barnes, Harrison",2.40,17.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,3,6,14,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",12,3,0,1.60,"Harris, Tobias",2.00,12.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,4,2,53,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-5,14,4,3.50,"Smith, J.R.",5.30,21.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,1,4,46,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",9,-3,2,5.90,"Smith, Josh",1.40,7.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,4,6,06,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",24,12,1,1.50,"Hardaway Jr., Tim",2.70,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,1,9,59,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",7,15,1,1.50,"Chalmers, Mario",4.30,21.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-15,2013,4032,1610612757,400489225,4,8,30,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",26,11,2,2.00,"Singler, Kyle",2.40,18.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,3,10,59,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",24,6,1,3.80,"Sefolosha, Thabo",2.50,0.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,3,7,52,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,9,1,3.10,"Love, Kevin",3.50,13.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,3,7,18,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-19,-3,2,2.00,"Belinelli, Marco",0.70,19.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-20,2013,4032,1610612757,400489040,1,4,34,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-5,-6,0,0.00,"Mayo, O.J.",2.20,14.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,2,10,36,0,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",1,8,4,4.10,"Livingston, Shaun",1.50,20.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,4,5,15,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-15,15,1,2.10,"Turiaf, Ronny",3.60,19.80
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,7,58,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-21,6,0,0.00,"Butler, Rasual",3.00,23.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,2,2,56,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,0,0,1.00,"Turner, Evan",1.30,20.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,1,3,58,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",20,4,1,1.20,"Duncan, Tim",2.40,11.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,2,2,38,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",9,7,0,0.50,"Morrow, Anthony",1.40,15.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,1,9,36,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",12,20,2,2.40,"Mozgov, Timofey",0.80,7.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,3,11,46,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,-2,0,1.60,"Gasol, Marc",1.50,12.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,4,4,29,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",2,3,1,2.40,"Allen, Ray",6.30,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,1,5,00,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",-4,-3,1,1.60,"Chandler, Wilson",1.30,19.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,1,57,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",17,1,0,0.70,"Allen, Ray",2.20,12.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,4,0,14,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",7,26,0,1.20,"Hayward, Gordon",3.50,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,4,4,54,0,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",2,4,6,7.40,"Ellis, Monta",3.60,16.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,9,21,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",17,0,0,1.20,"Harkless, Maurice",4.10,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,4,5,23,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-10,0,2,2.60,"Kanter, Enes",2.00,1.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,6,09,1,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",-2,4,1,1.40,"Noah, Joakim",1.60,21.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,3,9,23,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-15,22,2,3.00,"Wroten, Tony",2.50,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,1,5,14,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-27,4,3,8.40,"Plumlee, Miles",0.50,5.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,2,2,19,0,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",7,1,1,3.40,"Foye, Randy",2.20,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,2,6,15,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-23,11,1,2.30,"Lee, David",2.80,19.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-14,2013,4032,1610612757,400489850,1,10,29,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",20,15,5,4.40,"Ajinca, Alexis",3.10,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-28,2013,4032,1610612757,400489545,2,4,28,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",15,7,0,0.00,"Lee, Courtney",2.20,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,4,5,07,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-8,6,2,3.90,"Stephenson, Lance",1.20,12.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,11,30,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,-5,0,0.80,"Udrih, Beno",1.20,11.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,3,3,28,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-27,4,0,0.80,"Gasol, Marc",1.50,14.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,4,58,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",12,-8,1,1.00,"Udrih, Beno",1.70,13.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,4,39,1,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",7,-6,3,3.80,"Rose, Derrick",3.20,21.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,2,11,39,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",9,25,6,6.50,"Adams, Steven",0.60,4.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,2,7,05,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-19,7,2,4.80,"Lin, Jeremy",3.00,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,4,8,22,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,9,2,2.20,"Fisher, Derek",1.20,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-23,2013,4032,1610612757,400489713,4,8,44,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,-3,0,0.00,"Dieng, Gorgui",7.20,22.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,2,0,45,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-19,3,1,1.30,"Green, Gerald",1.40,16.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,1,3,03,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",4,7,0,1.20,"Beasley, Michael",3.70,12.90
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,1,1,44,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",18,4,2,2.60,"Ajinca, Alexis",2.60,19.50
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,2,3,14,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",7,1,0,0.00,"Lawson, Ty",2.00,9.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,3,4,32,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-18,4,5,5.30,"Thompson, Klay",2.30,11.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,6,21,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,3,5,4.40,"West, David",1.70,20.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,3,7,41,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,1,3,4.20,"West, David",7.80,21.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,2,11,18,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,0,0,1.00,"Jones, Perry",1.30,15.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,1,1,00,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-16,23,1,1.80,"Dalembert, Samuel",3.10,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,3,4,38,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-15,1,0,1.00,"Calderon, Jose",1.70,20.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,1,9,38,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-27,12,2,4.60,"Granger, Danny",1.00,20.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,2,6,16,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",17,4,2,4.90,"Beal, Bradley",1.50,11.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-02,2013,4032,1610612757,400488912,1,10,01,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",6,-3,0,3.00,"Splitter, Tiago",2.50,8.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-12,2013,4032,1610612757,400489838,4,5,45,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",9,19,7,5.40,"Leonard, Kawhi",3.90,16.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,4,5,37,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",13,22,0,0.50,"Mozgov, Timofey",3.70,19.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,11,14,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",18,6,4,5.30,"Foye, Randy",1.80,20.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,3,9,35,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-8,1,0,0.10,"Kanter, Enes",1.70,17.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,9,26,1,"Pullup Bank shot","2PT Field Goal",11,"Indiana Pacers",-98,53,2,1.80,"Granger, Danny",4.10,16.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,1,8,29,1,"Pullup Jump shot","2PT Field Goal",21,"Denver Nuggets",58,206,1,2.20,"Mozgov, Timofey",5.30,3.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,1,9,09,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-141,216,0,1.00,"Thompson, Klay",4.00,12.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,1,8,33,1,"Pullup Jump shot","3PT Field Goal",23,"Golden State Warriors",231,63,0,0.70,"Thompson, Klay",4.60,6.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,1,8,10,1,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",-234,56,0,0.90,"Thompson, Klay",3.00,19.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,1,4,59,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",4,197,1,1.80,"Harden, James",3.80,9.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,1,0,02,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-65,252,5,3.20,"Barnes, Harrison",4.40,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-12,2013,4032,1610612757,400489201,4,3,53,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",0,167,2,2.70,"Parsons, Chandler",4.30,17.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,2,5,56,1,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",160,135,2,2.40,"Webster, Martell",3.70,9.70
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,3,4,10,1,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",-201,140,0,0.00,"Barnes, Harrison",8.80,16.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,0,00,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",92,225,1,1.30,"Sefolosha, Thabo",10.60,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-09,2013,4032,1610612757,400488966,3,4,12,1,"Pullup Jump shot","2PT Field Goal",9,"Sacramento Kings",9,93,2,1.80,"Cousins, DeMarcus",8.90,6.90
+"Wesley Matthews","Portland Trail Blazers",2013-10-30,2013,4032,1610612757,400488888,2,7,51,1,"Pullup Jump shot","2PT Field Goal",13,"Phoenix Suns",75,118,7,6.70,"Green, Gerald",3.60,18.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,4,10,13,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",45,146,2,1.60,"Jones, Perry",3.00,10.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-25,2013,4032,1610612757,400489931,1,7,42,0,"Pullup Jump shot","2PT Field Goal",15,"Orlando Magic",17,157,1,2.20,"Afflalo, Arron",4.30,13.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-01,2013,4032,1610612757,400489128,4,10,39,0,"Pullup Jump shot","2PT Field Goal",12,"Los Angeles Lakers",-92,91,3,2.30,"Sacre, Robert",5.60,16.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,3,10,10,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",4,142,1,1.80,"Korver, Kyle",2.40,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,1,8,59,0,"Pullup Jump shot","2PT Field Goal",12,"Denver Nuggets",-123,7,1,1.30,"Foye, Randy",5.10,11.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-17,2013,4032,1610612757,400489020,1,2,37,1,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",168,187,8,6.20,"Johnson, Amir",5.10,4.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,1,6,38,1,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",-179,88,2,3.30,"Gasol, Marc",6.10,11.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-14,2013,4032,1610612757,400489220,3,6,48,1,"Pullup Jump shot","3PT Field Goal",25,"Philadelphia 76ers",168,192,1,1.80,"Turner, Evan",6.00,19.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-06,2013,4032,1610612757,400489161,3,8,22,0,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",58,239,1,2.10,"Garrett, Diante",7.70,3.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,3,8,56,0,"Pullup Jump shot","2PT Field Goal",19,"New Orleans Pelicans",-144,135,3,3.80,"Aminu, Al-Farouq",4.70,5.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,1,6,09,1,"Pullup Jump shot","2PT Field Goal",14,"Golden State Warriors",-11,149,6,4.80,"Lee, David",5.00,19.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-07,2013,4032,1610612757,400489171,3,5,52,1,"Putback Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-11,0,0,0.00,"Nowitzki, Dirk",1.80,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,2,3,04,1,"Putback Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,-3,0,0.70,"Sefolosha, Thabo",1.90,1.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,2,0,27,1,"Putback Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-2,-2,0,0.00,"Douglas-Roberts, Chris",1.00,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-11-05,2013,4032,1610612757,400488931,1,7,35,1,"Reverse Dunk Shot","2PT Field Goal",0,"Houston Rockets",1,3,1,1.60,"Lin, Jeremy",9.30,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-04-04,2013,4032,1610612757,400490013,1,7,40,0,"Reverse Layup Shot","2PT Field Goal",0,"Phoenix Suns",-5,-2,1,1.40,"Plumlee, Miles",2.20,13.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-15,2013,4032,1610612757,400489448,1,10,02,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",13,-5,0,1.10,"Miles, CJ",8.50,19.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-11,2013,4032,1610612757,400489826,3,8,02,1,"Reverse Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-8,4,3,1.80,"Gasol, Marc",2.60,20.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,1,4,48,1,"Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",-15,-2,0,0.60,"Stephenson, Lance",2.80,20.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,2,7,43,1,"Reverse Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-7,0,0,0.70,"Marion, Shawn",2.30,12.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,3,6,06,1,"Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-7,3,0,0.90,"Sefolosha, Thabo",1.50,23.30
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,2,2,19,1,"Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",4,9,0,0.90,"McLemore, Ben",2.10,16.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,1,5,39,1,"Reverse Layup Shot","2PT Field Goal",0,"Washington Wizards",7,0,1,1.60,"Booker, Trevor",8.30,14.60
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,1,8,43,1,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",12,6,0,0.80,"Dunleavy, Mike",2.40,13.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,5,2,22,1,"Running Bank shot","2PT Field Goal",4,"Golden State Warriors",-45,20,1,1.60,"Green, Draymond",1.20,9.10
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,2,3,47,0,"Running Bank shot","2PT Field Goal",6,"Washington Wizards",-65,19,4,6.20,"Beal, Bradley",2.20,14.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,1,4,02,1,"Running Bank shot","2PT Field Goal",7,"Milwaukee Bucks",-73,4,2,3.00,"Antetokounmpo, Giannis",1.40,13.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-04,2013,4032,1610612757,400489149,3,11,45,0,"Running Hook Shot","2PT Field Goal",2,"Oklahoma City Thunder",13,22,0,0.60,"Sefolosha, Thabo",2.80,11.50
+"Wesley Matthews","Portland Trail Blazers",2013-12-02,2013,4032,1610612757,400489133,1,10,36,0,"Running Hook Shot","2PT Field Goal",4,"Indiana Pacers",40,22,3,5.20,"West, David",5.80,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-25,2013,4032,1610612757,400489526,2,3,09,1,"Running Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",10,58,1,1.40,"Rubio, Ricky",2.20,8.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,5,3,21,0,"Running Jump Shot","2PT Field Goal",13,"Indiana Pacers",135,34,3,4.10,"Granger, Danny",1.30,11.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,1,11,19,1,"Running Jump Shot","2PT Field Goal",16,"New York Knicks",20,168,2,5.20,"Shumpert, Iman",3.20,3.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,4,6,06,0,"Running Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",1,89,1,1.10,"Davis, Anthony",2.00,12.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,2,3,09,1,"Running Jump Shot","2PT Field Goal",13,"Utah Jazz",6,134,2,2.30,"Burks, Alec",2.20,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,1,6,19,0,"Running Jump Shot","2PT Field Goal",5,"Washington Wizards",4,58,1,2.00,"Ariza, Trevor",3.50,2.40
+"Wesley Matthews","Portland Trail Blazers",2013-11-25,2013,4032,1610612757,400489083,1,9,19,0,"Running Jump Shot","2PT Field Goal",4,"New York Knicks",-29,34,2,2.80,"Martin, Kenyon",3.10,6.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,2,6,45,1,"Running Jump Shot","2PT Field Goal",4,"Denver Nuggets",-2,44,1,2.30,"Fournier, Evan",3.10,11.40
+"Wesley Matthews","Portland Trail Blazers",2013-12-17,2013,4032,1610612757,400489238,2,0,30,1,"Running Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",95,42,2,2.10,"Jack, Jarrett",3.30,2.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-03,2013,4032,1610612757,400489769,4,4,47,0,"Running Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",15,118,2,2.00,"Gasol, Pau",4.50,13.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,3,0,00,0,"Running Jump Shot","3PT Field Goal",52,"Oklahoma City Thunder",17,520,0,0.00,"Sefolosha, Thabo",13.50,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-04,2013,4032,1610612757,400489369,3,8,34,0,"Running Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-122,41,3,4.90,"Turner, Evan",3.50,11.30
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,2,5,24,0,"Running Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",62,45,0,0.80,"Ilyasova, Ersan",4.70,19.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-30,2013,4032,1610612757,400489972,3,7,43,0,"Running Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",53,14,2,2.30,"Randolph, Zach",5.00,13.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-05,2013,4032,1610612757,400489601,2,6,26,1,"Running Jump Shot","2PT Field Goal",9,"New York Knicks",0,96,1,1.70,"Prigioni, Pablo",6.50,5.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-22,2013,4032,1610612757,400489905,1,1,49,1,"Running Jump Shot","2PT Field Goal",5,"Charlotte Hornets",28,42,2,3.10,"Walker, Kemba",3.10,4.20
+"Wesley Matthews","Portland Trail Blazers",2013-11-01,2013,4032,1610612757,400488902,3,8,03,1,"Running Jump Shot","2PT Field Goal",6,"Denver Nuggets",32,53,3,4.50,"Fournier, Evan",1.70,5.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-20,2013,4032,1610612757,400489893,4,10,29,0,"Running Jump Shot","2PT Field Goal",12,"Washington Wizards",-62,105,4,7.90,"Webster, Martell",1.90,6.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,1,6,56,0,"Running Jump Shot","2PT Field Goal",5,"Boston Celtics",54,4,6,5.10,"Crawford, Jordan",3.30,15.70
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,2,6,26,0,"Running Jump Shot","2PT Field Goal",7,"Boston Celtics",-56,45,3,3.70,"Wallace, Gerald",1.90,2.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-07,2013,4032,1610612757,400489392,4,11,17,1,"Running Jump Shot","2PT Field Goal",8,"Sacramento Kings",39,75,2,3.60,"Fredette, Jimmer",1.40,12.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,4,4,34,1,"Running Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",65,23,2,2.90,"Knight, Brandon",3.70,9.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,5,2,29,1,"Running Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",39,28,3,3.40,"Middleton, Khris",4.40,18.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,1,5,15,1,"Running Jump Shot","2PT Field Goal",7,"Boston Celtics",-54,52,1,1.20,"Humphries, Kris",3.40,23.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,2,0,51,0,"Running Layup Shot","2PT Field Goal",2,"Orlando Magic",-2,26,1,2.70,"Afflalo, Arron",3.10,8.50
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,3,6,11,1,"Running Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",26,6,5,6.20,"Stiemsma, Greg",3.40,18.50
+"Wesley Matthews","Portland Trail Blazers",2014-03-28,2013,4032,1610612757,400489953,3,8,24,0,"Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",-10,17,1,1.40,"Butler, Jimmy",3.10,8.20
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,1,5,28,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Utah Jazz",-8,-3,1,1.80,"Evans, Jeremy",5.50,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,3,8,54,0,"Step Back Jump shot","2PT Field Goal",15,"Indiana Pacers",147,58,5,4.20,"Granger, Danny",4.00,6.90
+"Wesley Matthews","Portland Trail Blazers",2013-11-13,2013,4032,1610612757,400488993,4,2,04,1,"Step Back Jump shot","3PT Field Goal",24,"Phoenix Suns",118,213,1,1.70,"Tucker, PJ",5.20,4.50
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,5,1,27,0,"Step Back Jump shot","2PT Field Goal",21,"Indiana Pacers",95,195,1,1.90,"Granger, Danny",4.40,16.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-22,2013,4032,1610612757,400489058,3,10,12,1,"Step Back Jump shot","2PT Field Goal",20,"Chicago Bulls",100,184,4,4.40,"Noah, Joakim",6.30,14.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,3,1,05,1,"Step Back Jump shot","3PT Field Goal",22,"Golden State Warriors",-228,15,1,2.30,"Curry, Stephen",3.80,13.50
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,3,5,08,1,"Step Back Jump shot","3PT Field Goal",25,"Golden State Warriors",-41,255,2,2.40,"Barnes, Harrison",4.40,13.10
+"Wesley Matthews","Portland Trail Blazers",2013-11-23,2013,4032,1610612757,400489069,3,3,42,1,"Step Back Jump shot","2PT Field Goal",18,"Golden State Warriors",133,127,1,2.90,"Curry, Stephen",4.00,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-05,2013,4032,1610612757,400489786,2,3,58,0,"Step Back Jump shot","2PT Field Goal",11,"Atlanta Hawks",-116,19,2,2.30,"Korver, Kyle",3.90,9.70
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,4,8,36,1,"Step Back Jump shot","2PT Field Goal",13,"Dallas Mavericks",132,45,3,4.40,"Harris, Devin",4.40,7.10
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,4,8,42,1,"Step Back Jump shot","2PT Field Goal",11,"Sacramento Kings",-108,45,5,4.60,"Thompson, Jason",6.20,15.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-09,2013,4032,1610612757,400490045,2,0,08,1,"Step Back Jump shot","2PT Field Goal",11,"Sacramento Kings",108,44,1,3.50,"McLemore, Ben",4.30,2.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-21,2013,4032,1610612757,400489696,2,2,42,1,"Step Back Jump shot","2PT Field Goal",18,"Utah Jazz",-21,181,2,2.60,"Hayward, Gordon",5.60,8.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-06,2013,4032,1610612757,400490030,4,10,18,1,"Step Back Jump shot","3PT Field Goal",22,"New Orleans Pelicans",-224,0,2,2.20,"Aminu, Al-Farouq",6.80,7.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,5,3,00,0,"Step Back Jump shot","3PT Field Goal",24,"Milwaukee Bucks",234,60,0,0.10,"Middleton, Khris",1.20,20.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,1,11,00,1,"Step Back Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",192,25,10,7.40,"Durant, Kevin",4.30,14.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,2,10,33,1,"Step Back Jump shot","2PT Field Goal",19,"Miami Heat",171,94,1,2.60,"Battier, Shane",5.20,3.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-15,2013,4032,1610612757,400489001,2,1,44,1,"Step Back Jump shot","3PT Field Goal",23,"Boston Celtics",-229,22,1,1.40,"Bradley, Avery",3.40,2.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-07,2013,4032,1610612757,400489797,2,3,45,1,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",133,69,2,3.00,"Calderon, Jose",3.50,14.20
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,1,6,52,0,"Step Back Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",111,71,2,4.30,"Sefolosha, Thabo",1.60,16.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-18,2013,4032,1610612757,400489249,2,7,27,0,"Step Back Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",-188,156,3,2.30,"Shved, Alexey",3.40,8.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,1,10,31,1,"Step Back Jump shot","2PT Field Goal",21,"Los Angeles Clippers",143,154,2,2.50,"Dudley, Jared",4.60,9.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-12,2013,4032,1610612757,400489662,1,10,47,1,"Step Back Jump shot","3PT Field Goal",25,"Los Angeles Clippers",37,252,3,3.70,"Barnes, Matt",3.00,3.10
+"Wesley Matthews","Portland Trail Blazers",2014-02-11,2013,4032,1610612757,400489648,4,1,54,0,"Step Back Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",17,86,0,0.00,,0.00,0.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-30,2013,4032,1610612757,400489329,1,7,30,1,"Step Back Jump shot","2PT Field Goal",16,"New Orleans Pelicans",70,145,2,1.80,"Morrow, Anthony",7.00,7.80
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,1,7,57,1,"Step Back Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",89,91,2,4.60,"Sefolosha, Thabo",4.00,7.70
+"Wesley Matthews","Portland Trail Blazers",2014-02-26,2013,4032,1610612757,400489734,1,9,40,0,"Step Back Jump shot","2PT Field Goal",19,"Brooklyn Nets",127,146,4,3.50,"Johnson, Joe",5.70,7.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,5,1,17,1,"Step Back Jump shot","3PT Field Goal",24,"Milwaukee Bucks",141,203,4,4.20,"Pachulia, Zaza",4.70,6.10
+"Wesley Matthews","Portland Trail Blazers",2014-01-11,2013,4032,1610612757,400489424,4,9,37,0,"Step Back Jump shot","2PT Field Goal",15,"Boston Celtics",81,137,9,8.90,"Sullinger, Jared",5.30,15.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,3,04,1,"Step Back Jump shot","3PT Field Goal",24,"Indiana Pacers",-209,124,2,2.10,"West, David",4.70,5.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-24,2013,4032,1610612757,400489922,2,9,24,0,"Step Back Jump shot","2PT Field Goal",10,"Miami Heat",2,108,3,3.30,"Allen, Ray",4.40,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-18,2013,4032,1610612757,400489473,1,10,09,0,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",133,66,2,3.60,"Ellis, Monta",4.40,6.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-03,2013,4032,1610612757,400489584,2,8,07,1,"Step Back Jump shot","2PT Field Goal",17,"Washington Wizards",160,66,2,4.00,"Beal, Bradley",4.70,7.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-27,2013,4032,1610612757,400489099,2,2,11,0,"Step Back Jump shot","3PT Field Goal",25,"Phoenix Suns",118,222,1,1.60,"Green, Gerald",5.10,1.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,1,5,05,0,"Step Back Jump shot","2PT Field Goal",20,"Golden State Warriors",-150,134,1,1.40,"Iguodala, Andre",5.50,11.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,2,6,10,1,"Step Back Jump shot","3PT Field Goal",25,"Houston Rockets",124,222,1,2.50,"Casspi, Omri",4.00,9.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,9,20,1,"Tip Shot","2PT Field Goal",0,"Orlando Magic",6,-2,1,1.00,"Maxiell, Jason",7.10,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,1,8,29,0,"Tip Shot","2PT Field Goal",0,"San Antonio Spurs",0,9,0,0.00,"Diaw, Boris",2.20,24.00
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,2,5,12,0,"Tip Shot","2PT Field Goal",1,"New Orleans Pelicans",0,11,0,1.90,"Ajinca, Alexis",3.90,24.00
+"Wesley Matthews","Portland Trail Blazers",2014-04-11,2013,4032,1610612757,400490060,1,8,25,0,"Turnaround Bank shot","2PT Field Goal",8,"Utah Jazz",81,28,1,2.60,"Burks, Alec",1.90,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,3,8,55,0,"Turnaround Bank shot","2PT Field Goal",11,"Denver Nuggets",103,50,2,2.50,"Mozgov, Timofey",2.50,12.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-21,2013,4032,1610612757,400489492,2,8,37,1,"Turnaround Bank shot","2PT Field Goal",8,"Oklahoma City Thunder",78,23,2,4.70,"Fisher, Derek",1.30,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-04-13,2013,4032,1610612757,400490074,4,5,10,0,"Turnaround Bank shot","2PT Field Goal",13,"Golden State Warriors",132,14,0,1.90,"Curry, Stephen",1.10,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,4,10,32,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Houston Rockets",-90,22,3,3.80,"Lin, Jeremy",3.70,14.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,3,2,35,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Houston Rockets",72,26,2,4.20,"Harden, James",2.20,10.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-23,2013,4032,1610612757,400489505,4,10,59,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Denver Nuggets",-119,20,1,2.30,"Robinson, Nate",4.50,14.30
+"Wesley Matthews","Portland Trail Blazers",2013-12-26,2013,4032,1610612757,400489299,1,3,15,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Los Angeles Clippers",-103,14,2,3.90,"Crawford, Jamal",3.60,8.10
+"Wesley Matthews","Portland Trail Blazers",2013-12-21,2013,4032,1610612757,400489274,3,9,50,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"New Orleans Pelicans",-101,91,4,6.50,"Gordon, Eric",3.30,3.90
+"Wesley Matthews","Portland Trail Blazers",2014-02-25,2013,4032,1610612757,400489723,1,11,00,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Denver Nuggets",78,53,4,8.40,"Faried, Kenneth",5.50,4.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,4,2,25,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Milwaukee Bucks",-146,23,1,3.00,"Knight, Brandon",2.80,12.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,10,45,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Orlando Magic",0,102,4,4.50,"Harkless, Maurice",5.20,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-03-18,2013,4032,1610612757,400489878,4,7,48,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Milwaukee Bucks",-174,19,2,2.10,"Middleton, Khris",2.90,3.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,2,1,22,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Charlotte Hornets",-75,86,3,5.50,"Henderson, Gerald",3.80,11.80
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,3,8,37,0,"Turnaround Jump Shot","2PT Field Goal",11,"Golden State Warriors",-79,77,3,5.00,"Curry, Stephen",3.50,9.20
+"Wesley Matthews","Portland Trail Blazers",2013-12-28,2013,4032,1610612757,400489319,2,1,18,1,"Turnaround Jump Shot","2PT Field Goal",7,"Miami Heat",75,20,1,2.70,"Chalmers, Mario",2.10,7.20
+"Wesley Matthews","Portland Trail Blazers",2014-03-27,2013,4032,1610612757,400489944,2,1,36,1,"Turnaround Jump Shot","2PT Field Goal",6,"Atlanta Hawks",24,55,2,2.50,"Teague, Jeff",1.60,10.60
+"Wesley Matthews","Portland Trail Blazers",2014-01-20,2013,4032,1610612757,400489487,1,7,50,0,"Turnaround Jump Shot","2PT Field Goal",4,"Houston Rockets",36,34,1,2.00,"Parsons, Chandler",1.60,12.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,4,1,09,1,"Turnaround Jump Shot","2PT Field Goal",17,"Indiana Pacers",170,17,1,3.20,"Hill, George",3.30,4.00
+"Wesley Matthews","Portland Trail Blazers",2014-02-08,2013,4032,1610612757,400489625,1,10,23,1,"Turnaround Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",-81,34,3,6.40,"Brewer, Corey",2.50,11.90
+"Wesley Matthews","Portland Trail Blazers",2014-01-08,2013,4032,1610612757,400489400,4,1,38,0,"Turnaround Jump Shot","2PT Field Goal",8,"Orlando Magic",84,12,0,1.00,"Nelson, Jameer",1.10,9.40
+"Wesley Matthews","Portland Trail Blazers",2014-01-02,2013,4032,1610612757,400489353,3,1,08,1,"Turnaround Jump Shot","2PT Field Goal",17,"Charlotte Hornets",173,1,2,4.70,"Sessions, Ramon",2.50,13.20
+"Wesley Matthews","Portland Trail Blazers",2014-01-26,2013,4032,1610612757,400489533,1,10,32,1,"Turnaround Jump Shot","2PT Field Goal",8,"Golden State Warriors",73,47,2,4.50,"Thompson, Klay",2.80,6.60
+"Wesley Matthews","Portland Trail Blazers",2013-12-31,2013,4032,1610612757,400489339,2,2,37,0,"Turnaround Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",94,50,2,4.40,"Durant, Kevin",5.10,8.60
+"Wesley Matthews","Portland Trail Blazers",2014-02-07,2013,4032,1610612757,400489612,5,0,15,0,"Turnaround Jump Shot","3PT Field Goal",24,"Indiana Pacers",-234,58,0,0.60,"Granger, Danny",2.70,0.00
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,1,8,53,0,"Turnaround Jump Shot","2PT Field Goal",17,"Houston Rockets",177,25,0,2.20,"Harden, James",4.20,14.60
+"Wesley Matthews","Portland Trail Blazers",2014-03-01,2013,4032,1610612757,400489753,2,3,40,0,"Turnaround Jump Shot","2PT Field Goal",6,"Denver Nuggets",62,17,1,3.20,"Foye, Randy",1.70,13.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-16,2013,4032,1610612757,400489867,2,7,03,1,"Turnaround Jump Shot","2PT Field Goal",11,"Golden State Warriors",75,85,2,2.70,"Thompson, Klay",1.50,6.40
+"Wesley Matthews","Portland Trail Blazers",2014-03-09,2013,4032,1610612757,400489812,5,0,27,0,"Turnaround Jump Shot","3PT Field Goal",23,"Houston Rockets",239,-5,0,0.60,"Hamilton, Jordan",3.70,18.30
+"Wesley Matthews","Portland Trail Blazers",2014-01-17,2013,4032,1610612757,400489462,2,2,34,1,"Turnaround Jump Shot","2PT Field Goal",3,"San Antonio Spurs",-23,30,3,2.20,"Ginobili, Manu",1.10,12.30
+"Wesley Matthews","Portland Trail Blazers",2013-11-08,2013,4032,1610612757,400488957,3,3,16,0,"Turnaround Jump Shot","2PT Field Goal",13,"Sacramento Kings",130,19,0,0.70,"Thomas, Isaiah",1.60,16.00

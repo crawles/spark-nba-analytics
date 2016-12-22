@@ -1,0 +1,1006 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,3,10,00,1,"Driving Bank Hook Shot","2PT Field Goal",4,"Toronto Raptors",40,22,5,6.70,"Lowry, Kyle",3.00,10.80
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,4,4,11,0,"Driving Bank shot","2PT Field Goal",9,"Dallas Mavericks",77,48,3,2.60,"Chandler, Tyson",3.50,16.00
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,3,8,41,1,"Driving Bank shot","2PT Field Goal",5,"Minnesota Timberwolves",56,14,15,11.40,"LaVine, Zach",4.60,13.10
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,3,26,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Toronto Raptors",-27,9,4,6.30,"Williams, Lou",1.50,11.50
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,1,7,00,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-5,1,4,4.30,"Nelson, Jameer",5.40,21.00
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,7,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Houston Rockets",9,30,4,3.50,"Brewer, Corey",1.10,5.40
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,2,5,20,0,"Driving Hook Shot","2PT Field Goal",9,"Boston Celtics",80,45,4,4.10,"Bass, Brandon",1.50,11.50
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,4,12,1,"Driving Jump shot","2PT Field Goal",3,"Oklahoma City Thunder",-30,-17,10,7.70,"Jackson, Reggie",4.50,14.70
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,2,3,02,1,"Driving Jump shot","2PT Field Goal",3,"Philadelphia 76ers",-32,0,2,2.60,"Carter-Williams, Michael",1.20,20.70
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,2,6,42,0,"Driving Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",54,20,7,5.90,"Durant, Kevin",1.60,3.50
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,4,2,47,1,"Driving Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",118,56,2,2.30,"LaVine, Zach",2.20,8.90
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,1,10,59,1,"Driving Jump shot","2PT Field Goal",8,"Charlotte Hornets",-52,67,2,2.20,"Zeller, Cody",5.10,15.60
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,4,22,1,"Driving Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",-75,108,5,3.40,"Dieng, Gorgui",3.70,1.90
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,0,10,0,"Driving Jump shot","2PT Field Goal",5,"Boston Celtics",50,17,17,16.10,"Zeller, Tyler",4.70,7.00
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,3,0,11,0,"Driving Jump shot","2PT Field Goal",8,"Minnesota Timberwolves",72,52,21,21.20,"Hamilton, Justin",3.20,2.70
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,2,4,00,0,"Driving Jump shot","2PT Field Goal",7,"Houston Rockets",75,7,4,4.80,"Harden, James",1.10,19.90
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,2,1,48,0,"Driving Jump shot","2PT Field Goal",13,"Atlanta Hawks",114,75,1,1.70,"Teague, Jeff",2.60,2.90
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,0,54,1,"Driving Jump shot","2PT Field Goal",7,"Boston Celtics",-79,11,6,5.00,"Smart, Marcus",3.20,18.80
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,4,1,34,1,"Driving Jump shot","2PT Field Goal",3,"Memphis Grizzlies",28,12,17,13.20,"Udrih, Beno",2.50,8.30
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,2,3,01,1,"Driving Jump shot","2PT Field Goal",3,"New York Knicks",37,1,4,6.60,"Aldrich, Cole",1.60,6.00
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,8,47,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",21,-3,0,12.00,"Rose, Derrick",5.90,20.30
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,4,7,10,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",13,6,4,4.30,"Haslem, Udonis",1.70,18.40
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,3,40,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",7,-8,0,14.30,"Brooks, Aaron",3.10,18.70
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,1,7,01,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",15,11,0,0.80,"Vucevic, Nikola",4.20,7.90
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,4,2,24,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",20,20,5,4.60,"Ellis, Monta",3.50,20.20
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,4,0,46,0,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-29,1,14,10.40,"Teague, Jeff",1.60,13.60
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,2,3,56,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-15,4,4,6.70,"Sefolosha, Thabo",1.50,18.70
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,7,22,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",17,23,5,4.30,"Frye, Channing",1.90,10.80
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,1,6,40,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",24,6,4,3.00,"Kanter, Enes",3.40,16.50
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,3,0,42,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,3,8,7.30,"Novak, Steve",1.90,16.70
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,4,2,18,0,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,0,18,15.80,"Hamilton, Justin",3.70,7.80
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,10,54,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",12,9,8,8.00,"Adams, Steven",0.50,15.50
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,3,3,40,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,12,7,5.70,"McGary, Mitch",0.20,9.50
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,1,6,38,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-16,0,4,4.20,"Adams, Steven",2.80,10.20
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,3,1,02,1,"Driving Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",29,14,3,4.10,"Henson, John",1.10,12.60
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,2,29,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",-27,1,4,3.30,"Cole, Norris",1.10,3.90
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,3,10,25,0,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",-38,6,1,1.80,"Lin, Jeremy",1.80,11.80
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,2,0,35,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",28,17,16,14.30,"McCallum, Ray",3.40,9.70
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,1,8,32,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",7,11,3,6.00,"Dalembert, Samuel",1.20,4.00
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,3,11,05,0,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,3,3,3.60,"Ibaka, Serge",3.40,10.70
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,1,9,02,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,4,6,4.70,"Nowitzki, Dirk",1.50,17.60
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,10,18,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",23,3,5,3.80,"Korver, Kyle",3.40,20.90
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,2,4,15,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-26,9,8,6.80,"Middleton, Khris",4.90,17.10
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,5,28,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",13,17,5,4.70,"Oladipo, Victor",1.70,9.00
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,4,8,19,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",24,3,5,6.70,"Douglas, Toney",2.80,7.30
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,2,1,16,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-8,11,2,2.30,"Millsap, Paul",3.80,6.40
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,3,8,47,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",12,6,4,4.30,"Johnson, Amir",4.10,3.20
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,2,0,28,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",21,6,20,16.30,"Dieng, Gorgui",2.70,7.90
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,4,2,30,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",8,7,15,11.90,"Clarkson, Jordan",0.60,12.00
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,1,8,45,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-27,-3,2,2.10,"Vasquez, Greivis",2.90,18.80
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,2,3,55,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",18,9,3,3.00,"Beverley, Patrick",1.80,7.40
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,1,1,35,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-17,4,2,2.60,"Davis, Ed",2.00,0.00
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,9,43,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",24,15,10,10.80,"Leonard, Kawhi",0.80,6.20
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,3,05,0,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-7,1,3,2.20,"Wright, Brandan",0.00,18.10
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,7,01,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",24,-5,12,8.60,"Adrien, Jeff",0.00,14.80
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,5,59,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",26,0,7,6.50,"Young, Thaddeus",4.40,17.80
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,4,2,21,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",15,-5,5,5.00,"Frye, Channing",3.70,5.00
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,1,4,42,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",6,-8,6,6.80,"Mozgov, Timofey",2.70,17.50
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,3,8,36,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",24,6,7,6.10,"Dieng, Gorgui",2.60,18.10
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,1,7,56,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,-8,5,5.10,"Covington, Robert",1.70,18.00
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,1,1,12,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",18,-2,2,3.00,"Diaw, Boris",0.90,13.40
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,4,4,10,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,7,1,1.60,"Jackson, Reggie",2.50,20.50
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,11,12,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-23,3,2,2.50,"Nurkic, Jusuf",2.80,18.40
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,2,0,00,0,"Driving Layup Shot","2PT Field Goal",3,"Orlando Magic",15,33,12,10.40,"Frye, Channing",1.50,0.00
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,1,1,03,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",2,17,3,3.20,"James, Bernard",3.20,5.00
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,2,6,40,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-27,3,2,2.10,"Terry, Jason",3.50,1.70
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,9,57,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",26,11,9,7.60,"Aldridge, LaMarcus",2.10,15.20
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,10,26,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,6,8,6.80,"Hummel, Robbie",4.50,17.80
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,0,11,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",26,14,23,17.90,"Papanikolaou, Kostas",2.50,6.00
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,1,1,07,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,14,6,6.00,"Aldridge, LaMarcus",4.50,15.50
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,0,53,1,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",-30,11,8,5.90,"Black, Tarik",1.20,16.30
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,3,7,00,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,12,3,3.40,"Perkins, Kendrick",1.20,12.30
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,1,3,13,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",23,17,10,9.70,"Hickson, JJ",1.90,5.30
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,1,10,53,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-18,7,5,4.00,"Asik, Omer",3.60,11.70
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,4,10,27,0,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-5,3,6,6.10,"Green, Jeff",0.90,9.20
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,4,7,09,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",9,1,0,1.40,"Morris, Darius",0.80,20.60
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,1,0,38,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,7,6,5.10,"Hummel, Robbie",2.90,18.80
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,1,1,39,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",4,1,0,0.00,"Villanueva, Charlie",5.60,21.10
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,4,22,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",21,6,19,16.80,"Barnes, Matt",1.80,7.30
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,4,9,13,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,0,14,12.80,"Jackson, Reggie",3.10,11.60
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,3,9,20,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",23,9,3,4.40,"Gallinari, Danilo",2.00,11.80
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,10,14,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Orlando Magic",-23,15,8,6.60,"Vucevic, Nikola",1.70,0.60
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,2,4,12,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Washington Wizards",-4,-5,3,5.10,"Wall, John",8.40,20.20
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,1,5,23,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,0,3,5.00,"Lopez, Robin",2.40,17.30
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,3,1,45,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,15,9,8.50,"Lauvergne, Joffrey",2.70,15.30
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,2,1,49,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Denver Nuggets",23,11,8,7.30,"Hickson, JJ",2.30,17.10
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,1,0,37,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",-5,6,10,7.50,"Jerebko, Jonas",3.70,7.90
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,1,1,44,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",-21,12,1,1.80,"Johnson, Amir",2.80,14.50
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,1,03,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,7,1,2.80,"Budinger, Chase",4.10,5.40
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,4,10,44,0,"Driving Reverse Layup Shot","2PT Field Goal",3,"Dallas Mavericks",29,14,4,4.10,"Nowitzki, Dirk",2.90,15.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,2,9,28,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",53,118,4,3.60,"Carter-Williams, Michael",2.70,4.30
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,1,7,10,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Washington Wizards",110,113,0,1.00,"Gortat, Marcin",3.20,10.90
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,7,43,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-179,-14,2,2.20,"Williams, Mo",2.40,9.70
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,3,6,13,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-149,71,1,2.70,"Conley, Mike",1.50,11.40
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,9,29,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Washington Wizards",-112,164,4,3.20,"Beal, Bradley",2.30,7.10
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,3,2,01,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Detroit Pistons",-119,142,3,3.70,"Dinwiddie, Spencer",4.10,1.90
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,11,16,0,"Fadeaway Jump Shot","3PT Field Goal",26,"Golden State Warriors",163,213,0,0.70,"Livingston, Shaun",3.70,2.00
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,3,2,17,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Denver Nuggets",113,69,6,5.60,"Chandler, Wilson",3.30,7.20
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,6,57,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-182,-16,3,1.90,"Crabbe, Allen",1.60,3.90
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,9,51,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-172,-21,3,7.80,"Augustin, D.J.",2.50,2.90
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,4,0,00,1,"Fadeaway Jump Shot","2PT Field Goal",18,"New York Knicks",-185,-33,0,0.00,"Dalembert, Samuel",2.00,0.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,8,53,0,"Floating Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",0,85,2,2.30,"Jackson, Reggie",2.50,8.60
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,3,7,08,1,"Floating Jump shot","2PT Field Goal",8,"San Antonio Spurs",81,33,0,2.00,"Parker, Tony",2.30,14.20
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,1,8,48,0,"Floating Jump shot","2PT Field Goal",10,"Cleveland Cavaliers",-103,7,1,1.20,"Mozgov, Timofey",3.10,3.10
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,4,1,45,1,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Lakers",-62,54,4,3.70,"Clarkson, Jordan",3.40,5.40
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,7,50,1,"Floating Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",4,77,3,2.60,"Jackson, Reggie",2.10,13.70
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,2,33,1,"Floating Jump shot","2PT Field Goal",13,"San Antonio Spurs",-46,129,6,5.80,"Williams, Reggie",5.20,9.60
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,1,8,05,0,"Floating Jump shot","2PT Field Goal",5,"Minnesota Timberwolves",0,58,4,4.40,"LaVine, Zach",0.00,11.40
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,1,7,23,0,"Floating Jump shot","2PT Field Goal",6,"Chicago Bulls",1,63,1,1.40,"Rose, Derrick",3.40,21.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,3,2,31,1,"Floating Jump shot","2PT Field Goal",7,"Milwaukee Bucks",-73,14,1,2.30,"Bayless, Jerryd",2.30,16.00
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,4,7,40,0,"Floating Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",28,56,3,2.70,"Ibaka, Serge",5.40,2.40
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,3,7,36,0,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",54,71,3,3.90,"Conley, Mike",1.30,10.30
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,4,16,0,"Floating Jump shot","2PT Field Goal",6,"Boston Celtics",45,48,8,7.60,"Smart, Marcus",0.20,14.70
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,3,11,12,0,"Floating Jump shot","2PT Field Goal",10,"Golden State Warriors",-34,101,4,3.90,"Curry, Stephen",3.00,9.50
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,5,26,0,"Floating Jump shot","2PT Field Goal",10,"Chicago Bulls",65,77,0,6.50,"Rose, Derrick",2.10,10.00
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,11,03,1,"Floating Jump shot","2PT Field Goal",5,"Portland Trail Blazers",-26,50,0,0.90,"Blake, Steve",3.30,9.30
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,4,7,21,1,"Floating Jump shot","2PT Field Goal",5,"Golden State Warriors",-24,53,8,6.20,"Holiday, Justin",4.50,2.60
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,2,1,18,0,"Floating Jump shot","2PT Field Goal",8,"Houston Rockets",-11,82,9,8.80,"Terry, Jason",2.00,14.50
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,4,5,00,1,"Floating Jump shot","2PT Field Goal",11,"Portland Trail Blazers",110,39,1,2.20,"Batum, Nicolas",4.90,5.90
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,2,0,09,0,"Floating Jump shot","2PT Field Goal",7,"Chicago Bulls",17,78,0,0.00,"Rose, Derrick",3.70,5.60
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,1,1,53,1,"Floating Jump shot","2PT Field Goal",7,"Minnesota Timberwolves",-8,72,12,8.50,"Hummel, Robbie",4.30,2.80
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,2,3,40,1,"Floating Jump shot","2PT Field Goal",7,"New Orleans Pelicans",58,50,4,3.60,"Holiday, Jrue",2.10,6.70
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,5,02,0,"Floating Jump shot","2PT Field Goal",5,"Toronto Raptors",53,26,3,3.60,"Williams, Lou",2.50,12.80
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,1,5,21,0,"Floating Jump shot","2PT Field Goal",5,"Orlando Magic",20,50,2,2.20,"Dedmon, Dewayne",4.20,7.00
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,1,11,10,1,"Floating Jump shot","2PT Field Goal",6,"Washington Wizards",18,58,2,2.60,"Wall, John",1.20,1.50
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,2,6,11,1,"Floating Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",-49,37,16,14.60,"Adams, Steven",3.80,10.30
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,2,10,21,1,"Floating Jump shot","2PT Field Goal",4,"Brooklyn Nets",13,44,6,5.50,"Jack, Jarrett",1.30,17.80
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,3,4,37,0,"Floating Jump shot","2PT Field Goal",7,"Minnesota Timberwolves",34,64,3,3.00,"Williams, Mo",1.30,8.70
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,6,02,1,"Jump Bank Shot","2PT Field Goal",14,"Orlando Magic",114,94,4,2.80,"Harris, Tobias",2.50,8.00
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,3,9,32,1,"Jump Bank Shot","2PT Field Goal",5,"Toronto Raptors",-48,22,2,3.00,"Valanciunas, Jonas",5.00,10.50
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,2,6,22,0,"Jump Bank Shot","2PT Field Goal",4,"Phoenix Suns",39,19,5,5.00,"Thomas, Isaiah",0.80,13.10
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,2,0,51,1,"Jump Bank Shot","2PT Field Goal",3,"San Antonio Spurs",-34,11,10,7.80,"Diaw, Boris",4.50,15.60
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,2,7,33,0,"Jump Bank Shot","2PT Field Goal",11,"Oklahoma City Thunder",106,56,0,1.10,"Collison, Nick",6.70,14.60
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,1,2,54,1,"Jump Bank Shot","2PT Field Goal",14,"San Antonio Spurs",141,9,5,5.50,"Mills, Patty",2.30,5.40
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,3,11,42,0,"Jump Bank Shot","2PT Field Goal",13,"Cleveland Cavaliers",130,37,0,-0.20,"Irving, Kyrie",2.50,8.20
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,9,34,1,"Jump Bank Shot","2PT Field Goal",6,"Dallas Mavericks",59,17,4,4.10,"Nelson, Jameer",5.90,20.70
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,8,56,0,"Jump Bank Shot","2PT Field Goal",11,"Los Angeles Clippers",-92,61,2,3.10,"Rivers, Austin",3.50,8.00
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,2,34,0,"Jump Bank Shot","2PT Field Goal",13,"Charlotte Hornets",113,72,1,2.20,"Walker, Kemba",4.40,6.70
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,3,3,50,1,"Jump Bank Shot","2PT Field Goal",4,"Charlotte Hornets",39,14,10,9.00,"Jefferson, Al",0.70,15.50
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,1,3,27,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,6,0,0.90,"McGary, Mitch",5.40,18.70
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,1,0,00,0,"Jump Shot","3PT Field Goal",67,"Brooklyn Nets",-24,678,0,1.10,"Lopez, Brook",9.70,0.00
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,3,0,00,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",171,99,6,2.60,"Plumlee, Mason",3.00,0.00
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,2,5,54,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",23,247,0,0.80,"Jack, Jarrett",4.80,2.30
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,3,4,10,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-26,179,2,2.20,"Jack, Jarrett",4.70,11.20
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,3,3,41,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",222,3,0,0.80,"Young, Thaddeus",6.00,12.90
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,1,0,17,1,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",78,108,6,4.30,"Williams, Deron",3.10,3.40
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,3,2,04,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",47,176,1,1.60,"Plumlee, Mason",3.90,7.60
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,2,9,10,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-5,252,5,5.20,"Jefferson, Cory",5.80,9.00
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,4,8,56,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",92,228,10,8.10,"Jack, Jarrett",4.60,3.20
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,4,1,59,0,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-149,6,3,3.50,"Johnson, Nick",5.10,11.60
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,8,45,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",152,129,8,9.90,"Adams, Steven",4.50,14.80
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,7,00,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",146,209,0,0.80,"Augustin, D.J.",4.00,4.40
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,2,8,40,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",67,239,0,1.00,"Augustin, D.J.",4.40,8.80
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,2,6,14,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-18,247,1,2.60,"Waiters, Dion",4.60,9.10
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,1,7,49,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",159,189,1,3.60,"Westbrook, Russell",7.50,12.30
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,2,44,0,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",77,209,13,11.60,"Kanter, Enes",4.70,9.30
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,6,31,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",28,15,5,3.30,"Adams, Steven",2.00,10.30
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,2,1,54,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-5,184,2,2.20,"Kanter, Enes",4.20,11.30
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,2,6,58,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-95,222,1,1.70,"Augustin, D.J.",3.70,13.70
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,2,24,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",116,227,0,0.80,"Kanter, Enes",4.50,7.30
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,2,4,38,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",226,33,0,0.80,"Augustin, D.J.",4.60,11.30
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,4,10,25,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",8,197,2,3.10,"Lin, Jeremy",3.60,7.60
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,2,10,48,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-95,229,0,0.90,"Lin, Jeremy",5.30,0.00
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,2,8,18,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",108,246,0,0.80,"Lin, Jeremy",4.30,0.00
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,2,11,31,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-9,249,0,1.00,"Lin, Jeremy",3.80,0.00
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,2,9,17,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",133,214,0,3.20,"Brewer, Corey",5.20,24.00
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,4,5,19,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",212,123,0,0.80,"McDaniels, KJ",5.70,16.00
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,1,1,30,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",99,162,1,1.60,"Terry, Jason",5.00,9.90
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,2,7,18,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",168,184,0,0.80,"Smith, Josh",6.00,4.70
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,2,6,09,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",69,205,5,5.20,"Beverley, Patrick",9.50,8.70
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,2,52,1,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",83,53,3,4.40,"Blake, Steve",0.80,5.30
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,10,07,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",50,184,3,3.00,"Blake, Steve",4.50,16.50
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,1,5,12,0,"Jump Shot","2PT Field Goal",7,"Houston Rockets",72,11,1,1.80,"Ariza, Trevor",1.00,20.50
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,3,11,45,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-52,250,0,0.80,"Sloan, Donald",5.50,11.20
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,7,58,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",29,244,0,1.00,"Carter-Williams, Michael",5.00,2.40
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,1,2,40,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-127,151,9,8.60,"Thomas, Isaiah",4.70,15.60
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,1,16,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-95,176,26,18.60,"Robinson, Glenn",4.10,5.40
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,4,26,0,"Jump Shot","2PT Field Goal",10,"Atlanta Hawks",106,26,2,2.40,"Teague, Jeff",4.50,19.60
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,1,10,12,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",36,12,4,7.70,"Rose, Derrick",2.20,8.00
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,8,21,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-166,178,0,0.80,"Jack, Jarrett",5.20,11.50
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,2,9,33,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-65,178,2,2.20,"Dellavedova, Matthew",3.20,9.00
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,4,1,23,0,"Jump Shot","2PT Field Goal",22,"Orlando Magic",62,220,0,1.00,"Fournier, Evan",15.00,13.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,2,8,02,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",92,231,0,0.80,"Telfair, Sebastian",3.70,14.90
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,1,3,12,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",72,17,4,4.30,"Jennings, Brandon",2.90,19.60
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,1,07,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-24,200,5,5.20,"Teague, Jeff",6.30,12.30
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,4,10,44,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",-37,9,1,2.20,"Beverley, Patrick",0.70,20.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,2,3,32,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-106,230,4,4.80,"Faried, Kenneth",5.60,6.00
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,2,1,42,0,"Jump Shot","2PT Field Goal",6,"Miami Heat",-64,0,2,1.70,"Cole, Norris",2.00,12.20
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,4,15,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",7,272,0,0.70,"Batum, Nicolas",4.50,9.70
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,11,48,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",100,190,1,1.60,"Lawson, Ty",2.20,14.40
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,6,47,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",157,184,0,0.90,"Teague, Jeff",6.60,11.20
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,1,10,22,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-4,192,1,1.20,"Oladipo, Victor",5.10,7.80
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,0,02,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",105,238,11,9.00,"Muhammad, Shabazz",4.30,0.00
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,2,6,29,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-7,197,5,3.80,"Nelson, Jameer",4.80,13.30
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,10,45,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-218,131,0,0.70,"Oladipo, Victor",4.30,14.40
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,1,11,10,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",9,190,1,1.40,"Paul, Chris",3.20,11.00
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,1,8,55,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",64,23,7,5.40,"Love, Kevin",1.30,9.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,6,03,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",138,201,0,0.70,"Schroder, Dennis",4.80,12.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,4,11,31,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-234,25,0,0.90,"Mayo, O.J.",4.50,11.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,1,1,44,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",45,1,4,3.40,"OBryant, Johnny",3.10,3.00
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,2,7,43,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",106,153,1,1.30,"McCallum, Ray",4.70,9.80
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,4,11,22,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-191,143,0,0.50,"Harris, Devin",3.30,1.70
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,3,4,10,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",94,230,0,1.30,"Knight, Brandon",12.60,18.10
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,3,6,37,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",234,20,0,1.00,"Barea, Jose Juan",6.10,13.60
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,10,44,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-158,186,1,1.50,"Schroder, Dennis",4.00,7.50
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,1,9,54,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-150,203,0,0.80,"Lowry, Kyle",3.10,3.20
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,4,1,36,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",108,227,0,0.90,"Davis, Anthony",7.10,9.00
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,2,0,49,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",236,34,0,0.80,"Teague, Jeff",6.00,9.30
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,1,0,25,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",81,231,2,1.80,"McCallum, Ray",4.30,16.20
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,1,9,44,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-120,220,0,1.00,"Nelson, Jameer",5.60,8.60
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,2,2,41,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",105,231,0,0.90,"Teague, Jeff",9.60,3.80
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,2,10,43,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",92,145,1,2.20,"McCallum, Ray",3.40,13.50
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,3,7,32,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-237,14,0,0.90,"Deng, Luol",9.10,7.30
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,3,4,00,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-138,211,0,1.00,"Aminu, Al-Farouq",7.60,2.60
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,2,0,16,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",53,178,2,2.10,"Dragic, Goran",1.80,6.60
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,3,5,26,0,"Jump Shot","2PT Field Goal",11,"New York Knicks",-98,58,15,13.60,"Larkin, Shane",1.70,10.80
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,1,3,09,1,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",143,104,10,8.70,"Sessions, Ramon",3.20,15.40
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,3,6,06,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-133,153,6,5.20,"Sessions, Ramon",2.40,3.80
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,3,5,59,0,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",7,82,2,2.40,"Asik, Omer",1.70,20.10
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,9,14,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",20,246,2,2.80,"Thornton, Marcus",3.90,4.90
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,3,8,18,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",122,219,0,1.00,"Splitter, Tiago",6.20,16.40
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,2,11,06,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",58,190,1,1.20,"Harris, Devin",3.20,10.30
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,1,2,26,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-237,23,0,1.00,"Thomas, Isaiah",11.70,11.40
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,2,0,00,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,23,0,0.70,"Bledsoe, Eric",4.00,0.00
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,4,6,18,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",113,145,1,1.80,"Thomas, Isaiah",3.90,2.20
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,1,7,52,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",177,178,0,1.00,"Nelson, Jameer",8.90,15.30
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,11,35,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-38,175,2,2.00,"Nelson, Jameer",2.90,1.20
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,1,43,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",127,151,2,2.00,"Barea, Jose Juan",0.30,12.00
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,4,3,32,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",138,201,0,1.00,"Nelson, Jameer",2.10,6.50
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,1,7,51,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-171,183,0,0.90,"Marion, Shawn",10.70,9.00
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,3,9,40,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",7,247,0,1.00,"Varejao, Anderson",9.20,20.40
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,4,0,30,0,"Jump Shot","3PT Field Goal",28,"Cleveland Cavaliers",203,198,0,0.70,"Miller, Mike",4.80,6.50
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,1,5,59,0,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",0,47,3,4.30,"Chandler, Tyson",2.40,5.30
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,2,0,00,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-180,178,0,0.80,"Harris, Devin",4.40,0.00
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,3,8,11,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-237,37,0,0.80,"Nelson, Jameer",1.10,10.80
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,4,8,21,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-86,244,0,0.80,"Barea, Jose Juan",3.90,1.30
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,1,10,25,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-221,113,0,0.90,"Jennings, Brandon",4.30,10.10
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,2,8,20,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",88,167,4,3.40,"Price, A.J.",3.40,6.10
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,4,9,25,1,"Jump Shot","3PT Field Goal",28,"Indiana Pacers",138,249,2,2.10,"Price, A.J.",5.90,9.40
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,4,8,24,0,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",103,64,3,4.60,"Sloan, Donald",1.10,7.60
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,1,3,46,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",220,116,0,0.90,"Schroder, Dennis",4.20,11.50
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,11,15,1,"Jump Shot","2PT Field Goal",23,"Atlanta Hawks",-23,233,1,2.00,"Teague, Jeff",4.30,14.70
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,8,58,1,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",0,227,1,1.60,"Teague, Jeff",3.00,13.20
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,7,44,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",-60,257,0,1.00,"Korver, Kyle",2.80,6.20
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,1,9,40,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-54,244,0,0.80,"Larkin, Shane",3.00,6.90
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,3,7,04,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-231,-6,0,0.90,"Larkin, Shane",3.50,7.40
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,4,3,02,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-234,25,0,1.30,"Larkin, Shane",2.40,1.70
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,1,6,31,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-98,162,2,2.10,"Lowry, Kyle",7.00,10.00
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,2,2,33,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-205,1,0,0.90,"Lowry, Kyle",1.70,4.40
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,2,10,16,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",89,225,0,0.70,"Telfair, Sebastian",3.40,5.70
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,2,9,00,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-166,183,0,0.80,"Telfair, Sebastian",3.40,13.90
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,2,5,17,0,"Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",37,23,4,4.30,"Jackson, Reggie",2.20,15.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,9,26,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-146,197,0,0.80,"Jackson, Reggie",5.10,10.70
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,4,3,13,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-228,124,0,1.00,"Morrow, Anthony",6.40,15.10
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,4,1,39,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",132,159,5,5.30,"Adams, Steven",4.90,6.80
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,1,10,04,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-153,194,0,0.80,"Holiday, Jrue",4.50,7.60
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,1,9,23,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-65,238,0,1.00,"Holiday, Jrue",4.40,6.50
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,1,4,56,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",136,135,1,1.70,"Gordon, Eric",4.50,8.70
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,3,10,14,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",86,149,2,2.50,"Davis, Anthony",5.80,7.60
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,3,6,39,1,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",1,164,4,4.20,"Ajinca, Alexis",5.50,2.10
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,4,6,24,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",94,138,2,3.00,"Fredette, Jimmer",1.40,10.10
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,4,3,11,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-13,200,0,1.00,"Davis, Anthony",7.50,16.00
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,0,31,1,"Jump Shot","2PT Field Goal",23,"Chicago Bulls",-114,200,0,9.80,"Brooks, Aaron",1.80,14.10
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,0,01,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",113,224,0,16.90,"Brooks, Aaron",2.50,0.00
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,4,4,51,1,"Jump Shot","2PT Field Goal",23,"Chicago Bulls",-138,184,0,0.00,"Rose, Derrick",4.80,16.00
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,1,6,46,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",23,135,7,5.60,"Paul, Chris",3.00,1.00
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,3,10,36,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-122,224,0,0.80,"Paul, Chris",3.40,8.70
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,1,7,49,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-7,241,0,1.00,"Lawson, Ty",3.30,12.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,2,7,25,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-105,192,0,1.20,"Robinson, Nate",2.50,8.60
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,9,00,1,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-125,-11,0,0.80,"Lawson, Ty",5.20,18.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,5,38,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-64,244,1,0.90,"Lawson, Ty",2.70,1.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,0,02,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",187,154,0,1.00,"Harris, Gary",6.40,0.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,4,1,50,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",51,235,2,3.00,"Lawson, Ty",3.50,16.70
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,4,1,23,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",29,19,0,0.00,"Lawson, Ty",15.20,24.00
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,1,9,06,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",149,121,1,2.20,"Oladipo, Victor",4.90,0.40
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,4,3,46,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-120,209,0,0.90,"Payton, Elfrid",6.60,7.80
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,4,1,54,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-59,138,8,7.40,"Payton, Elfrid",3.30,16.60
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,4,0,00,0,"Jump Shot","2PT Field Goal",3,"Orlando Magic",32,1,1,2.70,"Fournier, Evan",2.30,0.00
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,1,6,36,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-240,25,0,0.80,"Lowry, Kyle",3.20,12.00
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,2,0,39,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",70,203,4,5.70,"Lowry, Kyle",3.60,4.80
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,1,4,47,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-125,216,0,1.00,"Lowry, Kyle",5.00,9.70
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,11,45,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-228,26,0,0.80,"Vasquez, Greivis",5.10,11.00
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,8,09,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",86,156,2,2.20,"Vasquez, Greivis",3.50,13.70
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,4,6,01,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-229,-2,0,1.00,"Vasquez, Greivis",3.70,8.40
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,1,9,18,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",124,135,2,2.10,"Joseph, Cory",1.60,12.10
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,3,9,07,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",223,112,0,0.80,"Joseph, Cory",3.70,16.80
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,3,5,48,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",89,148,2,2.60,"Joseph, Cory",2.80,12.30
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,1,7,16,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-122,183,1,1.80,"Collison, Darren",3.90,3.60
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,1,4,33,1,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",99,140,0,1.10,"Collison, Darren",3.00,9.90
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,2,2,45,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",17,187,0,0.90,"Evans, Reggie",8.20,19.60
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,3,6,57,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",73,9,5,5.60,"Evans, Reggie",1.90,7.60
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,4,3,12,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",220,112,0,0.80,"Collison, Darren",3.80,17.30
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,1,9,26,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",133,222,0,0.90,"Wall, John",6.10,11.30
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,1,11,22,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-166,181,0,0.80,"Holiday, Jrue",5.30,7.80
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,1,8,29,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",92,175,0,1.00,"Holiday, Jrue",6.60,12.60
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,1,4,19,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-84,257,4,4.30,"Evans, Tyreke",5.10,3.90
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,1,7,28,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",72,236,0,0.80,"Cole, Norris",4.10,11.30
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,2,4,58,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",234,48,0,0.80,"Chalmers, Mario",4.40,4.10
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,2,3,17,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-193,153,0,0.90,"Cole, Norris",3.40,7.70
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,4,8,33,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-120,217,2,2.60,"Napier, Shabazz",4.00,6.40
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,4,0,32,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",236,58,0,1.00,"Napier, Shabazz",6.70,4.30
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,1,5,45,1,"Jump Shot","2PT Field Goal",14,"Orlando Magic",-139,39,1,1.90,"Vucevic, Nikola",4.80,1.30
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,2,0,00,0,"Jump Shot","3PT Field Goal",46,"Orlando Magic",-123,448,1,1.40,"Payton, Elfrid",4.10,0.00
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,1,6,48,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-237,34,0,0.80,"Walker, Kemba",5.10,5.60
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,5,58,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-127,219,0,1.00,"Zeller, Cody",15.80,5.60
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,0,00,0,"Jump Shot","3PT Field Goal",33,"Charlotte Hornets",-168,287,0,0.80,"Walker, Kemba",3.00,0.00
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,3,10,31,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-81,249,0,0.80,"Walker, Kemba",5.00,24.00
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,3,4,18,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",21,173,7,8.40,"Walker, Kemba",7.30,14.90
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,2,5,40,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",119,228,0,0.90,"Conley, Mike",4.30,11.30
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,2,2,50,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",230,-3,0,1.00,"Conley, Mike",6.40,4.10
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,1,8,33,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",239,14,0,0.90,"LaVine, Zach",6.70,15.30
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,7,39,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-229,12,0,0.80,"Williams, Mo",3.70,17.80
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,4,10,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,14,0,0.80,"LaVine, Zach",3.50,4.20
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,3,9,07,1,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",103,97,4,3.20,"LaVine, Zach",2.50,11.90
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,3,5,17,1,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",106,146,6,4.50,"Williams, Mo",2.90,6.50
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,3,3,59,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",140,201,0,0.90,"Young, Thaddeus",9.90,0.70
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,2,49,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-123,86,1,1.40,"Dieng, Gorgui",4.70,11.90
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,0,24,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",-46,20,24,19.40,"Williams, Mo",2.50,5.10
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,1,6,02,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",206,1,0,0.70,"Paul, Chris",2.50,12.40
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,2,4,35,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-147,222,0,0.90,"Paul, Chris",3.30,13.60
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,8,54,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",119,228,0,0.70,"Farmar, Jordan",3.70,5.30
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,0,00,0,"Jump Shot","3PT Field Goal",30,"Los Angeles Clippers",-13,302,0,0.50,"Paul, Chris",8.80,0.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,3,10,45,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",108,116,4,4.00,"Carter-Williams, Michael",3.40,10.60
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,3,4,56,1,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",36,83,3,3.20,"Carter-Williams, Michael",5.30,3.50
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,3,0,00,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-149,219,0,0.90,"McDaniels, KJ",11.90,0.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,6,57,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-52,153,4,4.40,"Carter-Williams, Michael",6.20,8.70
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,2,00,1,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",223,55,0,0.80,"Covington, Robert",7.10,7.70
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,5,51,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-239,41,0,0.80,"Teague, Jeff",5.20,13.10
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,2,9,17,0,"Jump Shot","2PT Field Goal",23,"Atlanta Hawks",129,192,2,3.20,"Teague, Jeff",8.00,13.60
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,2,2,52,0,"Jump Shot","2PT Field Goal",3,"Atlanta Hawks",-34,1,3,3.00,"Brand, Elton",1.50,17.30
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,5,36,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",6,219,1,1.70,"Schroder, Dennis",4.10,4.10
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,0,12,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",226,37,0,0.70,"Teague, Jeff",2.20,0.00
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,1,6,47,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",192,175,0,0.80,"LaVine, Zach",4.50,8.50
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,3,4,03,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-235,14,0,0.00,"Williams, Mo",3.30,5.00
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,6,18,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",40,244,3,3.60,"LaVine, Zach",7.80,7.60
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,4,55,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",89,239,0,0.90,"Bennett, Anthony",6.50,17.10
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,2,5,20,0,"Jump Shot","3PT Field Goal",28,"San Antonio Spurs",-48,280,0,-0.10,"Joseph, Cory",1.80,0.00
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,3,29,1,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",94,107,4,2.80,"Plumlee, Mason",5.50,15.10
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,7,00,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-201,138,0,1.20,"Jack, Jarrett",7.20,8.80
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,9,21,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-51,242,1,1.90,"Morris, Darius",5.70,9.10
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,3,1,24,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-7,242,0,1.00,"Jack, Jarrett",4.80,5.40
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,7,34,0,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",110,127,1,1.30,"Anderson, Alan",5.90,17.50
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,5,01,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-29,246,0,0.90,"Jack, Jarrett",5.30,2.90
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,11,12,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",114,172,0,1.00,"Crawford, Jamal",4.10,2.00
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,2,10,57,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",114,235,0,0.70,"Rivers, Austin",4.00,5.20
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,1,2,51,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-2,200,1,1.80,"Barnes, Matt",3.30,0.90
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,2,1,56,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",228,25,0,0.80,"Paul, Chris",2.80,8.80
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,0,42,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-240,23,2,4.20,"Paul, Chris",5.80,0.00
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,1,0,02,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-129,229,1,1.40,"Brown, Jabari",4.30,0.00
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,4,1,12,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-145,197,0,0.80,"Ellington, Wayne",4.50,10.10
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,2,1,20,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",86,232,0,1.30,"Hill, Jordan",4.30,0.00
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,2,1,08,1,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-150,99,3,2.00,"Mills, Patty",3.20,7.00
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,4,6,48,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-134,154,1,1.30,"Diaw, Boris",3.50,11.80
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,4,3,51,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-158,-5,3,2.00,"Baynes, Aron",5.70,8.80
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,1,5,22,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-209,124,3,2.70,"Mills, Patty",4.10,9.70
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,1,3,40,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",116,164,9,6.50,"Baynes, Aron",4.70,1.40
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,3,5,18,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-5,201,0,0.70,"Joseph, Cory",4.50,2.80
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,4,5,27,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",171,86,8,5.90,"Bonner, Matt",4.50,12.00
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,1,09,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",81,168,23,20.00,"Crabbe, Allen",5.50,3.20
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,11,04,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-109,222,0,1.20,"Crabbe, Allen",9.10,9.00
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,3,0,33,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",130,219,0,0.80,"Ennis, Tyler",4.80,6.00
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,8,35,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",67,160,1,2.00,"Ennis, Tyler",1.90,9.80
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,3,05,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",214,121,0,1.00,"Middleton, Khris",4.30,10.50
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,2,7,03,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",2,172,3,5.50,"Blake, Steve",3.80,5.00
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,5,08,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",152,220,0,1.00,"Antetokounmpo, Giannis",6.20,4.80
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,2,4,37,1,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-82,165,10,8.70,"Carter-Williams, Michael",8.40,15.30
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,10,03,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",163,189,0,0.80,"Ennis, Tyler",7.40,7.60
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,2,0,00,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",29,30,12,9.50,"Middleton, Khris",3.20,0.00
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,3,8,40,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",154,189,0,0.10,"Carter-Williams, Michael",2.20,0.40
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,3,1,36,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-160,194,0,0.80,"Bayless, Jerryd",3.40,4.90
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,1,3,12,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-175,187,0,0.80,"Bayless, Jerryd",3.40,3.70
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,1,1,09,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",125,211,0,0.90,"Antetokounmpo, Giannis",4.50,6.70
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,2,11,33,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-65,209,1,1.40,"Plumlee, Miles",5.30,9.90
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,6,57,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-161,203,1,1.70,"Carter-Williams, Michael",5.10,3.70
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,1,3,42,0,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",24,31,14,12.10,"Bayless, Jerryd",0.70,12.10
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,2,2,36,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-21,254,0,1.10,"Middleton, Khris",3.10,4.10
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,1,10,04,1,"Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",100,201,9,7.40,"Crabbe, Allen",5.20,16.70
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,4,28,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",163,113,12,9.60,"Crabbe, Allen",5.00,14.10
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,3,3,30,1,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",42,112,3,2.40,"Udrih, Beno",2.10,10.80
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,3,8,10,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-60,238,0,0.80,"Conley, Mike",4.30,2.00
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,4,5,25,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-228,50,0,0.70,"Conley, Mike",4.10,11.70
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,3,1,55,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",94,238,4,4.60,"Udrih, Beno",2.50,3.50
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,4,1,55,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-114,175,3,2.80,"Conley, Mike",2.70,4.60
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,4,3,54,0,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",-26,47,6,5.00,"Calathes, Nick",3.20,7.30
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,4,6,31,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",166,186,1,0.70,"Koufos, Kosta",3.00,1.70
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,2,9,33,1,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",56,219,1,1.20,"Calathes, Nick",4.10,16.40
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,3,0,35,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",77,239,1,1.90,"Koufos, Kosta",5.30,3.80
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,1,0,38,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",92,224,1,1.30,"Udrih, Beno",4.00,11.90
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,4,05,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",51,20,16,15.50,"Crabbe, Allen",0.60,4.30
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,0,59,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",144,88,5,4.80,"Blake, Steve",1.90,8.90
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,0,15,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-26,116,8,6.80,"Crabbe, Allen",2.90,7.40
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,1,10,47,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-41,246,0,1.10,"Curry, Stephen",13.60,18.80
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,1,3,13,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-112,228,2,2.20,"Kilpatrick, Sean",5.00,4.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,5,1,44,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",152,107,12,9.80,"LaVine, Zach",5.40,14.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,0,01,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",223,9,11,11.30,"Wiggins, Andrew",7.10,0.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,2,7,10,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",124,213,3,3.40,"LaVine, Zach",4.10,5.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,1,02,0,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",48,69,7,6.00,"Budinger, Chase",3.00,5.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,3,9,04,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",231,7,0,0.70,"LaVine, Zach",4.40,3.90
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,5,0,02,0,"Jump Shot","3PT Field Goal",32,"Minnesota Timberwolves",-172,272,3,3.00,"LaVine, Zach",5.20,0.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,1,9,19,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",228,30,0,0.80,"LaVine, Zach",10.00,5.80
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,5,0,43,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-223,91,0,0.90,"Kilpatrick, Sean",4.80,20.40
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,1,3,56,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-106,241,0,0.80,"Wiggins, Andrew",4.90,2.60
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,2,2,02,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",166,74,2,2.40,"LaVine, Zach",4.60,4.80
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,3,6,06,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",106,228,0,1.00,"LaVine, Zach",5.60,6.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,3,7,42,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",129,220,0,0.80,"Brown, Lorenzo",4.60,7.30
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,5,3,45,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-7,151,5,4.50,"Budinger, Chase",3.10,9.20
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,1,10,03,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",159,179,0,0.90,"LaVine, Zach",6.50,7.50
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,0,40,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",144,195,0,0.90,"Budinger, Chase",7.90,10.00
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,3,3,46,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-158,187,0,0.80,"Brown, Lorenzo",5.40,8.50
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,4,8,13,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",47,23,4,4.70,"Perkins, Kendrick",1.80,3.80
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,2,0,33,0,"Jump Shot","2PT Field Goal",23,"Miami Heat",40,228,7,6.80,"Cole, Norris",6.30,17.00
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,11,44,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",32,260,0,1.00,"Smart, Marcus",6.80,10.60
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,1,10,14,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-228,12,0,0.80,"Green, Draymond",6.20,6.20
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,3,7,16,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",171,7,6,7.10,"Curry, Stephen",7.10,7.20
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,1,8,06,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-87,153,1,1.60,"Curry, Stephen",8.10,8.70
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,1,3,27,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",7,209,5,5.20,"Curry, Stephen",3.70,12.20
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,3,3,58,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",204,-10,1,3.00,"Curry, Stephen",2.10,13.30
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,3,6,54,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",116,137,1,1.90,"Green, Draymond",4.20,15.60
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,2,10,20,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",2,250,5,4.90,"Holiday, Justin",3.60,12.10
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,2,4,30,0,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-157,225,0,0.80,"Thompson, Klay",4.90,5.30
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,1,11,38,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",127,211,2,3.20,"Curry, Stephen",4.10,5.30
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,4,46,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-56,238,1,0.80,"Bosh, Chris",4.10,1.00
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,3,5,47,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",226,20,0,0.80,"Lawson, Ty",3.30,6.70
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,3,2,26,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",222,140,1,1.90,"Conley, Mike",5.50,5.30
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,1,3,39,0,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",106,56,3,4.00,"Conley, Mike",2.20,4.10
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,1,48,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",128,226,0,0.90,"Green, Jeff",3.00,18.20
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,0,31,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",168,189,0,0.70,"Conley, Mike",4.00,12.80
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",171,184,0,0.70,"Conley, Mike",5.20,0.00
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,3,4,38,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",-103,198,0,0.70,"Conley, Mike",3.20,1.10
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,1,2,34,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",105,228,2,1.90,"Lee, Courtney",4.70,5.70
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,1,9,10,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-144,224,0,0.80,"Cole, Norris",3.60,8.90
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,1,5,41,1,"Jump Shot","2PT Field Goal",21,"Miami Heat",129,172,1,1.80,"Deng, Luol",9.70,0.90
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,11,41,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",119,242,0,0.90,"Cole, Norris",4.70,8.00
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,2,4,38,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",106,224,0,1.00,"Cole, Norris",4.00,7.00
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,5,23,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",136,217,0,0.80,"Cole, Norris",4.70,9.50
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,4,11,21,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",141,140,1,3.90,"Chandler, Wilson",3.70,11.00
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,4,10,37,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",179,140,2,2.00,"Gibson, Taj",4.90,7.30
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,4,9,40,1,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",0,146,2,2.30,"Green, Erick",3.90,9.30
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,3,4,01,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",114,102,8,7.00,"Lawson, Ty",2.90,16.00
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,1,32,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",242,37,0,0.90,"Gallinari, Danilo",16.80,4.70
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,8,55,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",234,34,0,0.60,"Nelson, Jameer",2.30,5.80
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,9,38,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-142,211,0,0.90,"Nelson, Jameer",4.80,13.00
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,2,12,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-45,173,7,6.30,"Faried, Kenneth",5.30,17.80
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,3,3,23,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-231,123,0,1.00,"Lawson, Ty",3.80,10.10
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,2,32,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",64,42,1,2.20,"Faried, Kenneth",5.90,11.30
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,1,9,37,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",154,197,0,1.00,"Westbrook, Russell",5.10,10.20
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,3,4,51,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",91,67,4,3.70,"Lawson, Ty",2.50,12.40
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,2,8,37,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",21,184,5,4.50,"Brooks, Aaron",2.80,14.50
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,2,10,05,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",56,55,10,8.40,"Larkin, Shane",2.60,5.00
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,4,8,37,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",-32,12,2,2.40,"Larkin, Shane",2.00,2.70
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,2,2,01,0,"Jump Shot","3PT Field Goal",27,"New York Knicks",-144,238,0,0.90,"Bargnani, Andrea",5.70,1.30
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,2,0,31,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-100,181,1,1.70,"Larkin, Shane",3.60,5.60
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,1,7,17,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",40,30,5,6.60,"Amundson, Lou",2.40,17.60
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,1,9,54,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-139,195,0,0.80,"Galloway, Langston",4.90,6.70
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,1,6,32,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",91,142,2,2.40,"Larkin, Shane",2.30,2.70
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,1,10,27,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-111,159,1,2.40,"Galloway, Langston",3.80,15.50
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,3,3,41,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",166,187,0,0.70,"Larkin, Shane",2.80,8.80
+"Trey Burke","Utah Jazz",2015-03-10,2014,2579260,1610612762,400579242,2,11,19,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-37,183,1,1.50,"Thomas, Lance",5.00,7.00
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,4,10,03,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",239,0,0,1.00,"Brooks, Aaron",7.80,7.00
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,1,2,14,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-223,86,0,1.20,"Nelson, Jameer",2.60,2.80
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,1,3,29,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-205,146,3,3.70,"Gallinari, Danilo",4.30,2.10
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,2,1,11,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-134,211,2,2.10,"Chandler, Wilson",4.60,13.10
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,3,7,05,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",239,96,0,0.80,"Gallinari, Danilo",6.50,11.30
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,2,10,07,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",39,168,11,10.40,"Lawson, Ty",2.50,14.00
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,3,1,35,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",67,247,0,1.00,"Green, Erick",9.20,14.40
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,1,6,03,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-117,165,0,0.90,"Westbrook, Russell",3.10,0.00
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,3,4,23,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-81,249,0,2.10,"Curry, Stephen",10.40,13.80
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,3,2,49,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",184,184,1,2.10,"Green, Draymond",5.00,8.30
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,9,33,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",233,42,0,0.80,"Clarkson, Jordan",4.70,12.80
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,2,3,17,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",121,214,0,0.90,"Adams, Steven",18.00,9.00
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,4,1,52,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-114,227,11,10.90,"Westbrook, Russell",11.30,13.50
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,3,5,55,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-155,197,0,1.40,"Durant, Kevin",6.90,4.80
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,1,7,41,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-163,187,0,0.90,"Jackson, Reggie",5.20,10.20
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,4,2,14,1,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-149,222,0,1.00,"Jackson, Reggie",5.60,14.90
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,3,8,06,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",179,170,0,1.50,"Jackson, Reggie",5.00,12.30
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,2,1,01,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",92,194,12,9.90,"Perkins, Kendrick",3.90,1.30
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,2,3,43,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-150,195,0,1.00,"Jackson, Reggie",6.90,13.90
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,4,9,02,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-157,194,1,1.20,"Lamb, Jeremy",5.50,21.30
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,1,7,20,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-15,254,0,0.70,"Lin, Jeremy",4.80,11.60
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,2,3,58,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",233,-10,0,0.80,"Rose, Derrick",2.60,5.40
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,10,47,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",1,192,3,1.80,"Smart, Marcus",3.30,6.00
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,3,4,32,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-127,135,2,1.50,"Bradley, Avery",3.60,9.20
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,3,5,29,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-130,127,1,1.20,"Bradley, Avery",2.50,13.70
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,1,2,06,0,"Jump Shot","2PT Field Goal",8,"Boston Celtics",32,78,5,4.80,"Thomas, Isaiah",3.80,8.40
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,2,8,28,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",114,222,0,0.90,"Bradley, Avery",4.90,5.80
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,1,2,05,1,"Jump Shot","2PT Field Goal",3,"Boston Celtics",18,33,0,0.10,"Zeller, Tyler",2.80,24.00
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,3,2,21,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",89,244,0,1.10,"Wall, John",3.50,10.90
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,2,8,04,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",-108,190,1,1.90,"Sessions, Ramon",4.40,19.80
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,4,6,26,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",236,-3,0,0.80,"Wall, John",4.90,14.50
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,4,3,34,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-67,244,2,3.20,"Wall, John",4.50,5.70
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,4,8,00,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",176,189,0,0.70,"Sessions, Ramon",4.80,8.00
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,2,9,49,1,"Jump Shot","2PT Field Goal",14,"Washington Wizards",105,93,2,3.70,"Sessions, Ramon",7.50,13.00
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,8,36,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",226,7,0,1.00,"Jerebko, Jonas",12.00,9.50
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,4,9,18,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",184,176,0,0.90,"Thomas, Isaiah",5.90,8.60
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,2,10,02,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",226,108,0,0.90,"Sessions, Ramon",4.40,8.00
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,10,53,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-232,25,0,0.80,"Black, Tarik",5.00,10.90
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,11,29,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",135,91,4,4.90,"Clarkson, Jordan",2.00,6.10
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,1,5,30,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Lakers",-67,211,1,2.10,"Lin, Jeremy",4.30,16.20
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,5,16,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",223,28,0,0.80,"Young, Nick",4.40,5.10
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,1,3,15,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-194,140,0,0.90,"Clarkson, Jordan",6.00,8.00
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,3,8,12,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",132,219,0,0.80,"Lin, Jeremy",4.90,7.40
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,2,6,02,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",37,23,6,3.40,"Black, Tarik",1.30,7.70
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,6,40,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",77,198,3,3.50,"Clarkson, Jordan",3.70,4.00
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,8,19,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",89,145,3,2.40,"Clarkson, Jordan",2.70,6.00
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,1,4,11,0,"Jump Shot","2PT Field Goal",9,"Los Angeles Lakers",86,34,3,4.10,"Lin, Jeremy",0.90,20.70
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,2,7,35,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-139,211,0,0.90,"Clarkson, Jordan",5.30,3.60
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,3,6,51,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",228,19,0,0.80,"Lin, Jeremy",3.60,6.60
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,2,1,34,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-136,201,3,2.90,"Hill, Jordan",9.40,2.60
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,3,11,01,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",231,1,0,0.70,"Rose, Derrick",2.10,11.50
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,2,0,09,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",102,168,6,5.20,"Rose, Derrick",2.40,2.40
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,1,5,42,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",122,151,6,7.30,"Rose, Derrick",2.20,7.30
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,3,9,30,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-199,161,0,1.00,"Rose, Derrick",4.20,7.10
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,11,30,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",132,211,0,0.80,"Walker, Kemba",4.70,10.00
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,1,2,54,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",15,238,0,0.90,"Williams, Mo",4.40,17.30
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,4,3,33,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",89,50,1,1.70,"Roberts, Brian",1.80,2.10
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,3,0,39,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",121,238,0,0.70,"Walker, Kemba",4.30,4.10
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,4,29,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",77,140,5,3.70,"Kidd-Gilchrist, Michael",2.80,5.90
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,4,11,43,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-119,211,0,0.90,"Walker, Kemba",4.10,9.30
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,1,1,32,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",129,104,4,4.90,"Maxiell, Jason",4.80,17.40
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,4,4,29,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",141,217,0,1.10,"Walker, Kemba",5.10,12.10
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,9,24,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-73,137,1,1.40,"Walker, Kemba",0.80,9.10
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,3,4,20,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,-5,0,1.10,"Terry, Jason",14.00,14.20
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,3,5,09,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",89,257,0,0.90,"Terry, Jason",5.50,12.90
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,1,5,26,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",-15,34,5,4.70,"Terry, Jason",2.80,18.00
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,2,4,12,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",135,205,0,1.10,"Terry, Jason",5.50,12.10
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,2,2,24,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",231,23,0,0.60,"Jones, Terrence",6.10,8.30
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,3,4,39,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",241,-13,0,0.70,"Terry, Jason",5.30,11.80
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,1,2,01,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-240,25,0,0.80,"McLemore, Ben",3.60,1.90
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,1,0,00,1,"Jump Shot","3PT Field Goal",55,"Sacramento Kings",72,547,2,2.10,"Evans, Reggie",2.90,0.00
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,3,1,45,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",162,195,0,0.90,"Casspi, Omri",8.80,19.00
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,1,1,18,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",81,239,0,1.20,"Miller, Andre",4.50,10.70
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,3,1,53,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",236,7,0,0.90,"Miller, Andre",5.60,14.40
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,2,11,14,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",31,175,2,1.90,"Miller, Andre",3.90,13.50
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,3,3,47,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-131,115,2,2.20,"Evans, Reggie",3.30,8.10
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,1,0,01,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",78,247,3,3.10,"Faried, Kenneth",6.10,0.00
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,1,2,09,1,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",32,11,0,0.90,"Foye, Randy",6.90,21.00
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,2,7,44,1,"Jump Shot","3PT Field Goal",29,"Denver Nuggets",-199,219,0,0.90,"Nelson, Jameer",3.70,3.40
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,3,2,46,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",239,17,0,0.70,"Gallinari, Danilo",2.90,9.40
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,1,0,31,1,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",110,72,10,8.40,"Nelson, Jameer",0.80,17.00
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,1,4,22,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",147,213,2,2.80,"Lawson, Ty",5.90,8.50
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,2,6,32,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",94,149,3,4.00,"Nelson, Jameer",4.30,7.20
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,2,10,16,0,"Jump Shot","2PT Field Goal",8,"Denver Nuggets",10,80,2,1.90,"Nelson, Jameer",4.60,9.10
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,4,6,07,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",37,241,0,0.80,"Chalmers, Mario",4.80,5.80
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,1,11,10,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-62,194,1,1.40,"Walker, Kemba",4.50,9.60
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,4,11,36,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",193,-30,9,7.40,"Lopez, Brook",3.80,3.30
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,2,10,45,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-67,247,0,1.00,"Anderson, Alan",6.50,5.70
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,4,6,30,1,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",-30,219,1,2.50,"Jack, Jarrett",5.70,10.60
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,3,5,04,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",43,265,5,5.90,"Ilyasova, Ersan",8.70,6.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,2,1,45,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-207,3,0,0.70,"Knight, Brandon",1.10,8.60
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,1,0,00,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",110,247,3,3.20,"Bayless, Jerryd",4.30,0.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,1,3,39,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-212,134,0,1.20,"Bayless, Jerryd",5.00,9.30
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,2,0,00,0,"Jump Shot","3PT Field Goal",34,"Milwaukee Bucks",-196,279,0,1.00,"Knight, Brandon",1.00,0.00
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,4,2,55,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-111,235,5,4.60,"Davis, Anthony",5.00,4.30
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,2,2,47,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",233,25,0,0.70,"Williams, Mo",5.40,8.30
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,1,0,00,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-111,140,0,0.00,"McCallum, Ray",8.00,0.00
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,1,0,53,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",91,157,2,2.90,"McCallum, Ray",2.20,12.70
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,1,8,20,0,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",94,78,2,3.20,"Chandler, Tyson",5.30,17.40
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,3,8,38,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",147,206,0,0.80,"Carter-Williams, Michael",6.20,7.60
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,3,5,39,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-136,211,0,0.80,"Irving, Kyrie",11.70,10.40
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,3,6,32,0,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",36,71,2,3.50,"Walker, Kemba",2.40,13.20
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,3,11,20,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-111,235,0,1.10,"Oladipo, Victor",3.20,4.60
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,2,0,23,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-78,239,0,0.70,"Beverley, Patrick",3.30,2.50
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,4,5,14,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",24,22,6,7.10,"Seraphin, Kevin",0.50,18.00
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,4,8,46,0,"Jump Shot","2PT Field Goal",22,"Orlando Magic",-127,183,5,4.70,"Payton, Elfrid",5.00,7.70
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,3,2,51,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",72,236,3,3.00,"McCallum, Ray",2.40,2.40
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,3,8,22,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",-172,213,0,0.80,"Collison, Darren",3.40,5.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,4,8,07,0,"Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-79,53,3,2.20,"Henson, John",2.20,10.00
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,4,4,04,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",220,134,0,0.70,"Barea, Jose Juan",2.90,14.80
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,1,5,30,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-212,118,0,0.80,"Harris, Devin",6.00,10.50
+"Trey Burke","Utah Jazz",2015-03-12,2014,2579260,1610612762,400579257,1,0,54,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",165,-6,5,3.60,"Terry, Jason",3.00,1.60
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,2,2,31,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-119,228,0,0.80,"Harris, Devin",3.40,2.30
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,2,5,07,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-239,14,0,0.00,"Oladipo, Victor",1.60,10.80
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,1,3,45,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-231,39,0,0.90,"Terry, Jason",7.00,13.30
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,2,20,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-108,108,3,2.30,"Jordan, DeAndre",4.80,5.80
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,4,3,06,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",217,115,0,1.00,"Morris, Darius",7.60,4.40
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,1,5,11,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",94,201,1,1.30,"Nelson, Jameer",5.90,7.50
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,6,55,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-119,129,7,7.20,"McCollum, CJ",0.10,7.50
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,0,00,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",168,211,0,0.60,"Blake, Steve",4.70,0.00
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,1,10,50,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",140,206,0,1.00,"Nelson, Jameer",3.90,10.60
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,2,6,15,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-153,200,0,0.80,"Augustin, D.J.",4.30,15.20
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,7,37,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",174,52,4,3.20,"Wall, John",2.20,11.60
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,3,1,00,0,"Jump Shot","2PT Field Goal",23,"Dallas Mavericks",165,165,2,2.80,"Harris, Devin",6.40,5.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,1,6,31,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",1,195,1,1.60,"Jackson, Reggie",3.60,19.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,1,4,19,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-5,52,1,1.10,"Jackson, Reggie",2.20,12.10
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,2,7,03,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",77,236,0,0.90,"Nelson, Jameer",4.90,6.60
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,4,9,22,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-100,260,0,0.90,"Augustin, D.J.",4.90,12.30
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,5,24,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",103,107,1,2.30,"Lillard, Damian",3.40,16.30
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,1,6,28,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",59,239,0,1.00,"Evans, Tyreke",5.00,23.80
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,3,06,0,"Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",24,77,21,16.90,"Matthews, Wesley",2.00,6.60
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,0,00,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-45,23,12,10.30,"Lopez, Robin",2.50,0.00
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,5,29,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",43,123,1,1.60,"Batum, Nicolas",5.00,6.80
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,4,1,54,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-101,236,7,7.00,"Gay, Rudy",7.60,17.00
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,3,7,52,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-147,222,0,0.90,"Lillard, Damian",7.20,1.10
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,9,23,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",39,25,13,9.60,"Farmar, Jordan",1.40,14.00
+"Trey Burke","Utah Jazz",2014-11-03,2014,2579260,1610612762,400578340,3,3,39,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",20,33,6,5.40,"Hawes, Spencer",1.40,17.60
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,4,10,42,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",136,119,3,3.50,"Sessions, Ramon",7.80,14.40
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,2,7,38,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",105,31,8,7.30,"Augustin, D.J.",2.00,17.10
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,2,6,52,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",7,263,1,2.00,"Paul, Chris",3.60,6.20
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,3,9,20,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",154,101,2,2.40,"Jennings, Brandon",3.20,10.50
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,1,5,58,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",226,-16,0,0.90,"Hill, Solomon",5.90,17.20
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,2,4,27,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-108,238,0,0.90,"Price, A.J.",6.30,19.50
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,10,33,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-54,209,6,4.80,"Grant, Jerami",4.80,7.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,0,00,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-224,15,0,1.30,"Horford, Al",4.30,0.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,1,7,22,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-49,238,0,1.20,"Carter-Williams, Michael",8.40,9.70
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,2,3,58,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",209,142,0,1.00,"Douglas, Toney",4.10,7.10
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,10,13,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",4,205,1,1.40,"Williams, Mo",5.10,11.60
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,2,5,54,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",237,26,0,0.90,"Millsap, Paul",8.70,12.70
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,4,3,32,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",121,178,8,6.50,"Terry, Jason",5.20,16.70
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,6,16,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-73,238,0,0.70,"Beverley, Patrick",3.70,9.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,11,17,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",-98,203,0,1.10,"Teague, Jeff",4.90,9.80
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,3,08,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-43,11,7,7.50,"McDaniels, KJ",2.20,5.30
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,4,0,22,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",61,9,2,3.20,"Temple, Garrett",0.90,16.00
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,2,5,01,0,"Jump Shot","2PT Field Goal",22,"Phoenix Suns",-133,187,2,2.90,"Bledsoe, Eric",2.50,14.60
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,2,31,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-188,14,6,5.00,Nene,3.50,2.70
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,1,9,09,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",230,52,0,0.80,"Marion, Shawn",7.20,6.00
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,2,5,01,0,"Jump Shot","2PT Field Goal",9,"Dallas Mavericks",-59,77,2,2.10,"Nelson, Jameer",2.80,14.80
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,4,39,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",51,246,1,2.30,"LaVine, Zach",5.10,5.60
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,1,9,19,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",234,7,0,0.70,"Irving, Kyrie",5.50,14.00
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,8,17,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",190,124,0,3.30,"Teague, Jeff",3.70,11.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,1,10,53,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-131,-14,0,0.80,"Jackson, Reggie",4.90,15.60
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,3,1,38,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-112,217,0,1.00,"Nicholson, Andrew",13.10,19.80
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,8,54,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-75,241,0,1.30,"Beverley, Patrick",3.20,9.30
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,4,8,36,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",42,242,0,0.80,"Williams, Derrick",4.80,7.50
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,2,7,13,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-188,164,0,1.00,"Brooks, Aaron",3.40,8.70
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,2,4,20,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",155,58,5,5.10,"Thomas, Isaiah",5.00,9.30
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,9,50,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",200,86,0,0.90,"Patterson, Patrick",5.80,1.80
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,3,6,30,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",124,209,3,3.90,"Nelson, Jameer",5.00,9.60
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,2,5,37,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-65,257,14,11.00,"Wall, John",4.30,12.10
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,4,3,55,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-57,241,0,0.80,"Vasquez, Greivis",5.00,8.00
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,3,8,28,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-220,129,0,1.00,"Hill, Solomon",10.40,16.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,4,37,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-117,209,0,0.90,"Carroll, DeMarre",11.20,16.80
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,1,24,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-125,20,1,2.00,"Walker, Kemba",1.10,2.80
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,3,10,59,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",185,37,1,1.80,"Smith, J.R.",3.80,14.80
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,1,4,51,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-207,134,0,1.10,"Len, Alex",21.00,18.20
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,3,9,30,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",114,151,2,2.70,"Collison, Darren",4.40,16.10
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,4,7,23,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",114,222,0,0.90,"Farmar, Jordan",3.90,9.60
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,9,23,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",77,187,3,2.30,"Williams, Mo",2.00,8.00
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,1,3,23,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",110,220,0,0.80,"Harris, Devin",5.10,13.50
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,2,11,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",193,0,0,0.00,"DeRozan, DeMar",12.20,20.70
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,2,9,57,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-21,263,0,1.20,"Barea, Jose Juan",6.40,15.20
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,9,14,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-134,58,3,3.00,"Davis, Glen",7.30,8.60
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,3,8,56,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",231,47,0,0.90,"Irving, Kyrie",6.10,6.10
+"Trey Burke","Utah Jazz",2014-11-03,2014,2579260,1610612762,400578340,2,0,30,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",83,247,21,18.40,"Paul, Chris",3.20,5.60
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,3,6,19,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-112,236,0,0.80,"Conley, Mike",4.50,9.30
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,4,4,37,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",236,58,0,0.80,"Paul, Chris",2.20,7.50
+"Trey Burke","Utah Jazz",2014-12-17,2014,2579260,1610612762,400578665,3,8,50,0,"Jump Shot","3PT Field Goal",30,"Miami Heat",-40,302,0,1.20,"Cole, Norris",4.40,2.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,4,5,07,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-231,12,1,1.00,"Chandler, Wilson",3.40,5.00
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,4,2,41,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-188,190,0,0.90,"Price, A.J.",5.60,16.30
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,3,3,06,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-60,257,1,1.90,"Blake, Steve",2.70,9.00
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,1,10,24,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",0,206,1,1.30,"Collison, Darren",2.40,9.40
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,2,0,31,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",106,82,7,6.50,"Noel, Nerlens",5.40,17.40
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,4,0,57,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",102,131,0,0.00,"Rose, Derrick",12.00,9.70
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,1,11,16,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",157,146,0,0.90,"Vasquez, Greivis",4.60,12.00
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,2,7,11,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",154,107,2,3.00,"Irving, Kyrie",3.80,14.20
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,1,3,28,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",231,0,0,0.70,"Lowry, Kyle",4.10,9.20
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,4,5,39,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-93,140,2,2.60,"Augustin, D.J.",2.50,16.00
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,10,31,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",103,246,2,6.90,"Williams, Lou",5.30,8.00
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,2,3,37,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-232,69,0,1.00,"Payton, Elfrid",1.50,14.70
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,4,02,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-90,242,0,0.80,"Lowry, Kyle",5.50,5.70
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,4,5,07,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",147,142,1,1.40,"Payton, Elfrid",4.70,12.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,3,7,36,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-87,197,2,2.20,"Carter-Williams, Michael",4.60,15.40
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,1,57,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",97,225,0,0.90,"Teague, Jeff",5.50,22.20
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,3,5,51,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,41,4,4.50,"Anderson, Ryan",3.90,1.80
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,1,10,26,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",48,246,0,0.80,"Bledsoe, Eric",3.90,7.00
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,1,11,05,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",162,181,0,0.80,"Carter-Williams, Michael",5.80,10.90
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,1,9,41,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-231,9,0,0.80,"Wiggins, Andrew",6.10,10.50
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,8,23,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",58,28,6,4.80,"Hawes, Spencer",0.80,12.70
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,4,0,53,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",67,33,10,7.50,"Gortat, Marcin",3.10,16.10
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,4,7,09,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-38,258,9,7.70,"Miller, Andre",5.30,11.00
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,4,6,56,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-198,78,1,1.50,"Schroder, Dennis",0.90,5.90
+"Trey Burke","Utah Jazz",2014-11-07,2014,2579260,1610612762,400578372,3,11,07,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",78,239,1,2.30,"Nelson, Jameer",5.20,14.30
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,1,4,08,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",108,225,1,1.90,"Harris, Devin",4.30,15.90
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,3,18,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-139,198,0,0.80,"Paul, Chris",3.10,11.20
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,1,10,04,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-160,-19,5,4.20,"Joseph, Cory",1.40,2.00
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,4,7,18,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-7,255,2,4.40,"Vucevic, Nikola",3.40,2.00
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,1,4,24,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-7,249,0,0.90,"Gordon, Eric",11.40,20.10
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,5,11,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",102,231,3,2.50,"Lowry, Kyle",4.70,8.80
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,0,26,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",97,164,1,2.70,"Walker, Kemba",3.20,11.80
+"Trey Burke","Utah Jazz",2014-11-03,2014,2579260,1610612762,400578340,4,0,02,0,"Jump Shot","3PT Field Goal",36,"Los Angeles Clippers",182,313,3,3.50,"Paul, Chris",4.50,0.00
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,4,5,43,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",118,151,12,9.60,"LaVine, Zach",6.00,14.60
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,3,5,50,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-193,157,0,1.00,"Barnes, Matt",6.40,12.20
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,10,49,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",106,258,0,0.80,"Nelson, Jameer",4.30,1.90
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,1,25,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-235,-2,0,0.80,"Dragic, Goran",2.80,13.00
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,4,7,58,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-161,189,0,1.00,"Davis, Anthony",5.60,15.40
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,3,11,12,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-103,230,0,0.80,"Bledsoe, Eric",6.40,10.30
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,3,20,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-90,241,0,0.90,"Papanikolaou, Kostas",5.50,6.20
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,2,2,30,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",133,142,4,2.90,"Duncan, Tim",4.30,8.30
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,2,6,59,0,"Jump Shot","2PT Field Goal",3,"Phoenix Suns",-30,9,1,1.30,"Bledsoe, Eric",0.40,21.00
+"Trey Burke","Utah Jazz",2015-01-22,2014,2579260,1610612762,400578930,3,2,42,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",237,34,0,1.00,"Henson, John",7.00,13.40
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,3,2,29,0,"Jump Shot","3PT Field Goal",28,"Portland Trail Blazers",17,280,0,0.80,"Blake, Steve",4.40,4.60
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,3,0,30,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",70,241,16,14.90,"Larkin, Shane",2.40,9.10
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,4,0,05,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",154,200,0,0.80,"Lawson, Ty",4.10,3.20
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,1,45,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-98,159,8,7.80,"Batum, Nicolas",3.20,8.20
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,3,9,29,0,"Jump Shot","3PT Field Goal",29,"Indiana Pacers",-15,299,0,0.90,"Sloan, Donald",4.10,4.30
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",200,154,1,1.50,"Korver, Kyle",2.70,0.00
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,3,0,01,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",122,145,8,6.50,"McCollum, CJ",4.20,0.00
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,1,11,10,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-157,208,0,0.80,"Conley, Mike",3.10,4.00
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,2,8,09,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-41,17,9,8.00,"Babbitt, Luke",3.50,2.10
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,3,0,00,0,"Jump Shot","3PT Field Goal",56,"Phoenix Suns",10,569,0,0.50,"Thomas, Isaiah",6.90,0.00
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,7,38,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",97,153,4,3.20,"Morris, Marcus",4.40,12.20
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,6,57,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",121,225,0,0.90,"Morris, Marcus",5.30,12.70
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,3,2,21,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-153,203,2,1.70,"Thomas, Isaiah",2.80,17.30
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,11,38,0,"Jump Shot","2PT Field Goal",5,"Phoenix Suns",43,37,4,4.10,"Wright, Brandan",3.70,4.10
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,3,0,25,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",138,206,0,1.10,"Morris, Marcus",15.10,17.20
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,2,7,38,0,"Jump Shot","2PT Field Goal",8,"Toronto Raptors",31,80,3,2.60,"Vasquez, Greivis",2.00,8.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,3,6,01,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-114,224,0,0.90,"Carroll, DeMarre",8.80,4.00
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,4,3,09,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",140,119,2,2.60,"Ennis, Tyler",5.80,7.10
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,9,50,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",181,181,0,1.20,"Thomas, Isaiah",5.30,11.00
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,4,6,58,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",77,137,9,7.50,"Howard, Dwight",5.60,16.40
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,5,17,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",102,183,8,7.20,"Williams, Mo",3.40,11.10
+"Trey Burke","Utah Jazz",2015-01-24,2014,2579260,1610612762,400578947,4,9,46,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",51,241,1,1.80,"Karasev, Sergey",5.10,11.50
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,9,51,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",88,194,1,1.80,"Lowry, Kyle",0.50,4.50
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,1,0,31,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-146,127,13,10.50,"Barnes, Matt",5.30,13.50
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,1,6,13,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",173,175,0,0.70,"Joseph, Cory",4.00,5.50
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,5,24,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",78,45,4,3.60,"Gortat, Marcin",2.40,7.50
+"Trey Burke","Utah Jazz",2014-11-29,2014,2579260,1610612762,400578531,4,5,20,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-19,252,0,0.70,"Paul, Chris",3.10,9.00
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,0,05,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-93,233,1,1.50,"Paul, Chris",2.80,0.00
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,2,1,55,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",225,153,0,0.90,"Sloan, Donald",5.60,14.30
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,3,1,13,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",67,108,3,2.90,"Douglas, Toney",2.70,4.90
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,3,11,39,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",122,233,0,0.80,"Holiday, Jrue",6.00,5.10
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,1,0,01,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-168,179,10,8.00,"Wright, Brandan",9.00,0.00
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,3,8,36,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-103,233,0,0.80,"Teague, Jeff",4.40,15.40
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,1,8,12,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",125,170,1,1.60,"Paul, Chris",2.00,10.50
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,4,5,22,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-60,241,0,0.80,"Johnson, Amir",4.10,8.30
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,4,3,33,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",95,154,12,12.20,"Barnes, Matt",1.30,11.00
+"Trey Burke","Utah Jazz",2014-12-20,2014,2579260,1610612762,400578687,2,7,21,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-155,132,2,1.50,"Roberts, Brian",3.70,9.80
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,4,10,04,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-97,224,4,4.10,"Hill, Jordan",4.40,6.40
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,2,9,53,1,"Jump Shot","2PT Field Goal",8,"Detroit Pistons",-82,28,1,1.20,"Dinwiddie, Spencer",1.70,14.80
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,6,59,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-218,116,0,1.10,"Papanikolaou, Kostas",5.60,21.40
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,1,54,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",144,66,5,4.20,"Blake, Steve",1.60,9.00
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,3,8,23,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",236,89,0,0.90,"Beverley, Patrick",5.00,6.40
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,4,0,19,0,"Jump Shot","3PT Field Goal",27,"Portland Trail Blazers",2,274,0,1.00,"McCollum, CJ",6.60,0.00
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,0,04,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",95,132,0,0.80,"Blake, Steve",2.60,0.00
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,3,53,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",31,25,7,6.80,"Kaman, Chris",4.20,15.90
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,0,07,0,"Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",34,33,20,18.00,"Aldridge, LaMarcus",2.60,4.30
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,7,54,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-98,153,10,8.00,"McCollum, CJ",2.20,10.40
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,4,3,01,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",92,224,2,2.60,"Batum, Nicolas",4.30,3.00
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,1,02,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-171,101,2,1.90,"Aldridge, LaMarcus",4.30,6.40
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,1,0,33,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",78,135,4,3.90,"Blake, Steve",2.00,20.20
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,8,00,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",56,167,7,6.00,"Lillard, Damian",4.00,17.40
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,3,1,28,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-34,238,0,1.30,"Blake, Steve",8.80,18.40
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,2,10,37,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-68,4,10,8.70,"Lin, Jeremy",1.20,15.40
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,2,10,08,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",65,238,1,1.50,"Smith, Ish",11.10,19.50
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,3,8,48,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",24,247,0,0.00,"Mbah a Moute, Luc",0.00,14.00
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,1,0,47,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",119,145,5,4.80,"Aldemir, Furkan",4.00,18.40
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,4,0,07,0,"Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",4,101,19,15.60,"Canaan, Isaiah",3.60,2.70
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,2,2,53,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",136,208,0,0.90,"Ellington, Wayne",5.10,2.50
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,2,8,04,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",-5,56,3,2.20,"Aldemir, Furkan",2.50,8.80
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,3,6,40,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-152,-16,8,6.80,"Kelly, Ryan",4.30,7.40
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,4,4,08,0,"Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",45,28,9,9.50,"Clarkson, Jordan",0.90,2.10
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,3,10,24,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",39,178,3,3.20,"Clarkson, Jordan",6.00,17.70
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,1,5,00,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",140,208,0,1.10,"Ellington, Wayne",6.20,16.30
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,4,8,35,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",132,135,2,2.50,"Smith, Ish",4.60,9.00
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,3,3,50,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-166,-6,4,4.10,"Smith, Ish",3.60,12.80
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,2,11,13,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-68,167,1,1.40,"Smith, Ish",4.30,8.70
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,2,0,47,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",4,55,2,4.00,"Sampson, JaKarr",3.30,4.50
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,4,6,32,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",124,75,3,2.80,"Holiday, Justin",1.90,1.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,4,39,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",127,224,1,1.90,"Iguodala, Andre",6.30,9.10
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,7,57,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-234,12,0,1.00,"Smart, Marcus",5.20,1.30
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,4,9,59,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",111,225,0,0.90,"LaVine, Zach",5.60,0.60
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,11,22,1,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",165,222,0,0.80,"Brown, Lorenzo",4.30,1.60
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,1,1,56,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",7,242,0,1.00,"Dinwiddie, Spencer",4.80,12.00
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,3,5,46,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-142,195,0,0.90,"Butler, Caron",7.70,19.00
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,4,11,05,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",130,85,6,6.30,"Dinwiddie, Spencer",2.90,12.10
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,7,25,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",125,249,0,1.10,"Brown, Lorenzo",2.80,1.90
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,3,2,23,0,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",-70,67,24,20.50,"Hummel, Robbie",2.70,3.50
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,2,36,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",218,123,0,1.00,"Hummel, Robbie",9.40,19.50
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,3,1,22,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-16,238,4,4.50,"Hummel, Robbie",5.30,4.70
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,8,02,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",157,190,0,0.70,"Livingston, Shaun",5.00,6.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,6,37,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",7,66,1,3.20,"Iguodala, Andre",1.00,0.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,1,45,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",129,181,2,4.60,"Curry, Stephen",5.70,0.60
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,2,5,50,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-223,58,0,0.80,"Livingston, Shaun",4.10,12.00
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,7,43,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",64,149,1,1.20,"Curry, Stephen",3.60,9.00
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,2,10,27,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",69,241,1,2.10,"Barbosa, Leandro",3.20,13.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,11,38,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",133,123,2,2.80,"Livingston, Shaun",2.40,4.90
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,2,8,53,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",121,227,0,0.80,"Lee, David",5.60,4.10
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,8,40,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",234,9,0,0.90,"Green, Draymond",7.80,13.00
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,5,47,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",65,77,17,15.20,"Green, Draymond",3.60,8.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,10,39,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",-133,179,7,6.10,"Livingston, Shaun",3.70,17.00
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,5,05,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-133,203,0,0.80,"Holiday, Justin",7.20,7.60
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,3,2,48,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",0,260,4,3.90,"Barbosa, Leandro",4.60,16.90
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,0,35,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",62,192,2,2.30,"Ayres, Jeff",3.80,3.60
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,2,1,36,1,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",97,58,3,2.30,"Joseph, Cory",2.00,14.80
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,3,4,00,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-155,67,0,0.00,"Belinelli, Marco",0.00,8.30
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,4,2,31,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",2,257,2,2.20,"Conley, Mike",3.00,8.20
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,1,0,00,0,"Jump Shot","3PT Field Goal",40,"Boston Celtics",181,367,1,1.80,"Zeller, Tyler",10.30,0.00
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,1,0,54,1,"Jump Shot","2PT Field Goal",3,"Boston Celtics",0,34,10,10.70,"Zeller, Tyler",5.40,11.10
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,6,27,1,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-70,145,14,12.60,"Smart, Marcus",4.10,11.50
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,4,19,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-198,157,0,0.80,"Smart, Marcus",6.30,9.00
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,5,00,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",80,176,1,3.30,"Turner, Evan",4.40,14.90
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,2,0,00,0,"Jump Shot","3PT Field Goal",49,"Boston Celtics",-166,471,1,1.50,"Bradley, Avery",9.90,0.00
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,3,3,48,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-237,34,0,0.90,"Smart, Marcus",6.50,19.30
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,2,52,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",233,42,0,0.80,"Bass, Brandon",5.60,18.30
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,0,55,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",9,266,0,0.80,"Bradley, Avery",3.20,11.90
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,0,29,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",201,134,0,0.90,"Turner, Evan",3.50,19.00
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,2,9,02,0,"Jump Shot","2PT Field Goal",3,"Boston Celtics",-35,4,14,11.20,"Zeller, Tyler",2.00,4.00
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,2,6,01,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-105,138,9,7.60,"Smart, Marcus",3.00,15.80
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,2,11,31,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-182,168,0,1.20,"Thornton, Marcus",3.40,10.10
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,0,23,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",94,225,0,0.90,"Turner, Evan",4.90,19.90
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,2,2,57,0,"Jump Shot","2PT Field Goal",22,"Boston Celtics",129,179,6,5.90,"Bradley, Avery",4.30,14.60
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,3,0,29,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-196,153,0,1.00,"Smart, Marcus",5.20,19.30
+"Trey Burke","Utah Jazz",2015-02-04,2014,2579260,1610612762,400579032,1,3,06,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",236,22,0,0.80,"Conley, Mike",5.40,10.50
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,1,1,37,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",133,-8,1,1.60,"Mills, Patty",3.70,9.10
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,3,5,17,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-160,186,0,0.90,"Parker, Tony",6.80,6.20
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,2,0,17,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",59,160,3,3.40,"Diaw, Boris",3.00,12.50
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,2,3,58,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-144,200,0,0.90,"Joseph, Cory",5.30,19.80
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,3,0,56,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",125,219,0,0.90,"Belinelli, Marco",4.20,9.90
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,2,04,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",29,20,12,11.20,"Mills, Patty",1.10,12.50
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,1,0,06,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",-54,22,17,16.40,"Diaw, Boris",2.20,6.10
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,7,08,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",20,17,0,0.80,"Lawson, Ty",1.80,20.00
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,8,21,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",18,1,4,8.10,"Jackson, Reggie",2.00,9.80
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,3,6,16,0,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",4,7,4,4.30,"Curry, Stephen",0.50,13.60
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,4,2,25,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-16,1,3,3.40,"Harden, James",0.50,21.20
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,1,4,48,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",7,0,4,3.40,"Mills, Patty",1.40,21.20
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,5,21,1,"Layup Shot","2PT Field Goal",2,"Washington Wizards",26,11,0,1.40,"Humphries, Kris",1.30,24.00
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,2,5,54,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,-13,5,3.10,"McCollum, CJ",2.00,17.90
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,1,6,37,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-11,6,1,2.00,"Morris, Marcus",3.00,22.10
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,3,7,50,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,1,1,2.30,"Joseph, Cory",4.10,17.30
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,1,8,08,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",26,-3,4,4.00,"Millsap, Paul",3.40,20.70
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,4,42,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",20,12,12,10.10,"LaVine, Zach",1.70,14.20
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,3,3,36,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,6,3,3.00,"Ibaka, Serge",3.60,14.40
+"Trey Burke","Utah Jazz",2014-11-09,2014,2579260,1610612762,400578383,4,7,35,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,1,3,4.10,"Augustin, D.J.",2.40,21.30
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,1,10,38,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-13,25,0,1.50,"Holiday, Jrue",2.30,20.60
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,3,1,43,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-16,15,4,4.50,"Novak, Steve",2.50,20.90
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,2,0,52,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",15,17,1,2.10,"Larkin, Shane",2.30,8.40
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,3,7,39,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-15,0,5,5.00,"Noel, Nerlens",1.80,6.30
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,1,36,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,6,15,12.70,"Crabbe, Allen",0.90,11.20
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,4,10,06,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,0,0,1.10,"Jackson, Reggie",1.00,21.90
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,3,9,32,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",21,7,1,2.30,"Frye, Channing",1.20,9.80
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,3,5,18,1,"Layup Shot","2PT Field Goal",0,"Orlando Magic",4,7,1,1.80,"Vucevic, Nikola",1.90,20.40
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,2,2,58,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,3,7,7.70,"Adams, Steven",1.70,19.20
+"Trey Burke","Utah Jazz",2015-01-02,2014,2579260,1610612762,400578784,4,10,04,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",20,15,4,4.70,"Korver, Kyle",0.00,19.80
+"Trey Burke","Utah Jazz",2014-11-03,2014,2579260,1610612762,400578340,3,7,49,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",6,16,3,2.80,"Barnes, Matt",2.10,21.50
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,2,9,04,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",21,14,0,0.60,"Harris, Devin",3.70,20.30
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,6,30,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,6,11,10.00,"Williams, Marvin",0.10,11.50
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,1,1,05,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",15,17,6,5.10,"Withey, Jeff",2.00,8.30
+"Trey Burke","Utah Jazz",2014-11-22,2014,2579260,1610612762,400578484,4,4,41,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-4,0,0,0.80,"Withey, Jeff",4.90,20.30
+"Trey Burke","Utah Jazz",2015-03-08,2014,2579260,1610612762,400579225,3,1,21,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",21,0,0,0.00,"Anderson, Alan",0.00,12.30
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,3,8,49,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-23,3,3,4.70,"Barnes, Harrison",1.60,19.80
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,0,57,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",20,7,15,14.10,"Henson, John",2.50,8.90
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,2,59,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-16,3,4,5.00,"Holiday, Justin",1.00,19.80
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,1,49,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-27,0,1,1.90,"Williams, Reggie",1.20,20.80
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,2,3,33,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",23,0,10,8.50,"Hibbert, Roy",0.70,15.80
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,1,8,48,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-18,12,7,4.40,"Gortat, Marcin",0.10,10.80
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,0,37,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,12,0,0.40,"McCollum, CJ",3.80,20.40
+"Trey Burke","Utah Jazz",2015-01-13,2014,2579260,1610612762,400578863,4,4,04,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",24,4,8,6.20,"Lee, David",1.60,18.90
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,8,03,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,1,0,0.50,"Kelly, Ryan",4.10,19.60
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,2,0,27,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-4,-2,3,3.40,"Ginobili, Manu",3.30,20.10
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,2,8,19,1,"Layup Shot","2PT Field Goal",4,"Houston Rockets",40,14,7,9.10,"Smith, Josh",1.10,2.40
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,2,9,55,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",28,7,9,7.50,"Babbitt, Luke",2.30,5.70
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,4,2,17,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",23,17,8,6.80,"Patterson, Patrick",0.70,5.20
+"Trey Burke","Utah Jazz",2014-12-03,2014,2579260,1610612762,400578563,3,4,41,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,3,1,1.60,"Lowry, Kyle",1.40,19.60
+"Trey Burke","Utah Jazz",2014-11-10,2014,2579260,1610612762,400578391,3,5,32,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-8,7,9,8.90,"Hibbert, Roy",2.00,4.70
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,1,4,07,0,"Layup Shot","2PT Field Goal",4,"Houston Rockets",37,28,4,4.20,"Black, Tarik",1.80,8.40
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,1,1,27,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,3,7,6.10,"Morrow, Anthony",2.70,17.80
+"Trey Burke","Utah Jazz",2014-11-05,2014,2579260,1610612762,400578358,1,4,42,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",10,3,1,1.80,"Irving, Kyrie",5.10,21.20
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,1,9,12,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",9,1,4,4.10,"Covington, Robert",3.40,19.80
+"Trey Burke","Utah Jazz",2015-04-08,2014,2579260,1610612762,400579462,2,10,24,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,14,13,10.20,"Casspi, Omri",1.90,13.90
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,4,4,04,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-18,14,4,4.80,"Bosh, Chris",1.80,19.00
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,2,5,25,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",18,4,3,2.80,"LaVine, Zach",0.20,20.60
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,2,08,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",13,-3,7,7.00,"Lillard, Damian",5.50,16.00
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,6,12,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",24,0,0,1.30,"Motiejunas, Donatas",1.80,19.00
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,3,4,27,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-16,20,0,0.90,"Gordon, Eric",2.10,20.10
+"Trey Burke","Utah Jazz",2014-12-27,2014,2579260,1610612762,400578742,4,10,03,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",10,17,0,0.50,"Wroten, Tony",3.30,6.60
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,0,37,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",9,-10,4,4.50,"Brown, Lorenzo",2.10,20.70
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,3,5,45,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",6,1,0,1.00,"Williams, Mo",2.00,20.20
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,3,10,53,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,0,4,3.20,"Ibaka, Serge",1.10,21.10
+"Trey Burke","Utah Jazz",2014-12-16,2014,2579260,1610612762,400578658,3,8,28,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-10,0,2,2.40,"Evans, Tyreke",2.70,20.20
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,1,7,07,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-23,9,0,1.10,"Payne, Adreian",3.20,11.30
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,2,6,25,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,7,0,0.90,"Lauvergne, Joffrey",6.40,23.20
+"Trey Burke","Utah Jazz",2015-02-09,2014,2579260,1610612762,400579072,1,6,43,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",12,0,4,3.90,"Cunningham, Dante",1.60,20.30
+"Trey Burke","Utah Jazz",2015-01-21,2014,0,1610612762,0,3,9,30,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,3,4,4.10,"Irving, Kyrie",1.90,17.60
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,5,33,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",13,7,11,9.50,"Brown, Lorenzo",1.60,14.10
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,4,3,41,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",20,7,2,3.00,"Brown, Lorenzo",4.30,10.40
+"Trey Burke","Utah Jazz",2014-11-01,2014,2579260,1610612762,400578329,1,9,45,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",2,9,0,0.80,"Plumlee, Miles",1.20,10.60
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,4,5,12,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",26,14,3,3.80,"Jones, Terrence",2.00,20.40
+"Trey Burke","Utah Jazz",2015-03-23,2014,2579260,1610612762,400579344,5,0,05,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-26,6,5,4.20,"Dieng, Gorgui",3.70,0.00
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,11,05,0,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",168,-5,2,3.30,"Calathes, Nick",2.10,2.50
+"Trey Burke","Utah Jazz",2015-01-09,2014,2579260,1610612762,400578834,3,8,45,1,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",-48,183,3,2.20,"Westbrook, Russell",5.70,14.70
+"Trey Burke","Utah Jazz",2014-11-26,2014,2579260,1610612762,400578511,2,5,25,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",138,110,2,2.50,"Jackson, Reggie",3.10,12.70
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,1,7,23,0,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",62,80,1,3.30,"Conley, Mike",2.20,14.40
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,2,5,13,0,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",99,131,1,2.00,"Evans, Reggie",4.70,16.00
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,1,9,55,0,"Pullup Jump shot","2PT Field Goal",14,"Golden State Warriors",113,85,5,5.30,"Curry, Stephen",2.50,18.80
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,10,43,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-177,176,3,3.30,"Terry, Jason",2.80,1.80
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,3,1,47,0,"Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",40,203,4,2.70,"Terry, Jason",5.90,8.50
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,3,10,0,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",143,123,3,4.90,"Howard, Dwight",4.30,17.80
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,8,07,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",-65,170,9,8.70,"Terry, Jason",1.50,13.60
+"Trey Burke","Utah Jazz",2014-10-30,2014,2579260,1610612762,400578311,3,7,43,0,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",122,153,8,5.30,"Nelson, Jameer",3.30,10.00
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,4,8,53,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-32,176,9,9.30,"McCollum, CJ",3.10,14.00
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,0,53,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",61,160,16,15.80,"Lillard, Damian",6.90,8.50
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,1,4,03,0,"Pullup Jump shot","2PT Field Goal",18,"Golden State Warriors",-123,140,2,2.10,"Curry, Stephen",2.40,8.90
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,3,0,30,1,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",163,47,8,7.20,"Bass, Brandon",4.30,17.00
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,1,6,45,1,"Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",182,96,1,1.90,"Beverley, Patrick",3.40,19.90
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,3,5,47,1,"Pullup Jump shot","2PT Field Goal",20,"Philadelphia 76ers",-125,162,1,2.00,"Mbah a Moute, Luc",10.40,20.60
+"Trey Burke","Utah Jazz",2015-03-19,2014,2579260,1610612762,400579311,2,9,01,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",137,99,12,10.40,"Lin, Jeremy",4.80,0.00
+"Trey Burke","Utah Jazz",2014-12-14,2014,2579260,1610612762,400578642,3,10,39,1,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",-73,168,8,6.00,"Gortat, Marcin",8.80,5.60
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,1,10,04,0,"Pullup Jump shot","2PT Field Goal",20,"Chicago Bulls",-153,131,2,3.00,"Rose, Derrick",3.20,5.90
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,3,3,18,1,"Pullup Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-2,176,7,7.40,"LaVine, Zach",4.50,15.50
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,3,2,25,0,"Pullup Jump shot","2PT Field Goal",22,"Houston Rockets",151,160,8,7.30,"Brewer, Corey",5.90,16.20
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,4,2,07,1,"Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",75,195,17,13.90,"Williams, Mo",5.00,4.30
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,2,8,10,1,"Pullup Jump shot","2PT Field Goal",21,"Minnesota Timberwolves",166,138,16,15.80,"Adrien, Jeff",4.20,8.40
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,2,0,34,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",-147,102,7,5.90,"Bradley, Avery",3.70,12.10
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,3,3,45,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",135,145,6,4.00,"Brewer, Corey",4.60,8.70
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,3,5,39,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-4,250,0,2.00,"Barbosa, Leandro",5.00,6.80
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,1,21,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-202,168,0,1.10,"Livingston, Shaun",4.90,22.80
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,3,2,05,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-136,222,0,1.00,"Curry, Stephen",3.10,15.00
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,4,8,30,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",116,241,0,0.90,"Barbosa, Leandro",4.40,11.60
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,3,4,57,1,"Pullup Jump shot","3PT Field Goal",27,"Golden State Warriors",1,277,8,8.80,"Curry, Stephen",4.00,14.80
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,1,06,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",140,219,0,0.90,"Holiday, Justin",6.50,20.20
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,9,44,0,"Pullup Jump shot","3PT Field Goal",28,"Golden State Warriors",-109,263,0,0.70,"Barnes, Harrison",4.80,5.40
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,1,1,26,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-190,183,0,0.80,"Curry, Stephen",4.50,12.30
+"Trey Burke","Utah Jazz",2014-11-15,2014,2579260,1610612762,400578426,1,10,42,0,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",92,135,2,2.30,"Lowry, Kyle",1.00,16.20
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,4,3,02,0,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",45,167,7,8.10,"Barea, Jose Juan",4.50,16.60
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,9,28,1,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",61,124,4,3.00,"Adams, Jordan",3.50,9.70
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,2,3,07,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",125,239,0,0.90,"Curry, Stephen",4.70,13.20
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,2,0,39,1,"Pullup Jump shot","2PT Field Goal",20,"Golden State Warriors",119,162,3,3.20,"Bogut, Andrew",5.30,9.00
+"Trey Burke","Utah Jazz",2014-12-22,2014,2579260,1610612762,400578704,3,10,29,1,"Pullup Jump shot","2PT Field Goal",21,"Memphis Grizzlies",111,187,3,3.20,"Conley, Mike",3.00,14.00
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,2,0,07,1,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",6,15,0,0.00,"Rose, Derrick",2.50,0.00
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,0,36,0,"Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,4,22,19.10,"Singler, Kyle",3.40,4.80
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,1,3,29,0,"Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,6,8,7.70,"Baynes, Aron",1.10,16.00
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,2,32,1,"Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",13,7,0,1.20,"Papanikolaou, Kostas",4.60,20.20
+"Trey Burke","Utah Jazz",2015-02-28,2014,2579260,1610612762,400579168,4,9,23,0,"Reverse Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",26,7,7,5.50,"Pachulia, Zaza",1.90,17.20
+"Trey Burke","Utah Jazz",2015-02-06,2014,2579260,1610612762,400579048,4,2,12,0,"Running Bank shot","2PT Field Goal",7,"Phoenix Suns",70,19,2,2.80,"Morris, Marcus",1.40,12.00
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,6,45,1,"Running Bank shot","2PT Field Goal",12,"Portland Trail Blazers",113,47,1,1.80,"Crabbe, Allen",3.20,12.00
+"Trey Burke","Utah Jazz",2015-01-03,2014,2579260,1610612762,400578790,1,8,54,1,"Running Bank shot","2PT Field Goal",5,"Minnesota Timberwolves",51,20,2,3.30,"Dieng, Gorgui",2.70,7.10
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,3,4,05,1,"Running Bank shot","2PT Field Goal",9,"Houston Rockets",83,45,5,4.40,"Harden, James",3.10,7.50
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,3,2,16,0,"Running Bank shot","2PT Field Goal",7,"Boston Celtics",39,60,3,3.20,"Wallace, Gerald",4.70,11.10
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,3,3,44,1,"Running Bank shot","2PT Field Goal",11,"Denver Nuggets",100,50,5,4.30,"Lawson, Ty",3.30,5.10
+"Trey Burke","Utah Jazz",2015-03-18,2014,2579260,1610612762,400579307,4,11,33,0,"Running Bank shot","2PT Field Goal",4,"Washington Wizards",34,26,15,11.30,"Gortat, Marcin",2.20,12.20
+"Trey Burke","Utah Jazz",2015-03-27,2014,2579260,1610612762,400579377,1,2,02,0,"Running Bank shot","2PT Field Goal",5,"Denver Nuggets",50,20,5,4.30,"Nelson, Jameer",1.80,12.90
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,2,01,1,"Running Bank shot","2PT Field Goal",7,"Oklahoma City Thunder",77,17,2,2.80,"Augustin, D.J.",2.70,5.70
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,1,46,1,"Running Bank shot","2PT Field Goal",9,"Portland Trail Blazers",-82,52,2,1.80,"Aldridge, LaMarcus",3.50,12.60
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,11,05,0,"Running Bank shot","2PT Field Goal",7,"Miami Heat",-56,44,6,4.00,"Deng, Luol",3.90,1.50
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,2,0,50,0,"Running Bank shot","2PT Field Goal",7,"Portland Trail Blazers",56,52,9,8.70,"McCollum, CJ",1.60,5.80
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,3,1,10,0,"Running Bank shot","2PT Field Goal",9,"Charlotte Hornets",92,31,1,2.50,"Maxiell, Jason",3.20,6.00
+"Trey Burke","Utah Jazz",2015-02-25,2014,2579260,1610612762,400579143,4,1,58,0,"Running Bank shot","2PT Field Goal",5,"Los Angeles Lakers",-48,25,10,11.50,"Clarkson, Jordan",4.10,3.20
+"Trey Burke","Utah Jazz",2015-03-06,2014,2579260,1610612762,400579206,1,1,16,1,"Running Bank shot","2PT Field Goal",3,"Philadelphia 76ers",-29,9,5,4.20,"Smith, Ish",2.30,10.70
+"Trey Burke","Utah Jazz",2015-03-14,2014,2579260,1610612762,400579272,4,0,13,1,"Running Bank shot","2PT Field Goal",9,"Detroit Pistons",-90,28,1,1.40,"Dinwiddie, Spencer",2.50,6.20
+"Trey Burke","Utah Jazz",2015-02-23,2014,2579260,1610612762,400579128,4,11,01,1,"Running Bank shot","2PT Field Goal",4,"San Antonio Spurs",36,28,13,11.70,"Diaw, Boris",1.00,10.10
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,4,11,25,0,"Running Bank shot","2PT Field Goal",9,"Oklahoma City Thunder",91,28,17,15.40,"Adams, Steven",3.30,5.20
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,7,22,0,"Running Bank shot","2PT Field Goal",9,"Charlotte Hornets",67,67,2,2.00,"Walker, Kemba",2.60,13.80
+"Trey Burke","Utah Jazz",2015-01-30,2014,2579260,1610612762,400578995,4,6,55,1,"Running Bank shot","2PT Field Goal",10,"Golden State Warriors",86,56,2,2.60,"Bogut, Andrew",4.90,8.00
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,1,58,1,"Running Bank shot","2PT Field Goal",11,"Portland Trail Blazers",94,60,3,4.10,"McCollum, CJ",1.90,12.10
+"Trey Burke","Utah Jazz",2015-03-28,2014,2579260,1610612762,400579382,3,3,15,0,"Running Bank shot","2PT Field Goal",5,"Oklahoma City Thunder",56,14,4,3.70,"Novak, Steve",5.70,10.10
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,3,10,49,1,"Running Hook Shot","2PT Field Goal",3,"Miami Heat",2,34,2,2.50,"Hamilton, Justin",4.00,10.20
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,10,26,1,"Running Hook Shot","2PT Field Goal",7,"Golden State Warriors",58,42,2,2.50,"Livingston, Shaun",3.90,4.70
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,3,7,40,0,"Running Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-23,75,8,6.40,"Crabbe, Allen",0.00,9.50
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,2,4,01,1,"Running Jump Shot","2PT Field Goal",15,"Chicago Bulls",34,153,0,1.40,"Rose, Derrick",2.40,14.10
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,3,3,45,0,"Running Jump Shot","2PT Field Goal",3,"Orlando Magic",37,3,4,3.20,"Dedmon, Dewayne",3.60,8.00
+"Trey Burke","Utah Jazz",2014-10-29,2014,2579260,1610612762,400578304,1,10,47,0,"Running Jump Shot","2PT Field Goal",4,"Houston Rockets",26,37,7,8.00,"Beverley, Patrick",1.80,5.40
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,4,11,40,0,"Running Jump Shot","2PT Field Goal",6,"San Antonio Spurs",-10,63,3,2.70,"Mills, Patty",3.50,8.90
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,1,11,04,0,"Running Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",39,50,3,3.00,"LaVine, Zach",1.40,5.30
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,1,1,33,1,"Running Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-5,107,1,1.80,"Aldridge, LaMarcus",4.00,10.30
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,2,9,26,0,"Running Jump Shot","2PT Field Goal",13,"Houston Rockets",91,105,8,6.30,"Terry, Jason",2.40,17.60
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,2,0,43,0,"Running Jump Shot","2PT Field Goal",8,"Orlando Magic",-27,78,7,5.70,"Payton, Elfrid",1.80,2.50
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,8,07,0,"Running Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",132,12,5,4.10,"Blake, Steve",1.70,6.80
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,2,4,31,1,"Running Jump Shot","2PT Field Goal",4,"Chicago Bulls",40,1,3,4.60,"Brooks, Aaron",0.00,20.50
+"Trey Burke","Utah Jazz",2014-12-29,2014,2579260,1610612762,400578756,2,4,05,1,"Running Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-68,75,2,2.30,"Paul, Chris",4.00,10.20
+"Trey Burke","Utah Jazz",2015-01-10,2014,2579260,1610612762,400578847,4,8,42,1,"Running Jump Shot","2PT Field Goal",6,"Houston Rockets",-26,64,11,10.60,"Terry, Jason",3.30,14.00
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,9,10,1,"Running Jump Shot","2PT Field Goal",10,"Golden State Warriors",94,52,1,1.90,"Barnes, Harrison",4.70,4.40
+"Trey Burke","Utah Jazz",2015-03-25,2014,2579260,1610612762,400579362,4,2,48,0,"Running Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",54,39,2,2.30,"Crabbe, Allen",3.30,9.30
+"Trey Burke","Utah Jazz",2014-12-05,2014,2579260,1610612762,400578578,2,4,06,0,"Running Jump Shot","2PT Field Goal",6,"Orlando Magic",50,36,3,3.20,"Dedmon, Dewayne",0.70,18.60
+"Trey Burke","Utah Jazz",2014-12-30,2014,2579260,1610612762,400578764,2,2,22,1,"Running Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-141,83,1,1.70,"LaVine, Zach",2.20,5.40
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,4,6,56,0,"Running Jump Shot","2PT Field Goal",3,"Sacramento Kings",34,20,14,10.50,"McLemore, Ben",0.00,13.60
+"Trey Burke","Utah Jazz",2014-12-08,2014,2579260,1610612762,400578598,1,7,50,0,"Running Jump Shot","2PT Field Goal",5,"Sacramento Kings",51,31,3,3.60,"McLemore, Ben",2.40,19.50
+"Trey Burke","Utah Jazz",2015-04-01,2014,2579260,1610612762,,2,7,54,1,"Running Jump Shot","2PT Field Goal",14,"Denver Nuggets",2,149,8,5.70,"Nelson, Jameer",2.50,7.80
+"Trey Burke","Utah Jazz",2014-12-12,2014,2579260,1610612762,400578630,1,4,55,0,"Running Jump Shot","2PT Field Goal",14,"Miami Heat",-144,-19,2,2.00,"Cole, Norris",2.90,11.50
+"Trey Burke","Utah Jazz",2014-11-03,2014,2579260,1610612762,400578340,2,4,32,1,"Running Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",13,39,2,2.60,"Paul, Chris",3.00,1.20
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,1,5,06,0,"Running Jump Shot","2PT Field Goal",10,"Golden State Warriors",12,107,1,3.00,"Curry, Stephen",1.40,8.50
+"Trey Burke","Utah Jazz",2014-11-18,2014,2579260,1610612762,400578449,4,5,03,0,"Running Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",26,47,1,1.70,"Lamb, Jeremy",3.90,14.50
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,2,4,50,0,"Running Jump Shot","2PT Field Goal",12,"Golden State Warriors",-97,82,6,5.80,"Barbosa, Leandro",3.60,16.20
+"Trey Burke","Utah Jazz",2015-02-11,2014,2579260,1610612762,400579089,1,3,18,0,"Running Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-117,15,1,3.10,"Harris, Devin",4.30,14.50
+"Trey Burke","Utah Jazz",2015-03-03,2014,2579260,1610612762,400579186,2,6,34,1,"Running Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",149,119,3,3.70,"Calathes, Nick",3.50,7.00
+"Trey Burke","Utah Jazz",2015-04-15,2014,2579260,1610612762,400579511,1,7,19,0,"Running Jump Shot","2PT Field Goal",8,"Houston Rockets",86,19,0,3.80,"Terry, Jason",2.90,11.80
+"Trey Burke","Utah Jazz",2015-01-26,2014,2579260,1610612762,400578965,4,3,10,0,"Running Jump Shot","2PT Field Goal",11,"Boston Celtics",56,102,2,2.80,"Bradley, Avery",5.00,7.20
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,1,24,0,"Running Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",43,37,4,4.40,"Paul, Chris",3.30,5.50
+"Trey Burke","Utah Jazz",2014-11-21,2014,2579260,1610612762,400578474,3,6,58,0,"Running Jump Shot","2PT Field Goal",15,"Golden State Warriors",-157,17,1,1.60,"Thompson, Klay",3.20,6.00
+"Trey Burke","Utah Jazz",2014-12-19,2014,2579260,1610612762,400578675,2,5,06,0,"Running Jump Shot","2PT Field Goal",8,"Orlando Magic",64,60,6,5.80,"Payton, Elfrid",1.60,8.70
+"Trey Burke","Utah Jazz",2014-11-14,2014,2579260,1610612762,400578418,2,0,00,0,"Running Jump Shot","3PT Field Goal",51,"New York Knicks",-168,492,2,1.90,"Larkin, Shane",4.60,0.00
+"Trey Burke","Utah Jazz",2014-12-01,2014,2579260,1610612762,400578543,3,3,57,1,"Running Jump Shot","2PT Field Goal",4,"Denver Nuggets",34,25,0,1.40,"Hickson, JJ",1.50,23.20
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,2,6,32,1,"Running Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-59,118,2,2.30,"Leonard, Meyers",2.90,3.30
+"Trey Burke","Utah Jazz",2015-02-20,2014,2579260,1610612762,400579104,4,1,18,0,"Running Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-52,69,16,13.80,"Blake, Steve",4.50,2.90
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,2,10,47,1,"Running Jump Shot","2PT Field Goal",18,"Chicago Bulls",-76,168,2,2.80,"Brooks, Aaron",2.50,10.00
+"Trey Burke","Utah Jazz",2014-11-24,2014,2579260,1610612762,400578496,3,1,59,1,"Running Jump Shot","2PT Field Goal",15,"Chicago Bulls",140,63,0,0.00,"Brooks, Aaron",16.80,21.40
+"Trey Burke","Utah Jazz",2015-02-27,2014,2579260,1610612762,400579158,3,0,06,1,"Running Jump Shot","2PT Field Goal",6,"Denver Nuggets",62,12,23,21.00,"Hickson, JJ",2.70,2.20
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,2,8,53,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",-18,6,5,4.80,"Evans, Reggie",4.30,19.30
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,3,3,51,1,"Running Layup Shot","2PT Field Goal",2,"Sacramento Kings",-19,-11,8,9.10,"Sessions, Ramon",0.60,6.30
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,3,4,45,0,"Running Layup Shot","2PT Field Goal",3,"Minnesota Timberwolves",-15,36,2,2.90,"Budinger, Chase",2.70,9.10
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,4,0,41,0,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-23,0,5,6.80,"Hill, Jordan",1.90,17.10
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,3,7,38,1,"Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",13,14,4,4.80,"Rose, Derrick",0.60,10.20
+"Trey Burke","Utah Jazz",2015-01-18,2014,2579260,1610612762,400578902,4,9,15,0,"Running Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-18,11,4,5.00,"Diaw, Boris",1.90,0.80
+"Trey Burke","Utah Jazz",2015-02-07,2014,2579260,1610612762,400579056,4,9,48,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",18,1,1,1.40,"McCallum, Ray",0.30,19.50
+"Trey Burke","Utah Jazz",2015-01-16,2014,2579260,1610612762,400578889,3,6,26,0,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",18,3,6,4.60,"Lin, Jeremy",1.10,12.80
+"Trey Burke","Utah Jazz",2015-01-28,2014,2579260,1610612762,400578982,4,5,12,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",20,0,4,3.40,"Barnes, Matt",0.00,20.90
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,4,7,51,1,"Running Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",18,0,2,2.00,"Duncan, Tim",2.00,10.00
+"Trey Burke","Utah Jazz",2014-11-12,2014,2579260,1610612762,400578402,3,5,07,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",6,9,0,1.10,"Korver, Kyle",4.40,20.10
+"Trey Burke","Utah Jazz",2014-12-09,2014,2579260,1610612762,400578606,3,7,45,0,"Running Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",9,9,4,3.10,"Duncan, Tim",1.20,8.30
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,4,6,26,0,"Step Back Jump shot","2PT Field Goal",23,"Golden State Warriors",0,230,6,5.00,"Livingston, Shaun",1.80,3.40
+"Trey Burke","Utah Jazz",2015-03-30,2014,2579260,1610612762,400579398,2,7,58,0,"Step Back Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",103,181,6,7.30,"Hummel, Robbie",4.30,11.30
+"Trey Burke","Utah Jazz",2015-01-07,2014,2579260,1610612762,400578820,4,5,53,1,"Step Back Jump shot","2PT Field Goal",19,"Chicago Bulls",-40,189,3,3.20,"Brooks, Aaron",2.70,8.20
+"Trey Burke","Utah Jazz",2015-02-03,2014,2579260,1610612762,400579021,2,9,35,1,"Step Back Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-8,168,2,2.50,"Blake, Steve",4.50,9.40
+"Trey Burke","Utah Jazz",2015-03-04,2014,2579260,1610612762,400579190,3,2,06,0,"Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",-168,20,4,3.80,"Smart, Marcus",1.80,3.80
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,6,26,1,"Tip Shot","2PT Field Goal",1,"Charlotte Hornets",-7,15,0,0.00,"Williams, Marvin",0.40,24.00
+"Trey Burke","Utah Jazz",2015-03-16,2014,2579260,1610612762,400579289,2,6,28,0,"Tip Shot","2PT Field Goal",2,"Charlotte Hornets",13,22,0,1.00,"Williams, Marvin",1.90,24.00
+"Trey Burke","Utah Jazz",2015-03-21,2014,2579260,1610612762,400579328,4,3,35,0,"Turnaround Fadeaway shot","2PT Field Goal",22,"Golden State Warriors",-134,175,6,4.40,"Curry, Stephen",2.60,0.40

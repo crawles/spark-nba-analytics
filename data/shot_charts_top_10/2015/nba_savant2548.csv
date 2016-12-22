@@ -1,0 +1,1085 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,1,5,14,1,"Driving Bank shot","2PT Field Goal",9,"Dallas Mavericks",-84,41,2,4.30,"Ellis, Monta",3.80,18.00
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,1,9,06,1,"Driving Bank shot","2PT Field Goal",9,"Indiana Pacers",-92,20,1,2.20,"Hibbert, Roy",3.80,15.50
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,0,53,1,"Driving Bank shot","2PT Field Goal",8,"Memphis Grizzlies",89,4,2,3.00,"Allen, Tony",2.20,10.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,6,15,1,"Driving Bank shot","2PT Field Goal",14,"Portland Trail Blazers",-119,77,7,6.40,"Afflalo, Arron",2.50,17.20
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,1,9,20,0,"Driving Bank shot","2PT Field Goal",8,"Phoenix Suns",80,30,4,9.90,"Bledsoe, Eric",5.50,4.20
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,4,6,02,1,"Driving Bank shot","2PT Field Goal",5,"Dallas Mavericks",39,33,0,1.00,"Ellis, Monta",1.90,21.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,2,4,16,1,"Driving Bank shot","2PT Field Goal",5,"Toronto Raptors",-45,22,4,4.50,"Valanciunas, Jonas",2.10,13.70
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,3,5,21,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,7,5.20,"Hill, Jordan",5.20,11.80
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,1,55,1,"Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,6,7.80,"Pekovic, Nikola",5.70,9.80
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,2,6,53,1,"Driving Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,2,3.90,"Allen, Lavoy",2.40,12.20
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,1,5,50,1,"Driving Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,8,6.80,"Vucevic, Nikola",5.40,17.30
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,3,22,1,"Driving Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,2,3.20,"Anthony, Joel",3.30,6.00
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,2,3,33,1,"Driving Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,1.50,"Chandler, Wilson",4.60,21.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,3,20,1,"Driving Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,4,3.80,"Morris, Marcus",3.20,21.50
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,4,6,38,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.60,"Redick, JJ",4.20,19.80
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,0,54,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,1,1.60,"Gordon, Eric",0.30,19.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,5,14,0,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,4,6,56,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Indiana Pacers",13,17,0,0.70,"Sloan, Donald",2.80,19.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,1,4,48,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,1,11,11.80,"Aldridge, LaMarcus",1.40,13.10
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,3,9,25,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",9,3,2,3.90,"Sampson, JaKarr",1.10,20.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,6,44,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,3,2,1.90,"Leonard, Meyers",1.10,13.20
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,10,11,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,3,4,5.20,"Allen, Tony",1.50,19.60
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,1,8,07,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Atlanta Hawks",0,6,0,0.60,"Korver, Kyle",1.40,20.90
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,5,46,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",4,14,2,3.80,"Pondexter, Quincy",1.60,17.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,9,17,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-11,22,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,1,7,16,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-10,1,1,2.10,"Davis, Anthony",2.80,14.70
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,3,5,28,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",-27,6,7,6.30,"Hickson, JJ",1.60,7.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,4,0,32,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-15,6,15,13.50,"Marion, Shawn",2.60,8.50
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,3,10,13,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,9,5,5.90,"Gay, Rudy",0.50,4.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,10,01,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",2,25,4,4.10,"Leonard, Meyers",3.80,5.80
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,3,5,45,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Houston Rockets",4,15,4,4.70,"Howard, Dwight",2.90,13.90
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,10,41,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Detroit Pistons",-18,7,1,2.30,"Meeks, Jodie",7.20,8.10
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,2,6,22,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",-5,11,5,6.10,"Gooden, Drew",4.60,16.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,1,11,06,0,"Driving Hook Shot","2PT Field Goal",6,"Portland Trail Blazers",39,50,4,5.50,"Afflalo, Arron",1.60,10.00
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,1,5,41,1,"Driving Hook Shot","2PT Field Goal",8,"Toronto Raptors",72,45,7,7.10,"Valanciunas, Jonas",2.50,16.80
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,4,47,0,"Driving Jump shot","2PT Field Goal",8,"Washington Wizards",-75,37,2,4.00,"Porter, Otto",1.30,10.60
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,6,11,0,"Driving Jump shot","2PT Field Goal",8,"New Orleans Pelicans",20,85,8,8.70,"Pondexter, Quincy",4.50,5.40
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,2,7,31,1,"Driving Jump shot","2PT Field Goal",5,"Sacramento Kings",48,14,4,4.30,"Casspi, Omri",2.60,12.40
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,0,37,1,"Driving Jump shot","2PT Field Goal",8,"Memphis Grizzlies",9,89,11,11.20,"Gasol, Marc",2.70,12.90
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,11,03,1,"Driving Jump shot","2PT Field Goal",8,"Washington Wizards",-84,22,0,0.20,"Beal, Bradley",2.10,23.70
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,1,29,0,"Driving Jump shot","2PT Field Goal",8,"Orlando Magic",1,80,2,2.00,"Harkless, Maurice",2.50,1.50
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,3,3,29,0,"Driving Jump shot","2PT Field Goal",5,"Portland Trail Blazers",-51,20,10,11.50,"Batum, Nicolas",1.80,9.90
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,1,6,57,1,"Driving Jump shot","2PT Field Goal",5,"Philadelphia 76ers",-37,44,1,1.70,"Sims, Henry",2.70,18.40
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,0,55,1,"Driving Jump shot","2PT Field Goal",3,"Washington Wizards",-10,37,4,4.60,"Beal, Bradley",2.30,19.40
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,8,12,1,"Driving Jump shot","2PT Field Goal",5,"Orlando Magic",43,41,2,2.80,"Gordon, Ben",1.90,12.90
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,4,9,44,0,"Driving Jump shot","2PT Field Goal",10,"Cleveland Cavaliers",-64,86,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,0,02,1,"Driving Jump shot","2PT Field Goal",4,"Portland Trail Blazers",2,44,22,20.30,"Aldridge, LaMarcus",1.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,3,23,1,"Driving Jump shot","2PT Field Goal",5,"Cleveland Cavaliers",-7,52,5,5.10,"Mozgov, Timofey",2.40,17.80
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,3,6,40,1,"Driving Jump shot","2PT Field Goal",4,"Sacramento Kings",20,42,2,2.90,"Thompson, Jason",2.70,12.60
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,4,49,1,"Driving Jump shot","2PT Field Goal",6,"Atlanta Hawks",-38,48,12,11.30,"Korver, Kyle",3.00,14.60
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,3,39,1,"Driving Jump shot","2PT Field Goal",5,"Portland Trail Blazers",-48,34,4,6.40,"Lopez, Robin",2.70,12.80
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,1,7,20,1,"Driving Jump shot","2PT Field Goal",5,"Washington Wizards",56,19,2,4.10,"Pierce, Paul",2.40,10.60
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,3,7,54,1,"Driving Jump shot","2PT Field Goal",8,"Atlanta Hawks",12,89,7,7.20,"Millsap, Paul",2.20,18.20
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,9,15,1,"Driving Jump shot","2PT Field Goal",7,"Detroit Pistons",-30,74,1,2.00,"Jackson, Reggie",2.00,2.10
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,4,57,0,"Driving Jump shot","2PT Field Goal",7,"Brooklyn Nets",-64,30,3,3.60,"Karasev, Sergey",2.70,12.00
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,6,11,0,"Driving Jump shot","2PT Field Goal",8,"Brooklyn Nets",78,42,10,15.40,"Karasev, Sergey",4.40,6.90
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,2,04,0,"Driving Jump shot","2PT Field Goal",3,"Brooklyn Nets",-27,15,3,4.80,"Teletovic, Mirza",0.20,20.50
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,0,21,0,"Driving Jump shot","2PT Field Goal",5,"Washington Wizards",2,56,11,9.40,"Butler, Rasual",3.30,14.50
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,4,41,0,"Driving Jump shot","2PT Field Goal",4,"Brooklyn Nets",10,48,0,2.40,"Jack, Jarrett",3.60,17.10
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,4,3,57,0,"Driving Jump shot","2PT Field Goal",8,"Charlotte Hornets",18,80,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,5,04,0,"Driving Jump shot","2PT Field Goal",11,"Brooklyn Nets",45,107,4,4.60,"Plumlee, Mason",5.20,17.90
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,4,2,52,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,0,3,3.40,"Faried, Kenneth",2.60,10.20
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,2,4,31,1,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",9,1,9,7.00,"Henderson, Gerald",7.00,19.70
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,7,21,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",12,4,7,7.30,"Henson, John",5.20,7.30
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,3,54,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",23,9,2,2.70,"Middleton, Khris",1.80,20.30
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,3,3,54,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-19,9,2,3.10,"Hansbrough, Tyler",3.80,18.00
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,1,10,49,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",7,15,1,1.10,"Sacre, Robert",3.50,11.20
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,1,7,16,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,0,0,1.40,"Nowitzki, Dirk",3.80,20.00
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,1,4,46,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-21,9,0,2.80,"Howard, Dwight",4.60,13.00
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,10,20,0,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",7,19,2,3.00,"Hill, Solomon",0.10,13.10
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,1,41,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,6,4,4.00,"Lowry, Kyle",5.30,8.90
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,9,40,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",9,1,7,6.60,"Koufos, Kosta",3.20,16.30
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,3,4,58,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",9,26,6,6.70,"McGee, JaVale",2.90,17.10
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,3,9,58,1,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",-37,14,2,3.00,"Hansbrough, Tyler",2.60,10.70
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,1,4,22,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",6,7,2,4.50,"Hill, George",0.40,22.30
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,4,0,24,1,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-27,11,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,9,10,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,4,1,2.10,"Kaman, Chris",0.30,15.00
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,1,4,41,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-10,-3,0,0.60,"Millsap, Paul",0.80,4.80
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,3,11,30,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",23,7,0,0.50,"Korver, Kyle",2.10,14.60
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,4,8,22,0,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",7,3,0,1.00,"Nowitzki, Dirk",2.10,6.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,3,02,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",28,4,2,2.30,"Teague, Jeff",3.90,15.40
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,4,4,04,0,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",-5,6,7,7.70,"Nurkic, Jusuf",2.70,15.00
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,2,6,51,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",13,3,2,2.20,"Aminu, Al-Farouq",3.10,21.00
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,1,56,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",21,0,3,5.00,"Sampson, JaKarr",0.00,10.60
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,1,6,50,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,7,6,6.60,"Bledsoe, Eric",1.70,8.10
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,7,58,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-10,9,1,3.00,"Henderson, Gerald",1.90,10.80
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,1,10,56,1,"Driving Layup Shot","2PT Field Goal",4,"Milwaukee Bucks",48,9,1,1.50,"Middleton, Khris",3.10,2.70
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,3,8,56,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",13,14,5,5.10,"Cunningham, Dante",3.60,12.60
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,9,57,0,"Driving Layup Shot","2PT Field Goal",4,"Milwaukee Bucks",39,23,7,7.90,"Henson, John",3.60,10.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,2,5,24,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-7,9,1,1.80,"Korver, Kyle",1.70,6.50
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,4,2,54,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-23,9,9,9.10,"Leonard, Kawhi",3.00,15.50
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,1,4,16,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",7,-3,4,3.40,"Hickson, JJ",2.50,12.70
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,0,32,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",18,9,16,15.30,"Duncan, Tim",4.30,8.80
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,4,27,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,6,2,3.70,"Gasol, Marc",5.50,11.90
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,3,7,47,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,0,0,0.90,"Calderon, Jose",3.50,14.50
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,1,20,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,3,18,16.00,"Williams, Mo",2.50,7.20
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,5,59,0,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-27,15,6,6.80,"Asik, Omer",2.80,16.50
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,7,55,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-2,11,6,5.40,"Bledsoe, Eric",2.30,16.20
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,2,07,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",4,0,2,2.20,"Davies, Brandon",1.80,12.40
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,1,5,04,1,"Driving Layup Shot","2PT Field Goal",4,"Toronto Raptors",40,6,4,7.10,"Ross, Terrence",0.10,11.00
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,3,06,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-15,14,10,10.20,"Karasev, Sergey",4.30,12.20
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,6,19,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",-16,0,7,7.00,"Harris, Tobias",2.70,14.80
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,2,4,26,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",17,14,3,3.70,"Burks, Alec",0.00,20.60
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,5,10,0,"Driving Layup Shot","2PT Field Goal",4,"Washington Wizards",36,22,10,12.10,Nene,1.70,11.60
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,3,11,38,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",7,7,1,3.20,"Roberson, Andre",0.80,3.80
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,2,4,01,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-16,0,0,0.90,"Gibson, Taj",4.10,16.80
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,3,9,45,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",18,4,1,2.40,"Kanter, Enes",3.30,14.80
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,2,1,11,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-18,3,6,3.80,"Hood, Rodney",3.00,16.80
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,3,6,13,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",24,4,3,3.00,"Cunningham, Dante",2.50,10.80
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,4,28,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",26,1,10,10.20,"Len, Alex",0.40,13.70
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,3,10,08,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",9,11,1,2.00,"Sims, Henry",3.60,18.70
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,4,3,09,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",12,12,4,5.80,"Johnson, Amir",2.50,10.30
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,1,43,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,6,4,3.40,"Waiters, Dion",2.00,20.50
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,8,04,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",0,1,3,3.10,"Datome, Gigi",2.00,4.80
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,3,7,07,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,7,5,5.80,"Ibaka, Serge",1.40,10.10
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,7,26,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",13,6,5,3.30,"Allen, Tony",0.70,17.50
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,6,55,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,9,7,7.90,"Westbrook, Russell",0.90,15.70
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,2,5,17,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,3,0,1.40,"Papanikolaou, Kostas",3.10,19.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,6,50,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-2,15,7,6.60,"Zeller, Tyler",2.10,16.60
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,6,29,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",17,-3,4,3.60,"Turner, Evan",2.80,16.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,3,4,52,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-8,6,4,4.10,"Patterson, Patrick",2.10,13.80
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,0,15,0,"Driving Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,15,0,0.00,"Hill, Solomon",1.10,0.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,2,3,39,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",0,28,2,3.20,"Bass, Brandon",2.70,2.90
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,5,30,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-16,14,9,13.30,"Oladipo, Victor",2.00,8.20
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,1,7,55,0,"Driving Layup Shot","2PT Field Goal",3,"Dallas Mavericks",-21,26,7,6.90,"Chandler, Tyson",3.20,16.50
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,2,2,36,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",10,6,4,4.00,"Covington, Robert",2.80,21.10
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,6,54,1,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",23,1,13,15.10,Nene,3.30,8.30
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,5,53,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,3,2,5.00,"Lillard, Damian",2.90,16.80
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,3,4,12,0,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",34,3,0,0.40,"Lin, Jeremy",2.30,6.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,2,30,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-16,6,4,6.80,"Burke, Trey",3.70,11.50
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,5,00,0,"Driving Layup Shot","2PT Field Goal",3,"Indiana Pacers",29,15,8,7.60,"Mahinmi, Ian",3.50,3.50
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,4,35,1,"Driving Layup Shot","2PT Field Goal",3,"Indiana Pacers",1,34,12,9.30,"Hibbert, Roy",2.10,5.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,1,10,08,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-19,14,3,3.20,"Aldridge, LaMarcus",1.80,15.60
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,3,4,55,1,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",31,11,10,9.40,"Cunningham, Dante",2.00,14.80
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,4,7,41,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-2,0,9,8.40,"Crowder, Jae",1.60,14.40
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,2,11,12,0,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",31,6,1,2.20,"Williams, Lou",5.10,20.30
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,5,28,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-7,9,0,1.40,"Garnett, Kevin",4.50,10.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,4,2,09,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",13,-2,6,5.60,"Dellavedova, Matthew",4.00,9.10
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,3,4,04,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",7,9,6,5.90,"Gooden, Drew",3.50,17.90
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,1,4,56,0,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",6,7,4,4.10,"Beal, Bradley",2.10,6.60
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,3,11,26,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",15,14,3,3.00,"Martin, Kevin",1.30,6.60
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,2,0,32,0,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",6,6,2,1.90,"Green, Willie",1.50,21.70
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,3,6,37,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",18,4,1,2.40,"Henderson, Gerald",2.70,8.40
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,4,6,51,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",13,20,2,2.80,"Gobert, Rudy",2.20,9.10
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,8,57,1,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",0,3,7,8.30,"Stephenson, Lance",2.50,10.80
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,4,0,23,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-16,0,5,5.20,"Korver, Kyle",0.80,18.90
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,0,32,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",15,3,5,4.60,"Asik, Omer",0.80,17.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,3,6,51,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-23,0,2,4.20,"Ross, Terrence",0.00,9.00
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,4,37,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-8,6,2,4.40,"Pekovic, Nikola",1.90,13.80
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,3,5,32,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-15,1,1,2.60,"Chandler, Tyson",4.00,7.70
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,6,59,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",12,11,1,1.60,Nene,0.70,16.00
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,4,6,02,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,-2,14,13.80,"Ellington, Wayne",3.20,10.00
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,1,5,52,0,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,9,2,4.80,"Millsap, Paul",2.50,16.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,0,09,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,7,10,5.00,"Zeller, Cody",4.60,0.00
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,9,47,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",24,7,2,3.50,"Pierce, Paul",3.60,8.90
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,10,57,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",-7,19,1,1.70,"Seraphin, Kevin",0.30,9.00
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,2,1,54,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",9,14,2,2.90,"Hill, George",3.00,11.20
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,5,26,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Brooklyn Nets",21,9,6,5.40,"Garnett, Kevin",1.80,17.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,4,3,42,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Chicago Bulls",23,-2,3,2.90,"Gasol, Pau",3.10,11.40
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,5,55,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",13,11,1,1.60,"Favors, Derrick",2.40,13.70
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,2,6,45,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,1,1.50,"Howard, Dwight",2.90,6.50
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,9,15,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,1.40,"Jack, Jarrett",13.60,20.80
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,3,6,19,1,"Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,1,2.00,"Schroder, Dennis",12.10,20.60
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,8,55,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,1,1.30,"Antetokounmpo, Giannis",4.10,21.30
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,1,30,1,"Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.60,"Neal, Gary",4.00,2.60
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,2,1,51,1,"Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,1,1.40,"DeRozan, DeMar",4.00,8.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,7,53,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.60,"Bass, Brandon",4.10,19.50
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,10,03,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,1,1.30,"Leuer, Jon",2.80,21.50
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,6,07,1,"Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,1,1.40,"Butler, Caron",11.20,20.00
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,6,33,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,2,2.70,"Antetokounmpo, Giannis",3.70,22.70
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,1,7,32,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.40,"Aldridge, LaMarcus",4.10,14.60
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,8,22,1,"Fadeaway Bank shot","2PT Field Goal",11,"Indiana Pacers",4,113,0,1.10,"Hill, Solomon",2.60,16.30
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,8,11,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Detroit Pistons",88,105,13,11.00,"Prince, Tayshaun",2.90,11.40
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,2,4,39,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Toronto Raptors",-103,143,1,4.30,"Vasquez, Greivis",4.30,12.90
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,6,00,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Toronto Raptors",171,9,3,3.10,"Vasquez, Greivis",2.40,17.40
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,2,5,38,1,"Fadeaway Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",163,3,11,10.20,"Ajinca, Alexis",5.10,3.70
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,8,45,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Orlando Magic",124,37,2,4.80,"Green, Willie",2.60,8.50
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,3,26,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Chicago Bulls",-95,-5,7,3.60,"Brooks, Aaron",2.70,9.00
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,2,2,31,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Sacramento Kings",56,77,1,2.30,"Gay, Rudy",3.50,16.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,10,09,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Boston Celtics",108,-28,8,6.80,"Olynyk, Kelly",3.40,5.40
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,4,2,36,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Sacramento Kings",173,3,2,4.90,"Miller, Andre",2.20,3.80
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,7,16,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Indiana Pacers",-153,33,7,8.30,"Hill, George",2.70,14.60
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,1,10,14,1,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",13,148,0,1.10,"Galloway, Langston",2.20,15.90
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,4,6,34,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-144,58,1,4.20,"Westbrook, Russell",3.70,15.90
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,3,35,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-101,4,1,2.20,"Korver, Kyle",1.60,17.40
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,1,4,37,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-185,17,1,3.00,"Middleton, Khris",4.40,10.40
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,3,9,31,0,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",110,69,5,4.60,"Galloway, Langston",1.20,8.00
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,4,32,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Chicago Bulls",-147,15,8,7.90,"Rose, Derrick",2.50,10.40
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,6,22,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-116,134,1,1.50,"Koufos, Kosta",4.20,11.60
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,4,54,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-100,135,2,2.80,"Prince, Tayshaun",2.60,6.20
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,3,17,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Brooklyn Nets",-109,60,9,9.50,"Lopez, Brook",4.30,12.70
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,4,3,13,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Indiana Pacers",-93,148,4,7.30,"Hill, George",0.60,7.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,4,11,45,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Charlotte Hornets",-59,50,2,2.80,"Stephenson, Lance",3.50,10.60
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,3,4,49,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-123,7,1,2.10,"Roberson, Andre",3.00,9.30
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,1,7,43,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Charlotte Hornets",78,7,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,5,51,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Detroit Pistons",91,60,1,1.40,"Williams, Shawne",4.70,8.10
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,4,7,08,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Charlotte Hornets",124,52,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,2,7,20,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Indiana Pacers",111,25,1,3.00,"Hill, Solomon",2.10,14.00
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,5,45,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-188,0,8,7.10,"Westbrook, Russell",3.60,1.40
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,6,56,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Brooklyn Nets",187,-3,3,1.50,"Lopez, Brook",3.40,1.70
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,5,03,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-73,115,6,5.40,"Aldridge, LaMarcus",4.20,5.60
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,7,34,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-149,56,1,1.80,"Korver, Kyle",2.80,14.90
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,4,8,55,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Denver Nuggets",170,30,3,3.00,"Faried, Kenneth",2.90,11.20
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,4,05,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-152,-2,2,1.90,"Karasev, Sergey",3.90,16.10
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,1,3,25,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Chicago Bulls",99,72,7,9.00,"Snell, Tony",3.00,8.30
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,9,06,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Washington Wizards",-103,78,3,5.10,"Butler, Rasual",3.90,11.10
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,6,34,0,"Fadeaway Jump Shot","2PT Field Goal",5,"Indiana Pacers",-46,28,1,1.50,"Stuckey, Rodney",4.10,16.90
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,4,5,28,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Utah Jazz",-150,53,2,3.00,"Hayward, Gordon",3.80,6.00
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,3,4,25,0,"Fadeaway Jump Shot","2PT Field Goal",21,"Dallas Mavericks",168,134,3,3.40,"Chandler, Tyson",4.00,2.00
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,2,3,51,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-73,25,0,1.50,"Martin, Kevin",2.60,15.50
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,2,21,0,"Fadeaway Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",99,126,3,2.40,"Gordon, Eric",4.80,13.60
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,4,5,21,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Toronto Raptors",-79,164,4,4.30,"DeRozan, DeMar",3.70,16.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",201,4,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,4,43,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",-169,-8,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,1,7,03,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",160,1,3,4.80,"Noel, Nerlens",4.60,7.20
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,1,5,33,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-146,82,1,1.00,"Carter-Williams, Michael",3.10,10.70
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,5,35,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",-86,58,9,7.50,"Mbah a Moute, Luc",3.30,14.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,6,49,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-105,148,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,2,1,58,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Orlando Magic",179,0,4,4.50,"Oladipo, Victor",2.20,8.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,5,59,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-97,123,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,2,5,37,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",166,6,0,-0.10,"Ellis, Monta",3.70,8.30
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,2,6,34,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-78,71,5,4.10,"Bazemore, Kent",5.00,6.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,4,13,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-158,20,5,4.80,"Karasev, Sergey",2.70,11.80
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,9,41,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",73,149,3,4.20,"Prince, Tayshaun",3.70,3.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,0,08,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Phoenix Suns",-24,113,10,15.80,"Len, Alex",4.60,5.20
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,3,34,1,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",-119,-19,0,1.00,"Calderon, Jose",3.80,9.40
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,3,28,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-100,0,0,2.50,"Lillard, Damian",3.80,11.50
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,10,47,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",163,12,6,6.80,"Prince, Tayshaun",4.30,17.00
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,1,6,27,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",-141,86,0,1.60,"Caldwell-Pope, Kentavious",2.40,12.00
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,0,13,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-75,135,17,18.80,"Batum, Nicolas",4.80,5.00
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,2,8,08,1,"Fadeaway Jump Shot","2PT Field Goal",21,"Washington Wizards",-111,184,1,1.80,"Butler, Rasual",3.80,11.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,1,5,19,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Toronto Raptors",-157,4,5,3.60,"Ross, Terrence",3.30,14.00
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,3,7,59,0,"Fadeaway Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-109,88,9,8.80,"Green, Danny",2.70,6.60
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,4,1,32,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Sacramento Kings",6,4,2,2.60,"McCallum, Ray",1.60,6.80
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,1,8,08,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Chicago Bulls",1,19,1,1.20,"Gasol, Pau",1.70,13.70
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,10,30,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",4,1,1,1.70,"Koufos, Kosta",4.00,22.30
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,10,56,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,7,0,0.90,"Udrih, Beno",2.70,19.60
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,4,22,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Atlanta Hawks",7,6,0,0.80,"Schroder, Dennis",2.30,21.80
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,10,04,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,-2,1,3.00,"Miles, CJ",3.10,8.10
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,1,11,03,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",15,12,0,1.00,"Hill, George",3.00,15.30
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,2,7,43,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",-2,23,1,1.90,"Arthur, Darrell",3.00,0.70
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,2,58,1,"Floating Jump shot","2PT Field Goal",12,"Brooklyn Nets",-41,121,0,0.90,"Lopez, Brook",3.40,8.80
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,4,03,0,"Floating Jump shot","2PT Field Goal",5,"Orlando Magic",-56,20,1,3.50,"Harkless, Maurice",4.20,17.40
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,1,10,09,0,"Floating Jump shot","2PT Field Goal",7,"Atlanta Hawks",6,74,5,5.10,"Korver, Kyle",4.20,17.00
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,1,8,05,0,"Floating Jump shot","2PT Field Goal",11,"San Antonio Spurs",1,115,11,9.40,"Duncan, Tim",3.70,14.50
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,1,5,16,1,"Floating Jump shot","2PT Field Goal",11,"Portland Trail Blazers",-4,119,3,6.70,"Afflalo, Arron",2.50,9.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,2,7,22,1,"Floating Jump shot","2PT Field Goal",12,"Charlotte Hornets",1,127,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,4,0,41,0,"Floating Jump shot","2PT Field Goal",6,"Brooklyn Nets",-5,61,13,11.90,"Anderson, Alan",0.00,6.80
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,4,32,1,"Floating Jump shot","2PT Field Goal",9,"Orlando Magic",51,78,5,5.70,"Harris, Tobias",2.00,6.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,1,4,10,0,"Floating Jump shot","2PT Field Goal",8,"Toronto Raptors",51,74,2,2.50,"Lowry, Kyle",2.00,15.90
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,3,7,59,1,"Floating Jump shot","2PT Field Goal",5,"Washington Wizards",-2,55,9,8.10,"Beal, Bradley",2.10,15.50
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,2,3,21,0,"Floating Jump shot","2PT Field Goal",9,"New York Knicks",-5,94,3,2.60,"Shumpert, Iman",2.70,24.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,3,6,51,1,"Floating Jump shot","2PT Field Goal",9,"Cleveland Cavaliers",-82,42,1,2.60,"Thompson, Tristan",4.10,4.30
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,4,2,33,0,"Floating Jump shot","2PT Field Goal",7,"Los Angeles Lakers",-73,31,14,12.40,"Clarkson, Jordan",2.90,11.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,1,02,0,"Floating Jump shot","2PT Field Goal",9,"Detroit Pistons",18,94,9,10.60,"Caldwell-Pope, Kentavious",2.90,9.50
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,0,29,1,"Floating Jump shot","2PT Field Goal",6,"Orlando Magic",59,33,6,5.40,"Harris, Tobias",2.30,18.70
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,8,33,0,"Floating Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",-93,71,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,3,5,25,1,"Floating Jump shot","2PT Field Goal",14,"New Orleans Pelicans",28,142,12,11.00,"Evans, Tyreke",2.70,12.10
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,2,40,0,"Floating Jump shot","2PT Field Goal",6,"Washington Wizards",59,31,5,5.90,"Gortat, Marcin",3.10,8.70
+"Dwyane Wade","Miami Heat",2015-01-13,2014,1987,1610612748,400578865,2,7,09,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Lakers",-19,63,1,6.00,"Kelly, Ryan",3.80,11.20
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,2,1,13,1,"Floating Jump shot","2PT Field Goal",3,"Orlando Magic",21,22,3,3.40,"Green, Willie",2.90,18.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,11,18,0,"Floating Jump shot","2PT Field Goal",11,"Portland Trail Blazers",-19,116,3,2.90,"Wright, Dorell",3.60,12.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,3,15,0,"Floating Jump shot","2PT Field Goal",9,"Memphis Grizzlies",65,64,3,3.70,"Allen, Tony",1.30,14.70
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,4,5,23,1,"Floating Jump shot","2PT Field Goal",7,"Atlanta Hawks",77,15,1,1.20,"Brand, Elton",4.20,19.40
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,1,12,0,"Floating Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",-23,74,0,1.20,"Kanter, Enes",3.20,22.50
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,2,22,0,"Floating Jump shot","2PT Field Goal",11,"Portland Trail Blazers",67,93,6,5.70,"Afflalo, Arron",1.70,12.70
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,3,25,1,"Floating Jump shot","2PT Field Goal",4,"Detroit Pistons",1,45,0,-0.40,"Drummond, Andre",4.20,18.50
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,4,1,43,0,"Floating Jump shot","2PT Field Goal",7,"Charlotte Hornets",-2,74,3,3.50,"Henderson, Gerald",2.40,4.70
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,1,8,23,1,"Floating Jump shot","2PT Field Goal",3,"New York Knicks",17,34,1,1.50,"Acy, Quincy",4.50,3.80
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,2,47,0,"Floating Jump shot","2PT Field Goal",9,"Washington Wizards",42,89,11,10.80,"Beal, Bradley",1.80,4.10
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,2,2,20,1,"Floating Jump shot","2PT Field Goal",15,"Houston Rockets",77,129,2,3.60,"Harden, James",2.50,13.10
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,2,2,42,1,"Floating Jump shot","2PT Field Goal",7,"Los Angeles Lakers",-71,33,8,9.10,"Ellington, Wayne",0.00,13.30
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,4,5,22,1,"Floating Jump shot","2PT Field Goal",5,"Washington Wizards",-32,50,2,2.20,"Gooden, Drew",2.40,19.60
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,1,3,24,0,"Floating Jump shot","2PT Field Goal",13,"Atlanta Hawks",72,119,5,6.40,"Bazemore, Kent",3.20,6.10
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,2,0,45,1,"Floating Jump shot","2PT Field Goal",11,"Denver Nuggets",61,101,3,3.90,"Harris, Gary",2.30,10.90
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,2,6,55,1,"Hook Shot","2PT Field Goal",5,"Houston Rockets",12,55,1,2.20,"Harden, James",1.30,21.70
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,7,09,0,"Hook Shot","2PT Field Goal",7,"Brooklyn Nets",-35,61,6,5.90,"Anderson, Alan",3.40,6.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,4,38,1,"Hook Shot","2PT Field Goal",4,"Philadelphia 76ers",-40,-17,0,2.30,"Mbah a Moute, Luc",2.20,17.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,10,46,0,"Hook Shot","2PT Field Goal",7,"Boston Celtics",67,39,2,4.30,"Zeller, Tyler",2.90,15.00
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,3,4,32,0,"Hook Shot","2PT Field Goal",9,"Philadelphia 76ers",4,96,3,4.30,"Covington, Robert",2.40,4.70
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,3,4,53,1,"Jump Bank Shot","3PT Field Goal",24,"Toronto Raptors",77,235,6,5.10,"Vasquez, Greivis",2.90,8.60
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,10,18,1,"Jump Bank Shot","2PT Field Goal",18,"Cleveland Cavaliers",157,91,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,0,30,0,"Jump Bank Shot","2PT Field Goal",14,"Cleveland Cavaliers",119,77,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,8,03,1,"Jump Bank Shot","2PT Field Goal",5,"Detroit Pistons",-41,31,1,1.80,"Tolliver, Anthony",0.10,19.30
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,3,54,0,"Jump Bank Shot","2PT Field Goal",10,"Portland Trail Blazers",-98,26,8,9.20,"Lopez, Robin",3.70,8.20
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,10,25,1,"Jump Bank Shot","2PT Field Goal",11,"Brooklyn Nets",-65,99,5,4.40,"Brown, Markel",0.20,17.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,7,47,1,"Jump Bank Shot","2PT Field Goal",11,"Brooklyn Nets",111,42,11,9.40,"Bogdanovic, Bojan",2.20,10.60
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,3,3,44,1,"Jump Bank Shot","2PT Field Goal",19,"Cleveland Cavaliers",170,102,2,3.10,"Shumpert, Iman",3.40,3.50
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,1,7,32,0,"Jump Bank Shot","2PT Field Goal",10,"Washington Wizards",-95,45,5,5.10,"Beal, Bradley",2.50,15.40
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,1,06,0,"Jump Bank Shot","2PT Field Goal",12,"Brooklyn Nets",-111,58,0,1.70,"Jack, Jarrett",1.70,6.10
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,9,22,1,"Jump Bank Shot","2PT Field Goal",18,"Milwaukee Bucks",-169,77,11,6.70,"Carter-Williams, Michael",5.10,16.40
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,4,4,49,1,"Jump Bank Shot","2PT Field Goal",11,"Brooklyn Nets",113,30,0,1.00,"Anderson, Alan",1.10,3.60
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,1,5,26,1,"Jump Bank Shot","2PT Field Goal",15,"San Antonio Spurs",-142,71,3,4.20,"Diaw, Boris",3.40,19.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,3,10,56,0,"Jump Bank Shot","2PT Field Goal",18,"Utah Jazz",177,33,2,2.10,"Kanter, Enes",2.70,2.10
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,6,52,0,"Jump Bank Shot","2PT Field Goal",9,"Indiana Pacers",-86,34,3,3.70,"Hill, Solomon",2.20,14.40
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,2,11,11,0,"Jump Bank Shot","2PT Field Goal",5,"Denver Nuggets",-41,30,2,2.00,"Gee, Alonzo",1.70,12.90
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,3,5,15,1,"Jump Bank Shot","2PT Field Goal",13,"Philadelphia 76ers",118,56,1,2.10,"Covington, Robert",3.00,1.60
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,0,39,1,"Jump Bank Shot","2PT Field Goal",12,"Phoenix Suns",-111,47,2,4.90,"Morris, Marcus",3.10,13.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,2,2,24,1,"Jump Bank Shot","2PT Field Goal",5,"New York Knicks",-45,34,1,2.00,"Acy, Quincy",5.00,9.00
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,3,7,57,1,"Jump Bank Shot","2PT Field Goal",17,"Toronto Raptors",173,39,0,1.10,"Lowry, Kyle",6.90,11.10
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,1,9,11,1,"Jump Bank Shot","2PT Field Goal",8,"Cleveland Cavaliers",-81,22,7,5.70,"Smith, J.R.",2.40,11.60
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,1,6,31,1,"Jump Bank Shot","2PT Field Goal",15,"Houston Rockets",-127,86,5,7.70,"Ariza, Trevor",3.50,8.00
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,2,3,08,1,"Jump Bank Shot","2PT Field Goal",4,"Orlando Magic",21,37,0,0.50,"Vucevic, Nikola",2.80,17.60
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,1,3,59,1,"Jump Bank Shot","2PT Field Goal",16,"Milwaukee Bucks",-142,93,1,2.00,"Knight, Brandon",3.80,18.20
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,3,10,54,0,"Jump Bank Shot","3PT Field Goal",25,"New Orleans Pelicans",-112,230,1,1.40,"Evans, Tyreke",2.80,0.80
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,2,4,57,1,"Jump Bank Shot","2PT Field Goal",15,"Denver Nuggets",-122,93,1,1.40,"Faried, Kenneth",4.60,18.60
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,4,6,56,1,"Jump Bank Shot","2PT Field Goal",14,"Milwaukee Bucks",135,44,3,2.30,"Middleton, Khris",4.30,11.50
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,4,1,12,1,"Jump Bank Shot","2PT Field Goal",20,"Toronto Raptors",43,200,0,0.00,"DeRozan, DeMar",3.00,12.30
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,3,5,43,1,"Jump Bank Shot","2PT Field Goal",19,"Memphis Grizzlies",144,132,0,1.90,"Allen, Tony",5.20,8.70
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,3,19,0,"Jump Bank Shot","2PT Field Goal",14,"Orlando Magic",132,64,1,1.40,"Green, Willie",3.80,12.00
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,4,3,00,1,"Jump Bank Shot","2PT Field Goal",19,"Philadelphia 76ers",-150,127,1,1.40,"Noel, Nerlens",5.70,6.90
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,2,2,36,1,"Jump Bank Shot","2PT Field Goal",13,"Orlando Magic",4,137,15,14.10,"Fournier, Evan",1.60,10.00
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,8,27,0,"Jump Bank Shot","2PT Field Goal",10,"Portland Trail Blazers",-100,-2,3,2.80,"Leonard, Meyers",3.80,15.30
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,10,25,0,"Jump Bank Shot","2PT Field Goal",7,"Memphis Grizzlies",64,33,1,1.90,"Lee, Courtney",1.50,11.40
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,7,52,0,"Jump Hook Shot","2PT Field Goal",9,"San Antonio Spurs",89,30,6,5.10,"Leonard, Kawhi",2.20,15.50
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,2,24,1,"Jump Hook Shot","2PT Field Goal",8,"Phoenix Suns",61,56,3,3.40,"Len, Alex",2.80,18.60
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,8,04,1,"Jump Hook Shot","2PT Field Goal",5,"Detroit Pistons",0,55,3,4.10,"Jackson, Reggie",2.50,13.80
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,5,49,1,"Jump Hook Shot","2PT Field Goal",4,"Milwaukee Bucks",-11,41,0,1.30,"Bayless, Jerryd",1.10,16.10
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,2,11,19,1,"Jump Hook Shot","2PT Field Goal",7,"Los Angeles Clippers",-73,30,8,9.30,"Crawford, Jamal",2.60,14.00
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,2,10,30,1,"Jump Hook Shot","2PT Field Goal",4,"Los Angeles Clippers",-41,23,0,0.70,"Farmar, Jordan",2.60,13.80
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,4,3,38,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",154,135,12,10.90,"Westbrook, Russell",4.00,12.60
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,3,5,59,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-239,47,3,7.00,"McCallum, Ray",3.00,16.50
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,1,8,44,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-133,172,1,2.50,"Korver, Kyle",3.50,12.30
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,0,12,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-177,178,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,9,08,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",116,137,5,5.00,"Bayless, Jerryd",3.20,11.60
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,3,9,19,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-160,88,8,8.10,"Mbah a Moute, Luc",4.60,10.00
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,3,6,21,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-180,105,3,4.10,"Afflalo, Arron",4.50,17.30
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,2,0,32,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-160,104,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,3,6,40,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",0,190,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,2,0,00,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",231,33,2,2.00,"Henderson, Gerald",3.70,0.00
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,8,07,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-152,63,0,1.40,"Pierce, Paul",3.90,18.80
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,1,50,1,"Jump Shot","2PT Field Goal",7,"Washington Wizards",31,66,0,1.40,"Gortat, Marcin",0.50,11.40
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,4,3,45,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-169,105,2,2.60,"Porter, Otto",4.00,10.30
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,4,1,55,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-180,19,1,2.20,"Gooden, Drew",1.90,5.30
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,4,0,03,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-205,135,0,16.90,"Wall, John",22.10,0.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,4,7,49,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-207,-17,1,1.20,"Thompson, Hollis",5.30,17.30
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,3,9,44,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-205,-5,1,2.00,"Ross, Terrence",3.50,8.30
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,4,6,50,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",36,186,0,0.60,"Vasquez, Greivis",3.80,16.50
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,1,5,10,1,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-149,4,16,13.50,"Papanikolaou, Kostas",3.70,10.80
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,3,9,35,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-169,119,4,5.70,"Howard, Dwight",5.70,17.90
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,4,8,38,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",31,246,0,1.00,"Ariza, Trevor",4.70,1.60
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,3,11,13,1,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",-3,114,0,0.00,"Stephenson, Lance",0.10,16.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,5,57,1,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",-4,44,4,5.10,"Walker, Kemba",0.20,8.40
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,1,5,46,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-108,176,2,4.40,"Martin, Kevin",3.60,14.70
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,3,00,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-194,19,4,3.60,"Wiggins, Andrew",3.90,13.10
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,3,10,15,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-157,187,0,0.90,"Ellis, Monta",7.50,0.00
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,7,09,1,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-125,124,3,5.00,"Hill, Solomon",4.30,12.60
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,5,19,1,"Jump Shot","2PT Field Goal",2,"Indiana Pacers",-2,26,0,0.00,"Scola, Luis",3.10,24.00
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,1,26,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-109,219,3,3.10,"Hill, Solomon",3.20,10.90
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,7,54,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-175,63,4,4.90,"Hardaway Jr., Tim",1.90,5.20
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,6,54,1,"Jump Shot","2PT Field Goal",12,"New York Knicks",97,71,6,7.30,"Dalembert, Samuel",3.30,16.10
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,4,7,20,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-23,172,0,1.00,"Butler, Rasual",5.30,12.60
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,0,36,1,"Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",6,41,0,1.50,"Udrih, Beno",2.90,22.70
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,3,7,52,1,"Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",47,47,1,1.40,"Lee, Courtney",2.40,9.50
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,7,15,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",-87,-21,1,0.60,"Knight, Brandon",2.90,2.80
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,7,16,1,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-41,178,0,1.10,"Middleton, Khris",6.30,12.90
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,3,7,08,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-146,48,3,2.40,"Antetokounmpo, Giannis",5.00,10.50
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,2,4,45,1,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-199,37,1,1.50,"Korver, Kyle",5.20,13.20
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,2,1,10,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",86,126,1,1.30,"Horford, Al",4.30,19.30
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,1,5,30,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-95,142,1,1.50,"Dragic, Goran",4.80,2.20
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,7,31,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-4,60,1,1.90,"Green, Gerald",1.60,12.90
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,4,55,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",-27,31,1,2.40,"Dragic, Goran",0.20,16.60
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,3,9,24,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",179,-10,3,3.40,"Morris, Markieff",3.60,0.80
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,4,7,13,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-183,-13,0,4.70,"Morris, Marcus",1.60,2.30
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,3,4,11,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-101,11,1,1.40,"Afflalo, Arron",3.20,9.00
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,9,52,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-168,19,3,3.40,"Butler, Jimmy",3.80,6.00
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,5,43,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-149,110,2,3.70,"Gibson, Taj",4.10,10.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,5,04,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-169,0,1,2.40,"Butler, Jimmy",4.30,6.90
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,4,6,31,1,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",4,80,4,3.50,"Rose, Derrick",1.70,18.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,4,3,02,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",6,246,1,2.80,"Butler, Jimmy",3.90,5.70
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,8,37,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-125,121,1,1.30,"Karasev, Sergey",3.60,2.80
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,8,03,1,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-120,168,3,2.90,"Karasev, Sergey",4.10,15.00
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,7,24,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-146,97,1,2.60,"Karasev, Sergey",2.80,11.40
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,4,14,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",231,7,3,5.30,"Jack, Jarrett",5.10,7.90
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,0,36,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-177,-3,1,2.20,"Garnett, Kevin",6.10,15.30
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,3,4,53,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-179,28,1,3.10,"Anderson, Alan",2.80,11.10
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,1,10,37,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",111,142,0,0.80,"Burks, Alec",3.60,15.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,1,9,46,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-182,78,3,6.40,"Burks, Alec",2.20,2.80
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,1,07,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",196,45,5,7.30,"Booker, Trevor",2.60,13.50
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,3,7,04,1,"Jump Shot","2PT Field Goal",9,"Utah Jazz",-82,41,4,4.20,"Burks, Alec",1.70,9.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,4,3,15,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-106,219,8,7.70,"Hayward, Gordon",3.60,6.30
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,4,1,48,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-234,26,7,8.10,"Hayward, Gordon",4.50,16.60
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,6,49,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",189,7,3,5.80,"Butler, Rasual",3.60,9.10
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,7,34,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-198,-5,1,3.00,"Beal, Bradley",3.30,11.40
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,5,57,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-155,129,2,3.60,"Pierce, Paul",4.00,17.80
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,10,39,1,"Jump Shot","2PT Field Goal",12,"Washington Wizards",17,123,2,2.40,"Butler, Rasual",1.60,7.80
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,0,16,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",0,246,1,1.10,"Beal, Bradley",4.40,0.00
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,0,00,1,"Jump Shot","3PT Field Goal",29,"Washington Wizards",198,216,2,2.50,"Butler, Rasual",3.60,0.00
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,1,6,06,1,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-54,108,2,1.90,"Mbah a Moute, Luc",3.00,4.70
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,1,06,1,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",129,3,0,1.40,"Sims, Henry",5.80,6.10
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,4,0,49,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-139,203,5,4.40,"Mbah a Moute, Luc",5.20,19.60
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,3,10,1,"Jump Shot","2PT Field Goal",13,"Orlando Magic",13,138,1,1.20,"Fournier, Evan",2.70,7.00
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,0,00,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-119,156,5,4.50,"Payton, Elfrid",3.50,0.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,1,7,12,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",100,132,0,3.70,"Allen, Tony",4.10,4.90
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,10,26,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-187,154,2,3.90,"Pondexter, Quincy",4.50,7.80
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,5,31,1,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-73,89,3,2.00,"Allen, Tony",3.40,13.30
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,1,33,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-185,30,2,3.90,"Prince, Tayshaun",3.70,4.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,3,4,53,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-90,138,8,7.30,"Pondexter, Quincy",1.40,16.80
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,2,6,08,1,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-153,-3,2,2.60,"Miles, CJ",2.70,10.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,3,11,45,1,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-13,206,0,1.10,"Stuckey, Rodney",6.10,10.60
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,6,45,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",-37,34,0,0.80,"Miles, CJ",1.60,21.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,0,59,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",40,181,7,6.40,"Hill, Solomon",2.80,17.30
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,9,31,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-40,175,0,0.80,"Karasev, Sergey",4.30,16.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,7,50,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-123,148,2,2.90,"Jack, Jarrett",4.80,14.00
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,4,5,31,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",94,145,9,10.90,"Teletovic, Mirza",4.20,2.40
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,1,5,15,1,"Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",84,6,5,4.20,"Waiters, Dion",2.40,5.70
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,3,9,58,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-188,53,1,1.50,"Roberson, Andre",5.80,11.00
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,4,2,31,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-139,200,4,4.30,"Ibaka, Serge",5.20,7.40
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,10,06,1,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",6,116,0,0.80,"Stuckey, Rodney",2.80,11.70
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,3,10,55,1,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",-35,4,0,0.20,"Gasol, Pau",4.90,24.00
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,8,41,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",162,53,9,9.40,"Gibson, Taj",3.80,7.00
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,8,07,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-105,178,7,6.10,"Hinrich, Kirk",2.00,9.90
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,11,27,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-93,167,2,2.50,"West, David",3.70,7.70
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,3,24,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-71,154,0,0.90,"Rose, Derrick",3.50,4.90
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,11,07,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-120,176,0,0.90,"Butler, Jimmy",3.50,16.00
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,10,05,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-108,173,9,7.30,"Hinrich, Kirk",3.60,13.30
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,1,23,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-209,124,1,2.00,"Gordon, Eric",3.50,18.70
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,1,8,13,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-139,137,1,2.60,"Evans, Tyreke",5.30,12.70
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,4,31,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",48,246,3,3.00,"Ajinca, Alexis",11.40,17.30
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,3,23,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-163,181,5,4.00,"Crowder, Jae",5.00,6.00
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,5,06,1,"Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",53,-3,2,4.80,"Gordon, Eric",2.30,5.80
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,6,34,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",132,153,2,2.80,"Evans, Tyreke",4.60,18.20
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,1,40,1,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",10,85,1,1.70,"Asik, Omer",3.20,22.20
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,6,36,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",7,247,1,2.00,"Hayes, Charles",4.40,9.50
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,3,15,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-158,184,12,14.60,"DeRozan, DeMar",4.40,6.70
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,5,12,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",83,238,2,3.10,"Harris, Tobias",4.70,7.10
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,0,05,1,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-155,78,13,12.80,"Stuckey, Rodney",3.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,2,2,34,0,"Jump Shot","2PT Field Goal",7,"Toronto Raptors",77,4,4,4.00,"Ross, Terrence",1.20,15.50
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,3,8,13,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",-5,48,1,3.40,"Ross, Terrence",3.70,12.90
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,8,08,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-141,80,1,4.60,"Lowry, Kyle",3.70,8.70
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,4,15,0,"Jump Shot","2PT Field Goal",8,"Toronto Raptors",89,-3,8,8.20,"Hayes, Charles",3.10,14.50
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,4,4,53,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",20,200,2,2.80,"Snell, Tony",4.60,12.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,10,29,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",-2,99,7,9.00,"Turner, Evan",1.70,8.40
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,1,5,15,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-166,-5,2,3.40,"Harris, Tobias",2.70,12.90
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,4,8,04,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",-4,148,2,4.60,"Snell, Tony",2.50,14.60
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,1,5,49,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-64,50,0,0.60,"Snell, Tony",4.10,19.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,7,16,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-141,211,1,1.70,"Smart, Marcus",2.90,5.30
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,8,03,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-202,-5,5,5.90,"Bass, Brandon",4.00,12.20
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,2,7,56,0,"Jump Shot","2PT Field Goal",22,"Orlando Magic",-161,154,6,5.10,"Fournier, Evan",2.80,2.80
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,1,2,08,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-125,127,0,1.20,"Gibson, Taj",6.50,20.80
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,1,2,53,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-133,129,2,1.80,"Snell, Tony",3.40,13.00
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,2,0,26,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",187,167,1,2.30,"Brooks, Aaron",4.60,5.00
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,2,5,57,1,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",-75,89,1,2.70,"Hinrich, Kirk",1.90,3.70
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,0,22,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-109,172,3,3.90,"Gasol, Pau",4.20,11.10
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,1,31,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-188,164,0,1.10,"Snell, Tony",6.90,2.70
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,4,1,34,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",155,201,0,1.20,"Brooks, Aaron",7.50,12.70
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,8,45,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-153,121,2,3.80,"Snell, Tony",4.50,10.80
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,7,35,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-112,156,1,1.90,"Snell, Tony",3.20,5.40
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,5,12,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-142,198,0,1.50,"Turner, Evan",5.80,19.90
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,3,9,13,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-108,242,0,1.50,"Oladipo, Victor",4.60,11.10
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,8,32,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",149,154,2,4.30,"Hill, George",4.00,6.10
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,1,5,20,1,"Jump Shot","2PT Field Goal",9,"Indiana Pacers",-54,72,2,3.80,"Miles, CJ",3.10,11.40
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,4,6,03,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",-52,9,2,2.60,"Mahinmi, Ian",3.70,13.70
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,4,10,35,1,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",-23,60,5,6.40,"Stuckey, Rodney",3.00,4.50
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,0,58,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-111,236,0,1.10,"Stuckey, Rodney",4.60,6.60
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,1,10,49,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-78,186,4,5.70,"Hibbert, Roy",5.30,13.00
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,4,9,19,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-160,118,2,6.20,"George, Paul",4.60,12.10
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,3,8,13,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",-123,12,2,3.10,"Calderon, Jose",4.10,15.30
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,3,8,37,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-185,69,5,5.70,"Galloway, Langston",3.40,18.00
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,6,18,0,"Jump Shot","2PT Field Goal",9,"Indiana Pacers",75,50,1,2.20,"Hill, Solomon",1.80,13.60
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,1,7,24,0,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",-90,53,1,3.00,"Hill, Solomon",2.10,16.00
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,11,37,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,-16,0,8.70,"Hill, Solomon",5.80,2.90
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,3,0,37,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",165,-13,2,2.50,"Stuckey, Rodney",3.00,8.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,3,8,01,1,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-92,0,2,3.90,"Ross, Terrence",3.90,1.10
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,0,00,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",189,93,5,5.40,"Mayo, O.J.",2.50,0.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,10,11,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",118,96,2,2.70,"Caldwell-Pope, Kentavious",3.60,10.80
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,2,50,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-117,102,10,9.80,"Drummond, Andre",3.50,12.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,4,33,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",234,6,0,1.00,"Smart, Marcus",5.80,7.70
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,1,11,25,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-190,157,0,1.10,"Mbah a Moute, Luc",5.30,18.50
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,5,06,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",-76,94,1,1.10,"Turner, Evan",3.50,11.00
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,3,10,16,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-90,143,4,4.10,"Mbah a Moute, Luc",4.00,13.90
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,3,0,54,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-191,74,2,2.20,"Caldwell-Pope, Kentavious",2.90,12.00
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,1,6,16,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-149,197,2,3.80,"Smith, J.R.",4.30,14.00
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,1,7,07,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",-123,53,1,1.30,"Smith, J.R.",4.10,12.20
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,2,1,38,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-29,250,0,1.20,"Ross, Terrence",4.90,10.40
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,2,7,19,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-109,225,0,1.20,"Shumpert, Iman",5.40,13.90
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,0,26,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-202,-3,0,2.00,"Jackson, Reggie",1.80,3.20
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,2,1,56,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-123,132,1,1.40,"Oladipo, Victor",5.00,15.90
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,2,0,03,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-149,132,22,20.20,"Smart, Marcus",4.80,3.40
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,9,01,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-16,175,3,2.50,"Turner, Evan",3.30,11.50
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,9,57,0,"Jump Shot","2PT Field Goal",8,"Detroit Pistons",88,17,3,3.50,"Caldwell-Pope, Kentavious",3.50,12.40
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,3,9,03,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",67,143,0,0.90,"Butler, Caron",5.60,13.80
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,1,10,04,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",59,64,6,7.20,"Gibson, Taj",2.60,16.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,7,57,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",162,6,3,2.20,"Mbah a Moute, Luc",5.70,13.30
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,4,1,53,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-114,135,13,11.70,"Anderson, Alan",4.30,12.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,1,8,34,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-191,66,2,2.90,"Korver, Kyle",2.80,19.00
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,1,09,0,"Jump Shot","2PT Field Goal",12,"Orlando Magic",72,96,9,10.90,"Oladipo, Victor",2.40,8.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,0,01,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",237,12,0,0.80,"Hayward, Gordon",5.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,6,25,0,"Jump Shot","2PT Field Goal",2,"Detroit Pistons",-16,15,1,2.00,"Jackson, Reggie",1.20,23.20
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,5,23,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-177,176,5,4.90,"Prince, Tayshaun",2.50,17.60
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,4,6,52,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-41,4,2,5.10,"Mbah a Moute, Luc",2.70,8.20
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,1,49,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-172,11,5,5.30,"Butler, Jimmy",3.60,16.80
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,3,11,00,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",65,157,5,4.60,"Afflalo, Arron",3.10,9.20
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,2,33,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",78,-3,0,0.10,"Tolliver, Anthony",0.20,5.30
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,6,01,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-157,194,3,5.50,"Anderson, Alan",2.90,4.50
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,3,5,13,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-190,-14,5,5.10,"Roberson, Andre",4.10,8.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-43,242,7,18.20,"Williams, Deron",3.20,0.90
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,2,0,54,0,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",-11,118,1,2.10,"Caldwell-Pope, Kentavious",2.60,22.10
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,1,5,35,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",116,164,4,4.80,"Stuckey, Rodney",2.60,2.40
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,3,34,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-239,-16,0,1.40,"Sims, Henry",16.00,8.70
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,3,10,57,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-191,85,7,6.40,"Noah, Joakim",5.30,16.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,3,0,44,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-75,145,3,3.20,"Watson, CJ",3.40,18.20
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,1,9,41,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",217,129,0,1.00,"Gooden, Drew",15.40,21.00
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,3,9,49,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-168,20,0,0.90,"Pondexter, Quincy",5.10,23.20
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,3,14,0,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-60,4,1,1.40,"McDaniels, KJ",1.20,12.90
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,1,11,13,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-152,217,0,1.10,"Stuckey, Rodney",6.90,6.00
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,3,56,0,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",70,118,6,4.90,"Butler, Jimmy",2.30,7.30
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,8,19,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",81,179,0,0.80,"Henderson, Gerald",5.70,11.60
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,10,19,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-142,31,0,0.40,"Parker, Jabari",2.60,14.30
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,2,5,42,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",29,160,2,3.00,"Thompson, Hollis",4.70,13.90
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,0,42,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",118,30,2,3.10,"Gibson, Taj",4.10,3.10
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,1,4,41,0,"Jump Shot","2PT Field Goal",3,"Phoenix Suns",12,31,1,1.30,"Dragic, Goran",1.80,20.80
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,4,3,06,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-163,0,13,10.00,"Westbrook, Russell",1.60,14.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,8,35,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",143,206,2,1.40,"Prince, Tayshaun",5.40,15.80
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,4,05,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",15,178,2,1.90,"Middleton, Khris",2.70,11.70
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,3,3,09,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-40,22,2,4.00,"Gobert, Rudy",2.80,7.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,0,06,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",97,78,1,1.20,"Walker, Kemba",1.60,2.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,2,42,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-182,23,11,9.50,"Hinrich, Kirk",1.20,13.90
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,5,22,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",67,142,5,6.50,"Hibbert, Roy",4.70,10.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,6,45,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",170,30,0,15.40,"Henderson, Gerald",2.40,10.60
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,3,57,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",7,124,9,8.10,"Covington, Robert",2.10,15.00
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,2,4,08,0,"Jump Shot","2PT Field Goal",8,"Toronto Raptors",-52,71,12,10.80,"Johnson, James",1.10,5.20
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,4,5,38,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",163,15,1,1.40,"Papanikolaou, Kostas",3.60,5.00
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,4,07,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",0,200,3,3.50,"Beal, Bradley",2.90,14.40
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,0,00,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-120,181,1,1.00,"Udrih, Beno",3.80,0.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,3,0,08,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-188,179,0,1.30,"Allen, Lavoy",6.20,1.30
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,4,8,44,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",4,187,1,3.00,"Middleton, Khris",3.30,7.10
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,3,10,34,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-149,110,2,6.60,"Karasev, Sergey",1.70,7.70
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,8,45,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",152,48,3,3.10,"Middleton, Khris",2.60,3.40
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,2,1,09,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",2,176,1,1.50,"Henderson, Gerald",5.00,13.70
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,2,2,11,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-158,3,1,1.70,"Hinrich, Kirk",2.40,8.20
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,0,30,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",77,45,2,3.00,"Biyombo, Bismack",4.80,17.30
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,3,5,31,0,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",-117,194,1,1.80,"Stephenson, Lance",3.80,1.70
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,1,11,35,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-138,112,4,4.70,"Mbah a Moute, Luc",3.60,18.30
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,4,17,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-73,140,0,1.50,"Gortat, Marcin",4.90,17.40
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,1,10,15,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-111,173,2,2.60,"Afflalo, Arron",3.90,15.20
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-144,198,9,7.80,"Hill, Solomon",3.40,0.00
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,2,0,02,0,"Jump Shot","3PT Field Goal",30,"Toronto Raptors",-185,241,7,7.20,"Ross, Terrence",4.80,0.00
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,4,4,03,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-169,20,2,2.40,"Butler, Jimmy",3.20,11.20
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,4,11,47,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",70,121,11,11.80,"Faried, Kenneth",4.10,12.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,2,7,26,0,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",13,107,1,1.60,"Hinrich, Kirk",4.50,9.00
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,3,5,31,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-108,138,6,4.60,"Motiejunas, Donatas",4.50,4.20
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,8,49,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",62,102,8,7.60,"Mahinmi, Ian",3.40,10.00
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,9,25,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-210,132,10,11.30,"Butler, Rasual",4.30,13.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,3,11,13,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",2,172,2,2.30,"Thompson, Hollis",5.90,13.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,1,5,39,0,"Jump Shot","2PT Field Goal",6,"Atlanta Hawks",-59,28,3,4.40,"Korver, Kyle",0.60,9.10
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-75,231,22,20.60,"Fournier, Evan",2.50,3.60
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,9,33,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-127,175,3,2.50,"Prince, Tayshaun",3.30,6.80
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,1,3,05,0,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",12,91,1,1.40,"Lopez, Brook",2.10,3.50
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,1,6,36,0,"Jump Shot","2PT Field Goal",10,"Atlanta Hawks",9,104,4,2.50,"Korver, Kyle",1.80,11.80
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,7,24,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",170,118,14,13.00,"Gibson, Taj",3.80,5.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,2,5,41,0,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",-117,11,2,1.60,"Henderson, Gerald",3.00,18.80
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,1,51,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",133,145,0,0.90,"Prince, Tayshaun",4.60,16.40
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,2,49,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-177,63,9,9.00,"Stephenson, Lance",4.50,14.90
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,4,1,49,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-198,12,11,14.60,"Hill, George",6.80,22.10
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,5,13,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",62,235,0,1.00,"Korver, Kyle",4.50,12.60
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,2,0,47,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",177,97,0,0.00,"West, David",16.70,19.10
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,1,11,24,0,"Jump Shot","2PT Field Goal",9,"Orlando Magic",91,17,1,0.70,"Vucevic, Nikola",3.20,6.90
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,8,16,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",195,-8,1,3.40,"Anderson, Alan",1.60,7.70
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,0,15,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-164,175,10,10.70,"Beal, Bradley",3.70,9.60
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,4,0,26,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",204,145,7,8.60,"Conley, Mike",4.90,15.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,1,9,21,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",94,181,0,0.80,"Korver, Kyle",1.60,8.30
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,3,11,24,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-175,22,0,1.40,"Harris, Tobias",4.80,16.00
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,3,4,21,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",-70,41,5,5.00,"Pierce, Paul",3.30,12.90
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,7,05,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-125,206,0,1.10,"Karasev, Sergey",3.70,18.30
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,4,53,0,"Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",-56,112,7,7.60,"Pekovic, Nikola",2.70,5.90
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,4,9,43,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",159,198,4,3.80,"Ariza, Trevor",3.50,16.70
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,3,9,35,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",56,254,7,6.30,"Stephenson, Lance",5.20,15.10
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,2,43,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-59,97,1,2.60,"Gordon, Eric",3.40,16.10
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,1,9,34,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-90,138,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,4,2,46,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",70,124,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,4,6,01,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-207,52,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,1,4,26,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",2,44,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,3,5,48,0,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",0,94,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,3,11,13,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-183,167,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,3,8,13,0,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-141,156,6,5.20,"Ellis, Monta",3.10,12.20
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,4,36,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-128,201,8,7.70,"Westbrook, Russell",3.80,9.70
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,1,7,31,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",176,-3,0,-0.40,"Sims, Henry",4.70,15.90
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,1,8,10,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",23,66,2,2.90,"Stephenson, Lance",1.70,10.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,2,6,08,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",171,138,2,2.50,"Anthony, Carmelo",4.00,11.60
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,4,8,23,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-48,4,4,4.80,"Butler, Rasual",2.10,13.10
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,7,46,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",184,25,2,4.40,"Hill, Solomon",4.00,5.30
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,7,06,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-150,138,0,1.50,"Pondexter, Quincy",3.30,1.90
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,3,8,20,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",4,66,5,5.70,"Hill, Solomon",0.90,16.50
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,2,2,47,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",29,44,3,3.40,"Gortat, Marcin",3.10,10.80
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,3,6,09,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-131,209,4,5.30,"McDaniels, KJ",3.90,4.90
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,4,5,40,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",13,118,2,1.30,"Pierce, Paul",4.40,18.30
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,1,4,35,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-100,126,5,4.80,"Hill, Solomon",3.30,16.30
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,2,5,41,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",92,123,2,3.20,"Wiggins, Andrew",3.20,10.70
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,1,11,03,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-239,14,0,1.10,"Miles, CJ",7.80,21.60
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,3,10,39,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-134,126,1,1.70,"Wall, John",3.40,17.00
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,4,1,37,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-190,154,2,5.00,"Butler, Jimmy",0.00,17.40
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,11,05,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-191,15,15,13.50,"Beal, Bradley",3.20,5.70
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,4,5,51,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-84,142,4,3.50,"Johnson, James",2.60,3.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,4,2,33,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-62,175,5,4.50,"Henderson, Gerald",4.70,4.80
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,3,9,52,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-71,140,1,2.30,"Temple, Garrett",3.10,14.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,3,58,0,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",-175,134,2,1.20,"Anderson, Alan",4.00,5.80
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,3,3,37,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",102,142,0,1.00,"Sefolosha, Thabo",5.10,10.20
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,4,1,40,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-147,126,2,1.90,"Carter-Williams, Michael",3.00,10.50
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,3,7,12,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-122,175,7,6.60,"Mbah a Moute, Luc",7.90,17.30
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,1,0,38,0,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",20,25,9,9.20,"Gasol, Marc",6.20,10.30
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,4,5,31,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-158,126,3,7.90,"Mbah a Moute, Luc",4.10,2.00
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,1,05,0,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",138,-14,8,7.20,"Bayless, Jerryd",2.30,15.70
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,2,32,0,"Jump Shot","2PT Field Goal",9,"New York Knicks",-92,11,3,3.50,"Hardaway Jr., Tim",3.70,6.70
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,0,03,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",28,247,19,16.00,"Carter-Williams, Michael",3.10,0.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,10,07,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",-133,17,2,4.80,"Miles, CJ",3.10,10.10
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,11,15,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-174,37,1,3.20,"Karasev, Sergey",4.10,15.20
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,11,05,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-149,86,3,2.40,"Mayo, O.J.",4.20,15.50
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,4,4,19,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-142,75,12,10.70,"Knight, Brandon",2.40,13.30
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,4,5,51,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-81,142,6,7.20,"Waiters, Dion",5.00,15.20
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,1,05,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-146,197,1,1.70,"Korver, Kyle",3.60,12.40
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,1,8,51,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",-161,-2,0,0.20,"Ariza, Trevor",5.30,19.10
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,3,9,28,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",122,151,0,0.90,"Hill, Solomon",3.40,15.30
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,1,9,35,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-122,165,2,2.70,"Ellis, Monta",3.70,11.10
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,4,0,47,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-120,146,14,12.90,"Wiggins, Andrew",4.20,7.80
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,1,11,04,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-187,154,3,3.70,"Evans, Tyreke",3.70,7.60
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,2,3,15,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",64,149,8,7.00,"Henderson, Gerald",2.50,13.70
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,1,7,48,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-114,216,0,2.90,"Anthony, Carmelo",5.50,19.20
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,1,10,01,0,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",62,105,6,5.20,"Miles, CJ",2.20,2.80
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,2,7,51,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-172,42,17,16.10,"Arthur, Darrell",3.20,6.80
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,1,3,50,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-199,-8,2,3.40,"Allen, Tony",2.60,7.60
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,5,3,26,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",2,206,0,0.00,"Green, Willie",8.30,24.00
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,5,0,29,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",17,268,7,7.40,"Oladipo, Victor",4.50,6.50
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,1,37,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",154,11,0,0.80,"Waiters, Dion",3.70,11.60
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,1,5,42,0,"Jump Shot","2PT Field Goal",8,"New York Knicks",45,74,2,1.90,"Aldrich, Cole",3.00,15.50
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,1,10,26,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-60,7,3,3.30,"Galloway, Langston",0.20,19.50
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,3,8,24,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-98,89,7,6.10,"Barnes, Matt",4.30,18.30
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,4,10,56,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-59,192,6,7.70,"Redick, JJ",4.30,15.80
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,4,0,00,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",78,260,1,1.90,"Prince, Tayshaun",4.40,0.00
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,4,3,57,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",94,230,4,3.10,"Griffin, Blake",4.10,1.30
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,6,26,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-70,173,1,1.60,"Green, Willie",4.50,15.90
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,2,0,53,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",64,129,1,2.40,"Hawes, Spencer",2.60,11.70
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,4,0,10,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",56,183,21,18.50,"Prince, Tayshaun",3.90,5.50
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,1,8,33,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-174,15,2,3.20,"Redick, JJ",3.30,10.10
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,3,5,02,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",32,112,7,7.40,"Redick, JJ",2.80,14.60
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,3,11,15,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-100,220,0,1.10,"Paul, Chris",7.20,16.70
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,3,7,55,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",21,41,0,1.20,"Griffin, Blake",3.00,13.10
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,6,43,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",37,175,5,4.60,"Caldwell-Pope, Kentavious",3.50,12.40
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,1,28,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-161,105,11,9.50,"Caldwell-Pope, Kentavious",3.20,14.40
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-175,178,3,4.10,"Mbah a Moute, Luc",3.90,0.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,6,42,0,"Jump Shot","2PT Field Goal",8,"Brooklyn Nets",81,23,0,0.00,"Brown, Markel",2.60,7.00
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,4,5,41,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-207,140,2,3.00,"Diaw, Boris",3.10,18.90
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,1,10,49,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-67,238,0,1.90,"Leonard, Kawhi",5.00,9.40
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,4,3,34,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-59,53,4,6.80,"Joseph, Cory",2.10,24.00
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,3,4,54,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",72,129,7,6.80,"Duncan, Tim",3.50,15.80
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,1,5,56,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",2,260,2,3.10,"Leonard, Kawhi",3.70,1.60
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,1,36,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-191,47,1,2.50,"Leonard, Kawhi",3.60,10.20
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,3,6,53,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",62,4,7,4.90,"Leonard, Kawhi",2.20,8.40
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,4,10,17,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-87,140,0,0.90,"Leonard, Kawhi",3.70,15.80
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,4,9,39,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-64,47,2,3.90,"Green, Danny",2.20,8.20
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,3,7,57,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-226,20,0,1.10,"Millsap, Paul",0.20,14.10
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,3,10,27,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-142,195,0,1.00,"Korver, Kyle",4.40,2.50
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,11,46,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",-51,19,1,2.00,"Caldwell-Pope, Kentavious",3.30,12.70
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,3,20,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",157,63,1,1.80,"Aldridge, LaMarcus",3.90,5.00
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,6,08,1,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",73,6,1,1.40,"Blake, Steve",1.70,17.00
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,3,5,56,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-84,145,0,0.90,"Lillard, Damian",3.20,10.80
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,4,08,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",0,132,7,6.30,"Adams, Steven",4.00,10.60
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,5,23,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-90,164,4,7.50,"Green, Gerald",2.20,4.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,5,46,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-142,151,4,3.90,"Tucker, PJ",3.50,4.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,4,57,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",127,160,12,11.30,"Bledsoe, Eric",4.00,9.40
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,4,03,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-64,189,6,5.90,"Tucker, PJ",3.70,18.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,2,12,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",99,137,1,2.20,"Morris, Marcus",8.90,13.70
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,0,59,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-157,126,1,1.60,"Bledsoe, Eric",3.40,1.80
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,7,04,0,"Jump Shot","2PT Field Goal",9,"Phoenix Suns",-26,88,7,7.50,"Bledsoe, Eric",2.40,10.30
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,1,10,13,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",65,26,1,2.20,"Morris, Markieff",2.20,5.00
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,3,9,31,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-177,176,0,0.90,"Bledsoe, Eric",3.90,3.40
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,4,4,01,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",21,137,9,8.10,"Knight, Brandon",4.80,14.80
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,2,2,10,1,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",81,3,0,1.00,"Jenkins, John",2.50,9.80
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,3,4,53,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-71,235,3,3.80,"Jenkins, John",4.70,6.90
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,3,5,42,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-179,56,1,1.40,"Hayward, Gordon",5.10,11.70
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,8,13,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",171,72,1,2.60,"Brown, Markel",3.00,1.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,6,24,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-106,178,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,2,02,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",7,190,8,9.90,"Johnson, Joe",3.70,13.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,4,3,23,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-68,127,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,3,7,00,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-144,198,1,1.10,"Korver, Kyle",3.30,10.20
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,5,17,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-198,11,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,4,9,04,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-201,39,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,6,30,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-226,42,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,7,54,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",182,-2,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,6,37,1,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-51,56,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,5,22,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",207,146,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,1,47,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-234,25,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,0,00,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-57,241,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,4,5,15,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-68,102,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,5,53,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-168,175,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,3,10,18,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-179,67,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,5,27,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-155,134,3,5.10,"Caldwell-Pope, Kentavious",3.10,13.10
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,4,6,01,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",-18,104,2,2.90,"Caldwell-Pope, Kentavious",4.30,6.40
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,0,35,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-153,126,22,17.20,"Caldwell-Pope, Kentavious",6.00,5.00
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,8,43,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-93,19,3,5.00,"Jackson, Reggie",2.30,7.80
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,4,4,28,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",106,244,0,1.00,"Caldwell-Pope, Kentavious",4.50,6.00
+"Dwyane Wade","Miami Heat",2015-01-13,2014,1987,1610612748,400578865,2,9,49,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",-106,183,9,10.10,"Kelly, Ryan",5.10,13.90
+"Dwyane Wade","Miami Heat",2015-01-13,2014,1987,1610612748,400578865,1,4,05,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-158,116,1,2.70,"Black, Tarik",6.80,10.30
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,5,39,1,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-133,44,1,0.50,"Plumlee, Mason",4.50,1.70
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,10,35,0,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",84,142,4,3.40,"Brown, Markel",2.30,5.40
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,4,48,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",89,168,17,16.20,"Johnson, Joe",3.20,7.40
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,6,33,0,"Jump Shot","2PT Field Goal",12,"Brooklyn Nets",-75,101,3,3.30,"Brown, Markel",3.00,12.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,1,4,30,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-190,164,1,2.70,"Bogdanovic, Bojan",2.40,2.80
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,4,8,00,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-138,195,3,3.60,"Gobert, Rudy",4.60,5.30
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,3,5,11,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-160,12,9,8.60,"Hayward, Gordon",4.20,15.10
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,3,6,21,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",168,11,1,1.40,"Gobert, Rudy",4.80,22.60
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,1,4,47,1,"Jump Shot","2PT Field Goal",12,"Utah Jazz",0,121,2,2.00,"Kanter, Enes",4.60,19.30
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,4,9,52,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",58,181,1,1.60,"Burks, Alec",3.90,12.60
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,4,8,47,0,"Jump Shot","2PT Field Goal",9,"Utah Jazz",9,96,13,12.80,"Gobert, Rudy",1.30,10.70
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,4,6,11,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-196,0,1,1.30,"Kanter, Enes",3.90,6.70
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,1,6,37,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-120,148,1,1.50,"Burks, Alec",6.70,12.30
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,2,6,03,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-114,42,5,4.00,"Barton, Will",2.30,14.10
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,3,4,27,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-202,-2,1,1.40,"Chandler, Wilson",3.80,14.70
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,3,5,22,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-174,94,2,2.20,"Chandler, Wilson",5.20,2.80
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,3,10,22,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-103,140,10,12.30,"Foye, Randy",2.30,4.40
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,2,0,12,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-235,15,0,0.70,"Miller, Andre",5.70,7.00
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,3,9,02,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-179,93,3,3.40,"Cousins, DeMarcus",5.50,8.30
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,1,8,56,1,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-60,15,2,3.50,"McLemore, Ben",2.10,12.10
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,4,4,38,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-224,118,0,1.10,"McLemore, Ben",10.40,11.00
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,4,0,48,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",165,89,1,1.40,"Gay, Rudy",2.80,6.20
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,3,8,43,1,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",135,-6,2,2.00,"Ilyasova, Ersan",2.90,6.40
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,0,58,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-98,123,6,5.00,"Middleton, Khris",3.40,7.90
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,1,6,25,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-187,187,1,1.80,"Middleton, Khris",4.70,18.40
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,0,00,0,"Jump Shot","3PT Field Goal",70,"Milwaukee Bucks",-5,706,0,0.60,"Pachulia, Zaza",14.50,0.00
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,0,29,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-116,110,21,16.10,"Middleton, Khris",4.80,7.80
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,4,41,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-161,126,2,2.80,"Middleton, Khris",3.90,11.20
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,5,22,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-177,183,1,2.10,"Middleton, Khris",2.40,8.10
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,7,55,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-196,-10,5,4.20,"Bayless, Jerryd",4.40,11.50
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,3,30,0,"Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",69,69,14,15.60,"Pachulia, Zaza",3.40,9.00
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,7,16,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",151,-19,2,2.20,"Antetokounmpo, Giannis",2.70,2.20
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,1,5,21,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-226,-11,0,1.30,"Korver, Kyle",4.70,17.10
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,1,9,42,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,12,0,1.40,"Korver, Kyle",3.40,9.80
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,1,50,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-95,228,2,2.90,"Batum, Nicolas",5.00,7.70
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,3,10,43,1,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-71,56,1,1.30,"Afflalo, Arron",2.30,14.20
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,0,41,1,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-19,115,8,8.60,"Batum, Nicolas",3.20,15.30
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,3,8,45,1,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",61,3,0,0.60,"Afflalo, Arron",2.80,16.80
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,2,4,08,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-187,-3,2,3.70,"Kelly, Ryan",4.30,5.00
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,3,5,47,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",182,80,1,1.50,"Ellington, Wayne",4.10,14.10
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,4,1,29,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",62,97,5,4.90,"Johnson, Wesley",3.40,10.60
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,4,5,32,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-131,88,5,4.50,"Ellington, Wayne",3.10,13.70
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,3,6,38,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-78,131,6,6.60,"Lopez, Robin",3.70,2.70
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,1,33,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",189,-2,4,4.10,"Smith, J.R.",2.90,5.80
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,4,4,22,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-62,-2,4,4.60,"Perkins, Kendrick",3.10,16.50
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,0,00,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",121,230,12,11.70,"Cole, Norris",4.90,0.00
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,2,2,55,1,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",-49,91,2,3.60,"Pondexter, Quincy",0.50,15.30
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,7,12,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",37,28,0,0.80,"Ajinca, Alexis",2.10,12.40
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,2,0,00,0,"Jump Shot","3PT Field Goal",30,"New Orleans Pelicans",187,239,2,2.30,"Cunningham, Dante",1.40,0.00
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,2,3,43,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-71,195,3,2.60,"Pondexter, Quincy",3.70,13.70
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,7,06,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",230,26,0,1.10,"Babbitt, Luke",5.60,8.40
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,3,9,06,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-201,30,1,2.10,"Evans, Tyreke",3.10,9.50
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,3,09,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",92,138,1,0.80,"Pondexter, Quincy",1.40,7.40
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,1,34,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-122,137,11,11.90,"Pondexter, Quincy",4.00,11.60
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,1,9,44,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-190,14,4,4.20,"Evans, Tyreke",2.80,11.10
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,2,2,34,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-130,85,4,3.60,"Oladipo, Victor",3.20,17.20
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,3,4,35,1,"Jump Shot","2PT Field Goal",6,"Orlando Magic",-56,23,0,0.60,"Oladipo, Victor",2.60,10.00
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,5,45,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-172,108,0,0.70,"Oladipo, Victor",3.80,9.80
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,8,19,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",88,160,12,10.60,"Oladipo, Victor",5.40,12.90
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,3,34,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-120,149,8,7.70,"Oladipo, Victor",3.60,5.40
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,3,8,22,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-202,140,8,7.60,"Payton, Elfrid",6.40,16.70
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,1,6,41,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",56,160,5,4.40,"Gordon, Aaron",3.40,9.00
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,2,12,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-212,142,25,22.60,"Harkless, Maurice",3.90,2.00
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,8,35,0,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",84,124,8,5.50,"Stuckey, Rodney",1.70,15.10
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,4,10,37,1,"Jump Shot","2PT Field Goal",5,"Charlotte Hornets",-2,52,3,5.50,"Stephenson, Lance",2.40,3.30
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,1,11,47,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",15,178,3,4.10,"Henderson, Gerald",5.40,16.20
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,1,11,13,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",31,7,1,1.10,"Biyombo, Bismack",5.30,13.40
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,1,5,40,1,"Jump Shot","2PT Field Goal",5,"Charlotte Hornets",2,56,1,3.80,"Biyombo, Bismack",3.20,15.40
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,2,8,37,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-73,101,1,2.80,"Stephenson, Lance",3.50,9.70
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,3,7,27,1,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",4,99,6,7.80,"Henderson, Gerald",3.80,14.60
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,3,4,02,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",181,50,2,5.20,"Papanikolaou, Kostas",0.20,12.50
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,3,10,37,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",12,12,0,1.00,"Gordon, Eric",3.60,19.80
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,3,9,25,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",13,4,0,0.60,"Smith, Jason",3.30,22.30
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,5,33,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,4,7,6.40,"Blake, Steve",3.00,15.50
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,4,0,09,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",-8,3,5,4.60,"Lowry, Kyle",1.90,0.00
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,6,57,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",13,-5,0,0.90,"Matthews, Wesley",4.00,21.10
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,3,1,40,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-15,1,0,0.40,"Leonard, Meyers",4.80,21.50
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,1,10,44,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",0,15,3,3.00,"Roberson, Andre",1.40,21.60
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,1,5,28,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-8,9,0,1.30,"West, David",1.40,16.30
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,4,05,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",21,9,0,1.70,"Stoudemire, Amare",6.10,24.00
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,4,8,37,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,7,0,0.70,"Durant, Kevin",2.80,19.80
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,0,53,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-10,3,0,1.30,"Westbrook, Russell",1.80,13.40
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,4,1,54,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",10,12,1,1.60,"Brand, Elton",1.50,22.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,3,5,02,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",18,11,0,0.00,"Garnett, Kevin",4.90,17.80
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,2,6,10,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",10,17,0,0.90,"Korver, Kyle",4.50,20.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,3,4,33,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",7,3,0,0.70,"Hardaway Jr., Tim",2.90,17.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,3,10,23,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",-7,6,0,1.10,"Anthony, Carmelo",5.70,6.40
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,2,2,59,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-21,6,5,5.90,"Miles, CJ",2.40,8.50
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,1,6,21,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,-2,0,0.90,"Ellington, Wayne",4.20,17.70
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,8,08,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,-2,0,0.70,"Hill, Solomon",1.70,17.30
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,11,20,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",17,1,0,0.80,"Scola, Luis",3.10,21.00
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,1,3,39,0,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",2,-6,1,1.80,"Roberts, Brian",2.00,13.60
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,3,5,16,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-23,6,1,1.20,"McDaniels, KJ",3.70,15.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,3,4,13,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,6,1,2.20,"Lee, Courtney",7.30,20.00
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,3,5,54,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",23,1,0,0.70,"Oladipo, Victor",2.60,16.40
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,4,1,30,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-8,7,0,1.70,"Wright, Brandan",2.40,15.20
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,2,4,17,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,7,0,0.80,"Wright, Brandan",6.40,2.00
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,2,56,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",10,6,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,1,9,22,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,11,0,1.20,"Thompson, Hollis",1.10,20.70
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,2,2,19,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",6,15,5,4.80,"West, David",4.00,8.70
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,5,14,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",6,-3,0,2.40,"Caldwell-Pope, Kentavious",3.70,13.60
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,1,5,04,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-18,0,0,0.70,"Johnson, Chris",2.10,12.90
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,11,02,1,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",23,4,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,6,28,0,"Layup Shot","2PT Field Goal",3,"Detroit Pistons",2,30,0,0.90,"Jackson, Reggie",1.40,24.00
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,2,7,26,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,9,0,1.70,"Jackson, Reggie",2.10,23.30
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,1,11,02,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",0,11,3,3.60,"Martin, Kevin",1.70,5.40
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,3,8,00,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",9,11,0,1.70,"Wiggins, Andrew",4.00,8.20
+"Dwyane Wade","Miami Heat",2015-01-13,2014,1987,1610612748,400578865,2,10,16,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-21,4,2,4.60,"Young, Nick",1.50,11.00
+"Dwyane Wade","Miami Heat",2015-01-13,2014,1987,1610612748,400578865,2,8,26,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-11,0,0,2.30,"Boozer, Carlos",1.10,17.90
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,2,1,11,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,4,0,1.10,"LaVine, Zach",0.10,20.80
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,1,8,02,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",26,7,4,5.90,"Afflalo, Arron",1.90,8.50
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,2,7,23,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-13,12,10,9.50,"Maxiell, Jason",1.40,15.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,7,18,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,6,0,1.10,"Bogdanovic, Bojan",4.20,20.30
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,1,10,14,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,7,2,4.80,"Martin, Kevin",0.70,11.60
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,1,6,11,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-24,6,0,1.00,"Young, Thaddeus",3.40,13.00
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,4,31,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",6,28,1,1.60,"Dragic, Goran",1.90,10.40
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,3,52,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",12,9,1,0.60,"Drummond, Andre",5.40,24.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,7,09,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",4,17,5,5.20,"Walker, Kemba",1.70,20.20
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,2,0,05,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",7,28,0,0.40,"Lawson, Ty",3.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,2,6,08,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",6,12,1,1.80,"Williams, Marvin",3.80,20.50
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,4,5,42,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,9,0,0.70,"Foye, Randy",1.90,21.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,3,5,57,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,12,1,2.70,"Jefferson, Al",1.70,12.20
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,4,0,35,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-24,9,0,0.00,"Bledsoe, Eric",3.00,22.50
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,1,6,30,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",0,12,0,1.30,"Davis, Anthony",1.60,7.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,0,27,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-18,15,1,3.00,"Sefolosha, Thabo",3.20,10.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,10,09,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",0,1,1,1.90,"Turner, Evan",0.80,12.80
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,11,39,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",12,3,0,0.90,"Copeland, Chris",2.70,20.80
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,5,2,25,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-6,9,0,1.90,"Green, Willie",0.00,19.20
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,1,2,38,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,6,0,0.60,"Faried, Kenneth",3.90,13.40
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,3,3,59,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",2,9,0,1.00,"Johnson, Chris",14.80,7.50
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,1,5,26,0,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",1,6,2,5.40,"Foye, Randy",2.40,12.00
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,3,11,03,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",17,0,0,0.80,"Carroll, DeMarre",3.80,12.40
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,3,11,45,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",4,1,2,6.50,"Antetokounmpo, Giannis",4.40,14.20
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,1,11,29,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-29,4,0,1.80,"Plumlee, Miles",3.10,12.10
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,4,3,41,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-4,22,0,3.70,"Wroten, Tony",4.40,12.00
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,1,7,39,0,"Layup Shot","2PT Field Goal",0,"Orlando Magic",0,4,2,3.10,"Oladipo, Victor",1.90,5.00
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,2,10,36,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-24,4,5,8.00,"Mahinmi, Ian",1.60,10.30
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,2,1,27,1,"Layup Shot","2PT Field Goal",0,"New York Knicks",7,0,0,0.80,"Hardaway Jr., Tim",2.70,19.10
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,1,31,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,3,1,1.60,"Antetokounmpo, Giannis",1.80,6.70
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,4,4,38,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",21,12,0,1.40,"Wroten, Tony",3.80,17.80
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,2,3,20,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,4,1,1.20,"Middleton, Khris",2.40,16.30
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,4,1,03,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,6,0,0.00,"Bayless, Jerryd",0.30,8.00
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,2,3,27,1,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",6,3,0,0.70,"Mbah a Moute, Luc",2.20,20.80
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,2,10,52,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-10,7,0,0.30,"Farmar, Jordan",1.90,15.20
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,4,11,24,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",9,7,6,6.90,"Jefferson, Al",3.70,5.20
+"Dwyane Wade","Miami Heat",2015-03-24,2014,1987,1610612748,400579347,2,7,37,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",18,-13,11,9.80,"Antetokounmpo, Giannis",2.80,14.40
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,1,6,32,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",23,6,0,1.20,"Gordon, Aaron",1.80,18.20
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,0,21,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,-5,1,1.50,"Conley, Mike",7.00,7.30
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,4,5,08,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",6,15,1,2.20,"Evans, Tyreke",2.80,19.50
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,1,46,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-5,12,0,0.90,"Allen, Tony",1.40,9.20
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,2,0,26,0,"Pullup Bank shot","2PT Field Goal",15,"Houston Rockets",146,61,1,1.50,"Harden, James",2.70,11.30
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,1,5,03,0,"Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",165,56,4,5.10,"Thompson, Jason",5.50,19.80
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,2,3,56,1,"Pullup Jump shot","2PT Field Goal",20,"Indiana Pacers",-108,178,2,3.40,"Hill, George",4.70,19.80
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,5,2,59,1,"Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",-103,140,9,7.80,"Cousins, DeMarcus",3.80,7.90
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,7,06,1,"Pullup Jump shot","2PT Field Goal",11,"San Antonio Spurs",-71,93,3,5.10,"Bonner, Matt",3.90,8.50
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,8,44,1,"Pullup Jump shot","2PT Field Goal",19,"New York Knicks",-149,121,3,3.60,"Hardaway Jr., Tim",4.30,17.50
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,1,10,51,1,"Pullup Jump shot","2PT Field Goal",14,"Philadelphia 76ers",-15,149,6,3.50,"Mbah a Moute, Luc",2.30,9.60
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,3,9,12,0,"Pullup Jump shot","2PT Field Goal",14,"Toronto Raptors",0,145,5,5.00,"Ross, Terrence",3.40,5.60
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,1,10,46,0,"Pullup Jump shot","2PT Field Goal",10,"Los Angeles Clippers",-97,34,2,2.00,"Griffin, Blake",4.50,19.50
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,4,19,1,"Pullup Jump shot","2PT Field Goal",18,"Utah Jazz",-117,138,2,2.40,"Hayward, Gordon",3.30,15.30
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,4,2,26,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-146,71,13,11.80,"Batum, Nicolas",3.90,13.00
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,1,9,29,1,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",1,194,2,2.50,"Beal, Bradley",4.00,5.60
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,2,6,52,1,"Pullup Jump shot","2PT Field Goal",13,"Washington Wizards",-136,7,4,5.80,"Gooden, Drew",4.70,5.70
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,2,5,39,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-101,129,1,3.40,"Harden, James",5.60,12.60
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,2,05,0,"Pullup Jump shot","2PT Field Goal",12,"San Antonio Spurs",42,123,11,9.00,"Leonard, Kawhi",2.20,16.20
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,4,3,44,1,"Pullup Jump shot","2PT Field Goal",6,"Brooklyn Nets",-45,41,7,8.30,"Lopez, Brook",3.20,15.00
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,2,5,17,0,"Pullup Jump shot","2PT Field Goal",20,"Atlanta Hawks",-76,190,1,1.50,"Sefolosha, Thabo",4.80,13.00
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,9,13,1,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",-196,-6,2,3.30,"Wallace, Gerald",3.70,16.10
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,3,7,11,1,"Pullup Jump shot","2PT Field Goal",11,"Denver Nuggets",-81,88,3,3.50,"Foye, Randy",3.60,8.70
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,3,8,25,1,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-79,137,5,5.60,"Millsap, Paul",3.90,18.60
+"Dwyane Wade","Miami Heat",2015-02-27,2014,1987,1610612748,400579157,3,11,40,0,"Pullup Jump shot","2PT Field Goal",18,"New Orleans Pelicans",-130,127,4,4.40,"Evans, Tyreke",3.50,6.60
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,1,5,58,1,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",-73,173,8,6.50,"Smith, J.R.",4.40,17.50
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,3,7,53,1,"Pullup Jump shot","2PT Field Goal",19,"Detroit Pistons",-139,143,11,9.10,"Caldwell-Pope, Kentavious",4.00,13.10
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,2,1,12,1,"Pullup Jump shot","2PT Field Goal",6,"Washington Wizards",53,30,3,3.80,"Temple, Garrett",2.50,7.90
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,0,07,0,"Pullup Jump shot","2PT Field Goal",13,"Portland Trail Blazers",-23,132,11,11.00,"Leonard, Meyers",4.30,5.40
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,4,2,31,1,"Pullup Jump shot","2PT Field Goal",12,"Atlanta Hawks",-62,107,2,2.40,"Korver, Kyle",3.90,17.60
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,4,2,36,1,"Pullup Jump shot","2PT Field Goal",14,"Chicago Bulls",0,146,4,3.40,"Snell, Tony",3.50,14.30
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,4,3,10,1,"Pullup Jump shot","2PT Field Goal",15,"New Orleans Pelicans",-87,131,2,4.30,"Evans, Tyreke",3.50,12.80
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,4,3,47,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-4,151,0,1.30,"Westbrook, Russell",3.20,9.30
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,3,9,11,0,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",-116,132,10,9.10,"Clarkson, Jordan",4.40,14.40
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,10,53,0,"Pullup Jump shot","2PT Field Goal",12,"Portland Trail Blazers",-114,61,2,2.80,"Matthews, Wesley",2.50,15.00
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,1,7,14,0,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",-82,172,7,8.90,"Pierce, Paul",4.90,15.20
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,2,1,31,0,"Pullup Jump shot","2PT Field Goal",19,"Sacramento Kings",-114,154,5,5.20,"Miller, Andre",4.60,17.70
+"Dwyane Wade","Miami Heat",2015-01-23,2014,1987,1610612748,400578936,3,6,58,0,"Pullup Jump shot","2PT Field Goal",8,"Indiana Pacers",12,83,3,3.70,"Stuckey, Rodney",0.40,10.60
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,4,7,20,0,"Pullup Jump shot","2PT Field Goal",18,"Utah Jazz",-112,151,7,9.50,"Burks, Alec",4.60,14.60
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,3,8,32,0,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",-45,200,6,5.70,"Ross, Terrence",5.00,15.80
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,1,6,11,1,"Pullup Jump shot","2PT Field Goal",23,"Oklahoma City Thunder",-122,201,3,3.70,"Morrow, Anthony",4.80,17.10
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,4,2,25,1,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",84,164,8,7.80,"DeRozan, DeMar",3.70,14.80
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,4,7,30,1,"Pullup Jump shot","2PT Field Goal",11,"Washington Wizards",-62,99,9,9.30,"Butler, Rasual",2.20,13.90
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,3,6,24,1,"Pullup Jump shot","2PT Field Goal",13,"Washington Wizards",-62,123,9,7.10,"Beal, Bradley",3.60,14.60
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,1,2,30,1,"Putback Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,1,10,34,1,"Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",6,0,0,1.10,"Jones, James",2.60,20.60
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,3,5,25,1,"Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,7,1,1.40,"Motiejunas, Donatas",2.20,20.10
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,9,31,0,"Reverse Layup Shot","2PT Field Goal",3,"Brooklyn Nets",39,3,2,3.40,"Plumlee, Mason",2.00,3.50
+"Dwyane Wade","Miami Heat",2015-01-04,2014,1987,1610612748,400578797,1,5,25,1,"Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",12,3,0,5.60,"Johnson, Joe",3.80,5.10
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,1,5,25,1,"Reverse Layup Shot","2PT Field Goal",2,"Utah Jazz",21,-2,0,0.60,"Burks, Alec",2.80,17.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,0,58,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",18,1,1,2.10,"Irving, Kyrie",1.90,19.20
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,1,10,12,0,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",10,14,0,0.50,"Vucevic, Nikola",2.80,9.40
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,2,6,05,1,"Reverse Layup Shot","2PT Field Goal",0,"Utah Jazz",7,6,1,1.40,"Burke, Trey",3.80,14.70
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,1,10,10,1,"Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",2,3,0,2.00,"Parker, Jabari",2.70,22.50
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,2,4,18,1,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",2,11,2,2.30,"Vucevic, Nikola",3.70,18.40
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,3,9,15,0,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",18,6,2,1.50,"Harris, Tobias",0.80,15.80
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,2,6,32,1,"Reverse Layup Shot","2PT Field Goal",0,"New York Knicks",9,1,1,2.00,"Amundson, Lou",3.20,18.40
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,2,0,47,1,"Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",6,7,5,5.50,"Patterson, Patrick",4.00,12.70
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,1,9,28,1,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-19,1,6,5.90,"Snell, Tony",1.00,16.00
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,9,16,1,"Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",13,-3,0,1.00,"Batum, Nicolas",3.10,11.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,3,00,1,"Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",13,6,0,0.40,"Lopez, Brook",3.90,8.50
+"Dwyane Wade","Miami Heat",2014-12-03,2014,1987,1610612748,400578559,2,6,40,1,"Reverse Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-30,6,0,0.40,"Korver, Kyle",2.20,6.10
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,5,11,1,"Running Bank shot","2PT Field Goal",11,"Brooklyn Nets",111,37,1,2.50,"Plumlee, Mason",4.30,15.20
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,1,6,53,1,"Running Bank shot","2PT Field Goal",15,"Charlotte Hornets",-130,86,0,0.30,"Henderson, Gerald",3.50,2.80
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,1,5,07,1,"Running Bank shot","2PT Field Goal",10,"Chicago Bulls",21,101,1,2.50,"Gasol, Pau",3.20,4.70
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,4,6,22,1,"Running Bank shot","2PT Field Goal",5,"Denver Nuggets",51,30,8,9.30,"Gee, Alonzo",3.80,16.20
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,1,5,21,1,"Running Bank shot","2PT Field Goal",4,"Denver Nuggets",34,23,1,1.70,"Chandler, Wilson",3.20,15.00
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,1,7,11,1,"Running Bank shot","2PT Field Goal",13,"Indiana Pacers",133,7,1,1.40,"Stuckey, Rodney",2.20,13.40
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,4,47,1,"Running Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.90,"Jones, James",3.00,20.90
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,2,6,14,1,"Running Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.00,"Wallace, Gerald",5.90,22.60
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,8,28,1,"Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,1.00,"Burks, Alec",3.80,20.90
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,1,10,03,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,2,2.70,"Clarkson, Jordan",39.30,22.20
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,2,9,10,1,"Running Hook Shot","2PT Field Goal",5,"Denver Nuggets",39,44,14,12.60,"Harris, Gary",2.40,8.70
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,6,42,1,"Running Hook Shot","2PT Field Goal",7,"Orlando Magic",15,71,3,3.20,"Frye, Channing",1.60,6.70
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,1,8,40,0,"Running Hook Shot","2PT Field Goal",4,"Chicago Bulls",32,30,4,4.60,"Gasol, Pau",0.80,12.10
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,3,5,40,1,"Running Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",17,116,2,3.70,"Dieng, Gorgui",3.80,4.80
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,4,8,10,1,"Running Jump Shot","2PT Field Goal",6,"Indiana Pacers",53,39,1,2.00,"Mahinmi, Ian",4.50,9.70
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,2,5,24,1,"Running Jump Shot","2PT Field Goal",7,"Utah Jazz",-16,78,4,3.30,"Burke, Trey",2.20,20.00
+"Dwyane Wade","Miami Heat",2014-11-08,2014,1987,1610612748,400578377,3,9,25,1,"Running Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",-86,15,1,1.40,"Pekovic, Nikola",2.40,11.60
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,3,56,0,"Running Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",-95,44,9,8.70,"Westbrook, Russell",2.40,13.50
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,3,4,05,0,"Running Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-4,107,8,7.70,"Leonard, Meyers",3.90,7.90
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,3,6,44,1,"Running Jump Shot","2PT Field Goal",4,"Washington Wizards",-40,19,6,5.70,"Beal, Bradley",2.00,19.20
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,2,11,32,0,"Running Jump Shot","2PT Field Goal",16,"Chicago Bulls",-35,165,5,6.20,"Mirotic, Nikola",4.90,17.10
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,4,9,25,0,"Running Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",77,60,2,2.80,"Kaman, Chris",2.30,12.50
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,6,38,1,"Running Jump Shot","2PT Field Goal",6,"Phoenix Suns",43,47,2,2.60,"Plumlee, Miles",1.80,18.20
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,2,3,16,0,"Running Jump Shot","2PT Field Goal",4,"Atlanta Hawks",-10,42,3,3.20,"Schroder, Dennis",1.30,20.20
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,3,9,36,0,"Running Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-60,116,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,2,0,16,1,"Running Jump Shot","2PT Field Goal",6,"Utah Jazz",0,69,13,12.80,"Novak, Steve",1.80,8.20
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,8,49,0,"Running Jump Shot","2PT Field Goal",8,"Chicago Bulls",47,72,2,3.00,"Rose, Derrick",3.30,13.90
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,1,22,1,"Running Jump Shot","2PT Field Goal",11,"Indiana Pacers",6,115,7,5.40,"West, David",3.10,17.90
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,3,6,19,0,"Running Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-35,52,2,2.80,"Westbrook, Russell",3.70,9.80
+"Dwyane Wade","Miami Heat",2015-01-27,2014,1987,1610612748,400578969,2,4,34,0,"Running Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",56,63,6,5.10,"Mayo, O.J.",2.40,19.20
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,2,0,25,0,"Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",-15,1,11,12.20,"Butler, Jimmy",1.50,9.30
+"Dwyane Wade","Miami Heat",2014-12-19,2014,1987,1610612748,400578680,2,9,46,1,"Running Layup Shot","2PT Field Goal",0,"Washington Wizards",-5,0,1,2.40,"Butler, Rasual",2.60,19.90
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,1,7,42,1,"Running Layup Shot","2PT Field Goal",2,"Chicago Bulls",18,11,2,2.20,"Rose, Derrick",3.30,20.90
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,6,24,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Detroit Pistons",23,6,4,4.80,"Drummond, Andre",3.40,7.40
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,4,3,49,1,"Step Back Jump shot","2PT Field Goal",11,"Philadelphia 76ers",-90,72,3,3.10,"McDaniels, KJ",3.00,17.30
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,4,32,1,"Step Back Jump shot","2PT Field Goal",16,"San Antonio Spurs",-146,66,4,4.10,"Leonard, Kawhi",5.00,9.70
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,2,51,0,"Step Back Jump shot","2PT Field Goal",17,"Memphis Grizzlies",163,72,1,2.70,"Udrih, Beno",4.00,14.50
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,3,3,25,1,"Step Back Jump shot","2PT Field Goal",17,"Memphis Grizzlies",113,137,11,11.00,"Pondexter, Quincy",2.90,12.20
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,4,0,37,0,"Step Back Jump shot","2PT Field Goal",17,"Phoenix Suns",-175,0,3,8.30,"Morris, Markieff",3.60,7.20
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,1,9,47,0,"Step Back Jump shot","2PT Field Goal",18,"Denver Nuggets",-187,-5,2,4.00,"Foye, Randy",2.90,10.00
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,1,8,28,0,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Lakers",127,14,10,8.50,"Ellington, Wayne",3.50,9.00
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,3,3,55,0,"Step Back Jump shot","2PT Field Goal",19,"Utah Jazz",-179,66,8,7.30,"Ingles, Joe",2.80,15.50
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,2,4,57,1,"Step Back Jump shot","2PT Field Goal",18,"Orlando Magic",-161,82,8,6.50,"Fournier, Evan",2.80,5.70
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,2,0,05,0,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Lakers",47,170,20,17.90,"Kelly, Ryan",2.90,5.20
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,4,1,12,0,"Step Back Jump shot","3PT Field Goal",23,"Orlando Magic",-231,3,1,2.20,"Green, Willie",1.50,11.20
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,3,8,31,0,"Step Back Jump shot","2PT Field Goal",16,"Sacramento Kings",-97,135,2,2.80,"Gay, Rudy",3.60,15.50
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,2,2,59,1,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-157,67,3,3.30,"Covington, Robert",4.90,18.20
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,1,9,49,1,"Step Back Jump shot","2PT Field Goal",16,"Philadelphia 76ers",91,143,3,2.80,"Carter-Williams, Michael",4.20,14.70
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,10,37,0,"Step Back Jump shot","2PT Field Goal",18,"Brooklyn Nets",-180,-13,4,4.80,"Johnson, Joe",3.60,11.70
+"Dwyane Wade","Miami Heat",2014-12-25,2014,1987,1610612748,400578721,2,2,18,0,"Step Back Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",26,178,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,1,56,0,"Step Back Jump shot","2PT Field Goal",16,"Detroit Pistons",129,108,3,5.50,"Prince, Tayshaun",3.20,7.60
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,1,6,23,1,"Step Back Jump shot","2PT Field Goal",20,"Los Angeles Clippers",18,200,1,2.30,"Redick, JJ",4.50,10.40
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,5,54,0,"Step Back Jump shot","2PT Field Goal",18,"Detroit Pistons",31,183,6,6.30,"Caldwell-Pope, Kentavious",2.70,10.10
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,2,50,0,"Step Back Jump shot","2PT Field Goal",11,"New Orleans Pelicans",-71,93,1,1.80,"Gordon, Eric",7.20,17.30
+"Dwyane Wade","Miami Heat",2014-12-17,2014,1987,1610612748,400578665,1,4,50,0,"Step Back Jump shot","2PT Field Goal",20,"Utah Jazz",-161,123,2,2.10,"Hood, Rodney",3.70,9.50
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,1,5,16,1,"Step Back Jump shot","2PT Field Goal",18,"Charlotte Hornets",-183,0,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,11,11,0,"Step Back Jump shot","2PT Field Goal",19,"Brooklyn Nets",-187,39,7,5.10,"Brown, Markel",2.00,10.20
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,2,50,1,"Step Back Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",187,-13,1,1.60,"Mozgov, Timofey",5.10,11.30
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,4,2,35,0,"Step Back Jump shot","2PT Field Goal",16,"Dallas Mavericks",-161,33,13,12.40,"Crowder, Jae",2.90,10.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,1,11,19,0,"Step Back Jump shot","2PT Field Goal",11,"Cleveland Cavaliers",103,61,4,3.80,"Smith, J.R.",3.40,7.60
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,6,14,0,"Step Back Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",89,167,7,7.00,"Shumpert, Iman",3.20,8.90
+"Dwyane Wade","Miami Heat",2014-11-04,2014,1987,1610612748,400578342,2,8,02,1,"Step Back Jump shot","2PT Field Goal",16,"Houston Rockets",-141,83,0,1.50,"Ariza, Trevor",3.50,4.00
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,1,6,26,1,"Step Back Jump shot","2PT Field Goal",15,"Denver Nuggets",-90,129,3,2.70,"Foye, Randy",2.20,11.00
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,3,5,52,0,"Step Back Jump shot","2PT Field Goal",13,"San Antonio Spurs",-117,72,4,4.20,"Leonard, Kawhi",3.40,8.80
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,1,9,55,1,"Step Back Jump shot","2PT Field Goal",18,"Phoenix Suns",-180,-8,7,4.90,"Dragic, Goran",3.30,6.60
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,3,38,0,"Step Back Jump shot","2PT Field Goal",16,"Brooklyn Nets",-120,119,2,2.40,"Johnson, Joe",4.70,6.10
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,0,25,0,"Step Back Jump shot","2PT Field Goal",19,"Orlando Magic",-198,6,2,3.00,"Vucevic, Nikola",4.30,9.50
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,2,9,35,0,"Step Back Jump shot","2PT Field Goal",19,"Boston Celtics",-161,104,3,4.10,"Bass, Brandon",4.50,7.90
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,2,7,08,0,"Step Back Jump shot","2PT Field Goal",18,"Toronto Raptors",143,113,6,5.00,"Johnson, James",4.40,3.90
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,1,2,18,0,"Step Back Jump shot","2PT Field Goal",19,"Chicago Bulls",-190,-8,3,3.20,"Snell, Tony",3.20,2.00
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,4,10,51,0,"Step Back Jump shot","2PT Field Goal",14,"Chicago Bulls",146,-3,2,3.20,"Hinrich, Kirk",2.60,18.20
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,1,6,20,0,"Step Back Jump shot","2PT Field Goal",12,"Cleveland Cavaliers",118,37,1,2.00,"Mozgov, Timofey",6.50,8.80
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,3,6,05,0,"Step Back Jump shot","2PT Field Goal",16,"Cleveland Cavaliers",-131,97,8,9.40,"Smith, J.R.",3.80,11.70
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,6,41,1,"Step Back Jump shot","2PT Field Goal",13,"Portland Trail Blazers",132,7,1,2.50,"Leonard, Meyers",4.60,18.90
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,4,6,35,0,"Step Back Jump shot","2PT Field Goal",13,"Boston Celtics",-73,119,4,5.50,"Smart, Marcus",3.40,3.30
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,1,11,35,1,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-155,53,5,4.90,"Roberson, Andre",3.70,17.20
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,3,7,34,0,"Step Back Jump shot","3PT Field Goal",22,"Oklahoma City Thunder",-221,11,1,2.60,"Waiters, Dion",2.70,10.10
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,2,3,35,0,"Step Back Jump shot","2PT Field Goal",21,"Houston Rockets",7,214,10,10.90,"Motiejunas, Donatas",3.50,4.00
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,5,4,16,1,"Step Back Jump shot","2PT Field Goal",20,"Sacramento Kings",-158,126,8,6.60,"Gay, Rudy",4.60,1.60
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,1,4,24,1,"Tip Shot","2PT Field Goal",0,"Charlotte Hornets",6,-3,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,2,6,52,0,"Tip Shot","2PT Field Goal",1,"Charlotte Hornets",4,14,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,2,6,45,1,"Tip Shot","2PT Field Goal",0,"Toronto Raptors",9,0,0,0.00,"Johnson, James",2.00,9.80
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,6,44,0,"Tip Shot","2PT Field Goal",0,"Indiana Pacers",-5,7,0,0.10,"Allen, Lavoy",3.60,24.00
+"Dwyane Wade","Miami Heat",2015-04-11,2014,1987,1610612748,400579480,1,4,08,0,"Tip Shot","2PT Field Goal",1,"Toronto Raptors",-8,-8,0,0.00,"Patterson, Patrick",4.70,24.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,1,4,53,1,"Tip Shot","2PT Field Goal",0,"Detroit Pistons",-8,-1,0,0.00,"Tolliver, Anthony",2.00,18.20
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,2,5,30,0,"Tip Shot","2PT Field Goal",0,"Atlanta Hawks",2,6,0,0.70,"Millsap, Paul",1.90,24.00
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,4,54,0,"Tip Shot","2PT Field Goal",2,"Phoenix Suns",20,0,0,0.00,"Dragic, Goran",1.60,15.50
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,1,44,0,"Tip Shot","2PT Field Goal",1,"New York Knicks",10,3,0,0.00,"Anthony, Carmelo",2.70,24.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,1,11,42,0,"Tip Shot","2PT Field Goal",2,"New York Knicks",12,20,0,1.10,"Dalembert, Samuel",1.60,24.00
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,5,31,0,"Tip Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,3,0,0.00,"Leonard, Meyers",0.50,21.90
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,3,8,53,1,"Turnaround Bank shot","2PT Field Goal",5,"Brooklyn Nets",58,0,2,5.20,"Young, Thaddeus",3.80,8.00
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,4,11,21,1,"Turnaround Bank shot","2PT Field Goal",14,"Detroit Pistons",143,0,2,3.60,"Caldwell-Pope, Kentavious",2.00,7.00
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,2,5,48,1,"Turnaround Bank shot","2PT Field Goal",17,"Memphis Grizzlies",-158,77,1,5.40,"Leuer, Jon",5.40,9.00
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,1,7,42,1,"Turnaround Bank shot","2PT Field Goal",4,"Toronto Raptors",43,12,2,3.50,"Ross, Terrence",4.70,10.10
+"Dwyane Wade","Miami Heat",2014-12-01,2014,1987,1610612748,400578542,2,8,34,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Washington Wizards",-142,7,4,5.60,"Butler, Rasual",3.60,12.20
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,6,56,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Brooklyn Nets",159,-5,1,2.30,"Jack, Jarrett",2.90,6.20
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,3,3,48,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Orlando Magic",-65,134,3,3.80,"Oladipo, Victor",1.40,4.80
+"Dwyane Wade","Miami Heat",2015-02-25,2014,1987,1610612748,400579134,2,1,48,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Orlando Magic",-93,71,4,2.50,"Oladipo, Victor",3.20,19.40
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,2,8,06,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Atlanta Hawks",181,33,2,5.50,"Korver, Kyle",2.20,4.20
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,3,7,50,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Brooklyn Nets",-123,56,7,8.10,"Johnson, Joe",3.60,16.00
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,8,46,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Brooklyn Nets",-172,-3,0,1.00,"Anderson, Alan",4.00,12.60
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,3,6,44,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Dallas Mavericks",15,162,6,4.20,"Ellis, Monta",3.10,5.90
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,1,6,30,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Toronto Raptors",-100,67,4,5.40,"Ross, Terrence",4.20,5.80
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,1,17,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Oklahoma City Thunder",-119,47,3,4.10,"Waiters, Dion",2.90,12.90
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,1,7,01,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Houston Rockets",118,126,2,4.70,"Harden, James",3.20,6.40
+"Dwyane Wade","Miami Heat",2014-12-12,2014,1987,1610612748,400578630,4,2,54,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Utah Jazz",-138,0,2,3.70,"Burks, Alec",3.10,11.40
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,2,5,54,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Chicago Bulls",151,44,1,3.00,"Rose, Derrick",3.10,11.50
+"Dwyane Wade","Miami Heat",2014-11-09,2014,1987,1610612748,400578386,2,4,25,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",-131,23,1,3.90,"Ellis, Monta",2.10,10.80
+"Dwyane Wade","Miami Heat",2015-01-11,2014,1987,1610612748,400578851,4,8,52,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Los Angeles Clippers",-108,34,3,5.10,"Redick, JJ",2.80,11.40
+"Dwyane Wade","Miami Heat",2015-01-25,2014,1987,1610612748,400578949,4,1,14,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Chicago Bulls",-123,44,3,14.30,"Rose, Derrick",2.50,6.20
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,4,00,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Brooklyn Nets",-125,1,0,1.00,"Anderson, Alan",2.60,5.30
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,1,7,35,1,"Turnaround Hook Shot","2PT Field Goal",6,"Brooklyn Nets",-46,41,3,3.60,"Brown, Markel",2.20,9.40
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,4,4,02,1,"Turnaround Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",-64,69,15,14.40,"Ellington, Wayne",1.90,10.10
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,2,4,19,0,"Turnaround Hook Shot","2PT Field Goal",8,"Chicago Bulls",-34,78,11,11.20,"Snell, Tony",2.10,13.50
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,2,3,50,0,"Turnaround Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-164,-3,0,0.90,"Williams, Deron",4.60,24.00
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,1,8,33,0,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-144,12,2,4.40,"Smith, J.R.",2.30,12.90
+"Dwyane Wade","Miami Heat",2015-02-20,2014,1987,1610612748,400579099,1,7,56,0,"Turnaround Jump Shot","2PT Field Goal",12,"New York Knicks",121,0,1,4.40,"Galloway, Langston",4.50,7.20
+"Dwyane Wade","Miami Heat",2015-04-04,2014,1987,1610612748,400579431,3,4,29,1,"Turnaround Jump Shot","2PT Field Goal",17,"Detroit Pistons",-155,89,6,6.60,"Caldwell-Pope, Kentavious",3.10,11.00
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,1,11,27,0,"Turnaround Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-141,23,4,5.20,"Stephenson, Lance",0.80,14.80
+"Dwyane Wade","Miami Heat",2015-03-02,2014,1987,1610612748,400579179,2,6,39,0,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",-136,82,5,5.30,"Knight, Brandon",2.20,19.20
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,3,9,11,1,"Turnaround Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-136,75,5,6.40,"Afflalo, Arron",2.40,11.30
+"Dwyane Wade","Miami Heat",2015-03-31,2014,1987,1610612748,400579402,2,5,55,1,"Turnaround Jump Shot","2PT Field Goal",13,"San Antonio Spurs",-37,134,7,7.10,"Parker, Tony",2.30,17.30
+"Dwyane Wade","Miami Heat",2015-03-07,2014,1987,1610612748,400579217,2,5,28,0,"Turnaround Jump Shot","2PT Field Goal",8,"Sacramento Kings",-65,58,5,3.80,"Casspi, Omri",2.20,10.50
+"Dwyane Wade","Miami Heat",2015-04-02,2014,1987,1610612748,400579416,2,10,34,0,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",127,-5,1,1.80,"James, LeBron",3.70,19.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,4,6,11,1,"Turnaround Jump Shot","2PT Field Goal",11,"New York Knicks",-112,1,6,7.30,"Shumpert, Iman",3.80,5.60
+"Dwyane Wade","Miami Heat",2015-03-18,2014,1987,1610612748,400579299,2,1,16,0,"Turnaround Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-64,4,13,11.10,"Aldridge, LaMarcus",3.50,10.90
+"Dwyane Wade","Miami Heat",2015-01-21,2014,0,1610612748,0,2,5,50,0,"Turnaround Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-106,113,1,4.50,"Henderson, Gerald",3.70,6.40
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,2,7,21,1,"Turnaround Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",-26,101,5,5.20,"Westbrook, Russell",2.80,6.10
+"Dwyane Wade","Miami Heat",2014-12-10,2014,1987,1610612748,400578617,1,6,53,0,"Turnaround Jump Shot","2PT Field Goal",16,"Denver Nuggets",-160,14,3,4.30,"Afflalo, Arron",3.50,13.60
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,4,1,23,1,"Turnaround Jump Shot","2PT Field Goal",8,"Atlanta Hawks",18,82,2,3.20,"Brand, Elton",4.40,15.90
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,1,11,46,1,"Turnaround Jump Shot","2PT Field Goal",7,"Indiana Pacers",77,-8,5,3.60,"Hill, Solomon",1.70,13.20
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,7,12,1,"Turnaround Jump Shot","2PT Field Goal",15,"Orlando Magic",-67,143,7,7.00,"Fournier, Evan",2.50,16.40
+"Dwyane Wade","Miami Heat",2015-02-21,2014,1987,1610612748,400579109,2,3,57,0,"Turnaround Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-157,37,1,2.10,"Gordon, Eric",4.40,12.60
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,4,8,37,0,"Turnaround Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-194,-5,5,6.10,"Bogdanovic, Bojan",2.90,11.60
+"Dwyane Wade","Miami Heat",2015-01-20,2014,1987,1610612748,400578915,1,10,25,0,"Turnaround Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",86,88,3,3.20,"Roberson, Andre",0.00,15.40
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,4,1,01,1,"Turnaround Jump Shot","3PT Field Goal",25,"Washington Wizards",-187,170,12,11.20,"Temple, Garrett",4.10,9.00
+"Dwyane Wade","Miami Heat",2015-04-09,2014,1987,1610612748,400579465,3,10,48,0,"Turnaround Jump Shot","2PT Field Goal",9,"Chicago Bulls",0,93,9,10.30,"Snell, Tony",1.40,13.00
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,3,10,05,1,"Turnaround Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-149,-3,1,2.40,"Mbah a Moute, Luc",5.10,11.30
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,2,3,37,0,"Turnaround Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-11,135,4,6.70,"Sefolosha, Thabo",3.70,9.00
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,2,9,21,0,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",-158,1,1,5.40,"Green, Gerald",2.00,7.00
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,3,5,08,1,"Turnaround Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-90,12,0,0.80,"Thompson, Tristan",2.10,8.40
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,3,5,46,0,"Turnaround Jump Shot","2PT Field Goal",11,"Atlanta Hawks",7,115,8,8.20,"Schroder, Dennis",3.50,16.20
+"Dwyane Wade","Miami Heat",2015-03-16,2014,1987,1610612748,400579287,2,5,15,1,"Turnaround Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-92,-8,2,3.40,"Shumpert, Iman",5.30,6.40
+"Dwyane Wade","Miami Heat",2015-01-03,2014,1987,1610612748,400578789,1,8,11,1,"Turnaround Jump Shot","2PT Field Goal",16,"Houston Rockets",-81,142,1,1.20,"Harden, James",4.20,12.00
+"Dwyane Wade","Miami Heat",2014-12-27,2014,1987,1610612748,400578738,2,9,10,1,"Turnaround Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-169,48,1,3.40,"Pondexter, Quincy",2.80,8.60
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,1,2,45,0,"Turnaround Jump Shot","2PT Field Goal",6,"Chicago Bulls",-34,58,6,9.10,"Dunleavy, Mike",2.60,9.80
+"Dwyane Wade","Miami Heat",2014-11-05,2014,1987,1610612748,400578349,4,5,18,1,"Turnaround Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-144,17,1,3.20,"Stephenson, Lance",2.60,8.90
+"Dwyane Wade","Miami Heat",2015-02-28,2014,1987,1610612748,400579163,4,2,43,0,"Turnaround Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-147,56,5,5.90,"Korver, Kyle",1.70,16.80
+"Dwyane Wade","Miami Heat",2014-12-09,2014,1987,1610612748,400578605,4,8,35,0,"Turnaround Jump Shot","2PT Field Goal",12,"Phoenix Suns",-95,83,2,3.90,"Green, Gerald",3.00,12.20
+"Dwyane Wade","Miami Heat",2014-11-02,2014,1987,1610612748,400578332,1,4,30,1,"Turnaround Jump Shot","2PT Field Goal",4,"Toronto Raptors",23,41,1,2.10,"Lowry, Kyle",3.60,15.50
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,7,49,0,"Turnaround Jump Shot","2PT Field Goal",16,"Orlando Magic",-168,15,3,4.90,"Oladipo, Victor",2.20,4.90
+"Dwyane Wade","Miami Heat",2014-12-23,2014,1987,1610612748,400578714,3,2,15,0,"Turnaround Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-138,11,1,5.30,"McDaniels, KJ",2.00,6.10
+"Dwyane Wade","Miami Heat",2015-03-11,2014,1987,1610612748,400579247,2,7,32,0,"Turnaround Jump Shot","2PT Field Goal",9,"Brooklyn Nets",91,1,6,7.70,"Jefferson, Cory",2.80,15.10
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,3,7,13,0,"Turnaround Jump Shot","2PT Field Goal",14,"Boston Celtics",-136,45,2,6.00,"Turner, Evan",2.00,8.90
+"Dwyane Wade","Miami Heat",2014-12-31,2014,1987,1610612748,400578768,4,7,15,1,"Turnaround Jump Shot","2PT Field Goal",15,"Indiana Pacers",-150,52,3,4.20,"Hill, Solomon",4.30,14.30
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,1,10,23,1,"Turnaround Jump Shot","2PT Field Goal",4,"Brooklyn Nets",-43,7,0,1.40,"Karasev, Sergey",1.40,18.10
+"Dwyane Wade","Miami Heat",2014-12-14,2014,1987,1610612748,400578641,3,10,30,0,"Turnaround Jump Shot","2PT Field Goal",16,"Chicago Bulls",122,116,1,4.20,"Butler, Jimmy",3.40,9.50
+"Dwyane Wade","Miami Heat",2015-03-20,2014,1987,1610612748,400579316,2,2,30,0,"Turnaround Jump Shot","2PT Field Goal",9,"Denver Nuggets",1,93,2,4.80,"Foye, Randy",2.60,5.60
+"Dwyane Wade","Miami Heat",2015-03-13,2014,1987,1610612748,400579262,4,5,57,0,"Turnaround Jump Shot","2PT Field Goal",8,"Toronto Raptors",86,14,0,0.00,"DeRozan, DeMar",2.10,12.10
+"Dwyane Wade","Miami Heat",2015-03-29,2014,1987,1610612748,400579388,3,11,38,0,"Turnaround Jump Shot","2PT Field Goal",14,"Detroit Pistons",149,-2,3,5.40,"Caldwell-Pope, Kentavious",2.90,6.30
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,2,7,42,1,"Turnaround Jump Shot","2PT Field Goal",11,"Indiana Pacers",111,11,1,3.70,"Stuckey, Rodney",0.00,14.90
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,2,6,32,0,"Turnaround Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-122,26,3,5.90,"Sampson, JaKarr",3.10,10.80
+"Dwyane Wade","Miami Heat",2014-12-07,2014,1987,1610612748,400578588,4,11,44,0,"Turnaround Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-117,56,2,3.30,"Prince, Tayshaun",2.30,12.30
+"Dwyane Wade","Miami Heat",2014-11-01,2014,1987,1610612748,400578322,4,5,29,0,"Turnaround Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",159,-25,2,5.90,"Johnson, Chris",3.50,5.60
+"Dwyane Wade","Miami Heat",2015-03-27,2014,1987,1610612748,400579369,2,9,14,0,"Turnaround Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-67,135,3,3.50,"Korver, Kyle",4.10,6.60
+"Dwyane Wade","Miami Heat",2015-04-07,2014,1987,1610612748,400579447,3,7,43,1,"Turnaround Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-164,6,0,0.00,,0.00,0.00
+"Dwyane Wade","Miami Heat",2014-12-05,2014,1987,1610612748,400578577,3,5,16,1,"Turnaround Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-147,23,2,3.40,"Antetokounmpo, Giannis",4.40,3.20
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,1,5,11,1,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-35,132,8,7.80,"Lillard, Damian",3.50,17.00
+"Dwyane Wade","Miami Heat",2014-11-30,2014,1987,1610612748,400578537,1,6,39,0,"Turnaround Jump Shot","2PT Field Goal",11,"New York Knicks",-111,42,4,5.80,"Shumpert, Iman",0.90,9.40
+"Dwyane Wade","Miami Heat",2014-12-29,2014,1987,1610612748,400578754,4,4,29,0,"Turnaround Jump Shot","2PT Field Goal",11,"Orlando Magic",-73,93,8,7.80,"Oladipo, Victor",3.50,15.00
+"Dwyane Wade","Miami Heat",2015-04-13,2014,1987,1610612748,400579499,4,4,30,0,"Turnaround Jump Shot","2PT Field Goal",6,"Orlando Magic",54,31,2,3.80,"Oladipo, Victor",2.20,7.00
+"Dwyane Wade","Miami Heat",2015-02-23,2014,1987,1610612748,400579122,2,0,31,1,"Turnaround Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",-45,23,1,1.70,"Mbah a Moute, Luc",3.30,13.50
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,3,3,34,1,"Turnaround Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-62,-3,1,2.20,"Blake, Steve",1.90,7.10
+"Dwyane Wade","Miami Heat",2015-01-08,2014,1987,1610612748,400578829,2,2,08,0,"Turnaround Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-89,142,3,3.60,"Lillard, Damian",2.40,6.30
+"Dwyane Wade","Miami Heat",2014-12-16,2014,1987,1610612748,400578656,4,2,16,1,"Turnaround Jump Shot","2PT Field Goal",15,"Brooklyn Nets",122,101,14,21.30,"Plumlee, Mason",2.20,2.80
+"Dwyane Wade","Miami Heat",2015-03-09,2014,1987,1610612748,400579232,1,8,30,1,"Turnaround Jump Shot","2PT Field Goal",15,"Boston Celtics",-157,-10,4,4.60,"Turner, Evan",4.40,17.20
+"Dwyane Wade","Miami Heat",2015-04-05,2014,1987,1610612748,400579441,1,5,56,1,"Turnaround Jump Shot","2PT Field Goal",7,"Indiana Pacers",-76,17,4,4.50,"Hill, Solomon",0.20,6.00
+"Dwyane Wade","Miami Heat",2015-03-04,2014,1987,1610612748,400579197,3,8,46,1,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-119,67,3,3.60,"Kelly, Ryan",3.00,16.80
+"Dwyane Wade","Miami Heat",2014-10-29,2014,1987,1610612748,400578299,3,6,22,0,"Turnaround Jump Shot","2PT Field Goal",18,"Washington Wizards",-185,19,0,2.60,"Temple, Garrett",2.80,7.80
+"Dwyane Wade","Miami Heat",2014-11-12,2014,1987,1610612748,400578404,4,11,06,1,"Turnaround Jump Shot","2PT Field Goal",13,"Indiana Pacers",-64,116,2,4.10,"Hill, Solomon",3.60,9.80
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,2,0,51,1,"Turnaround Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-26,58,5,4.50,"Waiters, Dion",2.60,16.20
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,3,9,04,1,"Turnaround Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-100,47,0,2.40,"Waiters, Dion",2.80,14.70
+"Dwyane Wade","Miami Heat",2015-03-22,2014,1987,1610612748,400579330,1,7,01,1,"Turnaround Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-128,82,5,6.90,"Morrow, Anthony",3.20,10.60

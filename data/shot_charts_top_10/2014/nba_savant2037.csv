@@ -1,0 +1,1009 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,8,42,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Los Angeles Lakers",15,44,5,5.40,"Meeks, Jodie",5.20,2.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,2,6,19,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,15,1,1.60,"Foye, Randy",2.30,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,4,7,26,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,4,7,6.20,"Barton, Will",2.40,17.20
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,11,10,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",21,1,2,2.30,"Lopez, Robin",1.30,20.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,4,10,15,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"San Antonio Spurs",17,-3,14,13.10,"Green, Danny",2.80,11.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,4,4,49,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",2,19,3,3.60,"Smith, J.R.",2.20,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,1,0,00,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",2,17,9,7.10,"Fournier, Evan",1.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,11,21,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Chicago Bulls",28,30,7,9.10,"Gibson, Taj",3.20,2.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,2,9,05,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",2,25,2,2.80,"Pondexter, Quincy",4.60,5.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,0,04,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",6,36,11,10.10,"Williams, Mo",1.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,9,28,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Golden State Warriors",7,0,2,2.50,"Thompson, Klay",10.40,22.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,1,4,45,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Utah Jazz",10,14,1,4.40,"Kanter, Enes",3.10,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,9,48,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Houston Rockets",6,44,8,7.10,"Garcia, Francisco",1.70,16.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,0,06,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",9,23,0,0.40,"Miller, Andre",3.10,2.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,7,43,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",2,26,3,3.60,"Lopez, Robin",2.70,14.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,4,6,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",12,19,0,0.70,"Miller, Andre",2.90,19.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,2,1,32,1,"Driving Jump shot","2PT Field Goal",3,"Dallas Mavericks",0,37,2,2.00,"Dalembert, Samuel",3.50,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,3,5,22,0,"Driving Jump shot","2PT Field Goal",3,"Miami Heat",24,23,5,4.80,"Wade, Dwyane",2.80,8.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,4,7,10,0,"Driving Jump shot","2PT Field Goal",3,"San Antonio Spurs",0,33,3,3.10,"Duncan, Tim",2.30,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,2,55,0,"Driving Jump shot","2PT Field Goal",6,"Miami Heat",-13,67,3,2.60,"Allen, Ray",2.80,2.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,4,8,57,0,"Driving Jump shot","2PT Field Goal",9,"Atlanta Hawks",34,85,10,8.20,"Mack, Shelvin",1.70,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,2,9,36,0,"Driving Jump shot","2PT Field Goal",7,"Dallas Mavericks",-24,67,9,6.40,"Ellis, Monta",2.60,16.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,4,12,0,"Driving Jump shot","2PT Field Goal",8,"Dallas Mavericks",-65,48,7,5.90,"Ellis, Monta",1.40,8.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,2,46,1,"Driving Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",17,26,0,2.00,"Matthews, Wesley",3.20,8.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,2,0,41,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",2,15,3,4.20,"Burks, Alec",1.80,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,9,36,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,1,2,2.40,"Zeller, Cody",2.50,7.90
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,4,7,14,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-5,17,3,4.20,"Chandler, Wilson",1.80,6.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,5,02,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,-5,2,2.60,"Lopez, Robin",0.80,21.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,4,1,06,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",15,20,11,8.80,"Salmons, John",2.00,5.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,4,58,0,"Driving Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",23,23,7,9.70,"Durant, Kevin",1.10,5.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,4,7,39,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",15,25,6,6.60,"Williams, Marvin",4.20,5.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,7,49,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",21,12,13,8.40,"Murry, Toure",4.40,15.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,10,27,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-7,19,6,5.50,"Garcia, Francisco",0.50,5.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,1,1,21,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,12,5,4.80,"Pondexter, Quincy",2.10,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,8,45,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",18,-5,0,0.80,"Jerebko, Jonas",3.90,7.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,2,2,42,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",4,25,4,4.50,"Aldridge, LaMarcus",4.20,20.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,4,0,00,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",23,3,0,0.90,"Livingston, Shaun",6.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,4,10,31,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,0,1,1.80,"Allen, Lavoy",2.10,11.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,2,10,20,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,4,2,3.80,"Bennett, Anthony",1.90,14.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,4,4,10,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",10,19,0,0.90,"Batum, Nicolas",3.90,18.90
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,6,18,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-16,0,0,1.90,"Antetokounmpo, Giannis",6.50,20.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,10,21,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,11,0,1.70,"Casspi, Omri",3.00,21.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,1,1,57,1,"Driving Layup Shot","2PT Field Goal",3,"Atlanta Hawks",28,11,4,3.50,"Mack, Shelvin",2.80,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,3,0,37,1,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",31,22,5,5.10,"Hayes, Charles",1.80,17.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,11,22,1,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",-23,28,6,5.40,"Salmons, John",6.20,3.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,2,24,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",15,25,0,0.90,"Sefolosha, Thabo",1.10,20.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,2,8,28,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",6,-8,0,0.90,"Ellis, Monta",2.70,21.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,3,11,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",9,19,4,4.30,"Marion, Shawn",1.10,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,4,8,51,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,9,3,3.20,"Taylor, Tyshawn",0.90,21.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,3,1,33,1,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",37,14,3,4.00,"Asik, Omer",2.20,8.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,2,0,52,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-11,23,1,3.90,"McLemore, Ben",3.60,14.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,2,8,20,0,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",6,-11,10,8.50,"Jack, Jarrett",3.70,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,4,5,39,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-2,19,1,1.80,"Fournier, Evan",2.20,19.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,2,6,16,1,"Driving Layup Shot","2PT Field Goal",4,"Sacramento Kings",42,17,7,9.60,"Salmons, John",3.90,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,4,9,09,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",17,14,2,2.70,"Jackson, Reggie",4.90,16.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,0,35,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",21,9,6,6.10,"Jefferson, Al",2.00,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,4,3,38,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",2,-6,2,4.60,"Lopez, Robin",0.90,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,4,0,13,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",9,12,3,3.70,"Pekovic, Nikola",2.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,6,20,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,17,4,4.00,"Freeland, Joel",3.20,6.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,3,13,1,"Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,-2,2,1.80,"Lee, Courtney",23.50,20.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,7,28,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,-8,0,0.70,"Butler, Caron",2.80,20.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,3,4,08,1,"Fadeaway Bank shot","2PT Field Goal",16,"Houston Rockets",-78,148,1,2.80,"Howard, Dwight",3.20,1.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,6,35,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Golden State Warriors",-95,48,4,4.90,"Curry, Stephen",2.40,6.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,3,08,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",70,118,0,0.70,"Jackson, Reggie",1.70,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,1,2,33,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Golden State Warriors",-160,36,3,2.50,"Iguodala, Andre",3.70,7.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,4,6,29,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",-84,110,8,6.70,"Love, Kevin",5.80,8.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,3,3,25,0,"Fadeaway Jump Shot","2PT Field Goal",21,"Atlanta Hawks",198,74,3,2.80,"Carroll, DeMarre",3.90,8.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,5,51,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Boston Celtics",-101,15,0,0.30,"Bass, Brandon",4.30,23.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,11,05,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",1,116,2,2.40,"Kelly, Ryan",3.40,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,3,9,51,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",105,93,2,3.80,"Matthews, Wesley",3.80,6.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,2,7,18,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,6,15,15.00,"Cunningham, Dante",2.20,9.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,10,18,1,"Finger Roll Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",17,33,2,2.00,"Thabeet, Hasheem",3.50,18.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,5,19,1,"Finger Roll Layup Shot","2PT Field Goal",1,"San Antonio Spurs",10,7,0,0.70,"Green, Danny",11.20,22.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,2,5,50,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Utah Jazz",0,9,7,7.90,"Kanter, Enes",4.00,15.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,1,11,09,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",13,19,1,1.20,"Foye, Randy",1.60,16.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,2,7,18,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",10,6,1,5.30,Nene,4.00,17.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,0,30,0,"Finger Roll Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",17,28,0,0.70,"Holiday, Jrue",3.40,20.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,9,27,1,"Finger Roll Layup Shot","2PT Field Goal",3,"Indiana Pacers",2,36,3,3.00,"Scola, Luis",1.40,8.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,4,14,0,"Floating Jump shot","2PT Field Goal",4,"Miami Heat",23,44,2,2.10,"James, LeBron",2.70,21.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,3,4,26,0,"Floating Jump shot","2PT Field Goal",8,"Houston Rockets",-30,75,4,3.70,"Asik, Omer",1.70,2.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,2,8,20,0,"Floating Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",4,41,1,1.20,"Adams, Steven",2.70,15.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,1,0,00,1,"Floating Jump shot","2PT Field Goal",4,"Chicago Bulls",-11,42,11,8.00,"Snell, Tony",1.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,2,9,20,1,"Floating Jump shot","2PT Field Goal",7,"Charlotte Hornets",56,48,6,5.60,"Tolliver, Anthony",1.90,18.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,10,55,1,"Floating Jump shot","2PT Field Goal",4,"Memphis Grizzlies",10,39,1,1.30,"Lee, Courtney",2.70,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,8,24,1,"Floating Jump shot","2PT Field Goal",7,"Boston Celtics",24,66,12,10.90,"Wallace, Gerald",2.00,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,10,07,0,"Floating Jump shot","2PT Field Goal",10,"Miami Heat",75,69,4,4.50,"Allen, Ray",3.60,8.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,2,5,20,0,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Lakers",21,37,1,3.60,"Blake, Steve",2.30,15.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,3,0,24,1,"Floating Jump shot","2PT Field Goal",7,"Brooklyn Nets",4,74,6,6.10,"Plumlee, Mason",5.20,15.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,2,6,35,1,"Floating Jump shot","2PT Field Goal",9,"Miami Heat",-95,17,5,4.60,"Battier, Shane",3.10,17.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,4,51,1,"Floating Jump shot","2PT Field Goal",12,"Memphis Grizzlies",-7,126,1,1.60,"Lee, Courtney",3.60,7.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,1,1,06,0,"Floating Jump shot","2PT Field Goal",7,"Brooklyn Nets",13,72,5,6.00,"Pierce, Paul",1.90,12.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,3,1,53,0,"Floating Jump shot","2PT Field Goal",11,"Utah Jazz",64,99,12,10.40,"Garrett, Diante",3.80,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,6,02,1,"Floating Jump shot","2PT Field Goal",6,"New York Knicks",17,63,1,3.40,"Felton, Raymond",1.90,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,9,19,1,"Floating Jump shot","2PT Field Goal",12,"Indiana Pacers",69,102,10,7.80,"Hill, Solomon",1.40,5.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,2,02,1,"Floating Jump shot","2PT Field Goal",4,"Minnesota Timberwolves",12,44,5,5.90,"Rubio, Ricky",2.60,8.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,3,2,18,1,"Floating Jump shot","2PT Field Goal",9,"Sacramento Kings",10,97,1,1.40,"McLemore, Ben",2.80,9.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,4,49,1,"Jump Bank Shot","2PT Field Goal",10,"Indiana Pacers",99,41,5,5.40,"Granger, Danny",2.10,16.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,4,5,41,1,"Jump Bank Shot","2PT Field Goal",7,"Oklahoma City Thunder",-78,14,7,5.90,"Fisher, Derek",1.20,18.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,4,9,50,1,"Jump Bank Shot","2PT Field Goal",8,"Denver Nuggets",-62,52,5,4.20,"Mozgov, Timofey",4.20,0.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,10,36,1,"Jump Bank Shot","2PT Field Goal",18,"Philadelphia 76ers",-149,101,4,3.40,"Thompson, Hollis",4.00,4.90
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,2,0,33,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-45,257,0,1.30,"Faried, Kenneth",20.40,15.50
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,4,4,32,1,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-24,160,7,6.60,"Vesely, Jan",4.50,5.90
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,5,56,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",17,249,1,1.70,"Barton, Will",5.20,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,5,10,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",116,214,0,2.10,"Crabbe, Allen",2.00,9.50
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,4,4,58,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-215,113,16,14.80,"Claver, Victor",3.50,8.20
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,3,4,55,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-239,1,0,1.00,"Blake, Steve",5.20,19.80
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,10,36,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-49,113,3,5.50,"Meeks, Jodie",2.90,9.20
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,10,26,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",34,203,6,6.30,"Meeks, Jodie",4.10,17.10
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,9,42,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",160,17,7,12.20,"Hill, Jordan",2.00,15.50
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,2,08,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-248,47,0,1.00,"Farmar, Jordan",2.80,19.90
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,1,34,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-125,238,0,1.00,"Meeks, Jodie",1.70,12.80
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,4,0,01,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",155,241,1,1.30,"Meeks, Jodie",3.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,2,7,58,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",130,134,1,2.90,"Iguodala, Andre",5.20,18.20
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,3,1,49,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-172,22,2,3.40,"Iguodala, Andre",3.60,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,11,07,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",190,165,0,0.80,"Thompson, Klay",4.50,10.80
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,9,44,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-243,59,0,1.30,"Iguodala, Andre",13.50,18.60
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,0,58,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",230,23,0,1.10,"Bogut, Andrew",5.30,9.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,2,11,43,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-109,239,0,1.00,"McLemore, Ben",4.60,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,2,10,17,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-92,179,5,6.30,"Thornton, Marcus",3.40,17.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,3,0,48,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-172,172,0,1.20,"Outlaw, Travis",3.40,10.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,4,8,16,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",121,209,0,0.80,"Outlaw, Travis",5.00,11.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,8,23,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-5,249,3,4.90,"Garcia, Francisco",4.70,12.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,3,40,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-228,9,0,1.00,"Parsons, Chandler",8.30,17.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,3,1,21,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",154,203,0,0.90,"Harden, James",6.20,18.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,4,11,47,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-59,242,2,2.50,"Parsons, Chandler",4.00,13.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,4,6,07,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-221,3,0,1.40,"Parsons, Chandler",7.80,21.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,4,2,12,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-136,201,2,2.30,"Brewer, Ronnie",3.40,3.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,10,10,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-11,254,0,1.40,"Harkless, Maurice",5.20,23.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,0,00,0,"Jump Shot","3PT Field Goal",42,"Orlando Magic",-147,395,1,1.40,"Afflalo, Arron",5.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,2,1,38,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",95,142,6,5.10,"James, LeBron",7.40,4.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,2,0,38,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",163,201,0,1.00,"Lewis, Rashard",4.40,6.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,11,26,1,"Jump Shot","2PT Field Goal",18,"Miami Heat",184,25,4,4.70,"Allen, Ray",3.40,11.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,9,15,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",201,149,4,4.20,"Allen, Ray",3.20,18.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,6,34,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-134,145,0,0.80,"Battier, Shane",6.20,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,5,08,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-193,160,0,0.60,"James, LeBron",7.40,10.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,4,47,1,"Jump Shot","3PT Field Goal",28,"Houston Rockets",77,272,1,1.60,"Harden, James",5.40,6.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,3,45,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",160,227,0,0.80,"Lin, Jeremy",2.40,10.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,1,0,01,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-59,260,3,3.00,"Shved, Alexey",3.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,2,9,19,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-32,244,4,4.60,"Shved, Alexey",4.60,3.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,3,0,00,1,"Jump Shot","3PT Field Goal",51,"Minnesota Timberwolves",75,509,0,0.80,"Cunningham, Dante",18.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,8,13,1,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",31,94,1,1.50,"Shved, Alexey",1.50,21.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,6,26,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",236,19,0,1.10,"Brewer, Corey",4.80,13.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,5,47,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",133,115,6,6.10,"Rubio, Ricky",3.60,5.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,1,3,45,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-185,168,0,0.90,"Sefolosha, Thabo",5.10,12.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,1,1,15,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-136,83,0,0.90,"Collison, Nick",10.00,21.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,2,11,25,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",20,249,3,3.40,"Lamb, Jeremy",3.50,12.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,2,9,02,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",4,258,0,0.90,"Jackson, Reggie",9.90,23.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,0,34,1,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-112,244,0,0.80,"Jackson, Reggie",7.50,8.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,2,9,36,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-120,132,10,7.50,"Plumlee, Mason",3.80,16.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,4,10,17,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-76,247,0,1.00,"Shengelia, Tornike",8.40,8.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,4,7,04,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-150,96,1,1.90,"Anderson, Alan",3.20,9.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,2,11,03,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-172,165,0,1.10,"Miller, Mike",2.30,13.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,4,10,15,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-120,173,6,7.80,"Miller, Mike",4.60,11.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,4,0,01,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-46,241,0,6.60,"Bayless, Jerryd",1.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,1,3,31,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",94,220,1,1.80,"Brewer, Corey",6.10,16.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,2,0,23,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-231,17,0,1.00,"Love, Kevin",18.00,22.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,4,10,35,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",195,148,0,0.80,"Brewer, Corey",4.30,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,4,7,37,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-174,165,5,4.80,"Brewer, Corey",2.90,8.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,1,3,55,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-168,63,1,1.80,"Sefolosha, Thabo",7.10,18.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,1,0,42,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",39,249,1,2.10,"Collison, Nick",4.60,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,1,0,08,1,"Jump Shot","2PT Field Goal",23,"Oklahoma City Thunder",0,231,20,18.10,"Lamb, Jeremy",3.80,4.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,3,1,56,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",234,0,0,0.90,"Durant, Kevin",12.80,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,1,0,05,0,"Jump Shot","3PT Field Goal",39,"Sacramento Kings",195,342,4,4.40,"Patterson, Patrick",10.10,0.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,2,9,51,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-106,224,4,4.30,"Fredette, Jimmer",2.80,9.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,2,0,01,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",159,195,0,0.90,"Outlaw, Travis",16.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,3,1,28,1,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",48,220,1,2.30,"Salmons, John",3.80,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,4,8,22,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-202,148,0,1.40,"Salmons, John",2.70,12.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,4,4,01,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",127,217,0,0.80,"Thomas, Isaiah",3.80,9.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,10,19,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",130,138,9,7.30,"Gibson, Taj",3.90,9.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,0,01,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-201,-6,2,2.00,"Deng, Luol",5.20,2.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,1,1,37,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",-19,47,5,5.60,"Smith, J.R.",1.20,10.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,2,8,20,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",114,227,5,4.80,"World Peace, Metta",12.00,15.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,4,9,01,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",237,-5,0,0.80,"World Peace, Metta",4.70,18.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,0,36,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",234,4,0,0.60,"Pondexter, Quincy",4.20,13.40
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,6,43,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",75,265,0,1.00,"Parsons, Chandler",5.80,4.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,2,4,55,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-67,175,7,5.70,"Snell, Tony",4.70,17.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,2,4,17,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",91,235,14,12.70,"Butler, Jimmy",1.50,10.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,3,1,40,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-157,50,4,5.50,"James, Mike",2.20,3.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,9,54,1,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",103,239,4,4.10,"James, Mike",2.20,19.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,3,39,1,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",226,-3,2,3.10,"Martin, Cartier",5.70,1.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,1,4,45,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",182,168,0,0.90,"Valanciunas, Jonas",12.70,20.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,1,3,06,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",211,143,0,0.80,"Johnson, Amir",7.90,18.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,1,1,49,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",226,82,0,0.80,"Salmons, John",4.00,8.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,10,52,1,"Jump Shot","2PT Field Goal",12,"Toronto Raptors",13,126,4,4.30,"Patterson, Patrick",3.90,14.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,2,48,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",234,6,0,0.70,"Johnson, Amir",5.80,9.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,3,0,09,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",124,168,5,11.80,"Hayes, Charles",3.10,4.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,4,10,04,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-18,265,9,9.60,"Salmons, John",3.90,14.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,1,0,45,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-242,-8,0,1.00,"Raduljica, Miroslav",5.30,9.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,1,0,06,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",162,203,15,17.30,"Raduljica, Miroslav",6.00,6.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,6,45,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-240,-10,0,0.80,"Knight, Brandon",3.30,11.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,6,01,1,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-193,-25,1,1.60,"Middleton, Khris",3.40,10.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,3,3,17,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-201,151,0,1.40,"Wolters, Nate",3.70,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,3,1,29,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",80,145,12,10.30,"Knight, Brandon",3.30,12.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,3,0,01,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",105,230,6,7.10,"Wolters, Nate",2.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,4,9,17,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-142,211,0,1.00,"Butler, Caron",7.20,20.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,1,0,01,1,"Jump Shot","3PT Field Goal",28,"Washington Wizards",-116,261,2,1.30,"Temple, Garrett",13.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,3,2,31,1,"Jump Shot","3PT Field Goal",32,"Washington Wizards",7,329,0,1.10,"Webster, Martell",4.70,3.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,4,10,13,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",95,175,7,5.70,"Webster, Martell",7.20,4.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,1,3,59,1,"Jump Shot","2PT Field Goal",11,"Utah Jazz",-34,112,0,0.70,"Hayward, Gordon",2.80,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,3,2,19,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",116,140,1,1.80,"Burks, Alec",1.50,12.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,4,5,49,1,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-79,214,0,1.00,"Williams, Marvin",7.70,3.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,4,4,31,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-119,220,0,0.00,,0.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,2,10,36,1,"Jump Shot","3PT Field Goal",30,"Denver Nuggets",-171,255,3,1.60,"Fournier, Evan",4.20,3.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,1,7,29,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-103,236,0,1.10,"Chalmers, Mario",5.40,20.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,1,2,44,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",155,132,3,3.30,"Chalmers, Mario",4.10,18.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,9,38,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",-76,260,4,3.50,"Cole, Norris",3.10,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,9,07,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",29,272,0,1.00,"Cole, Norris",2.70,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,5,16,1,"Jump Shot","2PT Field Goal",3,"Miami Heat",31,25,1,1.70,"Chalmers, Mario",2.70,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,3,10,59,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",245,4,0,0.90,"Wade, Dwyane",3.90,6.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,10,12,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",200,3,6,4.90,"Allen, Ray",2.70,17.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,4,31,0,"Jump Shot","3PT Field Goal",27,"Miami Heat",2,271,0,0.60,"Allen, Ray",3.90,4.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,6,29,1,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",65,116,3,2.90,"Johnson, Amir",2.10,18.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,3,06,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",102,183,0,1.00,"Johnson, Amir",5.80,12.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,11,15,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",4,246,0,0.90,"Hawes, Spencer",11.00,19.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,10,06,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",193,173,0,1.00,"Hawes, Spencer",10.10,16.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,7,08,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",239,0,0,0.80,"Anderson, James",4.80,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,2,51,1,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",80,159,5,4.00,"Young, Thaddeus",4.90,20.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,6,01,1,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",108,105,3,4.00,"Anderson, James",2.30,9.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,2,07,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-15,263,0,0.70,"Aldridge, LaMarcus",7.20,17.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,3,8,11,1,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",73,129,9,11.30,"Aldridge, LaMarcus",4.90,9.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,3,4,49,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",1,118,0,2.10,"McCollum, CJ",2.10,9.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,1,6,06,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-235,61,0,0.90,"Belinelli, Marco",3.30,16.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,2,6,09,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",113,91,1,1.20,"Mills, Patty",1.10,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,2,3,02,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",236,4,0,0.70,"Green, Danny",5.80,18.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,3,0,43,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-48,201,4,5.00,"Ginobili, Manu",1.00,12.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,4,5,17,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",214,145,0,0.90,"Belinelli, Marco",2.40,18.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,1,8,59,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-152,211,0,0.80,"Lee, Courtney",3.10,12.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,7,40,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",31,257,1,2.60,"Johnson, James",5.60,15.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,5,48,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",218,102,0,0.60,"Lee, Courtney",3.40,19.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,4,8,24,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",239,28,0,0.90,"Johnson, James",4.90,18.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,4,0,07,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-229,-3,0,0.80,"Allen, Tony",3.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,6,30,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",111,153,2,3.50,"Fisher, Derek",2.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,1,24,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-232,33,0,0.90,"Durant, Kevin",6.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,3,9,45,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-228,39,0,0.70,"Sefolosha, Thabo",5.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,3,7,55,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",37,247,6,5.60,"Durant, Kevin",4.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,4,8,41,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",195,165,1,2.00,"Collison, Nick",8.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,4,1,30,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-193,142,0,0.70,"Fisher, Derek",3.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,4,0,39,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-4,178,0,0.00,"Fisher, Derek",1.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,1,10,50,1,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",132,186,1,2.60,"Aminu, Al-Farouq",4.00,8.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,7,07,1,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",-223,173,0,0.80,"Gordon, Eric",2.50,7.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,6,04,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",228,0,0,0.80,"Stiemsma, Greg",5.00,6.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,1,29,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",212,143,0,1.20,"Aminu, Al-Farouq",4.20,17.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,11,14,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-202,186,0,0.80,"Aminu, Al-Farouq",4.50,10.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,10,37,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-123,235,0,0.80,"Aminu, Al-Farouq",4.90,18.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,4,7,26,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-213,134,0,0.90,"Evans, Tyreke",3.50,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,4,5,15,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",196,151,0,0.70,"Withey, Jeff",5.40,3.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,1,10,07,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",15,190,0,1.00,"Parsons, Chandler",5.30,19.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,1,9,10,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-228,-14,0,0.40,"Beverley, Patrick",10.90,20.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,1,0,00,0,"Jump Shot","3PT Field Goal",64,"Detroit Pistons",179,615,2,1.00,"Jennings, Brandon",2.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,2,44,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-152,209,0,0.90,"Jennings, Brandon",6.80,19.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,3,0,58,0,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",174,225,0,1.20,"Stuckey, Rodney",5.00,20.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,3,0,01,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",230,113,0,0.80,"Stuckey, Rodney",5.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,1,0,00,0,"Jump Shot","3PT Field Goal",48,"Milwaukee Bucks",-185,446,0,0.40,"Udoh, Ekpe",8.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,3,1,03,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-146,206,0,0.90,"Adrien, Jeff",14.50,17.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,10,52,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-71,151,0,1.00,"Mayo, O.J.",1.40,20.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,6,59,1,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",103,12,2,2.40,"Sessions, Ramon",3.00,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,3,07,1,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-226,0,0,1.00,"Knight, Brandon",2.70,9.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,1,0,08,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-153,209,0,0.80,"Miller, Darius",5.50,2.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,9,15,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",215,134,0,0.80,"Babbitt, Luke",5.80,6.80
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,8,22,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-51,249,1,2.10,"Miller, Darius",4.20,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,6,39,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-48,254,0,0.80,"Davis, Anthony",5.40,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,5,26,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-90,233,0,0.90,"Aminu, Al-Farouq",7.50,12.80
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,2,18,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",192,52,0,-0.30,"Miller, Darius",4.40,10.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,9,53,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",29,255,4,4.50,"Davis, Anthony",5.00,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,7,21,1,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",-84,61,0,0.80,"Miller, Darius",3.20,20.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,5,30,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-114,242,0,0.80,"Morrow, Anthony",6.30,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,4,5,57,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",198,138,0,0.80,"Carter, Vince",3.70,18.90
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,2,9,30,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-163,190,0,0.80,"Garcia, Francisco",4.60,12.80
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,3,6,06,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",130,203,0,0.80,"Lin, Jeremy",3.40,3.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,10,19,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",29,255,1,1.70,"Garcia, Francisco",6.20,8.30
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,2,10,31,1,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",-56,137,0,2.20,"Outlaw, Travis",3.90,14.90
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,4,5,23,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-128,233,0,0.70,"Outlaw, Travis",3.90,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,2,3,04,1,"Jump Shot","2PT Field Goal",9,"Denver Nuggets",64,75,1,1.30,"Foye, Randy",3.20,10.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,5,35,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-224,25,1,2.80,"Humphries, Kris",3.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,3,5,54,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-139,201,5,5.50,"Ellis, Monta",3.70,17.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,9,37,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-224,7,0,1.10,"Garcia, Francisco",3.70,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,4,33,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,20,1,1.50,"Harden, James",8.50,5.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,5,19,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-240,75,0,0.80,"Waiters, Dion",6.30,16.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,5,26,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-218,135,0,0.90,"Tolliver, Anthony",4.10,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,10,31,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",143,151,5,4.00,"Marshall, Kendall",3.10,15.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,2,4,11,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-60,184,1,1.90,"Anderson, James",5.40,11.10
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,4,3,28,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",78,238,18,15.60,"Crabbe, Allen",4.90,8.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,1,8,03,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",94,178,1,1.50,"Smith, Jason",6.20,20.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,2,0,38,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",231,33,0,0.40,"Ariza, Trevor",6.10,21.20
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,2,6,06,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-56,238,1,4.80,"Watson, Earl",4.30,7.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,1,52,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-209,116,2,3.90,"Matthews, Wesley",2.80,6.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,2,8,07,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-71,153,1,1.30,"Pondexter, Quincy",4.10,17.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,3,23,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-30,250,1,1.50,"Calathes, Nick",2.30,11.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,4,7,54,0,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-23,127,2,3.50,"Antetokounmpo, Giannis",1.90,11.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,2,0,46,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",181,22,0,1.10,"Hamilton, Jordan",5.30,12.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,10,47,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",162,179,0,0.80,"Lamb, Jeremy",5.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,1,11,36,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-188,164,0,0.80,"Leonard, Kawhi",7.80,4.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,3,3,59,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-205,129,2,2.40,"Davis, Anthony",5.00,13.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,2,9,36,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-38,99,12,11.50,"Thompson, Klay",3.60,12.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,7,00,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-169,-2,1,1.30,"Afflalo, Arron",3.10,14.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,0,43,0,"Jump Shot","3PT Field Goal",29,"Denver Nuggets",100,274,3,1.90,"Miller, Andre",1.60,2.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,2,1,35,0,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",-16,148,0,0.90,"Nowitzki, Dirk",7.30,21.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,2,0,30,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",80,241,0,1.00,"Conley, Mike",21.20,11.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,7,55,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",6,260,4,4.60,"Brewer, Corey",2.70,16.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,10,21,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",97,173,0,2.30,"Stuckey, Rodney",4.50,6.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,5,03,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",225,0,0,0.40,"James, Mike",2.80,24.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,4,10,11,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-196,143,0,0.80,"Fisher, Derek",4.00,10.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,1,4,22,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",97,156,3,4.80,"Burks, Alec",5.70,8.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,4,1,17,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-136,205,0,0.30,"Chalmers, Mario",1.00,19.40
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,1,1,12,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-172,168,0,0.80,"Crowder, Jae",4.70,15.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,2,3,01,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-231,63,0,0.80,"Jefferson, Richard",3.80,19.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,8,36,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",121,154,1,2.50,"Leonard, Kawhi",4.60,18.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,1,7,03,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",130,228,0,0.90,"Hayward, Gordon",9.00,11.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,3,1,26,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-199,137,0,0.80,"Jackson, Reggie",4.30,15.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,1,7,58,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",207,167,0,0.80,"Foye, Randy",2.90,17.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,6,30,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",42,151,0,0.70,"Henderson, Gerald",2.90,13.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,3,0,53,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",24,26,7,5.40,"Lee, David",1.80,19.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,1,0,28,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-15,178,5,4.70,"Green, Danny",3.80,19.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,4,2,53,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",9,181,5,5.40,"Hamilton, Jordan",4.50,3.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,2,0,27,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",13,208,5,4.90,"Sessions, Ramon",4.20,6.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,3,1,09,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-90,181,3,2.70,"Marion, Shawn",2.90,3.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,5,08,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-95,160,6,5.70,"Antetokounmpo, Giannis",5.80,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,3,0,04,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",45,200,25,22.20,"Rice Jr., Glen",3.50,1.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,1,3,05,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-103,233,0,3.60,"Burks, Alec",3.80,13.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,0,26,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",13,205,1,0.90,"Bradley, Avery",1.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,2,9,11,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-136,112,13,11.30,"Pondexter, Quincy",2.60,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,1,58,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",237,85,0,0.80,"Lin, Jeremy",3.30,4.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,7,50,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",204,172,0,0.80,"Lin, Jeremy",2.20,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,3,3,19,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",114,227,0,1.30,"Sessions, Ramon",4.40,13.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,3,5,01,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-5,173,1,4.30,"West, David",4.00,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,4,06,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",83,129,7,7.00,"Leonard, Kawhi",1.70,17.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,1,04,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",102,198,5,8.00,"Vasquez, Greivis",2.70,5.40
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,1,1,55,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",13,250,3,4.10,"Motiejunas, Donatas",5.40,4.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,3,4,50,0,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-92,61,2,1.90,"Carter, Vince",1.60,19.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,2,9,54,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",110,160,4,3.90,"Irving, Kyrie",3.00,13.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,1,1,55,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",47,257,0,1.60,"Webster, Martell",3.20,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,8,05,0,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",69,30,2,2.80,"Evans, Tyreke",2.20,7.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,1,4,34,0,"Jump Shot","2PT Field Goal",8,"Indiana Pacers",34,83,6,7.80,"Stephenson, Lance",4.10,15.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,8,41,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",234,17,1,1.40,"Humphries, Kris",4.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,7,45,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-112,228,0,2.40,"Larkin, Shane",3.20,6.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,8,28,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",110,160,2,3.10,"Wright, Brandan",3.70,6.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,3,4,52,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-71,239,4,3.60,"Fournier, Evan",3.20,11.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,4,9,38,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-166,187,4,6.00,"Prince, Tayshaun",2.20,17.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,8,11,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",80,145,1,1.80,"Meeks, Jodie",6.40,9.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,2,17,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",138,213,0,0.90,"Henderson, Gerald",5.10,12.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,4,2,43,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-232,55,0,1.00,"Mbah a Moute, Luc",7.60,6.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,2,3,54,0,"Jump Shot","2PT Field Goal",5,"Orlando Magic",32,39,2,2.00,"Davis, Glen",1.50,13.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,4,6,12,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-177,173,0,1.00,"Parsons, Chandler",6.80,12.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,3,9,49,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",13,167,5,5.30,"Wade, Dwyane",3.40,3.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,4,8,18,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-229,64,0,0.70,"Mack, Shelvin",2.90,13.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,3,0,02,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",86,239,0,1.30,"Jones, Terrence",5.40,1.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,1,3,19,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-147,227,0,0.80,"Middleton, Khris",3.90,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,10,36,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",45,36,5,4.20,"Williams, Marvin",1.50,17.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,1,7,19,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",116,227,1,1.90,"Green, Danny",4.70,3.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,3,2,28,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",245,31,0,0.70,"Ayres, Jeff",8.80,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,7,50,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-229,1,0,0.90,"Favors, Derrick",6.90,8.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,2,7,42,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",39,257,0,0.90,"Cunningham, Jared",5.00,22.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,2,49,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-182,30,0,0.00,,0.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,4,4,51,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",-34,52,3,3.60,"Ariza, Trevor",1.10,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,1,6,15,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-185,162,0,0.80,"Battier, Shane",3.70,15.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,4,41,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-108,225,0,0.80,"Barton, Will",0.60,13.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,3,1,27,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",-24,25,0,0.00,"Chandler, Wilson",1.60,16.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,3,11,11,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-78,233,0,0.90,"Green, Danny",4.40,9.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,10,07,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-229,-14,0,1.00,"Brewer, Corey",10.40,9.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,2,9,14,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",198,17,0,0.90,"Burks, Alec",3.50,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,2,9,45,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-29,172,9,8.30,"Williams, Derrick",5.20,5.40
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,4,9,58,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",69,233,0,3.60,"Barton, Will",2.50,4.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,10,35,0,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-78,268,0,0.80,"Biyombo, Bismack",3.20,3.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,2,0,36,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",222,104,0,0.80,"Nowitzki, Dirk",4.70,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,1,4,40,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-172,22,1,1.90,"Parker, Tony",4.10,5.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,4,10,27,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-49,183,3,3.00,"Parsons, Chandler",3.30,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,5,55,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-191,-6,2,3.60,"Batum, Nicolas",2.80,20.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,9,13,0,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",2,61,1,1.50,"Carter, Vince",2.90,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,4,2,08,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-228,11,0,1.30,"Conley, Mike",0.90,5.80
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,2,8,18,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",13,261,4,3.80,"Fournier, Evan",3.70,11.50
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,7,33,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",147,203,1,2.00,"Iguodala, Andre",6.10,5.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,10,25,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",241,-13,0,0.90,"Lillard, Damian",4.20,9.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,5,45,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",147,228,0,0.50,"Carter, Vince",1.30,7.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,2,8,07,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-228,94,0,0.90,"Casspi, Omri",4.90,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,4,26,0,"Jump Shot","2PT Field Goal",10,"San Antonio Spurs",26,97,6,6.40,"Leonard, Kawhi",1.90,16.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,7,15,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",182,176,0,0.80,"Frye, Channing",4.50,16.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,2,1,13,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-93,239,4,4.80,"Brewer, Corey",5.30,15.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,4,2,47,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",168,37,3,3.20,"Jackson, Reggie",4.50,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,2,5,17,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",23,175,2,2.20,"Batum, Nicolas",3.90,14.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,2,2,55,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",9,119,1,2.50,"McCollum, CJ",2.30,12.60
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,1,1,18,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-147,64,2,2.20,"Thompson, Klay",2.20,12.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,1,5,40,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-100,219,1,1.10,"Bradley, Avery",9.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,1,44,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-111,236,0,0.80,"Rivers, Austin",4.40,6.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,4,47,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",125,220,0,0.90,"Carter-Williams, Michael",9.10,15.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,4,7,42,0,"Jump Shot","2PT Field Goal",11,"Brooklyn Nets",-40,105,2,2.10,"Anderson, Alan",3.40,7.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,10,24,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,-13,0,0.80,"Stephenson, Lance",12.70,20.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,1,3,04,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",13,168,0,2.90,"George, Paul",2.80,14.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,7,21,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",13,160,9,7.00,"Stiemsma, Greg",4.10,16.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,5,12,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",154,50,1,2.00,"George, Paul",4.20,6.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,2,3,43,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-19,134,0,1.30,"Green, Gerald",1.50,3.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,2,1,50,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",-21,22,7,8.50,"Harden, James",2.00,10.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,1,2,17,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-155,23,2,2.00,"Harden, James",1.90,6.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,4,0,38,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-150,197,0,0.00,"Allen, Tony",3.50,15.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,4,10,33,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",181,45,5,5.60,"Salmons, John",4.80,12.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,2,10,46,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-73,181,2,2.30,"Lamb, Jeremy",4.50,7.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,10,26,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-16,145,4,5.80,"Butler, Caron",2.10,3.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,2,10,47,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",94,250,2,4.20,"Henderson, Gerald",4.70,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,0,47,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",149,60,1,1.40,"Morrow, Anthony",2.00,8.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,1,5,18,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-164,23,1,1.60,"Ariza, Trevor",3.00,13.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,6,24,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-101,-11,6,4.80,"Calderon, Jose",1.60,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,5,38,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-155,26,0,0.80,"James, Mike",6.40,4.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,2,7,58,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-23,254,0,0.90,"Bass, Brandon",4.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,3,0,46,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-111,112,1,2.00,"Henderson, Gerald",3.80,9.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,2,10,38,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",138,211,4,4.10,"Garrett, Diante",4.50,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,10,21,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-68,105,3,2.60,"Leonard, Kawhi",3.00,13.80
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,4,4,18,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",222,26,0,0.80,"Calderon, Jose",5.30,15.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,4,10,13,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-45,242,4,4.30,"Kanter, Enes",1.70,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,1,2,14,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-98,247,2,2.80,"Sefolosha, Thabo",3.90,20.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,5,45,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",233,22,0,0.70,"Hawes, Spencer",3.90,6.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,2,11,11,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",12,260,1,1.50,"Smith, J.R.",4.90,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,2,28,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-183,172,0,1.00,"Evans, Tyreke",8.40,13.90
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,3,1,48,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",43,44,7,6.20,"Meeks, Jodie",1.30,10.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,1,1,29,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",190,203,0,0.90,"Crowder, Jae",5.70,18.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,4,7,59,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-114,233,1,2.50,"Mahinmi, Ian",4.80,15.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,6,42,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",53,60,8,8.50,"Barnes, Harrison",2.30,7.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,1,0,30,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",21,252,0,0.80,"Waiters, Dion",2.40,17.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-08,2013,165,1610612746,400489806,2,11,43,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",136,151,1,1.50,"Mack, Shelvin",3.80,9.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,4,11,03,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",28,268,0,1.00,"Dunleavy, Mike",9.40,10.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,10,00,0,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",47,53,1,2.20,"Conley, Mike",2.70,5.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,2,1,44,0,"Jump Shot","2PT Field Goal",11,"Orlando Magic",21,116,3,3.20,"Oladipo, Victor",5.70,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,7,55,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",231,14,0,0.80,"Pargo, Jannero",5.30,17.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,3,02,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-194,-10,1,4.20,"Morrow, Anthony",1.20,8.30
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,2,2,40,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",174,213,0,1.10,"Mozgov, Timofey",12.00,19.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,2,1,33,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",89,246,0,0.80,"Anderson, Alan",6.90,11.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,11,40,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-101,230,0,1.10,"Murry, Toure",7.30,21.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,10,41,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",187,0,2,2.40,"Smith, J.R.",5.30,7.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,8,07,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",36,6,1,1.30,"Butler, Jimmy",4.10,10.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,1,0,11,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-131,31,11,12.50,"McLemore, Ben",3.80,5.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,4,8,29,0,"Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-21,99,0,1.10,"Leonard, Kawhi",6.10,15.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,4,7,48,0,"Jump Shot","2PT Field Goal",5,"Chicago Bulls",-4,55,1,0.90,"Teague, Marquis",1.80,5.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,2,11,17,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",143,137,4,6.10,"Crowder, Jae",5.00,15.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,4,30,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-164,-28,1,2.20,"Shumpert, Iman",3.20,11.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,4,13,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-226,52,0,0.80,"McLemore, Ben",2.90,9.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,3,0,02,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",0,261,20,19.80,"Smith, J.R.",5.70,2.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,8,45,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-111,217,3,3.40,"Hill, Solomon",3.90,18.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,3,10,50,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",42,201,3,3.40,"Marion, Shawn",3.50,5.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,6,57,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",159,205,0,1.00,"Henderson, Gerald",4.30,16.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,4,5,36,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",165,201,9,8.10,"Ariza, Trevor",1.10,13.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-23,2013,165,1610612746,400489060,4,4,28,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",-49,53,0,0.70,"Thomas, Isaiah",0.20,23.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,1,2,55,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-105,118,2,4.70,"Allen, Ray",3.80,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,1,2,59,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-84,239,0,0.80,"Westbrook, Russell",5.30,9.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,1,3,35,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",236,48,0,0.90,"Brewer, Corey",6.60,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,8,08,0,"Jump Shot","3PT Field Goal",28,"Cleveland Cavaliers",170,225,3,3.40,"Irving, Kyrie",3.70,13.20
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,1,1,18,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",102,168,2,2.20,"Outlaw, Travis",2.80,4.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,6,58,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",-224,-30,0,1.30,"Bargnani, Andrea",7.20,18.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,11,46,0,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",64,110,1,1.60,"Pondexter, Quincy",3.10,11.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,1,8,33,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-238,1,0,0.60,"Ross, Terrence",5.20,18.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,2,6,22,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",110,257,5,7.00,"Stuckey, Rodney",11.30,24.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,3,0,02,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",20,254,21,21.20,"Barnes, Harrison",2.20,1.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,8,37,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-34,189,2,4.50,"Deng, Luol",4.50,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,2,4,20,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",10,119,3,4.00,"McCollum, CJ",2.20,5.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,7,38,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",231,71,0,0.90,"Waiters, Dion",11.30,1.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,3,2,13,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-144,119,6,4.80,"Pierce, Paul",3.60,13.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,9,24,0,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",21,80,0,0.20,"Shved, Alexey",0.50,12.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,6,29,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",6,250,0,1.00,"Matthews, Wesley",4.70,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,0,48,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-188,9,3,4.30,"Vasquez, Greivis",3.60,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,1,10,14,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-141,214,0,1.10,"Joseph, Cory",4.40,18.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,3,5,20,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-10,63,4,5.40,"Thompson, Klay",2.10,7.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,3,1,39,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-97,247,0,0.90,"Jackson, Reggie",4.00,18.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,3,2,34,0,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",-64,132,1,1.60,"Lowry, Kyle",3.60,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,6,39,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-240,52,0,0.70,"Miller, Darius",3.40,10.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,3,0,31,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",54,236,0,0.90,"Parsons, Chandler",14.30,18.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,1,1,15,0,"Jump Shot","2PT Field Goal",10,"Utah Jazz",42,93,2,2.40,"Burks, Alec",1.40,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,2,10,46,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",143,119,1,1.30,"Snell, Tony",1.30,9.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,1,3,45,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",155,203,2,3.00,"Thompson, Hollis",4.00,2.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,4,1,13,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",168,137,18,15.60,"Ariza, Trevor",2.50,7.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,4,1,06,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",99,184,15,16.80,"Bargnani, Andrea",4.70,4.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,2,10,50,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",37,244,3,4.00,"Thomas, Isaiah",3.30,9.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,2,7,04,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-59,197,8,8.70,"Vasquez, Greivis",4.90,16.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,3,3,33,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",159,66,0,0.60,"McLemore, Ben",2.60,12.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,3,0,44,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-139,201,0,0.70,"Thomas, Isaiah",3.70,8.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,9,02,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-64,235,0,1.20,"Thomas, Isaiah",2.40,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,6,10,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",18,277,1,1.20,"McLemore, Ben",5.50,3.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,4,51,1,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",89,154,7,7.50,"Patterson, Patrick",1.80,6.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,3,26,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-2,203,5,5.20,"McLemore, Ben",3.00,4.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,0,00,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",10,228,5,16.70,"Salmons, John",4.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,5,1,28,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",146,110,12,12.00,"McLemore, Ben",3.10,12.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,1,43,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",62,96,5,4.80,"Stephenson, Lance",1.90,4.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,9,21,1,"Jump Shot","2PT Field Goal",9,"Indiana Pacers",-90,33,4,3.70,"Hibbert, Roy",7.50,16.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,8,13,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",116,231,8,8.20,"Stephenson, Lance",4.00,16.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,0,00,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-240,0,0,0.90,"George, Paul",16.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,10,43,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-32,156,8,6.00,"Mack, Shelvin",3.70,4.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,10,18,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",73,201,10,6.50,"Martin, Cartier",4.40,17.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,8,31,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-138,206,0,0.90,"Carroll, DeMarre",3.90,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,7,47,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",110,187,6,7.10,"Carroll, DeMarre",6.20,17.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,4,51,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",84,170,1,1.10,"Horford, Al",4.70,17.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,3,1,57,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",143,156,4,4.10,"Miller, Mike",4.40,2.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,2,28,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-119,228,1,1.70,"Franklin, Jamaal",4.20,11.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,3,0,01,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-182,184,0,0.90,"Clark, Earl",8.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,9,48,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",-123,116,4,5.40,"Dellavedova, Matthew",2.50,4.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,1,42,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-116,126,1,1.40,"Irving, Kyrie",2.40,14.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,1,12,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",236,14,0,0.70,"Waiters, Dion",5.40,19.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,0,26,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-237,7,0,0.80,"Irving, Kyrie",4.00,20.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,1,0,01,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-5,176,17,17.10,"Davies, Brandon",4.90,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,9,07,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-146,233,3,2.80,"Thompson, Hollis",5.20,4.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,8,48,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-237,-17,0,1.00,"Thompson, Hollis",6.90,16.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,4,11,49,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-232,-14,0,0.90,"Allen, Lavoy",4.50,15.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,5,55,0,"Jump Shot","2PT Field Goal",21,"Boston Celtics",165,135,4,6.00,"Bradley, Avery",3.70,7.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,3,2,22,1,"Jump Shot","2PT Field Goal",21,"Boston Celtics",92,194,2,3.50,"Green, Jeff",3.90,18.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,11,02,0,"Jump Shot","2PT Field Goal",21,"Boston Celtics",-76,200,1,2.70,"Wallace, Gerald",4.20,11.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,7,54,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",86,168,2,3.20,"Bass, Brandon",4.00,8.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,2,34,1,"Jump Shot","3PT Field Goal",29,"Boston Celtics",50,287,0,0.70,"Green, Jeff",6.10,5.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,2,10,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",162,195,0,0.90,"Bass, Brandon",9.30,17.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,2,8,10,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",166,186,0,1.10,"Pierce, Paul",5.00,20.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,3,4,54,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-239,-14,0,2.00,"Lopez, Brook",5.00,17.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,4,2,47,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-231,-22,0,0.90,"Shengelia, Tornike",6.50,13.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,1,5,42,1,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-221,22,1,0.80,"Ariza, Trevor",3.90,19.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,2,1,20,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",4,271,0,0.80,"Webster, Martell",7.20,19.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,3,9,48,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-29,184,1,2.20,"Ariza, Trevor",4.20,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,2,0,01,0,"Jump Shot","3PT Field Goal",42,"San Antonio Spurs",193,383,1,1.40,"Leonard, Kawhi",6.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,10,11,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",152,113,2,2.40,"Belinelli, Marco",0.50,19.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,6,54,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",189,173,0,1.00,"Belinelli, Marco",6.80,22.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,6,43,1,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",242,99,0,1.20,"Parker, Tony",4.10,19.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,2,15,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",10,269,0,0.90,"Leonard, Kawhi",6.10,22.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,4,0,12,1,"Jump Shot","3PT Field Goal",33,"San Antonio Spurs",-155,295,21,20.90,"Joseph, Cory",5.40,1.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,1,11,10,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-138,132,0,2.20,"Smith, Jason",5.50,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,1,0,48,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",171,1,1,1.50,"Rivers, Austin",2.00,17.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,11,02,0,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",204,194,0,1.30,"Gordon, Eric",9.00,19.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,9,01,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-19,260,0,0.60,"Gordon, Eric",4.60,0.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,4,7,09,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-49,235,2,3.90,"Evans, Tyreke",3.80,12.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,1,11,40,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",244,1,0,1.20,"Foye, Randy",0.60,6.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,2,5,42,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-157,211,0,2.00,"Lawson, Ty",3.60,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,2,5,01,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",200,175,0,1.80,"Lawson, Ty",3.40,1.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,6,33,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",187,183,0,0.80,"Chandler, Wilson",5.20,10.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,4,15,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-133,228,0,1.00,"Chandler, Wilson",3.40,10.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,2,14,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-226,20,0,1.10,"Hamilton, Jordan",4.40,19.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,4,4,47,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",34,186,5,7.10,"Miller, Quincy",3.10,4.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,9,05,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-56,247,2,2.50,"Brewer, Corey",3.80,6.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,8,22,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",100,239,3,3.40,"Brewer, Corey",2.40,5.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,2,3,14,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-234,-2,1,1.90,"Mbah a Moute, Luc",9.10,22.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,3,0,01,1,"Jump Shot","3PT Field Goal",28,"Minnesota Timberwolves",-194,214,3,2.40,"Barea, Jose Juan",1.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,1,5,36,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",54,190,1,2.00,"Iguodala, Andre",2.50,6.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,0,00,0,"Jump Shot","3PT Field Goal",28,"Golden State Warriors",163,231,0,0.60,"Iguodala, Andre",16.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,2,5,44,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",141,201,0,1.20,"Batum, Nicolas",5.10,17.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,2,2,45,0,"Jump Shot","3PT Field Goal",29,"Portland Trail Blazers",1,290,2,2.80,"Batum, Nicolas",5.60,2.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,2,1,03,1,"Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-87,6,0,0.00,"Batum, Nicolas",7.30,19.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,3,9,25,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",119,110,2,2.70,"Batum, Nicolas",4.00,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,3,5,12,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-224,14,0,0.80,"Batum, Nicolas",4.40,12.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,4,6,57,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",45,241,0,1.00,"Matthews, Wesley",4.40,18.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,4,4,52,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-123,216,1,2.80,"Matthews, Wesley",4.90,17.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,11,45,1,"Jump Shot","3PT Field Goal",26,"Utah Jazz",195,179,0,1.10,"Hayward, Gordon",4.90,11.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,4,2,00,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-229,-16,0,1.10,"Kanter, Enes",9.90,23.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,1,4,08,0,"Jump Shot","2PT Field Goal",10,"Phoenix Suns",-100,11,1,1.60,"Dragic, Goran",1.90,12.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,11,13,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",234,47,0,0.80,"Dragic, Goran",2.70,9.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,3,52,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-223,110,0,0.00,"Tucker, PJ",3.30,11.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,1,15,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",160,206,1,1.40,"Morris, Markieff",4.60,18.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,10,57,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",135,143,0,0.80,"Henderson, Gerald",5.10,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,7,57,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-71,255,0,0.80,"Tolliver, Anthony",4.30,1.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,7,31,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",171,203,1,1.30,"Henderson, Gerald",5.10,12.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,1,5,10,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-152,61,1,1.90,"Henderson, Gerald",3.10,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,3,9,11,1,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-30,53,0,0.90,"Henderson, Gerald",3.20,9.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,1,8,33,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-224,53,0,0.00,"Ellis, Monta",3.00,9.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,6,29,1,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-30,116,2,3.70,"Ellis, Monta",0.70,16.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,2,12,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",23,179,2,3.20,"Calderon, Jose",3.00,5.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,4,17,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",124,131,2,5.50,"Green, Danny",5.00,10.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,9,06,1,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",-7,99,10,10.10,"Green, Danny",3.60,14.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,7,37,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",141,83,1,1.30,"Splitter, Tiago",4.70,11.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,11,00,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",100,116,2,4.00,"Belinelli, Marco",2.50,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,7,25,1,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-98,83,1,1.40,"Leonard, Kawhi",3.60,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,6,03,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",21,34,0,-0.10,"Leonard, Kawhi",2.70,0.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,1,13,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",106,149,2,2.00,"Green, Danny",2.90,11.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,0,02,1,"Jump Shot","3PT Field Goal",29,"San Antonio Spurs",-174,241,1,1.50,"Ginobili, Manu",1.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,4,11,35,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",-10,134,0,1.10,"Green, Danny",3.60,18.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,4,11,04,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",105,149,0,0.00,,0.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,1,8,58,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",17,258,0,0.70,"Afflalo, Arron",4.10,15.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,2,2,43,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-71,241,0,1.00,"Davis, Glen",9.00,17.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,3,11,16,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",102,118,0,0.00,"Afflalo, Arron",3.00,5.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,4,3,38,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-235,-8,0,0.90,"Moore, ETwaun",2.00,5.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,1,3,49,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-43,192,1,3.00,"Humphries, Kris",4.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,2,8,54,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-147,187,0,0.70,"Bayless, Jerryd",4.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,2,0,02,0,"Jump Shot","3PT Field Goal",28,"Boston Celtics",-81,274,4,3.10,"Bradley, Avery",4.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,11,16,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",133,222,1,2.70,"Bradley, Avery",0.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,9,50,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",168,186,0,0.70,"Bradley, Avery",4.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,8,58,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-147,214,0,1.20,"Sullinger, Jared",4.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,8,26,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",193,17,0,0.80,"Humphries, Kris",5.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,4,41,1,"Jump Shot","2PT Field Goal",20,"Boston Celtics",9,201,0,1.10,"Humphries, Kris",5.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,1,3,15,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-10,257,4,5.60,"Young, Nick",5.50,16.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,2,57,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-164,37,7,6.70,"Johnson, Wesley",2.60,15.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,2,27,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",234,110,0,1.10,"Johnson, Wesley",8.00,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,1,57,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",80,165,7,7.00,"Johnson, Wesley",3.30,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,4,6,16,1,"Jump Shot","3PT Field Goal",29,"Los Angeles Lakers",168,239,0,1.00,"Kelly, Ryan",5.20,0.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,2,6,54,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",0,255,0,1.00,"Larkin, Shane",10.60,21.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,4,03,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-229,-6,0,1.30,"Calderon, Jose",3.70,14.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,2,01,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-62,162,7,5.90,"Dalembert, Samuel",5.70,17.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,1,0,04,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",135,208,22,19.80,"Shumpert, Iman",5.50,4.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,8,29,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",223,123,0,0.80,"Murry, Toure",5.30,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,10,04,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",171,105,7,7.90,"Smith, J.R.",5.40,13.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,9,40,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",187,176,3,3.30,"Smith, J.R.",5.30,18.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,6,29,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-153,190,1,2.50,"Felton, Raymond",2.70,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,4,0,08,1,"Jump Shot","3PT Field Goal",32,"New York Knicks",-116,304,18,19.40,"Hardaway Jr., Tim",6.00,2.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,1,3,40,0,"Jump Shot","3PT Field Goal",42,"Indiana Pacers",135,400,0,1.90,"George, Paul",5.50,1.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,10,06,1,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-37,149,2,2.50,"Stephenson, Lance",4.30,11.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,3,55,0,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",-52,132,6,6.80,"Hill, George",3.20,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,3,1,20,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-19,260,6,5.50,"Hill, George",1.80,4.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,4,5,04,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-224,127,0,0.00,"George, Paul",4.10,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,1,0,44,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-166,198,1,1.00,"Bynum, Will",4.30,12.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,2,10,12,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",53,258,0,1.70,"Singler, Kyle",4.40,8.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,3,2,55,1,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",99,11,0,0.90,"Smith, Josh",6.20,6.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,3,1,24,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-75,184,1,2.00,"Drummond, Andre",4.40,15.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,4,6,28,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",163,64,6,6.20,"Smith, Josh",3.70,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,4,0,55,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-67,260,14,13.00,"Caldwell-Pope, Kentavious",4.10,5.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,1,0,48,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",95,235,2,2.20,"Douglas-Roberts, Chris",4.50,15.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,2,11,12,1,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",103,268,1,1.90,"Biyombo, Bismack",4.70,10.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,2,5,32,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",39,165,3,3.30,"Pargo, Jannero",4.20,11.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,7,27,1,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",-15,93,10,8.00,"Zeller, Cody",2.70,15.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,5,50,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",99,157,1,1.40,"Henderson, Gerald",4.30,10.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,4,28,1,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",21,74,2,2.00,"Tolliver, Anthony",2.10,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,1,05,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-59,168,2,2.10,"Sessions, Ramon",2.20,21.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,4,8,34,0,"Jump Shot","2PT Field Goal",9,"Chicago Bulls",59,78,1,2.00,"Snell, Tony",2.50,6.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,8,16,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",130,138,0,0.80,"Stuckey, Rodney",5.10,13.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,2,51,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-81,239,0,1.10,"Lee, David",5.70,20.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,1,3,53,0,"Jump Shot","2PT Field Goal",5,"Orlando Magic",0,55,1,1.30,"Afflalo, Arron",4.20,18.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,1,3,10,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",21,80,2,2.40,"Thomas, Isaiah",2.00,9.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,3,2,56,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-46,249,0,0.60,"Lowry, Kyle",3.50,14.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,3,0,01,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",40,23,9,8.40,"Kelly, Ryan",1.90,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,1,11,05,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-108,214,0,0.80,"Crawford, Jordan",8.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,4,01,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",171,189,0,1.10,"Davis, Anthony",5.80,20.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,3,3,27,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",-221,0,0,0.90,"Smith, J.R.",7.30,19.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,4,33,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",151,197,0,0.80,"Wroten, Tony",3.90,14.40
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,1,07,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-226,22,0,0.80,"Miller, Darius",2.00,7.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,1,5,29,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",122,146,1,2.60,"Ellis, Monta",1.40,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,11,09,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-11,260,0,0.90,"Matthews, Wesley",3.60,5.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,2,0,46,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",138,203,1,0.80,"Vasquez, Greivis",14.60,19.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,5,0,43,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-48,254,23,20.40,"Patterson, Patrick",5.20,2.90
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,3,3,37,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",47,183,5,4.90,"Davis, Anthony",4.20,9.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,5,36,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-7,159,4,8.60,"Hill, Solomon",0.30,14.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,2,4,15,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",138,222,0,0.90,"Henderson, Gerald",7.90,15.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,1,0,04,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-79,154,22,19.80,"Durant, Kevin",1.20,4.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,1,0,02,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-90,250,8,7.40,"Moore, ETwaun",3.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,3,0,28,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-134,231,2,2.90,"Ross, Terrence",1.60,5.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,1,6,22,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-232,7,0,0.90,"Aminu, Al-Farouq",4.40,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,2,0,02,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",165,192,4,3.20,"Mills, Patty",2.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,1,1,14,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",24,258,0,0.90,"George, Paul",11.30,6.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,6,25,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-133,142,9,7.80,"Wroten, Tony",4.30,16.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,1,11,45,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",-103,197,0,1.00,"Iguodala, Andre",4.50,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,1,7,48,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",88,39,0,1.50,"Leonard, Kawhi",1.90,6.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,1,11,30,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",42,151,0,1.00,"Bledsoe, Eric",8.50,12.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,1,2,38,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-231,3,0,0.90,"Allen, Tony",2.80,3.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,1,1,26,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-86,178,10,11.30,"Bayless, Jerryd",3.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,2,6,42,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",136,85,6,5.20,"Harkless, Maurice",3.20,16.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,2,11,28,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",106,247,6,5.00,"Middleton, Khris",4.00,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,11,46,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-142,85,0,0.70,"Stuckey, Rodney",3.40,11.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,7,09,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-231,-14,0,1.10,"Hayward, Gordon",6.40,18.90
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,2,6,39,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",225,119,0,0.80,"Thompson, Klay",3.20,15.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,3,7,51,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",173,197,0,1.00,"Nelson, Jameer",3.30,18.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,3,3,54,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-226,23,0,0.90,"George, Paul",4.10,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,0,02,0,"Jump Shot","3PT Field Goal",29,"Charlotte Hornets",-161,250,3,2.20,"McRoberts, Josh",3.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,3,10,30,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-119,239,0,0.80,"James, LeBron",20.50,21.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,7,03,0,"Jump Shot","2PT Field Goal",3,"Boston Celtics",28,17,19,19.00,"Bass, Brandon",1.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,3,2,19,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",28,254,0,0.80,"Harris, Devin",3.50,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,2,7,17,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",230,145,1,2.30,"Parsons, Chandler",2.10,14.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,2,42,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-62,175,0,0.80,"Aminu, Al-Farouq",6.20,16.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,4,0,43,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",173,198,10,13.80,"Ariza, Trevor",7.00,7.80
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,2,9,35,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",-71,200,3,3.40,"Iguodala, Andre",2.90,13.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,1,1,00,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-166,211,2,2.80,"Salmons, John",4.30,19.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,10,15,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-30,183,17,14.80,"Lee, Courtney",1.60,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,3,7,56,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-175,175,0,1.00,"Rubio, Ricky",4.40,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,1,8,28,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-131,216,0,0.00,"Davis, Glen",14.00,19.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,4,8,09,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",168,61,7,4.70,"Ibaka, Serge",5.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,1,1,32,0,"Jump Shot","3PT Field Goal",27,"Miami Heat",54,271,0,10.40,"Battier, Shane",3.40,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,2,5,46,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-232,4,0,0.80,"Henderson, Gerald",3.80,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,1,6,17,0,"Jump Shot","2PT Field Goal",8,"Phoenix Suns",-13,88,3,3.00,"Dragic, Goran",2.00,17.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,6,14,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",86,236,1,1.90,"Brewer, Corey",3.10,14.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,4,8,04,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-10,252,1,1.60,"Anderson, Alan",3.30,12.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,3,7,42,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",234,104,0,0.90,"Belinelli, Marco",3.50,14.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,6,48,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",-7,58,1,1.20,"Hibbert, Roy",2.60,20.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,4,54,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",195,74,1,1.20,"Brewer, Corey",3.90,3.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,1,1,41,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",141,216,0,0.70,"Douglas-Roberts, Chris",5.00,2.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,4,10,52,0,"Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",143,238,8,6.00,"Durant, Kevin",4.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,3,6,52,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",84,246,2,3.30,"Johnson, Joe",5.70,3.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,3,2,41,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",163,201,0,0.80,"Young, Nick",5.10,18.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,1,39,0,"Jump Shot","2PT Field Goal",8,"Utah Jazz",24,85,1,1.80,"Kanter, Enes",6.30,5.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,3,0,00,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",174,176,2,2.00,"Lamb, Jeremy",4.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,1,6,14,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",7,42,5,5.50,"Hayward, Gordon",1.00,4.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,4,10,52,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",10,91,1,2.80,"Barnes, Harrison",3.50,12.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,10,05,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-2,164,6,6.70,"Brown, Lorenzo",1.70,12.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,1,7,25,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",-51,205,2,2.20,"Leonard, Kawhi",3.40,16.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,1,11,34,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",143,225,0,0.70,"Ross, Terrence",3.70,12.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,1,4,48,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-120,217,1,1.80,"Lee, Courtney",3.70,14.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,4,5,55,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-11,192,6,6.90,"Vesely, Jan",5.80,8.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,3,3,01,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",149,31,2,5.80,"Bynum, Will",0.40,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,1,8,11,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-229,131,0,0.80,"Webster, Martell",4.40,13.90
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,5,54,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",10,266,2,4.00,"Harden, James",3.50,7.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,2,1,39,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",84,96,1,1.40,"Morris, Markieff",3.50,13.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,4,8,17,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",119,219,2,1.50,"Wolters, Nate",15.70,13.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,3,4,30,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-237,-13,0,0.80,"Batum, Nicolas",5.30,19.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,3,0,34,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",160,208,2,2.00,"Allen, Ray",3.70,20.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,3,4,19,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-179,178,0,0.80,"Booker, Trevor",7.00,6.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,0,22,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-199,165,0,0.80,"Babbitt, Luke",16.60,6.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,4,1,36,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",67,208,4,4.30,"Matthews, Wesley",4.20,17.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,5,1,15,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-223,14,0,0.80,"Martin, Kevin",3.00,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,3,5,49,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",173,211,0,0.80,"Lowry, Kyle",5.00,22.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,3,6,43,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-15,143,1,1.30,"Sefolosha, Thabo",3.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,3,7,25,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",77,244,0,1.00,"Henderson, Gerald",3.40,9.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,3,11,33,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",234,-11,0,1.10,"Westbrook, Russell",2.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-13,2013,165,1610612746,400488995,4,2,38,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",58,260,0,0.80,"Westbrook, Russell",5.50,7.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,2,11,16,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",0,258,9,7.30,"Scola, Luis",5.80,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,1,10,14,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-149,201,0,1.00,"Gordon, Eric",3.10,12.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,1,1,48,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",121,159,7,8.80,"Hill, George",3.20,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,9,22,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-103,164,16,13.80,"Allen, Ray",3.30,9.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,3,0,54,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-157,192,0,0.90,"Stephenson, Lance",3.80,18.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,10,50,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",124,225,0,0.90,"Foye, Randy",8.30,8.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,1,44,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-239,33,0,0.70,"Arthur, Darrell",4.00,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,3,1,30,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",12,261,3,3.00,"Williams, Mo",3.10,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,2,1,41,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-221,7,0,0.90,"Carter, Vince",8.70,6.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,5,2,30,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-27,214,5,7.60,"Cousins, DeMarcus",3.50,16.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,4,11,24,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",80,172,4,4.30,"Carter, Vince",3.60,9.90
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,4,8,44,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",110,184,3,3.40,"Cousins, DeMarcus",3.90,16.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,3,0,50,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",105,124,12,11.60,"Kelly, Ryan",4.10,7.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,0,44,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-120,132,8,7.00,"Babbitt, Luke",2.80,6.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,3,54,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",228,-6,0,0.90,"Allen, Lavoy",7.70,12.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,11,23,0,"Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-38,96,4,4.60,"Green, Danny",2.20,12.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,5,13,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",108,231,1,1.50,"Bass, Brandon",3.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,1,7,02,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-150,206,0,2.00,"Iguodala, Andre",3.20,8.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,1,1,13,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-144,195,0,0.80,"Deng, Luol",3.90,4.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,1,0,11,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-97,254,18,16.40,"Morrow, Anthony",3.00,6.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,1,58,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",152,198,0,0.90,"Belinelli, Marco",4.70,16.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,3,2,06,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-119,153,2,4.00,"Harden, James",3.40,11.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,2,4,45,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-34,239,0,0.80,"Bradley, Avery",4.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,1,0,00,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",196,17,0,0.00,"Pondexter, Quincy",9.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-12,2013,165,1610612746,400490062,2,11,18,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-175,170,0,1.20,"Cunningham, Jared",6.30,19.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,10,10,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-106,126,4,4.30,"Mayo, O.J.",2.40,8.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,4,6,56,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",45,28,0,1.10,"Green, Danny",0.70,14.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,4,0,18,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",214,156,1,1.70,"Jefferson, Richard",2.70,3.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,4,0,09,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",73,242,21,21.00,"Ross, Terrence",8.50,2.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,1,8,03,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-190,60,1,1.70,"Leonard, Kawhi",2.30,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,2,8,05,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",77,156,0,0.90,"Parsons, Chandler",5.60,11.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,1,6,00,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",204,146,0,0.90,"Afflalo, Arron",11.30,18.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,10,45,0,"Jump Shot","2PT Field Goal",15,"Boston Celtics",88,127,0,0.90,"Bradley, Avery",5.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,1,3,42,0,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-224,19,0,0.80,"Green, Danny",7.00,18.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,1,11,44,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-213,127,0,1.00,"Ellis, Monta",5.60,12.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,2,9,18,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-218,112,0,1.50,"Hardaway Jr., Tim",4.40,18.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,4,10,26,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-41,178,4,4.40,"Jerebko, Jonas",4.50,20.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,4,1,38,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",237,-3,0,0.70,"Jennings, Brandon",3.90,5.40
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,0,41,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",179,192,0,1.10,"Antetokounmpo, Giannis",5.10,5.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-08,2013,165,1610612746,400489806,2,7,44,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",0,242,0,0.70,"Mack, Shelvin",4.80,3.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,2,10,31,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-51,252,1,2.10,"Carter, Vince",4.20,5.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,3,37,0,"Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",119,187,0,1.30,"Matthews, Wesley",4.90,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,2,4,26,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-245,-5,0,0.80,"Blake, Steve",3.50,1.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,4,8,28,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",-37,12,0,0.90,"Thompson, Hollis",3.30,14.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,4,5,19,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",121,211,1,1.70,"Ellis, Monta",2.50,14.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,5,51,0,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",7,123,4,3.70,"Anderson, Ryan",4.20,9.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,7,39,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-199,1,1,1.30,"Snell, Tony",4.10,18.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,3,3,25,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-202,-24,0,1.00,"Waiters, Dion",5.60,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,2,7,15,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-90,246,5,5.30,"Stuckey, Rodney",4.00,16.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,0,02,0,"Jump Shot","2PT Field Goal",11,"Boston Celtics",91,66,24,20.80,"Humphries, Kris",1.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,5,43,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-240,1,0,1.30,"Brewer, Corey",6.40,6.90
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,2,4,26,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-136,216,0,1.10,"Aminu, Al-Farouq",6.60,20.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,4,0,30,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-100,167,8,10.40,"Ellis, Monta",3.80,5.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,7,58,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",132,93,1,1.10,"Lillard, Damian",1.50,19.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,1,09,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-78,254,1,1.60,"Wade, Dwyane",4.70,4.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,10,03,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",125,123,7,6.70,"Anderson, James",3.20,9.80
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,2,10,50,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",45,105,4,3.40,"Meeks, Jodie",1.50,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,3,52,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-237,66,0,1.00,"McLemore, Ben",1.50,5.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,2,0,54,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-128,230,5,5.80,"Butler, Jimmy",3.30,15.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,4,7,55,0,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",-24,33,4,4.30,"Crowder, Jae",3.10,8.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,2,8,51,0,"Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-92,66,8,6.60,"Lamb, Jeremy",2.90,5.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,4,8,43,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-117,148,0,2.60,"Ariza, Trevor",3.80,14.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-07,2013,165,1610612746,400488943,2,1,10,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",241,1,0,0.90,"Wade, Dwyane",6.90,11.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,3,0,19,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-108,227,0,1.00,"Green, Danny",4.70,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,3,3,07,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-232,23,0,1.00,"Anderson, James",3.70,13.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,2,6,41,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",231,80,0,0.80,"Harden, James",4.80,18.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,4,5,56,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-174,168,0,1.00,"Johnson, Joe",3.30,18.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,4,8,53,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",54,258,8,7.20,"Salmons, John",2.70,14.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,4,3,59,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",226,126,0,0.80,"Stuckey, Rodney",6.50,10.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,3,7,54,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",140,222,0,0.80,"Ariza, Trevor",4.90,15.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,1,7,08,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",192,186,0,1.20,"Jones, Terrence",9.90,18.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,3,2,43,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-235,91,0,0.80,"Waiters, Dion",5.70,17.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,1,1,57,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",18,252,0,1.00,"McLemore, Ben",7.10,22.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,2,2,55,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-229,85,0,0.90,"Anderson, James",6.60,9.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,2,1,53,0,"Jump Shot","3PT Field Goal",28,"Denver Nuggets",152,241,0,0.80,"Lawson, Ty",3.40,8.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,2,6,11,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",225,26,0,0.90,"Aminu, Al-Farouq",4.00,12.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-09,2013,165,1610612746,400489178,2,5,05,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-234,-2,0,0.80,"Thompson, Hollis",7.10,14.60
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,4,3,30,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",0,261,0,0.80,"Knight, Brandon",4.20,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-11,2013,165,1610612746,400488979,4,9,45,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-114,225,1,2.80,"Shved, Alexey",4.40,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,10,14,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",198,154,0,1.20,"Gordon, Eric",4.80,22.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,1,3,43,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-223,126,0,0.80,"Morrow, Anthony",3.50,17.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,1,1,08,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-27,162,2,2.60,"Barnes, Harrison",4.10,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,2,0,30,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",225,23,0,1.00,"Nowitzki, Dirk",11.80,20.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,2,1,18,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-54,271,1,1.70,"Hamilton, Jordan",4.90,3.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,10,52,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-235,28,0,1.00,"Anderson, James",3.50,15.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,3,0,38,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",157,203,8,10.50,"Pondexter, Quincy",3.10,11.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,3,0,51,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-101,227,0,1.00,"Brand, Elton",5.70,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,2,2,33,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-138,230,0,1.00,"Parsons, Chandler",5.80,14.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-17,2013,165,1610612746,400489454,3,1,28,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-218,121,0,1.00,"Tyler, Jeremy",5.50,14.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,3,4,24,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",73,123,0,0.80,"McLemore, Ben",2.70,3.80
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,4,10,33,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-168,96,4,3.40,"Crowder, Jae",2.60,5.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,5,31,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",100,162,0,0.80,"Jackson, Reggie",3.40,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,2,10,49,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",43,260,4,4.70,"Mayo, O.J.",3.50,11.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,2,8,02,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",146,227,0,0.70,"Green, Gerald",5.30,9.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,1,10,04,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",154,124,0,0.70,"Lawson, Ty",1.70,9.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,4,5,52,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-122,235,2,4.30,"Hamilton, Jordan",6.20,8.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,4,9,46,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",2,41,4,3.80,"Evans, Tyreke",1.00,15.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,2,11,31,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",21,252,4,4.10,"Waiters, Dion",5.90,17.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-16,2013,165,1610612746,400489019,2,4,51,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",173,205,0,1.00,"Livingston, Shaun",4.40,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,3,0,08,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",91,50,17,19.50,"Seraphin, Kevin",2.20,2.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,2,6,26,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",61,246,0,0.70,"Cunningham, Dante",5.50,2.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,1,03,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-183,195,0,0.80,"Lowry, Kyle",1.70,12.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,2,11,28,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",155,91,0,0.80,"Henderson, Gerald",5.50,13.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,11,48,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-136,115,0,0.80,"Lee, Courtney",6.40,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,9,56,0,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",42,58,0,0.00,"Conley, Mike",2.90,5.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,3,5,32,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-185,187,0,0.80,"Afflalo, Arron",5.60,12.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,4,3,15,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-172,170,0,1.00,"Brewer, Corey",3.60,15.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,4,0,00,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-15,274,1,1.70,"Miller, Darius",2.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,7,17,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",200,145,0,1.00,"Roberts, Brian",3.60,19.80
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,2,7,47,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",149,198,1,2.10,"Watson, Earl",4.30,11.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,2,05,0,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",9,116,1,2.40,"Lowry, Kyle",3.40,14.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,1,0,42,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-41,246,0,0.80,"Miller, Darius",3.20,16.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,4,3,12,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-62,238,1,1.50,"Carroll, DeMarre",2.50,17.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-04,2013,165,1610612746,400488923,3,0,20,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",2,260,1,1.60,"Harden, James",1.80,1.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,4,11,02,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",124,132,2,1.60,"Cunningham, Dante",6.00,11.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,5,10,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-32,154,7,6.30,"Jefferson, Richard",3.80,9.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-26,2013,165,1610612746,400489735,1,9,38,0,"Jump Shot","2PT Field Goal",12,"Houston Rockets",91,88,4,4.00,"Parsons, Chandler",4.20,16.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,3,1,20,0,"Jump Shot","2PT Field Goal",12,"Washington Wizards",72,97,3,2.60,"Seraphin, Kevin",3.50,13.60
+"Jamal Crawford","Los Angeles Clippers",2013-10-29,2013,165,1610612746,400488876,3,1,34,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",45,252,0,0.90,"Farmar, Jordan",4.50,12.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,9,42,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-13,20,7,6.90,"Bogut, Andrew",2.10,16.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,2,7,22,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",4,-2,0,0.60,"Drummond, Andre",5.80,12.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,11,09,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-4,15,0,0.00,"Motiejunas, Donatas",5.50,4.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,0,40,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-16,0,0,0.00,"Beverley, Patrick",12.30,24.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,1,4,48,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",12,9,0,0.70,"Love, Kevin",8.30,20.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,4,8,19,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",6,-8,0,0.60,"Bynum, Will",2.90,13.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,8,56,0,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",6,1,1,1.70,"Douglas-Roberts, Chris",3.50,22.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,1,51,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",4,15,3,2.20,"Allen, Lavoy",2.50,16.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,3,0,04,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-11,25,2,2.40,"Mahinmi, Ian",1.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,7,40,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,9,0,0.60,"Bass, Brandon",4.60,20.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,2,2,57,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-15,4,0,0.60,"Bradley, Avery",3.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,1,49,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",21,-2,0,0.70,"Lee, Courtney",4.00,18.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,3,0,02,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",7,3,6,6.60,"Green, Jeff",2.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,3,3,32,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",10,3,3,3.80,"Parker, Tony",2.30,20.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,11,00,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",2,15,0,0.00,"Lee, Courtney",3.10,23.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,4,4,57,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-8,-5,0,0.50,"Smith, Josh",7.60,15.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,4,2,06,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",13,0,0,0.80,"Hayward, Gordon",0.80,19.50
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,4,8,10,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,6,0,-0.10,"Iguodala, Andre",3.00,14.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-16,2013,165,1610612746,400489236,1,1,19,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",18,1,1,1.50,"Duncan, Tim",2.20,5.00
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,2,8,07,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",20,7,3,3.90,"Thompson, Klay",3.50,13.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,2,14,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-15,1,0,0.20,"Gasol, Marc",5.50,24.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,2,1,01,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-19,4,0,0.10,"Pekovic, Nikola",4.90,24.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,3,50,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,4,5,4.00,"Jackson, Reggie",4.20,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,4,8,28,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",0,14,5,4.30,"Felton, Raymond",0.80,20.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,3,59,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,-13,0,0.90,"Matthews, Wesley",2.60,21.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,3,5,43,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",7,25,3,3.20,"Jefferson, Al",1.50,13.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-18,2013,165,1610612746,400489253,3,4,44,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",2,22,4,5.40,"Anderson, Ryan",4.60,4.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-22,2013,165,1610612746,400489494,4,0,16,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",13,1,3,3.60,"Jefferson, Al",2.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,9,11,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-7,22,2,3.00,"Dragic, Goran",1.80,12.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,4,7,51,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",24,11,6,7.00,"Outlaw, Travis",3.50,10.70
+"Jamal Crawford","Los Angeles Clippers",2014-03-22,2013,165,1610612746,400489912,4,2,09,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",21,-5,0,0.60,"Monroe, Greg",4.80,19.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,4,4,59,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",21,0,0,0.90,"Martin, Cartier",9.50,11.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-29,2013,165,1610612746,400489558,2,11,46,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,7,0,3.20,"Temple, Garrett",1.10,12.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-24,2013,165,1610612746,400489929,1,0,57,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-18,0,0,0.70,"Mayo, O.J.",4.70,16.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-09,2013,165,1610612746,400489636,3,7,59,1,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,6,0,0.80,"Anderson, James",2.50,20.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,4,5,01,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",2,4,1,1.70,"Crawford, Jordan",3.20,20.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,4,28,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",2,1,1,2.80,"Jefferson, Richard",0.70,12.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,2,3,16,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",7,0,1,1.20,"Conley, Mike",1.10,22.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,0,46,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",1,17,8,6.50,"Bass, Brandon",1.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,0,01,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-5,12,6,5.90,"Johnson, Wesley",2.10,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,3,7,29,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",24,0,0,0.00,"Nelson, Jameer",4.30,20.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,4,8,32,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-2,22,2,2.10,"Freeland, Joel",3.60,11.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,4,6,43,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",7,9,1,1.00,"George, Paul",1.30,21.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-24,2013,165,1610612746,400489717,3,0,12,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",21,9,3,4.00,"Babbitt, Luke",2.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,3,5,08,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-5,17,5,4.80,"Gee, Alonzo",0.60,20.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,0,21,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",-16,25,1,4.40,"Lowry, Kyle",3.90,14.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,4,1,17,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",26,-5,7,6.40,"Humphries, Kris",1.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,6,07,1,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",7,-22,0,4.60,"Thompson, Tristan",2.10,24.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,10,25,0,"Pullup Bank shot","2PT Field Goal",21,"Houston Rockets",-128,175,5,7.00,"Parsons, Chandler",3.10,8.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,3,6,52,1,"Pullup Bank shot","2PT Field Goal",9,"Phoenix Suns",94,19,7,6.20,"Dragic, Goran",1.50,17.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,2,10,06,0,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",146,14,3,3.40,"Adams, Steven",5.20,13.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,2,9,48,1,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",-70,137,10,8.30,"Snell, Tony",2.20,13.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,4,4,50,0,"Pullup Jump shot","2PT Field Goal",12,"Toronto Raptors",-97,83,9,10.00,"Salmons, John",3.40,13.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,1,0,41,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",-101,151,1,3.00,"Thornton, Marcus",5.60,13.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-29,2013,165,1610612746,400489113,1,0,12,1,"Pullup Jump shot","2PT Field Goal",20,"Sacramento Kings",-81,184,17,15.30,"Thornton, Marcus",2.00,8.70
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,1,4,35,0,"Pullup Jump shot","2PT Field Goal",16,"San Antonio Spurs",81,143,1,1.50,"Green, Danny",3.80,10.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-20,2013,165,1610612746,400489041,3,6,05,1,"Pullup Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",1,197,1,1.20,"Brewer, Corey",1.10,9.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,4,9,02,0,"Pullup Jump shot","2PT Field Goal",10,"Orlando Magic",72,82,3,4.80,"Moore, ETwaun",2.10,6.50
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,1,0,47,0,"Pullup Jump shot","2PT Field Goal",21,"Houston Rockets",177,127,0,1.80,"Garcia, Francisco",3.90,7.10
+"Jamal Crawford","Los Angeles Clippers",2014-04-15,2013,165,1610612746,400490088,4,9,25,0,"Pullup Jump shot","2PT Field Goal",18,"Denver Nuggets",77,173,3,3.70,"Chandler, Wilson",4.50,19.30
+"Jamal Crawford","Los Angeles Clippers",2014-03-27,2013,165,1610612746,400489947,2,10,33,1,"Pullup Jump shot","3PT Field Goal",24,"Dallas Mavericks",21,241,3,2.90,"Ellis, Monta",3.90,15.10
+"Jamal Crawford","Los Angeles Clippers",2014-03-26,2013,165,1610612746,400489939,3,1,01,1,"Pullup Jump shot","2PT Field Goal",15,"New Orleans Pelicans",-138,71,6,6.40,"Babbitt, Luke",3.40,4.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,7,36,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",89,168,1,2.70,"Mahinmi, Ian",5.10,12.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,1,3,48,0,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",-108,175,2,2.80,"Conley, Mike",2.60,12.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,4,10,28,1,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",110,138,6,3.70,"Watson, CJ",1.80,9.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,9,54,1,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",21,197,2,2.10,"Pondexter, Quincy",4.50,14.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,9,28,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",64,153,2,2.30,"Leuer, Jon",4.60,16.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,1,2,11,1,"Pullup Jump shot","2PT Field Goal",19,"Detroit Pistons",-97,167,2,2.50,"Stuckey, Rodney",2.90,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,2,9,40,0,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",-177,0,8,9.40,"Garcia, Francisco",3.20,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,4,10,24,1,"Pullup Jump shot","2PT Field Goal",20,"Orlando Magic",34,201,5,5.70,"Moore, ETwaun",3.20,8.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,7,10,0,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",157,107,5,4.50,"Ross, Terrence",5.70,17.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,7,23,1,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",-134,118,2,3.10,"Moore, ETwaun",1.00,13.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,7,55,1,"Pullup Jump shot","2PT Field Goal",15,"Orlando Magic",62,145,3,3.80,"Moore, ETwaun",1.80,12.10
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,0,53,0,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",113,121,8,8.60,"Lee, Courtney",4.80,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,1,1,52,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-68,246,2,3.20,"Iguodala, Andre",3.30,7.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-18,2013,165,1610612746,400489028,2,10,34,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",-84,165,5,6.00,"Miller, Mike",3.40,17.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,4,10,11,1,"Pullup Jump shot","2PT Field Goal",19,"Brooklyn Nets",13,192,6,8.30,"Anderson, Alan",5.90,6.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,1,0,18,1,"Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",-15,192,11,11.50,"Moore, ETwaun",2.50,12.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,0,38,0,"Pullup Jump shot","3PT Field Goal",23,"Golden State Warriors",230,15,0,0.70,"Lee, David",3.60,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,3,2,17,0,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",-175,178,7,5.80,"Calathes, Nick",3.60,18.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,4,11,05,1,"Pullup Jump shot","2PT Field Goal",14,"Washington Wizards",31,146,7,5.80,"Booker, Trevor",4.90,16.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,4,10,33,1,"Pullup Jump shot","2PT Field Goal",22,"Washington Wizards",56,219,4,3.30,"Ariza, Trevor",2.90,13.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,2,11,16,0,"Pullup Jump shot","2PT Field Goal",18,"Orlando Magic",-60,175,3,4.70,"Moore, ETwaun",2.50,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,8,48,0,"Pullup Jump shot","2PT Field Goal",13,"Houston Rockets",-81,107,7,7.50,"Casspi, Omri",5.70,10.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,9,25,1,"Pullup Jump shot","2PT Field Goal",22,"Toronto Raptors",20,225,5,4.60,"Salmons, John",3.90,9.70
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,1,0,49,1,"Pullup Jump shot","2PT Field Goal",10,"Sacramento Kings",-2,105,1,3.40,"Thompson, Jason",2.20,14.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,1,5,54,1,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",6,154,1,3.40,"Ross, Terrence",4.40,13.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,3,9,38,0,"Pullup Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",88,107,2,1.90,"Rubio, Ricky",3.40,11.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,8,14,0,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",-75,181,3,2.70,"Thompson, Klay",4.00,6.50
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,2,8,48,1,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",-119,151,1,1.20,"Iguodala, Andre",4.70,2.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,2,40,1,"Pullup Jump shot","3PT Field Goal",28,"Toronto Raptors",-177,217,3,3.40,"Salmons, John",3.60,20.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,7,34,1,"Pullup Jump shot","2PT Field Goal",20,"Portland Trail Blazers",1,205,6,6.10,"Robinson, Thomas",4.60,12.50
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,9,01,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-111,138,5,5.00,"Barton, Will",4.70,18.20
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,3,0,41,1,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",-11,156,5,5.40,"Hayward, Gordon",4.50,7.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,2,48,1,"Pullup Jump shot","2PT Field Goal",16,"Golden State Warriors",-166,12,0,0.00,"Lee, David",10.00,23.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,7,20,1,"Pullup Jump shot","2PT Field Goal",16,"Golden State Warriors",12,167,0,0.00,"Lee, David",4.10,11.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,5,02,1,"Pullup Jump shot","3PT Field Goal",29,"Golden State Warriors",-180,233,0,1.10,"Iguodala, Andre",3.90,10.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,8,54,1,"Pullup Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",28,192,3,4.80,"Lamb, Jeremy",3.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,7,03,1,"Pullup Jump shot","2PT Field Goal",9,"Portland Trail Blazers",-70,60,1,1.60,"Batum, Nicolas",3.30,19.50
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,3,13,0,"Pullup Jump shot","2PT Field Goal",13,"Golden State Warriors",-64,121,1,2.00,"Iguodala, Andre",5.60,11.90
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,4,8,08,0,"Pullup Jump shot","2PT Field Goal",15,"Orlando Magic",84,127,4,4.90,"Moore, ETwaun",2.00,7.30
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,2,10,43,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-41,170,2,3.00,"Watson, Earl",3.30,15.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,3,0,47,0,"Pullup Jump shot","2PT Field Goal",14,"Memphis Grizzlies",130,67,2,3.60,"Leuer, Jon",4.80,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,3,9,25,1,"Pullup Jump shot","2PT Field Goal",14,"San Antonio Spurs",10,145,0,2.00,"Belinelli, Marco",2.40,18.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-30,2013,165,1610612746,400489332,1,8,06,1,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",132,132,2,2.60,"Dragic, Goran",2.50,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,8,30,0,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",162,75,3,3.20,"Salmons, John",3.40,12.30
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,4,7,58,1,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",119,132,8,7.70,"Salmons, John",2.30,17.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,7,06,1,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",176,96,6,4.50,"Allen, Tony",3.20,10.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-01,2013,165,1610612746,400489581,1,0,25,1,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",-21,143,6,4.80,"Burks, Alec",3.70,18.60
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,5,50,0,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",89,142,1,2.00,"Lowry, Kyle",2.40,14.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,2,7,04,0,"Pullup Jump shot","2PT Field Goal",15,"Indiana Pacers",17,153,1,4.00,"Mahinmi, Ian",6.00,13.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,8,25,0,"Pullup Jump shot","2PT Field Goal",7,"Miami Heat",-57,48,3,3.50,"Allen, Ray",6.60,20.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,9,52,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",31,176,10,6.40,"Collison, Nick",2.90,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-24,2013,165,1610612746,400489071,3,0,48,0,"Pullup Jump shot","2PT Field Goal",19,"Chicago Bulls",-123,149,1,3.40,"Gibson, Taj",4.20,15.60
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,4,23,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",15,157,2,3.00,"Matthews, Wesley",1.60,13.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,0,29,0,"Pullup Jump shot","3PT Field Goal",26,"Toronto Raptors",-136,225,4,3.30,"Salmons, John",2.90,21.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,1,5,11,0,"Pullup Jump shot","2PT Field Goal",18,"Orlando Magic",111,154,1,1.50,"Afflalo, Arron",3.20,14.10
+"Jamal Crawford","Los Angeles Clippers",2013-10-31,2013,165,1610612746,400488892,3,0,44,0,"Pullup Jump shot","2PT Field Goal",15,"Golden State Warriors",28,151,6,8.00,"ONeal, Jermaine",5.20,16.10
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,8,27,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",122,217,4,4.20,"Matthews, Wesley",4.90,19.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,2,11,31,1,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",138,85,3,3.20,"Collison, Nick",3.90,14.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-10,2013,165,1610612746,400489415,2,1,25,0,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Lakers",110,164,2,3.50,"Marshall, Kendall",4.60,10.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,1,0,35,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-82,244,0,1.40,"Crawford, Jordan",6.50,10.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-30,2013,165,1610612746,400489561,2,8,34,0,"Pullup Jump shot","3PT Field Goal",27,"Golden State Warriors",-56,265,0,1.80,"Barnes, Harrison",3.30,12.40
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,3,29,0,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-35,137,2,2.50,"Matthews, Wesley",5.20,14.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,9,57,0,"Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",62,156,5,5.40,"Mahinmi, Ian",5.80,17.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,6,12,0,"Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-21,3,0,0.70,"Matthews, Wesley",3.20,17.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-15,2013,165,1610612746,400489450,2,7,22,1,"Reverse Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-7,23,3,3.20,"Nowitzki, Dirk",1.90,17.90
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,5,11,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",21,6,2,2.50,"Bass, Brandon",3.70,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,4,8,54,0,"Running Bank shot","2PT Field Goal",7,"Memphis Grizzlies",58,41,3,2.60,"Pondexter, Quincy",1.90,8.60
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,3,10,08,0,"Running Bank shot","2PT Field Goal",6,"Portland Trail Blazers",62,17,2,3.60,"Barton, Will",3.20,15.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-01,2013,165,1610612746,400489345,2,2,35,1,"Running Bank shot","2PT Field Goal",7,"Charlotte Hornets",58,42,4,4.10,"Henderson, Gerald",1.40,8.50
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,1,5,58,1,"Running Bank shot","2PT Field Goal",6,"Oklahoma City Thunder",-51,44,1,1.50,"Sefolosha, Thabo",1.30,16.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,4,3,03,0,"Running Bank shot","2PT Field Goal",6,"Minnesota Timberwolves",39,47,2,3.30,"Rubio, Ricky",1.60,11.60
+"Jamal Crawford","Los Angeles Clippers",2014-02-12,2013,165,1610612746,400489662,1,0,52,1,"Running Bank shot","2PT Field Goal",4,"Portland Trail Blazers",-23,37,5,4.60,"Leonard, Meyers",3.00,17.80
+"Jamal Crawford","Los Angeles Clippers",2014-02-21,2013,165,1610612746,400489694,2,2,07,0,"Running Bank shot","2PT Field Goal",7,"Memphis Grizzlies",75,22,3,3.40,"Lee, Courtney",3.40,12.30
+"Jamal Crawford","Los Angeles Clippers",2013-11-06,2013,165,1610612746,400488935,4,9,44,1,"Running Bank shot","2PT Field Goal",9,"Orlando Magic",77,47,4,4.30,"Moore, ETwaun",1.00,8.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,3,11,23,1,"Running Bank shot","2PT Field Goal",11,"Golden State Warriors",-106,55,0,0.50,"Iguodala, Andre",1.70,21.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,1,2,31,0,"Running Bank shot","2PT Field Goal",3,"Indiana Pacers",28,28,2,5.00,"Hibbert, Roy",4.80,8.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,3,11,27,1,"Running Bank shot","2PT Field Goal",4,"Washington Wizards",-35,30,1,3.20,"Ariza, Trevor",1.80,17.10
+"Jamal Crawford","Los Angeles Clippers",2013-11-27,2013,165,1610612746,400489100,4,3,30,0,"Running Finger Roll Layup Shot","2PT Field Goal",3,"New York Knicks",20,26,11,10.40,"Shumpert, Iman",3.70,10.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,4,2,40,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"San Antonio Spurs",1,25,3,2.60,"Ginobili, Manu",5.00,13.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-24,2013,165,1610612746,400489514,2,3,06,0,"Running Hook Shot","2PT Field Goal",2,"Chicago Bulls",10,23,0,0.80,"Butler, Jimmy",3.40,4.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-28,2013,165,1610612746,400489320,3,9,27,1,"Running Hook Shot","2PT Field Goal",8,"Utah Jazz",0,83,1,3.10,"Williams, Marvin",1.80,10.10
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,1,40,0,"Running Hook Shot","2PT Field Goal",4,"Boston Celtics",39,20,0,7.10,"Bayless, Jerryd",5.80,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-25,2013,165,1610612746,400489520,2,10,18,0,"Running Jump Shot","2PT Field Goal",13,"Toronto Raptors",133,20,5,4.40,"Hayes, Charles",2.30,6.30
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,4,0,38,0,"Running Jump Shot","2PT Field Goal",11,"Denver Nuggets",108,45,1,1.60,"Foye, Randy",0.40,15.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,3,1,53,0,"Running Jump Shot","2PT Field Goal",14,"Houston Rockets",106,93,2,1.70,"Harden, James",1.20,4.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,3,0,32,1,"Running Jump Shot","2PT Field Goal",3,"Indiana Pacers",-19,31,9,9.00,"West, David",2.90,15.00
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,4,11,13,0,"Running Jump Shot","2PT Field Goal",11,"Houston Rockets",-73,91,7,5.60,"Garcia, Francisco",1.90,7.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,8,51,0,"Running Jump Shot","2PT Field Goal",12,"Denver Nuggets",-41,115,2,2.20,"Foye, Randy",2.00,15.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,5,3,18,1,"Running Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",43,14,3,2.70,"Matthews, Wesley",0.70,11.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,1,0,23,1,"Running Jump Shot","2PT Field Goal",14,"Indiana Pacers",-48,134,6,5.10,"Watson, CJ",3.50,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-06,2013,165,1610612746,400489380,2,7,28,0,"Running Jump Shot","2PT Field Goal",7,"Orlando Magic",-52,58,3,3.70,"Moore, ETwaun",1.20,8.70
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,2,2,52,0,"Running Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",59,31,1,1.90,"Crabbe, Allen",2.90,14.40
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,2,0,00,1,"Running Jump Shot","3PT Field Goal",28,"Miami Heat",-13,287,3,2.60,"James, LeBron",3.60,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-11,2013,165,1610612746,400489192,2,7,51,0,"Running Jump Shot","2PT Field Goal",5,"Boston Celtics",43,34,3,4.10,"Lee, Courtney",1.40,10.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,3,9,45,0,"Running Jump Shot","2PT Field Goal",7,"Golden State Warriors",45,60,8,6.70,"Bogut, Andrew",2.90,16.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,5,2,26,0,"Running Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",-16,34,4,6.20,"Batum, Nicolas",0.80,4.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-03,2013,165,1610612746,400489591,2,7,07,1,"Running Jump Shot","2PT Field Goal",11,"Denver Nuggets",108,34,7,6.80,"Faried, Kenneth",3.50,17.70
+"Jamal Crawford","Los Angeles Clippers",2013-12-12,2013,165,1610612746,400489200,4,9,02,1,"Running Jump Shot","2PT Field Goal",9,"Brooklyn Nets",-78,50,4,4.20,"Livingston, Shaun",4.80,17.80
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,4,9,56,0,"Running Jump Shot","2PT Field Goal",10,"Houston Rockets",-70,74,0,1.10,"Beverley, Patrick",3.70,8.50
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,3,2,33,1,"Running Jump Shot","2PT Field Goal",11,"Dallas Mavericks",0,112,2,2.60,"Carter, Vince",2.10,16.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-03,2013,165,1610612746,400489359,3,0,57,1,"Running Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-78,99,7,8.50,"Crowder, Jae",2.10,9.00
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,4,11,07,0,"Running Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-92,154,7,6.40,"Crabbe, Allen",2.40,17.80
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,1,11,28,0,"Running Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",84,156,2,3.50,"Matthews, Wesley",2.40,12.20
+"Jamal Crawford","Los Angeles Clippers",2013-12-07,2013,165,1610612746,400489164,4,4,01,0,"Running Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",6,55,4,6.10,"Irving, Kyrie",1.60,2.70
+"Jamal Crawford","Los Angeles Clippers",2014-01-04,2013,165,1610612746,400489367,2,6,57,0,"Running Jump Shot","2PT Field Goal",3,"San Antonio Spurs",28,28,3,4.70,"Duncan, Tim",3.00,1.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-01,2013,165,1610612746,400489122,4,8,45,1,"Running Jump Shot","2PT Field Goal",4,"Indiana Pacers",9,41,4,4.40,"Stephenson, Lance",1.60,11.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,8,44,1,"Running Jump Shot","2PT Field Goal",14,"Golden State Warriors",140,50,1,3.80,"Thompson, Klay",1.80,2.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,2,07,0,"Running Jump Shot","2PT Field Goal",16,"Golden State Warriors",-98,127,2,3.30,"Iguodala, Andre",2.90,9.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,4,7,48,1,"Running Jump Shot","2PT Field Goal",13,"Golden State Warriors",103,83,3,6.00,"Lee, David",3.00,9.90
+"Jamal Crawford","Los Angeles Clippers",2014-02-18,2013,165,1610612746,400489673,4,1,21,1,"Running Jump Shot","2PT Field Goal",17,"San Antonio Spurs",162,60,5,4.40,"Ginobili, Manu",2.30,18.80
+"Jamal Crawford","Los Angeles Clippers",2014-01-20,2013,165,1610612746,400489480,3,0,40,0,"Running Jump Shot","2PT Field Goal",7,"Detroit Pistons",-68,36,11,10.80,"Stuckey, Rodney",1.80,1.50
+"Jamal Crawford","Los Angeles Clippers",2014-04-16,2013,165,1610612746,400490101,2,3,34,0,"Running Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",2,138,4,3.90,"McCollum, CJ",3.50,8.40
+"Jamal Crawford","Los Angeles Clippers",2014-01-08,2013,165,1610612746,400489401,3,2,14,1,"Running Layup Shot","2PT Field Goal",2,"Boston Celtics",24,14,2,3.60,"Bayless, Jerryd",0.30,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-23,2013,165,1610612746,400489706,3,7,18,1,"Running Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",21,20,0,0.80,"Durant, Kevin",2.50,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-26,2013,165,1610612746,400489299,1,2,57,0,"Running Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",26,-6,2,4.10,"Matthews, Wesley",1.90,7.00
+"Jamal Crawford","Los Angeles Clippers",2014-01-27,2013,165,1610612746,400489538,4,6,59,1,"Running Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-15,0,2,2.20,"Ilyasova, Ersan",3.70,13.40
+"Jamal Crawford","Los Angeles Clippers",2013-12-04,2013,165,1610612746,400489143,2,0,08,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Atlanta Hawks",21,1,0,1.10,"Carroll, DeMarre",1.30,4.80
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,4,0,07,1,"Slam Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,1,1,1.60,"Martin, Kevin",11.90,0.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-05,2013,165,1610612746,400489609,4,1,04,1,"Step Back Jump shot","2PT Field Goal",18,"Miami Heat",50,178,3,2.90,"Allen, Ray",3.50,12.20
+"Jamal Crawford","Los Angeles Clippers",2014-03-29,2013,165,1610612746,400489961,1,3,52,1,"Step Back Jump shot","2PT Field Goal",14,"Houston Rockets",138,36,8,7.20,"Lin, Jeremy",0.90,16.10
+"Jamal Crawford","Los Angeles Clippers",2013-12-22,2013,165,1610612746,400489279,3,1,28,0,"Step Back Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",-190,6,2,3.20,"Mbah a Moute, Luc",3.50,13.90
+"Jamal Crawford","Los Angeles Clippers",2013-12-14,2013,165,1610612746,400489216,1,0,05,1,"Step Back Jump shot","2PT Field Goal",16,"Washington Wizards",2,160,11,13.60,"Webster, Martell",3.10,2.60
+"Jamal Crawford","Los Angeles Clippers",2013-12-25,2013,165,1610612746,400489295,2,1,07,1,"Step Back Jump shot","2PT Field Goal",16,"Golden State Warriors",-158,42,1,2.00,"Iguodala, Andre",2.90,17.20
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,2,10,25,0,"Step Back Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",195,153,4,5.70,"Lamb, Jeremy",3.70,5.00
+"Jamal Crawford","Los Angeles Clippers",2014-02-07,2013,165,1610612746,400489621,2,0,21,1,"Tip Shot","2PT Field Goal",2,"Toronto Raptors",-16,15,0,0.00,"Lowry, Kyle",2.00,13.60
+"Jamal Crawford","Los Angeles Clippers",2013-11-09,2013,165,1610612746,400488963,3,0,00,1,"Tip Shot","2PT Field Goal",1,"Houston Rockets",-2,17,0,1.90,"Harden, James",1.00,0.00
+"Jamal Crawford","Los Angeles Clippers",2013-11-21,2013,165,1610612746,400489047,4,11,07,1,"Turnaround Bank shot","2PT Field Goal",9,"Oklahoma City Thunder",89,20,4,6.40,"Fisher, Derek",4.60,10.00
+"Jamal Crawford","Los Angeles Clippers",2013-12-05,2013,165,1610612746,400489151,2,9,48,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Memphis Grizzlies",-142,119,3,6.10,"Pondexter, Quincy",2.90,2.20
+"Jamal Crawford","Los Angeles Clippers",2014-01-18,2013,165,1610612746,400489467,4,7,11,0,"Turnaround Jump Shot","3PT Field Goal",26,"Indiana Pacers",-103,241,1,3.00,"George, Paul",3.00,0.30
+"Jamal Crawford","Los Angeles Clippers",2013-12-21,2013,165,1610612746,400489276,3,6,57,0,"Turnaround Jump Shot","2PT Field Goal",19,"Denver Nuggets",-190,-2,1,1.50,"Lawson, Ty",1.90,14.40
+"Jamal Crawford","Los Angeles Clippers",2013-11-01,2013,165,1610612746,400488904,2,8,43,1,"Turnaround Jump Shot","2PT Field Goal",19,"Sacramento Kings",-166,104,1,1.40,"Thomas, Isaiah",4.30,7.90

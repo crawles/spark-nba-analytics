@@ -1,0 +1,1063 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,3,0,34,1,"Alley Oop Layup shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,3,0,0.20,"Williams, Mo",2.70,11.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,2,10,45,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",-1,7,0,0.80,"Sacre, Robert",4.60,17.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,3,10,05,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Phoenix Suns",18,14,3,5.60,"Plumlee, Miles",1.00,10.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,3,6,43,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",9,9,0,0.70,"Scola, Luis",1.90,15.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,1,2,07,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,7,3,5.70,"Speights, Marreese",1.30,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,2,8,22,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",12,28,1,5.80,"Leuer, Jon",2.60,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,11,41,0,"Driving Hook Shot","2PT Field Goal",5,"Brooklyn Nets",4,53,1,1.50,"Teletovic, Mirza",2.20,7.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,4,3,53,0,"Driving Jump shot","2PT Field Goal",3,"Houston Rockets",36,11,1,4.60,"Jones, Terrence",0.30,3.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,2,3,31,0,"Driving Jump shot","2PT Field Goal",5,"Toronto Raptors",-48,19,1,3.30,"Ross, Terrence",2.30,14.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,3,11,28,0,"Driving Jump shot","2PT Field Goal",9,"Boston Celtics",-92,22,1,2.80,"Green, Jeff",2.60,6.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,4,9,51,0,"Driving Jump shot","2PT Field Goal",6,"Miami Heat",53,34,0,1.80,"Bosh, Chris",1.90,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,9,01,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",18,14,2,5.70,"Gordon, Eric",3.20,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,4,0,43,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,7,2,2.60,"Ariza, Trevor",0.00,9.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,3,1,48,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-10,0,1,2.60,"Gee, Alonzo",2.90,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,1,10,30,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",26,9,1,1.60,"Chalmers, Mario",4.30,6.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,4,9,39,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-10,0,2,4.90,"Barnes, Harrison",2.30,8.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,10,57,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-16,12,3,3.10,"Davis, Anthony",4.30,5.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,9,00,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",13,0,1,5.00,"Millsap, Paul",0.50,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,3,0,15,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,-5,1,3.50,"Williams, Lou",4.80,8.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,3,7,37,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-11,4,3,5.10,"Jordan, DeAndre",2.10,10.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,3,0,05,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,-13,1,1.40,"Barnes, Harrison",2.20,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,2,10,22,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,9,2,1.50,"Leuer, Jon",2.20,17.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,4,2,54,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",6,19,2,3.20,"Barnes, Harrison",2.30,5.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,2,7,15,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",7,0,1,2.00,"Morris, Markieff",2.10,20.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,3,0,08,1,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",2,4,0,2.00,"Miles, CJ",5.00,5.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,2,6,59,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-5,-3,3,4.80,"Garcia, Francisco",2.20,8.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,1,8,26,0,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",21,-5,0,0.70,"Cousins, DeMarcus",1.30,6.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,11,01,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,0,2,2.70,"Black, Tarik",1.70,11.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,2,7,41,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",17,1,2,2.90,"Splitter, Tiago",1.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,2,11,05,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.60,"Haslem, Udonis",5.30,15.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,3,9,00,1,"Fadeaway Bank shot","2PT Field Goal",14,"Los Angeles Clippers",146,22,3,4.70,"Hawes, Spencer",2.10,3.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,1,9,44,1,"Fadeaway Bank shot","2PT Field Goal",11,"Golden State Warriors",-112,9,2,3.50,"Thompson, Klay",3.90,12.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,1,39,1,"Fadeaway Bank shot","2PT Field Goal",15,"Chicago Bulls",146,60,0,2.80,"Gibson, Taj",4.60,10.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,1,10,43,1,"Fadeaway Bank shot","2PT Field Goal",13,"Los Angeles Clippers",124,63,1,6.00,"Barnes, Matt",1.90,2.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,2,11,23,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Boston Celtics",39,48,4,7.50,"Green, Jeff",3.90,3.70
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,3,5,43,1,"Fadeaway Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-60,165,3,2.40,"Green, Danny",2.20,9.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,2,9,13,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Phoenix Suns",17,101,1,1.60,"Green, Gerald",3.80,5.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,4,4,57,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Sacramento Kings",-45,162,1,1.60,"Sessions, Ramon",2.20,5.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,4,4,30,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Denver Nuggets",-142,17,1,7.00,"Chandler, Wilson",2.20,7.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,3,2,41,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Sacramento Kings",170,78,1,4.10,"Landry, Carl",3.10,12.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,4,11,37,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Boston Celtics",-89,75,2,5.60,"Green, Jeff",3.70,3.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,2,8,46,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Toronto Raptors",127,14,2,4.90,"Johnson, James",3.30,5.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,3,0,07,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Denver Nuggets",-76,134,3,4.20,"Lawson, Ty",2.70,4.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,2,33,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Chicago Bulls",136,80,1,4.80,"Gasol, Pau",3.60,6.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,2,11,28,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-157,52,0,0.80,"Sacre, Robert",3.40,14.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,2,11,44,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Detroit Pistons",-95,53,3,4.70,"Tolliver, Anthony",2.80,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,10,26,1,"Fadeaway Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-2,55,2,7.70,"Morrow, Anthony",2.70,6.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,1,7,46,0,"Fadeaway Jump Shot","2PT Field Goal",15,"San Antonio Spurs",157,22,1,2.20,"Duncan, Tim",3.00,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,3,0,16,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Indiana Pacers",-146,41,1,4.60,"Scola, Luis",3.20,10.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,0,33,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Boston Celtics",154,20,2,1.70,"Sullinger, Jared",3.40,16.90
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,4,10,18,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Phoenix Suns",17,108,0,4.70,"Goodwin, Archie",4.20,2.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,5,2,28,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Chicago Bulls",51,124,1,2.00,"Rose, Derrick",2.80,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,2,11,41,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Miami Heat",155,56,3,4.40,"Haslem, Udonis",2.50,7.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,11,21,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",177,17,0,0.80,"Davis, Ed",6.10,15.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,2,2,26,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Atlanta Hawks",155,9,0,4.60,"Millsap, Paul",2.60,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,10,06,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",162,6,1,3.40,"Lopez, Robin",4.60,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,3,9,26,0,"Fadeaway Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",75,86,0,1.80,"Davis, Anthony",4.10,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,3,9,02,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Atlanta Hawks",171,71,0,0.60,"Millsap, Paul",2.50,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,2,8,56,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Golden State Warriors",-119,41,1,4.40,"Green, Draymond",4.00,4.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,1,1,58,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Houston Rockets",45,61,2,8.20,"Smith, Josh",2.30,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,10,20,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Indiana Pacers",-112,28,3,7.60,"Scola, Luis",2.40,9.50
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,4,8,42,1,"Fadeaway Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-120,44,3,4.20,"Diaw, Boris",4.00,8.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,2,11,02,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Chicago Bulls",-150,91,1,3.80,"Noah, Joakim",4.10,5.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,0,35,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-26,116,2,5.10,"Novak, Steve",3.20,8.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,10,08,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Utah Jazz",179,-8,0,0.00,"Gobert, Rudy",4.60,13.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,1,10,22,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Houston Rockets",-199,14,2,5.00,"Dorsey, Joey",2.10,2.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,3,1,18,1,"Fadeaway Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-131,91,1,4.60,"Anderson, Ryan",3.20,7.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,1,10,41,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Golden State Warriors",130,11,1,1.00,"Thompson, Klay",2.90,9.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,3,0,02,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-51,160,0,3.00,"Karasev, Sergey",2.90,3.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,2,1,49,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-172,0,0,1.00,"Hill, Jordan",6.10,20.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,4,1,58,0,"Fadeaway Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",7,131,2,5.30,"Evans, Tyreke",3.30,4.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,2,11,49,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Chicago Bulls",160,14,0,0.80,"Brooks, Aaron",5.10,15.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,1,0,47,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Chicago Bulls",-142,91,4,3.40,"Gibson, Taj",4.00,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,11,42,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Boston Celtics",80,44,3,3.60,"Smart, Marcus",3.40,9.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,11,00,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-8,189,0,0.70,"Davis, Ed",5.90,14.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,4,1,51,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-73,132,2,2.60,"Gasol, Marc",4.30,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,1,6,01,0,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",121,26,1,2.60,"Acy, Quincy",3.40,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,1,7,21,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",-141,30,1,4.00,"Young, Thaddeus",3.10,4.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,2,11,10,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Golden State Warriors",-75,37,2,6.20,"Green, Draymond",3.90,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,4,3,48,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",73,99,5,6.30,"Young, Thaddeus",2.50,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,3,7,25,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Charlotte Hornets",-114,19,2,5.30,"Zeller, Cody",2.50,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,4,8,29,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Golden State Warriors",102,116,0,3.90,"Barnes, Harrison",3.60,7.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,3,5,58,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",141,85,4,5.70,"Young, Thaddeus",2.50,8.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,1,11,22,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Toronto Raptors",138,45,1,3.80,"Johnson, Amir",2.50,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,3,7,06,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",58,102,0,6.30,"Waiters, Dion",2.20,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,3,10,36,0,"Fadeaway Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",173,72,1,1.80,"Davis, Anthony",4.50,12.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,2,0,57,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",113,104,0,0.60,"Johnson, Wesley",3.80,8.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,3,8,02,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Detroit Pistons",108,53,1,1.40,"Jennings, Brandon",3.10,17.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,4,1,20,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Washington Wizards",78,241,1,1.60,Nene,4.70,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,1,0,47,1,"Fadeaway Jump Shot","2PT Field Goal",10,"San Antonio Spurs",81,67,3,6.40,"Diaw, Boris",5.00,6.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,4,9,40,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",162,41,1,2.10,"Jerebko, Jonas",1.70,12.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,4,7,11,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",143,26,0,4.00,"Jordan, DeAndre",3.20,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,2,1,41,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Miami Heat",-114,61,4,4.60,"McRoberts, Josh",2.60,12.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,1,1,19,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-136,97,0,4.10,"Westbrook, Russell",2.30,5.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,1,01,0,"Fadeaway Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-237,4,0,0.60,"Cunningham, Dante",2.40,1.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,4,0,46,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-103,36,2,4.20,"Lee, Courtney",4.30,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,2,1,20,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-86,53,0,3.20,"Zeller, Cody",4.30,11.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,2,11,00,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-138,82,0,0.90,"Boozer, Carlos",5.40,11.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,3,6,06,0,"Fadeaway Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",12,157,2,3.60,"Cunningham, Dante",3.70,7.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-04,2014,609,1610612742,400579434,2,11,47,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Golden State Warriors",152,11,2,3.10,"Green, Draymond",2.70,13.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,1,10,37,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",143,47,0,2.70,"Jones, Terrence",3.70,6.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,1,8,11,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Charlotte Hornets",116,15,0,4.70,"Zeller, Cody",3.90,8.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,4,5,45,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-134,33,2,5.90,"Collison, Nick",3.20,7.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,3,2,00,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Houston Rockets",1,149,1,4.10,"Prigioni, Pablo",2.00,2.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,9,14,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",157,12,1,4.20,"Motiejunas, Donatas",2.80,7.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,1,11,41,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-106,94,1,3.40,"Hawes, Spencer",3.30,9.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,4,9,38,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",73,63,1,1.90,"Rivers, Austin",3.50,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,3,6,22,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-117,22,0,1.00,"Randolph, Zach",3.80,15.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,2,7,49,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",106,39,2,2.50,"Koufos, Kosta",3.10,9.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,3,2,21,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Milwaukee Bucks",118,7,1,3.00,"Dudley, Jared",2.40,11.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,2,7,16,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",9,26,3,4.50,"Turkoglu, Hedo",2.50,13.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,10,43,0,"Finger Roll Layup Shot","2PT Field Goal",3,"Portland Trail Blazers",34,6,3,4.60,"Robinson, Thomas",3.30,5.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,3,10,42,1,"Floating Jump shot","2PT Field Goal",7,"Memphis Grizzlies",9,78,3,7.80,"Randolph, Zach",3.50,5.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,1,8,55,1,"Floating Jump shot","2PT Field Goal",13,"Charlotte Hornets",43,127,0,0.70,"Zeller, Cody",5.60,8.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,7,02,0,"Floating Jump shot","2PT Field Goal",14,"Atlanta Hawks",-127,67,2,3.90,"Korver, Kyle",4.40,9.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,6,22,0,"Floating Jump shot","2PT Field Goal",17,"Miami Heat",56,167,0,0.70,"Cole, Norris",5.20,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,3,8,53,1,"Jump Bank Shot","2PT Field Goal",13,"Phoenix Suns",-130,28,0,0.80,"Len, Alex",9.10,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,4,1,17,1,"Jump Bank Shot","2PT Field Goal",4,"Houston Rockets",-41,12,2,4.90,"Terry, Jason",2.30,10.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,3,33,1,"Jump Bank Shot","2PT Field Goal",12,"Portland Trail Blazers",105,72,1,1.70,"Lillard, Damian",5.70,7.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,4,9,25,0,"Jump Bank Shot","2PT Field Goal",17,"Phoenix Suns",-29,170,0,0.60,"Morris, Markieff",4.10,9.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,1,0,18,0,"Jump Bank Shot","2PT Field Goal",10,"New Orleans Pelicans",-101,25,1,2.50,"Mekel, Gal",1.70,16.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,4,11,22,0,"Jump Bank Shot","2PT Field Goal",9,"New Orleans Pelicans",-93,31,1,2.50,"Evans, Tyreke",1.60,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,1,9,37,1,"Jump Bank Shot","2PT Field Goal",11,"Minnesota Timberwolves",110,7,0,0.80,"Young, Thaddeus",3.90,16.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,5,34,0,"Jump Bank Shot","2PT Field Goal",7,"Utah Jazz",58,52,1,3.10,"Booker, Trevor",2.40,4.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,2,1,00,1,"Jump Bank Shot","2PT Field Goal",4,"San Antonio Spurs",-40,19,2,2.40,"Diaw, Boris",4.70,20.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,1,9,09,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",119,135,1,2.80,"Len, Alex",2.80,14.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,3,10,37,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-163,75,0,0.60,"Morris, Markieff",3.60,9.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,3,1,06,1,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",-76,94,0,0.70,"Morris, Marcus",5.70,19.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,4,4,09,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-71,236,0,0.80,"Morris, Markieff",3.20,17.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,4,2,56,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-16,249,0,0.60,"Dragic, Goran",3.90,15.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,4,06,1,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-16,186,0,0.70,"Sefolosha, Thabo",6.60,17.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,3,8,29,1,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-65,179,0,0.80,"Millsap, Paul",4.80,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,3,11,43,1,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-142,64,0,1.00,"Beal, Bradley",3.30,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,1,10,57,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-32,242,0,0.90,"Adams, Steven",5.30,17.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,1,0,32,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",12,178,0,2.40,"Jackson, Reggie",3.10,11.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,2,11,19,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",48,238,0,0.80,"Collison, Nick",7.00,11.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,2,9,05,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",23,187,0,3.40,"Collison, Nick",3.90,12.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,7,55,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",177,9,0,0.70,"Adams, Steven",6.30,10.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,7,23,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",122,134,0,1.10,"Adams, Steven",6.40,12.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,4,4,27,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-48,195,0,0.80,"Adams, Steven",4.50,12.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,4,2,53,1,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",133,165,1,1.90,"Jackson, Reggie",4.00,10.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,1,10,20,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",91,151,0,0.80,"Davis, Ed",8.20,14.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,11,43,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-147,135,1,0.80,"Davis, Ed",6.70,10.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,10,28,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-158,58,0,0.70,"Davis, Ed",6.70,2.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,2,14,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",127,153,0,0.80,"Boozer, Carlos",4.40,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,1,7,39,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",125,96,0,0.70,"Bradley, Avery",7.40,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,1,7,06,0,"Jump Shot","2PT Field Goal",11,"Boston Celtics",113,3,0,3.20,"Zeller, Tyler",3.00,9.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,1,6,50,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",56,137,2,3.00,"Turner, Evan",2.60,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,1,03,1,"Jump Shot","2PT Field Goal",11,"Boston Celtics",-97,63,2,4.20,"Sullinger, Jared",3.50,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,4,10,18,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",80,127,0,0.70,"Bass, Brandon",5.50,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,1,1,10,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-146,112,0,0.90,"Marion, Shawn",6.10,7.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,2,8,51,1,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",12,211,0,1.00,"Marion, Shawn",4.70,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,3,10,02,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",81,136,0,0.80,"Thompson, Tristan",6.10,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,3,2,38,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-24,258,0,0.80,"Thompson, Tristan",10.40,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,1,10,06,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",32,197,0,1.80,"Plumlee, Mason",2.60,23.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,1,2,38,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-153,88,0,0.80,"Teletovic, Mirza",4.70,8.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,10,05,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-97,228,0,0.80,"Teletovic, Mirza",7.60,18.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,3,9,15,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",102,153,1,2.50,"Jack, Jarrett",2.80,2.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,5,0,34,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",72,235,0,0.70,"Teletovic, Mirza",4.30,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,1,11,00,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",58,222,0,0.80,"Butler, Jimmy",3.40,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,3,0,01,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",159,183,1,2.20,"Gasol, Pau",4.60,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,2,2,26,1,"Jump Shot","2PT Field Goal",23,"Chicago Bulls",62,225,0,0.80,"Noah, Joakim",6.00,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,3,7,35,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-157,194,0,0.80,"Rose, Derrick",4.30,19.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,3,11,15,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-168,197,0,0.60,"Davis, Anthony",5.60,9.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,4,4,06,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-73,244,0,0.70,"Jones, Terrence",5.30,7.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,1,10,40,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-114,213,0,0.90,"Motiejunas, Donatas",7.00,8.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,3,8,16,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-92,238,0,0.60,"Dorsey, Joey",5.40,2.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,3,11,52,1,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",157,7,0,0.70,"Davis, Anthony",5.50,20.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,3,54,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-237,1,0,0.60,"Davis, Anthony",5.80,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,1,7,07,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-158,140,0,0.70,"Patterson, Patrick",4.20,11.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,3,9,25,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",56,173,0,4.80,"Lopez, Robin",3.30,9.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,1,10,48,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-128,113,0,0.80,"Aldridge, LaMarcus",4.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,3,11,26,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",56,179,0,0.90,"Lopez, Robin",8.50,15.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,4,9,17,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-32,45,1,5.10,"Batum, Nicolas",2.50,12.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,1,46,0,"Jump Shot","3PT Field Goal",29,"Portland Trail Blazers",12,290,0,0.70,"Matthews, Wesley",4.10,1.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,3,10,01,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",116,183,0,1.00,"Lopez, Robin",14.80,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,4,8,46,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",119,231,0,0.70,"Batum, Nicolas",5.50,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,1,18,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",179,194,0,0.60,"Aldridge, LaMarcus",5.00,15.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,1,11,16,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-120,231,0,0.80,"Aldridge, LaMarcus",4.80,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,3,10,17,1,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",-152,22,0,1.80,"Johnson, Amir",5.10,12.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,1,11,46,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-138,151,0,0.80,"Johnson, Amir",4.60,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,4,8,44,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-106,225,0,0.70,"Patterson, Patrick",4.60,9.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,2,8,41,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",162,96,0,0.80,"Vasquez, Greivis",4.30,22.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,1,10,26,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-122,209,0,0.90,"Lowry, Kyle",3.80,16.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,3,8,04,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",17,194,0,0.80,"Johnson, Amir",5.20,16.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,4,6,44,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",127,208,0,2.20,"Ross, Terrence",4.30,17.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,4,1,25,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-62,236,0,0.90,"Patterson, Patrick",7.10,8.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,1,6,43,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",72,238,0,0.70,"Patterson, Patrick",4.10,18.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,10,04,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-43,187,1,2.50,"Hawes, Spencer",4.20,6.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,9,37,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",20,250,0,0.70,"Jordan, DeAndre",3.90,18.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,10,57,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",114,110,1,2.40,"Farmar, Jordan",4.60,13.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,2,1,22,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",91,160,1,1.40,"Scola, Luis",2.90,17.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,2,59,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-18,156,2,2.10,"Redick, JJ",2.80,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,4,7,24,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",7,164,0,0.80,"Griffin, Blake",5.70,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,3,8,02,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",37,183,0,0.70,"Hawes, Spencer",8.60,11.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,0,32,1,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",36,216,0,0.80,"Lin, Jeremy",2.60,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,3,10,42,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-111,132,0,0.80,"Black, Tarik",6.40,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,4,11,12,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",47,249,0,0.80,"Ellington, Wayne",12.20,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,9,55,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",11,252,0,0.80,"Black, Tarik",6.00,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,6,43,1,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",136,44,1,2.50,"Black, Tarik",2.40,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,4,9,33,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",144,52,0,3.20,"Kelly, Ryan",4.50,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,8,04,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-112,229,0,0.80,"Black, Tarik",5.50,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,11,06,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-137,119,0,0.80,"Clarkson, Jordan",3.20,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,4,2,11,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-128,72,0,4.80,"Black, Tarik",3.70,8.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,2,2,12,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-126,112,0,0.80,"Ellington, Wayne",4.20,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,1,0,58,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-15,275,0,0.90,"Davis, Ed",4.50,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-08,2014,609,1610612742,400579229,2,0,35,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-79,246,0,0.80,"Johnson, Wesley",6.20,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,2,10,52,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-131,83,0,4.10,"Leuer, Jon",2.30,8.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,11,26,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",69,160,0,0.80,"Jordan, DeAndre",4.90,17.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,3,7,04,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-114,137,1,2.30,"Randolph, Zach",3.40,11.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,3,8,53,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-116,217,0,0.90,"Gasol, Marc",6.20,14.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,3,6,00,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",31,252,0,1.00,"Lee, Courtney",5.20,18.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,1,8,07,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",144,30,1,2.10,"Randolph, Zach",1.90,11.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,10,09,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-90,64,1,4.40,"Barnes, Matt",3.20,10.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,11,16,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-130,9,0,1.50,"Paul, Chris",4.10,12.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,0,21,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",155,206,0,0.70,"Jordan, DeAndre",6.10,8.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,2,4,00,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-174,88,0,0.60,"Smith, Josh",4.30,11.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,4,7,51,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",174,170,0,0.90,"Prigioni, Pablo",5.70,21.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,2,4,21,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-164,131,0,0.70,"Jordan, DeAndre",6.90,15.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,2,10,07,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",157,50,0,0.80,"Davis, Glen",5.60,10.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,2,0,45,1,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",53,206,1,1.00,"Jordan, DeAndre",6.50,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,3,8,55,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",9,244,0,0.80,"Barnes, Matt",5.10,21.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,2,8,42,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-122,101,0,0.00,"Brewer, Corey",6.90,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,0,53,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-120,151,0,0.80,"Green, Draymond",4.80,18.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,3,10,45,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-10,165,0,0.80,"Hibbert, Roy",9.80,14.10
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,1,7,54,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-147,48,0,1.70,"Green, Danny",4.50,17.30
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,1,0,00,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",80,165,0,0.90,"Joseph, Cory",6.80,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,4,1,28,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",159,-5,1,2.70,"Diaw, Boris",4.40,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,1,11,29,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",75,167,0,1.00,"Holiday, Jrue",4.40,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,1,5,24,1,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-84,194,0,0.60,"Davis, Anthony",6.10,13.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,2,10,59,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",151,25,0,1.30,"Anderson, Ryan",6.40,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,2,7,32,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",0,178,1,1.90,"Davis, Anthony",4.10,6.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,9,52,1,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",102,108,0,0.70,"Davis, Anthony",2.50,14.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,4,8,22,1,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-152,9,0,1.40,"Asik, Omer",3.30,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,4,0,49,1,"Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-8,124,1,1.00,"Davis, Anthony",4.30,8.80
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,1,11,46,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",119,116,0,0.70,"Kanter, Enes",4.90,14.00
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,1,10,07,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",125,225,0,1.00,"Kanter, Enes",10.80,17.40
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,1,7,38,1,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-40,222,1,2.40,"Burks, Alec",6.70,14.90
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,1,6,16,1,"Jump Shot","2PT Field Goal",12,"Utah Jazz",89,94,0,4.90,"Kanter, Enes",5.40,6.60
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,4,8,25,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",56,244,0,1.20,"Ingles, Joe",8.90,21.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,1,8,47,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",166,173,6,5.70,"Lillard, Damian",9.20,19.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,9,49,1,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",193,97,0,3.80,"Robinson, Thomas",3.30,6.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,2,34,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",7,184,0,5.20,"Lopez, Robin",0.00,6.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,2,07,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",105,216,0,0.80,"Aldridge, LaMarcus",4.20,18.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,1,20,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",13,246,0,0.70,"Matthews, Wesley",9.80,22.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,4,9,50,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",105,175,0,1.00,"Robinson, Thomas",3.50,14.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,8,34,1,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-138,52,0,0.80,"Favors, Derrick",5.60,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,8,04,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",151,0,0,0.90,"Kanter, Enes",5.10,14.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,6,23,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-57,242,1,1.40,"Kanter, Enes",5.60,17.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,10,43,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-193,1,8,6.70,"Exum, Dante",6.70,16.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,7,51,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-240,33,0,0.70,"Booker, Trevor",0.70,10.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,3,01,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-19,250,0,0.80,"Kanter, Enes",5.20,18.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,3,11,21,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",4,249,0,0.80,"Kanter, Enes",14.30,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,3,0,56,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",201,48,0,0.70,"Favors, Derrick",4.60,2.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,3,0,00,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",34,160,2,3.40,"Exum, Dante",2.40,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,4,10,02,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-125,211,0,0.60,"Favors, Derrick",4.40,10.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,9,28,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",61,242,0,0.90,"Bosh, Chris",5.90,19.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,2,42,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-226,14,0,0.60,"Haslem, Udonis",5.80,12.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,2,5,12,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-155,56,1,1.60,"Chalmers, Mario",3.10,5.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,2,6,59,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-123,140,1,1.20,"Casspi, Omri",2.90,12.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,2,0,30,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",77,235,0,0.70,"Hollins, Ryan",7.30,16.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,3,11,12,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",36,206,0,0.70,"McLemore, Ben",8.60,16.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,3,10,38,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",64,203,0,0.80,"Thompson, Jason",6.60,15.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,4,8,56,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-45,183,0,0.70,"Landry, Carl",4.00,10.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,4,6,43,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",160,108,0,0.70,"McLemore, Ben",4.60,13.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,4,5,22,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",127,216,0,0.80,"Gay, Rudy",8.50,14.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,1,10,41,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",157,60,0,0.70,"McDaniels, KJ",4.80,4.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,1,9,37,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",72,149,1,2.00,"Mbah a Moute, Luc",4.10,14.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,1,8,06,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-30,246,0,0.80,"Sims, Henry",14.20,10.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,2,10,45,1,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",154,26,0,0.60,"Mbah a Moute, Luc",5.90,18.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,3,11,12,1,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",152,119,0,1.00,"Carter-Williams, Michael",7.10,15.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,3,6,49,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",118,143,0,0.80,"Davies, Brandon",5.50,11.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,1,0,33,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-62,246,1,1.90,"Williams, Mo",5.50,21.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,2,0,48,1,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-112,148,1,1.30,"Williams, Mo",5.60,12.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,3,11,18,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-90,179,0,0.80,"Wiggins, Andrew",6.90,6.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,1,7,26,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-123,138,0,0.60,"Williams, Marvin",3.60,22.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,2,11,09,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-8,258,0,0.80,"Zeller, Cody",4.50,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,6,07,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",42,175,0,0.60,"Williams, Marvin",5.70,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,2,51,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-188,6,0,0.70,"Zeller, Cody",4.00,10.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,2,4,40,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-78,231,0,0.80,"Porter, Otto",5.70,17.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,3,10,36,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",70,246,0,1.00,"Wall, John",4.70,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,1,11,01,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-119,209,0,0.80,"Olynyk, Kelly",4.60,5.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,1,9,02,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",165,189,0,0.80,"Olynyk, Kelly",7.80,16.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,2,10,23,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",31,239,0,0.80,"Bradley, Avery",5.30,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,2,5,06,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",133,214,0,0.70,"Rondo, Rajon",3.60,4.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,3,9,20,1,"Jump Shot","2PT Field Goal",21,"Boston Celtics",88,198,4,3.60,"Olynyk, Kelly",5.10,12.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,4,6,17,1,"Jump Shot","2PT Field Goal",16,"Boston Celtics",70,154,0,0.60,"Rondo, Rajon",3.70,23.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,1,10,28,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",143,112,0,0.40,"Boozer, Carlos",5.20,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,1,7,20,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",1,184,0,3.20,"Hill, Jordan",4.10,11.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,1,6,08,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",223,12,0,0.90,"Boozer, Carlos",3.60,19.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,2,9,10,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-175,178,0,0.80,"Boozer, Carlos",8.80,14.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,3,10,49,1,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",132,173,0,1.00,"Boozer, Carlos",5.30,11.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,3,7,40,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",125,129,0,0.70,"Boozer, Carlos",6.50,6.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,1,6,40,1,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-59,175,0,0.70,"Black, Tarik",8.10,14.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,8,01,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-10,242,0,0.90,"Harden, James",10.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,4,0,06,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",118,225,0,2.00,"Harden, James",0.00,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,8,47,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",45,244,0,0.80,"Mahinmi, Ian",6.60,17.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,6,55,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",56,178,0,1.00,"Scola, Luis",5.20,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,1,16,1,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-144,96,0,0.80,"Copeland, Chris",6.10,9.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,2,9,36,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",28,247,0,0.70,"Scola, Luis",4.70,16.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,1,8,56,1,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-127,146,0,0.80,"Johnson, Amir",6.60,13.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,1,7,26,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",45,249,0,0.80,"Johnson, Amir",11.00,15.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,8,33,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-153,93,0,0.70,"Johnson, Amir",3.50,18.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,4,10,48,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",65,200,0,0.70,"Patterson, Patrick",2.60,8.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,4,10,15,1,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",133,26,0,0.70,"Patterson, Patrick",6.30,14.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,7,55,0,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",-93,67,0,0.90,"Dunleavy, Mike",6.10,16.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,7,02,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-123,214,0,0.90,"Rose, Derrick",4.00,18.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,2,9,08,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-193,61,0,0.60,"Gasol, Pau",4.00,12.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,2,1,14,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",140,56,0,1.90,"Hinrich, Kirk",8.00,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,8,20,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-57,178,0,0.90,"Noah, Joakim",6.80,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,3,18,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-56,238,0,0.80,"Noah, Joakim",4.40,10.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,1,59,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",168,15,0,1.00,"Noah, Joakim",4.20,17.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,0,55,1,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",176,197,0,0.80,"Butler, Jimmy",9.30,15.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,5,3,55,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",58,179,0,0.60,"Noah, Joakim",5.60,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,5,1,45,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",136,94,0,0.70,"Noah, Joakim",5.20,14.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,6,2,23,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-30,189,3,4.70,"Rose, Derrick",1.60,7.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,1,10,03,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",105,116,0,0.80,"Parker, Jabari",6.90,8.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,1,7,11,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",-86,14,0,0.80,"Sanders, Larry",5.90,14.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,1,0,00,1,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",185,14,0,0.70,"Bayless, Jerryd",3.10,1.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,2,9,41,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",102,131,0,1.40,"Bayless, Jerryd",6.40,10.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,2,1,12,1,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-117,184,0,0.70,"Parker, Jabari",4.00,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,3,1,18,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",174,183,0,1.10,"Sanders, Larry",11.00,17.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,2,9,49,1,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",138,78,0,2.30,"Plumlee, Miles",4.00,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,8,17,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",135,86,0,0.70,"Allen, Tony",4.20,9.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,1,55,1,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-116,22,2,1.80,"Conley, Mike",2.10,4.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,1,10,14,1,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",73,200,0,0.90,"Davis, Anthony",7.40,18.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,1,9,24,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-191,174,0,0.80,"Davis, Anthony",5.10,17.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,1,1,25,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",24,190,0,0.80,"Rivers, Austin",9.70,11.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,2,11,21,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",114,164,0,0.70,"Anderson, Ryan",3.50,11.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,2,9,27,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-46,181,0,0.60,"Anderson, Ryan",3.20,14.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,2,0,48,1,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",64,156,1,3.20,"Anderson, Ryan",2.80,13.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,0,53,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",155,7,0,4.30,"Rush, Brandon",1.90,10.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,3,8,39,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",97,176,0,0.80,"Speights, Marreese",4.10,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,3,7,19,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-149,89,0,0.60,"Green, Draymond",5.70,11.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,4,3,06,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-60,3,0,0.80,"Green, Draymond",0.80,16.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,1,9,48,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",86,181,0,1.00,"Stoudemire, Amare",6.60,16.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,1,8,55,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",-59,195,0,0.80,"Calderon, Jose",3.30,15.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,1,5,38,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",138,116,0,0.70,"Acy, Quincy",9.50,10.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,3,10,38,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",149,201,0,0.70,"Stoudemire, Amare",9.80,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,3,9,28,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",119,222,0,0.80,"Larkin, Shane",4.20,16.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,1,9,47,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",173,55,0,1.20,"Smith, Josh",3.40,16.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,2,10,02,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",58,152,0,0.60,"Monroe, Greg",5.20,13.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,2,9,07,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-207,129,0,0.60,"Monroe, Greg",6.00,12.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,4,2,49,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",18,190,0,0.70,"Jerebko, Jonas",6.40,13.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,4,1,33,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",36,255,0,0.80,"Jerebko, Jonas",8.50,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,3,9,15,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-153,23,0,0.90,"Anderson, Kyle",8.10,14.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,3,8,31,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",99,123,0,0.00,"Baynes, Aron",8.70,21.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,4,9,22,1,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",32,3,2,4.50,"Ayres, Jeff",2.10,11.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,4,9,30,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-46,238,0,0.70,"Johnson, Joe",4.70,18.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,1,11,34,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-157,123,0,0.70,"Plumlee, Mason",4.30,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,3,8,45,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-108,168,0,0.80,"Plumlee, Mason",2.90,16.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,4,11,06,0,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-228,20,0,0.80,"Young, Thaddeus",5.50,9.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,3,11,43,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",89,162,0,0.70,"Williams, Deron",4.40,10.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,2,1,27,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-119,216,0,0.80,"Plumlee, Mason",5.80,18.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,1,11,23,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-117,167,0,0.80,"Green, Draymond",5.90,20.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,3,8,55,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",99,247,0,1.10,"Allen, Tony",3.80,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,2,0,57,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-64,246,0,0.80,"Green, Draymond",5.60,9.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,4,8,59,0,"Jump Shot","2PT Field Goal",12,"Houston Rockets",113,45,0,4.00,"Jones, Terrence",3.80,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,0,41,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",10,200,1,1.60,"Iguodala, Andre",12.10,21.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,9,53,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",13,189,1,2.10,"Green, Draymond",6.50,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,4,4,36,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",20,41,2,5.80,"Green, Draymond",2.40,7.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,4,10,49,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-26,25,2,6.30,"Green, Draymond",1.50,6.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,5,56,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-103,244,0,0.80,"Green, Draymond",4.50,16.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,4,1,52,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",36,254,0,0.70,"Green, Draymond",4.70,18.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,1,1,59,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",129,230,0,0.80,"Lee, David",8.20,6.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,4,7,13,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-19,252,1,1.70,"Lee, Courtney",2.70,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,1,9,59,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",2,164,0,0.60,"Chandler, Wilson",3.90,12.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,1,9,05,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",4,164,0,0.80,"McLemore, Ben",4.30,9.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,5,0,29,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",23,205,1,2.00,"Landry, Carl",4.50,4.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,3,11,22,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-111,173,0,0.70,"Thompson, Jason",3.30,12.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,2,2,51,1,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",-109,0,2,6.50,"Williams, Derrick",3.50,8.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,2,31,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",2,50,2,6.90,"Novak, Steve",2.20,6.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,4,11,23,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",173,23,0,4.30,"Hickson, JJ",3.00,10.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,1,29,1,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",135,48,0,4.00,"Novak, Steve",3.50,8.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,2,1,45,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-163,94,0,0.90,"Chandler, Wilson",4.70,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,1,0,00,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",61,244,0,0.60,"Stauskas, Nik",4.00,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,4,1,59,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-5,247,0,0.70,"Landry, Carl",5.80,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,5,1,56,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",225,108,0,1.00,"Collison, Darren",4.90,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,2,10,51,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",149,6,0,3.30,"Landry, Carl",4.40,3.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,3,6,45,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",51,189,0,0.60,"Cousins, DeMarcus",4.20,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,4,8,45,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-30,217,0,0.00,"Landry, Carl",5.50,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,3,1,50,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-169,41,1,6.20,"Williams, Derrick",3.30,6.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,3,0,57,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",15,52,1,3.30,"McCallum, Ray",2.30,11.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,9,19,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-15,255,0,0.90,"Adams, Steven",8.10,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,1,7,13,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",141,214,0,1.00,"Chandler, Wilson",7.10,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,4,2,52,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",162,206,0,1.00,"Faried, Kenneth",13.60,19.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,1,8,54,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",110,222,0,1.20,"Kanter, Enes",4.80,20.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,3,5,21,1,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",159,113,0,0.90,"Diaw, Boris",3.80,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,3,1,13,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",6,190,0,0.70,"Thompson, Tristan",4.00,14.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,11,02,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",72,235,3,1.80,"Mills, Patty",3.00,22.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,4,8,15,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-38,239,0,0.80,"Leonard, Meyers",5.10,11.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,2,9,22,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-116,164,0,0.90,"Koufos, Kosta",5.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,3,0,05,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-81,242,0,0.90,"Conley, Mike",4.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,3,6,34,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",119,225,0,0.70,"Randolph, Zach",5.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,3,9,37,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",143,30,1,2.00,"Randolph, Zach",7.60,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,1,10,46,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",105,159,0,0.80,"Randolph, Zach",4.70,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,4,8,14,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",118,175,1,2.00,"Gasol, Marc",3.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,2,7,02,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",132,127,0,2.30,"Green, Jeff",2.10,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,3,6,48,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",103,192,0,0.70,"Randolph, Zach",4.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,1,10,12,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-122,216,0,1.00,"Randolph, Zach",7.50,18.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,3,9,22,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",56,244,0,1.00,"Lee, Courtney",3.50,23.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,2,1,12,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",157,37,2,4.30,"Randolph, Zach",3.20,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,2,8,26,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-139,31,0,0.80,"Tolliver, Anthony",5.80,6.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,2,10,51,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",106,148,0,0.70,"Green, Jeff",4.00,5.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,1,8,29,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",77,146,2,2.30,"Randolph, Zach",4.20,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,4,2,45,0,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",31,-2,0,0.60,"Green, Jeff",2.30,15.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,1,11,26,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",113,198,0,0.80,"Randolph, Zach",5.00,8.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,3,7,32,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",147,75,1,1.00,"Randolph, Zach",6.00,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,1,10,28,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-120,172,0,0.90,"Allen, Tony",4.20,15.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,4,8,40,1,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",-109,71,2,4.10,"Love, Kevin",1.90,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,3,7,22,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",159,55,1,3.70,"Splitter, Tiago",3.90,6.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,3,9,37,1,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-153,20,0,0.70,"Duncan, Tim",5.30,16.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,1,6,15,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",163,88,0,0.80,"Duncan, Tim",5.80,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,2,53,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-125,121,0,0.80,"Green, Danny",4.60,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,5,20,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",154,115,0,0.70,"Diaw, Boris",5.40,17.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,3,10,57,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",108,170,0,0.60,"Splitter, Tiago",3.90,1.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,1,8,30,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",31,254,0,0.80,"Splitter, Tiago",4.50,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,9,34,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",15,257,0,0.80,"Ginobili, Manu",3.60,16.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,4,1,28,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",28,172,0,1.00,"Chandler, Wilson",4.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,1,11,26,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",179,20,0,0.70,"Faried, Kenneth",5.10,12.90
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,2,7,20,1,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-59,115,2,2.30,"Chandler, Wilson",3.80,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,3,9,49,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-142,108,0,1.00,"Foye, Randy",10.40,16.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,3,11,21,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-18,257,0,0.80,"Foye, Randy",4.60,17.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,5,2,56,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-10,126,1,3.50,"Lawson, Ty",3.40,10.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,5,3,37,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",155,88,0,0.80,"Chandler, Wilson",3.40,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,4,6,10,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-105,113,0,0.00,"Lawson, Ty",3.00,20.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,3,7,57,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",6,244,0,0.70,"McGary, Mitch",6.40,14.50
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,0,07,1,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",132,55,0,1.90,"Novak, Steve",4.00,3.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,1,8,29,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",151,74,0,0.80,"Waiters, Dion",4.90,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,3,6,27,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",100,160,1,2.30,"McGary, Mitch",4.80,14.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,1,2,12,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-150,200,0,1.30,"McGary, Mitch",5.70,16.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,1,1,08,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",6,194,1,2.10,"McGary, Mitch",4.40,14.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,3,8,26,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-136,80,0,1.60,"McGary, Mitch",3.50,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,3,10,56,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",7,244,0,0.00,"McGary, Mitch",5.90,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,1,9,06,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",1,154,1,5.80,"Singler, Kyle",1.60,4.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,1,30,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",1,151,2,2.60,"Jerebko, Jonas",3.70,12.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,3,9,15,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",192,160,0,0.80,"Irving, Kyrie",5.10,20.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,1,2,31,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-150,190,0,0.90,"Thompson, Tristan",4.90,12.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,3,10,34,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-105,168,0,0.80,"Love, Kevin",5.10,11.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,2,6,38,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-82,160,0,0.80,"James, LeBron",6.20,18.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,2,8,14,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",125,233,0,0.80,"Shumpert, Iman",5.80,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,3,8,46,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",144,23,0,0.80,"Mozgov, Timofey",6.60,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,1,7,25,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-123,149,0,0.90,"Love, Kevin",4.90,14.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,4,9,06,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-114,91,0,0.80,"Diaw, Boris",4.50,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,3,6,40,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-150,11,0,0.90,"Monroe, Greg",4.70,13.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,1,11,18,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",146,53,0,0.60,"Splitter, Tiago",3.90,14.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,1,10,19,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-45,241,0,1.30,"Green, Danny",5.30,21.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,1,8,15,1,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",73,104,0,0.90,"Splitter, Tiago",3.30,15.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,1,1,20,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",-120,184,0,0.90,"Mills, Patty",7.90,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,3,10,36,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",124,101,0,0.90,"Splitter, Tiago",3.20,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,3,11,32,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-144,14,0,0.80,"Monroe, Greg",6.80,14.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,9,02,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",65,168,0,0.90,"Leonard, Meyers",4.10,13.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,7,00,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-231,4,0,1.40,"Frazier, Tim",0.00,19.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,1,8,14,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-138,203,0,0.70,"Acy, Quincy",4.80,12.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,1,9,34,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",0,246,0,0.90,"Chandler, Wilson",5.20,17.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,5,43,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",48,247,0,0.80,"Smith, Jason",7.00,16.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,10,18,1,"Jump Shot","2PT Field Goal",19,"New York Knicks",-190,23,0,0.60,"Calderon, Jose",4.30,12.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,4,00,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-30,167,0,0.80,"Smith, J.R.",3.10,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,0,18,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-2,269,2,3.90,"Acy, Quincy",1.20,3.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,0,46,1,"Jump Shot","2PT Field Goal",14,"New York Knicks",140,44,0,0.70,"Acy, Quincy",3.30,14.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,1,7,44,1,"Jump Shot","2PT Field Goal",14,"New York Knicks",32,145,0,0.90,"Acy, Quincy",3.40,11.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,7,54,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-93,233,0,1.10,"Acy, Quincy",4.40,8.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,11,46,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",9,249,0,0.70,"Acy, Quincy",15.50,12.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,1,10,19,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",4,254,0,1.40,"Acy, Quincy",3.40,6.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,1,46,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-131,208,0,0.80,"Acy, Quincy",5.60,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,5,3,11,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",78,236,0,0.70,"Acy, Quincy",3.80,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,10,17,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",130,132,0,0.60,"Acy, Quincy",2.50,16.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,2,11,45,0,"Jump Shot","2PT Field Goal",14,"New York Knicks",129,63,0,2.50,"Smith, Jason",4.50,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,4,1,13,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",132,14,0,0.80,"Morris, Markieff",5.00,14.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,10,47,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",23,178,1,1.90,"Frye, Channing",4.20,5.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,2,8,07,1,"Jump Shot","2PT Field Goal",19,"Orlando Magic",34,190,0,1.00,"Oladipo, Victor",5.00,18.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,4,3,08,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",177,23,0,0.70,"Frye, Channing",3.60,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,2,18,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",31,247,0,0.90,"Payton, Elfrid",5.00,15.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,10,19,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",7,254,0,0.80,"Frye, Channing",6.10,17.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,2,2,01,1,"Jump Shot","2PT Field Goal",19,"Orlando Magic",45,190,0,0.80,"Vucevic, Nikola",7.30,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,7,44,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-51,235,0,0.90,"Vucevic, Nikola",6.10,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,1,0,01,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",47,254,0,0.60,"Gordon, Aaron",4.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,1,10,24,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-76,242,0,0.90,"Frye, Channing",6.20,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,1,9,05,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-158,14,0,0.60,"Harkless, Maurice",7.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,0,54,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",152,72,0,0.60,"O'Quinn, Kyle",4.80,3.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,1,8,26,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-29,246,0,0.70,"Oladipo, Victor",4.70,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,1,0,54,0,"Jump Shot","2PT Field Goal",9,"Orlando Magic",72,56,0,4.30,"Ridnour, Luke",3.60,8.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,4,10,53,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-2,172,1,2.10,"Arthur, Darrell",4.10,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,3,0,32,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-117,216,0,0.90,"Arthur, Darrell",6.20,7.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,1,11,04,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-160,192,0,1.30,"Faried, Kenneth",16.90,19.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,1,10,34,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-123,149,0,1.10,"Faried, Kenneth",4.00,18.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,3,1,40,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",-70,119,2,3.40,"Lawson, Ty",3.10,8.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,3,9,51,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",103,220,0,0.90,"Lawson, Ty",3.90,17.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,4,3,49,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",140,162,0,0.70,"Afflalo, Arron",3.20,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,4,9,35,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-228,9,0,0.80,"Arthur, Darrell",2.30,15.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,2,4,00,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-152,45,0,4.70,"Nurkic, Jusuf",5.00,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,2,11,41,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-169,55,0,1.20,"Lawson, Ty",3.30,8.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,1,7,24,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-152,11,0,1.10,"Adams, Steven",3.60,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,10,41,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",0,244,0,0.70,"Morris, Markieff",4.00,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,8,22,1,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-98,189,0,0.70,"Jerebko, Jonas",3.20,14.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,3,9,01,1,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",15,216,0,0.80,"Drummond, Andre",5.90,16.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,2,12,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-152,198,0,1.30,"Monroe, Greg",14.90,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,1,11,27,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-7,246,0,0.80,"Drummond, Andre",8.00,18.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,4,56,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-84,231,0,0.80,"Meeks, Jodie",7.00,21.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,3,8,20,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",89,187,0,1.00,"Monroe, Greg",5.50,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,1,10,23,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",7,146,0,1.00,"Monroe, Greg",3.50,11.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,10,31,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",94,157,1,1.60,"Meeks, Jodie",2.80,0.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,1,8,14,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-8,254,0,0.70,"Black, Tarik",5.90,17.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,3,1,34,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",53,202,1,2.00,"Buycks, Dwight",5.70,19.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,3,10,01,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",83,232,0,1.10,"Davis, Ed",4.40,14.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,4,10,58,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-3,257,0,0.90,"Black, Tarik",12.10,17.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,3,1,42,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",108,140,0,0.60,"Buycks, Dwight",3.80,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,2,0,37,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-29,254,0,0.90,"Brown, Jabari",9.20,16.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,2,2,15,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-150,49,0,3.20,"Kelly, Ryan",4.00,6.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,3,19,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",170,55,0,1.60,"Tucker, PJ",5.80,0.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,3,1,05,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-59,173,0,0.60,"Waiters, Dion",4.00,10.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,8,36,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-19,252,0,0.80,"Kanter, Enes",10.30,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,2,11,49,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",163,41,0,0.80,"Collison, Nick",5.60,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,1,10,18,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",151,60,0,0.80,"Adams, Steven",9.30,19.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,3,0,37,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-73,239,0,0.70,"Waiters, Dion",6.40,14.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,3,7,43,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",124,224,0,0.70,"Westbrook, Russell",8.60,18.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,3,8,18,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",95,230,0,0.80,"Adams, Steven",5.50,8.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,10,22,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",39,178,0,0.80,"McGary, Mitch",6.20,13.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,1,1,00,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",17,205,0,0.70,"Collison, Nick",4.00,16.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,2,3,27,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",50,247,0,0.90,"Adams, Steven",5.10,10.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,11,28,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-13,247,1,1.10,"McGary, Mitch",4.50,16.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,1,33,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",65,135,1,7.90,"Kanter, Enes",3.20,2.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,2,50,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",47,250,0,0.70,"Westbrook, Russell",3.90,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,1,11,25,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",-138,165,0,1.00,"Adams, Steven",5.00,6.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,1,9,04,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",69,200,0,0.80,"Adams, Steven",5.90,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,4,9,47,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-11,123,1,2.80,"Augustin, D.J.",2.80,5.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,1,11,07,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",40,183,0,0.80,"Lillard, Damian",4.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,0,03,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-213,121,1,2.20,"Aldridge, LaMarcus",4.90,0.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,1,11,42,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",78,192,0,0.80,"Aldridge, LaMarcus",5.50,9.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,3,9,31,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",43,239,0,1.00,"Aldridge, LaMarcus",9.70,15.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,11,28,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",165,28,4,4.60,"Leonard, Meyers",3.70,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,2,11,10,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-105,222,0,0.80,"Lillard, Damian",6.10,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,4,7,16,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",56,233,0,0.90,"Frazier, Tim",2.00,13.10
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,3,10,21,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-78,189,0,1.00,"Lillard, Damian",5.00,14.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,4,0,56,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",125,217,0,0.70,"Morris, Markieff",4.10,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,4,0,22,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",125,208,0,0.80,"Green, Gerald",9.50,9.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,2,9,57,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-149,99,0,0.90,"Morris, Markieff",4.30,13.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,1,21,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",80,179,0,0.70,"Morris, Markieff",4.40,16.90
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,9,03,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",155,194,0,0.80,"Tucker, PJ",8.70,19.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,1,19,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",100,228,0,0.60,"Pondexter, Quincy",5.70,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,7,56,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",141,143,0,0.80,"Rose, Derrick",8.30,10.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,0,03,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-10,173,0,0.70,"Wolters, Nate",4.60,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,1,0,05,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-24,257,0,1.10,"Wiggins, Andrew",7.00,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,2,7,39,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-155,89,0,0.70,"Bennett, Anthony",5.30,6.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,4,8,09,1,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",132,101,0,0.90,"Bennett, Anthony",5.30,8.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,3,6,28,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",114,222,0,0.80,"Young, Thaddeus",4.60,17.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,3,10,51,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-54,189,0,0.80,"Young, Thaddeus",6.90,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,6,57,1,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",-82,72,2,2.00,"Pondexter, Quincy",3.50,17.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,3,10,58,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",48,192,0,0.80,"Howard, Dwight",16.40,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,1,7,28,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",91,233,0,1.10,"Jones, Terrence",6.10,18.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,5,23,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",4,255,0,0.60,"Griffin, Blake",4.40,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,3,0,34,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",151,61,0,1.40,"Waiters, Dion",5.00,13.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,1,9,20,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-34,236,0,1.10,"Collison, Nick",5.80,17.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,2,37,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-86,137,0,0.90,"Barnes, Matt",7.50,8.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,2,8,10,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",1,242,0,0.80,"Jordan, DeAndre",7.70,16.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,5,48,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-97,89,2,2.20,"Jordan, DeAndre",3.00,16.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,1,01,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-150,12,0,0.70,"Jordan, DeAndre",9.80,12.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,2,4,28,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-49,263,0,1.00,"Smith, Josh",5.40,20.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,4,7,36,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-180,183,0,0.70,"Teletovic, Mirza",4.50,9.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,4,5,40,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-193,36,0,0.60,"Collison, Nick",4.00,21.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,4,2,41,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",7,203,1,1.80,"Smith, Josh",3.30,15.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,1,11,49,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",13,269,0,0.80,"Hill, George",4.80,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,4,9,51,1,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-89,151,1,5.10,"Scola, Luis",1.90,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,2,10,48,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",23,160,1,6.90,"Allen, Lavoy",2.80,13.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,4,4,29,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",83,189,0,1.00,"Green, Jeff",10.40,9.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,1,6,49,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-123,121,0,0.80,"Johnson, Amir",11.90,16.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,1,11,47,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",140,31,0,0.70,"Diaw, Boris",3.10,14.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,1,26,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-70,249,0,0.80,"Gasol, Marc",4.60,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,1,09,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",48,200,0,1.00,"Collison, Nick",7.90,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,6,29,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-103,244,0,0.80,"Patterson, Patrick",4.50,8.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,3,10,46,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",43,189,1,1.80,"Green, Draymond",4.30,6.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,1,53,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",146,60,0,3.10,"Davis, Anthony",4.20,5.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,1,36,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",144,110,0,0.60,"Haslem, Udonis",2.90,12.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,3,2,05,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",116,56,2,3.60,"Jones, James",2.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,3,10,19,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-71,198,0,0.80,"Lillard, Damian",4.10,14.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,2,9,47,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-131,138,0,0.80,"Humphries, Kris",3.20,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,1,0,02,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",106,143,1,3.30,"Scola, Luis",3.80,2.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,0,41,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",15,175,0,0.60,"Patterson, Patrick",4.00,12.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,2,29,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-5,47,1,8.00,"Favors, Derrick",1.40,4.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,2,9,48,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-239,7,0,0.80,"Davis, Anthony",8.10,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,4,16,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-112,225,0,1.10,"Bradley, Avery",5.70,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,1,9,26,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-160,-8,0,0.80,"Hill, Solomon",2.50,7.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,7,21,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",102,220,0,0.90,"Kanter, Enes",7.30,18.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,4,05,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-8,257,4,7.10,"Matthews, Wesley",5.10,7.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,1,11,40,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-123,162,0,0.80,"Kanter, Enes",4.80,7.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,8,21,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-194,17,0,0.70,"Williams, Marvin",5.40,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,1,9,25,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-169,30,0,0.90,"Harris, Tobias",5.20,7.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,2,1,34,0,"Jump Shot","2PT Field Goal",9,"Atlanta Hawks",10,93,6,5.60,"Millsap, Paul",2.70,9.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,4,8,18,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",125,119,0,0.90,"Frye, Channing",6.10,15.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,4,3,44,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",39,197,0,0.90,"Watson, CJ",8.10,4.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,4,1,38,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-175,-22,1,5.80,"West, David",2.90,5.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,3,10,49,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-149,52,0,0.90,"Vucevic, Nikola",4.80,7.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,1,7,24,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",4,257,0,0.80,"Frye, Channing",6.30,20.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,0,47,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-123,80,0,5.30,"Leuer, Jon",1.90,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,9,24,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-37,162,0,0.80,"Noah, Joakim",5.70,14.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,3,10,39,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",88,186,0,0.70,"Olynyk, Kelly",6.00,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,1,9,03,0,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-11,108,5,7.80,"Miller, Mike",2.60,5.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,2,10,28,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-116,60,1,5.70,"Morris, Markieff",3.20,11.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,3,6,56,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",47,238,0,0.80,"Noah, Joakim",6.50,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,1,0,00,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",13,112,2,3.20,"McCollum, CJ",2.80,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,2,39,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-193,157,0,0.60,"Pondexter, Quincy",3.40,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,11,27,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-19,249,0,0.80,"Davis, Anthony",7.00,9.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,4,9,39,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",116,213,0,0.60,"Terry, Jason",1.40,12.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,1,10,18,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-123,119,0,0.80,"Pierce, Paul",3.90,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,8,07,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-213,138,0,0.80,"Patterson, Patrick",3.80,9.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,2,10,35,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-141,37,0,0.60,"Young, Nick",2.40,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,3,9,52,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",58,197,0,2.20,"Bonner, Matt",4.20,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,3,9,17,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",32,195,1,1.90,"Exum, Dante",3.40,16.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,6,34,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",2,176,1,1.20,"Noah, Joakim",2.90,15.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,4,7,31,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-232,4,0,0.70,"Holiday, Jrue",4.00,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,1,7,48,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-163,50,0,0.90,"Lopez, Brook",6.70,24.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,3,8,56,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",136,104,2,2.30,"Morris, Markieff",4.00,3.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,2,8,10,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-90,244,0,3.00,"Beverley, Patrick",2.10,2.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,4,8,25,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",42,186,0,0.80,"Young, Thaddeus",7.60,15.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,0,39,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",-8,97,3,2.80,"Anderson, Ryan",1.30,1.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,1,6,49,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-93,132,0,0.80,"Bennett, Anthony",4.70,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,8,05,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-116,101,0,1.00,"Johnson, Joe",5.80,13.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,3,7,43,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",127,67,0,0.60,"Monroe, Greg",3.00,13.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,7,34,0,"Jump Shot","2PT Field Goal",8,"Brooklyn Nets",7,88,2,5.80,"Teletovic, Mirza",2.60,24.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,2,9,28,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",121,104,0,0.80,"Humphries, Kris",8.50,13.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,10,03,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",67,175,0,3.40,"Burke, Trey",3.60,9.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,1,1,40,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",-87,96,2,3.80,"Smart, Marcus",1.80,8.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,1,6,57,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",45,241,0,0.70,"Aldridge, LaMarcus",7.20,18.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,3,11,29,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",166,61,0,0.90,"Aldridge, LaMarcus",3.00,14.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,2,3,31,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-11,246,0,0.90,"Matthews, Wesley",5.50,16.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,0,20,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",111,220,0,1.00,"Lopez, Robin",5.70,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,10,21,1,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",0,143,1,2.80,"McCollum, CJ",2.70,6.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,2,11,26,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-128,28,3,3.60,"Kaman, Chris",3.70,1.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,11,18,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-45,50,1,4.80,"Green, Draymond",4.10,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,1,8,10,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",136,211,0,1.00,"Belinelli, Marco",7.70,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,2,9,32,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-7,176,0,0.80,"Bennett, Anthony",5.10,11.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,11,23,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-93,228,0,0.80,"Robinson, Thomas",6.10,6.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,4,9,24,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",151,124,0,0.80,"Blair, DeJuan",6.80,6.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,7,34,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-5,252,0,0.70,"Davis, Anthony",6.00,17.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,3,1,55,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-117,108,0,3.40,"Humphries, Kris",3.10,9.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,4,15,1,"Jump Shot","2PT Field Goal",8,"Utah Jazz",-24,85,1,4.60,"Millsap, Elijah",2.50,5.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,1,6,01,1,"Jump Shot","2PT Field Goal",22,"Utah Jazz",138,181,0,0.80,"Kanter, Enes",5.40,3.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,1,7,30,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",58,159,0,1.60,"Kanter, Enes",2.70,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,7,05,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-125,138,0,0.60,"Favors, Derrick",4.00,10.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,4,6,29,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",77,143,0,0.10,"Collison, Nick",2.80,12.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,1,9,28,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",138,9,0,0.60,"Gortat, Marcin",7.10,14.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,0,05,1,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",26,127,0,0.80,"Morrow, Anthony",7.80,5.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,10,25,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-112,88,2,5.70,"Kanter, Enes",1.80,8.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,0,30,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",4,179,0,0.70,"Ibaka, Serge",4.80,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,8,11,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-23,238,0,0.80,"Durant, Kevin",4.50,16.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,1,7,57,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-123,213,0,0.80,"Matthews, Wesley",4.40,15.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,2,49,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",17,179,1,2.10,"Lin, Jeremy",3.90,16.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,2,10,50,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-29,250,0,0.70,"Gobert, Rudy",6.90,13.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,5,46,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-7,241,0,0.60,"Allen, Tony",6.10,17.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,2,11,20,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",4,244,0,0.70,"Bennett, Anthony",4.90,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,2,10,53,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-122,220,0,0.90,"Dieng, Gorgui",7.20,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,1,8,38,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-147,63,0,0.80,"Pekovic, Nikola",6.60,16.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,4,10,59,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-149,17,1,1.60,"Bass, Brandon",2.40,9.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,8,45,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",6,131,2,3.50,"Blake, Steve",1.00,9.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,1,9,48,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-136,160,0,0.70,"Diaw, Boris",4.70,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,2,11,01,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-108,31,3,6.20,"Davis, Glen",2.10,4.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,4,8,20,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",110,228,0,0.80,"Paul, Chris",5.00,13.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,3,6,15,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",185,170,0,1.00,"Barnes, Matt",3.10,18.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,4,8,45,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-43,157,0,0.80,"Bradley, Avery",3.00,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,4,9,52,0,"Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",108,47,0,0.70,"Thompson, Tristan",4.60,14.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,3,10,14,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",32,208,0,1.20,"Lopez, Robin",5.30,13.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,3,11,34,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",146,6,0,0.60,"Holiday, Jrue",4.70,16.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,3,8,52,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",34,258,0,0.80,"Evans, Tyreke",7.60,16.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,11,04,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-90,156,1,1.80,"Scola, Luis",3.40,8.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,1,11,40,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",163,142,0,0.60,"Aldridge, LaMarcus",4.70,8.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,3,7,15,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",18,247,0,0.80,"Sims, Henry",7.20,16.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,4,8,00,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-153,209,0,2.20,"Jerebko, Jonas",6.60,10.60
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,3,9,59,0,"Jump Shot","2PT Field Goal",11,"Utah Jazz",-108,30,0,0.80,"Kanter, Enes",7.90,5.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,3,31,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",97,228,0,0.90,"Gibson, Taj",7.70,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,2,4,04,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",133,113,3,5.00,Nene,2.30,5.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,2,0,02,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",65,252,0,0.70,"Gobert, Rudy",8.50,4.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,2,11,20,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",152,93,1,1.30,"Larkin, Shane",2.40,3.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,4,9,52,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-125,219,0,0.80,"Hinrich, Kirk",3.20,3.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,9,29,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",-86,53,2,5.70,"Wright, Brandan",3.50,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,1,2,38,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-52,200,0,0.70,"Humphries, Kris",3.70,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,1,9,02,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-90,241,0,0.70,"Williams, Marvin",3.80,14.80
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,4,9,12,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",7,246,0,0.80,"Diaw, Boris",5.80,14.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,4,11,24,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",122,50,0,0.60,"Humphries, Kris",5.60,14.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,10,09,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-152,214,0,0.80,"Johnson, Amir",6.70,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,2,7,27,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",114,50,0,4.50,"Davis, Glen",2.60,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,4,7,37,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",152,39,1,2.00,"Morris, Markieff",6.20,17.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,8,28,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",0,194,0,1.00,"Price, Ronnie",3.50,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,2,10,58,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-224,19,0,1.00,"Booker, Trevor",3.30,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,3,8,12,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-116,222,3,3.90,"Turner, Evan",3.30,21.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,2,9,59,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",92,138,0,0.70,"Papanikolaou, Kostas",3.90,9.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,4,10,14,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",2,257,0,0.90,"Leuer, Jon",5.10,17.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,1,5,46,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",6,153,1,6.50,"Aldridge, LaMarcus",3.40,3.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,8,52,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",83,227,0,0.70,"Kanter, Enes",5.60,16.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,1,22,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-90,176,0,0.80,"Teletovic, Mirza",6.20,6.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,4,0,42,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-114,220,0,0.60,"Miles, CJ",5.70,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,2,1,09,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",53,172,0,0.70,"Waiters, Dion",3.40,9.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,3,6,46,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-134,105,1,1.70,"Young, Thaddeus",2.40,12.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,2,11,01,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-46,247,0,0.80,"Smith, Josh",5.70,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,1,11,46,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-146,197,0,0.70,"Collison, Nick",5.90,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,3,7,50,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-139,118,0,0.80,"Green, Draymond",3.60,17.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,3,5,23,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-149,31,0,0.80,"Haslem, Udonis",4.20,17.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,2,8,52,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",132,88,0,1.20,"Teletovic, Mirza",2.50,3.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,8,22,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",108,179,1,1.80,"Davis, Anthony",3.10,11.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,3,10,34,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",7,194,0,0.90,"Westbrook, Russell",2.60,5.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,2,8,39,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",173,66,0,0.70,"Smith, Ish",2.50,16.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,1,8,14,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",28,258,0,0.80,"Wall, John",4.70,11.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,1,11,19,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",42,179,0,0.50,Nene,5.10,6.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,4,3,30,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",50,190,0,0.70,"Teletovic, Mirza",7.70,13.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,3,11,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",47,252,0,0.90,"Hayward, Gordon",4.90,12.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,3,10,15,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-128,211,0,0.70,"Lee, Courtney",4.10,8.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,1,0,58,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",187,14,0,0.60,"Dudley, Jared",2.70,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,8,54,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-79,242,0,0.90,"Davis, Ed",5.30,20.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,6,13,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",64,198,0,0.80,"Noah, Joakim",8.50,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,3,11,37,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-123,205,0,0.80,"Anthony, Carmelo",5.30,19.90
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,1,8,58,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-105,58,0,2.60,"Bonner, Matt",5.50,15.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,1,5,22,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",174,198,5,5.60,"Williams, Marvin",3.50,18.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,3,8,55,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-152,50,0,0.60,"Williams, Shawne",5.00,15.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,1,9,40,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-185,175,0,0.90,"Hawes, Spencer",7.60,18.40
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,3,5,02,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",32,0,3,5.40,"Duncan, Tim",2.30,5.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,2,10,43,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-57,249,0,0.70,"Zeller, Cody",3.70,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,9,33,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-106,250,6,5.50,"Davis, Anthony",5.50,18.60
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,4,10,26,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",-24,19,5,6.10,"Booker, Trevor",1.90,3.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,9,37,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",2,242,0,0.80,"Adams, Steven",7.30,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,1,9,25,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-73,192,0,1.00,"Lopez, Brook",5.40,8.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,4,11,38,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",119,20,0,0.80,"Bass, Brandon",2.80,15.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,1,8,33,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-166,4,0,1.00,Nene,4.50,12.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,5,39,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",118,222,0,1.20,"Noah, Joakim",7.30,16.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,2,0,59,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",47,246,0,0.70,"Copeland, Chris",5.90,16.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,4,10,47,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",18,257,0,0.80,"Young, Thaddeus",5.90,16.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,3,0,56,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",23,74,3,3.90,"Morris, Marcus",2.00,10.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,1,11,02,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",0,249,0,0.80,"Asik, Omer",6.50,18.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,4,2,42,0,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",143,42,0,3.20,"Scola, Luis",4.50,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-21,2014,0,1610612742,0,1,9,24,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",1,247,0,1.00,"Young, Thaddeus",7.40,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,8,32,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-19,247,0,0.80,"Evans, Tyreke",7.30,17.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,3,10,48,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-97,173,0,0.80,"Joseph, Cory",5.70,19.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,3,7,25,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",86,225,0,0.70,"Matthews, Wesley",6.60,13.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,2,8,42,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-112,86,1,4.80,"Morris, Marcus",4.40,12.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,2,11,13,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-152,116,1,4.50,"Horford, Al",3.20,0.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,4,10,22,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",51,239,0,0.80,"Blake, Steve",2.20,13.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,6,56,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-128,213,0,0.80,"Korver, Kyle",11.80,21.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,5,2,54,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",106,230,0,0.70,"Aldridge, LaMarcus",5.00,14.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,4,25,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",146,7,0,4.50,"Anderson, Ryan",3.80,7.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,3,10,02,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",24,244,0,0.80,"Cousins, DeMarcus",7.30,23.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,4,0,57,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",69,238,0,0.80,"Conley, Mike",6.40,18.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,4,2,14,0,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",99,19,0,0.70,"Gordon, Eric",1.80,1.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,6,39,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-136,126,0,0.60,"Booker, Trevor",9.80,0.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,10,05,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-49,239,0,1.10,"Motiejunas, Donatas",5.00,17.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,7,00,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",28,179,0,1.20,"Papanikolaou, Kostas",2.30,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,2,11,22,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-56,254,0,0.80,"Patterson, Patrick",4.70,16.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,7,57,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-147,200,0,0.20,"Papanikolaou, Kostas",8.20,23.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,2,10,03,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-18,242,0,0.90,"Joseph, Cory",2.70,18.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,1,8,15,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-49,200,0,0.80,"Randolph, Zach",5.30,13.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,9,01,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",77,235,0,0.60,"Williams, Shawne",5.90,6.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,3,1,27,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-62,236,0,0.70,"Evans, Jeremy",8.10,9.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,1,40,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-86,247,0,0.60,"Zeller, Cody",5.50,1.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,2,1,36,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",40,170,0,1.30,"Zeller, Cody",2.80,4.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,3,7,48,0,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-90,205,1,1.30,"Burks, Alec",5.10,8.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,2,8,46,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",184,26,0,0.80,"Plumlee, Miles",5.90,19.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,3,1,43,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-141,219,0,0.80,"Thompson, Tristan",4.90,13.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,2,3,30,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",9,157,1,4.00,"Wall, John",3.10,9.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,2,3,16,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-101,225,0,0.90,"Hummel, Robbie",7.10,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,4,9,33,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",28,244,0,2.00,"Dieng, Gorgui",7.20,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,4,7,01,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",20,247,0,0.80,"Booker, Trevor",4.90,22.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,3,6,27,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",92,230,0,0.80,"Bennett, Anthony",8.00,17.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,3,7,50,0,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",118,192,0,0.00,"Holiday, Jrue",7.90,9.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,3,4,50,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-157,45,0,0.80,"Haslem, Udonis",4.90,13.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,2,3,12,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-37,140,1,2.80,"Joseph, Cory",2.10,15.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,6,3,39,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-142,192,0,0.80,"Dunleavy, Mike",4.00,18.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,6,22,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-116,165,0,0.90,"Papanikolaou, Kostas",3.50,5.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,3,11,03,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",13,190,0,0.60,"Larkin, Shane",5.70,15.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,1,24,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",124,17,1,3.60,"Zeller, Tyler",2.90,6.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-17,2014,609,1610612742,400578664,2,9,34,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-155,71,1,2.50,"Augustin, D.J.",6.30,17.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,1,11,06,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-111,176,0,0.70,"Sullinger, Jared",4.50,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,2,51,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-146,219,0,0.90,"Patterson, Patrick",6.10,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,1,8,59,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",146,22,2,5.70,"Gordon, Eric",2.50,6.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-11,2014,609,1610612742,400579089,4,11,47,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",61,183,0,0.90,"Favors, Derrick",7.30,13.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,3,1,47,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-16,250,0,0.70,"Thomas, Isaiah",5.20,18.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,3,8,27,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-171,48,2,4.80,"Noah, Joakim",4.80,8.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,1,0,28,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-89,236,0,0.60,"Leuer, Jon",7.70,17.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,1,1,38,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",106,156,0,5.10,"Plumlee, Miles",3.60,10.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,2,3,06,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",103,220,0,0.00,"Knight, Brandon",3.30,13.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-05,2014,609,1610612742,400578803,1,8,18,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-5,183,0,0.70,"Plumlee, Mason",4.60,18.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,2,17,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",62,181,0,1.40,"Zeller, Cody",5.50,9.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,4,8,23,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-141,63,2,5.50,"Humphries, Kris",3.20,5.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,9,34,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-105,186,0,0.80,"Scola, Luis",4.70,5.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,2,20,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",51,168,1,2.40,"Lillard, Damian",2.60,2.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,3,10,05,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",138,156,0,0.80,"Hawes, Spencer",6.10,7.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,1,8,28,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",114,126,0,0.60,"Green, Draymond",4.20,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,3,1,29,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",181,173,0,0.80,"Parker, Jabari",6.40,18.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,3,22,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-188,160,0,0.70,"Asik, Omer",6.80,17.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,3,8,25,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",54,192,0,0.70,"Bradley, Avery",2.50,4.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,1,8,44,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-101,230,0,0.80,"Harden, James",3.80,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,8,58,0,"Jump Shot","2PT Field Goal",15,"Boston Celtics",-152,9,0,0.80,"Wright, Brandan",13.80,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,4,07,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",65,242,0,0.90,"Gibson, Taj",4.00,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,4,1,41,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",73,254,0,0.80,"Johnson, Amir",5.30,9.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,1,11,47,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",140,58,0,0.60,"Gasol, Pau",4.40,15.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,10,21,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-78,233,0,0.80,"Robinson, Thomas",6.40,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,1,9,39,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-155,99,0,0.60,"Lowry, Kyle",2.50,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,2,10,21,0,"Jump Shot","2PT Field Goal",9,"Phoenix Suns",70,66,3,5.00,"Morris, Marcus",3.50,5.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,2,4,47,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",143,44,0,2.70,"Bonner, Matt",3.90,14.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,3,10,27,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",111,214,0,0.80,"Beverley, Patrick",3.40,16.80
+"Dirk Nowitzki","Dallas Mavericks",2015-02-09,2014,609,1610612742,400579073,4,8,24,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",190,149,0,1.00,"Jordan, DeAndre",6.00,15.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,4,11,06,0,"Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",100,17,0,3.40,"Leuer, Jon",2.40,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,9,09,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",102,148,0,0.70,"Adams, Steven",4.40,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,1,0,18,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",0,250,0,0.70,"Anderson, Kyle",8.90,9.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,4,10,38,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",7,252,0,0.80,"Horford, Al",4.90,15.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,2,8,43,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",118,129,0,0.70,"Cole, Norris",4.00,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,2,11,17,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",118,146,0,0.80,"Warren, TJ",10.70,22.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,3,6,49,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",173,75,0,0.60,"Morris, Marcus",3.10,11.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,1,2,20,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-26,260,0,0.80,"Morris, Markieff",6.10,18.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,2,1,08,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-150,211,0,0.80,"Bledsoe, Eric",2.70,18.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,2,05,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-5,258,0,1.00,"Crawford, Jamal",16.40,17.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,1,1,04,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",28,156,0,3.10,"Griffin, Blake",2.60,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,2,10,46,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",61,187,0,0.70,"Smith, Josh",2.90,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,3,6,54,1,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-149,110,0,0.80,"Dorsey, Joey",6.10,6.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,2,2,58,1,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-158,19,0,0.80,"Beverley, Patrick",6.20,10.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,3,1,24,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",125,146,1,2.40,"Smith, Josh",3.80,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,1,11,16,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-141,107,0,0.80,"Dorsey, Joey",5.50,8.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,1,2,25,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-122,206,0,0.60,"Beverley, Patrick",5.90,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,3,5,34,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-54,172,0,0.70,"Napier, Shabazz",5.40,18.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,1,9,56,0,"Jump Shot","2PT Field Goal",21,"Miami Heat",32,209,0,0.90,"Bosh, Chris",5.50,12.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,0,01,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-86,255,0,0.80,"Livingston, Shaun",13.40,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,1,6,41,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",26,23,0,1.00,"Bogut, Andrew",1.20,16.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,1,9,01,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",-45,209,0,0.90,"Green, Draymond",4.30,15.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,2,1,38,1,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",7,126,0,0.80,"Bogut, Andrew",8.10,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,8,56,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",1,257,0,0.80,"Green, Draymond",5.70,17.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,2,0,49,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-81,172,1,1.90,"Green, Draymond",4.70,9.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,1,9,49,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-7,162,1,2.80,"Curry, Stephen",2.00,1.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,8,36,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-136,67,0,0.70,"Green, Draymond",6.50,17.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,2,7,24,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",-103,58,0,5.40,"Green, Draymond",2.30,9.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,1,10,34,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",105,222,0,0.80,"Curry, Stephen",6.40,19.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,2,8,33,0,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",-8,78,2,8.70,"Green, Draymond",0.00,2.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,1,9,57,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",13,254,0,0.80,"Horford, Al",6.00,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,3,11,46,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-65,189,0,0.80,"Millsap, Paul",4.10,13.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,3,9,34,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",129,231,0,0.60,"Millsap, Paul",4.70,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,6,33,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-5,127,0,1.60,"Curry, Stephen",4.00,5.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,1,1,17,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-75,189,0,0.90,"Green, Draymond",3.60,12.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,1,7,50,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",155,0,0,0.90,"Bosh, Chris",4.70,15.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,1,10,59,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-201,140,0,0.90,"Bosh, Chris",5.90,21.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,4,9,09,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",91,131,1,5.90,"Williams, Shawne",4.40,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,1,7,08,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-144,131,0,0.70,"Napier, Shabazz",3.50,9.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,2,0,28,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-123,118,0,0.80,"Bosh, Chris",5.60,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,2,1,41,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-153,124,0,0.90,"Bosh, Chris",4.50,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,3,9,46,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",218,126,0,0.80,"Granger, Danny",5.20,16.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,2,9,50,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-131,85,2,3.10,"Bosh, Chris",3.60,9.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,3,6,34,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-125,93,0,0.80,"Napier, Shabazz",9.00,17.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,4,9,37,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",48,249,0,0.80,"Johnson, Tyler",2.80,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,1,6,09,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-133,156,0,1.30,"Anderson, Alan",5.20,10.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,3,6,51,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",75,124,0,0.60,"Napier, Shabazz",3.90,8.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-04,2014,609,1610612742,400579434,3,6,07,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-153,71,0,0.80,"Barnes, Harrison",3.50,17.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,2,9,11,1,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",13,222,0,0.80,"Young, Thaddeus",5.70,11.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,9,14,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-139,96,0,0.60,"Evans, Tyreke",3.80,13.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,10,44,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-122,94,1,1.60,"Asik, Omer",4.40,10.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,4,11,33,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-71,233,0,0.90,"Young, Thaddeus",3.80,20.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,4,3,13,1,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",152,-3,1,0.70,"Morris, Markieff",6.10,12.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,1,10,33,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-70,238,0,0.80,"Morris, Markieff",3.50,22.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-30,2014,609,1610612742,400578994,3,10,07,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",24,187,0,0.90,"Bosh, Chris",3.80,15.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,3,11,32,1,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",69,151,0,0.70,"Morris, Markieff",3.10,12.70
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,2,00,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-32,254,0,0.90,"Cunningham, Dante",6.40,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,10,20,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-82,236,0,0.70,"Ajinca, Alexis",4.50,17.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,3,9,32,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-127,217,0,0.80,"Cunningham, Dante",7.20,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,8,47,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",7,241,0,0.70,"Asik, Omer",5.70,12.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,2,7,20,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",15,189,0,3.60,"Cunningham, Dante",2.20,8.40
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,4,3,55,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",99,179,0,0.80,"Cunningham, Dante",4.10,18.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,2,7,29,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",99,7,1,3.30,"Diaw, Boris",3.80,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,3,8,21,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",34,239,0,0.70,"Johnson, Joe",9.70,16.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,3,9,33,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-45,173,0,0.60,"Plumlee, Mason",4.30,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,2,11,35,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-5,-3,0,0.30,"Waiters, Dion",2.50,2.20
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,3,11,01,0,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-5,0,1,3.10,"Asik, Omer",1.80,9.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,2,59,0,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",20,0,0,0.90,"Millsap, Paul",0.70,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,1,0,05,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",12,0,0,0.50,"Scola, Luis",5.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,1,10,55,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-5,7,0,0.60,"Bryant, Kobe",3.60,14.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-19,2014,609,1610612742,400578908,4,1,20,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-10,7,0,0.90,"Gasol, Marc",2.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,11,07,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-23,6,0,1.40,"Livingston, Shaun",1.70,23.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,4,9,43,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",26,12,0,0.90,"Randolph, Zach",1.40,23.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,6,01,1,"Layup Shot","2PT Field Goal",2,"Miami Heat",21,1,0,0.70,"Deng, Luol",3.60,16.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,7,47,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-26,11,5,7.50,"Green, Draymond",1.10,4.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,3,7,24,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-10,17,2,6.20,"Korver, Kyle",1.90,3.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,2,8,53,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,0,0,1.60,"Allen, Lavoy",0.40,15.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,3,9,27,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",10,19,2,1.90,"Ibaka, Serge",2.70,18.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,3,1,01,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-11,7,0,0.80,"Terry, Jason",2.10,18.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,2,54,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-11,0,2,3.10,"Jerebko, Jonas",4.00,8.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,2,11,33,0,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-29,22,1,1.40,"Smith, Josh",1.90,11.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,3,6,36,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-16,4,0,0.60,"Bledsoe, Eric",1.10,13.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,9,49,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-21,0,2,5.40,"Anderson, Ryan",4.40,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,3,1,04,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-24,-6,2,2.30,"Wright, Brandan",1.20,16.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,10,18,1,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,1,0,1.00,"Millsap, Paul",0.20,13.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,1,6,18,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",18,6,3,6.70,"Gallinari, Danilo",6.20,9.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,5,2,54,1,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-30,-5,1,2.90,"Butler, Jimmy",1.30,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,6,22,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",0,14,2,3.70,"Barnes, Matt",2.40,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,1,7,24,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",23,3,0,1.70,"Lawson, Ty",0.40,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,8,28,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",7,26,3,6.30,"Durant, Kevin",1.40,9.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,1,10,12,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,7,0,0.80,"Williams, Marvin",5.80,7.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,2,6,34,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",6,26,2,4.40,"Gordon, Aaron",1.90,5.80
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,1,43,1,"Pullup Bank shot","2PT Field Goal",3,"Golden State Warriors",32,3,0,3.60,"Speights, Marreese",2.00,10.30
+"Dirk Nowitzki","Dallas Mavericks",2014-10-28,2014,609,1610612742,400578294,4,2,15,1,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-155,-17,2,2.20,"Diaw, Boris",3.00,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-15,2014,609,1610612742,400579510,3,0,20,0,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-146,25,0,0.90,"Aldridge, LaMarcus",4.70,12.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,2,2,58,0,"Pullup Jump shot","3PT Field Goal",24,"New York Knicks",-7,247,0,0.90,"Calderon, Jose",4.80,18.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,4,9,19,0,"Pullup Jump shot","2PT Field Goal",11,"Memphis Grizzlies",-46,102,2,1.90,"Carter, Vince",2.40,15.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,3,0,17,1,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",7,209,1,1.80,"Williams, Lou",10.30,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,3,8,07,1,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-119,214,1,1.70,"Ariza, Trevor",4.90,19.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,4,10,33,0,"Pullup Jump shot","3PT Field Goal",24,"Milwaukee Bucks",163,183,4,5.90,"Parker, Jabari",7.90,21.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,11,04,1,"Putback Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,1,0,0.30,"Livingston, Shaun",1.50,22.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,2,9,28,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",6,-10,0,0.80,"Papanikolaou, Kostas",2.10,24.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,2,11,23,1,"Putback Layup Shot","2PT Field Goal",0,"Houston Rockets",-8,-2,0,0.90,"Smith, Josh",2.10,23.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,4,11,08,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",1,1,0,1.60,"Cunningham, Dante",1.50,23.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,10,34,1,"Putback Layup Shot","2PT Field Goal",1,"Golden State Warriors",6,-8,0,0.40,"Ezeli, Festus",3.40,24.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,3,9,03,1,"Reverse Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",3,4,0,0.40,"Davis, Anthony",4.70,17.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,9,28,0,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",0,11,1,4.20,"Curry, Stephen",2.30,10.80
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,4,1,46,0,"Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",7,15,2,6.50,"Payton, Elfrid",0.00,4.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,2,1,43,0,"Running Bank shot","2PT Field Goal",15,"Utah Jazz",-146,64,0,3.40,"Kanter, Enes",3.40,11.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,2,9,58,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,4,0,0.50,"Dieng, Gorgui",3.80,17.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,3,6,46,0,"Running Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",2,39,3,3.50,"Batum, Nicolas",0.20,5.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,4,11,09,0,"Running Hook Shot","2PT Field Goal",6,"Toronto Raptors",64,9,0,0.60,"Patterson, Patrick",2.70,12.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-06,2014,609,1610612742,400578362,2,9,21,1,"Running Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-32,132,1,2.00,"Robinson, Thomas",1.50,16.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,1,11,01,1,"Running Layup Shot","2PT Field Goal",2,"Detroit Pistons",26,0,0,0.50,"Drummond, Andre",8.20,10.80
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,2,8,45,1,"Running Layup Shot","2PT Field Goal",1,"New York Knicks",-13,3,1,1.70,"Stoudemire, Amar'e",1.90,17.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-21,2014,609,1610612742,400578472,1,5,34,1,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",18,1,0,0.90,"Hill, Jordan",3.20,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,2,1,59,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,4,0,0.70,"Lopez, Robin",3.00,17.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,4,8,56,0,"Running Layup Shot","2PT Field Goal",5,"Toronto Raptors",50,1,1,1.00,"Johnson, James",4.10,19.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-09,2014,609,1610612742,400578386,1,7,41,0,"Running Layup Shot","2PT Field Goal",1,"Miami Heat",15,12,0,0.40,"Williams, Shawne",2.10,11.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,2,0,25,0,"Running Layup Shot","2PT Field Goal",2,"Toronto Raptors",29,3,0,0.60,"Johnson, Amir",3.40,12.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,1,6,30,1,"Running Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-15,3,0,0.40,"Randolph, Zach",3.50,15.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,2,7,17,1,"Running Slam Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.70,"Plumlee, Mason",2.30,21.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,4,10,29,1,"Running Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.70,"Rivers, Austin",7.60,20.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-15,2014,609,1610612742,400578429,1,11,45,1,"Step Back Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",151,45,0,3.10,"Bennett, Anthony",4.00,12.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,1,0,21,1,"Step Back Jump shot","2PT Field Goal",7,"New York Knicks",-19,75,3,5.70,"Smith, Jason",2.70,7.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,8,27,1,"Step Back Jump shot","2PT Field Goal",6,"New York Knicks",-49,44,3,3.20,"Acy, Quincy",2.40,7.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,7,18,1,"Step Back Jump shot","2PT Field Goal",14,"New York Knicks",138,45,0,4.50,"Acy, Quincy",3.90,10.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,5,2,15,1,"Step Back Jump shot","2PT Field Goal",17,"New York Knicks",106,135,1,4.60,"Acy, Quincy",2.70,5.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,3,5,59,1,"Step Back Jump shot","2PT Field Goal",8,"San Antonio Spurs",-87,17,0,0.90,"Duncan, Tim",6.90,16.50
+"Dirk Nowitzki","Dallas Mavericks",2015-01-13,2014,609,1610612742,400578864,2,2,15,1,"Step Back Jump shot","2PT Field Goal",11,"Sacramento Kings",95,66,3,5.00,"Collison, Darren",2.10,6.20
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,2,8,41,0,"Step Back Jump shot","2PT Field Goal",11,"Brooklyn Nets",83,82,2,2.00,"Plumlee, Mason",3.40,4.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,8,07,0,"Step Back Jump shot","2PT Field Goal",12,"Portland Trail Blazers",-109,66,2,3.00,"Lillard, Damian",3.60,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,5,3,42,1,"Step Back Jump shot","2PT Field Goal",14,"Portland Trail Blazers",34,142,1,2.70,"Lillard, Damian",2.40,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,11,16,0,"Step Back Jump shot","2PT Field Goal",15,"Detroit Pistons",152,17,0,3.60,"Jerebko, Jonas",4.10,8.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,3,7,10,1,"Step Back Jump shot","2PT Field Goal",13,"Memphis Grizzlies",-128,39,2,2.60,"Lee, Courtney",2.30,14.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,1,0,57,0,"Step Back Jump shot","2PT Field Goal",14,"Memphis Grizzlies",133,56,1,6.60,"Leuer, Jon",2.50,9.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,2,4,04,1,"Step Back Jump shot","2PT Field Goal",14,"San Antonio Spurs",136,61,0,2.90,"Bonner, Matt",3.30,9.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,1,31,0,"Step Back Jump shot","2PT Field Goal",13,"Phoenix Suns",-19,132,0,0.80,"Morris, Markieff",3.70,10.10
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,4,9,32,1,"Step Back Jump shot","2PT Field Goal",18,"Detroit Pistons",-49,176,1,2.00,"Monroe, Greg",3.10,13.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,4,11,03,0,"Step Back Jump shot","2PT Field Goal",10,"San Antonio Spurs",59,83,2,4.40,"Diaw, Boris",4.10,15.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,4,0,53,0,"Step Back Jump shot","2PT Field Goal",11,"Boston Celtics",91,71,4,5.30,"Green, Jeff",2.30,7.50
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,3,11,15,1,"Step Back Jump shot","2PT Field Goal",14,"Utah Jazz",140,26,2,4.70,"Kanter, Enes",3.60,8.90
+"Dirk Nowitzki","Dallas Mavericks",2015-01-27,2014,609,1610612742,400578970,1,6,20,0,"Step Back Jump shot","2PT Field Goal",13,"Memphis Grizzlies",-98,91,1,3.40,"Randolph, Zach",2.90,11.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,2,1,18,0,"Step Back Jump shot","2PT Field Goal",9,"Denver Nuggets",72,63,3,4.00,"Afflalo, Arron",2.60,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,3,10,01,1,"Step Back Jump shot","2PT Field Goal",11,"Charlotte Hornets",-109,19,2,5.60,"Zeller, Cody",3.50,11.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,1,11,24,1,"Step Back Jump shot","2PT Field Goal",7,"Houston Rockets",-75,12,0,1.20,"Howard, Dwight",6.20,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-13,2014,609,1610612742,400578412,2,11,23,1,"Step Back Jump shot","2PT Field Goal",9,"Philadelphia 76ers",-76,52,2,4.30,"Thompson, Hollis",1.90,8.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,5,1,05,0,"Step Back Jump shot","2PT Field Goal",13,"New York Knicks",-16,138,2,2.30,"Acy, Quincy",3.70,7.90
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,4,10,26,0,"Step Back Jump shot","2PT Field Goal",10,"New York Knicks",-98,41,2,4.50,"Acy, Quincy",2.70,5.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,2,7,31,0,"Step Back Jump shot","2PT Field Goal",11,"Indiana Pacers",91,66,5,5.30,"Scola, Luis",2.80,12.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,3,10,53,1,"Step Back Jump shot","2PT Field Goal",15,"Portland Trail Blazers",143,47,0,0.60,"Aldridge, LaMarcus",5.30,14.90
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,2,10,15,1,"Step Back Jump shot","2PT Field Goal",12,"Utah Jazz",-105,64,4,5.10,"Booker, Trevor",2.50,9.80
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,1,9,51,1,"Step Back Jump shot","2PT Field Goal",15,"Cleveland Cavaliers",138,63,2,4.10,"Thompson, Tristan",2.60,7.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,3,7,31,0,"Step Back Jump shot","2PT Field Goal",10,"Denver Nuggets",92,60,3,2.90,"Chandler, Wilson",3.30,10.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-30,2014,609,1610612742,400578762,1,8,10,1,"Step Back Jump shot","2PT Field Goal",10,"Washington Wizards",-100,12,0,3.50,"Pierce, Paul",4.70,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-10,2014,609,1610612742,400578842,3,8,24,1,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Clippers",-117,31,1,2.60,"Jordan, DeAndre",4.60,14.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,4,10,14,1,"Step Back Jump shot","2PT Field Goal",10,"Chicago Bulls",15,108,4,5.90,"Noah, Joakim",4.60,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-04,2014,609,1610612742,400579434,4,7,24,0,"Step Back Jump shot","2PT Field Goal",12,"Golden State Warriors",70,102,2,3.90,"Green, Draymond",2.80,11.30
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,1,0,37,1,"Step Back Jump shot","2PT Field Goal",6,"Phoenix Suns",18,66,2,4.80,"Green, Gerald",4.10,4.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,2,8,29,0,"Step Back Jump shot","2PT Field Goal",11,"Denver Nuggets",-62,99,1,3.90,"Hickson, JJ",3.10,4.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,2,2,16,0,"Step Back Jump shot","2PT Field Goal",15,"Memphis Grizzlies",-100,119,2,3.80,"Randolph, Zach",2.20,3.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-13,2014,609,1610612742,400579264,2,9,53,1,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Clippers",-97,74,1,3.30,"Turkoglu, Hedo",3.20,11.20
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,2,7,03,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",133,82,3,3.80,"Ingles, Joe",3.70,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-28,2014,609,1610612742,400579166,4,2,37,1,"Step Back Jump shot","2PT Field Goal",9,"Brooklyn Nets",-82,53,0,2.70,"Plumlee, Mason",4.20,7.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,9,52,1,"Step Back Jump shot","2PT Field Goal",12,"Portland Trail Blazers",-27,119,2,3.20,"McCollum, CJ",2.20,13.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,6,17,1,"Step Back Jump shot","2PT Field Goal",13,"New York Knicks",136,33,0,0.80,"Smith, Jason",3.70,13.70
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,2,1,52,1,"Step Back Jump shot","2PT Field Goal",13,"Denver Nuggets",13,131,1,1.40,"Lawson, Ty",5.80,7.90
+"Dirk Nowitzki","Dallas Mavericks",2014-10-30,2014,609,1610612742,400578311,4,8,57,1,"Step Back Jump shot","2PT Field Goal",11,"Utah Jazz",-109,34,1,3.80,"Booker, Trevor",2.90,6.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,1,6,48,1,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",-134,37,0,2.50,"Kelly, Ryan",3.80,9.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,3,10,36,0,"Step Back Jump shot","2PT Field Goal",16,"New York Knicks",99,129,1,3.50,"Acy, Quincy",2.70,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,4,4,27,0,"Step Back Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-139,66,0,5.20,"Adams, Steven",3.70,5.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,3,10,0,"Tip Shot","2PT Field Goal",2,"San Antonio Spurs",24,14,0,0.00,"Diaw, Boris",0.00,24.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,4,3,10,0,"Tip Shot","2PT Field Goal",2,"San Antonio Spurs",-23,12,0,2.60,"Diaw, Boris",0.00,24.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,4,6,37,1,"Turnaround Bank shot","2PT Field Goal",4,"Atlanta Hawks",48,11,0,0.80,"Millsap, Paul",3.00,12.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,1,1,32,0,"Turnaround Bank shot","2PT Field Goal",4,"Houston Rockets",-40,12,0,2.00,"Jones, Terrence",2.10,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-10,2014,609,1610612742,400579240,1,3,35,1,"Turnaround Bank shot","2PT Field Goal",3,"Cleveland Cavaliers",18,25,0,1.70,"Thompson, Tristan",1.80,10.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-05,2014,609,1610612742,400578576,3,0,49,0,"Turnaround Bank shot","2PT Field Goal",8,"Phoenix Suns",-10,89,1,3.50,"Morris, Marcus",2.00,19.10
+"Dirk Nowitzki","Dallas Mavericks",2014-12-20,2014,609,1610612742,400578689,4,4,12,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"San Antonio Spurs",-5,110,5,3.30,"Joseph, Cory",2.80,15.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,2,3,23,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Golden State Warriors",80,93,2,4.70,"Green, Draymond",2.20,10.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-12,2014,609,1610612742,400579493,2,2,50,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Los Angeles Lakers",87,46,1,3.90,"Johnson, Wesley",2.70,10.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,8,00,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Portland Trail Blazers",-119,31,1,4.40,"Wright, Dorell",2.90,7.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,2,3,07,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Oklahoma City Thunder",-87,41,2,4.00,"Durant, Kevin",3.20,4.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,4,10,15,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Golden State Warriors",135,69,0,4.90,"Barnes, Harrison",3.90,2.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-28,2014,609,1610612742,400578977,4,11,05,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Houston Rockets",-125,19,1,3.40,"Smith, Josh",2.80,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-07,2014,609,1610612742,400578821,1,0,43,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Detroit Pistons",103,39,1,4.20,"Tolliver, Anthony",2.80,3.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,4,2,08,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Houston Rockets",103,77,3,6.60,"Harden, James",2.20,8.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-07,2014,609,1610612742,400578372,1,0,32,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Utah Jazz",0,145,2,3.00,"Booker, Trevor",2.70,5.50
+"Dirk Nowitzki","Dallas Mavericks",2014-12-02,2014,609,1610612742,400578549,2,1,37,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Chicago Bulls",-122,33,5,5.20,"Butler, Jimmy",3.30,7.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-19,2014,609,1610612742,400578455,2,6,28,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Washington Wizards",-108,3,1,4.00,Nene,2.50,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-16,2014,609,1610612742,400578659,1,4,51,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"New York Knicks",-92,0,2,4.20,"Smith, Jason",4.30,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,3,11,25,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Toronto Raptors",-95,47,2,4.90,"Johnson, Amir",2.50,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,2,4,26,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Toronto Raptors",-114,14,0,4.20,"Johnson, James",2.90,9.10
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,2,6,28,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Indiana Pacers",-98,20,0,0.70,"Scola, Luis",3.20,12.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,4,10,14,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"New Orleans Pelicans",28,104,2,3.60,"Davis, Anthony",3.30,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,5,0,21,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Denver Nuggets",-168,44,4,4.00,"Faried, Kenneth",3.70,8.90
+"Dirk Nowitzki","Dallas Mavericks",2015-03-06,2014,609,1610612742,400579214,3,11,21,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Golden State Warriors",-108,53,1,3.70,"Green, Draymond",0.80,6.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-04,2014,609,1610612742,400579434,3,6,54,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Golden State Warriors",24,131,2,5.50,"Thompson, Klay",2.20,7.60
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,2,10,31,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"New Orleans Pelicans",-7,124,2,4.90,"Cunningham, Dante",4.90,9.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,4,4,25,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Orlando Magic",-119,17,2,3.80,"Frye, Channing",1.10,7.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-03,2014,609,1610612742,400578338,4,3,18,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Boston Celtics",-62,91,3,4.40,"Green, Jeff",2.50,10.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,3,6,39,1,"Turnaround Fadeaway shot","2PT Field Goal",7,"New Orleans Pelicans",32,63,1,4.60,"Cunningham, Dante",2.50,13.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,1,1,26,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Memphis Grizzlies",-141,1,2,4.00,"Leuer, Jon",2.80,8.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-28,2014,609,1610612742,400578747,3,1,27,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Oklahoma City Thunder",103,108,2,3.10,"Ibaka, Serge",2.10,2.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-02,2014,609,1610612742,400579181,3,7,31,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"New Orleans Pelicans",-128,28,1,3.80,"Cunningham, Dante",3.30,4.50
+"Dirk Nowitzki","Dallas Mavericks",2014-11-28,2014,609,1610612742,400578519,2,1,26,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Toronto Raptors",-133,11,1,3.10,"Lowry, Kyle",5.50,13.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-26,2014,609,1610612742,400578731,3,9,01,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Los Angeles Lakers",17,124,2,2.50,"Ellington, Wayne",4.30,16.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,3,2,06,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Phoenix Suns",70,102,2,3.20,"Goodwin, Archie",3.20,11.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,2,9,54,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",-138,20,2,5.40,"Leuer, Jon",3.60,7.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,4,8,53,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Denver Nuggets",-146,42,3,6.00,"Gallinari, Danilo",3.00,10.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,10,23,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Charlotte Hornets",-76,55,2,4.50,"Williams, Marvin",2.40,9.40
+"Dirk Nowitzki","Dallas Mavericks",2014-11-11,2014,609,1610612742,400578398,3,1,50,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Sacramento Kings",-116,53,3,4.30,"Landry, Carl",2.50,15.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,1,11,42,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Atlanta Hawks",-125,28,1,3.40,"Millsap, Paul",3.30,9.60
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,5,1,33,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Denver Nuggets",-146,25,1,3.60,"Foye, Randy",4.10,12.50
+"Dirk Nowitzki","Dallas Mavericks",2015-03-18,2014,609,1610612742,400579304,3,1,28,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Orlando Magic",-114,30,2,3.80,"Gordon, Aaron",2.60,11.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,4,11,43,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",110,78,2,5.30,"Leuer, Jon",3.00,9.40
+"Dirk Nowitzki","Dallas Mavericks",2015-02-04,2014,609,1610612742,400579033,3,11,09,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Golden State Warriors",-153,47,3,4.90,"Green, Draymond",0.20,6.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-24,2014,609,1610612742,400579349,1,6,45,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"San Antonio Spurs",-141,41,1,3.80,"Splitter, Tiago",2.10,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-04,2014,609,1610612742,400579434,3,8,21,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Golden State Warriors",-90,52,2,4.90,"Green, Draymond",2.30,12.70
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,3,8,32,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Indiana Pacers",-89,56,2,5.30,"Scola, Luis",3.20,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,3,6,32,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Houston Rockets",-105,31,1,4.90,"Harden, James",2.40,10.70
+"Dirk Nowitzki","Dallas Mavericks",2015-04-01,2014,609,1610612742,,2,1,58,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Oklahoma City Thunder",-109,37,0,1.30,"Westbrook, Russell",4.40,11.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-07,2014,609,1610612742,400579054,4,1,26,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Portland Trail Blazers",-13,116,1,3.50,"Lillard, Damian",2.70,14.20
+"Dirk Nowitzki","Dallas Mavericks",2015-04-02,2014,609,1610612742,400579417,4,11,25,0,"Turnaround Hook Shot","2PT Field Goal",3,"Houston Rockets",4,37,3,4.60,"Jones, Terrence",2.10,7.70
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,3,6,39,0,"Turnaround Hook Shot","2PT Field Goal",4,"Toronto Raptors",-43,14,0,1.00,"Johnson, Amir",1.90,10.10
+"Dirk Nowitzki","Dallas Mavericks",2015-02-25,2014,609,1610612742,400579135,1,8,40,1,"Turnaround Jump Shot","2PT Field Goal",19,"Atlanta Hawks",154,115,0,1.20,"Millsap, Paul",3.20,23.00
+"Dirk Nowitzki","Dallas Mavericks",2014-12-10,2014,609,1610612742,400578615,2,2,10,1,"Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-128,23,3,5.70,"Anderson, Ryan",1.90,5.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-09,2014,609,1610612742,400578602,2,8,26,1,"Turnaround Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",-133,25,0,2.40,"Leuer, Jon",3.40,9.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,2,0,49,0,"Turnaround Jump Shot","2PT Field Goal",9,"Charlotte Hornets",13,94,3,7.70,"Zeller, Cody",2.10,11.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-27,2014,609,1610612742,400579376,2,8,40,0,"Turnaround Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-90,47,4,5.10,"Splitter, Tiago",2.90,7.80
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,4,3,01,1,"Turnaround Jump Shot","2PT Field Goal",12,"Phoenix Suns",-29,124,3,3.60,"Bledsoe, Eric",3.10,14.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-22,2014,609,1610612742,400579338,2,11,23,0,"Turnaround Jump Shot","2PT Field Goal",13,"Phoenix Suns",133,17,2,5.00,"Morris, Markieff",2.10,9.30
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,2,3,45,1,"Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-133,34,2,4.20,"Anderson, Ryan",3.30,9.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-17,2014,609,1610612742,400578438,3,7,06,1,"Turnaround Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-146,56,1,4.50,"Williams, Marvin",2.50,2.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-24,2014,609,1610612742,400579133,2,9,18,1,"Turnaround Jump Shot","2PT Field Goal",15,"Toronto Raptors",152,9,0,0.90,"Vasquez, Greivis",5.00,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,7,14,1,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",127,28,2,3.60,"Wright, Dorell",2.50,6.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-02,2014,609,1610612742,400578778,2,3,16,1,"Turnaround Jump Shot","2PT Field Goal",14,"Boston Celtics",45,135,0,4.30,"Bradley, Avery",3.20,8.20
+"Dirk Nowitzki","Dallas Mavericks",2015-01-16,2014,609,1610612742,400578886,3,3,35,0,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-149,26,0,0.80,"Arthur, Darrell",4.00,9.40
+"Dirk Nowitzki","Dallas Mavericks",2014-12-07,2014,609,1610612742,400578590,4,11,16,1,"Turnaround Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",97,151,0,0.60,"Bayless, Jerryd",2.40,7.60
+"Dirk Nowitzki","Dallas Mavericks",2014-11-01,2014,609,1610612742,400578319,2,10,28,1,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",105,93,0,1.40,"Anderson, Ryan",2.90,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,4,3,17,0,"Turnaround Jump Shot","2PT Field Goal",15,"Houston Rockets",-150,28,0,0.90,"Terry, Jason",12.70,4.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,4,9,06,1,"Turnaround Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",102,30,2,4.70,"Green, Jeff",2.30,5.40
+"Dirk Nowitzki","Dallas Mavericks",2015-01-23,2014,609,1610612742,400578938,1,7,26,1,"Turnaround Jump Shot","2PT Field Goal",17,"Chicago Bulls",-79,154,0,0.90,"Noah, Joakim",4.30,7.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,0,03,0,"Turnaround Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-24,116,2,3.30,"Lillard, Damian",0.90,0.00
+"Dirk Nowitzki","Dallas Mavericks",2015-04-10,2014,609,1610612742,400579476,1,10,31,1,"Turnaround Jump Shot","2PT Field Goal",11,"Denver Nuggets",-109,19,1,5.00,"Gallinari, Danilo",3.80,8.00
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,3,7,05,1,"Turnaround Jump Shot","2PT Field Goal",18,"Indiana Pacers",-95,160,1,4.30,"Hill, Solomon",2.40,7.00
+"Dirk Nowitzki","Dallas Mavericks",2014-11-22,2014,609,1610612742,400578480,1,8,24,0,"Turnaround Jump Shot","2PT Field Goal",11,"Houston Rockets",119,1,0,0.70,"Motiejunas, Donatas",5.20,13.30
+"Dirk Nowitzki","Dallas Mavericks",2015-03-16,2014,609,1610612742,400579288,2,10,13,0,"Turnaround Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-144,50,0,0.90,"Collison, Nick",7.20,17.30
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,1,11,37,1,"Turnaround Jump Shot","2PT Field Goal",10,"Phoenix Suns",-106,23,2,3.00,"Morris, Markieff",3.80,7.30
+"Dirk Nowitzki","Dallas Mavericks",2014-11-24,2014,609,1610612742,400578495,2,0,22,0,"Turnaround Jump Shot","2PT Field Goal",8,"Indiana Pacers",48,66,1,8.30,"Copeland, Chris",3.70,7.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-04,2014,609,1610612742,400578795,1,11,26,1,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-131,60,2,5.70,"Love, Kevin",2.80,7.40
+"Dirk Nowitzki","Dallas Mavericks",2015-04-08,2014,609,1610612742,400579463,1,9,59,0,"Turnaround Jump Shot","2PT Field Goal",20,"Phoenix Suns",159,137,2,2.40,"Morris, Markieff",3.40,10.60
+"Dirk Nowitzki","Dallas Mavericks",2015-02-02,2014,609,1610612742,400579016,2,1,09,1,"Turnaround Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-106,116,1,2.20,"Young, Thaddeus",5.40,10.00
+"Dirk Nowitzki","Dallas Mavericks",2015-01-31,2014,609,1610612742,400578998,3,9,57,0,"Turnaround Jump Shot","2PT Field Goal",14,"Orlando Magic",-138,39,1,2.50,"Harris, Tobias",2.80,13.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,2,1,02,0,"Turnaround Jump Shot","2PT Field Goal",9,"Phoenix Suns",-79,55,4,5.10,"Morris, Markieff",3.90,3.50
+"Dirk Nowitzki","Dallas Mavericks",2015-02-19,2014,609,1610612742,400579093,4,3,13,1,"Turnaround Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",0,34,2,5.20,"Collison, Nick",0.90,5.30
+"Dirk Nowitzki","Dallas Mavericks",2015-02-22,2014,609,1610612742,400579119,2,2,25,0,"Turnaround Jump Shot","2PT Field Goal",7,"Charlotte Hornets",70,15,1,5.60,"Zeller, Cody",0.90,9.20
+"Dirk Nowitzki","Dallas Mavericks",2014-11-26,2014,609,1610612742,400578506,5,0,43,1,"Turnaround Jump Shot","2PT Field Goal",13,"New York Knicks",0,135,2,4.60,"Prigioni, Pablo",3.00,7.10
+"Dirk Nowitzki","Dallas Mavericks",2015-03-20,2014,609,1610612742,400579319,4,3,14,0,"Turnaround Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-81,75,3,5.70,"Green, Jeff",2.20,8.90
+"Dirk Nowitzki","Dallas Mavericks",2014-12-23,2014,609,1610612742,400578717,4,10,34,1,"Turnaround Jump Shot","2PT Field Goal",10,"Phoenix Suns",-65,85,3,4.80,"Morris, Marcus",3.40,0.70
+"Dirk Nowitzki","Dallas Mavericks",2014-12-13,2014,609,1610612742,400578632,4,11,44,0,"Turnaround Jump Shot","2PT Field Goal",5,"Golden State Warriors",-19,53,2,4.40,"Barnes, Harrison",1.50,9.90
+"Dirk Nowitzki","Dallas Mavericks",2015-02-20,2014,609,1610612742,400579102,2,11,47,0,"Turnaround Jump Shot","2PT Field Goal",16,"Houston Rockets",162,19,0,0.80,"Smith, Josh",4.30,13.60
+"Dirk Nowitzki","Dallas Mavericks",2015-01-25,2014,609,1610612742,400578952,4,10,01,1,"Turnaround Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",75,36,2,4.20,"Pondexter, Quincy",3.80,9.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-05,2014,609,1610612742,400579202,2,6,51,0,"Turnaround Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",108,112,1,1.80,"Lillard, Damian",2.10,15.60
+"Dirk Nowitzki","Dallas Mavericks",2014-12-22,2014,609,1610612742,400578705,2,9,59,1,"Turnaround Jump Shot","2PT Field Goal",4,"Atlanta Hawks",7,44,3,4.40,"Scott, Mike",1.60,5.20
+"Dirk Nowitzki","Dallas Mavericks",2015-03-29,2014,609,1610612742,400579391,2,6,57,1,"Turnaround Jump Shot","2PT Field Goal",13,"Indiana Pacers",-134,39,0,3.40,"Scola, Luis",3.30,12.60

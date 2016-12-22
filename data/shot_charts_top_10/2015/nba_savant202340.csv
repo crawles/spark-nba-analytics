@@ -1,0 +1,1012 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,3,11,47,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.90,"Conley, Mike",7.70,22.20
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,3,7,31,1,"Driving Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,2,3.20,"Plumlee, Mason",3.80,21.70
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,4,0,27,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.60,"Lin, Jeremy",5.60,17.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,3,7,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-7,20,4,3.60,"Thompson, Hollis",1.20,12.20
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,1,8,21,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Washington Wizards",1,20,1,1.20,"Beal, Bradley",2.20,13.20
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,5,2,19,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",1,19,0,0.80,"Stuckey, Rodney",3.50,19.90
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,1,9,22,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",6,11,2,2.20,"Bledsoe, Eric",1.40,14.90
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,1,4,35,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",6,7,1,1.50,"Andersen, Chris",4.20,23.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,1,7,26,0,"Driving Jump shot","2PT Field Goal",7,"Dallas Mavericks",73,14,0,1.40,"Nelson, Jameer",3.30,20.80
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,3,10,37,0,"Driving Jump shot","2PT Field Goal",4,"Phoenix Suns",-38,14,5,4.20,"Dragic, Goran",1.00,8.10
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,3,5,05,1,"Driving Jump shot","2PT Field Goal",3,"Phoenix Suns",32,4,3,3.40,"Dragic, Goran",2.00,13.60
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,2,6,27,1,"Driving Jump shot","2PT Field Goal",3,"Miami Heat",1,31,0,0.70,"Williams, Shawne",1.80,12.80
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,7,46,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",18,7,3,2.30,"Bogut, Andrew",2.40,11.90
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,6,42,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",18,1,6,6.00,"Sloan, Donald",3.10,14.10
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,1,7,30,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,0,3,3.00,"Jack, Jarrett",2.40,10.40
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,1,5,37,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",17,6,2,1.60,"Davis, Anthony",1.00,12.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,4,20,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",12,17,3,3.00,"Ellis, Monta",2.10,21.70
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,5,08,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-7,0,2,2.40,"Motiejunas, Donatas",2.40,18.00
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,1,6,51,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,-3,2,1.90,"Batum, Nicolas",4.90,20.00
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,3,8,46,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-4,12,5,4.80,"Deng, Luol",2.00,20.30
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,3,5,19,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",15,3,4,3.00,"Len, Alex",1.90,22.70
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,4,36,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",29,7,3,3.10,"Motiejunas, Donatas",0.50,8.00
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,1,8,59,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-7,11,4,2.80,"Henson, John",2.10,11.40
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,2,11,01,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,11,3,2.80,"Dragic, Goran",1.80,7.10
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,4,06,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,-5,10,8.40,"Nowitzki, Dirk",3.50,17.00
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,6,30,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,7,3,3.20,"Taylor, Jeff",2.70,10.60
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,3,3,12,1,"Driving Layup Shot","2PT Field Goal",0,"Chicago Bulls",-2,6,2,3.90,"Hinrich, Kirk",14.20,22.50
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,3,1,54,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",12,0,4,3.00,"Gasol, Pau",3.30,11.50
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,1,2,56,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",4,-3,1,1.90,"Jack, Jarrett",3.90,20.80
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,5,30,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",0,12,1,1.90,"Galloway, Langston",2.40,21.40
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,1,7,33,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,0,7,6.20,"Lowry, Kyle",4.30,3.60
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,2,3,31,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",7,-3,2,3.10,"Anderson, Alan",2.30,11.10
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,1,11,29,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",21,3,0,0.50,"Ellis, Monta",0.60,11.30
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,4,3,41,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",1,22,3,3.20,"Johnson, James",2.10,19.10
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,3,1,32,1,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,-3,3,5.10,"Joseph, Cory",4.00,5.80
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,4,4,21,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",7,1,8,5.00,"Williams, Deron",4.00,6.80
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,1,6,38,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",12,-5,2,2.50,"Nowitzki, Dirk",3.50,15.70
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,3,8,33,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-27,0,3,4.40,"Rondo, Rajon",0.00,17.40
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,1,4,30,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-18,-2,3,3.60,"Ibaka, Serge",2.10,13.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,7,34,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",12,1,2,1.80,"Jefferson, Richard",2.70,16.60
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,7,20,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",10,15,5,4.40,"Lopez, Brook",5.80,18.80
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,1,10,26,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",12,7,3,2.30,"Rose, Derrick",1.60,19.60
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,1,5,47,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",23,11,4,3.20,"Napier, Shabazz",0.40,12.70
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,2,0,30,1,"Driving Layup Shot","2PT Field Goal",3,"Washington Wizards",31,0,4,3.80,"Beal, Bradley",1.10,17.50
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,8,13,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",2,0,5,6.50,"Parsons, Chandler",2.50,13.50
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,2,6,38,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-5,-6,0,0.80,"Bazemore, Kent",1.30,8.50
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,2,0,57,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",15,22,3,2.90,"Lin, Jeremy",1.00,21.80
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,1,0,31,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",13,0,2,2.50,"Meeks, Jodie",3.20,15.90
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,1,8,14,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",9,-2,1,1.50,"Garnett, Kevin",3.70,11.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,2,3,05,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-10,4,3,2.70,"Bogdanovic, Bojan",2.30,18.90
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,1,42,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",24,4,2,2.60,"McCollum, CJ",0.20,14.70
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,4,9,07,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,1,1,2.10,"Bonner, Matt",1.70,13.70
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,4,2,52,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-5,-13,0,0.50,"Frazier, Tim",1.80,13.40
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,3,17,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",10,0,3,3.00,"Chandler, Tyson",4.70,18.90
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,3,6,39,0,"Driving Slam Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,6,6.50,"Galloway, Langston",2.00,10.00
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,2,0,02,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.50,"Gobert, Rudy",3.10,0.00
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,1,8,23,0,"Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.60,"Love, Kevin",2.10,16.40
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,3,4,20,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.60,"Anderson, Alan",3.10,6.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,1,08,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.60,"Shved, Alexey",4.20,21.40
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,1,2,22,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,0,0.10,"Diaw, Boris",5.20,24.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,4,1,21,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,1,1.70,"Plumlee, Mason",10.70,20.00
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,4,5,34,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,1,1.70,"Rose, Derrick",17.50,21.00
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,4,50,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,1,3.90,"Chalmers, Mario",13.20,21.00
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,4,1,41,1,"Fadeaway Bank shot","2PT Field Goal",6,"New Orleans Pelicans",59,12,0,1.90,"Gordon, Eric",4.40,15.10
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,1,8,32,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",185,22,8,6.20,"Thompson, Hollis",3.30,17.60
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,3,5,59,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Denver Nuggets",94,149,3,2.90,"Gallinari, Danilo",3.70,10.50
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,1,7,12,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Brooklyn Nets",176,1,0,1.00,"Bogdanovic, Bojan",2.20,16.50
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,1,9,45,1,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",140,-2,3,2.00,"Galloway, Langston",3.20,11.50
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,1,2,00,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",0,12,0,0.70,"Jordan, DeAndre",3.40,20.00
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,2,4,16,1,"Floating Jump shot","2PT Field Goal",7,"New York Knicks",73,1,1,2.20,"Anthony, Carmelo",3.20,9.40
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,8,02,1,"Floating Jump shot","2PT Field Goal",20,"Dallas Mavericks",18,203,0,0.70,"Harris, Devin",3.30,13.40
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,8,02,0,"Floating Jump shot","2PT Field Goal",10,"Chicago Bulls",40,102,2,1.80,"Mirotic, Nikola",1.90,11.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,3,11,03,0,"Floating Jump shot","2PT Field Goal",9,"Dallas Mavericks",42,80,2,2.10,"Ellis, Monta",2.10,13.60
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,2,8,05,1,"Floating Jump shot","2PT Field Goal",6,"Brooklyn Nets",-54,30,1,1.20,"Jack, Jarrett",1.90,11.70
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,1,8,06,1,"Floating Jump shot","2PT Field Goal",7,"Indiana Pacers",-32,71,5,2.30,"Hibbert, Roy",3.80,19.40
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,3,8,20,0,"Floating Jump shot","2PT Field Goal",8,"Cleveland Cavaliers",65,55,0,1.50,"Smith, J.R.",5.80,5.90
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,2,26,0,"Floating Jump shot","2PT Field Goal",5,"Toronto Raptors",36,47,0,5.40,"Hansbrough, Tyler",1.30,11.70
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,4,40,0,"Jump Bank Shot","3PT Field Goal",25,"Orlando Magic",-177,184,1,1.30,"Ridnour, Luke",5.60,20.50
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,4,1,00,0,"Jump Bank Shot","3PT Field Goal",24,"Miami Heat",31,246,2,2.40,"Cole, Norris",1.90,20.60
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,2,4,42,0,"Jump Hook Shot","2PT Field Goal",4,"Los Angeles Clippers",24,33,0,0.60,"Jordan, DeAndre",4.40,9.80
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,1,8,12,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-70,172,0,0.80,"Stephenson, Lance",5.60,8.50
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,2,6,24,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-209,164,0,1.10,"Zeller, Cody",5.20,14.80
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,5,37,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",230,7,0,0.70,"Covington, Robert",5.80,10.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,2,0,05,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",234,-32,0,0.70,"Shved, Alexey",5.00,0.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,4,8,33,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-179,176,0,1.00,"Covington, Robert",7.60,11.90
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,4,3,54,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-8,160,0,0.80,"Sampson, JaKarr",6.80,14.90
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,2,4,27,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-243,50,0,1.10,"Muhammad, Shabazz",6.60,9.80
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,4,1,13,1,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-87,198,0,0.80,"LaVine, Zach",3.60,14.10
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,1,11,43,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",-93,137,1,0.90,"Cole, Norris",3.70,13.60
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,3,10,55,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-153,127,1,2.00,"Chalmers, Mario",4.60,11.90
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,1,6,19,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",67,192,0,0.80,"Oladipo, Victor",6.20,11.40
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,3,8,42,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-234,6,0,0.80,"Oladipo, Victor",3.70,15.10
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,3,6,57,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",237,56,0,1.00,"Oladipo, Victor",7.60,5.00
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,3,5,22,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",231,36,0,1.00,"Oladipo, Victor",5.00,19.40
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,4,0,22,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-161,192,0,0.90,"Oladipo, Victor",6.80,17.40
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,2,5,21,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",43,238,0,0.80,"Anderson, Alan",4.40,8.00
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,2,4,03,1,"Jump Shot","2PT Field Goal",8,"Brooklyn Nets",9,86,1,2.20,"Teletovic, Mirza",2.90,12.00
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,3,6,46,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-228,108,0,1.00,"Karasev, Sergey",10.10,14.00
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,4,0,01,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-7,242,1,0.90,"Karasev, Sergey",5.40,0.00
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,1,6,29,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",40,205,0,1.10,"Collison, Darren",3.60,20.70
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,1,6,04,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-180,89,3,1.40,"Stauskas, Nik",4.00,15.20
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,1,2,32,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",179,-2,2,2.30,"Stauskas, Nik",4.40,6.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,2,0,00,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",75,228,3,2.90,"Rondo, Rajon",2.80,0.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,11,21,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",4,195,0,0.90,"Rondo, Rajon",3.00,14.60
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,10,02,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-90,230,5,2.60,"Smith, Greg",5.20,11.70
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,7,57,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",222,112,0,0.90,"Rondo, Rajon",6.70,19.40
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,6,27,1,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-89,198,0,0.90,"Ellis, Monta",5.30,10.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,5,31,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-245,-6,5,2.90,"Ellis, Monta",3.90,22.40
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,1,8,54,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",31,183,2,1.90,"Noah, Joakim",5.10,16.10
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,4,3,27,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",-5,222,0,1.00,"Rose, Derrick",1.20,14.60
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,5,1,38,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-139,107,6,5.20,"Rose, Derrick",1.90,7.70
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,3,10,15,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",99,167,0,0.90,"Walker, Kemba",5.00,13.50
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,3,9,01,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-101,137,1,1.30,"Nelson, Jameer",3.30,11.20
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,3,6,45,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",94,172,7,6.00,"Nelson, Jameer",4.40,16.00
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,3,8,38,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-223,0,0,0.80,"Nelson, Jameer",4.80,16.30
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,4,1,24,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",174,184,0,0.80,"Nelson, Jameer",3.10,15.00
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,4,3,29,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-231,6,1,1.80,"Afflalo, Arron",1.20,3.20
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,2,8,18,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-229,17,0,0.90,"Chandler, Wilson",7.80,13.00
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,2,1,42,1,"Jump Shot","2PT Field Goal",19,"Orlando Magic",195,28,0,1.00,"Payton, Elfrid",7.00,18.20
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,3,9,29,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",15,170,0,0.80,"Miles, CJ",3.30,10.50
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,3,28,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-224,23,0,0.80,"Ross, Terrence",7.80,8.90
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,8,49,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",24,247,2,2.40,"Hayward, Gordon",6.80,12.30
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,1,10,23,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-223,119,0,0.80,"Bogdanovic, Bojan",4.50,13.20
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,4,9,01,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",26,186,0,0.70,"Williams, Deron",2.60,15.20
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,4,3,23,1,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",75,216,0,0.90,"Williams, Deron",6.70,14.00
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,1,10,33,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-229,36,0,0.80,"Harden, James",5.90,16.30
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,2,1,59,1,"Jump Shot","2PT Field Goal",6,"Houston Rockets",0,63,0,0.60,"Jones, Terrence",3.20,6.10
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,2,9,38,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",190,159,0,1.00,"Williams, Lou",6.20,19.90
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,3,8,15,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-101,187,2,1.50,"Ross, Terrence",3.60,13.50
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,3,7,32,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",239,-13,1,1.70,"Patterson, Patrick",6.40,2.50
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,3,5,43,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-224,-8,0,0.90,"Stiemsma, Greg",10.50,11.70
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,1,11,25,1,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",133,78,1,1.20,"Hill, Solomon",5.60,12.40
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,3,7,36,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",193,186,0,0.80,"Hill, Solomon",4.40,12.70
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,6,42,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-79,157,0,1.00,"Brooks, Aaron",4.10,9.30
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,5,11,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",121,162,9,7.50,"Brooks, Aaron",1.70,16.30
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,4,34,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-67,186,0,0.80,"Dunleavy, Mike",4.80,13.20
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,3,37,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",114,224,0,1.10,"Butler, Jimmy",8.10,17.40
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,3,9,39,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-147,104,0,1.00,"Dunleavy, Mike",6.30,19.80
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,1,8,23,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",43,203,2,2.40,"Jackson, Reggie",2.90,8.50
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,4,55,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",234,44,0,0.90,"Adams, Steven",11.50,11.90
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,1,01,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-232,116,0,0.80,"Jackson, Reggie",3.60,22.90
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,3,6,56,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",34,168,0,1.00,"Lamb, Jeremy",3.50,14.90
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,3,5,53,1,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",-7,213,1,1.30,"Adams, Steven",7.10,15.30
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,4,10,15,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-125,214,1,2.20,"Collison, Nick",6.50,13.60
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,4,7,08,1,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",1,143,0,0.80,"Morrow, Anthony",4.50,15.20
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,9,02,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-116,154,1,1.30,"Harris, Joe",5.20,13.10
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,5,45,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-62,172,0,1.00,"Harris, Joe",2.10,9.40
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,4,8,23,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",195,30,0,1.10,"Varejao, Anderson",5.60,9.00
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,1,10,30,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-234,3,0,0.70,"Dragic, Goran",3.60,13.20
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,1,7,15,1,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",136,14,8,5.70,"Morris, Markieff",4.50,17.70
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,4,7,55,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-84,233,1,0.80,"Green, Gerald",4.70,4.60
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,6,27,1,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",181,102,0,1.20,"Mbah a Moute, Luc",9.80,19.30
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,5,40,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",231,44,0,0.80,"Mbah a Moute, Luc",5.70,2.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,1,7,20,1,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",17,227,0,1.00,"Ellis, Monta",2.80,14.40
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,2,10,43,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-133,159,1,1.70,"Harris, Devin",4.70,11.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,2,5,29,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",157,194,0,1.20,"Chandler, Tyson",6.70,18.60
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,6,56,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",48,190,0,0.20,"Ellis, Monta",0.10,21.60
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,5,50,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-62,239,0,0.90,"Ellis, Monta",6.40,19.20
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,8,40,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",233,-5,0,0.80,"Nowitzki, Dirk",7.80,18.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,7,21,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",144,197,2,1.80,"Parsons, Chandler",5.50,18.50
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,1,47,1,"Jump Shot","2PT Field Goal",8,"Dallas Mavericks",53,61,0,0.50,"Ellis, Monta",5.10,19.80
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,1,9,24,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-101,187,1,2.00,"Lee, Courtney",5.10,17.80
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,2,6,20,1,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",-75,208,0,0.80,"Lee, Courtney",4.80,14.30
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,2,5,30,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",152,94,0,1.00,"Leuer, Jon",4.20,14.80
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,4,2,41,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",230,34,0,0.70,"Lee, Courtney",3.80,12.60
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,2,3,21,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",143,135,3,2.20,"Matthews, Wesley",4.00,14.20
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,3,11,34,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",1,186,0,1.00,"Matthews, Wesley",5.90,16.80
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,8,30,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-62,200,1,1.00,"Lillard, Damian",2.90,17.00
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,2,02,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",234,-13,0,0.80,"Matthews, Wesley",3.90,8.10
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,1,8,56,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",122,154,5,2.70,"Noah, Joakim",5.50,12.50
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,1,7,38,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-232,4,0,0.80,"Dunleavy, Mike",6.50,10.40
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,1,6,36,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",241,-11,0,0.90,"Butler, Jimmy",5.50,20.60
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,3,4,20,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-169,85,1,1.60,"Dunleavy, Mike",3.50,15.50
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,3,2,40,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",31,194,0,0.70,"Dunleavy, Mike",2.70,15.40
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,2,6,24,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",59,179,0,1.00,"Parker, Tony",2.30,10.70
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,3,11,36,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-228,39,0,0.80,"Green, Danny",4.30,2.90
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,1,10,13,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-62,244,0,0.30,"Korver, Kyle",8.70,15.20
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,1,7,54,1,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",10,184,0,0.70,"Korver, Kyle",3.10,11.20
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,7,28,1,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-54,187,1,1.30,"Korver, Kyle",4.40,16.60
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,5,36,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",157,151,1,2.00,"Korver, Kyle",2.20,13.40
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,4,45,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-57,250,1,1.90,"Korver, Kyle",4.10,14.80
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,3,11,15,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-234,12,0,0.80,"Korver, Kyle",7.50,15.10
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,1,8,58,1,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-8,142,3,3.00,"Humphries, Kris",3.80,15.60
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,3,9,38,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",124,124,2,2.10,"Beal, Bradley",1.20,5.00
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,4,0,37,1,"Jump Shot","3PT Field Goal",22,"Washington Wizards",226,-6,0,1.10,"Butler, Rasual",5.30,18.00
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,1,11,26,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-35,206,2,3.10,"Bryant, Kobe",3.30,10.90
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,1,10,00,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-64,192,0,0.80,"Hill, Jordan",5.20,15.50
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,3,25,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-100,228,1,1.10,"Young, Nick",5.30,17.80
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,2,20,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-226,-2,0,0.70,"Young, Nick",2.00,20.00
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,4,7,26,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-43,194,3,3.10,"Young, Nick",2.60,4.20
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,4,6,55,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-65,167,3,2.20,"Price, Ronnie",7.50,12.70
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,4,5,48,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-224,-3,0,0.70,"Young, Nick",19.90,20.00
+"Avery Bradley","Boston Celtics",2014-12-03,2014,4240,1610612738,400578557,1,10,33,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-224,66,12,9.20,"Smith, Josh",5.20,0.60
+"Avery Bradley","Boston Celtics",2014-12-03,2014,4240,1610612738,400578557,1,6,51,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",236,1,0,0.90,"Caldwell-Pope, Kentavious",4.60,19.00
+"Avery Bradley","Boston Celtics",2014-12-03,2014,4240,1610612738,400578557,2,6,14,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",140,200,0,0.80,"Martin, Cartier",5.70,18.50
+"Avery Bradley","Boston Celtics",2014-12-03,2014,4240,1610612738,400578557,2,4,38,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",146,145,3,3.40,"Martin, Cartier",4.60,11.50
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,1,10,53,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",81,200,1,1.40,"Beal, Bradley",7.80,16.10
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,1,9,53,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",118,236,3,2.40,"Wall, John",6.00,8.20
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,1,9,46,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",94,153,4,2.60,"Lawson, Ty",2.20,9.10
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,4,0,41,0,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",189,115,4,4.10,"Faried, Kenneth",5.90,10.20
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,1,5,05,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-24,179,0,0.80,"Lawson, Ty",2.40,13.80
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,3,10,05,1,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",56,160,2,3.80,"Afflalo, Arron",4.00,14.00
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,2,0,42,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-213,134,0,1.10,"Arthur, Darrell",9.20,18.50
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,1,7,59,1,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",32,12,1,2.20,"Chandler, Wilson",2.60,21.20
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,1,11,37,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-171,129,0,0.90,"Lawson, Ty",5.70,13.50
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,1,3,36,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-207,146,0,0.80,"Lawson, Ty",3.10,15.60
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,2,1,01,0,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",12,224,2,2.80,"Arthur, Darrell",4.50,3.70
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,4,5,32,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",84,179,2,2.10,"Faried, Kenneth",4.20,14.00
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,2,1,24,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",171,-6,1,2.10,"Redick, JJ",2.00,17.30
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,3,11,36,0,"Jump Shot","3PT Field Goal",33,"Los Angeles Clippers",-105,315,2,1.70,"Redick, JJ",0.50,0.70
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,10,36,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",65,247,8,4.50,"Pachulia, Zaza",5.00,4.60
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,1,0,00,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-185,168,2,1.40,"Larkin, Shane",3.80,0.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,3,7,24,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-177,173,0,0.70,"Mayo, O.J.",3.30,12.20
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,3,30,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-54,200,4,4.90,"Miles, CJ",4.90,4.20
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,1,5,18,1,"Jump Shot","2PT Field Goal",4,"Indiana Pacers",-10,48,4,3.90,"West, David",1.30,0.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,7,28,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-242,39,0,0.80,"Williams, Deron",2.90,7.80
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,5,0,46,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-142,97,1,1.60,"Watson, CJ",3.40,0.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,2,36,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-123,164,2,2.00,"Stuckey, Rodney",1.60,12.90
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,2,5,11,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-175,189,0,0.60,"Hill, Solomon",1.10,14.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,0,04,1,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-224,34,1,1.80,"Stuckey, Rodney",7.20,11.60
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,4,4,07,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-7,194,0,0.90,"Jack, Jarrett",3.50,14.50
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,2,1,01,1,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",-144,153,0,1.30,"Williams, Deron",4.10,11.50
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,1,8,50,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",133,138,1,1.20,"Brown, Markel",3.40,15.20
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,1,8,21,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-150,189,0,0.80,"Williams, Deron",3.70,11.50
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,1,7,08,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-133,216,5,3.10,"Brown, Markel",4.00,8.50
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,4,37,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",111,145,1,2.20,"Young, Thaddeus",3.90,10.90
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,8,34,1,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-139,137,4,3.60,"Ross, Terrence",4.20,10.50
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,9,05,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-95,235,6,5.80,"Ross, Terrence",5.10,17.90
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,4,0,19,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",239,7,0,0.80,"Brown, Markel",5.30,7.60
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,5,30,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",129,142,2,2.80,"Williams, Deron",2.20,6.60
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,2,0,03,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-235,37,0,0.80,"Shumpert, Iman",7.70,0.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,1,11,25,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",9,186,1,1.10,"Brown, Markel",5.80,13.10
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,11,44,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-111,137,2,2.10,"Ross, Terrence",2.50,9.90
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,5,4,41,0,"Jump Shot","2PT Field Goal",6,"Toronto Raptors",47,41,3,1.70,"Vasquez, Greivis",2.50,7.60
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,7,37,0,"Jump Shot","2PT Field Goal",22,"Toronto Raptors",121,189,5,5.80,"DeRozan, DeMar",5.80,19.50
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,1,6,43,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-138,105,1,2.00,"DeRozan, DeMar",3.30,18.10
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,0,00,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",173,129,5,4.40,"Williams, Lou",3.50,0.00
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,3,9,49,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",-95,148,1,1.20,"Galloway, Langston",4.60,13.50
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,4,49,1,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",-105,75,0,0.90,"Stuckey, Rodney",4.20,15.80
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,1,4,44,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-212,137,0,0.70,"Galloway, Langston",6.20,5.60
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,3,6,24,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",23,190,1,1.20,"Stuckey, Rodney",1.50,15.80
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,8,18,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-79,159,0,0.80,"Mozgov, Timofey",5.90,11.30
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,4,7,54,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-65,149,1,1.30,"Galloway, Langston",2.60,20.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,5,3,25,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,17,3,3.80,"Watson, CJ",5.50,21.10
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,4,5,17,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-125,219,8,7.30,"Teletovic, Mirza",5.00,3.90
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,1,4,03,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-5,159,0,0.80,"Copeland, Chris",6.00,0.00
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,3,7,11,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-18,197,0,0.80,"Smith, J.R.",4.80,15.50
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,1,8,56,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-180,172,0,0.90,"Smith, J.R.",5.80,14.40
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,2,5,44,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-226,1,1,1.60,"Smith, J.R.",7.00,20.40
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,1,9,45,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-155,105,9,8.10,"James, LeBron",7.80,16.20
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,3,1,45,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-2,157,3,2.60,"Calathes, Nick",4.00,9.30
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,1,5,30,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-239,12,0,1.00,"Love, Kevin",17.00,16.90
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,2,1,08,0,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-8,102,0,7.60,"Irving, Kyrie",7.40,20.50
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,3,8,10,1,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",62,189,0,1.20,"Conley, Mike",5.40,9.90
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,3,4,34,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",9,203,0,1.00,"Randolph, Zach",3.90,12.20
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,2,2,20,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-131,173,0,0.80,"Conley, Mike",3.00,10.60
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,1,51,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",23,184,0,0.90,"Green, JaMychal",3.70,13.40
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,6,23,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-138,220,0,0.90,"Conley, Mike",5.00,11.50
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,1,18,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-234,4,0,0.00,"Allen, Tony",4.00,13.20
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,4,3,55,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-139,225,12,7.50,"Green, Jeff",3.60,4.10
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,4,2,37,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-120,239,6,4.00,"Conley, Mike",4.10,6.80
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,2,1,00,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-86,172,1,1.30,"Conley, Mike",4.30,12.60
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,2,4,50,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-229,127,0,0.70,"Conley, Mike",5.20,3.30
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,5,40,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",179,189,3,2.40,"Conley, Mike",4.20,23.00
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,2,27,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,25,2,3.00,"Gasol, Marc",5.20,11.30
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,1,5,36,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",7,205,1,1.10,"Watson, CJ",2.20,0.00
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,4,8,34,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",45,181,1,1.30,"Moore, E'Twaun",2.10,13.00
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,2,5,36,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-56,249,0,0.90,"Paul, Chris",7.00,5.60
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,4,0,28,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-228,71,0,1.00,"Miles, CJ",4.20,2.70
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,1,4,29,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",239,7,1,1.50,"Jordan, DeAndre",6.90,16.00
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,1,7,12,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-8,201,2,1.60,"Redick, JJ",2.60,12.20
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,3,5,14,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",26,153,0,0.70,"Miller, Mike",3.50,15.80
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,1,11,30,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",146,138,0,0.70,"Galloway, Langston",2.90,11.70
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,1,0,06,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-34,143,3,2.60,"Baynes, Aron",3.10,3.00
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,1,5,06,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-235,9,0,0.90,"Leonard, Kawhi",1.30,12.20
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,2,1,26,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-239,-17,1,0.90,"Leonard, Kawhi",5.20,11.70
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,4,2,16,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-185,162,4,3.00,"Green, Danny",2.00,13.80
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,3,3,37,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",177,187,1,1.60,"Mills, Patty",5.00,13.50
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,1,10,44,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-35,190,0,1.10,"Leonard, Kawhi",6.00,16.90
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,2,1,47,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",75,50,11,7.50,"Duncan, Tim",0.70,14.60
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,2,1,59,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-62,186,0,0.90,"Leonard, Kawhi",4.90,14.10
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,3,4,57,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",206,-10,7,5.90,"Splitter, Tiago",4.80,6.10
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,10,53,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-127,149,4,3.80,"Dellavedova, Matthew",4.10,10.90
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,1,9,44,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",88,153,3,2.80,"Stuckey, Rodney",2.30,0.00
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,1,2,41,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",54,194,1,1.90,"Jack, Jarrett",4.10,4.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,3,5,19,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",77,142,2,2.00,"Miles, CJ",3.60,11.80
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,3,5,55,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",75,160,0,1.00,"Hibbert, Roy",5.70,13.60
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,2,4,57,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",47,178,3,2.90,"Rose, Derrick",1.90,2.70
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,8,53,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-196,153,0,0.80,"Mozgov, Timofey",5.00,18.80
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,2,3,03,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-64,176,3,4.00,"Harris, Joe",3.80,7.00
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,6,59,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-199,20,0,0.90,"Dellavedova, Matthew",4.90,18.20
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,2,4,54,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-98,149,2,2.10,"Harris, Joe",2.40,8.00
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,4,1,12,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,-5,6,3.40,"Hill, Solomon",2.80,4.20
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,4,2,06,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-212,145,1,1.00,"Hill, Solomon",10.60,6.90
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,2,5,58,1,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-82,183,0,0.90,"Stuckey, Rodney",3.70,14.10
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,2,3,33,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-231,34,0,1.00,"Hill, George",6.60,15.40
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,7,11,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-231,83,0,0.90,"Miles, CJ",6.80,19.90
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,1,4,11,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",-49,56,7,4.20,"Mahinmi, Ian",3.50,9.50
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,7,20,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",77,238,0,1.00,"Hill, George",2.30,10.70
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,1,10,01,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",111,145,2,2.70,"Hill, George",3.00,16.30
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,1,10,09,0,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",4,208,3,3.10,"Dellavedova, Matthew",4.20,14.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,3,9,09,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",245,44,0,0.80,"Stuckey, Rodney",4.70,16.50
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,2,2,36,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",34,172,1,1.20,"Galloway, Langston",3.50,13.50
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,3,3,26,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",58,190,2,3.00,"Ledo, Ricky",5.00,9.10
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,2,1,50,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-122,123,1,1.40,"Galloway, Langston",4.00,14.70
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,1,9,07,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-8,157,2,2.30,"Dellavedova, Matthew",4.40,11.90
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,1,10,34,1,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-175,206,9,8.20,"Shumpert, Iman",5.80,15.30
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,2,1,39,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",129,211,0,0.90,"Harris, Joe",4.00,22.60
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,3,8,52,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",230,25,0,0.70,"Dellavedova, Matthew",4.00,18.00
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,1,11,23,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",29,190,0,4.90,"Hayward, Gordon",9.10,13.60
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,2,2,45,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-70,252,0,0.90,"Meeks, Jodie",17.70,8.60
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,4,0,25,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-235,12,0,0.90,"Augustin, D.J.",3.80,21.50
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,1,9,35,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-15,184,1,1.10,"Waiters, Dion",5.10,13.50
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,1,8,20,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-81,167,0,1.20,"Westbrook, Russell",10.10,16.10
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,10,22,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-234,-5,1,2.60,"Exum, Dante",6.80,22.40
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,11,38,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-234,61,0,0.80,"Ingles, Joe",5.20,5.10
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,10,57,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-127,143,2,2.40,"Favors, Derrick",5.80,12.00
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,3,4,59,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-221,11,0,0.70,"Waiters, Dion",4.60,13.10
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,4,11,12,0,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",-125,183,0,0.90,"Morrow, Anthony",6.50,13.90
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,7,59,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-177,201,7,3.90,"Ingles, Joe",5.80,2.70
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,2,0,50,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-24,186,0,1.00,"Burke, Trey",4.00,14.80
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,4,4,27,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-196,172,0,1.00,"Hayward, Gordon",6.60,15.50
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,1,2,25,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-116,179,0,1.10,"Hood, Rodney",4.00,12.80
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,10,31,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-123,172,8,9.20,"Gobert, Rudy",5.90,8.30
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,3,8,10,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-116,220,0,1.00,"Waiters, Dion",6.10,21.80
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,4,8,34,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-26,190,0,0.60,"Westbrook, Russell",3.90,11.70
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,3,11,32,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-182,157,1,1.20,"Waiters, Dion",5.20,11.60
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,2,5,43,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-215,129,0,0.90,"Rose, Derrick",4.80,16.00
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,1,3,43,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-15,179,0,1.00,"Roberson, Andre",6.30,12.00
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,4,0,04,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",56,236,0,1.00,"Roberson, Andre",3.10,0.00
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,2,1,39,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-84,162,2,1.20,"Butler, Jimmy",3.60,13.00
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,1,5,19,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",36,149,0,0.40,"Rose, Derrick",1.70,12.80
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,4,6,25,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",236,-13,0,1.00,"Moore, E'Twaun",5.20,17.30
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,3,7,54,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-237,78,0,0.90,"Jack, Jarrett",6.70,5.20
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,2,0,39,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-144,200,0,1.00,"Jack, Jarrett",4.90,8.30
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,3,5,54,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",2,194,0,1.00,"Karasev, Sergey",6.10,13.00
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,1,5,50,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",228,91,0,1.30,"Karasev, Sergey",4.00,8.20
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,2,4,13,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",122,213,0,0.80,"Jack, Jarrett",4.20,14.60
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,1,4,16,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-24,187,0,0.80,"Jack, Jarrett",5.20,13.50
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,2,5,01,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",160,48,3,2.00,"Harris, Joe",3.80,0.60
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,3,4,27,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",73,168,0,0.90,"Dellavedova, Matthew",2.20,12.70
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,2,4,20,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-60,258,1,1.20,"Shumpert, Iman",3.90,2.90
+"Avery Bradley","Boston Celtics",2015-04-12,2014,4240,1610612738,400579486,1,6,11,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",70,265,0,1.10,"Mozgov, Timofey",4.30,11.70
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,1,7,01,0,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-89,200,0,0.80,"Caldwell-Pope, Kentavious",2.90,17.70
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,1,9,50,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",65,246,11,9.10,"Canaan, Isaiah",5.80,15.00
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,2,6,07,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-133,230,0,0.80,"Grant, Jerami",6.90,22.50
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,3,8,19,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",77,242,0,1.40,"Thompson, Hollis",5.80,14.80
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,1,4,30,1,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",223,3,0,1.00,"Thompson, Hollis",7.80,18.10
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,1,11,46,1,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-70,189,0,0.80,"Thompson, Hollis",5.10,12.70
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,3,9,18,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",45,162,2,1.90,"Thompson, Hollis",3.40,12.30
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,3,5,13,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-114,227,0,0.70,"Canaan, Isaiah",4.90,7.50
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,2,4,49,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",151,118,4,3.90,"Richardson, Jason",6.00,9.50
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,4,5,22,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",177,170,3,3.10,"Thompson, Hollis",5.60,3.60
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,4,9,34,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-81,230,1,1.80,"Robinson, Thomas",6.70,11.20
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,4,9,51,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",84,140,7,3.80,"Smith, Ish",6.10,14.60
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,1,8,56,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",31,14,14,10.30,"Zeller, Cody",3.80,12.80
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,3,11,46,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-234,44,0,0.80,"Butler, Caron",5.00,13.50
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,1,3,11,1,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-93,255,0,0.70,"Caldwell-Pope, Kentavious",3.50,7.40
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,2,1,00,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",209,151,0,1.00,"Meeks, Jodie",4.40,14.70
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,1,7,26,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-229,119,0,0.70,"Caldwell-Pope, Kentavious",3.50,13.80
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,3,9,52,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-210,160,2,2.60,"Tolliver, Anthony",5.50,8.60
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,3,7,50,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-193,160,0,0.80,"Caldwell-Pope, Kentavious",5.60,12.20
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,3,1,10,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-232,17,0,0.90,"Lucas III, John",6.30,18.40
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,2,5,59,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-150,82,1,1.70,"Meeks, Jodie",1.50,12.50
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,2,6,25,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-78,255,0,1.40,"Jackson, Reggie",8.10,7.10
+"Avery Bradley","Boston Celtics",2015-04-08,2014,4240,1610612738,400579456,1,9,40,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",184,85,0,0.70,"Caldwell-Pope, Kentavious",1.90,18.90
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,2,5,56,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-239,9,0,0.80,"Henderson, Gerald",4.30,13.10
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,11,31,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-68,170,2,2.00,"Henderson, Gerald",4.60,12.20
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,2,08,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-223,121,0,0.80,"Kidd-Gilchrist, Michael",5.10,9.90
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,4,3,14,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-174,165,0,0.80,"Henderson, Gerald",4.60,6.90
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,8,13,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",212,140,1,1.50,"Kidd-Gilchrist, Michael",7.50,18.90
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,2,8,19,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",187,17,0,0.30,"Stephenson, Lance",7.80,18.80
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,5,30,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",168,19,2,1.90,"Williams, Mo",1.90,16.70
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,8,40,1,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",136,167,1,3.40,"Henderson, Gerald",6.60,5.00
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,1,0,03,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",18,28,2,3.70,"Roberts, Brian",1.10,0.00
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,1,6,32,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-149,198,4,2.90,"Henderson, Gerald",4.60,3.90
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,10,51,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-65,142,0,0.80,"Henderson, Gerald",4.00,13.80
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,2,9,15,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-175,93,0,0.80,"Kidd-Gilchrist, Michael",4.30,12.50
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,11,15,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",136,121,3,2.80,"Henderson, Gerald",1.00,11.60
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,9,14,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-204,7,0,0.90,"LaVine, Zach",5.50,6.60
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,11,47,1,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-87,164,0,1.10,"Muhammad, Shabazz",5.20,15.10
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,8,00,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",45,195,0,0.80,"Wiggins, Andrew",6.60,13.90
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,4,0,07,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",124,225,1,1.90,"Curry, Stephen",4.40,0.00
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,8,52,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-223,72,0,0.90,"Curry, Stephen",5.00,6.20
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,4,0,25,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-13,197,0,0.80,"Nelson, Jameer",3.70,7.70
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,2,0,30,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-136,156,2,1.40,"Lillard, Damian",3.00,10.50
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,1,3,28,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-142,201,0,0.90,"Blake, Steve",6.40,5.70
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,2,20,1,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-64,203,0,1.00,"Lillard, Damian",5.50,11.40
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,4,21,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",174,28,2,2.00,"Wright, Dorell",4.70,18.10
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,3,00,1,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",182,113,4,3.20,"Harris, Joe",2.70,6.30
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,1,3,38,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",7,167,1,1.30,"McLemore, Ben",5.00,16.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,10,18,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-95,184,5,3.80,"LaVine, Zach",2.70,12.30
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,4,5,45,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,12,0,0.60,"Wiggins, Andrew",5.00,18.80
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,1,9,04,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-190,172,0,1.00,"Valanciunas, Jonas",12.70,17.90
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,1,6,49,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-133,131,1,1.20,"Ross, Terrence",2.70,17.20
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,3,9,18,1,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-4,162,0,0.80,"Ross, Terrence",2.60,11.90
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,3,11,24,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-4,156,0,0.70,"Boozer, Carlos",4.60,10.70
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,5,38,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",225,124,0,1.00,"Valanciunas, Jonas",8.50,17.70
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,4,18,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",113,164,1,1.50,"Hansbrough, Tyler",4.40,18.10
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,1,11,24,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",21,254,0,0.80,"Ross, Terrence",4.00,8.80
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,4,1,52,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",-169,146,0,0.90,"Teague, Jeff",4.60,15.80
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,1,8,33,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",225,39,0,0.90,"Smith, Jason",9.20,9.40
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,6,08,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",31,183,2,2.20,"Valanciunas, Jonas",4.50,18.20
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,0,46,1,"Jump Shot","2PT Field Goal",22,"Toronto Raptors",189,116,2,1.90,"Valanciunas, Jonas",6.10,17.90
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,0,29,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-204,157,0,1.20,"Lowry, Kyle",5.80,18.40
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,3,18,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-158,153,1,1.90,"Ross, Terrence",6.10,10.60
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,8,09,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-5,203,2,2.20,"Williams, Lou",4.00,20.10
+"Avery Bradley","Boston Celtics",2015-04-14,2014,4240,1610612738,400579506,2,10,20,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-212,127,0,0.80,"Vasquez, Greivis",7.50,7.50
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,1,24,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",163,108,0,1.50,"Oladipo, Victor",4.50,15.10
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,4,0,10,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",226,22,0,0.80,"Brewer, Corey",4.40,0.00
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,4,1,25,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-190,44,0,-0.40,"Faried, Kenneth",3.90,6.30
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,3,4,02,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-207,74,1,1.60,"Teague, Jeff",3.30,17.40
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,3,3,27,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-57,186,0,4.60,"Rivers, Austin",4.50,23.70
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,2,6,06,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",43,195,0,0.90,"Jordan, DeAndre",4.80,14.30
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,7,10,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",40,168,0,0.90,"Galloway, Langston",3.60,12.40
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,4,1,39,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",179,186,0,0.90,"Horford, Al",13.50,12.30
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,3,5,12,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-228,44,0,0.70,"Teague, Jeff",4.70,9.90
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,4,1,23,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-231,3,0,1.20,"Williams, Lou",4.70,19.90
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,1,10,01,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",223,-14,0,1.20,"Carroll, DeMarre",4.40,16.90
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,1,0,00,0,"Jump Shot","3PT Field Goal",35,"Los Angeles Clippers",166,309,3,2.80,"Hawes, Spencer",4.20,0.00
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,1,8,24,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-240,6,0,0.80,"Paul, Chris",4.10,10.30
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,3,9,24,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-78,172,0,1.00,"Ellington, Wayne",3.60,17.20
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,11,45,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-166,200,0,1.00,"Kelly, Ryan",6.50,12.60
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,4,0,18,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",86,230,0,0.70,"Ellington, Wayne",3.30,0.00
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,4,0,00,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-41,250,0,2.40,"Lin, Jeremy",1.00,0.00
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,7,18,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",65,113,1,2.40,"Ellington, Wayne",1.40,13.10
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,6,49,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",140,216,0,0.70,"Ellington, Wayne",5.80,17.00
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,1,5,11,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",182,179,0,0.80,"Pierce, Paul",4.60,19.00
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,9,13,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",230,-3,0,0.70,"Lillard, Damian",5.00,19.80
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,1,9,38,0,"Jump Shot","2PT Field Goal",7,"Atlanta Hawks",-71,31,3,4.10,"Teague, Jeff",2.10,14.50
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,5,0,06,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-142,201,0,0.60,"Boozer, Carlos",2.80,0.00
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,4,4,47,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",0,213,3,2.10,"Fournier, Evan",3.50,12.00
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,1,8,30,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-73,239,0,0.90,"Teague, Jeff",4.50,7.80
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,2,2,49,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-152,203,0,0.70,"Chalmers, Mario",4.50,10.80
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,3,11,06,0,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-59,74,2,3.40,"Ross, Terrence",3.00,10.60
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,3,10,17,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",141,121,1,1.10,"Matthews, Wesley",5.40,17.00
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,4,21,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",110,230,1,2.20,"Dieng, Gorgui",5.90,5.50
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,2,6,02,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",133,50,3,3.10,"Dragic, Goran",3.60,11.10
+"Avery Bradley","Boston Celtics",2015-03-29,2014,4240,1610612738,400579387,1,2,42,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",42,252,0,0.80,"Rivers, Austin",4.40,14.80
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,4,5,40,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",54,153,1,1.80,"Rondo, Rajon",3.90,16.00
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,3,1,57,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-152,86,1,1.70,"Payton, Elfrid",3.00,21.80
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,2,1,44,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",64,260,0,1.20,"Knight, Brandon",1.60,9.30
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,8,30,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",81,160,0,0.90,"Lin, Jeremy",1.60,13.40
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,3,3,51,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-59,190,1,1.20,"Chalmers, Mario",4.90,15.60
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,4,5,50,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-226,-11,0,0.80,"Lowry, Kyle",2.80,16.30
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,1,9,02,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",15,143,5,3.60,"Walker, Kemba",3.00,9.30
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,3,9,16,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-100,178,0,2.10,"Beal, Bradley",3.50,15.80
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,3,13,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",198,80,1,1.60,"Wiggins, Andrew",3.90,8.10
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,2,2,37,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",105,231,2,1.40,"Beal, Bradley",4.70,6.00
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,4,48,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",127,66,3,2.70,"Clarkson, Jordan",5.60,19.00
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,4,1,43,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",234,0,0,0.80,"Knight, Brandon",4.50,9.70
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,4,8,25,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-30,179,1,0.80,"Morrow, Anthony",4.20,12.00
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,4,6,27,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-133,160,2,1.90,"Brooks, Aaron",3.30,14.00
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,2,10,20,0,"Jump Shot","3PT Field Goal",22,"San Antonio Spurs",-223,4,0,0.80,"Joseph, Cory",4.00,13.00
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,9,21,0,"Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",133,184,0,0.90,"Lillard, Damian",4.60,12.50
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,1,11,36,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",36,159,1,1.40,"Nelson, Jameer",1.40,6.70
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,4,3,44,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",217,118,0,0.80,"Haslem, Udonis",7.90,8.80
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,3,01,1,"Jump Shot","2PT Field Goal",22,"Miami Heat",36,219,0,0.80,"Johnson, Tyler",3.80,15.00
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,11,50,1,"Jump Shot","2PT Field Goal",22,"Miami Heat",-120,195,0,0.80,"Napier, Shabazz",3.20,17.90
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,9,25,1,"Jump Shot","2PT Field Goal",21,"Miami Heat",-177,123,2,2.20,"Napier, Shabazz",3.60,10.80
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,11,17,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",-95,181,1,1.30,"Whiteside, Hassan",6.10,15.00
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,4,6,15,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",-27,145,1,1.20,"Whiteside, Hassan",4.70,11.00
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,3,11,13,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",136,138,6,4.90,"Karasev, Sergey",3.90,14.30
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,4,1,08,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",0,184,0,0.70,"Blake, Steve",3.90,19.40
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,3,5,04,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",209,123,0,1.10,"Sims, Henry",16.40,18.30
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,2,2,03,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",34,160,0,0.90,"Green, Gerald",4.00,8.60
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,3,9,10,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",201,11,0,0.80,"Teague, Jeff",3.00,17.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,2,4,51,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",226,-5,0,0.80,"Thompson, Hollis",5.50,10.20
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,1,7,47,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-155,197,0,1.00,"Ellis, Monta",6.00,8.30
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,1,10,01,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-180,183,1,0.80,"Bogdanovic, Bojan",3.80,16.70
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,9,03,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-224,-10,0,1.00,"Morrow, Anthony",8.80,15.00
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,1,6,34,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-79,167,1,2.40,"Dragic, Goran",1.40,16.90
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,3,5,43,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-51,190,0,0.80,"Fournier, Evan",4.10,11.10
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,3,10,44,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",173,9,0,0.80,"Rose, Derrick",3.30,17.70
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,1,7,45,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-81,173,1,1.20,"McDaniels, KJ",7.20,14.80
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,3,3,21,0,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",12,168,1,2.30,"Williams, Deron",5.00,14.80
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,7,26,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",103,167,1,1.30,"Harris, Joe",4.30,15.90
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,3,9,25,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",1,187,0,0.70,"Henderson, Gerald",4.60,18.80
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,3,10,43,0,"Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",0,41,5,4.10,"LaVine, Zach",2.90,18.70
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,3,8,33,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",133,151,3,2.60,"Frazier, Tim",5.20,12.70
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,2,4,26,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-226,66,1,1.50,"Parsons, Chandler",6.20,20.80
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,1,5,04,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",78,190,3,2.50,"Beal, Bradley",5.10,12.00
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,4,6,56,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-21,211,0,0.80,"Hinrich, Kirk",2.10,13.20
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,7,33,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",236,4,0,0.70,"Collison, Nick",6.90,18.70
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,1,5,46,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",234,7,0,0.80,"Adams, Steven",9.50,19.90
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,3,11,10,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-4,197,0,1.10,"Jackson, Reggie",5.90,23.50
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,2,5,44,0,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-125,241,0,0.90,"Stephenson, Lance",5.50,1.50
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,3,9,09,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",40,164,0,1.00,"Lee, Courtney",1.70,7.00
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,1,5,32,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",171,75,0,1.00,"Oladipo, Victor",5.50,2.80
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,1,3,43,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",231,14,0,1.00,"Knight, Brandon",2.80,9.20
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,9,35,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-205,140,0,0.80,"Middleton, Khris",4.80,19.30
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,10,32,1,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",228,-14,0,0.70,"Knight, Brandon",3.40,10.30
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,2,5,13,1,"Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",61,19,4,2.10,"Bayless, Jerryd",2.20,4.60
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,7,45,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-226,4,0,0.80,"Henson, John",7.50,9.00
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,1,7,16,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-150,121,0,0.50,"Galloway, Langston",2.50,12.50
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,1,2,48,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-116,179,4,3.30,"Noah, Joakim",4.50,13.80
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,2,4,34,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-188,55,5,4.30,"Ellis, Monta",3.30,17.90
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,3,55,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",206,138,0,0.90,"Johnson, Wesley",6.70,23.50
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,1,9,28,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",31,203,6,4.30,"Walker, Kemba",8.10,17.60
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,7,06,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",234,-5,0,1.00,"Kaman, Chris",9.20,17.90
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,4,1,51,0,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",176,134,2,3.10,"Faried, Kenneth",5.00,4.10
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,1,10,16,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",6,195,0,0.80,"Butler, Jimmy",5.50,12.90
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,3,6,51,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",113,164,0,1.10,"Wiggins, Andrew",4.90,12.50
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,3,5,29,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-130,222,7,6.40,"Sims, Henry",5.70,15.10
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,1,8,53,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",190,75,0,1.70,"Scola, Luis",6.90,21.20
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,2,0,43,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",-92,201,3,4.20,"Rose, Derrick",3.10,3.00
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,1,8,50,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",177,96,1,1.00,"Matthews, Wesley",6.20,20.10
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,2,4,14,0,"Jump Shot","2PT Field Goal",22,"Washington Wizards",151,170,5,9.00,"Miller, Andre",3.50,23.60
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,4,0,05,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-133,216,0,0.80,"Johnson, Tyler",5.00,0.00
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,9,17,1,"Jump Shot","2PT Field Goal",3,"New York Knicks",29,9,1,1.30,"Smith, Jason",1.80,20.30
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,3,23,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-171,45,10,5.30,"Oladipo, Victor",3.40,1.20
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,2,0,22,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-120,153,1,1.10,"Dedmon, Dewayne",5.50,15.70
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,3,9,42,1,"Jump Shot","2PT Field Goal",4,"Orlando Magic",31,39,0,0.60,"Payton, Elfrid",2.60,13.20
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,8,16,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-105,160,10,6.30,"Oladipo, Victor",5.20,16.30
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,1,57,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-239,1,0,1.00,"Dedmon, Dewayne",12.60,16.40
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,4,5,59,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-232,82,0,0.90,"Oladipo, Victor",4.80,4.80
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,9,58,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-108,224,4,3.90,"Galloway, Langston",3.70,7.80
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,4,2,48,1,"Jump Shot","2PT Field Goal",21,"New York Knicks",-164,146,8,7.30,"Anthony, Carmelo",5.00,5.90
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,4,0,08,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",195,160,2,1.60,"Galloway, Langston",3.70,0.80
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,3,11,48,1,"Jump Shot","2PT Field Goal",16,"New York Knicks",-122,105,0,0.70,"Galloway, Langston",3.60,13.80
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,3,10,09,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",106,179,6,3.00,"LaVine, Zach",4.30,14.20
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,0,04,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-202,140,0,0.70,"Ibaka, Serge",5.90,0.00
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,1,5,24,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",237,23,0,1.00,"Smith, Jason",8.80,17.90
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,3,9,58,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-226,116,0,0.80,"Garnett, Kevin",7.80,19.80
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,4,2,34,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-229,77,0,0.80,"Knight, Brandon",2.40,9.30
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,4,6,30,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-142,211,0,0.80,"Lin, Jeremy",4.50,10.60
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,5,0,53,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Lakers",-209,192,6,5.40,"Lin, Jeremy",1.90,19.10
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,2,4,44,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,-25,0,0.70,"Anthony, Carmelo",4.50,11.80
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,3,11,45,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-98,160,1,2.40,"Stephenson, Lance",3.30,11.10
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,1,9,11,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-142,217,0,0.90,"Beal, Bradley",4.20,9.50
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,1,6,45,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-11,179,1,1.20,"Knight, Brandon",2.70,14.50
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,4,4,00,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-79,233,7,4.60,"Rose, Derrick",4.80,16.40
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,4,0,07,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",37,126,0,1.50,"Sloan, Donald",1.70,4.00
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,3,50,0,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",0,143,2,1.90,"McDaniels, KJ",3.80,10.20
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,2,2,21,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",237,-11,0,0.70,"Fournier, Evan",2.00,17.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,8,53,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",236,26,1,1.40,"LaVine, Zach",11.40,16.30
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,3,3,43,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",154,-6,7,2.50,"McCallum, Ray",4.10,14.70
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,2,1,34,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-149,108,0,0.90,"Curry, Stephen",3.00,11.70
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,3,8,39,1,"Jump Shot","2PT Field Goal",16,"New York Knicks",-139,94,0,1.00,"Galloway, Langston",4.20,15.10
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,1,8,49,1,"Jump Shot","2PT Field Goal",19,"New York Knicks",111,159,5,4.70,"Anthony, Carmelo",3.50,14.60
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,4,0,55,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-231,-19,0,0.90,"Calderon, Jose",5.60,13.30
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,3,4,06,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",-46,151,1,2.20,"Galloway, Langston",2.20,11.50
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,4,5,07,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-100,156,0,0.70,"Hardaway Jr., Tim",4.20,13.80
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,1,3,18,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",89,235,0,0.70,"Haslem, Udonis",9.00,19.30
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,4,6,15,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",189,178,0,0.70,"Thompson, Klay",4.90,7.00
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,1,3,20,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-146,135,3,4.00,"Karasev, Sergey",4.10,11.20
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,2,9,40,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-231,108,0,1.00,"Crabbe, Allen",5.60,14.60
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,3,8,50,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",10,172,0,0.80,"Rose, Derrick",4.50,10.00
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,3,11,41,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-90,160,1,1.60,"Marion, Shawn",3.90,23.00
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,3,24,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-182,165,0,0.80,"Jackson, Reggie",5.60,9.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,9,05,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",228,15,0,0.90,"LaVine, Zach",4.40,19.40
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,4,2,34,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",124,132,0,1.20,"McDaniels, KJ",7.10,7.00
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,3,11,24,0,"Jump Shot","2PT Field Goal",7,"Miami Heat",78,3,4,5.20,"Chalmers, Mario",10.40,13.30
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,4,11,05,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",192,165,1,0.80,"Williams, Lou",3.80,16.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,4,2,54,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",241,9,0,0.00,"McDaniels, KJ",9.90,17.70
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,3,8,17,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-224,7,1,1.20,"Matthews, Wesley",6.70,11.10
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,10,35,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-114,69,0,-0.30,"Noel, Nerlens",4.80,13.00
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,3,3,36,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-174,172,1,1.20,"Kaman, Chris",10.10,7.10
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,3,10,28,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-196,45,3,2.70,"Thompson, Hollis",3.00,4.10
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,1,8,16,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-150,219,2,1.70,"Thompson, Hollis",11.70,10.20
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,1,6,04,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",198,156,0,1.00,"Thompson, Hollis",6.80,9.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,9,25,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-2,254,0,1.00,"Thompson, Hollis",6.80,18.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,4,10,47,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-237,20,0,1.00,"Budinger, Chase",9.40,22.50
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,1,9,59,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-207,146,0,1.30,"Matthews, Wesley",4.00,9.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,4,6,17,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",-48,15,3,3.60,"Sampson, JaKarr",2.50,3.90
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,1,11,06,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-191,168,0,0.90,"Oladipo, Victor",5.70,12.00
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,4,0,11,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",181,168,0,1.10,"Rose, Derrick",4.20,0.00
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,1,11,49,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",4,217,2,2.20,"Batum, Nicolas",5.20,16.40
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,1,7,20,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-136,156,1,1.00,"Collison, Darren",4.40,8.50
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,11,28,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-155,91,0,1.10,"Sims, Henry",6.70,9.20
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,4,05,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-231,9,0,0.90,"Batum, Nicolas",6.20,18.90
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,4,5,29,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",241,-28,0,0.70,"Hardaway Jr., Tim",5.50,8.80
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,1,9,02,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-38,194,1,1.10,"Teague, Jeff",1.90,11.70
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,3,10,40,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",125,217,0,1.00,"Chandler, Wilson",4.70,9.50
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,1,5,22,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-5,151,0,0.70,"Hill, Solomon",3.70,12.30
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,3,5,01,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",2,211,2,1.90,"Mbah a Moute, Luc",6.80,8.90
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,3,5,53,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",122,235,0,1.00,"Gordon, Aaron",8.00,10.00
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,6,19,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",58,250,0,1.00,"Oladipo, Victor",4.40,10.00
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,4,8,32,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",121,149,7,5.30,"Gordon, Aaron",5.00,14.90
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,2,6,44,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",200,145,1,1.10,"Stephenson, Lance",7.70,13.80
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,3,6,18,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",2,246,0,0.90,"Beal, Bradley",3.80,16.00
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,4,41,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",244,-21,0,0.60,"Wroten, Tony",4.40,19.40
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,1,8,03,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-127,135,3,2.80,"Walker, Kemba",3.40,15.20
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,2,4,56,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",2,186,2,2.20,"Thompson, Hollis",2.40,6.30
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,2,1,53,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-223,97,1,0.90,"Hill, Solomon",4.70,13.60
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,2,5,37,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",171,184,0,1.00,"Haslem, Udonis",4.10,12.60
+"Avery Bradley","Boston Celtics",2014-12-27,2014,4240,1610612738,400578737,2,1,15,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-125,105,2,2.20,"Pierce, Paul",4.00,15.90
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,6,22,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",179,71,4,2.50,"Johnson, Wesley",4.50,14.00
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,2,3,24,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",244,9,0,1.00,"Johnson, Wesley",7.80,18.90
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,1,7,50,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",113,176,0,0.90,"Lillard, Damian",4.80,6.80
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,1,5,30,0,"Jump Shot","2PT Field Goal",21,"Miami Heat",-100,190,1,1.90,"Chalmers, Mario",3.40,0.30
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,2,0,10,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-180,189,0,0.90,"Ellington, Wayne",4.70,6.60
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,2,4,43,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",228,-13,4,3.40,"Snell, Tony",6.00,10.20
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,3,3,45,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-84,238,0,0.60,"Frazier, Tim",3.50,0.70
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,1,4,24,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-78,173,5,5.00,"Carter-Williams, Michael",6.40,11.70
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,3,6,00,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",7,167,1,1.20,"Cousins, DeMarcus",4.70,10.70
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,6,07,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",189,175,4,3.40,"Teague, Jeff",4.90,2.00
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,3,4,56,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",136,153,0,1.10,"Oladipo, Victor",6.20,14.00
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,6,03,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-237,-10,0,1.10,"Dieng, Gorgui",9.10,10.30
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,2,0,24,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-128,145,1,1.20,"Hill, Solomon",4.40,12.30
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,4,1,05,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",223,48,1,0.90,"Butler, Rasual",4.90,20.50
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,1,8,44,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",37,160,0,0.80,"Rondo, Rajon",1.70,21.90
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,3,6,54,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",92,181,2,2.60,"Korver, Kyle",6.20,20.60
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,2,4,10,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",231,12,0,0.90,"Nowitzki, Dirk",8.60,19.90
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,4,3,49,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-131,214,3,3.30,"Martin, Kevin",7.20,1.70
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,3,6,19,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",124,162,7,3.80,"Jefferson, Richard",4.20,6.70
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,2,3,26,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",230,41,0,1.20,"Rudez, Damjan",5.60,20.40
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,7,43,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-228,-11,0,0.80,"Carter-Williams, Michael",5.80,10.00
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,4,5,42,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",163,190,0,0.90,"Vasquez, Greivis",5.90,18.40
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,3,17,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-175,179,0,0.90,"McDaniels, KJ",6.80,14.00
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,6,51,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-223,99,0,0.80,"Irving, Kyrie",5.00,12.00
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,3,6,40,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-232,4,0,0.90,"Oladipo, Victor",7.30,11.00
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,4,4,48,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-166,192,0,0.70,"Oladipo, Victor",3.90,9.60
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,7,51,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",241,-6,0,0.70,"Noel, Nerlens",6.80,6.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,2,2,51,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",214,129,0,1.10,"LaVine, Zach",6.60,11.40
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,1,10,44,0,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",-2,93,3,2.20,"Thompson, Hollis",0.90,14.40
+"Avery Bradley","Boston Celtics",2014-12-27,2014,4240,1610612738,400578737,3,8,52,0,"Jump Shot","2PT Field Goal",21,"Washington Wizards",127,173,0,1.10,"Beal, Bradley",2.60,13.50
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,6,29,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-125,146,1,1.20,"Blake, Steve",2.70,2.90
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,2,6,15,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",179,179,0,0.80,"Hansbrough, Tyler",4.90,10.70
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,1,0,49,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",154,48,1,2.00,"Tolliver, Anthony",3.80,14.10
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,3,10,15,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-139,206,0,0.80,"Bogdanovic, Bojan",5.70,15.10
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,1,11,26,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-193,179,0,1.30,"Ariza, Trevor",4.40,12.20
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,1,53,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",39,1,0,0.80,"Young, Nick",1.70,15.90
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,4,3,48,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-234,44,0,0.90,"Leonard, Meyers",7.80,19.00
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,11,36,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-64,247,0,1.10,"Ariza, Trevor",3.70,2.80
+"Avery Bradley","Boston Celtics",2014-12-27,2014,4240,1610612738,400578737,1,7,59,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",241,47,0,1.00,"Beal, Bradley",4.60,12.00
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,3,11,03,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",141,11,3,2.30,"Walker, Kemba",3.30,9.80
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,1,9,29,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",234,55,0,1.00,"Matthews, Wesley",5.80,11.00
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,1,06,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-73,184,1,1.20,"Leonard, Meyers",5.70,14.70
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,1,8,36,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-155,201,0,1.00,"Varejao, Anderson",13.50,16.00
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,6,57,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-224,9,0,0.90,"Perkins, Kendrick",6.20,19.00
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,3,7,53,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",160,110,1,0.80,"Ellis, Monta",2.40,11.90
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,4,4,04,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-15,198,0,1.10,"Young, Nick",4.10,10.80
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,1,8,17,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-59,37,2,2.00,"Aldridge, LaMarcus",2.90,19.10
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,2,1,06,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-158,99,1,1.60,"Shved, Alexey",9.30,20.10
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,1,3,26,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-92,156,1,1.10,"Johnson, Wesley",2.60,15.00
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,1,10,43,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",94,140,6,4.70,"Knight, Brandon",2.00,17.40
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,5,14,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-10,261,0,0.70,"Dudley, Jared",4.80,19.10
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,4,7,32,0,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",-224,-3,0,0.90,"Morris, Markieff",8.40,18.70
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,10,09,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-117,137,0,0.80,"Knight, Brandon",2.80,12.50
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,11,05,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-4,33,7,6.50,"Green, Draymond",2.50,15.10
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,9,36,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",207,131,0,0.80,"Chandler, Tyson",7.00,10.00
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,1,4,56,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",-204,-14,0,0.90,"Frazier, Tim",3.40,13.90
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,2,0,26,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-220,137,0,0.80,"Henderson, Gerald",4.80,11.00
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,3,5,28,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",7,143,2,2.70,"LaVine, Zach",4.10,10.90
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,10,39,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",233,0,0,0.20,"Canaan, Isaiah",6.20,23.60
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,1,11,44,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-142,112,1,1.60,"McDaniels, KJ",2.10,12.50
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,1,11,03,1,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",31,211,2,2.40,"Covington, Robert",4.00,8.90
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,1,10,31,1,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",225,-5,0,0.80,"Sampson, JaKarr",6.80,13.10
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,2,0,28,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-100,242,0,0.70,"Thompson, Hollis",5.10,17.20
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,4,3,24,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",81,162,1,1.20,"McDaniels, KJ",3.10,11.50
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,2,4,29,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-239,23,0,0.90,"Covington, Robert",6.90,15.10
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,2,5,46,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-240,39,2,2.10,"Bayless, Jerryd",0.30,3.70
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,4,3,53,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",111,184,0,1.00,"Rose, Derrick",2.80,9.30
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,4,4,31,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-125,216,0,0.90,"Anderson, Alan",5.50,2.00
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,2,11,01,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",122,143,5,3.50,"Joseph, Cory",4.40,10.90
+"Avery Bradley","Boston Celtics",2014-12-27,2014,4240,1610612738,400578737,3,4,47,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-75,244,0,0.80,"Beal, Bradley",4.30,11.40
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,2,1,42,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",54,252,0,0.00,"Oladipo, Victor",8.00,20.00
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,2,10,32,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-105,153,2,2.40,"Young, Nick",4.00,17.00
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,1,9,42,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-112,224,1,1.00,"Hill, Solomon",6.00,14.50
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,3,9,41,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-183,183,0,0.90,"Kelly, Ryan",8.30,22.40
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,11,20,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",171,175,2,2.10,"Young, Thaddeus",7.00,21.10
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,4,18,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",236,74,0,0.80,"Lin, Jeremy",5.50,15.80
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,4,8,29,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-125,138,2,1.40,"Livingston, Shaun",3.80,12.60
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,1,5,14,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",206,145,0,0.70,"Teague, Jeff",3.80,10.00
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,4,2,07,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-150,200,0,0.80,"Cole, Norris",4.80,17.80
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,3,8,46,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",129,173,0,1.60,"Lamb, Jeremy",3.90,4.30
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,7,57,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",155,137,3,3.60,"Korver, Kyle",5.60,18.60
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,3,51,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-229,9,0,0.80,"Millsap, Paul",4.00,22.50
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,1,8,56,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-120,164,0,1.20,"Curry, Stephen",2.30,16.60
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,3,5,10,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",244,3,0,0.80,"Ross, Terrence",8.50,0.20
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,1,3,09,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",9,249,0,0.80,"McLemore, Ben",4.10,10.00
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,2,3,08,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-54,172,2,1.90,"Williams, Marvin",6.10,20.10
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,2,3,24,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-166,118,3,2.60,"Williams, Marvin",5.40,5.00
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,5,25,0,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",1,205,0,0.90,"Lowry, Kyle",1.70,12.20
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,10,57,1,"Jump Shot","2PT Field Goal",21,"New York Knicks",-71,200,0,0.80,"Galloway, Langston",4.30,11.70
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,6,00,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-76,183,3,2.10,"Curry, Stephen",2.80,6.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,9,52,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",92,167,3,2.00,"Curry, Stephen",4.00,15.50
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,11,15,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",13,189,0,0.90,"Henderson, Gerald",2.60,9.00
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,3,8,31,0,"Jump Shot","2PT Field Goal",22,"Detroit Pistons",-81,209,0,1.10,"Caldwell-Pope, Kentavious",2.10,15.00
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,2,1,49,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-160,192,0,0.90,"Butler, Caron",6.50,17.50
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,5,4,30,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",0,145,0,0.80,"Meeks, Jodie",2.20,12.60
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,4,4,07,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",2,249,4,3.20,"Caldwell-Pope, Kentavious",2.10,3.40
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,5,1,04,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-199,145,0,1.00,"Jackson, Reggie",6.10,20.00
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,3,11,30,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-117,143,1,1.30,"Ross, Terrence",4.00,9.10
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,2,1,06,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-130,235,0,0.90,"Hansbrough, Tyler",13.60,4.60
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,8,52,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-8,250,3,2.30,"Ross, Terrence",5.20,12.80
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,3,2,48,0,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",0,142,1,1.40,"Lowry, Kyle",1.40,15.30
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,2,1,34,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",2,247,0,0.70,"Lowry, Kyle",4.00,10.00
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,2,0,38,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-171,75,1,1.90,"Lowry, Kyle",3.60,3.70
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,11,14,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-95,198,5,4.20,"Cousins, DeMarcus",4.40,4.80
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,2,1,14,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-188,156,0,0.80,"McLemore, Ben",8.40,13.80
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,2,3,18,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",40,208,1,2.70,"Gay, Rudy",5.70,6.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,5,07,1,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-67,145,0,1.50,"McLemore, Ben",5.60,10.10
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,2,4,31,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-76,235,0,0.70,"Miller, Andre",4.20,5.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,2,0,05,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-136,154,0,1.00,"Gay, Rudy",4.70,0.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,1,8,36,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-46,203,1,1.20,"McCallum, Ray",4.80,18.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,6,50,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-128,162,0,0.80,"McLemore, Ben",3.60,17.10
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,4,4,50,1,"Jump Shot","2PT Field Goal",3,"Sacramento Kings",-29,22,0,1.10,"Gay, Rudy",2.60,20.20
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,8,28,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",83,206,0,0.80,"McLemore, Ben",4.90,17.50
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,1,6,42,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",138,208,4,3.20,"Thompson, Jason",8.90,10.20
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,4,7,43,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-128,145,1,1.90,"Williams, Derrick",4.10,4.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,4,5,40,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-41,156,0,1.10,"McLemore, Ben",4.90,11.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,2,0,53,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-41,189,6,4.60,"McLemore, Ben",6.10,13.10
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,4,1,51,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",118,156,6,5.20,"Miller, Andre",4.40,9.80
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,8,56,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",-18,142,9,7.30,"Gay, Rudy",1.70,5.80
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,9,20,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",40,159,2,1.40,"Bogut, Andrew",8.20,9.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,11,09,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-144,99,4,3.00,"Green, Draymond",4.20,9.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,9,16,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",2,192,0,1.00,"Green, Draymond",4.40,22.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,2,2,43,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",94,164,0,0.90,"Thompson, Klay",2.60,13.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,4,0,18,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",225,-8,2,2.20,"Barnes, Harrison",2.60,19.10
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,1,2,57,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",86,151,9,6.00,"Curry, Stephen",1.70,17.10
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,4,3,25,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-4,211,2,3.40,"Chandler, Wilson",2.90,4.50
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,3,5,15,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-242,-6,1,2.00,"Teague, Jeff",8.90,13.00
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,1,0,00,0,"Jump Shot","2PT Field Goal",22,"Toronto Raptors",69,213,0,1.50,"Ross, Terrence",4.10,0.00
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,1,10,38,1,"Jump Shot","2PT Field Goal",3,"Atlanta Hawks",-30,-3,0,1.00,"Sefolosha, Thabo",3.60,11.10
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,2,1,52,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-185,175,0,0.90,"Smith, Jason",7.40,16.90
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,3,2,06,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",233,14,1,0.80,"Hardaway Jr., Tim",6.50,8.50
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,1,3,38,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-86,181,2,1.90,"Smith, Jason",4.80,11.20
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,4,3,49,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-231,101,0,1.00,"Acy, Quincy",6.40,8.50
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,4,4,39,0,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",222,12,3,2.40,"Bledsoe, Eric",0.90,2.20
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,4,1,09,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",189,0,2,1.90,"Kanter, Enes",6.20,6.00
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,4,4,24,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",7,189,1,1.50,"Teague, Jeff",4.00,10.70
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,2,2,18,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-38,241,0,0.80,"Teague, Jeff",3.90,13.60
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,3,10,32,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-142,213,0,0.80,"Teague, Jeff",4.30,5.50
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,1,9,31,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",18,244,0,0.90,"Teague, Jeff",4.20,15.50
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,1,5,11,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",77,198,0,0.70,"Teague, Jeff",2.50,9.20
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,2,3,44,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-239,-3,0,0.70,"Teague, Jeff",4.50,7.20
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,3,7,53,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",62,235,0,0.70,"Carroll, DeMarre",3.80,11.40
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,2,5,30,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",86,233,0,0.70,"Sefolosha, Thabo",5.40,6.30
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,1,10,59,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-191,26,4,4.10,"Chalmers, Mario",2.80,6.80
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,2,5,07,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-175,195,0,2.30,"Beasley, Michael",4.00,12.50
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,4,3,42,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-24,250,9,11.80,"West, David",4.10,5.70
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,4,37,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",102,225,0,0.80,"Hill, George",5.20,9.80
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,2,6,40,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",239,14,0,0.70,"Scola, Luis",5.70,12.50
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,2,2,45,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",108,157,5,4.40,"Miles, CJ",5.50,12.20
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,3,4,32,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-130,222,0,0.80,"Miles, CJ",6.30,7.70
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,8,53,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-81,164,2,1.70,"Henderson, Gerald",2.70,6.30
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,3,47,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-146,214,0,1.00,"Henderson, Gerald",14.80,16.80
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,9,52,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-122,225,3,2.40,"Henderson, Gerald",4.30,6.20
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,9,37,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",95,172,13,8.70,"Walker, Kemba",3.80,16.60
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,3,15,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-10,186,0,0.90,"Walker, Kemba",3.10,11.50
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,10,40,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",207,140,0,0.70,"Walker, Kemba",5.40,14.30
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,7,51,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",18,168,0,-1.00,"Henderson, Gerald",2.30,14.40
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,4,6,27,1,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",204,15,0,0.10,"Walker, Kemba",4.00,8.40
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,4,0,48,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",32,19,4,3.40,"Hayward, Gordon",2.50,21.20
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,4,1,40,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-158,7,2,2.90,"Hill, George",2.10,7.40
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,4,4,48,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-60,172,3,2.40,"Miles, CJ",4.30,8.30
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,2,4,44,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",7,214,0,0.90,"Hill, George",2.90,10.00
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,8,45,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-134,137,2,2.80,"Miles, CJ",2.30,10.50
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,8,39,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-133,216,0,0.80,"Miles, CJ",5.10,22.50
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,4,45,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",170,181,0,0.90,"Walker, Kemba",6.10,22.70
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,0,56,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-153,213,0,0.80,"Walker, Kemba",8.20,12.10
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,5,32,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-119,134,0,1.20,"Henderson, Gerald",1.90,12.70
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,0,28,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-71,186,1,1.40,"Williams, Mo",4.80,22.00
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,8,30,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-79,194,1,0.90,"Henderson, Gerald",4.30,14.00
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,3,7,34,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",146,86,8,6.90,"Walker, Kemba",3.40,17.00
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,1,5,24,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",231,15,0,1.30,"Henderson, Gerald",6.20,18.80
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,4,1,47,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-76,244,0,2.90,"Williams, Marvin",8.10,23.70
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,5,18,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",26,179,2,2.30,"Miles, CJ",2.70,8.70
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,0,22,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-172,192,0,0.80,"Dellavedova, Matthew",9.90,15.90
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,3,3,27,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",171,77,3,3.80,"Jones, Terrence",4.90,9.40
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,1,11,38,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",34,208,3,3.30,"Harden, James",3.90,6.90
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,4,0,56,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",127,151,0,0.80,"Motiejunas, Donatas",3.50,12.60
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,4,2,26,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-177,101,1,1.80,"Motiejunas, Donatas",3.90,14.10
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,2,4,30,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-23,178,2,1.40,"Beverley, Patrick",1.50,14.40
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,4,3,28,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-24,261,2,1.00,"Burke, Trey",4.30,13.10
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,4,0,04,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",162,198,3,2.70,"Beverley, Patrick",3.90,0.00
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,2,5,59,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",220,115,0,0.70,"Terry, Jason",4.80,13.80
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,1,5,23,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-130,151,1,2.40,"Beverley, Patrick",2.10,11.50
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,3,2,56,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",67,242,0,1.00,"Terry, Jason",5.30,14.00
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,1,9,24,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-228,0,0,1.10,"Holiday, Jrue",8.20,19.00
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,3,8,56,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-4,217,1,2.70,"Exum, Dante",6.50,12.60
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,2,2,09,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",103,228,1,1.00,"Burke, Trey",4.80,12.30
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,2,7,25,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",223,45,0,0.80,"Exum, Dante",6.30,19.10
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,3,5,15,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",7,189,1,1.20,"Burke, Trey",3.70,10.40
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,3,4,30,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-45,187,1,1.20,"Favors, Derrick",5.00,5.80
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,1,7,10,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",42,28,0,1.10,"Hayward, Gordon",1.30,20.00
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,1,10,45,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-171,179,0,1.00,"Exum, Dante",2.80,11.50
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,1,5,05,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-134,131,3,2.20,"Len, Alex",6.00,10.00
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,1,6,35,1,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-29,149,1,1.70,"Knight, Brandon",2.50,15.40
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,2,2,10,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",64,172,3,2.70,"Bledsoe, Eric",2.30,4.00
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,1,3,49,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",228,44,0,0.90,"Tucker, PJ",4.90,23.80
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,1,4,44,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",234,23,0,1.20,"Knight, Brandon",7.50,10.30
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,4,3,12,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-235,119,0,0.80,"Bledsoe, Eric",9.00,13.50
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,3,4,56,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",129,28,1,3.60,"Tucker, PJ",6.00,23.40
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,2,1,08,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-198,44,1,1.70,"Bledsoe, Eric",0.60,21.40
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,2,5,23,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-5,186,0,1.00,"Holiday, Jrue",1.90,6.00
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,4,1,35,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",140,209,1,2.30,"Vasquez, Greivis",3.50,5.60
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,4,0,44,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-51,124,1,1.70,"Gordon, Eric",2.90,12.30
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,9,22,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-240,60,0,0.80,"Conley, Mike",5.30,9.70
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,2,8,42,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-171,-5,0,1.10,"Chalmers, Mario",6.00,14.30
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,1,8,53,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-46,181,0,0.90,"Hill, George",8.10,13.00
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,2,4,47,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",226,31,0,0.70,"Cunningham, Dante",6.30,11.10
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,3,8,08,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-152,200,0,1.20,"Davis, Anthony",10.60,5.10
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,2,2,56,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",39,241,0,0.80,"Holiday, Jrue",5.30,6.60
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,1,10,41,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-146,142,12,6.70,"Holiday, Jrue",3.80,17.90
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,1,4,37,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-92,176,3,3.00,"Jackson, Reggie",4.30,5.60
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,4,5,23,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-125,206,1,1.10,"Meeks, Jodie",5.50,3.10
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,3,7,24,1,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",226,31,0,0.80,"Drummond, Andre",5.60,17.20
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,4,6,05,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-128,213,6,4.10,"Meeks, Jodie",1.80,2.80
+"Avery Bradley","Boston Celtics",2015-03-22,2014,4240,1610612738,400579335,1,6,15,1,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-153,145,0,0.90,"Caldwell-Pope, Kentavious",3.90,17.10
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,5,0,00,0,"Jump Shot","3PT Field Goal",47,"Indiana Pacers",-166,443,0,0.00,,0.00,0.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,4,24,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-138,208,1,1.00,"Middleton, Khris",5.10,16.50
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,1,11,38,1,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-40,173,3,3.40,"Conley, Mike",1.10,6.90
+"Avery Bradley","Boston Celtics",2015-01-19,2014,4240,1610612738,400578906,1,11,18,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",47,184,3,2.70,"Redick, JJ",1.50,10.50
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,3,7,16,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",143,217,0,0.90,"Stuckey, Rodney",7.70,15.50
+"Avery Bradley","Boston Celtics",2015-03-11,2014,4240,1610612738,400579246,4,0,07,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",4,213,7,7.70,"Gasol, Marc",4.30,4.50
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,1,5,18,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-169,184,0,0.90,"Chalmers, Mario",4.90,7.00
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,1,7,15,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",-100,179,0,0.90,"Chalmers, Mario",2.60,16.10
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,4,4,41,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-75,247,3,1.70,"Mayo, O.J.",3.00,13.70
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,11,09,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",106,181,5,4.30,"Middleton, Khris",5.20,10.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,7,20,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-205,149,1,1.30,"Carter-Williams, Michael",4.80,15.30
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,3,7,51,0,"Jump Shot","2PT Field Goal",22,"Milwaukee Bucks",72,211,10,8.10,"Carter-Williams, Michael",1.70,2.30
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,4,2,48,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",155,208,0,0.90,"Middleton, Khris",3.50,17.60
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,2,1,35,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-153,194,0,0.70,"Mayo, O.J.",3.90,6.40
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,1,9,52,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",15,250,0,0.90,"Dragic, Goran",3.50,21.00
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,2,0,00,0,"Jump Shot","3PT Field Goal",47,"Miami Heat",-37,476,1,2.00,"Deng, Luol",23.10,0.00
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,1,9,20,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",4,6,1,0.60,"Len, Alex",5.20,16.30
+"Avery Bradley","Boston Celtics",2015-01-12,2014,4240,1610612738,400578855,3,10,41,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-7,12,0,0.80,"Evans, Tyreke",1.40,21.80
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,3,6,43,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-10,19,0,0.50,"LaVine, Zach",1.40,13.90
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,4,1,15,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",2,0,0,0.70,"Jefferson, Cory",3.00,21.80
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,2,0,17,0,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",4,7,2,1.90,"Taylor, Jeff",3.30,21.00
+"Avery Bradley","Boston Celtics",2015-03-25,2014,4240,1610612738,400579356,1,11,44,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",1,1,0,0.60,"Chalmers, Mario",1.90,11.20
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,3,5,05,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",23,0,4,4.10,"Jackson, Reggie",1.90,20.80
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,2,0,16,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-2,14,0,1.00,"Taylor, Jeff",3.10,0.00
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,10,19,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-8,-5,1,2.20,"LaVine, Zach",4.30,22.00
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,4,3,21,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,6,3,3.80,"Chandler, Wilson",3.80,0.60
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,3,9,10,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",1,3,0,0.50,"Walker, Kemba",3.20,14.10
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,9,10,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-13,4,2,1.60,"LaVine, Zach",1.30,23.10
+"Avery Bradley","Boston Celtics",2015-01-05,2014,4240,1610612738,400578802,1,9,16,0,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",6,-5,3,2.40,"Walker, Kemba",2.20,21.30
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,3,5,03,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",-2,0,1,2.70,"Beverley, Patrick",3.60,21.60
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,3,6,18,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,-6,2,2.10,"Green, Danny",1.40,21.00
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,3,11,04,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",6,9,2,2.10,"Lee, Courtney",1.80,20.40
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,2,2,44,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,0,0,1.10,"Augustin, D.J.",2.90,19.70
+"Avery Bradley","Boston Celtics",2014-12-27,2014,4240,1610612738,400578737,3,11,15,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",7,3,7,5.20,"Gortat, Marcin",2.10,3.30
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,1,4,03,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",17,6,0,0.90,"Gordon, Ben",1.80,12.60
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,3,55,0,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-2,0,4,3.00,"Antic, Pero",2.10,13.80
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,5,1,02,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-23,1,0,0.00,"Rose, Derrick",5.60,24.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,3,3,18,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,0,2,2.40,"Pachulia, Zaza",3.00,6.90
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,3,6,52,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,3,1,1.90,"Mbah a Moute, Luc",0.50,20.00
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,2,3,45,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-1,9,2,2.80,"Ellington, Wayne",5.60,22.10
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,3,5,59,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,1,1.70,"Duncan, Tim",3.10,21.40
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,3,3,41,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-10,0,0,1.30,"Millsap, Paul",4.60,20.20
+"Avery Bradley","Boston Celtics",2015-02-07,2014,4240,1610612738,400579055,3,7,53,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,4,0,0.60,"Henson, John",1.90,14.50
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,5,0,41,1,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",6,3,2,2.20,"Mirotic, Nikola",4.00,21.20
+"Avery Bradley","Boston Celtics",2015-01-30,2014,4240,1610612738,400578990,2,4,22,0,"Layup Shot","2PT Field Goal",0,"Houston Rockets",7,1,3,3.50,"Motiejunas, Donatas",2.40,19.40
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,5,47,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-4,12,0,0.80,"Casspi, Omri",2.90,20.00
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,3,2,37,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,6,0,0.60,"Stuckey, Rodney",4.20,11.10
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,3,11,06,0,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",4,-5,6,2.60,"Bogdanovic, Bojan",3.40,13.80
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,4,7,59,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,1,0,0.90,"Kaman, Chris",2.50,13.70
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,4,0,28,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",15,4,0,0.60,"Hill, George",2.30,11.90
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,2,4,12,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",9,6,0,3.60,"Seraphin, Kevin",1.70,22.60
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,5,01,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",20,-2,2,2.60,"Henson, John",1.10,9.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,4,1,16,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",2,-3,5,2.10,"Mayo, O.J.",2.80,13.40
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,1,6,59,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",9,6,0,0.50,"Johnson, Wesley",1.90,18.90
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,3,9,39,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,0,0,0.90,"Waiters, Dion",3.00,19.90
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,3,4,50,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",20,0,1,1.80,"Mirotic, Nikola",2.60,20.80
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,3,26,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-13,19,0,0.80,"Hill, George",2.60,19.50
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,1,11,00,0,"Layup Shot","2PT Field Goal",3,"Miami Heat",34,-2,0,0.40,"Williams, Shawne",2.30,18.10
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,4,3,02,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",29,8,2,1.70,"Cousins, DeMarcus",2.90,18.00
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,2,4,02,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-5,6,1,1.20,"Watson, CJ",4.90,18.80
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,3,6,07,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",10,0,14,9.90,"Gobert, Rudy",1.20,14.60
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,3,10,08,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-18,3,0,1.10,"Len, Alex",1.60,23.90
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,2,1,02,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",13,6,0,0.80,"Harris, Joe",1.90,20.90
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,2,2,54,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",15,6,1,2.40,"Bledsoe, Eric",2.30,22.80
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,6,48,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",13,-2,0,0.60,"Green, Draymond",9.00,19.40
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,1,9,29,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,-3,0,0.80,"Green, Draymond",4.10,20.60
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,5,16,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-10,6,3,4.60,"Chandler, Tyson",0.20,13.80
+"Avery Bradley","Boston Celtics",2015-02-23,2014,4240,1610612738,400579127,3,9,44,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,11,5,5.60,"Len, Alex",1.80,9.90
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,4,47,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",2,11,0,0.90,"Lin, Jeremy",1.20,21.50
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,2,0,48,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",2,22,0,1.30,"Green, Draymond",1.80,20.70
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,1,11,07,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",13,6,4,3.60,"Stephenson, Lance",2.20,20.90
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,4,26,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,3,6,4.80,"Bogut, Andrew",1.40,7.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,1,2,09,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",23,-3,1,1.80,"Thompson, Klay",0.30,20.40
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,2,8,37,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",0,23,1,1.60,"Williams, Deron",2.60,21.40
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,3,5,28,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,-2,0,0.70,"Dieng, Gorgui",5.60,19.60
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,1,7,00,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,-2,0,0.50,"Thompson, Klay",2.40,15.10
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,2,5,16,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-17,4,0,0.40,"Young, Thaddeus",0.60,24.00
+"Avery Bradley","Boston Celtics",2015-01-23,2014,4240,1610612738,400578941,1,8,22,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-13,25,3,2.90,"Chandler, Wilson",1.60,11.00
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,9,45,0,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-7,0,2,2.40,"Chandler, Tyson",2.60,18.10
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,1,1,39,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",2,1,0,0.80,"Jones, James",3.10,12.00
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,2,2,34,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-10,14,0,0.60,"Oladipo, Victor",5.00,21.20
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,2,1,35,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",21,6,0,0.60,"Plumlee, Mason",4.50,14.50
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,4,12,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",13,-5,0,0.80,"Bogdanovic, Bojan",3.20,10.90
+"Avery Bradley","Boston Celtics",2015-03-30,2014,4240,1610612738,400579393,2,2,11,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",6,7,0,0.80,"Roberts, Brian",5.80,8.60
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,2,3,53,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,-8,2,2.90,"Lillard, Damian",2.40,22.20
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,2,42,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",7,11,0,1.20,"Sims, Henry",1.40,3.60
+"Avery Bradley","Boston Celtics",2015-02-03,2014,4240,1610612738,400579020,2,2,24,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,0,0,1.00,"Anthony, Carmelo",19.40,21.10
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,6,21,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",7,1,6,4.10,"Wiggins, Andrew",2.70,21.60
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,2,2,48,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-9,12,4,3.70,"Dunleavy, Mike",2.60,20.90
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,2,0,44,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",4,-16,2,3.50,"Belinelli, Marco",2.10,21.30
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,4,5,08,0,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",7,3,0,0.00,"DeRozan, DeMar",7.00,2.70
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,4,11,41,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",15,4,2,2.10,"Ridnour, Luke",0.30,20.60
+"Avery Bradley","Boston Celtics",2014-12-15,2014,4240,1610612738,400578649,1,5,20,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-16,15,0,0.70,"Mbah a Moute, Luc",2.00,20.10
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,2,11,47,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-15,4,0,0.70,"Barea, Jose Juan",0.70,13.70
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,2,5,25,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",23,9,1,1.50,"Stuckey, Rodney",0.20,21.30
+"Avery Bradley","Boston Celtics",2014-12-10,2014,4240,1610612738,400578608,3,7,02,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",6,4,0,1.20,"Walker, Kemba",0.30,20.50
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,3,7,51,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,9,6,5.20,"Hill, George",2.00,20.70
+"Avery Bradley","Boston Celtics",2015-03-27,2014,4240,1610612738,400579371,2,3,07,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",17,-2,0,1.20,"Early, Cleanthony",5.50,19.40
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,1,9,14,0,"Pullup Bank shot","2PT Field Goal",14,"Toronto Raptors",17,143,3,1.90,"Ross, Terrence",2.00,24.00
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,3,8,23,1,"Pullup Jump shot","2PT Field Goal",13,"Atlanta Hawks",73,108,4,3.80,"Teague, Jeff",2.70,7.70
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,8,25,1,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-7,195,1,1.00,"Ariza, Trevor",9.10,16.50
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,2,5,52,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-46,151,1,1.00,"Green, Danny",1.00,14.30
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,3,7,45,0,"Pullup Jump shot","2PT Field Goal",13,"Charlotte Hornets",-24,132,4,2.90,"Williams, Mo",1.80,19.00
+"Avery Bradley","Boston Celtics",2014-11-17,2014,4240,1610612738,400578440,2,8,21,1,"Pullup Jump shot","2PT Field Goal",20,"Phoenix Suns",37,203,2,2.60,"Dragic, Goran",3.80,12.70
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,1,5,19,0,"Pullup Jump shot","2PT Field Goal",17,"Chicago Bulls",95,151,2,2.90,"Noah, Joakim",4.40,16.00
+"Avery Bradley","Boston Celtics",2014-11-08,2014,4240,1610612738,400578378,1,9,25,1,"Pullup Jump shot","2PT Field Goal",20,"Chicago Bulls",67,189,5,4.40,"Hinrich, Kirk",4.90,19.00
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,4,39,1,"Pullup Jump shot","2PT Field Goal",20,"Cleveland Cavaliers",155,132,0,1.80,"Love, Kevin",4.00,8.50
+"Avery Bradley","Boston Celtics",2015-03-13,2014,4240,1610612738,400579261,1,9,53,1,"Pullup Jump shot","2PT Field Goal",20,"Orlando Magic",-75,189,1,1.20,"Dedmon, Dewayne",6.10,14.40
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,2,0,05,0,"Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",-111,249,10,8.70,"Gasol, Marc",5.50,6.70
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,1,6,52,1,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",-49,183,2,2.10,"Ellis, Monta",2.60,12.70
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,5,2,20,0,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",-146,69,1,1.40,"Lin, Jeremy",3.40,11.30
+"Avery Bradley","Boston Celtics",2014-12-07,2014,4240,1610612738,400578586,2,10,47,0,"Pullup Jump shot","2PT Field Goal",17,"Washington Wizards",141,104,7,6.90,Nene,4.50,18.70
+"Avery Bradley","Boston Celtics",2014-11-23,2014,4240,1610612738,400578486,3,10,58,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",168,91,3,2.80,"Matthews, Wesley",1.50,10.40
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,2,1,02,1,"Pullup Jump shot","2PT Field Goal",20,"Orlando Magic",-8,209,3,3.10,"Harris, Tobias",3.80,11.80
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,3,8,19,1,"Pullup Jump shot","2PT Field Goal",21,"San Antonio Spurs",-19,216,1,1.30,"Duncan, Tim",4.70,14.30
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,2,3,14,0,"Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",-93,186,6,5.50,"Jones, Terrence",4.40,10.50
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,4,2,27,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",111,157,2,2.00,"Matthews, Wesley",4.40,8.90
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,7,25,0,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",64,186,6,5.10,"Hill, Solomon",4.00,16.20
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,1,2,46,0,"Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",-19,160,2,1.80,"Stuckey, Rodney",1.50,3.80
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,3,6,40,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",165,112,6,5.10,"Ariza, Trevor",3.80,15.50
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,2,7,16,0,"Pullup Jump shot","2PT Field Goal",18,"Utah Jazz",-40,178,4,2.30,"Burke, Trey",0.00,11.60
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,5,55,0,"Pullup Jump shot","3PT Field Goal",27,"Golden State Warriors",80,260,0,0.80,"Thompson, Klay",5.80,21.40
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,3,7,26,1,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",220,110,0,0.80,"Green, Draymond",6.90,11.10
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,9,25,0,"Pullup Jump shot","2PT Field Goal",21,"Golden State Warriors",50,205,2,3.00,"Curry, Stephen",3.60,10.10
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,1,11,20,1,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",177,-6,5,3.40,"Splitter, Tiago",4.00,6.00
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,9,56,1,"Pullup Jump shot","2PT Field Goal",20,"Milwaukee Bucks",125,157,2,1.90,"Middleton, Khris",5.00,19.20
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,2,4,53,1,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",54,160,0,1.30,"LaVine, Zach",6.80,13.70
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,4,5,26,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",124,148,2,3.00,"Robinson, Thomas",5.70,8.50
+"Avery Bradley","Boston Celtics",2015-01-22,2014,4240,1610612738,400578931,3,3,29,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",17,197,1,1.20,"Lillard, Damian",3.10,17.60
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,1,6,32,0,"Pullup Jump shot","2PT Field Goal",19,"Brooklyn Nets",-123,149,8,6.40,"Karasev, Sergey",6.90,18.90
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,1,10,13,0,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",84,170,2,1.90,"Ross, Terrence",2.60,2.60
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,3,9,57,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-139,231,0,1.10,"Curry, Stephen",4.60,18.90
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,1,11,26,1,"Pullup Jump shot","2PT Field Goal",20,"Golden State Warriors",-153,140,0,0.90,"Curry, Stephen",3.40,10.60
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,4,4,58,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",170,205,5,5.60,"Curry, Stephen",8.50,2.70
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,2,06,1,"Pullup Jump shot","2PT Field Goal",20,"Indiana Pacers",-38,198,0,0.90,"Stuckey, Rodney",3.10,0.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,1,9,28,1,"Pullup Jump shot","2PT Field Goal",19,"Sacramento Kings",84,175,3,4.80,"Cousins, DeMarcus",4.50,0.00
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,10,35,1,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",-130,123,6,6.50,"Hibbert, Roy",5.10,16.60
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,4,0,19,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",56,250,3,3.50,"Thompson, Klay",4.60,18.60
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,3,10,54,1,"Pullup Jump shot","2PT Field Goal",20,"Dallas Mavericks",159,127,1,2.60,"Nelson, Jameer",2.50,12.60
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,1,10,17,0,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",-67,160,2,1.90,"Oladipo, Victor",4.70,17.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,3,8,59,0,"Pullup Jump shot","2PT Field Goal",19,"Brooklyn Nets",-60,190,0,1.00,"Williams, Deron",4.20,13.90
+"Avery Bradley","Boston Celtics",2015-02-22,2014,4240,1610612738,400579121,3,6,54,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Lakers",-32,206,1,1.20,"Ellington, Wayne",3.00,9.50
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,4,7,55,1,"Pullup Jump shot","2PT Field Goal",17,"Philadelphia 76ers",138,102,5,3.50,"Thompson, Hollis",2.00,6.00
+"Avery Bradley","Boston Celtics",2015-02-20,2014,4240,1610612738,400579105,3,9,47,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",43,176,5,4.00,"Gay, Rudy",8.00,20.60
+"Avery Bradley","Boston Celtics",2014-11-30,2014,4240,1610612738,400578533,1,9,25,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",75,131,11,6.90,"Duncan, Tim",3.20,17.70
+"Avery Bradley","Boston Celtics",2015-02-04,2014,4240,1610612738,400579025,2,2,16,1,"Pullup Jump shot","2PT Field Goal",11,"Denver Nuggets",-98,50,2,2.80,"Faried, Kenneth",5.80,17.40
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,3,1,27,1,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",173,60,0,1.20,"Bryant, Kobe",10.70,21.00
+"Avery Bradley","Boston Celtics",2015-03-14,2014,4240,1610612738,400579268,3,3,44,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",-114,154,3,2.20,"Hill, George",6.10,14.10
+"Avery Bradley","Boston Celtics",2015-01-07,2014,4240,1610612738,400578819,3,9,29,1,"Pullup Jump shot","2PT Field Goal",17,"Brooklyn Nets",111,137,2,1.80,"Jack, Jarrett",4.50,19.80
+"Avery Bradley","Boston Celtics",2015-01-09,2014,4240,1610612738,400578830,4,7,08,1,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",-127,131,1,1.90,"Allen, Lavoy",0.80,15.40
+"Avery Bradley","Boston Celtics",2015-01-02,2014,4240,1610612738,400578778,2,0,20,0,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",61,175,0,2.50,"Harris, Devin",2.50,12.70
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,3,3,23,0,"Pullup Jump shot","2PT Field Goal",19,"Miami Heat",132,142,4,2.90,"Chalmers, Mario",0.90,4.50
+"Avery Bradley","Boston Celtics",2014-11-14,2014,4240,1610612738,400578417,2,2,22,1,"Pullup Jump shot","2PT Field Goal",14,"Cleveland Cavaliers",72,126,3,2.40,"Irving, Kyrie",4.10,12.70
+"Avery Bradley","Boston Celtics",2015-01-28,2014,4240,1610612738,400578978,1,11,46,1,"Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",146,146,6,3.60,"Pekovic, Nikola",6.60,15.50
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,6,46,1,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",144,105,2,3.00,"Johnson, Amir",4.80,17.50
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,2,0,39,1,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",56,159,1,0.90,"Stauskas, Nik",1.50,15.20
+"Avery Bradley","Boston Celtics",2014-12-31,2014,4240,1610612738,400578767,1,9,40,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",72,172,2,1.90,"Gay, Rudy",3.00,9.80
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,1,8,59,0,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",-103,179,0,1.00,"Lee, Courtney",3.50,16.00
+"Avery Bradley","Boston Celtics",2015-03-04,2014,4240,1610612738,400579190,1,5,03,1,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",6,203,3,1.70,"Exum, Dante",6.00,9.90
+"Avery Bradley","Boston Celtics",2015-03-20,2014,4240,1610612738,400579320,3,9,06,1,"Putback Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,0,0.00,"Diaw, Boris",2.80,16.40
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,4,1,38,1,"Putback Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.00,"Williams, Mo",2.20,24.00
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,2,3,18,0,"Putback Layup Shot","2PT Field Goal",0,"Golden State Warriors",-4,6,0,0.60,"Curry, Stephen",2.60,24.00
+"Avery Bradley","Boston Celtics",2015-04-01,2014,4240,1610612738,,3,1,29,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,-1,0,0.20,"Scola, Luis",2.10,5.40
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,3,7,00,0,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",4,8,0,0.50,"Sloan, Donald",1.90,24.00
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,4,0,28,1,"Putback Slam Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.00,"Jefferson, Al",2.20,24.00
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,3,9,29,1,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,12,1,0.40,"Bogut, Andrew",7.50,11.70
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,2,1,22,1,"Reverse Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,0,0,0.60,"Teague, Jeff",4.70,15.00
+"Avery Bradley","Boston Celtics",2015-01-16,2014,4240,1610612738,400578883,2,2,59,1,"Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",-4,0,0,0.50,"Gibson, Taj",6.10,15.30
+"Avery Bradley","Boston Celtics",2014-11-12,2014,4240,1610612738,400578403,2,5,59,0,"Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",28,-3,0,1.20,"Perkins, Kendrick",2.30,9.30
+"Avery Bradley","Boston Celtics",2014-10-29,2014,4240,1610612738,400578298,4,6,08,1,"Reverse Layup Shot","2PT Field Goal",0,"Brooklyn Nets",6,0,0,0.70,"Anderson, Alan",2.60,9.40
+"Avery Bradley","Boston Celtics",2014-11-07,2014,4240,1610612738,400578366,2,2,50,1,"Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",18,3,0,0.60,"Hill, Solomon",2.50,17.30
+"Avery Bradley","Boston Celtics",2014-11-01,2014,4240,1610612738,400578326,2,0,43,1,"Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",18,-2,0,0.70,"Howard, Dwight",5.80,14.60
+"Avery Bradley","Boston Celtics",2015-02-11,2014,4240,1610612738,400579081,2,0,04,0,"Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",0,-10,1,1.60,"Korver, Kyle",4.40,0.00
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,1,9,44,1,"Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",1,4,0,0.70,"Hansbrough, Tyler",2.60,16.50
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,1,7,56,1,"Running Bank shot","2PT Field Goal",8,"Milwaukee Bucks",80,26,10,7.90,"Ilyasova, Ersan",2.60,17.80
+"Avery Bradley","Boston Celtics",2014-12-17,2014,4240,1610612738,400578663,3,3,38,0,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Orlando Magic",-2,-8,0,0.50,"Gordon, Ben",2.00,11.80
+"Avery Bradley","Boston Celtics",2015-02-01,2014,4240,1610612738,400579008,4,4,44,0,"Running Jump Shot","2PT Field Goal",3,"Miami Heat",-7,31,6,7.20,"Cole, Norris",2.40,9.80
+"Avery Bradley","Boston Celtics",2014-11-21,2014,4240,1610612738,400578468,4,1,43,1,"Running Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",40,52,5,3.20,"Gasol, Marc",2.00,11.50
+"Avery Bradley","Boston Celtics",2014-12-21,2014,4240,1610612738,400578696,2,1,00,0,"Running Jump Shot","2PT Field Goal",3,"Miami Heat",37,14,0,0.00,"Cole, Norris",0.70,18.00
+"Avery Bradley","Boston Celtics",2014-12-03,2014,4240,1610612738,400578557,3,5,41,0,"Running Jump Shot","2PT Field Goal",5,"Detroit Pistons",-51,12,8,6.10,"Caldwell-Pope, Kentavious",2.50,11.60
+"Avery Bradley","Boston Celtics",2015-02-06,2014,4240,1610612738,400579042,4,4,20,0,"Running Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",50,56,4,3.00,"Mbah a Moute, Luc",2.10,4.90
+"Avery Bradley","Boston Celtics",2014-11-28,2014,4240,1610612738,400578515,3,3,40,1,"Running Jump Shot","2PT Field Goal",9,"Chicago Bulls",69,60,1,1.40,"Dunleavy, Mike",2.20,12.00
+"Avery Bradley","Boston Celtics",2014-12-23,2014,4240,1610612738,400578710,3,10,51,0,"Running Jump Shot","2PT Field Goal",3,"Orlando Magic",2,34,6,4.40,"OQuinn, Kyle",4.20,14.00
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,4,21,1,"Running Layup Shot","2PT Field Goal",2,"Toronto Raptors",28,4,0,0.50,"Johnson, Amir",1.90,11.80
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,4,1,11,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",14,9,1,1.90,"Ellis, Monta",1.40,22.20
+"Avery Bradley","Boston Celtics",2014-12-02,2014,4240,1610612738,400578546,2,7,02,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-2,11,0,0.70,"Horford, Al",2.20,21.40
+"Avery Bradley","Boston Celtics",2014-12-05,2014,4240,1610612738,400578571,4,8,08,0,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,3,0,0.60,"Davis, Ed",2.20,13.40
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,2,2,53,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-13,0,0,0.80,"Millsap, Paul",1.60,9.70
+"Avery Bradley","Boston Celtics",2014-12-08,2014,4240,1610612738,400578594,3,10,37,1,"Running Layup Shot","2PT Field Goal",2,"Washington Wizards",20,1,2,2.90,"Beal, Bradley",2.30,15.20
+"Avery Bradley","Boston Celtics",2015-01-03,2014,4240,1610612738,400578788,1,3,46,1,"Running Layup Shot","2PT Field Goal",1,"Chicago Bulls",0,15,2,3.20,"Mirotic, Nikola",2.20,8.40
+"Avery Bradley","Boston Celtics",2015-02-25,2014,4240,1610612738,400579136,1,11,34,1,"Running Layup Shot","2PT Field Goal",1,"New York Knicks",15,3,0,0.50,"Galloway, Langston",2.50,13.10
+"Avery Bradley","Boston Celtics",2015-01-26,2014,4240,1610612738,400578965,3,10,23,0,"Running Layup Shot","2PT Field Goal",2,"Utah Jazz",26,-13,0,0.50,"Hayward, Gordon",3.30,20.00
+"Avery Bradley","Boston Celtics",2015-01-14,2014,4240,1610612738,400578872,2,0,55,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-16,0,3,2.60,"Millsap, Paul",3.30,12.50
+"Avery Bradley","Boston Celtics",2014-11-05,2014,4240,1610612738,400578351,3,0,16,0,"Running Reverse Layup Shot","2PT Field Goal",0,"Toronto Raptors",7,4,0,0.60,"Williams, Lou",3.50,8.40
+"Avery Bradley","Boston Celtics",2015-01-10,2014,4240,1610612738,400578845,1,1,08,0,"Running Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,1,0,0.60,"Patterson, Patrick",2.60,16.70
+"Avery Bradley","Boston Celtics",2015-03-18,2014,4240,1610612738,400579303,2,0,50,1,"Slam Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,0,0.60,"Westbrook, Russell",3.40,8.30
+"Avery Bradley","Boston Celtics",2015-03-16,2014,4240,1610612738,400579284,1,5,52,1,"Step Back Jump shot","2PT Field Goal",20,"Philadelphia 76ers",69,197,2,2.40,"Richardson, Jason",3.40,3.80
+"Avery Bradley","Boston Celtics",2014-12-26,2014,4240,1610612738,400578724,1,8,40,0,"Step Back Jump shot","2PT Field Goal",18,"Brooklyn Nets",-49,178,2,3.20,"Karasev, Sergey",4.50,13.20
+"Avery Bradley","Boston Celtics",2014-11-19,2014,4240,1610612738,400578454,1,9,26,1,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-144,94,1,2.10,"Thompson, Hollis",4.40,12.40
+"Avery Bradley","Boston Celtics",2014-11-03,2014,4240,1610612738,400578338,1,4,31,0,"Step Back Jump shot","2PT Field Goal",21,"Dallas Mavericks",-125,178,2,1.90,"Nelson, Jameer",4.10,4.00
+"Avery Bradley","Boston Celtics",2015-02-27,2014,4240,1610612738,400579151,2,6,47,1,"Step Back Jump shot","2PT Field Goal",16,"Charlotte Hornets",163,9,5,2.40,"Henderson, Gerald",5.60,12.10
+"Avery Bradley","Boston Celtics",2015-01-25,2014,4240,1610612738,400578957,3,5,10,1,"Step Back Jump shot","3PT Field Goal",24,"Golden State Warriors",234,55,1,2.30,"Curry, Stephen",3.70,3.20
+"Avery Bradley","Boston Celtics",2015-04-10,2014,4240,1610612738,400579470,3,8,55,0,"Step Back Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",118,134,9,8.40,"Dellavedova, Matthew",3.80,15.30
+"Avery Bradley","Boston Celtics",2015-04-03,2014,4240,1610612738,400579421,2,4,56,1,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",160,26,5,3.90,"Mayo, O.J.",2.70,7.40
+"Avery Bradley","Boston Celtics",2015-03-01,2014,4240,1610612738,400579172,3,4,21,0,"Tip Shot","2PT Field Goal",0,"Golden State Warriors",-7,0,0,0.00,"Bogut, Andrew",2.30,23.00
+"Avery Bradley","Boston Celtics",2015-03-23,2014,4240,1610612738,400579341,4,3,24,1,"Tip Shot","2PT Field Goal",0,"Brooklyn Nets",-2,4,0,0.20,"Jack, Jarrett",2.10,24.00
+"Avery Bradley","Boston Celtics",2015-04-04,2014,4240,1610612738,400579432,3,10,03,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Toronto Raptors",77,129,2,2.00,"Vasquez, Greivis",3.80,24.00
+"Avery Bradley","Boston Celtics",2015-03-03,2014,4240,1610612738,400579183,1,5,55,0,"Turnaround Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",-8,34,5,3.50,"Irving, Kyrie",1.60,11.30
+"Avery Bradley","Boston Celtics",2014-12-19,2014,4240,1610612738,400578677,1,9,50,0,"Turnaround Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",39,12,0,1.20,"Dieng, Gorgui",6.10,13.70

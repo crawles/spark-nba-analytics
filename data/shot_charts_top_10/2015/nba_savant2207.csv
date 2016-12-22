@@ -1,0 +1,1026 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,1,03,1,"Driving Bank Hook Shot","2PT Field Goal",6,"Toronto Raptors",54,39,6,5.20,"Fields, Landry",1.70,12.10
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,4,39,1,"Driving Bank shot","2PT Field Goal",4,"Toronto Raptors",45,6,9,8.30,"Valanciunas, Jonas",4.40,16.20
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,4,44,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-27,7,1,1.50,"Wiggins, Andrew",0.90,14.10
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,3,7,50,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",20,19,13,9.90,"Jordan, DeAndre",4.10,5.90
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,2,0,34,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Orlando Magic",-18,1,3,4.00,"Harkless, Maurice",0.60,13.20
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,5,30,1,"Driving Hook Shot","2PT Field Goal",4,"Portland Trail Blazers",-5,44,5,6.30,"Crabbe, Allen",4.40,7.30
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,4,2,15,1,"Driving Jump shot","2PT Field Goal",3,"Atlanta Hawks",-21,33,3,3.30,"Horford, Al",2.30,8.60
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,9,40,0,"Driving Jump shot","2PT Field Goal",4,"New York Knicks",-35,33,2,2.00,"Shumpert, Iman",2.30,9.00
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,3,11,40,1,"Driving Jump shot","2PT Field Goal",7,"Chicago Bulls",18,77,8,7.10,"Butler, Jimmy",2.10,5.90
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,1,7,56,0,"Driving Jump shot","2PT Field Goal",6,"Boston Celtics",9,61,3,2.90,"Olynyk, Kelly",3.20,9.70
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,2,4,43,0,"Driving Jump shot","2PT Field Goal",5,"Atlanta Hawks",53,20,5,4.60,"Antic, Pero",3.00,14.00
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,4,0,14,1,"Driving Jump shot","2PT Field Goal",5,"Miami Heat",37,39,7,5.60,"Granger, Danny",2.40,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,2,3,19,0,"Driving Jump shot","2PT Field Goal",5,"Atlanta Hawks",31,45,4,4.70,"Antic, Pero",3.50,13.00
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,11,22,1,"Driving Jump shot","2PT Field Goal",5,"Charlotte Hornets",-4,56,7,6.90,"Henderson, Gerald",3.00,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,6,17,1,"Driving Jump shot","2PT Field Goal",5,"Golden State Warriors",39,44,9,9.60,"Barnes, Harrison",2.50,8.60
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,1,11,10,1,"Driving Jump shot","2PT Field Goal",8,"Miami Heat",-4,89,3,3.20,"Deng, Luol",0.80,7.00
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,3,10,29,1,"Driving Jump shot","2PT Field Goal",3,"Atlanta Hawks",32,0,4,4.10,"Horford, Al",2.10,2.20
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,4,01,0,"Driving Jump shot","2PT Field Goal",3,"Toronto Raptors",-4,36,8,8.80,"Fields, Landry",1.40,9.10
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,1,9,58,0,"Driving Jump shot","2PT Field Goal",6,"Toronto Raptors",23,56,2,2.60,"Vasquez, Greivis",1.90,13.70
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,2,1,10,1,"Driving Jump shot","2PT Field Goal",3,"Portland Trail Blazers",20,30,4,4.20,"Matthews, Wesley",3.00,8.80
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,3,10,27,1,"Driving Jump shot","2PT Field Goal",12,"Atlanta Hawks",62,108,4,3.40,"Carroll, DeMarre",2.90,15.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,3,4,22,1,"Driving Jump shot","2PT Field Goal",3,"Phoenix Suns",9,31,2,2.70,"Tucker, PJ",1.80,6.60
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,2,59,1,"Driving Jump shot","2PT Field Goal",9,"Toronto Raptors",65,75,3,5.60,"DeRozan, DeMar",1.80,7.60
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,1,1,51,1,"Driving Jump shot","2PT Field Goal",6,"Toronto Raptors",-26,63,2,7.60,"Williams, Lou",1.20,10.40
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,3,3,41,1,"Driving Jump shot","2PT Field Goal",9,"Toronto Raptors",-75,50,4,6.90,"Fields, Landry",2.10,4.10
+"Joe Johnson","Brooklyn Nets",2014-11-21,2014,1007,1610612751,400578470,2,0,44,0,"Driving Jump shot","2PT Field Goal",10,"Oklahoma City Thunder",-41,94,11,11.00,"Thomas, Lance",2.30,12.80
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,1,2,45,1,"Driving Jump shot","2PT Field Goal",9,"Milwaukee Bucks",10,91,3,3.60,"Dudley, Jared",1.40,7.60
+"Joe Johnson","Brooklyn Nets",2015-04-04,2014,1007,1610612751,400579430,3,9,00,0,"Driving Jump shot","2PT Field Goal",5,"Atlanta Hawks",12,56,2,3.50,"Carroll, DeMarre",1.70,9.00
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,3,5,49,1,"Driving Jump shot","2PT Field Goal",5,"Chicago Bulls",17,52,1,1.80,"Butler, Jimmy",3.50,14.00
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,1,7,19,1,"Driving Jump shot","2PT Field Goal",18,"Charlotte Hornets",125,143,9,7.30,"Henderson, Gerald",5.00,14.80
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,2,3,03,1,"Driving Jump shot","2PT Field Goal",5,"Miami Heat",-54,15,9,8.60,"Deng, Luol",2.50,16.00
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,3,04,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",-24,-8,2,2.40,"Thomas, Lance",2.10,10.30
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,9,55,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-5,1,2,2.40,"Wiggins, Andrew",1.70,5.70
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,7,27,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",4,6,9,10.20,"Caldwell-Pope, Kentavious",3.20,14.10
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,6,58,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,-8,0,0.90,"Martin, Kevin",5.30,20.40
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,3,8,19,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,4,7,5.70,"Barnes, Matt",4.90,3.00
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,2,8,09,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",24,3,0,1.50,"Napier, Shabazz",4.80,19.40
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,1,9,10,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,11,3,3.60,"Jones, Terrence",2.20,13.10
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,9,09,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",20,6,7,6.70,"Jefferson, Richard",1.70,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,1,10,46,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,6,5,6.20,"Singler, Kyle",0.20,17.20
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,7,25,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-10,7,2,2.30,"Andersen, Chris",0.50,10.60
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,6,32,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",15,17,5,8.10,"Bosh, Chris",1.40,4.50
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,0,15,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",7,14,3,3.60,"Wiggins, Andrew",0.30,0.00
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,1,9,12,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",26,-3,2,2.90,"Diaw, Boris",0.20,1.70
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,1,8,33,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,3,2,3.50,"Ilyasova, Ersan",2.10,3.00
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,4,1,08,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-21,-10,15,15.40,"Harris, Tobias",1.40,7.30
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,7,51,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-23,0,3,5.70,"Lillard, Damian",3.00,6.10
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,1,1,07,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",0,-3,12,8.40,"Sullinger, Jared",0.50,15.10
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,2,0,02,0,"Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",-30,11,5,4.50,"Ingles, Joe",2.00,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,4,4,29,1,"Driving Layup Shot","2PT Field Goal",0,"New York Knicks",9,0,7,5.20,"Aldrich, Cole",3.00,19.60
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,8,12,0,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",18,4,1,3.40,"Hill, Solomon",2.50,5.20
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,5,20,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-18,3,0,23.20,"Snell, Tony",0.90,14.60
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,5,13,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",9,3,5,5.30,"Smart, Marcus",2.40,8.70
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,2,0,30,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",21,1,7,5.60,"Antetokounmpo, Giannis",3.90,14.70
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,1,9,23,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",26,9,5,4.50,"Sims, Henry",2.60,18.70
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,3,56,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",15,11,2,2.70,"Andersen, Chris",1.30,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,1,4,29,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,7,8,7.60,"Singler, Kyle",1.80,16.90
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,0,27,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",-5,15,1,4.10,"Harkless, Maurice",1.30,10.50
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,2,10,45,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,1,3.40,"Len, Alex",18.00,23.00
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,1,6,03,1,"Fadeaway Bank shot","2PT Field Goal",17,"Sacramento Kings",-146,88,5,5.20,"Gay, Rudy",3.40,4.90
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,7,54,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Dallas Mavericks",70,61,7,7.60,"Jefferson, Richard",3.20,4.30
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,3,4,23,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Atlanta Hawks",106,146,2,4.20,"Sefolosha, Thabo",3.90,17.10
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,5,4,05,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Phoenix Suns",166,-3,18,16.00,"Tucker, PJ",2.00,7.70
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,2,2,02,1,"Fadeaway Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-166,45,6,5.30,"Asik, Omer",5.10,18.40
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,3,5,57,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-65,149,2,3.20,"Horford, Al",5.20,14.70
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,1,9,06,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Boston Celtics",154,1,11,8.50,"Green, Jeff",5.10,7.30
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,1,5,31,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Detroit Pistons",-171,14,4,5.10,"Singler, Kyle",2.60,6.20
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,5,17,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-59,162,16,10.30,"Wiggins, Andrew",1.90,2.70
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,3,35,0,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",89,110,8,8.40,"Thomas, Lance",5.20,3.10
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,2,0,01,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",105,58,6,4.20,"Mozgov, Timofey",4.30,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,4,5,54,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Detroit Pistons",-78,42,1,4.10,"Butler, Caron",2.10,5.50
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,1,7,44,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Miami Heat",-177,34,7,10.00,"Williams, Shawne",4.70,3.70
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,1,1,57,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Orlando Magic",144,121,4,3.80,"Gordon, Aaron",3.30,12.00
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,4,3,41,0,"Fadeaway Jump Shot","2PT Field Goal",13,"New York Knicks",118,60,5,7.20,"Galloway, Langston",4.80,12.00
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,3,7,13,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Detroit Pistons",154,77,9,7.50,"Singler, Kyle",4.10,11.30
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,0,40,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-103,142,13,12.40,"Davies, Brandon",5.30,6.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,4,05,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Boston Celtics",113,113,6,6.30,"Olynyk, Kelly",4.60,5.30
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,9,37,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Houston Rockets",100,96,6,5.90,"Smith, Josh",2.90,1.00
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,3,8,22,0,"Fadeaway Jump Shot","2PT Field Goal",20,"New York Knicks",-68,197,13,11.20,"Amundson, Lou",4.70,6.10
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,8,31,0,"Fadeaway Jump Shot","2PT Field Goal",10,"San Antonio Spurs",106,11,10,7.90,"Leonard, Kawhi",3.20,4.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,1,3,50,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Phoenix Suns",83,72,3,4.90,"Tucker, PJ",4.00,2.30
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,4,31,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-120,119,6,5.80,"Wiggins, Andrew",3.80,10.20
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,1,48,1,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",110,66,3,4.60,"Anthony, Carmelo",2.90,3.40
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,1,2,00,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Boston Celtics",127,28,3,3.80,"Green, Jeff",3.20,4.20
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,10,04,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Charlotte Hornets",138,69,5,7.70,"Henderson, Gerald",4.50,13.00
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,6,44,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Houston Rockets",59,108,7,7.50,"Ariza, Trevor",3.10,5.20
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,1,9,44,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Atlanta Hawks",10,96,5,5.60,"Carroll, DeMarre",3.40,11.50
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,3,46,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Boston Celtics",187,-19,3,2.30,"Green, Jeff",3.80,12.20
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,4,6,48,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",89,42,3,7.30,"Shumpert, Iman",3.10,9.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,3,53,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Denver Nuggets",-87,72,8,8.20,"Chandler, Wilson",3.00,2.00
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,3,9,07,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Toronto Raptors",135,77,2,2.40,"Vasquez, Greivis",4.40,6.10
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,1,4,11,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",116,42,9,8.70,"James, LeBron",2.70,4.60
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,4,49,0,"Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",24,7,1,1.90,"Johnson, Wesley",1.60,12.30
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,3,10,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Orlando Magic",-11,22,4,4.10,"Harkless, Maurice",1.20,23.10
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,3,27,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Boston Celtics",9,0,4,4.50,"Bass, Brandon",2.50,5.00
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,3,4,40,0,"Floating Jump shot","2PT Field Goal",6,"Miami Heat",24,58,1,6.20,"Granger, Danny",1.50,8.90
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,1,28,1,"Floating Jump shot","2PT Field Goal",7,"Minnesota Timberwolves",-7,75,23,14.20,"Wiggins, Andrew",2.30,8.50
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,1,0,40,0,"Floating Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",43,53,2,4.40,"Collison, Nick",2.80,15.80
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,3,3,35,0,"Floating Jump shot","2PT Field Goal",8,"Chicago Bulls",36,82,6,4.60,"Butler, Jimmy",1.90,15.60
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,4,9,40,0,"Floating Jump shot","2PT Field Goal",4,"Philadelphia 76ers",0,48,11,9.30,"Covington, Robert",3.10,7.50
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,4,5,54,1,"Floating Jump shot","2PT Field Goal",4,"New York Knicks",-5,47,13,10.60,"Smith, J.R.",3.50,14.00
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,3,2,49,1,"Floating Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",-8,48,6,6.60,"Ibaka, Serge",2.90,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,1,57,1,"Floating Jump shot","2PT Field Goal",9,"Indiana Pacers",62,75,4,3.70,"Hill, Solomon",2.40,13.60
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,2,0,01,1,"Floating Jump shot","2PT Field Goal",6,"Denver Nuggets",28,60,14,9.70,"Arthur, Darrell",1.50,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,1,11,25,0,"Floating Jump shot","2PT Field Goal",13,"Houston Rockets",-90,94,2,1.70,"Howard, Dwight",4.40,6.10
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,1,5,26,1,"Floating Jump shot","2PT Field Goal",10,"Sacramento Kings",7,102,7,5.90,"Gay, Rudy",4.40,16.10
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,3,9,54,1,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",17,63,3,2.90,"McLemore, Ben",1.70,12.40
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,3,6,07,1,"Floating Jump shot","2PT Field Goal",6,"Memphis Grizzlies",24,56,2,1.50,"Green, Jeff",4.10,8.30
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,3,8,31,1,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",31,55,15,14.20,"Gay, Rudy",2.00,8.90
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,11,40,1,"Floating Jump shot","2PT Field Goal",10,"Denver Nuggets",-40,99,6,4.90,"Nurkic, Jusuf",4.70,10.50
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,3,5,32,1,"Floating Jump shot","2PT Field Goal",7,"Memphis Grizzlies",-57,52,2,3.10,"Conley, Mike",0.00,12.30
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,5,47,1,"Floating Jump shot","2PT Field Goal",9,"San Antonio Spurs",-87,39,2,2.10,"Leonard, Kawhi",1.50,11.40
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,0,01,0,"Floating Jump shot","2PT Field Goal",4,"Orlando Magic",29,37,7,5.90,"Ridnour, Luke",3.50,0.00
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,1,10,44,0,"Floating Jump shot","2PT Field Goal",5,"Milwaukee Bucks",-2,53,8,7.20,"Antetokounmpo, Giannis",1.70,14.00
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,2,0,59,1,"Floating Jump shot","2PT Field Goal",11,"Orlando Magic",32,108,6,4.10,"Harris, Tobias",1.70,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,1,7,03,1,"Floating Jump shot","2PT Field Goal",7,"Philadelphia 76ers",48,58,2,2.30,"Richardson, Jason",4.40,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,4,4,11,1,"Floating Jump shot","2PT Field Goal",6,"Philadelphia 76ers",48,50,1,1.20,"Thompson, Hollis",2.20,11.20
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,1,7,11,0,"Floating Jump shot","2PT Field Goal",6,"Philadelphia 76ers",15,63,2,3.50,"Carter-Williams, Michael",1.60,6.90
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,1,2,00,1,"Floating Jump shot","2PT Field Goal",8,"Miami Heat",-34,83,1,1.60,"Granger, Danny",2.20,13.20
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,10,45,1,"Floating Jump shot","2PT Field Goal",9,"Washington Wizards",78,47,2,3.00,"Butler, Rasual",2.40,14.90
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,3,6,54,1,"Floating Jump shot","2PT Field Goal",6,"Philadelphia 76ers",-4,64,5,5.80,"Grant, Jerami",4.70,3.00
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,1,5,55,1,"Floating Jump shot","2PT Field Goal",8,"Miami Heat",50,74,2,2.40,"Andersen, Chris",6.30,12.10
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,4,1,40,0,"Floating Jump shot","2PT Field Goal",7,"Miami Heat",-52,58,2,2.40,"Ennis, James",2.40,8.40
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,4,2,09,0,"Floating Jump shot","2PT Field Goal",3,"Orlando Magic",26,28,1,2.00,"Harris, Tobias",2.10,13.00
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,4,41,1,"Floating Jump shot","2PT Field Goal",11,"New Orleans Pelicans",73,89,5,4.20,"Cunningham, Dante",2.20,15.90
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,4,1,45,1,"Floating Jump shot","2PT Field Goal",7,"Boston Celtics",75,23,1,2.10,"Turner, Evan",1.90,21.30
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,2,3,33,1,"Floating Jump shot","2PT Field Goal",5,"Philadelphia 76ers",15,56,2,6.20,"Mbah a Moute, Luc",1.90,4.90
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,4,3,32,1,"Floating Jump shot","2PT Field Goal",7,"New Orleans Pelicans",-27,67,7,6.40,"Babbitt, Luke",2.00,14.10
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,6,08,1,"Floating Jump shot","2PT Field Goal",6,"New Orleans Pelicans",31,61,8,7.40,"Cunningham, Dante",4.00,4.20
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,5,32,0,"Floating Jump shot","2PT Field Goal",4,"Denver Nuggets",15,42,13,10.00,"Arthur, Darrell",2.80,15.30
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,3,59,1,"Floating Jump shot","2PT Field Goal",5,"Dallas Mavericks",-16,50,7,6.20,"Villanueva, Charlie",2.60,18.00
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,1,4,33,1,"Floating Jump shot","2PT Field Goal",6,"Atlanta Hawks",62,28,1,1.50,"Millsap, Paul",4.80,18.70
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,5,2,10,1,"Floating Jump shot","2PT Field Goal",5,"Dallas Mavericks",-41,30,5,8.60,"Chandler, Tyson",5.10,6.30
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,1,0,05,0,"Floating Jump shot","2PT Field Goal",8,"Portland Trail Blazers",6,86,10,10.30,"Afflalo, Arron",5.00,0.00
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,3,10,29,1,"Floating Jump shot","2PT Field Goal",10,"Toronto Raptors",21,104,5,4.20,"Ross, Terrence",2.30,17.40
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,8,42,1,"Floating Jump shot","2PT Field Goal",9,"New Orleans Pelicans",-32,94,9,10.80,"Gordon, Eric",2.10,8.00
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,3,11,10,1,"Floating Jump shot","2PT Field Goal",9,"Charlotte Hornets",69,67,4,3.20,"Kidd-Gilchrist, Michael",3.50,7.00
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,2,3,11,0,"Floating Jump shot","2PT Field Goal",5,"Boston Celtics",40,44,5,4.90,"Crowder, Jae",2.00,10.50
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,3,9,09,1,"Floating Jump shot","2PT Field Goal",7,"Atlanta Hawks",7,77,7,5.00,"Carroll, DeMarre",2.00,9.10
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,1,56,1,"Floating Jump shot","2PT Field Goal",9,"Golden State Warriors",0,99,3,2.30,"Iguodala, Andre",3.70,4.00
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,2,1,41,1,"Floating Jump shot","2PT Field Goal",9,"Chicago Bulls",20,88,3,3.10,"Butler, Jimmy",3.90,13.10
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,1,9,23,0,"Floating Jump shot","2PT Field Goal",7,"Minnesota Timberwolves",-67,30,1,1.50,"Wiggins, Andrew",3.80,13.70
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,4,7,02,0,"Floating Jump shot","2PT Field Goal",9,"Memphis Grizzlies",95,17,3,4.00,"Carter, Vince",1.50,16.90
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,0,34,0,"Floating Jump shot","2PT Field Goal",12,"Dallas Mavericks",-122,0,2,2.50,"Chandler, Tyson",4.90,11.40
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,4,7,31,1,"Floating Jump shot","2PT Field Goal",7,"Miami Heat",45,58,4,4.60,"Haslem, Udonis",3.20,7.10
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,3,4,29,0,"Floating Jump shot","2PT Field Goal",7,"Orlando Magic",4,74,4,4.30,"Gordon, Aaron",3.40,12.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,8,15,1,"Floating Jump shot","2PT Field Goal",9,"Toronto Raptors",64,74,9,6.40,"Ross, Terrence",2.20,18.30
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,9,35,0,"Floating Jump shot","2PT Field Goal",8,"Boston Celtics",-5,80,7,5.00,"Green, Jeff",2.00,10.40
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,1,0,35,0,"Floating Jump shot","2PT Field Goal",11,"Orlando Magic",-68,91,8,6.70,"Vucevic, Nikola",6.00,17.40
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,2,34,0,"Floating Jump shot","2PT Field Goal",9,"Phoenix Suns",69,61,2,2.40,"Morris, Markieff",3.50,9.30
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,10,50,1,"Floating Jump shot","2PT Field Goal",12,"Boston Celtics",59,115,2,2.60,"Sullinger, Jared",4.60,15.30
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,3,7,39,0,"Floating Jump shot","2PT Field Goal",18,"Toronto Raptors",138,118,7,5.30,"Ross, Terrence",3.80,6.30
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,1,8,36,1,"Floating Jump shot","2PT Field Goal",6,"Orlando Magic",2,60,8,6.70,"Gordon, Aaron",2.40,15.00
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,3,11,04,1,"Floating Jump shot","2PT Field Goal",6,"Minnesota Timberwolves",-27,60,2,7.60,"Wiggins, Andrew",2.70,3.00
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,4,1,16,0,"Floating Jump shot","2PT Field Goal",5,"Milwaukee Bucks",12,53,5,5.80,"Antetokounmpo, Giannis",1.20,13.80
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,3,9,30,1,"Floating Jump shot","2PT Field Goal",9,"Indiana Pacers",-76,58,7,5.50,"Hill, Solomon",1.90,8.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,9,15,0,"Floating Jump shot","2PT Field Goal",8,"Denver Nuggets",77,37,4,4.30,"Gee, Alonzo",2.30,4.60
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,8,00,0,"Floating Jump shot","2PT Field Goal",6,"Orlando Magic",20,63,5,3.20,"Harris, Tobias",3.50,10.30
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,0,51,1,"Floating Jump shot","2PT Field Goal",5,"Los Angeles Lakers",-56,19,0,0.70,"Clarkson, Jordan",2.20,13.30
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,3,10,26,1,"Floating Jump shot","2PT Field Goal",5,"Detroit Pistons",31,41,2,2.50,"Singler, Kyle",4.10,4.30
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,8,27,1,"Floating Jump shot","2PT Field Goal",7,"Denver Nuggets",-26,75,2,3.10,"Mozgov, Timofey",3.80,7.50
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,3,9,49,1,"Floating Jump shot","2PT Field Goal",12,"Toronto Raptors",61,105,3,5.20,"DeRozan, DeMar",1.70,9.90
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,3,6,02,0,"Hook Shot","2PT Field Goal",12,"Washington Wizards",129,12,3,3.70,"Pierce, Paul",2.50,6.00
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,5,2,11,0,"Hook Shot","2PT Field Goal",3,"Milwaukee Bucks",7,30,3,2.60,"Antetokounmpo, Giannis",2.30,3.40
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,2,2,35,0,"Hook Shot","2PT Field Goal",3,"Portland Trail Blazers",9,37,3,4.40,"Matthews, Wesley",2.50,9.30
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,1,11,24,1,"Hook Shot","2PT Field Goal",3,"Milwaukee Bucks",20,26,0,1.10,"Pachulia, Zaza",1.50,3.20
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,4,1,32,0,"Hook Shot","2PT Field Goal",8,"Miami Heat",37,78,7,6.70,"Granger, Danny",2.10,6.70
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,1,6,32,0,"Hook Shot","2PT Field Goal",5,"New York Knicks",36,39,10,9.00,"Thomas, Lance",1.80,4.30
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,4,6,44,0,"Hook Shot","2PT Field Goal",4,"Toronto Raptors",10,47,7,7.60,"Valanciunas, Jonas",3.30,16.80
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,8,05,0,"Hook Shot","2PT Field Goal",5,"Miami Heat",47,37,10,9.90,"Deng, Luol",1.60,13.90
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,2,6,14,0,"Hook Shot","2PT Field Goal",4,"San Antonio Spurs",29,39,6,6.50,"Leonard, Kawhi",2.00,6.10
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,1,8,27,0,"Hook Shot","2PT Field Goal",5,"New Orleans Pelicans",0,52,11,9.70,"Pondexter, Quincy",1.20,13.00
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,3,2,44,0,"Jump Bank Shot","2PT Field Goal",17,"Houston Rockets",147,86,2,2.00,"Brewer, Corey",1.90,2.50
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,1,10,06,1,"Jump Bank Shot","2PT Field Goal",4,"Sacramento Kings",40,17,0,0.70,"Gay, Rudy",4.90,13.20
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,4,5,05,0,"Jump Bank Shot","2PT Field Goal",8,"Washington Wizards",80,41,6,5.10,"Butler, Rasual",1.80,2.70
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,1,2,25,1,"Jump Bank Shot","2PT Field Goal",8,"Houston Rockets",75,28,0,2.60,"Ariza, Trevor",1.80,13.20
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,1,24,0,"Jump Bank Shot","2PT Field Goal",7,"Houston Rockets",-62,44,4,5.80,"Beverley, Patrick",0.10,3.60
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,3,8,04,1,"Jump Bank Shot","2PT Field Goal",9,"Dallas Mavericks",-11,93,3,2.20,"Ellis, Monta",2.00,11.30
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,4,8,00,1,"Jump Bank Shot","2PT Field Goal",7,"Miami Heat",-68,36,3,6.00,"Granger, Danny",0.50,6.90
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,3,6,32,1,"Jump Bank Shot","3PT Field Goal",25,"Atlanta Hawks",-84,244,0,1.40,"Carroll, DeMarre",4.50,7.90
+"Joe Johnson","Brooklyn Nets",2015-04-10,2014,1007,1610612751,400579469,2,9,03,1,"Jump Bank Shot","2PT Field Goal",6,"Washington Wizards",-60,14,4,5.40,"Porter, Otto",2.20,10.10
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,3,8,22,1,"Jump Bank Shot","2PT Field Goal",4,"Orlando Magic",40,19,0,0.60,"Gordon, Aaron",1.10,14.40
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,7,38,1,"Jump Bank Shot","2PT Field Goal",7,"Atlanta Hawks",70,30,3,6.30,"Horford, Al",2.90,7.80
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,1,6,22,0,"Jump Bank Shot","2PT Field Goal",5,"Los Angeles Clippers",51,22,3,5.00,"Barnes, Matt",2.20,6.20
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,1,4,00,1,"Jump Bank Shot","2PT Field Goal",8,"Toronto Raptors",-82,20,10,7.20,"DeRozan, DeMar",1.80,15.00
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,4,25,1,"Jump Bank Shot","2PT Field Goal",6,"Minnesota Timberwolves",-51,42,1,1.20,"Payne, Adreian",5.30,22.00
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,1,8,58,1,"Jump Hook Shot","2PT Field Goal",3,"Boston Celtics",-18,34,1,1.40,"Green, Jeff",1.90,9.70
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,1,7,46,1,"Jump Hook Shot","2PT Field Goal",4,"Toronto Raptors",0,41,0,0.70,"Vasquez, Greivis",2.10,12.70
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,2,1,09,1,"Jump Hook Shot","2PT Field Goal",4,"Toronto Raptors",-35,30,2,2.20,"Ross, Terrence",2.20,13.80
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,3,9,19,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",239,-13,0,1.00,"Copeland, Chris",6.20,18.20
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,2,2,23,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",225,127,0,0.60,"Barnes, Matt",4.70,1.90
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,3,10,40,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-139,121,0,1.10,"Morris, Marcus",14.60,9.00
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,2,3,56,0,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",-138,252,0,0.80,"Green, Jeff",5.70,11.50
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,3,9,28,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-196,140,0,0.80,"Singler, Kyle",6.70,18.80
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,6,31,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",123,170,0,0.00,"Butler, Rasual",5.50,0.50
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,3,11,26,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-229,-30,0,0.70,"Granger, Danny",6.80,10.50
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,3,7,08,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-114,137,5,5.10,"Thompson, Jason",5.20,17.80
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,4,8,27,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-179,159,0,0.80,"Ennis, James",5.60,8.60
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,2,2,01,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",7,145,4,3.40,"Jones, Perry",5.90,8.10
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,10,55,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-217,145,0,0.80,"Green, Draymond",4.80,17.60
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,3,43,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-75,164,5,7.30,"Butler, Rasual",4.10,10.70
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,1,2,08,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",237,-14,0,1.30,"Hardaway Jr., Tim",3.50,14.40
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,6,58,0,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",-32,224,6,6.20,"Faried, Kenneth",4.30,3.90
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,1,7,00,1,"Jump Shot","2PT Field Goal",12,"Washington Wizards",-112,63,0,0.90,"Wall, John",2.50,10.80
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,1,1,30,0,"Jump Shot","2PT Field Goal",4,"San Antonio Spurs",-4,45,3,4.70,"Leonard, Kawhi",2.60,7.20
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,2,1,49,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-29,69,6,5.30,"Diaw, Boris",0.30,14.00
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,1,6,28,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",61,151,5,6.60,"Henson, John",4.80,10.50
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,4,3,16,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-231,-16,0,0.00,"Copeland, Chris",5.20,11.60
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,3,2,07,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",151,192,0,0.80,"Butler, Jimmy",5.70,11.40
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,4,3,58,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-209,132,3,4.20,"Griffin, Blake",3.90,8.90
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,2,6,26,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-229,41,0,1.00,"Green, Jeff",9.70,18.00
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,3,10,02,0,"Jump Shot","2PT Field Goal",22,"Oklahoma City Thunder",-34,219,3,3.40,"Jones, Perry",4.80,7.00
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,1,8,31,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",51,239,0,0.90,"Anthony, Carmelo",7.70,11.80
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,4,0,48,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",174,201,1,2.70,"Barnes, Matt",4.70,22.30
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,1,0,38,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",124,214,0,0.80,"Barnes, Matt",5.10,18.00
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,1,4,00,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",133,127,2,2.30,"Jordan, DeAndre",3.60,14.10
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,1,7,24,1,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",-60,15,4,4.70,"Singler, Kyle",0.10,11.00
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,1,5,17,0,"Jump Shot","2PT Field Goal",8,"Detroit Pistons",9,82,8,5.10,"Singler, Kyle",2.60,8.90
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,4,6,30,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-193,159,1,2.30,"Gay, Rudy",5.30,2.80
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,4,4,33,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-109,56,1,2.10,"Joseph, Cory",2.40,3.90
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,11,44,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-30,63,4,5.20,"Hardaway Jr., Tim",1.20,9.00
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,1,7,51,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-217,135,0,0.80,"James, LeBron",5.10,14.60
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,2,6,32,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-229,47,0,0.80,"Oladipo, Victor",8.20,7.00
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,4,5,12,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-163,44,10,9.80,"Gordon, Aaron",3.80,7.90
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,1,9,13,0,"Jump Shot","2PT Field Goal",9,"Miami Heat",7,91,4,2.90,"Deng, Luol",4.20,7.10
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,3,5,44,0,"Jump Shot","2PT Field Goal",21,"Phoenix Suns",-8,214,14,9.10,"Morris, Marcus",3.50,4.30
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,7,11,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",88,83,3,2.10,"Green, Gerald",4.70,12.10
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,1,11,45,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",236,-25,0,0.80,"Deng, Luol",4.60,13.80
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,2,4,32,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",99,142,4,4.60,"Hill, Solomon",3.30,13.40
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,3,9,30,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",73,80,16,12.70,"Pierce, Paul",2.60,11.60
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,2,25,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-198,156,1,1.80,"Parsons, Chandler",5.30,9.90
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,4,3,34,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",226,22,0,0.60,"Turner, Evan",4.00,15.20
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,11,27,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-194,6,2,2.50,"Bayless, Jerryd",1.20,5.70
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,1,2,36,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",17,86,8,8.50,"Griffin, Blake",3.10,10.10
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,1,3,01,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",0,127,8,6.60,"Sullinger, Jared",5.90,9.20
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,2,2,30,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",88,149,6,7.70,"Cousins, DeMarcus",4.10,2.30
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,7,0,07,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",166,-3,0,0.70,"Antetokounmpo, Giannis",3.90,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,2,10,46,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",36,153,8,6.50,"Koufos, Kosta",4.20,5.30
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,1,4,21,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",17,52,6,6.30,"Hardaway Jr., Tim",1.90,6.30
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,3,7,33,0,"Jump Shot","2PT Field Goal",22,"Los Angeles Clippers",122,190,7,6.90,"Barnes, Matt",2.80,5.70
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,4,7,47,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",147,123,3,3.10,"Marble, Devyn",1.70,12.80
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,1,5,06,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-235,-11,0,0.90,"Singler, Kyle",3.20,17.70
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,4,4,38,0,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-223,55,0,0.80,"Butler, Jimmy",5.60,15.30
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,0,35,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-223,123,3,3.30,"Thomas, Isaiah",9.10,18.60
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,2,4,00,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",160,224,0,0.90,"Ross, Terrence",5.90,18.80
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,2,2,25,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",12,242,1,1.00,"Sullinger, Jared",8.20,20.50
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,3,7,19,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",140,135,4,6.20,"Noah, Joakim",3.70,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,4,3,45,0,"Jump Shot","2PT Field Goal",13,"Orlando Magic",69,116,8,9.00,"Gordon, Aaron",4.10,15.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,6,13,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",36,203,6,5.60,"Green, Gerald",3.90,9.30
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,1,8,21,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",181,167,1,1.50,"Barnes, Matt",7.20,5.30
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,1,4,33,0,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",-48,96,10,8.50,"Butler, Jimmy",1.60,15.90
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,9,04,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",67,20,4,4.60,"Green, Danny",1.60,4.30
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,3,0,03,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-198,162,0,1.00,"Leonard, Kawhi",3.80,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,1,10,34,0,"Jump Shot","3PT Field Goal",28,"Washington Wizards",171,224,2,1.90,Nene,11.80,22.20
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,5,59,0,"Jump Shot","2PT Field Goal",9,"Miami Heat",28,94,10,9.10,"Deng, Luol",2.30,5.90
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,1,4,52,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",170,184,0,0.00,"Redick, JJ",11.10,2.10
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,2,3,58,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",237,-13,0,0.90,"Tucker, PJ",6.00,8.30
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,1,8,47,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",230,-17,0,0.90,"Chalmers, Mario",13.00,8.70
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,3,4,29,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-86,170,6,6.60,"Gay, Rudy",2.90,8.20
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,1,2,47,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-191,154,0,0.70,"Gay, Rudy",9.00,19.20
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,1,5,33,0,"Jump Shot","2PT Field Goal",22,"New York Knicks",198,107,3,6.00,"Acy, Quincy",0.80,12.40
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,10,08,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",37,36,3,5.70,"Butler, Rasual",4.00,15.50
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,7,09,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",89,121,6,5.60,"Stoudemire, Amare",4.60,13.10
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,4,10,04,0,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",58,48,17,14.30,"Marion, Shawn",1.70,10.10
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,1,10,42,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",36,192,1,2.70,"Anthony, Carmelo",3.50,14.10
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,11,42,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-16,28,2,4.20,"Caldwell-Pope, Kentavious",1.50,9.30
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,2,1,00,0,"Jump Shot","2PT Field Goal",9,"Indiana Pacers",-37,83,3,3.10,"Hill, George",2.50,9.80
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,2,2,48,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",2,258,0,0.80,"Harris, Tobias",6.90,8.50
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,1,11,20,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-199,190,0,0.90,"Barnes, Matt",4.20,4.60
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,1,06,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-117,115,11,9.90,"Hickson, JJ",4.40,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,2,3,07,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",230,42,0,1.00,"Monroe, Greg",7.60,12.40
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,4,0,57,0,"Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",20,44,1,1.80,"Matthews, Wesley",0.00,21.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,2,6,00,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",203,168,0,0.90,"Johnson, James",4.20,4.20
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,3,1,45,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",234,-8,0,1.10,"Jefferson, Richard",10.80,11.80
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,1,5,01,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",42,53,1,1.60,"Shumpert, Iman",3.10,13.60
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,2,6,32,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",141,96,0,1.70,"Deng, Luol",4.10,15.70
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,2,39,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",151,187,0,0.90,"Harkless, Maurice",6.60,16.00
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,5,55,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",7,80,4,4.20,"Whiteside, Hassan",1.40,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,4,7,04,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",138,220,9,8.50,"Ennis, James",4.50,2.70
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,2,3,36,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",-13,42,6,6.80,"Barnes, Matt",1.50,24.00
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,4,5,49,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,44,0,1.20,"Hill, George",4.20,18.90
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,6,3,04,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",181,-13,2,5.80,"Pachulia, Zaza",3.40,4.40
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,3,9,01,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",10,156,2,2.80,"Love, Kevin",3.40,9.80
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,4,5,55,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",236,56,0,0.30,"Whiteside, Hassan",1.70,1.90
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,2,4,11,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",239,36,0,0.90,"Stephenson, Lance",4.10,13.30
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,2,1,20,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",176,0,4,6.40,"Anthony, Carmelo",2.90,13.00
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,2,1,01,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-171,48,1,3.10,"Singler, Kyle",3.30,11.60
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,4,1,02,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",190,45,0,0.10,"Joseph, Cory",3.00,2.00
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,2,3,06,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",206,160,2,0.90,"Antetokounmpo, Giannis",5.60,3.10
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,2,3,41,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-68,235,0,1.20,"Anthony, Carmelo",6.40,21.00
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,2,9,46,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-226,33,0,1.10,"Dedmon, Dewayne",10.80,17.90
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,10,44,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-235,3,0,0.70,"Leonard, Kawhi",5.20,8.30
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,8,54,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-202,0,0,1.20,"Dalembert, Samuel",7.20,14.50
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,5,48,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-62,260,0,0.90,"Gordon, Aaron",12.90,15.00
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,3,6,40,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-243,69,0,1.00,"Crowder, Jae",7.60,16.10
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,3,10,42,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",-10,123,6,7.90,"Duncan, Tim",5.20,16.80
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,1,10,17,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",12,194,1,2.40,"Chalmers, Mario",4.20,20.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,1,3,02,1,"Jump Shot","2PT Field Goal",9,"Boston Celtics",-86,45,5,5.40,"Turner, Evan",0.70,8.50
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,2,6,46,0,"Jump Shot","2PT Field Goal",8,"Boston Celtics",9,86,2,2.20,"Bradley, Avery",2.30,11.50
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,1,11,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",135,197,3,2.60,"Bass, Brandon",4.40,15.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,4,3,59,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-229,33,0,0.90,"Turner, Evan",3.90,11.70
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,1,1,07,1,"Jump Shot","3PT Field Goal",29,"Detroit Pistons",-57,288,2,2.40,"Butler, Caron",5.20,4.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,2,1,41,1,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",97,265,4,6.00,"Singler, Kyle",5.30,18.50
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,7,04,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-164,209,0,1.60,"Butler, Caron",3.80,17.60
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,6,41,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",184,82,2,3.40,"Butler, Caron",7.20,13.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,2,35,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-179,45,1,6.80,"Caldwell-Pope, Kentavious",4.00,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,1,3,08,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",149,99,1,4.00,"Wiggins, Andrew",4.70,15.50
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,2,11,09,1,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",64,33,2,3.40,"Brewer, Corey",2.60,11.50
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,2,7,01,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-177,175,0,0.90,"Muhammad, Shabazz",7.00,8.80
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,2,6,16,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-51,249,1,3.40,"Muhammad, Shabazz",6.70,3.50
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,6,07,1,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",13,74,8,8.30,"Wiggins, Andrew",0.30,14.90
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,0,23,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",-98,260,3,2.70,"Wiggins, Andrew",5.00,21.00
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,1,7,38,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",225,-21,0,0.70,"Anthony, Carmelo",4.80,13.80
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,2,3,57,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",-29,205,8,8.20,"Wear, Travis",5.80,16.20
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,3,6,21,1,"Jump Shot","3PT Field Goal",27,"New York Knicks",-18,271,0,0.80,"Hardaway Jr., Tim",4.60,7.40
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,3,4,45,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",231,-22,0,1.00,"Stoudemire, Amare",14.20,4.00
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,3,28,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",116,135,0,0.80,"Harkless, Maurice",5.00,11.70
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,1,0,50,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-199,149,0,0.90,"Harkless, Maurice",5.30,13.60
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,2,0,00,0,"Jump Shot","3PT Field Goal",58,"Orlando Magic",100,578,1,1.20,"Payton, Elfrid",12.30,0.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,1,7,04,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",36,52,2,1.80,"Morris, Markieff",2.10,10.90
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,2,11,00,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-234,25,1,1.10,"Tucker, PJ",4.70,15.40
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,3,05,1,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",48,0,6,6.40,"Green, Gerald",2.70,9.10
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,1,5,54,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",31,112,2,2.40,"Iguodala, Andre",0.40,18.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,1,4,13,1,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-79,11,0,1.10,"Matthews, Wesley",4.30,4.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,4,37,1,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",34,42,6,8.40,"Freeland, Joel",0.80,8.10
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,0,00,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",92,164,6,3.80,"Kaman, Chris",4.60,0.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,4,1,30,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",105,224,0,0.80,"Matthews, Wesley",6.60,5.90
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,1,5,12,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",-67,269,0,0.90,"Granger, Danny",8.90,19.90
+"Joe Johnson","Brooklyn Nets",2014-11-17,2014,1007,1610612751,400578441,1,4,43,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-10,83,4,3.10,"Granger, Danny",4.50,14.40
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,1,0,09,1,"Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",-32,60,3,2.20,"Dudley, Jared",0.10,3.00
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,3,10,44,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",242,-25,0,0.70,"Antetokounmpo, Giannis",4.50,6.20
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,5,2,30,1,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-38,101,11,11.30,"Antetokounmpo, Giannis",1.80,3.80
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,6,0,00,0,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",51,113,16,18.00,"Antetokounmpo, Giannis",1.50,0.00
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,1,9,58,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",84,175,0,0.70,"Roberson, Andre",9.60,9.20
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,1,7,52,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-76,170,0,0.00,"Ibaka, Serge",4.90,6.20
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,1,7,25,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-237,-16,0,0.90,"Adams, Steven",8.20,13.70
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,1,4,43,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",200,143,0,0.90,"Jones, Perry",10.00,18.60
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,3,10,35,1,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",58,7,1,2.10,"Jones, Perry",3.00,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-21,2014,1007,1610612751,400578470,3,11,47,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-21,238,0,1.00,"Thomas, Lance",12.00,12.90
+"Joe Johnson","Brooklyn Nets",2014-11-21,2014,1007,1610612751,400578470,3,7,55,1,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",1,67,2,1.20,"Thomas, Lance",3.00,13.60
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,3,8,34,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-234,71,0,0.80,"Leonard, Kawhi",7.30,14.60
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,11,24,1,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",-120,231,0,1.00,"Baynes, Aron",8.50,11.60
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,2,7,46,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",65,236,7,7.10,"Butler, Jimmy",4.60,10.10
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,10,12,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-228,-5,0,0.90,"Anthony, Carmelo",4.90,7.00
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,7,04,1,"Jump Shot","2PT Field Goal",12,"New York Knicks",-90,85,1,1.70,"Shumpert, Iman",3.80,8.50
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,4,5,20,1,"Jump Shot","2PT Field Goal",5,"New York Knicks",-59,-5,0,0.60,"Aldrich, Cole",5.20,11.00
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,2,0,12,1,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-128,47,2,1.70,"Carroll, DeMarre",2.50,6.90
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,1,8,53,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",133,47,5,3.60,"Duncan, Tim",5.50,9.90
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,1,5,23,1,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",1,112,3,2.60,"Leonard, Kawhi",1.70,12.20
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,4,0,01,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-106,148,2,1.80,"Duncan, Tim",2.30,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,5,1,54,1,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",47,26,3,6.50,"Leonard, Kawhi",2.30,4.90
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,7,59,1,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-48,89,2,2.00,"Henderson, Gerald",2.60,14.50
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,4,59,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-95,242,0,0.90,"Kidd-Gilchrist, Michael",3.60,14.20
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,2,4,49,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-182,178,0,1.20,"Zeller, Cody",8.60,19.70
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,3,6,59,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",110,230,0,1.20,"Walker, Kemba",20.10,9.50
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,3,6,26,1,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",50,220,1,1.90,"Henderson, Gerald",5.20,8.70
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,3,4,32,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",133,227,0,0.70,"Kidd-Gilchrist, Michael",5.50,6.60
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,2,8,51,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",171,179,0,0.90,"Napier, Shabazz",5.60,8.50
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,3,6,02,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-207,138,0,0.90,"Deng, Luol",6.70,14.80
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,4,6,25,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-231,96,0,0.70,"Deng, Luol",3.50,13.80
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,4,1,01,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",212,137,0,0.80,"Deng, Luol",10.90,19.40
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,4,0,00,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",144,217,1,1.50,"Deng, Luol",3.00,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,2,4,37,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-68,238,0,0.80,"Johnson, James",7.60,1.90
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,1,7,40,1,"Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",-27,15,8,5.90,"Varejao, Anderson",3.50,19.60
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,1,5,28,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-163,206,0,0.80,"Irving, Kyrie",6.60,17.60
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,2,7,08,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-168,192,0,0.70,"James, LeBron",5.10,4.10
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,2,0,11,1,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",121,14,2,2.30,"Irving, Kyrie",2.30,6.50
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,2,0,00,0,"Jump Shot","3PT Field Goal",43,"Cleveland Cavaliers",159,405,1,1.30,"James, LeBron",2.50,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,3,6,57,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",121,228,6,7.10,"Thompson, Tristan",4.20,2.10
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,3,3,20,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",125,143,4,3.90,"Marion, Shawn",3.80,8.40
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,3,2,49,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-221,137,0,0.70,"Marion, Shawn",6.00,13.40
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,4,0,41,1,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-15,274,0,2.00,"Miller, Mike",4.40,20.50
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-207,142,0,0.70,"Jones, James",6.10,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,1,10,45,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",110,225,0,0.60,"Caldwell-Pope, Kentavious",3.70,0.60
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,2,11,39,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-146,118,4,5.80,"Jerebko, Jonas",4.20,6.80
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,2,2,29,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-217,112,0,0.80,"Singler, Kyle",6.00,7.90
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,9,51,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",234,3,0,1.00,"Chandler, Wilson",3.60,24.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,3,22,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",121,153,7,7.50,"Hickson, JJ",4.10,6.50
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,2,1,36,1,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",-51,20,6,5.80,"Afflalo, Arron",0.70,7.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,11,06,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-224,9,0,1.40,"Chandler, Wilson",5.60,14.40
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,4,20,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",236,-6,0,0.60,"Faried, Kenneth",12.70,8.50
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,6,40,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-150,6,2,4.10,"Hickson, JJ",4.80,11.90
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,6,07,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",106,244,0,1.00,"Chandler, Wilson",6.40,12.80
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,1,10,48,1,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",80,80,6,4.90,"Gasol, Pau",6.40,13.90
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,7,16,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-174,-8,0,0.90,"Butler, Jimmy",7.80,11.80
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,6,52,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",184,176,0,0.80,"Butler, Jimmy",6.70,18.30
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,5,52,1,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-16,83,0,0.40,"Snell, Tony",2.70,9.30
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,3,8,36,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-120,149,6,5.20,"Noah, Joakim",4.30,10.20
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,4,11,40,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-160,19,4,5.20,"Mirotic, Nikola",4.20,6.20
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,1,8,17,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-183,164,0,0.80,"Thompson, Jason",6.00,19.90
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,4,8,28,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-116,224,5,4.80,"Casspi, Omri",3.80,6.90
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,1,6,33,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",83,236,6,4.40,"Hill, Solomon",7.20,17.20
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,1,3,11,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",102,230,10,8.00,"Hill, Solomon",4.50,16.20
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,3,1,26,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-232,-14,0,1.10,"Copeland, Chris",4.30,13.70
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,3,0,55,1,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",-57,34,4,5.80,"Stuckey, Rodney",3.20,16.00
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,2,4,21,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-30,137,3,3.30,"Crowder, Jae",3.20,5.00
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,1,8,05,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-101,121,2,2.10,"Harris, Tobias",5.20,8.20
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,3,10,27,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-163,197,0,0.80,"Harris, Tobias",6.30,11.40
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,6,32,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-169,197,0,1.00,"Wade, Dwyane",5.20,8.90
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,2,57,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",192,165,0,0.90,"Deng, Luol",8.30,17.70
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,9,43,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-188,153,0,0.70,"Andersen, Chris",5.60,4.60
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,4,31,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-112,219,3,4.40,"Deng, Luol",6.80,4.00
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,4,2,16,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-54,63,6,6.80,"Granger, Danny",1.80,10.90
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,6,13,1,"Jump Shot","2PT Field Goal",8,"Dallas Mavericks",84,12,2,3.20,"Ellis, Monta",2.40,7.40
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,5,42,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",160,6,3,2.70,"Parsons, Chandler",4.00,12.70
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,3,0,00,0,"Jump Shot","3PT Field Goal",56,"Dallas Mavericks",-142,552,2,1.60,"Rondo, Rajon",6.70,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,6,16,1,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",28,41,4,5.10,"Parsons, Chandler",1.70,11.60
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,2,37,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-226,91,0,0.90,"Parsons, Chandler",5.80,4.90
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,1,42,1,"Jump Shot","3PT Field Goal",29,"Dallas Mavericks",-37,293,0,0.90,"Parsons, Chandler",4.40,6.10
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,0,01,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",1,209,10,9.30,"Jefferson, Richard",2.80,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,2,0,00,0,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-164,6,5,5.80,"Horford, Al",1.60,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,1,10,02,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",135,208,0,0.90,"Teague, Jeff",11.50,21.10
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,1,10,27,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,9,0,0.90,"Carroll, DeMarre",6.00,6.60
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,4,6,58,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-21,257,1,3.10,"Millsap, Paul",7.10,11.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,2,4,33,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",125,216,0,0.80,"Carroll, DeMarre",4.70,13.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,2,0,56,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-150,22,0,2.30,"Teague, Jeff",2.20,2.30
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,1,7,10,1,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",185,0,0,0.90,"Carroll, DeMarre",3.80,16.10
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,4,6,05,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-201,165,0,0.80,"Kidd-Gilchrist, Michael",3.10,7.80
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,4,7,37,1,"Jump Shot","2PT Field Goal",3,"Utah Jazz",2,31,6,6.90,"Hood, Rodney",0.90,14.40
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,1,5,01,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",237,7,0,0.70,"Gay, Rudy",6.90,9.00
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,4,5,31,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-150,206,0,0.90,"Kidd-Gilchrist, Michael",3.10,6.60
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,4,1,57,1,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-224,-13,0,0.80,"Black, Tarik",5.60,9.60
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,4,3,10,1,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",15,72,4,8.50,"Singler, Kyle",1.60,6.40
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,4,3,56,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",39,12,4,5.70,"Singler, Kyle",0.50,7.80
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,1,1,22,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",223,-14,0,1.30,"Hayward, Gordon",11.20,19.20
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,1,9,12,1,"Jump Shot","2PT Field Goal",8,"Utah Jazz",58,58,6,4.70,"Exum, Dante",3.20,12.00
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,3,9,25,1,"Jump Shot","2PT Field Goal",13,"Utah Jazz",91,97,1,1.30,"Hayward, Gordon",6.80,5.00
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,2,0,58,0,"Jump Shot","2PT Field Goal",9,"Utah Jazz",92,1,0,0.60,"Hayward, Gordon",6.40,9.60
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,1,5,07,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-67,230,0,0.90,"Exum, Dante",5.10,13.70
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,1,0,41,0,"Jump Shot","2PT Field Goal",8,"Utah Jazz",75,28,1,1.50,"Millsap, Elijah",1.70,7.50
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,4,9,44,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",12,52,4,4.80,"Millsap, Elijah",1.20,9.60
+"Joe Johnson","Brooklyn Nets",2015-03-08,2014,1007,1610612751,400579225,1,7,24,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-164,69,0,1.00,"Gobert, Rudy",9.30,14.40
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,1,8,46,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",83,91,0,4.40,"Johnson, Wesley",3.70,16.00
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,3,3,41,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",165,47,0,0.90,"Green, Jeff",4.30,1.50
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,2,0,26,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",149,200,0,1.00,"Conley, Mike",5.90,13.30
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,3,0,32,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-187,167,0,0.90,"Stephenson, Lance",6.70,2.80
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,2,3,33,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-164,195,3,2.80,"Butler, Caron",3.50,6.00
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,9,58,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",-209,189,0,0.90,"Mayo, O.J.",3.10,8.50
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,2,1,11,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",-9,80,3,6.90,"Dudley, Jared",3.50,7.60
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,1,2,41,1,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",149,112,1,1.40,"Antetokounmpo, Giannis",5.10,13.00
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,4,22,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",78,34,3,6.50,"Dudley, Jared",4.40,8.60
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,1,5,26,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",151,22,2,5.10,"Henson, John",3.70,2.30
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,1,3,24,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",237,77,0,0.80,"Mayo, O.J.",4.70,14.50
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,2,9,03,1,"Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",54,26,5,5.80,"Dudley, Jared",2.00,3.60
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,2,3,50,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-232,94,0,0.70,"Henson, John",7.30,10.20
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,5,59,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-235,94,0,0.70,"Middleton, Khris",4.00,15.40
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,1,8,07,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",58,89,3,3.50,"Kidd-Gilchrist, Michael",2.40,15.90
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,3,6,43,1,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",-109,37,1,2.30,"Singler, Kyle",3.20,6.20
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,1,8,01,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-204,148,0,0.80,"Singler, Kyle",3.80,15.30
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,3,4,33,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-177,176,0,0.90,"Black, Tarik",5.50,15.20
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,4,4,45,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",234,6,0,1.00,"Hill, Jordan",5.90,6.90
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,1,55,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-70,249,0,1.00,"Kelly, Ryan",7.50,17.90
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,3,4,00,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-234,67,0,0.70,"Singler, Kyle",4.60,15.00
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,3,6,25,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",91,257,3,3.50,"Hollins, Ryan",5.20,8.40
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,1,2,31,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",119,224,7,6.20,"Ennis, James",5.70,17.30
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,4,7,10,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",111,164,0,0.00,"Vasquez, Greivis",5.40,24.00
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,2,4,21,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",127,105,8,9.10,"Ilyasova, Ersan",3.70,7.10
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,4,26,0,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",-106,60,1,2.90,"Singler, Kyle",3.80,14.20
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,3,2,22,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-7,247,0,1.00,"Black, Tarik",7.80,11.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,10,39,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-224,0,0,1.00,"Chandler, Wilson",9.50,17.60
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,4,3,12,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",230,-11,0,0.60,"Leonard, Kawhi",3.30,1.90
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,3,10,34,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",61,119,5,4.60,"James, LeBron",6.10,17.20
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,4,6,09,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-153,116,4,2.40,"Butler, Jimmy",1.80,2.60
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,0,32,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",187,162,0,1.30,"Kelly, Ryan",7.60,18.00
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,3,4,09,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-131,208,0,1.20,"Kelly, Ryan",7.50,19.50
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,1,1,52,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",100,228,0,1.50,"Johnson, Wesley",2.20,10.30
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,1,39,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-209,160,0,2.50,"Caldwell-Pope, Kentavious",3.10,24.00
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,4,5,49,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-213,129,0,0.90,"Jefferson, Richard",2.90,10.10
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,10,02,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-235,36,0,1.20,"Green, Jeff",15.10,14.00
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,5,44,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-196,9,0,4.30,"Whiteside, Hassan",5.20,15.70
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,4,59,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",154,217,0,0.00,"Temple, Garrett",8.40,24.00
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,2,6,02,1,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",37,47,2,4.10,"Lee, Courtney",2.90,14.20
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,1,0,23,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",-29,33,15,10.80,"Turner, Evan",0.00,6.80
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,4,3,51,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",143,190,0,0.90,"Larkin, Shane",5.20,19.10
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,3,0,53,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-226,102,0,0.80,"Barnes, Matt",6.20,15.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,10,31,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",173,30,0,0.80,"Johnson, Amir",5.80,14.30
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,4,3,02,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",12,44,4,5.10,"Smart, Marcus",0.20,6.90
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,4,3,23,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",-4,71,3,5.60,"Gay, Rudy",2.70,8.50
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,3,4,29,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-223,-10,0,0.70,"Deng, Luol",3.10,5.00
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,4,3,32,1,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-90,82,3,3.40,"Green, Jeff",4.70,8.40
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,4,6,42,1,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-100,69,4,4.60,"Randolph, Zach",5.20,4.60
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,1,5,41,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-122,238,2,3.30,"Harris, Tobias",1.30,2.40
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,1,9,52,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",228,0,0,1.50,"Hibbert, Roy",15.80,7.40
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,2,6,05,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",53,170,11,9.70,"Thompson, Tristan",3.60,6.70
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,1,7,17,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",122,211,3,4.50,"Ariza, Trevor",3.80,3.60
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,1,10,53,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-65,143,2,2.10,"James, LeBron",8.50,15.50
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,1,8,34,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",121,80,8,7.70,"Green, Draymond",4.10,6.20
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,4,4,39,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-191,162,0,1.00,"Smith, Josh",7.60,20.50
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,2,3,20,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-224,97,0,0.90,"Motiejunas, Donatas",7.90,12.00
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,4,5,40,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",195,164,0,0.90,"Smith, Josh",6.70,3.40
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,3,10,48,0,"Jump Shot","2PT Field Goal",12,"Houston Rockets",100,80,1,1.40,"Howard, Dwight",5.10,7.80
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,3,10,21,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",103,135,2,3.20,"Bogut, Andrew",6.00,17.50
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,3,11,43,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",157,190,0,0.80,"Green, Draymond",4.70,6.20
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,4,5,12,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-2,246,4,5.20,"Thompson, Klay",3.70,3.40
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,3,7,49,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",9,66,2,4.50,"Green, Draymond",1.90,11.80
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,4,0,46,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-209,123,6,4.10,"Smith, Jason",5.40,4.40
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,3,7,05,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-194,173,0,1.10,"Thompson, Hollis",18.70,17.70
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,4,9,07,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",230,61,0,0.80,"Aminu, Al-Farouq",6.40,6.10
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,4,7,10,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",141,206,0,0.70,"Aminu, Al-Farouq",7.80,5.90
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,4,4,12,1,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-62,15,1,3.90,"Harris, Devin",0.30,10.10
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,3,10,26,1,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-4,115,2,2.20,"Ellis, Monta",2.40,16.60
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,3,5,06,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",230,36,0,1.00,"Jefferson, Richard",6.40,9.80
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,1,2,51,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",106,224,7,9.70,"Aminu, Al-Farouq",4.30,2.60
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,1,3,37,0,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",24,36,3,3.00,"Jefferson, Richard",0.80,14.90
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,3,9,01,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",182,160,0,0.90,"Barea, Jose Juan",11.20,18.00
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,2,5,30,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",144,216,0,1.10,"Jefferson, Richard",6.30,12.10
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,3,10,51,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,23,0,0.90,"Rondo, Rajon",8.90,8.90
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,2,2,18,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",230,25,0,0.80,"Mbah a Moute, Luc",5.00,8.60
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,3,11,12,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",177,30,0,1.00,"Noel, Nerlens",6.50,18.60
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,1,7,51,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-155,74,1,1.50,"Irving, Kyrie",4.60,19.20
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,2,2,01,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-46,252,0,0.80,"DeRozan, DeMar",6.60,8.10
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,2,1,24,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",45,205,7,6.10,"DeRozan, DeMar",3.80,6.60
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,1,8,33,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",231,82,0,0.80,"Lowry, Kyle",1.90,8.50
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,4,0,30,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-127,219,6,4.60,"Pierce, Paul",4.30,17.40
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,11,39,1,"Jump Shot","2PT Field Goal",20,"Washington Wizards",138,145,13,10.20,"Seraphin, Kevin",4.60,6.40
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,1,4,38,0,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",37,127,3,3.80,"Kidd-Gilchrist, Michael",3.70,3.10
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,4,6,54,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-212,123,0,0.80,"Vasquez, Greivis",5.80,14.20
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,4,7,53,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",198,175,0,0.90,"Williams, Lou",5.40,4.70
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,1,2,40,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-141,108,1,4.80,"Johnson, James",4.30,8.60
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,1,7,12,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-123,217,0,1.60,"Thomas, Lance",3.70,3.90
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,2,32,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",-71,-2,6,7.60,"Butler, Rasual",2.90,4.40
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,2,1,25,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-224,-8,0,1.40,"Smith, J.R.",7.20,7.30
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,7,15,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",-4,61,0,0.10,"Butler, Rasual",2.10,4.40
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,2,6,02,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-120,220,0,0.80,"Acy, Quincy",6.30,13.10
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,1,3,24,1,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",-45,39,2,2.10,"McDaniels, KJ",0.70,4.70
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,2,8,44,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-78,153,2,2.60,"Smith, Jason",5.50,4.70
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,2,0,00,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",61,209,0,0.00,"McDaniels, KJ",13.60,0.00
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,4,3,55,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",141,107,0,5.00,"Butler, Rasual",3.60,6.50
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,4,5,41,1,"Jump Shot","2PT Field Goal",7,"Boston Celtics",-35,71,8,6.60,"Crowder, Jae",3.00,11.90
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,1,6,42,0,"Jump Shot","2PT Field Goal",6,"Boston Celtics",-37,58,7,5.70,"Turner, Evan",1.80,4.20
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,2,1,50,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-198,143,0,0.80,"Crowder, Jae",6.10,19.90
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,4,2,22,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",177,160,0,1.00,"Crowder, Jae",4.00,14.90
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,4,3,50,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-16,183,1,4.10,"Crowder, Jae",7.70,14.30
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,1,11,09,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-171,168,0,0.90,"Turner, Evan",4.70,19.00
+"Joe Johnson","Brooklyn Nets",2015-04-04,2014,1007,1610612751,400579430,3,7,21,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",226,104,0,0.80,"Carroll, DeMarre",5.70,13.90
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,1,4,47,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",193,-17,0,0.90,"Pierce, Paul",7.60,12.40
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,1,2,28,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",77,242,10,7.90,"Gortat, Marcin",4.70,4.60
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,1,5,08,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-185,53,13,11.80,"Pierce, Paul",5.20,12.70
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,3,4,03,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",138,9,2,2.50,Nene,4.00,9.50
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,1,10,19,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",-109,78,5,4.70,"Pierce, Paul",2.00,9.10
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,2,15,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",72,239,0,0.90,"Pierce, Paul",3.40,14.00
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,3,2,09,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",184,183,0,0.60,"Pierce, Paul",4.30,5.50
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,7,18,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",32,67,3,4.70,"Butler, Rasual",2.00,4.60
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,1,8,23,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",176,6,0,0.70,"Pierce, Paul",4.30,6.80
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,3,7,05,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-234,44,0,0.80,"Antetokounmpo, Giannis",6.10,8.00
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,2,1,13,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",103,74,1,2.50,"McDaniels, KJ",3.40,3.00
+"Joe Johnson","Brooklyn Nets",2015-04-10,2014,1007,1610612751,400579469,3,0,07,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-169,179,0,0.80,"Gooden, Drew",3.90,6.50
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,3,6,54,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-161,26,9,9.50,"Lopez, Robin",4.40,2.00
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-93,225,0,1.00,"Green, Jeff",2.70,0.00
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,2,4,58,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",37,1,7,5.00,"Blake, Steve",1.70,14.20
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,3,10,07,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",1,131,4,4.20,"Lillard, Damian",1.30,9.70
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,2,5,17,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",244,0,0,0.80,"Afflalo, Arron",6.60,1.60
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,2,1,17,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",32,85,10,8.30,"Afflalo, Arron",2.00,9.50
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,1,0,57,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-164,208,0,0.80,"Afflalo, Arron",6.20,13.80
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,4,6,02,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",187,172,0,0.90,"Afflalo, Arron",5.20,14.10
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,1,0,24,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",18,146,13,10.60,"Thomas, Malcolm",4.30,14.40
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,10,09,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-194,156,0,0.90,"Green, Jeff",6.40,11.10
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,1,7,51,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",143,143,0,0.90,"Pierce, Paul",4.90,18.00
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,2,0,07,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-229,-21,0,0.90,"Horford, Al",16.50,4.00
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,1,4,02,1,"Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",-24,31,2,2.20,"Shumpert, Iman",3.30,19.70
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,4,2,48,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-213,148,0,0.90,"Mbah a Moute, Luc",5.70,4.10
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,2,6,20,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-229,58,0,0.80,"Green, Jeff",7.80,14.00
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,1,5,24,0,"Jump Shot","2PT Field Goal",6,"Miami Heat",6,69,7,5.80,"Dragic, Goran",2.30,16.90
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,3,9,13,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",231,34,0,0.80,"Wade, Dwyane",9.40,15.60
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,3,9,27,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",173,187,0,1.00,"Deng, Luol",9.20,9.90
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,3,1,55,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-166,189,3,3.80,"Haslem, Udonis",5.20,2.40
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,3,3,31,0,"Jump Shot","2PT Field Goal",10,"Miami Heat",67,75,3,4.90,"Deng, Luol",2.20,13.40
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,2,6,28,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-155,190,0,1.00,"Covington, Robert",5.70,11.90
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,1,9,43,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",149,197,0,1.00,"Mbah a Moute, Luc",7.30,7.50
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,1,5,17,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",241,6,0,0.90,"Irving, Kyrie",5.70,18.80
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,1,9,50,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",209,134,0,0.90,"Irving, Kyrie",11.00,9.80
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,2,9,07,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-4,48,1,1.20,"Shumpert, Iman",1.80,14.80
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,1,5,19,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-232,4,0,0.80,"Carter-Williams, Michael",3.70,18.60
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,6,0,18,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-209,121,0,0.90,"Antetokounmpo, Giannis",5.90,16.20
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,7,0,24,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-112,138,22,18.40,"Middleton, Khris",2.30,4.70
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,5,0,00,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",9,142,17,15.00,"Middleton, Khris",2.00,0.00
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,3,11,26,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-65,242,0,0.90,"Antetokounmpo, Giannis",13.00,6.00
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,2,6,12,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",234,12,0,0.80,"Middleton, Khris",6.10,15.50
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,4,1,19,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",179,168,0,0.80,"Antetokounmpo, Giannis",8.90,14.30
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,5,4,10,1,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",-89,176,7,9.70,"Ilyasova, Ersan",4.50,7.40
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,2,8,46,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",97,115,3,2.80,"Middleton, Khris",4.50,11.40
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,4,11,41,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",129,48,9,6.30,"Noel, Nerlens",4.40,7.90
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,2,2,06,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-217,113,3,4.70,"Mozgov, Timofey",7.20,15.30
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,5,0,54,0,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",67,83,4,3.20,"Ilyasova, Ersan",2.10,10.10
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,1,4,51,0,"Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",40,69,5,4.20,"Antetokounmpo, Giannis",0.00,1.10
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,7,2,03,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-90,108,4,2.90,"Middleton, Khris",3.50,4.70
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,3,9,30,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-150,197,0,0.70,"Antetokounmpo, Giannis",4.80,11.40
+"Joe Johnson","Brooklyn Nets",2015-03-20,2014,1007,1610612751,400579314,5,3,22,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",105,154,6,5.60,"Pachulia, Zaza",5.10,7.00
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,3,7,11,1,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-4,44,2,2.10,"Carter-Williams, Michael",1.00,9.80
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,3,5,28,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-43,157,3,3.90,"Thomas, Malcolm",5.50,7.30
+"Joe Johnson","Brooklyn Nets",2015-04-10,2014,1007,1610612751,400579469,1,8,29,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-234,-8,0,0.70,"Pierce, Paul",7.30,13.60
+"Joe Johnson","Brooklyn Nets",2015-04-10,2014,1007,1610612751,400579469,2,7,09,1,"Jump Shot","2PT Field Goal",5,"Washington Wizards",42,36,1,2.30,"Beal, Bradley",2.30,11.80
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,2,0,34,1,"Jump Shot","3PT Field Goal",26,"New York Knicks",196,172,0,0.70,"Thomas, Lance",7.00,6.50
+"Joe Johnson","Brooklyn Nets",2015-04-01,2014,1007,1610612751,,4,8,30,1,"Jump Shot","3PT Field Goal",26,"New York Knicks",-89,246,0,0.90,"Acy, Quincy",6.20,8.80
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,2,4,05,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",165,179,0,1.70,"Covington, Robert",3.60,17.20
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,1,2,00,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-136,113,10,8.50,"Cunningham, Dante",2.50,2.20
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,4,1,08,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",56,42,5,5.20,"Covington, Robert",2.30,8.00
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,3,5,45,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-231,60,0,0.80,"Pondexter, Quincy",7.60,5.10
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,1,5,55,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",173,172,0,1.10,"Pondexter, Quincy",10.40,10.70
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,4,4,30,1,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-30,28,1,2.30,"Pondexter, Quincy",1.40,12.70
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,4,3,55,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-177,187,6,5.90,"Cunningham, Dante",4.10,9.10
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,1,0,41,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-235,-5,0,0.90,"Cunningham, Dante",7.60,11.00
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,3,11,15,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-116,112,8,6.50,"Pierce, Paul",3.60,18.00
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,4,2,56,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-18,263,2,2.90,"Shumpert, Iman",3.70,4.20
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,4,0,46,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",-82,225,0,0.80,"Thompson, Tristan",8.00,7.80
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,1,7,06,1,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",29,48,1,1.90,"Mozgov, Timofey",3.00,18.10
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,2,5,38,1,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",20,41,4,5.00,"Shumpert, Iman",0.00,8.00
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,3,8,39,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",45,134,11,9.70,"James, LeBron",2.30,8.00
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,2,10,57,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-223,-13,0,0.90,"James, LeBron",13.50,8.80
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,1,8,33,0,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",78,69,12,10.10,"Hill, Solomon",2.60,14.10
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,4,5,52,0,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",136,53,5,6.40,"Hill, Solomon",1.90,4.70
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,2,0,47,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-229,-2,0,0.70,"Hill, Solomon",6.30,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,1,10,32,1,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",32,121,7,5.40,"Hill, Solomon",1.80,11.90
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,4,7,20,1,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",69,123,14,12.10,"Hill, Solomon",3.70,12.50
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,1,8,11,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",170,189,0,0.90,"Hill, Solomon",6.40,20.00
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,3,10,43,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-7,186,2,4.00,"Hill, George",5.10,13.00
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,4,56,1,"Jump Shot","2PT Field Goal",23,"Orlando Magic",-112,201,6,7.50,"Nicholson, Andrew",4.20,4.00
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,4,2,47,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-175,164,15,13.20,"Noel, Nerlens",6.50,1.20
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,3,4,02,0,"Jump Shot","2PT Field Goal",13,"Milwaukee Bucks",-98,96,2,2.30,"Antetokounmpo, Giannis",4.80,8.40
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,3,8,52,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-224,-24,0,1.40,"Ilyasova, Ersan",22.10,13.60
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,2,5,23,1,"Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-87,45,3,2.20,"Dudley, Jared",3.50,3.20
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,4,5,54,0,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-38,105,3,2.40,"Harris, Devin",1.30,8.10
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,4,1,14,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-231,-5,0,0.90,"Thompson, Hollis",7.30,7.30
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,1,7,27,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",197,142,0,1.00,"Carter-Williams, Michael",7.70,14.90
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,9,40,1,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",2,93,4,5.00,"Mbah a Moute, Luc",1.50,10.90
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,1,25,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-209,164,0,1.40,"Thompson, Hollis",5.90,9.90
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,10,09,1,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",184,201,0,0.90,"Mbah a Moute, Luc",17.70,19.80
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,11,43,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",39,7,3,3.60,"Carter-Williams, Michael",2.50,8.50
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,5,23,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",130,44,5,5.60,"Davies, Brandon",2.90,9.40
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,2,2,34,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-215,160,0,0.80,"Antetokounmpo, Giannis",5.70,7.00
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,2,14,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",132,235,0,0.80,"Gordon, Aaron",9.40,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,2,2,21,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",236,26,0,1.30,"Smith, J.R.",1.70,19.80
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,2,1,34,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-231,1,0,0.80,"Ilyasova, Ersan",9.90,9.00
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,1,10,18,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",26,140,1,3.40,"Turner, Evan",4.30,12.00
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,1,9,56,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-13,63,0,0.50,"Williams, Marvin",3.20,15.10
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,2,0,03,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-133,134,5,5.20,"Henderson, Gerald",4.20,2.20
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,1,8,43,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-106,224,0,1.00,"Kidd-Gilchrist, Michael",3.80,7.20
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,1,2,14,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",228,88,0,1.50,"Shumpert, Iman",20.70,12.70
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,1,2,46,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",173,0,8,5.60,Nene,7.20,6.10
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,4,8,33,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-223,42,0,0.70,"Miller, Andre",5.50,22.90
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,2,3,25,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",155,58,5,5.30,"Pierce, Paul",3.00,10.70
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,2,10,42,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",42,53,10,7.60,"Butler, Rasual",0.10,15.70
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,2,5,49,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-34,31,11,8.90,"Porter, Otto",1.60,15.30
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,4,9,00,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-201,47,2,1.30,"Porter, Otto",4.40,2.20
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,3,10,37,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-5,272,0,1.00,"Pachulia, Zaza",6.80,3.20
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,2,59,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",1,44,2,5.30,"Zeller, Tyler",2.40,5.60
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,1,6,42,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",225,41,0,1.00,"Green, Jeff",5.40,3.40
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,1,10,38,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-235,91,0,1.00,"Green, Jeff",3.90,3.60
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,4,5,46,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",177,168,0,0.80,"Crowder, Jae",5.00,13.60
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,4,2,52,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-221,108,0,0.80,"Green, Jeff",6.10,10.70
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,9,47,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",225,113,0,1.20,"LaVine, Zach",3.60,11.70
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,8,02,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-232,37,0,0.30,"Wiggins, Andrew",8.50,12.80
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,1,05,1,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",129,175,0,0.90,"Budinger, Chase",11.80,16.80
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,9,16,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",149,192,0,1.10,"Wiggins, Andrew",6.50,9.60
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,11,16,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-224,105,0,0.70,"Wiggins, Andrew",6.10,9.00
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,2,28,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-191,173,0,0.80,"Budinger, Chase",4.80,6.30
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,1,4,00,1,"Jump Shot","3PT Field Goal",27,"Orlando Magic",-160,228,0,0.80,"Oladipo, Victor",3.70,4.80
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,7,51,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",113,178,13,10.70,"O'Quinn, Kyle",4.50,10.40
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,1,5,42,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",140,157,1,1.20,"Gordon, Aaron",5.00,14.70
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,2,9,05,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-4,250,0,0.90,"Oladipo, Victor",5.20,6.70
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,11,22,0,"Jump Shot","2PT Field Goal",14,"Orlando Magic",65,129,9,10.00,"Harkless, Maurice",4.50,6.20
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,8,10,1,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",48,66,2,2.00,"Horford, Al",3.70,8.40
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,2,5,06,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-89,230,0,0.90,"Carroll, DeMarre",4.40,16.00
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,2,4,18,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",162,200,0,0.80,"Teague, Jeff",6.00,13.40
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,1,4,42,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",228,-28,0,1.00,"Carroll, DeMarre",15.40,14.80
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,3,14,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",141,195,0,1.00,"Muscala, Mike",9.00,19.60
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,2,8,26,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-86,242,5,5.20,"Bazemore, Kent",5.90,19.40
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,3,6,06,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",236,-27,0,0.60,"Korver, Kyle",5.30,10.40
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,10,47,1,"Jump Shot","2PT Field Goal",9,"Houston Rockets",64,75,0,1.10,"Ariza, Trevor",3.50,8.60
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,3,8,39,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",105,236,3,3.80,"Jones, Terrence",4.30,10.80
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,1,4,15,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-157,190,0,1.10,"Jones, Terrence",6.50,8.10
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,2,5,45,0,"Jump Shot","2PT Field Goal",10,"Houston Rockets",-48,88,2,2.80,"Motiejunas, Donatas",2.70,9.80
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,1,2,00,1,"Jump Shot","2PT Field Goal",7,"Chicago Bulls",-79,0,2,1.80,"Butler, Jimmy",1.50,10.80
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,1,3,20,1,"Jump Shot","2PT Field Goal",5,"Chicago Bulls",-11,55,5,6.10,"Butler, Jimmy",1.80,2.60
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,1,2,35,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-232,102,0,1.10,"Butler, Jimmy",9.80,11.30
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,3,0,17,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-48,189,15,13.50,"Gibson, Taj",4.70,10.40
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,11,43,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-128,228,0,0.90,"Henderson, Gerald",7.10,12.10
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,2,9,01,1,"Jump Shot","2PT Field Goal",12,"Utah Jazz",-120,3,4,3.90,"Millsap, Elijah",2.00,10.00
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,1,5,37,0,"Jump Shot","2PT Field Goal",22,"Utah Jazz",31,220,2,3.40,"Kanter, Enes",6.60,12.30
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,3,6,56,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",127,126,5,5.70,"Kanter, Enes",4.00,14.00
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,2,4,42,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-237,-6,0,1.00,"Griffin, Blake",3.90,4.00
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,3,9,55,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",218,110,0,0.60,"Gay, Rudy",4.50,7.80
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,6,45,1,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",45,7,2,2.80,"Cousins, DeMarcus",2.20,6.50
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,8,48,1,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",29,33,0,0.00,"Sessions, Ramon",3.40,24.00
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,4,1,11,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-70,242,0,0.80,"Cousins, DeMarcus",4.70,5.80
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,1,8,02,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-188,157,0,1.00,"Wiggins, Andrew",5.40,12.30
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,0,34,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-8,265,3,2.80,"Pierce, Paul",9.40,7.70
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,1,8,02,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",4,211,4,3.80,"Green, Jeff",7.10,14.50
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,1,7,19,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-187,154,0,1.00,"Millsap, Paul",10.60,15.80
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,2,50,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",-76,39,3,3.10,"Collison, Darren",0.60,5.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,1,10,56,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",75,9,3,3.70,"Matthews, Wesley",1.40,13.60
+"Joe Johnson","Brooklyn Nets",2014-11-21,2014,1007,1610612751,400578470,1,7,35,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",1,249,0,0.80,"Ibaka, Serge",6.20,6.70
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,1,9,49,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-232,-3,0,0.90,"Henson, John",7.00,12.80
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,1,2,39,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-98,149,6,5.40,"Joseph, Cory",3.10,8.00
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,4,0,30,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-81,241,0,0.90,"Millsap, Paul",5.90,18.60
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,4,17,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",-152,108,4,2.30,"Wiggins, Andrew",4.10,13.00
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,2,4,41,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-75,184,3,2.80,"Diaw, Boris",3.50,12.70
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,3,5,57,0,"Jump Shot","2PT Field Goal",8,"New York Knicks",-57,60,12,10.00,"Hardaway Jr., Tim",2.90,13.80
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,9,33,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",48,30,11,7.80,"Chandler, Wilson",1.80,15.50
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,2,7,21,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",72,176,1,3.50,"Millsap, Elijah",8.20,16.30
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,3,7,47,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-150,121,6,6.80,"Parsons, Chandler",3.50,7.80
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,1,6,30,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",70,249,0,1.00,"Knight, Brandon",6.40,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-21,2014,1007,1610612751,400578470,4,0,25,0,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",-30,55,20,16.90,"Roberson, Andre",1.90,5.90
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,6,55,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-209,126,0,0.00,"Green, Jeff",1.90,24.00
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,3,8,43,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-234,31,0,0.80,"Harris, Tobias",4.50,8.40
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,3,8,31,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-71,172,11,10.90,"Bosh, Chris",2.80,11.40
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,2,0,07,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-166,181,4,2.50,"Green, Danny",5.10,2.70
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,4,2,48,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-155,80,2,4.50,"Mirotic, Nikola",4.00,7.90
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,4,7,45,0,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",58,93,7,5.10,"Casspi, Omri",3.40,8.70
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,2,6,15,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-215,102,0,1.20,"Copeland, Chris",3.70,8.40
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,2,16,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-157,208,6,5.80,"Thomas, Lance",3.70,5.60
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,2,3,10,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",225,69,0,1.10,"Hayward, Gordon",7.20,9.80
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,4,0,50,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",231,1,0,0.80,"Lopez, Robin",6.30,19.30
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,5,47,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",231,93,0,0.80,"Acy, Quincy",12.90,10.50
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,0,22,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-95,252,9,6.50,"Caldwell-Pope, Kentavious",1.40,1.70
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,2,5,33,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-229,-22,0,1.00,"Deng, Luol",8.60,15.30
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,4,5,42,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",132,1,2,3.10,"Wade, Dwyane",2.50,8.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,2,3,47,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-7,36,7,6.90,"Caldwell-Pope, Kentavious",1.90,17.50
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,1,4,57,0,"Jump Shot","2PT Field Goal",7,"Chicago Bulls",59,50,13,9.80,"Butler, Jimmy",2.80,15.10
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,0,15,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-127,96,15,15.10,"Monroe, Greg",4.50,6.60
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,1,10,06,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-155,34,2,4.90,"Hayward, Gordon",0.00,9.70
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,2,0,42,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-139,102,4,5.40,"Duncan, Tim",8.30,5.20
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,4,1,41,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",-5,47,4,7.00,"Green, Jeff",2.10,6.40
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,1,2,13,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-155,61,1,4.70,"Anthony, Carmelo",5.50,6.50
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,1,11,37,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-163,195,0,0.90,"Green, Jeff",3.70,5.00
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,4,11,39,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-235,89,0,1.10,"Hardaway Jr., Tim",4.10,21.60
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,5,17,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-157,214,0,0.80,"Butler, Caron",4.70,7.30
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,3,9,27,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",42,99,5,5.20,"Henderson, Gerald",2.70,10.90
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,2,5,48,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",228,33,0,0.80,"James, LeBron",4.80,11.40
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,4,7,59,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-183,184,0,1.10,"Early, Cleanthony",6.00,7.70
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,8,22,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",43,75,6,5.20,"Butler, Rasual",3.10,18.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,7,45,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",20,257,0,0.80,"Caldwell-Pope, Kentavious",3.90,2.40
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,3,10,57,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",95,230,0,1.10,"Crawford, Jamal",7.60,8.10
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,1,4,27,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",234,36,0,0.60,"Harris, Tobias",4.90,7.80
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,2,48,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-205,4,0,1.10,"Butler, Jimmy",6.50,12.70
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,4,5,37,0,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-48,50,3,5.40,"Dragic, Goran",1.50,5.90
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,1,10,16,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-142,99,1,1.30,"Antetokounmpo, Giannis",4.90,13.90
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,4,1,45,0,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-84,102,8,7.20,"Bazemore, Kent",1.90,15.90
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,4,5,55,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",24,246,1,2.10,"Bazemore, Kent",4.60,1.50
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,4,5,03,0,"Jump Shot","2PT Field Goal",14,"Orlando Magic",-2,148,3,2.60,"Gordon, Aaron",3.50,17.60
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,3,9,22,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-133,222,14,11.50,"Gay, Rudy",7.80,6.20
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,4,58,0,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",-23,23,5,4.00,"Middleton, Khris",1.90,5.90
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,1,3,20,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",234,3,0,0.80,"Leonard, Kawhi",4.40,13.00
+"Joe Johnson","Brooklyn Nets",2014-12-29,2014,1007,1610612751,400578753,1,9,19,0,"Jump Shot","3PT Field Goal",29,"Sacramento Kings",13,293,0,1.20,"Collison, Darren",4.50,2.60
+"Joe Johnson","Brooklyn Nets",2014-12-21,2014,1007,1610612751,400578695,4,4,26,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",1,69,3,5.90,"Caldwell-Pope, Kentavious",1.30,7.70
+"Joe Johnson","Brooklyn Nets",2015-02-09,2014,1007,1610612751,400579070,4,2,56,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-234,-10,0,0.70,"Middleton, Khris",4.00,12.00
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,2,10,06,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",2,61,9,7.10,"Kidd-Gilchrist, Michael",1.50,3.20
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,1,2,55,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-15,168,13,11.30,"Robinson, Thomas",6.90,5.00
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,3,3,21,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",130,154,6,5.10,"Patterson, Patrick",5.10,15.00
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,2,1,35,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",73,255,0,1.00,"Singler, Kyle",5.10,5.30
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,1,3,16,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-229,30,0,0.90,"Singler, Kyle",6.00,3.30
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,1,10,30,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",-8,58,1,1.80,"Singler, Kyle",2.60,9.60
+"Joe Johnson","Brooklyn Nets",2015-01-10,2014,1007,1610612751,400578843,4,1,30,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",135,236,4,3.30,"Singler, Kyle",4.60,10.60
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,3,9,39,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",181,172,0,0.90,"Kelly, Ryan",7.20,15.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,3,8,12,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-193,156,0,0.70,"Kelly, Ryan",5.80,14.30
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,1,10,50,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",125,219,0,1.20,"Kelly, Ryan",5.00,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,3,5,10,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-158,195,0,1.10,"Davis, Ed",8.10,9.80
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,1,6,47,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",100,107,9,8.30,"Sacre, Robert",4.70,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,3,0,33,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",200,151,0,0.80,"Davis, Ed",7.00,17.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,1,10,14,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-229,9,1,1.10,"Sacre, Robert",9.80,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,2,3,04,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",-37,28,8,6.90,"Sacre, Robert",0.40,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,2,4,31,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",125,211,0,1.00,"Ellington, Wayne",7.30,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,4,4,32,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-101,78,1,1.70,"Young, Nick",2.70,4.50
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,2,4,20,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",6,183,3,4.60,"Ross, Terrence",3.00,14.80
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,3,11,21,1,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",228,19,0,0.90,"Morris, Marcus",5.50,9.70
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,8,06,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-30,254,2,4.20,"Lawson, Ty",12.70,12.40
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,5,3,05,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",89,82,4,5.30,"Tucker, PJ",4.30,9.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,2,0,34,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-232,89,0,0.80,"Tucker, PJ",4.60,12.00
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,8,15,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",174,186,10,10.70,"Cunningham, Dante",6.50,12.20
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,1,11,06,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",-7,96,4,3.60,"Pondexter, Quincy",1.30,5.70
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,1,8,35,1,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",146,56,0,0.70,"Cunningham, Dante",7.70,18.20
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,6,51,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",2,97,8,6.50,"Pondexter, Quincy",2.20,13.20
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,4,0,43,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",91,242,0,0.90,"Cunningham, Dante",6.60,19.00
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,9,55,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",223,123,0,1.20,"Evans, Tyreke",0.00,7.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,1,7,37,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-199,156,0,1.00,"Morris, Marcus",6.10,7.50
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,5,0,07,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-60,244,3,3.20,"Tucker, PJ",4.90,0.00
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,1,7,12,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",110,112,3,5.20,"Cunningham, Dante",2.90,4.50
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,7,40,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",133,216,1,2.70,"Cunningham, Dante",4.40,6.50
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,2,7,03,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-108,222,2,4.30,"Cunningham, Dante",8.60,9.90
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,3,5,33,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",43,162,7,8.80,"Asik, Omer",5.30,6.90
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,1,6,37,0,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",72,77,3,3.40,"Evans, Tyreke",0.00,10.10
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,2,4,39,1,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",-34,146,2,2.60,"Arthur, Darrell",3.80,11.70
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,2,10,37,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",236,19,0,0.70,"Green, Jeff",5.20,3.00
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,4,6,22,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",0,250,1,1.90,"Calathes, Nick",3.70,11.20
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,1,9,23,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-161,-8,0,1.10,"Allen, Tony",4.20,14.70
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,3,8,39,0,"Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",-67,53,6,5.40,"Allen, Tony",2.00,10.50
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,4,5,18,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",211,151,0,0.70,"Allen, Tony",3.60,7.90
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,2,6,58,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",201,11,1,2.10,"Koufos, Kosta",11.10,10.40
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,1,2,54,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",121,230,0,0.90,"Green, Jeff",6.40,12.40
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,4,1,58,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",17,184,2,2.00,"DeRozan, DeMar",5.70,9.10
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,3,4,50,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-5,82,6,3.80,"Noel, Nerlens",4.10,14.40
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,1,9,26,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-49,257,0,0.80,"Richardson, Jason",4.80,14.10
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,4,3,12,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-82,154,10,12.10,"Thompson, Hollis",4.10,4.50
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,3,8,53,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-128,220,0,0.70,"Grant, Jerami",4.70,14.50
+"Joe Johnson","Brooklyn Nets",2015-02-04,2014,1007,1610612751,400579026,3,1,33,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",75,258,5,7.90,"DeRozan, DeMar",8.00,5.30
+"Joe Johnson","Brooklyn Nets",2015-04-04,2014,1007,1610612751,400579430,1,7,08,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",198,34,0,5.10,"Korver, Kyle",4.30,12.10
+"Joe Johnson","Brooklyn Nets",2015-04-04,2014,1007,1610612751,400579430,3,8,11,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",239,31,0,0.80,"Carroll, DeMarre",2.70,11.30
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,2,1,11,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",228,-16,0,0.70,"Hill, Solomon",5.90,13.80
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,5,07,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",157,183,0,0.70,"Williams, Lou",4.70,6.20
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,2,0,37,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-62,170,1,1.30,"DeRozan, DeMar",4.30,17.60
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,4,22,1,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",-5,119,12,8.50,"DeRozan, DeMar",3.00,15.00
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,3,17,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-202,140,0,0.90,"West, David",18.50,19.30
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,2,2,54,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-160,179,2,2.90,"DeRozan, DeMar",4.80,10.90
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,0,34,0,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",1,134,3,2.20,"Ross, Terrence",1.90,17.00
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,2,39,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-180,176,0,0.80,"Lowry, Kyle",6.20,18.00
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,4,5,57,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-190,154,0,0.70,"DeRozan, DeMar",4.40,13.70
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,5,2,05,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-160,183,8,10.20,"DeRozan, DeMar",4.40,4.00
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,4,7,37,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-194,160,0,1.10,"Barton, Will",7.50,18.80
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,4,1,06,0,"Jump Shot","2PT Field Goal",8,"Indiana Pacers",4,86,9,8.80,"Hill, Solomon",4.20,5.50
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,4,0,15,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",231,0,0,0.80,"Hibbert, Roy",7.30,2.00
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,2,5,15,1,"Jump Shot","2PT Field Goal",22,"Houston Rockets",-199,101,0,1.00,"Ariza, Trevor",8.90,10.10
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,2,1,53,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",21,246,3,4.30,"Motiejunas, Donatas",3.70,3.20
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,3,3,59,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",230,52,0,0.80,"Harden, James",4.60,4.00
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,5,14,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",215,129,0,1.10,"Hill, Solomon",4.70,18.90
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,2,2,52,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",226,47,0,0.90,"Howard, Dwight",6.40,14.50
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,2,1,12,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-234,11,0,0.90,"Lawson, Ty",7.40,18.80
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,3,5,24,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-103,127,1,4.50,"Lauvergne, Joffrey",4.20,9.00
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,2,3,41,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",130,108,3,5.10,"Arthur, Darrell",4.20,8.20
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,11,02,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-179,168,0,0.80,"Arthur, Darrell",10.20,12.60
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,3,7,38,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-179,167,0,0.70,"Ariza, Trevor",5.10,6.50
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,1,7,08,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",15,184,8,6.90,"Dragic, Goran",4.70,1.50
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,1,7,09,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-237,-13,0,0.90,"Stuckey, Rodney",5.00,14.30
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,3,7,33,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",18,14,4,5.20,"Harris, Tobias",1.60,12.60
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,2,7,46,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",21,7,3,5.50,"Turkoglu, Hedo",2.60,7.50
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,1,5,41,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-18,9,0,0.70,"Calderon, Jose",2.70,15.30
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,1,7,43,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",26,14,1,1.80,"Thompson, Hollis",1.60,10.10
+"Joe Johnson","Brooklyn Nets",2015-04-12,2014,1007,1610612751,400579485,2,11,37,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,-5,2,5.60,"Dudley, Jared",5.70,7.40
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,2,6,46,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-18,6,3,6.10,"Butler, Rasual",0.30,8.50
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,3,8,15,1,"Layup Shot","2PT Field Goal",2,"Miami Heat",-21,1,0,0.80,"Cole, Norris",4.40,20.50
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,8,52,0,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",-7,34,3,4.60,"Williams, Derrick",2.40,9.70
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,6,30,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-8,17,2,5.60,"Henderson, Gerald",1.50,9.70
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,1,5,53,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",0,12,0,0.00,"Bogut, Andrew",2.90,24.00
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,2,3,22,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",18,11,0,1.90,"Diaw, Boris",0.90,14.40
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,1,7,22,1,"Layup Shot","2PT Field Goal",3,"San Antonio Spurs",32,19,1,2.50,"Green, Danny",1.50,11.30
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,2,1,36,0,"Layup Shot","2PT Field Goal",3,"Golden State Warriors",29,11,2,9.70,"Bogut, Andrew",3.20,4.80
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,2,7,11,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",2,12,4,5.10,"Turkoglu, Hedo",3.00,8.70
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,4,2,16,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-4,28,19,15.00,"Green, Jeff",2.00,9.60
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,4,2,50,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-16,8,5,4.70,"Barnes, Matt",2.10,16.70
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,3,39,1,"Layup Shot","2PT Field Goal",2,"Atlanta Hawks",28,4,4,7.80,"Carroll, DeMarre",2.50,6.00
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,9,14,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-2,20,1,2.30,"Thompson, Klay",1.90,20.00
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,7,36,0,"Layup Shot","2PT Field Goal",3,"Denver Nuggets",34,9,3,3.90,"Chandler, Wilson",0.90,14.20
+"Joe Johnson","Brooklyn Nets",2015-02-28,2014,1007,1610612751,400579166,4,5,53,0,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",9,0,0,0.10,"Villanueva, Charlie",0.90,24.00
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,2,50,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,0,0,0.80,"Johnson, Wesley",9.40,20.10
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,4,6,41,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",17,6,0,0.00,"Valanciunas, Jonas",4.20,24.00
+"Joe Johnson","Brooklyn Nets",2015-04-13,2014,1007,1610612751,400579498,3,10,55,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",15,4,16,12.90,"Butler, Jimmy",1.30,4.10
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,2,8,16,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",24,3,11,7.70,"Biyombo, Bismack",2.70,14.70
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,2,5,24,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Lakers",2,34,2,3.80,"Clarkson, Jordan",1.60,5.80
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,2,03,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-16,17,2,3.20,"Butler, Jimmy",0.00,9.00
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,3,9,34,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",6,11,13,12.50,"Barnes, Matt",2.20,11.00
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,3,8,18,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",17,8,2,7.40,"Valanciunas, Jonas",1.60,6.70
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,3,9,48,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",26,12,1,2.90,"Cole, Norris",0.60,6.50
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,2,2,52,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-10,-3,0,0.70,"Allen, Tony",5.00,19.90
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,11,14,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",18,9,0,1.50,"Green, Jeff",2.10,11.30
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,3,4,41,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",17,4,2,3.90,"Zeller, Tyler",1.30,4.10
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,2,1,06,0,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-7,4,0,2.10,"Carroll, DeMarre",1.40,10.80
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,2,2,57,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",20,1,8,8.00,"Griffin, Blake",1.70,9.90
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,2,53,0,"Layup Shot","2PT Field Goal",3,"Minnesota Timberwolves",23,22,6,6.20,"Wiggins, Andrew",1.00,8.10
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,1,57,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-19,0,3,6.60,"Chandler, Wilson",1.60,7.20
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,4,5,51,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",1,15,11,12.70,"Koufos, Kosta",1.20,4.10
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,1,3,15,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-16,-3,2,1.80,"Barnes, Matt",2.70,19.40
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,1,2,57,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",21,-16,0,0.80,"Afflalo, Arron",9.60,20.70
+"Joe Johnson","Brooklyn Nets",2015-03-27,2014,1007,1610612751,400579370,3,6,51,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",10,1,2,2.60,"James, LeBron",3.90,20.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,1,3,30,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",19,20,0,0.40,"Morris, Markieff",3.60,18.10
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,2,5,15,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",12,22,2,4.20,"Butler, Jimmy",0.60,13.50
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,4,4,33,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",21,3,7,7.00,"Hibbert, Roy",1.30,13.50
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,1,2,06,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-10,0,0,1.80,"Antic, Pero",1.20,6.20
+"Joe Johnson","Brooklyn Nets",2015-02-25,2014,1007,1610612751,400579141,4,6,01,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,14,1,1.30,"Ajinca, Alexis",1.60,5.50
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,1,6,01,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,-2,0,4.30,"Hill, Solomon",4.30,23.10
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,3,9,37,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-5,11,6,8.70,"Motiejunas, Donatas",3.60,7.00
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,3,6,40,0,"Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-27,15,2,2.70,"Bonner, Matt",0.70,8.60
+"Joe Johnson","Brooklyn Nets",2015-01-24,2014,1007,1610612751,400578947,2,6,42,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",9,19,2,3.70,"Gobert, Rudy",1.20,11.50
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,4,0,36,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",18,4,4,4.00,"Matthews, Wesley",1.60,20.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,2,5,27,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-4,9,4,4.90,"Green, Jeff",2.30,10.20
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,3,10,30,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",28,9,2,4.30,"Fields, Landry",1.30,7.70
+"Joe Johnson","Brooklyn Nets",2015-03-25,2014,1007,1610612751,400579352,4,1,36,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-19,14,5,4.70,"Kidd-Gilchrist, Michael",1.20,2.20
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,1,5,00,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",18,0,1,1.90,"Thompson, Hollis",3.60,19.50
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,3,8,16,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",4,9,1,1.80,"Noel, Nerlens",1.90,6.40
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,2,0,01,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",2,0,11,9.30,"Bass, Brandon",1.70,0.00
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,2,1,59,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-19,7,1,2.10,"Deng, Luol",2.30,19.00
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,9,32,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",17,15,1,1.30,"Harris, Gary",0.80,19.20
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,3,6,43,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",23,7,0,0.60,"Lawson, Ty",3.30,16.70
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,7,35,1,"Pullup Bank shot","2PT Field Goal",8,"Houston Rockets",80,37,2,2.60,"Jones, Terrence",4.30,11.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,2,0,00,0,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",-152,209,5,3.00,"Johnson, Amir",2.90,0.00
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,4,3,28,1,"Pullup Jump shot","2PT Field Goal",18,"Philadelphia 76ers",-73,165,4,4.00,"Sims, Henry",6.30,1.40
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,1,4,39,0,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",-190,22,8,7.70,"Jerebko, Jonas",3.60,7.90
+"Joe Johnson","Brooklyn Nets",2014-12-12,2014,1007,1610612751,400578624,2,7,09,1,"Pullup Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-49,148,8,6.70,"Thompson, Hollis",3.40,4.00
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,2,7,01,0,"Pullup Jump shot","2PT Field Goal",11,"Memphis Grizzlies",-51,108,2,2.30,"Conley, Mike",1.70,19.80
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,4,15,0,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",54,190,8,6.30,"Parsons, Chandler",3.20,9.20
+"Joe Johnson","Brooklyn Nets",2015-01-28,2014,1007,1610612751,400578975,3,4,03,0,"Pullup Jump shot","2PT Field Goal",22,"Atlanta Hawks",193,112,6,5.30,"Sefolosha, Thabo",5.00,18.00
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,1,6,12,1,"Pullup Jump shot","3PT Field Goal",24,"New York Knicks",106,219,3,3.00,"Anthony, Carmelo",6.50,21.00
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,1,4,14,1,"Pullup Jump shot","2PT Field Goal",14,"Boston Celtics",31,142,4,5.00,"Nelson, Jameer",3.10,10.50
+"Joe Johnson","Brooklyn Nets",2015-01-16,2014,1007,1610612751,400578882,2,9,44,1,"Pullup Jump shot","2PT Field Goal",16,"Washington Wizards",-78,151,5,5.50,"Humphries, Kris",4.70,14.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,3,4,52,0,"Pullup Jump shot","2PT Field Goal",19,"Phoenix Suns",124,154,2,2.20,"Tucker, PJ",5.10,15.40
+"Joe Johnson","Brooklyn Nets",2015-02-07,2014,1007,1610612751,400579051,2,2,16,1,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",124,160,2,2.60,"Pierce, Paul",3.60,12.90
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,4,9,19,0,"Pullup Jump shot","2PT Field Goal",9,"Memphis Grizzlies",65,63,8,8.70,"Koufos, Kosta",3.00,6.20
+"Joe Johnson","Brooklyn Nets",2015-01-07,2014,1007,1610612751,400578819,4,3,45,1,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",106,143,13,10.30,"Sullinger, Jared",6.90,11.50
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,1,9,07,1,"Pullup Jump shot","2PT Field Goal",21,"Indiana Pacers",-35,209,10,7.90,"Hill, Solomon",3.90,15.40
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,4,5,18,0,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",114,149,5,5.20,"Jones, Terrence",3.50,4.00
+"Joe Johnson","Brooklyn Nets",2015-04-04,2014,1007,1610612751,400579430,2,7,54,0,"Pullup Jump shot","2PT Field Goal",21,"Atlanta Hawks",113,178,1,1.30,"Sefolosha, Thabo",3.40,1.00
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,3,10,40,0,"Putback Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-24,23,0,0.10,"Parker, Tony",3.90,15.60
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,3,11,26,0,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",15,-3,0,0.40,"Mbah a Moute, Luc",2.20,10.70
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,4,21,0,"Reverse Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-23,17,1,3.30,"Jefferson, Al",2.00,12.50
+"Joe Johnson","Brooklyn Nets",2015-03-29,2014,1007,1610612751,400579385,1,10,46,1,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,3,0,0.60,"Clarkson, Jordan",3.00,14.30
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,1,9,48,1,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-8,7,0,0.60,"James, LeBron",2.20,5.90
+"Joe Johnson","Brooklyn Nets",2015-02-20,2014,1007,1610612751,400579107,1,11,27,1,"Running Bank shot","2PT Field Goal",4,"Los Angeles Lakers",6,42,0,0.00,"Kelly, Ryan",0.10,0.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,1,5,09,1,"Running Bank shot","2PT Field Goal",7,"Phoenix Suns",-70,36,2,2.70,"Morris, Marcus",2.10,10.10
+"Joe Johnson","Brooklyn Nets",2015-01-22,2014,1007,1610612751,400578932,1,3,22,1,"Running Hook Shot","2PT Field Goal",7,"Los Angeles Clippers",70,0,9,8.10,"Jordan, DeAndre",2.90,6.60
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,6,50,1,"Running Hook Shot","2PT Field Goal",4,"Golden State Warriors",31,30,4,4.60,"Barnes, Harrison",1.00,4.10
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,3,11,25,0,"Running Jump Shot","2PT Field Goal",3,"Boston Celtics",-4,30,3,4.30,"Green, Jeff",2.40,13.40
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,3,3,07,0,"Running Jump Shot","2PT Field Goal",7,"San Antonio Spurs",54,55,16,15.30,"Green, Danny",1.70,8.40
+"Joe Johnson","Brooklyn Nets",2014-11-09,2014,1007,1610612751,400578382,3,2,04,0,"Running Jump Shot","2PT Field Goal",14,"Orlando Magic",132,56,2,2.30,"Harkless, Maurice",1.90,16.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,3,10,59,0,"Running Jump Shot","2PT Field Goal",8,"Boston Celtics",-75,30,2,2.40,"Rondo, Rajon",1.90,19.10
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,4,7,48,0,"Running Jump Shot","2PT Field Goal",10,"Sacramento Kings",100,14,2,3.70,"Gay, Rudy",0.40,7.30
+"Joe Johnson","Brooklyn Nets",2015-04-15,2014,1007,1610612751,400579516,4,8,56,1,"Running Jump Shot","2PT Field Goal",8,"Orlando Magic",-8,80,5,3.30,"Harkless, Maurice",3.40,10.20
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,7,53,0,"Running Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",29,60,3,3.10,"Wiggins, Andrew",2.90,14.00
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,1,8,26,0,"Running Jump Shot","2PT Field Goal",7,"Toronto Raptors",36,64,4,3.10,"DeRozan, DeMar",2.00,13.90
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,3,9,01,1,"Running Jump Shot","2PT Field Goal",5,"Denver Nuggets",26,53,2,2.80,"Chandler, Wilson",0.80,7.50
+"Joe Johnson","Brooklyn Nets",2014-11-07,2014,1007,1610612751,400578367,1,7,03,0,"Running Jump Shot","2PT Field Goal",9,"New York Knicks",9,97,1,1.10,"Stoudemire, Amare",3.80,11.20
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,1,8,55,1,"Running Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",-37,37,1,2.20,"Davis, Anthony",3.00,13.80
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,2,5,44,1,"Running Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",43,50,0,0.30,"Irving, Kyrie",4.10,23.20
+"Joe Johnson","Brooklyn Nets",2014-11-26,2014,1007,1610612751,400578505,1,10,16,1,"Running Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",32,36,3,2.80,"Mbah a Moute, Luc",2.00,8.50
+"Joe Johnson","Brooklyn Nets",2015-01-12,2014,1007,1610612751,400578856,3,7,06,0,"Running Jump Shot","2PT Field Goal",4,"Houston Rockets",20,42,7,12.70,"Harden, James",4.30,3.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,2,0,31,1,"Running Jump Shot","2PT Field Goal",6,"Detroit Pistons",-7,63,4,3.20,"Singler, Kyle",1.70,5.10
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,2,0,27,0,"Running Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",6,88,3,3.30,"Pondexter, Quincy",2.70,15.40
+"Joe Johnson","Brooklyn Nets",2015-03-10,2014,1007,1610612751,400579239,3,11,28,0,"Running Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",6,44,2,2.40,"Pondexter, Quincy",3.60,9.00
+"Joe Johnson","Brooklyn Nets",2014-11-12,2014,1007,1610612751,400578408,2,0,00,1,"Running Jump Shot","2PT Field Goal",9,"Phoenix Suns",88,37,5,4.60,"Morris, Marcus",1.60,0.00
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,2,35,1,"Running Jump Shot","2PT Field Goal",8,"Indiana Pacers",-64,52,3,3.90,"West, David",1.60,13.00
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,6,18,1,"Running Jump Shot","2PT Field Goal",7,"Atlanta Hawks",47,60,2,2.20,"Carroll, DeMarre",2.60,17.80
+"Joe Johnson","Brooklyn Nets",2015-01-14,2014,1007,1610612751,400578868,3,9,51,0,"Running Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-40,47,5,4.90,"Randolph, Zach",1.70,4.20
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,1,7,07,0,"Running Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",20,66,8,6.80,"Conley, Mike",1.60,17.90
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,3,7,39,1,"Running Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",9,30,4,5.90,"Richardson, Jason",1.20,9.60
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,3,11,04,0,"Running Jump Shot","2PT Field Goal",7,"Indiana Pacers",-5,78,3,2.90,"Hill, Solomon",2.40,9.10
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,3,09,1,"Running Jump Shot","2PT Field Goal",6,"Detroit Pistons",9,67,19,14.30,"Caldwell-Pope, Kentavious",2.70,8.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,2,0,33,1,"Running Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",81,58,5,4.20,"Crabbe, Allen",0.60,9.80
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,3,8,25,0,"Running Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",0,75,4,3.80,"James, LeBron",2.50,14.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,6,32,1,"Running Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-62,37,6,5.60,"Leonard, Meyers",3.60,10.30
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,4,6,43,1,"Running Jump Shot","2PT Field Goal",4,"Boston Celtics",12,48,3,4.70,"Olynyk, Kelly",5.10,14.00
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,0,36,1,"Running Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",13,83,5,5.30,"Budinger, Chase",1.50,15.40
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,1,2,55,1,"Running Jump Shot","2PT Field Goal",6,"Detroit Pistons",-62,30,5,3.80,"Singler, Kyle",2.30,14.00
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,1,7,01,1,"Running Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",2,96,9,8.70,"Antetokounmpo, Giannis",2.00,14.50
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,5,2,26,1,"Running Jump Shot","2PT Field Goal",6,"Phoenix Suns",-51,44,1,1.60,"Morris, Marcus",2.70,18.50
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,3,1,42,1,"Running Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-48,44,6,7.10,"Blake, Steve",1.40,9.10
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,2,0,24,0,"Running Jump Shot","2PT Field Goal",6,"Toronto Raptors",-4,63,8,4.80,"Hansbrough, Tyler",4.40,16.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,2,5,12,1,"Running Jump Shot","2PT Field Goal",4,"Phoenix Suns",-13,47,3,2.70,"Tucker, PJ",2.50,6.00
+"Joe Johnson","Brooklyn Nets",2015-03-06,2014,1007,1610612751,400579208,2,0,04,1,"Running Jump Shot","2PT Field Goal",9,"Phoenix Suns",-27,86,4,4.90,"Morris, Marcus",2.10,2.00
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,2,6,43,0,"Running Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",59,113,3,4.40,"Lillard, Damian",4.40,12.00
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,3,10,54,1,"Running Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",1,58,2,2.30,"Wiggins, Andrew",2.80,17.40
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,3,4,41,1,"Running Jump Shot","2PT Field Goal",6,"Sacramento Kings",-45,45,2,2.60,"Gay, Rudy",4.60,9.40
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,1,3,39,0,"Running Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",24,74,2,2.30,"Afflalo, Arron",1.80,11.20
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,4,16,1,"Running Layup Shot","2PT Field Goal",3,"New York Knicks",-13,30,0,1.90,"Anthony, Carmelo",3.30,22.10
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,4,3,12,0,"Running Layup Shot","2PT Field Goal",3,"Boston Celtics",0,31,3,3.60,"Turner, Evan",2.20,8.80
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,4,5,18,0,"Running Layup Shot","2PT Field Goal",3,"Chicago Bulls",29,22,2,1.70,"Butler, Jimmy",0.10,2.90
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,1,7,54,1,"Step Back Jump shot","2PT Field Goal",14,"Golden State Warriors",127,66,3,3.70,"Barnes, Harrison",4.90,9.40
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,7,27,0,"Step Back Jump shot","3PT Field Goal",23,"Golden State Warriors",-231,41,0,1.10,"Barnes, Harrison",4.20,12.60
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,4,3,12,0,"Step Back Jump shot","3PT Field Goal",23,"San Antonio Spurs",234,-2,0,1.00,"Green, Danny",5.30,9.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,3,4,31,1,"Step Back Jump shot","2PT Field Goal",20,"Toronto Raptors",0,209,12,12.40,"Fields, Landry",4.60,1.80
+"Joe Johnson","Brooklyn Nets",2015-04-10,2014,1007,1610612751,400579469,2,1,37,0,"Step Back Jump shot","2PT Field Goal",11,"Washington Wizards",110,34,1,4.40,"Pierce, Paul",2.90,2.80
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,10,47,1,"Step Back Jump shot","2PT Field Goal",14,"Charlotte Hornets",-75,127,3,3.90,"Henderson, Gerald",3.20,4.20
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,1,6,42,1,"Step Back Jump shot","2PT Field Goal",19,"Atlanta Hawks",-136,137,6,7.70,"Carroll, DeMarre",3.60,2.90
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,3,6,37,1,"Step Back Jump shot","2PT Field Goal",15,"Toronto Raptors",152,25,2,2.50,"Johnson, Amir",4.70,7.00
+"Joe Johnson","Brooklyn Nets",2015-03-11,2014,1007,1610612751,400579247,2,2,34,0,"Step Back Jump shot","2PT Field Goal",15,"Miami Heat",154,4,10,6.60,"Deng, Luol",3.50,14.50
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,2,3,36,0,"Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-117,124,7,6.30,"DeRozan, DeMar",4.40,5.20
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,4,0,33,1,"Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-161,75,5,6.30,"Lowry, Kyle",4.60,3.00
+"Joe Johnson","Brooklyn Nets",2015-02-23,2014,1007,1610612751,400579126,1,8,50,1,"Step Back Jump shot","2PT Field Goal",12,"Denver Nuggets",61,104,8,8.20,"Nurkic, Jusuf",4.30,10.50
+"Joe Johnson","Brooklyn Nets",2014-12-27,2014,1007,1610612751,400578740,1,7,29,0,"Step Back Jump shot","2PT Field Goal",15,"Indiana Pacers",154,14,1,4.40,"Hill, Solomon",3.30,6.30
+"Joe Johnson","Brooklyn Nets",2015-01-30,2014,1007,1610612751,400578991,1,6,44,0,"Step Back Jump shot","2PT Field Goal",13,"Toronto Raptors",113,72,2,2.70,"Johnson, Amir",3.90,13.50
+"Joe Johnson","Brooklyn Nets",2015-02-02,2014,1007,1610612751,400579012,4,5,00,1,"Step Back Jump shot","2PT Field Goal",20,"Los Angeles Clippers",163,116,2,3.50,"Barnes, Matt",4.60,11.30
+"Joe Johnson","Brooklyn Nets",2014-12-19,2014,1007,1610612751,400578678,4,1,02,1,"Step Back Jump shot","2PT Field Goal",19,"Cleveland Cavaliers",47,194,7,5.00,"James, LeBron",4.50,3.10
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,4,6,22,1,"Step Back Jump shot","2PT Field Goal",18,"Indiana Pacers",-5,187,19,17.30,"Mahinmi, Ian",4.50,3.20
+"Joe Johnson","Brooklyn Nets",2015-02-10,2014,1007,1610612751,400579078,2,7,43,0,"Step Back Jump shot","2PT Field Goal",9,"Memphis Grizzlies",92,11,4,5.60,"Allen, Tony",2.60,9.20
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,3,6,21,1,"Step Back Jump shot","2PT Field Goal",12,"Orlando Magic",70,105,4,4.90,"Harris, Tobias",3.90,6.90
+"Joe Johnson","Brooklyn Nets",2015-02-27,2014,1007,1610612751,400579155,1,9,33,1,"Step Back Jump shot","2PT Field Goal",14,"Houston Rockets",72,124,3,6.30,"Motiejunas, Donatas",4.50,11.00
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,4,10,24,0,"Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-158,64,8,9.20,"Hansbrough, Tyler",3.20,4.20
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,4,1,50,1,"Step Back Jump shot","2PT Field Goal",17,"Indiana Pacers",-100,145,6,4.90,"Hill, Solomon",3.20,6.00
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,0,18,0,"Step Back Jump shot","2PT Field Goal",16,"Golden State Warriors",-109,124,6,8.00,"Iguodala, Andre",5.30,12.40
+"Joe Johnson","Brooklyn Nets",2015-03-21,2014,1007,1610612751,400579324,4,1,35,1,"Step Back Jump shot","2PT Field Goal",17,"Indiana Pacers",81,153,8,8.10,"Miles, CJ",3.40,2.50
+"Joe Johnson","Brooklyn Nets",2015-03-18,2014,1007,1610612751,400579297,3,4,59,0,"Step Back Jump shot","2PT Field Goal",12,"Cleveland Cavaliers",102,77,2,5.60,"Shumpert, Iman",2.50,4.00
+"Joe Johnson","Brooklyn Nets",2015-04-03,2014,1007,1610612751,400579422,1,11,00,1,"Step Back Jump shot","2PT Field Goal",14,"Toronto Raptors",141,23,6,7.50,"DeRozan, DeMar",4.80,8.40
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,2,8,04,0,"Step Back Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",157,4,1,4.00,"Muhammad, Shabazz",4.10,3.30
+"Joe Johnson","Brooklyn Nets",2015-03-16,2014,1007,1610612751,400579286,1,1,30,1,"Step Back Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",32,190,5,4.70,"Budinger, Chase",5.90,12.90
+"Joe Johnson","Brooklyn Nets",2015-03-14,2014,1007,1610612751,400579270,3,10,04,1,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-24,170,6,5.90,"Canaan, Isaiah",9.30,12.70
+"Joe Johnson","Brooklyn Nets",2015-01-02,2014,1007,1610612751,400578777,4,0,41,0,"Step Back Jump shot","2PT Field Goal",18,"Orlando Magic",-35,183,1,1.70,"Gordon, Ben",3.80,2.00
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,2,4,12,0,"Step Back Jump shot","3PT Field Goal",23,"Atlanta Hawks",-234,-25,0,1.40,"Carroll, DeMarre",4.40,9.20
+"Joe Johnson","Brooklyn Nets",2015-04-06,2014,1007,1610612751,400755861,4,1,55,1,"Step Back Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-144,4,4,5.10,"McCollum, CJ",4.10,3.40
+"Joe Johnson","Brooklyn Nets",2014-12-16,2014,1007,1610612751,400578656,2,1,04,0,"Step Back Jump shot","2PT Field Goal",17,"Miami Heat",160,69,3,3.40,"Deng, Luol",3.90,0.90
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,2,5,57,1,"Step Back Jump shot","2PT Field Goal",17,"Atlanta Hawks",88,154,8,8.80,"Muscala, Mike",4.50,9.50
+"Joe Johnson","Brooklyn Nets",2015-01-09,2014,1007,1610612751,400578831,4,1,06,0,"Tip Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,12,0,1.60,"Covington, Robert",0.10,24.00
+"Joe Johnson","Brooklyn Nets",2014-10-29,2014,1007,1610612751,400578298,2,6,43,0,"Tip Shot","2PT Field Goal",2,"Boston Celtics",7,19,0,0.00,"Zeller, Tyler",0.40,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-05,2014,1007,1610612751,400578352,4,2,51,1,"Tip Shot","2PT Field Goal",2,"Minnesota Timberwolves",23,9,0,0.10,"Wiggins, Andrew",1.80,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,3,11,39,1,"Tip Shot","2PT Field Goal",0,"Detroit Pistons",0,7,1,0.20,"Drummond, Andre",3.10,24.00
+"Joe Johnson","Brooklyn Nets",2014-12-02,2014,1007,1610612751,400578548,3,9,39,1,"Tip Shot","2PT Field Goal",1,"New York Knicks",10,4,1,0.20,"Stoudemire, Amare",0.90,24.00
+"Joe Johnson","Brooklyn Nets",2014-12-03,2014,1007,1610612751,400578558,3,10,01,0,"Tip Shot","2PT Field Goal",2,"San Antonio Spurs",-21,20,0,1.50,"Duncan, Tim",0.40,24.00
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,7,13,0,"Tip Shot","2PT Field Goal",0,"Sacramento Kings",1,1,0,0.20,"Casspi, Omri",2.50,18.70
+"Joe Johnson","Brooklyn Nets",2015-01-21,2014,0,1610612751,0,2,4,39,1,"Tip Shot","2PT Field Goal",1,"Sacramento Kings",0,12,0,0.00,"Casspi, Omri",2.80,24.00
+"Joe Johnson","Brooklyn Nets",2014-11-30,2014,1007,1610612751,400578534,1,1,12,0,"Turnaround Bank shot","2PT Field Goal",5,"Chicago Bulls",53,15,2,3.80,"Butler, Jimmy",2.10,8.00
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,3,8,34,0,"Turnaround Bank shot","2PT Field Goal",12,"Charlotte Hornets",-120,48,2,3.40,"Kidd-Gilchrist, Michael",1.40,5.70
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,4,6,13,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Portland Trail Blazers",100,31,6,5.70,"Matthews, Wesley",3.90,17.20
+"Joe Johnson","Brooklyn Nets",2014-12-23,2014,1007,1610612751,400578713,4,2,41,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Denver Nuggets",28,108,7,7.30,"Chandler, Wilson",2.90,2.60
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,3,5,46,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Golden State Warriors",73,47,0,5.80,"Barnes, Harrison",2.50,16.40
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,2,9,16,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Dallas Mavericks",-76,82,8,7.00,"Jefferson, Richard",3.60,4.70
+"Joe Johnson","Brooklyn Nets",2014-12-26,2014,1007,1610612751,400578724,4,5,28,0,"Turnaround Fadeaway shot","2PT Field Goal",6,"Boston Celtics",67,11,7,7.40,"Green, Jeff",3.60,12.80
+"Joe Johnson","Brooklyn Nets",2015-03-31,2014,1007,1610612751,400579400,4,8,48,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Indiana Pacers",121,12,3,5.10,"Stuckey, Rodney",1.70,5.70
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,4,6,58,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Milwaukee Bucks",141,25,12,9.50,"Middleton, Khris",4.20,6.30
+"Joe Johnson","Brooklyn Nets",2015-03-04,2014,1007,1610612751,400579191,2,0,41,0,"Turnaround Fadeaway shot","2PT Field Goal",5,"Charlotte Hornets",-19,56,7,7.40,"Kidd-Gilchrist, Michael",0.50,11.00
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,5,0,42,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Milwaukee Bucks",26,112,4,5.50,"Antetokounmpo, Giannis",0.50,10.80
+"Joe Johnson","Brooklyn Nets",2014-11-19,2014,1007,1610612751,400578456,4,3,57,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Milwaukee Bucks",-164,1,2,8.00,"Middleton, Khris",4.30,1.30
+"Joe Johnson","Brooklyn Nets",2014-12-30,2014,1007,1610612751,400578759,2,11,17,1,"Turnaround Jump Shot","2PT Field Goal",14,"Chicago Bulls",-142,-3,3,5.50,"Butler, Jimmy",2.60,13.70
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,2,2,48,0,"Turnaround Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-149,56,1,2.50,"Henderson, Gerald",4.60,2.00
+"Joe Johnson","Brooklyn Nets",2015-01-04,2014,1007,1610612751,400578797,2,7,28,0,"Turnaround Jump Shot","2PT Field Goal",7,"Miami Heat",-7,72,0,3.90,"Deng, Luol",1.50,3.60
+"Joe Johnson","Brooklyn Nets",2014-11-22,2014,1007,1610612751,400578483,3,5,04,1,"Turnaround Jump Shot","2PT Field Goal",9,"San Antonio Spurs",86,30,5,6.60,"Leonard, Kawhi",2.60,5.00
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,2,5,33,1,"Turnaround Jump Shot","2PT Field Goal",18,"Washington Wizards",118,138,10,7.60,"Butler, Rasual",5.00,16.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,3,55,1,"Turnaround Jump Shot","2PT Field Goal",10,"Detroit Pistons",94,53,5,5.60,"Jennings, Brandon",3.00,7.00
+"Joe Johnson","Brooklyn Nets",2014-11-01,2014,1007,1610612751,400578325,4,5,53,1,"Turnaround Jump Shot","2PT Field Goal",13,"Detroit Pistons",-108,86,4,4.60,"Butler, Caron",3.90,6.50
+"Joe Johnson","Brooklyn Nets",2014-11-15,2014,1007,1610612751,400578430,2,2,31,0,"Turnaround Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-152,17,1,2.60,"Leonard, Meyers",5.90,22.20
+"Joe Johnson","Brooklyn Nets",2015-03-23,2014,1007,1610612751,400579341,1,11,40,1,"Turnaround Jump Shot","2PT Field Goal",6,"Boston Celtics",56,28,3,5.10,"Turner, Evan",2.60,7.50
+"Joe Johnson","Brooklyn Nets",2014-12-17,2014,1007,1610612751,400578666,1,5,52,0,"Turnaround Jump Shot","2PT Field Goal",4,"Toronto Raptors",10,47,2,4.00,"Fields, Landry",1.30,9.80
+"Joe Johnson","Brooklyn Nets",2015-01-05,2014,1007,1610612751,400578803,3,6,09,0,"Turnaround Jump Shot","2PT Field Goal",7,"Dallas Mavericks",43,60,2,4.10,"Harris, Devin",3.00,7.20
+"Joe Johnson","Brooklyn Nets",2015-03-02,2014,1007,1610612751,400579178,1,9,55,1,"Turnaround Jump Shot","2PT Field Goal",8,"Golden State Warriors",-70,45,3,4.90,"Green, Draymond",2.30,11.00
+"Joe Johnson","Brooklyn Nets",2014-12-13,2014,1007,1610612751,400578633,1,8,11,0,"Turnaround Jump Shot","2PT Field Goal",12,"Charlotte Hornets",-7,121,7,6.00,"Henderson, Gerald",1.40,1.70
+"Joe Johnson","Brooklyn Nets",2014-11-03,2014,1007,1610612751,400578336,3,4,18,0,"Turnaround Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",135,0,2,3.00,"Jackson, Reggie",4.00,10.50
+"Joe Johnson","Brooklyn Nets",2015-01-17,2014,1007,1610612751,400578897,4,5,42,1,"Turnaround Jump Shot","2PT Field Goal",6,"Washington Wizards",59,30,4,4.90,"Butler, Rasual",2.00,6.10
+"Joe Johnson","Brooklyn Nets",2015-02-06,2014,1007,1610612751,400579038,1,5,58,1,"Turnaround Jump Shot","2PT Field Goal",3,"New York Knicks",7,37,3,4.00,"Anthony, Carmelo",1.90,9.30
+"Joe Johnson","Brooklyn Nets",2014-12-05,2014,1007,1610612751,400578572,2,8,45,0,"Turnaround Jump Shot","2PT Field Goal",9,"Atlanta Hawks",-40,91,8,6.10,"Sefolosha, Thabo",1.80,13.10
+"Joe Johnson","Brooklyn Nets",2014-11-13,2014,1007,1610612751,400578413,1,2,34,1,"Turnaround Jump Shot","2PT Field Goal",7,"Golden State Warriors",7,78,10,7.60,"Iguodala, Andre",3.10,6.30
+"Joe Johnson","Brooklyn Nets",2015-04-08,2014,1007,1610612751,400579455,4,0,02,0,"Turnaround Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-239,33,0,1.00,"Carroll, DeMarre",2.20,0.00

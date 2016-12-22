@@ -1,0 +1,1008 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,1,5,56,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,3,5,57,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,1,1.20,"Booker, Trevor",2.20,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,1,9,33,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,2,2,53,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,1,0.40,"Griffin, Blake",3.80,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,2,0,51,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,4,5,48,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Washington Wizards",-9,2,0,0.30,"Gortat, Marcin",2.60,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,5,45,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,2,2,11,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,4,6,54,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,4,54,0,"Alley Oop Layup shot","2PT Field Goal",1,"Golden State Warriors",1,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,3,9,14,1,"Alley Oop Layup shot","2PT Field Goal",3,"Philadelphia 76ers",0,33,0,0.00,"Okafor, Jahlil",3.50,9.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,9,22,1,"Alley Oop Layup shot","2PT Field Goal",1,"Denver Nuggets",9,11,1,0.70,"Jokic, Nikola",3.40,7.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,2,4,41,1,"Alley Oop Layup shot","2PT Field Goal",0,"Minnesota Timberwolves",-6,0,0,0.00,"Bjelica, Nemanja",2.40,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,6,12,0,"Alley Oop Layup shot","2PT Field Goal",1,"Houston Rockets",12,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,3,10,20,1,"Alley Oop Layup shot","2PT Field Goal",1,"Atlanta Hawks",15,-6,0,0.40,"Korver, Kyle",2.40,16.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,3,10,42,0,"Alley Oop Layup shot","2PT Field Goal",1,"Charlotte Hornets",-16,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,3,10,11,1,"Alley Oop Layup shot","2PT Field Goal",0,"Los Angeles Lakers",4,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,1,9,30,1,"Alley Oop Layup shot","2PT Field Goal",1,"Atlanta Hawks",17,2,0,0.70,"Millsap, Paul",5.20,12.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,1,4,14,1,"Alley Oop Layup shot","2PT Field Goal",1,"Sacramento Kings",14,11,0,0.90,"Belinelli, Marco",6.50,18.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,11,47,1,"Alley Oop Layup shot","2PT Field Goal",2,"Boston Celtics",27,6,0,1.40,"Smart, Marcus",4.30,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,2,4,11,1,"Alley Oop Layup shot","2PT Field Goal",2,"Los Angeles Clippers",-27,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,7,26,1,"Alley Oop Layup shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,1,7,56,1,"Alley Oop Layup shot","2PT Field Goal",2,"Boston Celtics",24,16,0,0.80,"Crowder, Jae",2.60,14.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,2,2,23,1,"Alley Oop Layup shot","2PT Field Goal",1,"Los Angeles Clippers",-16,-1,0,0.00,"Griffin, Blake",4.40,16.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,3,8,43,0,"Alley Oop Layup shot","2PT Field Goal",1,"Denver Nuggets",-11,-1,0,2.00,"Faried, Kenneth",2.00,12.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,4,3,04,1,"Alley Oop Layup shot","2PT Field Goal",1,"Portland Trail Blazers",9,13,0,0.00,"Henderson, Gerald",0.20,13.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,2,0,56,1,"Alley Oop Layup shot","2PT Field Goal",2,"Chicago Bulls",20,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,11,23,1,"Alley Oop Layup shot","2PT Field Goal",2,"Houston Rockets",19,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,0,08,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,4,47,1,"Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.60,"Noel, Nerlens",3.20,16.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,3,10,37,1,"Cutting Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,2,52,1,"Cutting Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,3,3,31,1,"Cutting Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,1,1,34,1,"Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.50,"Jokic, Nikola",4.20,20.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,4,27,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.40,"Noah, Joakim",6.90,7.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,3,38,1,"Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,7,55,1,"Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,7,53,0,"Cutting Finger Roll Layup Shot","2PT Field Goal",4,"Chicago Bulls",-47,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,3,08,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-3,19,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,2,47,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",0,"Indiana Pacers",-7,7,0,0.60,"George, Paul",0.60,14.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,4,5,56,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",6,23,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,2,3,37,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Orlando Magic",-19,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,3,2,11,1,"Cutting Layup Shot","2PT Field Goal",0,"Washington Wizards",-7,2,0,0.60,"Gortat, Marcin",1.40,11.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,4,9,39,1,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-11,11,0,0.80,"Dieng, Gorgui",2.00,16.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,3,7,24,1,"Cutting Layup Shot","2PT Field Goal",2,"Atlanta Hawks",19,7,0,0.70,"Korver, Kyle",0.20,18.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,7,59,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",17,-1,0,0.40,"Randolph, Zach",2.30,14.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,4,3,37,1,"Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-5,0,0.50,"Smith, J.R.",2.20,3.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,4,6,59,1,"Cutting Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-17,2,0,1.40,"Plumlee, Mason",2.30,17.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,1,8,09,1,"Cutting Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-12,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,3,4,04,1,"Cutting Layup Shot","2PT Field Goal",1,"Indiana Pacers",-16,7,0,0.80,"Ellis, Monta",1.60,5.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,2,4,40,1,"Driving Bank Hook Shot","2PT Field Goal",7,"Charlotte Hornets",-73,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,6,10,1,"Driving Bank shot","2PT Field Goal",3,"New Orleans Pelicans",32,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,1,7,45,0,"Driving Bank shot","2PT Field Goal",3,"New York Knicks",32,13,1,2.10,"Lopez, Robin",2.40,13.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,3,6,02,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,5,37,1,"Driving Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,2,3.60,"Humphries, Kris",4.70,13.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,1,6,14,1,"Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,0,31,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,2,2.10,"Williams, Derrick",3.70,17.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,5,39,1,"Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,6,33,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Orlando Magic",-29,0,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,3,21,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",-7,11,1,2.80,Nene,3.00,12.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,2,2,42,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",4,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,2,7,41,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Golden State Warriors",-2,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,2,1,02,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-4,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,1,10,02,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-24,0,2,2.20,"Nowitzki, Dirk",4.20,10.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,7,00,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-14,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,1,4,27,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Detroit Pistons",14,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,0,09,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Utah Jazz",-16,16,1,3.90,"Withey, Jeff",2.70,4.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,7,26,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",0,41,1,2.80,"McCollum, CJ",5.30,7.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,2,4,21,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-32,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,2,24,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",24,38,2,3.70,"Green, Jeff",3.60,12.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,3,5,12,1,"Driving Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",-1,61,2,3.50,"Thompson, Hollis",3.30,10.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,10,29,1,"Driving Hook Shot","2PT Field Goal",7,"Oklahoma City Thunder",10,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,2,4,32,1,"Driving Hook Shot","2PT Field Goal",4,"Los Angeles Lakers",1,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,6,09,1,"Driving Hook Shot","2PT Field Goal",11,"Utah Jazz",115,28,3,3.60,"Lyles, Trey",1.30,8.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-12,2015,2983,1610612759,400829102,1,6,55,1,"Driving Hook Shot","2PT Field Goal",6,"Oklahoma City Thunder",1,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,4,9,28,1,"Driving Hook Shot","2PT Field Goal",4,"Los Angeles Lakers",-2,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,2,53,1,"Driving Hook Shot","2PT Field Goal",8,"Minnesota Timberwolves",-1,80,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,4,6,21,1,"Driving Hook Shot","2PT Field Goal",6,"New York Knicks",25,56,1,1.60,"Porzingis, Kristaps",3.10,9.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,5,29,1,"Driving Hook Shot","2PT Field Goal",0,"Indiana Pacers",2,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,1,5,01,1,"Driving Hook Shot","2PT Field Goal",6,"Boston Celtics",12,67,4,4.70,"Sullinger, Jared",0.00,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,6,49,0,"Driving Hook Shot","2PT Field Goal",4,"Detroit Pistons",-34,36,1,1.90,"Ilyasova, Ersan",3.50,14.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,8,00,0,"Driving Hook Shot","2PT Field Goal",4,"Los Angeles Clippers",-1,41,3,4.80,"Mbah a Moute, Luc",1.70,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,2,3,20,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-17,15,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,3,2,42,0,"Driving Layup Shot","2PT Field Goal",4,"New Orleans Pelicans",-38,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,3,6,25,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",10,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,1,9,50,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-17,2,1,2.10,"Randolph, Zach",0.40,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,1,10,11,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",9,-10,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,5,56,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",1,3,2,2.70,"Gasol, Marc",2.60,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,3,9,11,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-12,-1,0,1.00,"Lowry, Kyle",2.90,21.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,3,8,09,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-22,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,3,13,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",17,23,2,2.30,"Howard, Dwight",2.20,17.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,4,6,24,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",1,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,9,57,0,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-16,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,2,05,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,0,0,1.10,"Leonard, Meyers",3.10,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,3,1,33,1,"Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,2,25,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,1,01,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,4,5,16,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.50,"Green, JaMychal",6.10,7.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,4,4,35,1,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.80,"Koufos, Kosta",6.00,16.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,1,6,06,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,2,49,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,4,0,34,0,"Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,"Biyombo, Bismack",0.70,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,2,5,37,1,"Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,7,29,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.60,"Hibbert, Roy",5.70,13.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,4,0,35,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,8,35,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,2,3,26,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,9,43,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Orlando Magic",22,85,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,3,24,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Sacramento Kings",128,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,2,41,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Orlando Magic",-156,33,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,11,04,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Denver Nuggets",-124,8,4,5.50,"Arthur, Darrell",3.40,5.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,11,24,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Boston Celtics",-45,110,0,1.10,"Lee, David",4.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,3,5,52,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Phoenix Suns",133,16,4,5.00,"Morris, Markieff",2.80,2.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,1,7,32,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Miami Heat",79,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,11,26,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Miami Heat",-91,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,9,15,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Detroit Pistons",-76,26,1,1.90,"Drummond, Andre",4.30,22.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,5,22,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Golden State Warriors",81,106,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,2,4,02,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Brooklyn Nets",-97,70,1,6.20,"Young, Thaddeus",3.10,12.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,7,37,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Indiana Pacers",140,65,1,2.50,"Allen, Lavoy",3.80,12.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,2,2,39,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Indiana Pacers",-132,61,2,4.10,"Allen, Lavoy",3.00,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,1,10,39,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",-37,106,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,3,3,10,1,"Fadeaway Jump Shot","2PT Field Goal",6,"New York Knicks",-60,21,4,5.30,"O'Quinn, Kyle",4.60,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,3,5,37,0,"Fadeaway Jump Shot","2PT Field Goal",9,"New York Knicks",-94,21,3,4.10,"Porzingis, Kristaps",2.10,8.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,8,36,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",158,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,4,5,51,0,"Fadeaway Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-61,92,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,6,32,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",43,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,3,8,32,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Houston Rockets",87,160,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,2,4,13,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-147,72,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,4,6,52,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Golden State Warriors",-40,116,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,9,36,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Golden State Warriors",97,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,3,11,13,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Utah Jazz",161,-10,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,4,2,54,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",-81,100,2,3.10,"Griffin, Blake",4.60,4.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,4,4,39,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Houston Rockets",-86,139,4,3.60,"Howard, Dwight",4.80,4.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,5,58,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Orlando Magic",4,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,1,5,17,1,"Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,3,6,29,0,"Finger Roll Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",1,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,1,10,1,"Finger Roll Layup Shot","2PT Field Goal",3,"Miami Heat",30,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,8,28,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Clippers",35,57,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,3,03,0,"Floating Jump shot","2PT Field Goal",14,"Golden State Warriors",122,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,3,11,19,1,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Clippers",73,43,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,2,3,00,1,"Floating Jump shot","2PT Field Goal",5,"Brooklyn Nets",4,57,1,1.40,"Lopez, Brook",4.10,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,4,5,54,0,"Floating Jump shot","2PT Field Goal",3,"Portland Trail Blazers",25,23,1,1.80,"Plumlee, Mason",2.00,7.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,2,2,45,1,"Floating Jump shot","2PT Field Goal",13,"Houston Rockets",32,131,1,1.50,"Capela, Clint",2.70,2.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,2,3,35,1,"Floating Jump shot","2PT Field Goal",8,"New York Knicks",-58,67,1,2.00,"Calderon, Jose",1.80,12.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,2,3,12,0,"Floating Jump shot","2PT Field Goal",8,"Minnesota Timberwolves",35,82,1,2.00,"Prince, Tayshaun",3.70,9.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,3,10,1,"Floating Jump shot","2PT Field Goal",10,"New Orleans Pelicans",-104,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,3,11,20,1,"Floating Jump shot","2PT Field Goal",12,"Golden State Warriors",-122,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,4,23,0,"Hook Bank Shot","2PT Field Goal",6,"Miami Heat",-61,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,2,0,43,1,"Hook Bank Shot","2PT Field Goal",4,"New York Knicks",-42,21,3,4.30,"Porzingis, Kristaps",1.70,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,6,25,1,"Hook Shot","2PT Field Goal",0,"Golden State Warriors",-7,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,1,9,16,0,"Hook Shot","2PT Field Goal",6,"New Orleans Pelicans",-4,61,1,5.10,"Davis, Anthony",3.70,12.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,4,17,0,"Hook Shot","2PT Field Goal",6,"Orlando Magic",15,67,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,2,1,20,0,"Hook Shot","2PT Field Goal",4,"Atlanta Hawks",42,11,0,0.00,"Korver, Kyle",6.40,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,2,51,1,"Hook Shot","2PT Field Goal",3,"Denver Nuggets",-34,18,0,0.60,"Hickson, JJ",2.40,23.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,1,6,19,0,"Hook Shot","2PT Field Goal",5,"Indiana Pacers",-2,56,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,2,01,0,"Hook Shot","2PT Field Goal",1,"Utah Jazz",19,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,9,17,0,"Hook Shot","2PT Field Goal",11,"Minnesota Timberwolves",-6,110,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,4,2,56,1,"Hook Shot","2PT Field Goal",1,"Utah Jazz",-19,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,7,41,0,"Hook Shot","2PT Field Goal",6,"Golden State Warriors",50,47,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,2,05,1,"Hook Shot","2PT Field Goal",5,"Houston Rockets",-47,31,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,1,2,33,1,"Hook Shot","2PT Field Goal",6,"Milwaukee Bucks",-58,16,0,1.70,"Henson, John",2.90,7.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,4,7,56,1,"Hook Shot","2PT Field Goal",7,"Houston Rockets",-6,70,2,4.60,"Jones, Terrence",1.80,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,3,5,10,1,"Hook Shot","2PT Field Goal",8,"Utah Jazz",-22,80,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,2,10,04,0,"Hook Shot","2PT Field Goal",4,"New Orleans Pelicans",35,31,3,4.00,"Davis, Anthony",2.10,7.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,4,2,12,1,"Hook Shot","2PT Field Goal",5,"Charlotte Hornets",9,57,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,5,11,0,"Hook Shot","2PT Field Goal",7,"Indiana Pacers",-55,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,2,0,14,1,"Hook Shot","2PT Field Goal",2,"Atlanta Hawks",0,26,1,1.50,"Millsap, Paul",0.20,5.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,1,4,05,0,"Hook Shot","2PT Field Goal",3,"Utah Jazz",-11,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,1,3,25,1,"Hook Shot","2PT Field Goal",2,"Cleveland Cavaliers",-12,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,5,54,0,"Hook Shot","2PT Field Goal",6,"Orlando Magic",6,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,3,10,21,0,"Hook Shot","2PT Field Goal",3,"Denver Nuggets",-34,7,1,2.00,"Arthur, Darrell",1.10,15.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,3,3,11,1,"Hook Shot","2PT Field Goal",4,"Golden State Warriors",42,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,9,15,0,"Hook Shot","2PT Field Goal",8,"Orlando Magic",50,70,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,1,2,35,1,"Hook Shot","2PT Field Goal",6,"New Orleans Pelicans",-11,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,1,10,09,1,"Hook Shot","2PT Field Goal",7,"Chicago Bulls",-20,77,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,1,3,13,0,"Hook Shot","2PT Field Goal",10,"Golden State Warriors",-42,101,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,2,3,48,0,"Hook Shot","2PT Field Goal",8,"Golden State Warriors",-42,72,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,3,3,53,0,"Hook Shot","2PT Field Goal",9,"Milwaukee Bucks",82,52,2,2.40,"Parker, Jabari",3.20,12.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,2,2,48,0,"Hook Shot","2PT Field Goal",10,"Utah Jazz",96,28,1,2.30,"Favors, Derrick",0.80,8.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,3,9,18,1,"Hook Shot","2PT Field Goal",4,"Houston Rockets",-9,46,3,4.30,"Capela, Clint",2.90,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,3,2,29,1,"Hook Shot","2PT Field Goal",3,"Utah Jazz",4,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,6,38,1,"Jump Bank Shot","2PT Field Goal",7,"Atlanta Hawks",79,7,0,2.10,"Horford, Al",0.00,22.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,1,9,45,1,"Jump Bank Shot","2PT Field Goal",8,"New Orleans Pelicans",-89,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,4,41,1,"Jump Bank Shot","2PT Field Goal",18,"Detroit Pistons",138,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,1,11,36,0,"Jump Bank Shot","2PT Field Goal",8,"Washington Wizards",64,61,3,4.30,"Gortat, Marcin",3.20,5.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,2,0,00,0,"Jump Bank Shot","2PT Field Goal",15,"Memphis Grizzlies",159,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,4,1,10,1,"Jump Bank Shot","2PT Field Goal",17,"Orlando Magic",-155,70,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,2,9,25,1,"Jump Bank Shot","2PT Field Goal",6,"New York Knicks",-60,26,1,5.80,"O'Quinn, Kyle",2.10,12.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,1,8,58,0,"Jump Bank Shot","2PT Field Goal",14,"Denver Nuggets",148,-6,0,0.40,"Faried, Kenneth",8.20,0.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,7,51,1,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-130,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,4,6,42,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",51,198,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,1,5,11,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",82,126,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,8,01,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",109,136,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,3,4,32,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-166,72,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,2,3,27,0,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",112,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,1,4,48,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",30,170,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,3,8,28,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",2,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,3,5,23,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-135,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,2,6,01,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",164,193,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,1,4,18,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-120,52,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,4,46,1,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-7,218,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,2,1,54,0,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",84,47,2,3.80,"Love, Kevin",1.90,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,3,2,47,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",48,178,0,0.90,"Mayo, O.J.",2.60,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,1,11,45,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",230,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,3,6,37,1,"Jump Shot","2PT Field Goal",6,"Houston Rockets",-40,52,1,3.10,"Brewer, Corey",0.00,8.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,1,18,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",15,200,0,0.80,"Capela, Clint",9.80,5.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,0,17,1,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-202,13,0,0.90,"Capela, Clint",5.60,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,4,6,06,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",-9,169,0,1.40,"Capela, Clint",6.20,7.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,8,03,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",12,188,0,1.00,"Capela, Clint",6.30,6.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,3,5,51,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",109,111,1,1.60,"Capela, Clint",1.90,6.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,3,10,48,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",153,105,1,1.30,"Capela, Clint",5.00,13.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,2,1,27,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-207,-6,0,1.00,"Capela, Clint",8.40,10.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,2,5,48,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",84,124,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,2,0,32,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-150,92,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,9,01,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",6,195,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,3,3,43,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",155,115,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,3,21,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-79,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,4,18,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",140,136,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,3,4,08,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",143,136,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,3,10,53,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",14,188,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,1,7,17,0,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",-29,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,1,11,22,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",66,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,1,7,46,1,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-17,151,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,2,06,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",174,56,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,1,9,05,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",33,175,0,0.90,"Chandler, Tyson",9.20,13.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,3,8,23,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",145,56,0,0.70,"Thompson, Tristan",5.30,16.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,3,5,13,0,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",37,61,2,4.30,"Love, Kevin",0.90,5.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,1,7,59,0,"Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",12,31,1,2.00,"Love, Kevin",3.40,16.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,1,2,46,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",122,149,0,0.80,"Thompson, Tristan",6.50,10.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,8,14,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",-150,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,5,07,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-45,164,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,4,29,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",66,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,0,57,0,"Jump Shot","2PT Field Goal",10,"Toronto Raptors",-58,90,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,3,14,0,"Jump Shot","2PT Field Goal",5,"Toronto Raptors",-1,57,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,6,13,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",-37,72,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,2,6,21,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",122,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,10,12,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-124,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,4,4,49,0,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",43,56,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,3,9,12,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",84,159,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,3,6,35,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",10,97,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,2,4,29,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",66,124,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,4,48,1,"Jump Shot","2PT Field Goal",12,"Orlando Magic",109,56,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,1,9,35,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-2,185,0,0.80,"Crowder, Jae",13.90,14.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,3,4,26,1,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-84,203,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,2,6,35,1,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",2,224,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,3,10,39,1,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",-29,136,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,6,44,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",151,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,1,4,10,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",125,106,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,3,10,56,1,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-11,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,3,8,59,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-109,62,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,1,9,17,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-35,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,3,11,44,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",158,134,0,0.70,"Johnson, Amir",5.20,10.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,1,4,09,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-191,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,4,21,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-97,169,0,0.90,"Harris, Gary",7.30,16.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,3,2,36,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",38,174,0,0.60,"Morris, Markieff",7.00,4.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,3,10,41,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-174,36,0,0.80,"Morris, Markieff",12.10,2.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,1,5,34,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-61,170,0,0.90,"Chandler, Tyson",7.00,8.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,2,1,07,1,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",73,154,0,0.90,"Chandler, Tyson",8.70,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,3,1,34,1,"Jump Shot","2PT Field Goal",3,"Phoenix Suns",-30,0,0,1.20,"Cotton, Bryce",2.80,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,1,4,41,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-209,7,0,0.80,"Chandler, Tyson",5.40,14.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,3,10,37,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",195,7,0,0.70,"Johnson, Amir",5.50,6.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,2,2,30,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",96,228,0,0.90,"Chandler, Tyson",15.70,21.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,2,3,30,1,"Jump Shot","2PT Field Goal",13,"Boston Celtics",-68,111,0,1.60,"Johnson, Amir",3.60,6.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,2,2,49,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",105,105,2,6.00,"Johnson, Amir",2.40,7.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,1,8,27,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",145,11,0,0.80,"Knight, Brandon",6.40,2.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,2,4,59,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",109,115,0,2.90,"Johnson, Amir",6.20,9.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,2,5,41,1,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-130,56,1,2.10,"Zeller, Tyler",2.60,14.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,3,5,58,0,"Jump Shot","2PT Field Goal",5,"Boston Celtics",-50,11,1,1.80,"Johnson, Amir",4.10,10.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,3,3,07,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",86,90,3,3.50,"Olynyk, Kelly",2.60,16.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,1,3,49,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",117,139,3,2.40,"Turner, Evan",3.90,13.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,1,11,30,0,"Jump Shot","2PT Field Goal",5,"Boston Celtics",-12,57,0,0.80,"Johnson, Amir",2.90,12.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,6,42,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",30,149,0,2.20,"Faried, Kenneth",13.60,11.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,3,6,52,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-171,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,2,0,55,0,"Jump Shot","2PT Field Goal",9,"Houston Rockets",92,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,2,6,10,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",53,174,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,2,06,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",32,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,3,5,36,1,"Jump Shot","2PT Field Goal",16,"Houston Rockets",166,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,1,11,17,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",27,244,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,2,5,53,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-94,174,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,2,4,25,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-163,95,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,1,4,36,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-12,183,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,1,18,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",104,169,0,0.80,"Booker, Trevor",7.10,15.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,5,37,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",156,8,0,0.90,"Lyles, Trey",9.40,9.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,3,9,57,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-101,156,0,0.70,"Lyles, Trey",6.70,7.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,3,44,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",-17,51,3,6.00,"Okafor, Jahlil",2.20,7.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,2,3,40,1,"Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-110,65,0,0.00,"O'Bryant, Johnny",8.50,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,3,11,44,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",101,101,0,0.70,"Antetokounmpo, Giannis",6.20,9.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,2,6,19,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-70,131,3,3.60,"Antetokounmpo, Giannis",4.30,11.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,2,0,56,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",125,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,5,56,1,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-84,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,4,4,39,1,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-132,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,4,41,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",145,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,6,05,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",146,21,0,0.70,"Okafor, Jahlil",7.70,6.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,3,40,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-142,-19,0,0.90,"Grant, Jerami",16.10,12.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,10,09,0,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",-101,100,0,1.80,"Lauvergne, Joffrey",5.00,12.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,2,37,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",76,149,1,1.80,"Arthur, Darrell",4.50,8.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,4,56,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",6,51,5,5.20,"Arthur, Darrell",2.40,3.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,3,8,11,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-133,67,0,2.30,"Okafor, Jahlil",4.30,10.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,5,27,1,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-122,144,0,0.70,"Hill, Jordan",4.90,14.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,3,15,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-151,21,0,1.00,"Hill, Jordan",6.30,14.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,2,3,30,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-12,188,0,0.70,"Mahinmi, Ian",6.10,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,4,52,0,"Jump Shot","2PT Field Goal",4,"Indiana Pacers",-30,33,0,0.10,"Hill, Jordan",3.70,23.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,6,06,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-138,129,1,1.60,"Young, Thaddeus",4.30,5.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,3,10,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",146,56,2,2.10,"Reed, Willie",4.10,20.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,4,48,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",6,183,3,1.80,"Robinson, Thomas",4.80,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,3,15,1,"Jump Shot","2PT Field Goal",14,"Orlando Magic",140,39,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,4,36,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",161,141,0,0.80,"Hibbert, Roy",7.70,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,3,15,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-137,87,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,11,47,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",43,-1,0,0.60,"Nance Jr., Larry",6.70,13.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,1,10,12,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",0,208,0,0.50,"Biyombo, Bismack",5.60,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,1,4,50,1,"Jump Shot","2PT Field Goal",13,"Washington Wizards",-132,36,1,1.50,"Gortat, Marcin",5.90,17.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,2,2,14,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",78,134,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,2,0,58,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",69,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,0,39,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-88,134,0,0.70,"Grant, Jerami",4.60,1.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,3,55,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-109,149,0,0.80,"Hibbert, Roy",6.90,11.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,2,7,10,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-16,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,5,51,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-120,-5,1,3.50,"Hibbert, Roy",1.80,15.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,11,00,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",184,36,0,0.00,"Nance Jr., Larry",5.00,1.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,1,9,47,0,"Jump Shot","2PT Field Goal",3,"Minnesota Timberwolves",35,8,0,1.40,"Prince, Tayshaun",2.60,2.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,1,10,50,0,"Jump Shot","2PT Field Goal",6,"Chicago Bulls",69,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,4,5,36,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",132,110,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,1,5,52,0,"Jump Shot","2PT Field Goal",4,"Chicago Bulls",40,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,5,27,0,"Jump Shot","2PT Field Goal",2,"Chicago Bulls",28,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,4,4,12,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",2,205,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,4,4,47,0,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",-133,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,1,44,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",15,203,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,3,7,48,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",42,174,0,0.70,"Biyombo, Bismack",6.40,14.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,1,7,40,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",104,160,0,0.90,"Biyombo, Bismack",5.80,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,2,1,13,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",177,8,0,0.70,"Biyombo, Bismack",5.80,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,1,7,18,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-79,254,0,0.80,"Biyombo, Bismack",7.50,9.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,6,35,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-53,87,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,11,11,0,"Jump Shot","2PT Field Goal",10,"Orlando Magic",1,100,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,3,54,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-117,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,6,53,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-61,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,4,2,27,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",24,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,3,10,22,1,"Jump Shot","2PT Field Goal",19,"Orlando Magic",2,198,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,4,4,05,0,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-34,203,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,11,17,1,"Jump Shot","2PT Field Goal",18,"Orlando Magic",114,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,3,3,10,1,"Jump Shot","2PT Field Goal",14,"Orlando Magic",-32,139,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,11,22,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Clippers",225,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,6,11,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",-125,-10,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,2,3,19,1,"Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",91,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,3,24,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-60,165,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,10,52,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",10,188,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,3,57,1,"Jump Shot","2PT Field Goal",6,"Los Angeles Clippers",-61,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,3,6,08,1,"Jump Shot","2PT Field Goal",2,"Houston Rockets",25,7,0,0.30,"Beverley, Patrick",2.70,4.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,9,25,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",177,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,4,41,1,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",63,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,3,27,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",96,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,7,56,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",179,43,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,2,0,00,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",163,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,6,50,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-145,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,3,2,23,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",127,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,2,4,30,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-161,110,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,1,46,1,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-97,80,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,3,44,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",184,11,0,1.00,"Baynes, Aron",9.90,9.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,4,3,43,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-12,175,0,0.80,"Tolliver, Anthony",8.10,4.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,11,20,1,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",138,-1,0,0.80,"Morris, Marcus",6.10,15.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,9,47,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",117,120,0,0.80,"Ilyasova, Ersan",7.00,15.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,4,8,47,1,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",-79,11,0,0.50,"Drummond, Andre",5.70,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,2,7,42,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-34,136,1,1.60,"Tolliver, Anthony",3.40,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,4,4,23,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",135,47,0,0.90,"Baynes, Aron",6.50,9.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,4,7,18,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",0,156,0,0.80,"Tolliver, Anthony",7.50,11.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,2,7,17,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-91,121,0,0.60,"Tolliver, Anthony",5.50,14.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,2,4,03,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",48,16,1,1.70,"Ilyasova, Ersan",2.40,10.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,4,9,49,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",-45,95,0,0.80,"Drummond, Andre",5.00,7.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,3,1,59,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-65,67,1,2.00,"Drummond, Andre",1.60,4.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,1,9,04,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-120,115,0,0.80,"Parsons, Chandler",5.20,16.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,1,9,33,1,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",141,11,0,0.70,"Pachulia, Zaza",9.30,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,9,12,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-86,134,0,1.00,"McGee, JaVale",8.60,15.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,1,10,37,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-129,129,0,1.00,"Pachulia, Zaza",12.30,8.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,2,8,19,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-151,21,0,0.20,"Harris, Devin",16.40,21.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,2,6,53,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",102,151,0,0.80,"Gortat, Marcin",7.00,20.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,3,6,13,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",145,80,0,0.20,"Gortat, Marcin",5.30,23.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,2,1,47,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",76,154,0,0.80,"Sessions, Ramon",4.80,11.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,2,1,22,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",14,188,0,0.80,"Gortat, Marcin",8.00,12.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,3,4,58,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",-68,43,1,2.60,"Gortat, Marcin",1.10,14.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,1,10,40,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",122,116,0,0.60,"Gortat, Marcin",4.80,7.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,3,3,11,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-60,144,1,1.50,"Oubre, Kelly",4.20,3.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,3,9,53,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",189,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,5,23,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",110,156,0,0.80,"Hibbert, Roy",6.60,6.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,9,35,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",125,156,0,0.80,"Russell, D'Angelo",13.10,14.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,1,51,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",101,129,1,2.20,"Jordan, DeAndre",1.70,5.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,3,47,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",122,154,0,1.50,"Jordan, DeAndre",6.10,14.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,4,4,33,1,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",20,70,0,2.00,"Griffin, Blake",1.80,14.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,3,37,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-68,193,1,1.60,"Jordan, DeAndre",9.10,17.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,3,25,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",-112,188,1,1.40,"Jordan, DeAndre",9.80,16.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,10,05,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",-11,213,0,0.80,"Griffin, Blake",5.20,13.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,0,45,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-129,164,0,0.70,"Jordan, DeAndre",6.60,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,3,44,0,"Jump Shot","2PT Field Goal",8,"Houston Rockets",0,80,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,1,10,14,1,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-104,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,3,16,1,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-74,139,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,1,3,37,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",79,139,1,2.60,"Towns, Karl-Anthony",1.90,3.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,3,42,1,"Jump Shot","2PT Field Goal",7,"Houston Rockets",2,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,2,4,47,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",125,121,0,1.10,"Wiggins, Andrew",1.90,1.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,4,9,08,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-45,169,0,0.80,"Towns, Karl-Anthony",9.20,11.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,1,10,56,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-135,115,0,0.80,"Garnett, Kevin",6.40,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,4,3,17,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",161,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,11,47,1,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",64,134,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,11,10,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",94,174,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,10,07,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",184,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,0,05,0,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",-133,38,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,4,4,09,1,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",140,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,5,46,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",177,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,4,4,21,1,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",-132,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,1,56,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",74,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,6,15,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",89,136,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,11,38,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-163,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,1,8,26,0,"Jump Shot","2PT Field Goal",3,"Miami Heat",33,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,5,22,1,"Jump Shot","2PT Field Goal",2,"Miami Heat",-22,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,7,07,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",128,110,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,2,0,03,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",37,174,1,1.70,"Porzingis, Kristaps",3.60,3.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,2,0,00,0,"Jump Shot","3PT Field Goal",29,"Phoenix Suns",-155,247,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,4,1,04,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-34,159,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,2,4,33,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-120,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,7,35,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-27,188,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,9,21,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",132,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,8,59,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-10,202,1,1.30,"Capela, Clint",6.40,0.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,3,10,41,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",78,174,0,0.80,"Capela, Clint",7.40,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,4,45,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",174,16,0,0.90,"Harden, James",11.40,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,4,6,04,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-156,75,0,0.30,"Capela, Clint",11.90,8.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,4,6,23,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",64,141,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,1,8,10,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",91,170,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,3,2,37,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-248,13,0,0.80,"Dieng, Gorgui",6.40,1.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,2,6,21,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",33,188,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,8,33,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",15,180,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,2,1,12,1,"Jump Shot","2PT Field Goal",14,"New York Knicks",145,16,0,0.70,"Porzingis, Kristaps",8.20,1.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,1,4,11,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-55,174,0,1.00,"Muscala, Mike",7.80,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,1,7,08,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",153,120,0,0.70,"Korver, Kyle",12.70,8.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,3,2,43,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",38,154,0,0.90,"Porzingis, Kristaps",6.70,13.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,4,8,46,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-181,-11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,4,52,1,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",156,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,2,5,31,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-76,174,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,4,22,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-156,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,7,29,1,"Jump Shot","2PT Field Goal",8,"Memphis Grizzlies",38,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,4,1,46,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",0,188,0,0.80,"Galloway, Langston",6.00,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,1,11,47,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-163,18,0,0.80,"Anthony, Carmelo",4.90,12.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,3,8,34,1,"Jump Shot","2PT Field Goal",7,"New York Knicks",43,65,3,3.50,"Porzingis, Kristaps",2.30,12.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,3,10,53,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",60,169,0,0.70,"Porzingis, Kristaps",6.20,13.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,4,3,00,0,"Jump Shot","2PT Field Goal",8,"New York Knicks",35,75,1,2.50,"Lopez, Robin",1.30,3.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,6,43,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",6,164,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,3,3,05,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",104,159,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,2,3,34,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-29,185,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,3,11,41,0,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",32,80,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,3,4,01,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-65,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,10,05,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",159,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,1,9,56,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-1,200,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,5,38,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",25,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,1,11,19,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-25,193,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,7,53,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",9,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,9,59,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",109,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,4,7,00,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",56,170,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,11,26,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-168,23,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,1,7,05,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-32,198,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,1,2,33,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",2,169,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,2,3,29,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",148,87,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,1,1,45,0,"Jump Shot","2PT Field Goal",12,"Utah Jazz",104,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,1,7,09,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",-34,0,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,1,3,08,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-117,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,1,8,42,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",1,193,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,1,11,38,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",163,52,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,4,30,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",76,174,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,3,41,0,"Jump Shot","2PT Field Goal",8,"Indiana Pacers",-70,47,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,6,49,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-148,124,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,2,51,0,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",76,90,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,4,22,1,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-6,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,4,5,05,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",66,175,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,3,5,06,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",25,38,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,3,8,58,1,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-61,90,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,3,31,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-160,82,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,2,2,44,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",127,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,2,5,48,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-133,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,3,6,38,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-25,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,2,6,26,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-81,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,3,11,07,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-132,120,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,3,9,01,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-153,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,1,10,25,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",151,101,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,3,10,12,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",40,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,2,3,17,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-145,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-17,2015,2983,1610612759,400828905,4,2,37,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",76,170,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-12,2015,2983,1610612759,400829102,2,3,53,1,"Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",1,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-12,2015,2983,1610612759,400829102,1,3,23,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-110,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-12,2015,2983,1610612759,400829102,1,11,23,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-151,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,3,9,57,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",37,170,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,4,2,22,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",15,198,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,3,32,1,"Jump Shot","2PT Field Goal",8,"Utah Jazz",20,82,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,11,38,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",117,183,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,8,01,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-184,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,4,3,01,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-112,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,3,3,09,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-143,101,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,2,2,00,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-4,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,5,20,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",117,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,9,31,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-47,185,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,7,47,0,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",-122,38,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,3,7,42,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",27,43,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,4,4,20,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",114,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,2,4,42,0,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-129,23,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,2,42,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-122,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,6,40,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-79,180,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,0,35,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",166,85,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,1,1,23,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-137,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,8,02,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-179,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,11,25,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-76,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,4,5,40,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",173,62,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,2,4,01,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",128,149,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,1,25,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",78,159,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,1,1,53,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",159,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,3,5,09,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-27,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,4,2,30,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-158,111,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,1,10,49,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-24,203,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,2,3,49,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-142,85,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,3,7,30,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",119,134,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,6,59,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",150,95,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,11,04,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",120,146,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,2,2,13,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",22,208,0,1.00,"Gortat, Marcin",5.90,6.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,5,04,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",-40,188,0,1.40,"Porzingis, Kristaps",11.60,14.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,8,55,1,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",141,144,0,1.40,"Horford, Al",6.20,10.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,3,4,56,1,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",158,31,0,0.80,"Millsap, Paul",6.30,7.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,2,57,0,"Jump Shot","2PT Field Goal",5,"Atlanta Hawks",-40,36,2,1.80,"Millsap, Paul",1.80,6.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,1,30,0,"Jump Shot","2PT Field Goal",10,"New York Knicks",99,36,0,0.20,"O'Quinn, Kyle",5.40,11.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,4,1,42,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",-6,52,2,4.50,"Jokic, Nikola",1.80,5.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,3,6,40,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-9,200,0,0.80,"Hickson, JJ",8.30,13.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,9,52,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",151,82,0,0.80,"Hickson, JJ",5.30,12.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,4,0,44,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",158,100,0,0.60,"Dudley, Jared",5.50,19.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,3,6,01,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",130,101,2,5.70,"Humphries, Kris",4.30,14.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,4,4,37,0,"Jump Shot","2PT Field Goal",2,"Brooklyn Nets",-23,12,0,1.20,"Young, Thaddeus",1.30,17.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,10,44,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",153,16,0,0.70,"Mirotic, Nikola",7.60,8.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,8,42,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-60,193,0,0.80,"Gasol, Pau",10.70,14.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,1,4,40,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",128,120,2,3.90,"Anderson, James",2.90,2.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,1,5,53,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-14,209,0,0.80,"Lee, David",5.50,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,3,9,49,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-106,165,0,0.80,"Gay, Rudy",10.90,4.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,2,1,13,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",240,43,0,1.10,"McLemore, Ben",5.00,2.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,3,5,22,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-171,70,0,0.90,"Koufos, Kosta",7.40,9.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,4,39,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-151,154,0,0.60,"Noah, Joakim",6.90,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,2,1,28,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",20,198,0,0.60,"Mirotic, Nikola",5.60,14.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,9,06,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",45,185,0,0.70,"Mirotic, Nikola",4.20,13.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,11,06,0,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",33,105,4,3.90,"Mirotic, Nikola",2.50,2.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,5,11,1,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",-147,38,2,5.30,"Gasol, Pau",6.10,9.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,2,14,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-132,131,0,1.80,"Noah, Joakim",4.30,7.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,2,3,22,1,"Jump Shot","2PT Field Goal",11,"Chicago Bulls",-109,41,1,2.20,"Mirotic, Nikola",2.50,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,2,55,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",181,16,0,0.90,"Noah, Joakim",12.60,9.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,3,3,48,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-7,41,3,5.20,"Wood, Christian",1.00,10.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,2,56,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",137,85,1,1.40,"Noel, Nerlens",4.30,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,4,1,25,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",84,-1,1,1.80,"Noel, Nerlens",2.00,9.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,2,4,16,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",94,131,0,1.00,"Grant, Jerami",4.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,1,3,05,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",171,29,0,0.80,"Johnson, Amir",8.20,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,4,4,22,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-161,76,0,1.50,"Sullinger, Jared",4.20,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,4,3,28,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",92,167,0,0.60,"Sullinger, Jared",10.40,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,5,15,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-6,197,0,0.70,"Smart, Marcus",5.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,8,53,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-97,180,0,0.90,"Davis, Anthony",6.60,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,4,9,02,1,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",25,31,3,5.80,"Davis, Anthony",2.60,7.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,4,7,32,1,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",63,56,3,3.80,"Davis, Anthony",5.20,8.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,0,39,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",35,11,0,6.00,"Leonard, Meyers",6.90,18.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,4,35,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",169,11,0,0.80,"Plumlee, Mason",5.00,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,10,53,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",51,203,0,0.80,"Leonard, Meyers",5.10,9.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,7,46,1,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",-138,28,0,1.60,"Nowitzki, Dirk",2.50,10.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,2,3,50,1,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",63,129,2,2.30,"McGee, JaVale",7.10,4.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,3,10,44,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",140,100,0,0.80,"Matthews, Wesley",7.10,9.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,4,2,39,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",43,188,0,0.90,"Nowitzki, Dirk",7.90,5.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,4,4,46,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-11,203,0,0.80,"Plumlee, Mason",5.90,9.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,1,11,33,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",84,178,0,0.70,"Kaman, Chris",6.90,1.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,1,8,16,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-148,8,1,2.80,"Kaman, Chris",4.50,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,1,10,56,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-109,169,0,0.70,"Monroe, Greg",6.90,2.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,1,6,39,1,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-35,208,0,0.80,"Antetokounmpo, Giannis",7.30,10.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,1,8,31,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",157,73,0,0.50,"Ibaka, Serge",8.20,15.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,4,0,07,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",231,-7,0,0.70,"Ibaka, Serge",2.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,5,25,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",60,193,0,0.70,"Arthur, Darrell",5.40,6.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,8,13,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-151,139,0,0.90,"Arthur, Darrell",5.70,9.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,9,59,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-32,198,0,0.90,"Randolph, Zach",6.70,9.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,5,06,1,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",14,190,0,0.70,"Randolph, Zach",5.00,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,2,1,07,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",158,31,0,0.60,"Randolph, Zach",6.60,7.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,2,6,53,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",117,180,1,1.30,"Randolph, Zach",4.90,16.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,1,5,59,0,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",-107,87,1,2.20,"Randolph, Zach",1.50,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,1,10,48,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",109,169,1,1.30,"Randolph, Zach",2.90,4.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,9,34,1,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-56,208,0,0.80,"Millsap, Paul",5.10,11.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,8,21,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-115,149,1,1.40,"Horford, Al",5.50,9.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,3,6,46,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",155,3,0,0.60,"Millsap, Paul",5.00,19.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,5,53,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-142,136,0,0.80,"Muscala, Mike",5.80,12.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,4,50,0,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",148,51,1,3.10,"Millsap, Paul",3.70,12.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,4,58,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-6,180,0,0.80,Nene,11.70,6.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,2,3,16,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",-145,-10,0,1.20,"Muscala, Mike",3.80,3.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,2,7,31,1,"Jump Shot","2PT Field Goal",5,"New York Knicks",-12,51,1,2.20,"O'Quinn, Kyle",2.40,14.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,3,10,19,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",141,95,0,0.70,"Anthony, Carmelo",4.60,6.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,4,3,39,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",19,203,0,0.70,"Porzingis, Kristaps",5.80,6.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,9,04,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-7,188,0,0.70,"Porzingis, Kristaps",5.40,6.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,3,1,08,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",123,13,0,3.70,"O'Quinn, Kyle",5.10,13.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,0,02,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",19,205,0,0.80,"O'Quinn, Kyle",6.90,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,10,29,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",133,75,0,0.80,"Hickson, JJ",5.40,4.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,4,2,16,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-160,92,0,0.70,"Jokic, Nikola",6.30,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,7,27,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-110,149,0,0.80,"Faried, Kenneth",4.50,12.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,5,03,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-109,154,0,0.70,"Jokic, Nikola",6.00,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,2,4,38,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",164,41,2,1.90,"Gortat, Marcin",3.30,3.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,4,6,22,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",109,144,0,0.90,"Dudley, Jared",6.10,1.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,2,56,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",-83,36,2,5.20,Nene,1.80,9.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,10,51,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",61,178,0,0.90,"Wall, John",4.50,11.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,3,11,06,0,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-138,41,2,2.40,"Humphries, Kris",3.80,13.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,1,39,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",-138,2,0,0.80,Nene,8.60,13.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,2,5,57,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",87,185,0,0.80,"Robinson, Thomas",6.60,16.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,3,2,35,0,"Jump Shot","2PT Field Goal",12,"Brooklyn Nets",113,64,0,0.00,"Lopez, Brook",2.90,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,4,4,06,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-68,198,0,0.70,"Cousins, DeMarcus",4.90,14.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,1,5,14,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-143,146,1,2.40,"Cousins, DeMarcus",4.60,1.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,2,2,10,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-237,38,0,0.60,"Cousins, DeMarcus",7.30,15.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,1,7,44,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",35,188,0,1.00,"Snell, Tony",6.50,8.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,2,0,57,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",125,129,1,1.20,"Mirotic, Nikola",4.50,10.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,6,25,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",117,43,4,5.90,"Mirotic, Nikola",2.70,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,2,3,34,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",101,151,0,1.00,"Grant, Jerami",8.40,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,4,6,16,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",119,134,0,1.00,"Okafor, Jahlil",6.20,11.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,7,26,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-1,178,0,0.70,"Noel, Nerlens",6.50,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,11,16,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-86,149,0,0.60,"Noel, Nerlens",6.30,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,4,4,57,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-189,16,0,0.60,"Johnson, Amir",6.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,2,6,38,0,"Jump Shot","2PT Field Goal",7,"Boston Celtics",-25,71,0,1.20,"Lee, David",1.50,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,10,51,0,"Jump Shot","2PT Field Goal",0,"Boston Celtics",2,1,1,1.80,"Lee, David",2.30,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,1,7,34,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",172,181,3,3.40,"Lee, David",9.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,4,7,00,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",107,69,1,4.20,"Johnson, Amir",3.10,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,1,11,02,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-117,170,0,0.80,"Lee, David",4.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,4,5,13,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",137,51,2,3.70,"Davis, Anthony",2.80,5.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,11,00,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-117,26,2,5.00,"Davis, Anthony",3.60,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,7,40,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-171,-5,0,0.80,"Gordon, Eric",8.50,12.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,4,8,06,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-129,139,0,0.90,"Davis, Anthony",6.90,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,4,12,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-235,7,0,1.10,"Davis, Anthony",1.50,5.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,2,10,39,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-2,203,0,0.80,"Cunningham, Dante",4.40,20.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,2,3,18,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",69,180,0,0.50,"Leonard, Meyers",8.20,10.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,4,02,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-238,-1,0,0.70,"Leonard, Meyers",6.30,3.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,7,57,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",9,195,0,1.00,"Leonard, Meyers",6.60,14.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,11,43,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",181,11,0,0.80,"Pachulia, Zaza",6.90,12.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,3,11,24,0,"Jump Shot","2PT Field Goal",7,"Dallas Mavericks",-27,75,2,5.60,"Williams, Deron",2.70,4.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,2,6,13,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-161,121,0,0.00,"Nowitzki, Dirk",7.10,19.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,4,1,53,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",48,95,1,2.00,"Williams, Deron",5.70,6.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,3,59,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",68,169,0,1.20,"Matthews, Wesley",8.70,6.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,4,26,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-7,193,0,2.00,"Pachulia, Zaza",4.70,10.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,2,1,24,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",158,26,0,0.80,"Powell, Dwight",5.50,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,3,9,23,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",27,185,0,1.00,"Pachulia, Zaza",6.00,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,10,24,0,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",120,80,2,2.50,"Pachulia, Zaza",4.60,8.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,4,7,08,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-97,47,5,6.10,"Zeller, Cody",2.10,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,2,6,12,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",6,183,0,0.70,"Kaminsky, Frank",7.70,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,1,7,39,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",2,218,0,0.80,"Williams, Marvin",6.80,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,4,8,27,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",2,188,0,1.00,"Hawes, Spencer",4.80,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,2,8,36,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-148,-21,2,1.70,"Hawes, Spencer",5.80,1.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,1,5,01,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-143,121,0,0.80,"Plumlee, Mason",5.40,21.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,2,6,05,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",177,-6,0,0.70,"Kaman, Chris",8.20,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,5,47,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",9,200,0,1.00,"Monroe, Greg",11.80,6.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,1,1,42,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",87,174,0,1.00,"Henson, John",5.80,8.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,1,9,30,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",156,47,1,1.00,"Westbrook, Russell",5.50,12.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,4,4,54,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",29,208,0,0.60,"Ibaka, Serge",6.90,7.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,4,1,49,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-129,37,4,5.20,"Ibaka, Serge",3.30,5.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,11,37,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",235,2,0,1.10,"Arthur, Darrell",3.60,7.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,2,3,51,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",137,149,0,0.90,"Mudiay, Emmanuel",14.00,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,3,11,29,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-143,46,2,4.70,"Arthur, Darrell",2.00,8.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,2,2,03,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,11,0,0.00,"Nowitzki, Dirk",1.70,2.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,3,3,04,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",6,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,8,36,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-9,26,3,3.40,"McGee, JaVale",1.50,13.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,4,5,27,0,"Layup Shot","2PT Field Goal",4,"Oklahoma City Thunder",-1,42,3,5.30,"Kanter, Enes",1.90,9.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,3,8,21,0,"Layup Shot","2PT Field Goal",6,"Oklahoma City Thunder",-58,16,2,4.30,"Ibaka, Serge",2.40,7.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,3,0,47,1,"Layup Shot","2PT Field Goal",3,"Minnesota Timberwolves",-25,23,3,3.00,"Bjelica, Nemanja",1.70,7.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,2,2,58,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",0,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,1,9,49,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",6,21,0,0.40,"Wiggins, Andrew",2.30,3.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,2,3,16,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-24,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,2,5,28,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,7,0,1.30,"Parker, Jabari",6.50,14.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,3,7,23,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,18,0,1.70,"Cousins, DeMarcus",3.00,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,3,52,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",24,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,4,1,40,0,"Layup Shot","2PT Field Goal",3,"Denver Nuggets",-37,9,0,1.90,"Jokic, Nikola",1.30,3.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,1,10,36,0,"Layup Shot","2PT Field Goal",4,"Milwaukee Bucks",-13,44,0,1.60,"Antetokounmpo, Giannis",1.90,22.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,1,10,13,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-20,8,2,2.40,"Asik, Omer",1.70,14.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,9,21,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-12,7,0,1.00,"Stauskas, Nik",4.50,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,2,2,16,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-29,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,7,29,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-6,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,4,5,38,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-2,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,6,48,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-19,-5,0,0.70,"Asik, Omer",3.50,18.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,2,0,09,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",1,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,4,32,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-24,16,2,2.30,"Wood, Christian",2.10,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,3,2,33,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-24,16,1,2.70,"Powell, Dwight",2.10,10.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,3,4,52,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-6,11,0,1.10,"Arthur, Darrell",2.40,13.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,2,1,26,0,"Layup Shot","2PT Field Goal",4,"Brooklyn Nets",-40,13,1,4.60,"Lopez, Brook",0.60,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,1,7,28,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",9,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,2,6,07,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,3,58,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",9,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,3,3,24,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-22,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,7,04,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-14,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,1,9,46,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",-20,16,3,5.50,"Porzingis, Kristaps",0.30,12.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,4,22,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-16,13,0,1.30,"Arthur, Darrell",2.60,17.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,8,16,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-14,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,1,9,19,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,2,0,1.30,"Plumlee, Mason",1.30,16.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,4,2,10,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",-24,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-12,2015,2983,1610612759,400829102,2,4,33,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,1,3,48,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-4,11,0,0.40,"Williams, Deron",4.00,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,3,4,33,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-1,2,0,0.30,"Thomas, Isaiah",0.60,5.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,1,4,17,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",0,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,5,31,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-7,21,0,0.00,"Gasol, Pau",1.40,11.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,3,5,39,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-17,7,2,4.00,"O'Quinn, Kyle",2.60,5.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,2,34,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-27,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,7,36,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",9,28,3,3.80,"Lauvergne, Joffrey",1.20,10.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,1,4,37,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,18,0,0.30,"Cousins, DeMarcus",4.20,23.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,2,2,26,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",9,11,0,1.60,"Porzingis, Kristaps",3.00,15.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,8,51,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-14,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,10,57,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-2,26,0,1.90,"Monroe, Greg",3.40,17.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,7,35,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-29,0,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,10,19,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-19,7,0,1.10,"Gasol, Pau",3.70,15.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,7,10,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-9,26,1,1.20,"Lauvergne, Joffrey",1.60,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,3,56,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-4,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,3,07,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-7,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,4,40,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-22,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,4,3,51,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",22,-6,1,2.40,"Jefferson, Al",3.60,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,3,10,45,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",9,18,3,6.30,"Mahinmi, Ian",1.80,2.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,2,4,16,1,"Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-39,-3,0,0.60,"Lopez, Brook",0.20,18.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,2,4,26,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",12,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,9,15,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-20,11,0,0.00,"Russell, D'Angelo",0.90,16.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,1,9,59,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-7,16,2,6.00,"Williams, Marvin",1.50,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,1,2,41,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",4,16,0,0.00,"Bargnani, Andrea",0.00,0.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,4,9,56,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-4,16,3,4.20,"Bjelica, Nemanja",0.60,1.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,3,8,00,1,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-19,8,0,0.90,"Porter, Otto",1.70,13.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,6,32,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-14,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,4,11,48,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,7,0,0.50,"Bjelica, Nemanja",1.90,12.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,2,2,26,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",6,11,0,1.60,"Wiggins, Andrew",2.80,23.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,2,3,36,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",22,-1,0,0.40,"Young, Thaddeus",2.30,11.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,1,49,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-7,13,0,0.40,"Muscala, Mike",0.90,9.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,8,44,1,"Layup Shot","2PT Field Goal",5,"Boston Celtics",-27,46,0,1.20,"Crowder, Jae",2.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,8,32,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-14,3,0,0.40,"Hood, Rodney",1.50,1.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,7,12,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-29,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,8,57,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",19,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,3,2,19,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-25,8,2,3.20,"Capela, Clint",1.30,8.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,3,37,1,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-27,16,0,0.70,"Brewer, Corey",4.10,9.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,4,24,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-7,7,0,0.70,"Favors, Derrick",2.60,12.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,10,51,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",19,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,2,5,14,1,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",2,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,3,8,18,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",4,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,2,2,35,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-16,8,0,0.00,"Capela, Clint",1.70,13.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,3,10,53,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-11,0,0,0.20,"Hickson, JJ",1.50,23.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,8,02,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",19,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,4,9,05,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,2,0,49,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,6,26,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,-1,0,1.00,"Nance Jr., Larry",1.90,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,2,01,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",9,7,0,1.70,"Hibbert, Roy",0.00,23.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,1,5,06,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-11,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,9,36,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",-12,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,5,24,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-24,-1,0,0.70,"Young, Thaddeus",3.30,18.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,4,26,1,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-24,7,0,1.70,"Reed, Willie",1.90,14.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,1,10,03,1,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",4,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,8,39,0,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-2,16,0,0.80,"Young, Thaddeus",1.20,17.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,10,47,1,"Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-32,7,0,0.80,"Noel, Nerlens",3.20,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,3,4,47,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",12,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,0,03,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",-9,0,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,3,7,16,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",27,7,0,0.40,"Randolph, Zach",3.20,18.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,4,8,43,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",4,2,0,0.30,"Green, JaMychal",6.30,15.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,2,4,40,1,"Layup Shot","2PT Field Goal",4,"Toronto Raptors",1,41,0,0.40,"Biyombo, Bismack",2.90,18.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,3,4,03,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-17,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,3,4,18,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,3,0,0.40,"Jackson, Reggie",3.30,8.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,3,5,34,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",-6,31,0,0.00,"Gasol, Pau",1.00,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,4,1,13,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-16,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,6,17,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",5,9,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,4,35,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,3,11,26,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",15,8,0,0.40,"Capela, Clint",3.70,5.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,1,22,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",1,28,4,5.20,"Covington, Robert",2.40,14.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-28,2015,2983,1610612759,400828352,2,1,00,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-2,7,0,1.20,"Payne, Adreian",0.70,8.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,1,6,12,1,"Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",-9,37,3,4.60,"Durant, Kevin",3.00,10.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,5,21,0,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,-6,1,5.00,"Aminu, Al-Farouq",7.00,23.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-09,2015,2983,1610612759,400827990,1,3,41,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-19,11,0,0.50,"Rondo, Rajon",6.70,17.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,2,6,57,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,0,0,1.30,"Tolliver, Anthony",2.00,16.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-30,2015,2983,1610612759,400828144,4,1,06,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-25,0,2,2.10,"Gasol, Pau",2.80,7.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,5,10,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-11,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,11,07,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-16,-5,0,0.60,"Noel, Nerlens",1.90,9.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,4,4,11,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-12,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,3,11,02,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-6,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,2,6,45,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",10,7,1,2.30,"Baynes, Aron",3.00,15.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,2,3,32,0,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-24,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,2,10,1,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",25,-6,0,0.50,"Holmes, Richaun",2.20,4.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,5,36,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",19,2,0,1.90,"Villanueva, Charlie",0.40,10.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,3,8,20,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",9,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,4,7,52,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",2,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,9,41,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-11,-6,0,0.60,"Noel, Nerlens",4.20,15.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,2,2,37,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,10,37,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-19,-6,0,0.50,"Nance Jr., Larry",2.00,17.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,2,8,13,1,"Pullup Bank shot","2PT Field Goal",13,"Charlotte Hornets",127,46,1,1.80,"Williams, Marvin",3.20,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,5,00,1,"Pullup Jump shot","2PT Field Goal",13,"Philadelphia 76ers",101,95,1,1.80,"Okafor, Jahlil",5.10,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,6,19,1,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",128,100,1,2.30,"Anderson, Ryan",7.10,8.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,2,6,39,1,"Pullup Jump shot","2PT Field Goal",8,"Charlotte Hornets",74,43,1,2.50,"Kaminsky, Frank",4.70,4.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,1,5,45,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",-40,178,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,1,2,50,0,"Pullup Jump shot","2PT Field Goal",8,"Los Angeles Clippers",66,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-10,2015,2983,1610612759,400828677,1,5,14,1,"Pullup Jump shot","2PT Field Goal",14,"Orlando Magic",-107,97,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,11,15,0,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Lakers",-52,195,1,1.80,"Hibbert, Roy",4.50,5.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,10,51,0,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-119,100,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,1,7,56,1,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",151,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,1,6,18,1,"Pullup Jump shot","2PT Field Goal",13,"Chicago Bulls",71,120,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,4,3,15,0,"Pullup Jump shot","2PT Field Goal",15,"Detroit Pistons",63,144,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,7,27,0,"Pullup Jump shot","2PT Field Goal",16,"Detroit Pistons",64,154,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,1,4,49,1,"Pullup Jump shot","2PT Field Goal",20,"Detroit Pistons",125,164,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,1,23,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Clippers",145,52,2,1.60,"Rivers, Austin",7.90,2.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,2,3,25,0,"Pullup Jump shot","2PT Field Goal",13,"Los Angeles Clippers",-130,26,1,1.80,"Paul, Chris",7.90,13.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,2,5,46,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-4,160,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,8,59,0,"Pullup Jump shot","2PT Field Goal",15,"Golden State Warriors",-153,41,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,3,52,0,"Pullup Jump shot","2PT Field Goal",10,"Golden State Warriors",6,100,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,11,42,0,"Pullup Jump shot","2PT Field Goal",11,"Phoenix Suns",102,56,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,1,10,47,1,"Pullup Jump shot","2PT Field Goal",19,"Toronto Raptors",56,183,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,2,3,12,0,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-151,0,0,0.40,"Millsap, Paul",2.70,1.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,6,25,1,"Pullup Jump shot","2PT Field Goal",8,"Memphis Grizzlies",0,85,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,2,5,10,0,"Pullup Jump shot","2PT Field Goal",19,"Denver Nuggets",155,115,1,1.20,"Barton, Will",4.20,14.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,1,4,59,0,"Pullup Jump shot","2PT Field Goal",15,"New York Knicks",74,134,1,1.30,"Porzingis, Kristaps",7.50,15.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,10,46,0,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",141,141,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,2,5,26,0,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-88,65,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,3,40,1,"Pullup Jump shot","2PT Field Goal",12,"Memphis Grizzlies",-60,115,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,4,9,20,1,"Pullup Jump shot","2PT Field Goal",8,"Indiana Pacers",-32,82,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,1,4,08,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,"Monroe, Greg",3.40,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,2,1,24,1,"Putback Dunk Shot","2PT Field Goal",3,"Brooklyn Nets",-30,14,0,0.00,"Lopez, Brook",0.80,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,8,59,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,2,4,53,1,"Putback Dunk Shot","2PT Field Goal",2,"Brooklyn Nets",13,27,0,0.00,"Jack, Jarrett",2.90,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,4,48,0,"Putback Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,4,1,55,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,7,53,1,"Putback Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-19,-1,0,0.00,"Young, Thaddeus",1.40,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,7,08,1,"Putback Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,0,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,3,7,32,1,"Putback Layup Shot","2PT Field Goal",2,"Denver Nuggets",14,16,0,0.60,"Lauvergne, Joffrey",3.20,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,3,1,53,0,"Putback Layup Shot","2PT Field Goal",1,"Golden State Warriors",-12,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,2,1,01,1,"Putback Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-19,11,0,0.00,"Nowitzki, Dirk",1.40,22.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,5,27,0,"Putback Layup Shot","2PT Field Goal",2,"Brooklyn Nets",22,11,0,0.00,"Robinson, Thomas",0.30,23.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,2,4,33,1,"Putback Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",1,-10,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,2,0,01,1,"Putback Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-13,9,0,0.00,"Durant, Kevin",2.80,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-16,2015,2983,1610612759,400828266,4,2,43,1,"Putback Layup Shot","2PT Field Goal",3,"Washington Wizards",37,11,0,0.00,"Humphries, Kris",1.80,23.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,7,59,1,"Putback Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",9,7,0,0.00,"Jordan, DeAndre",3.90,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-04,2015,2983,1610612759,400827948,1,2,23,1,"Putback Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,8,0,0.00,"Gooden, Drew",4.10,23.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,4,4,49,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",4,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,10,50,1,"Putback Layup Shot","2PT Field Goal",1,"Phoenix Suns",-11,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,10,15,1,"Putback Layup Shot","2PT Field Goal",1,"Dallas Mavericks",19,0,0,0.00,"McGee, JaVale",1.30,3.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,3,6,24,1,"Putback Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",14,3,0,0.00,"Bryant, Kobe",1.20,23.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,11,45,1,"Putback Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-25,2,0,0.00,"Nance Jr., Larry",1.70,23.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,3,7,54,1,"Putback Layup Shot","2PT Field Goal",0,"Golden State Warriors",1,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,2,4,04,1,"Putback Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-6,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,8,23,0,"Putback Layup Shot","2PT Field Goal",3,"Denver Nuggets",-24,21,0,0.00,"Hickson, JJ",0.30,14.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,1,7,53,1,"Putback Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-14,3,0,0.00,"Parker, Jabari",1.00,13.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,9,06,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",-12,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,5,57,1,"Putback Layup Shot","2PT Field Goal",1,"Houston Rockets",-17,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,3,8,19,0,"Putback Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",3,10,0,0.00,"Collison, Nick",2.20,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,4,7,23,1,"Reverse Layup Shot","2PT Field Goal",1,"Phoenix Suns",14,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-05,2015,2983,1610612759,400828183,2,3,59,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",-22,13,0,0.50,"Johnson, Amir",0.50,4.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,3,18,0,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",14,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,1,10,18,1,"Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,-1,0,0.80,"Morris, Marcus",2.60,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,2,3,27,1,"Reverse Layup Shot","2PT Field Goal",2,"Houston Rockets",24,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,6,38,0,"Reverse Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",19,2,0,1.40,"Antetokounmpo, Giannis",1.10,12.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,1,26,1,"Running Alley Oop Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-1,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,1,19,1,"Running Alley Oop Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",14,2,0,0.00,"Hibbert, Roy",1.10,17.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,1,2,26,1,"Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,4,5,19,1,"Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,1,3.40,"Capela, Clint",13.60,23.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,6,54,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,4,18,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,4,3,06,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,2,06,1,"Running Finger Roll Layup Shot","2PT Field Goal",3,"Houston Rockets",-3,34,0,0.80,"Harden, James",3.60,18.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,3,10,56,0,"Running Jump Shot","2PT Field Goal",12,"Sacramento Kings",-119,38,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,3,1,40,1,"Running Jump Shot","2PT Field Goal",4,"New York Knicks",14,43,2,4.60,"O'Quinn, Kyle",4.60,9.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,1,3,52,0,"Running Jump Shot","2PT Field Goal",11,"Brooklyn Nets",-30,106,0,2.80,"Bogdanovic, Bojan",0.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,1,10,38,0,"Running Jump Shot","2PT Field Goal",6,"Milwaukee Bucks",-60,21,1,2.10,"Antetokounmpo, Giannis",1.40,17.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,3,5,55,1,"Running Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-22,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,3,36,1,"Running Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,7,35,1,"Step Back Jump shot","2PT Field Goal",8,"Dallas Mavericks",89,3,2,5.50,"Nowitzki, Dirk",4.50,10.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,3,9,05,1,"Step Back Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",153,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,3,8,15,1,"Step Back Jump shot","2PT Field Goal",9,"Toronto Raptors",51,75,0,2.70,"Scola, Luis",5.90,6.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,2,3,57,0,"Step Back Jump shot","2PT Field Goal",17,"Atlanta Hawks",-150,80,2,2.20,"Muscala, Mike",4.50,15.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,2,0,30,0,"Step Back Jump shot","2PT Field Goal",12,"Dallas Mavericks",122,31,2,2.00,"Nowitzki, Dirk",5.10,7.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-12,2015,2983,1610612759,400828234,1,6,11,1,"Step Back Jump shot","2PT Field Goal",12,"Atlanta Hawks",-58,115,0,2.80,"Millsap, Paul",4.20,11.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,9,40,0,"Step Back Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-160,110,1,1.80,"Leonard, Meyers",5.10,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,6,09,0,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",-92,100,2,3.90,"Nance Jr., Larry",3.20,15.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,10,37,1,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Clippers",-70,156,2,2.40,"Griffin, Blake",3.80,13.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,7,25,1,"Step Back Jump shot","2PT Field Goal",15,"Los Angeles Clippers",150,-11,1,2.40,"Mbah a Moute, Luc",2.90,6.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,3,11,35,1,"Step Back Jump shot","2PT Field Goal",13,"Cleveland Cavaliers",119,61,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,3,5,50,0,"Step Back Jump shot","2PT Field Goal",19,"Milwaukee Bucks",-181,70,1,2.40,"Antetokounmpo, Giannis",2.50,17.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,4,3,33,1,"Step Back Jump shot","2PT Field Goal",17,"Charlotte Hornets",-63,164,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,1,4,29,0,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",138,93,3,3.60,"Adams, Steven",4.90,8.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,2,5,07,0,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",133,90,1,3.40,"Antetokounmpo, Giannis",4.10,12.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,2,1,17,1,"Step Back Jump shot","2PT Field Goal",14,"New Orleans Pelicans",-145,16,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,1,11,19,1,"Step Back Jump shot","2PT Field Goal",15,"Los Angeles Clippers",-151,28,2,4.40,"Griffin, Blake",3.30,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,2,3,44,0,"Step Back Jump shot","2PT Field Goal",9,"Toronto Raptors",-24,97,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,9,35,1,"Step Back Jump shot","2PT Field Goal",13,"Golden State Warriors",-97,95,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-08,2015,2983,1610612759,400828832,2,2,15,1,"Step Back Jump shot","2PT Field Goal",11,"Minnesota Timberwolves",-115,31,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,1,9,48,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",-88,129,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,3,3,50,0,"Step Back Jump shot","2PT Field Goal",18,"Golden State Warriors",164,75,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,3,2,34,0,"Step Back Jump shot","2PT Field Goal",15,"Orlando Magic",150,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,1,2,38,1,"Step Back Jump shot","2PT Field Goal",17,"Houston Rockets",-6,174,2,2.60,"Howard, Dwight",7.80,10.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,3,8,32,0,"Step Back Jump shot","2PT Field Goal",14,"Toronto Raptors",-145,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,6,22,0,"Step Back Jump shot","2PT Field Goal",15,"Milwaukee Bucks",-122,97,2,4.70,"Monroe, Greg",6.10,12.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,2,36,1,"Tip Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,"Nance Jr., Larry",2.50,12.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,3,5,08,1,"Tip Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,2,5,57,1,"Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",6,13,0,0.40,"Cunningham, Dante",3.90,23.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-18,2015,2983,1610612759,400828280,3,7,03,1,"Tip Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",9,2,0,0.40,"Paul, Chris",0.40,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,4,2,00,1,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",-9,-1,0,0.10,"Terry, Jason",2.20,11.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,3,5,02,0,"Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-11,11,0,0.10,"Davis, Anthony",2.10,23.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-10,2015,2983,1610612759,400828847,3,5,24,1,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",-6,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,2,0,39,1,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",-6,-1,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,2,19,1,"Tip Layup Shot","2PT Field Goal",1,"Houston Rockets",12,11,0,0.10,"Jones, Terrence",1.70,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,3,10,23,0,"Tip Layup Shot","2PT Field Goal",1,"Houston Rockets",10,8,0,0.20,"Capela, Clint",1.10,11.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,3,8,27,1,"Tip Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-11,8,0,0.20,"Monroe, Greg",3.40,3.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,5,37,1,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",2,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-04,2015,2983,1610612759,400828403,2,0,57,1,"Tip Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-12,7,0,0.10,"Antetokounmpo, Giannis",1.20,14.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,3,8,43,0,"Tip Layup Shot","2PT Field Goal",0,"Sacramento Kings",3,9,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-09,2015,2983,1610612759,400828210,2,5,39,1,"Tip Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,11,0,0.40,"Scola, Luis",2.00,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,3,6,34,1,"Tip Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",1,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,8,37,1,"Tip Layup Shot","2PT Field Goal",2,"Brooklyn Nets",27,0,0,0.10,"Young, Thaddeus",2.90,17.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,2,21,0,"Tip Layup Shot","2PT Field Goal",2,"Houston Rockets",14,26,0,2.60,"Capela, Clint",0.90,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,1,2,56,1,"Tip Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-7,-1,0,0.00,"Muscala, Mike",0.00,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,4,6,47,0,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",-6,0,0,0.30,"Howard, Dwight",2.10,24.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,1,3,23,1,"Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",12,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-25,2015,2983,1610612759,400828111,3,8,18,1,"Tip Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-11,2,0,0.00,"Pachulia, Zaza",2.70,0.50
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,3,5,32,1,"Tip Layup Shot","2PT Field Goal",0,"New York Knicks",0,-5,0,0.20,"Porzingis, Kristaps",0.00,21.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,9,26,0,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,1,3,34,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-9,2,0,0.00,"Leonard, Meyers",1.70,11.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,3,8,23,0,"Tip Layup Shot","2PT Field Goal",1,"Golden State Warriors",6,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,3,10,22,0,"Tip Layup Shot","2PT Field Goal",1,"Boston Celtics",-12,4,0,0.20,"Lee, David",1.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,2,0,36,1,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",-6,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-14,2015,2983,1610612759,400828029,1,2,28,1,"Tip Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-6,0,0,0.00,"Noel, Nerlens",2.70,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,2,8,37,1,"Tip Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-20,2,0,0.10,"Davis, Anthony",3.20,18.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,4,5,54,1,"Turnaround Bank Hook Shot","2PT Field Goal",6,"Golden State Warriors",66,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-07,2015,2983,1610612759,400828826,3,11,06,1,"Turnaround Bank shot","2PT Field Goal",7,"Indiana Pacers",68,18,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,3,10,21,0,"Turnaround Bank shot","2PT Field Goal",18,"Los Angeles Clippers",169,62,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,6,58,1,"Turnaround Bank shot","2PT Field Goal",8,"Dallas Mavericks",82,21,2,3.60,"Villanueva, Charlie",3.20,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,1,6,53,0,"Turnaround Bank shot","2PT Field Goal",3,"New Orleans Pelicans",-37,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-15,2015,2983,1610612759,400828888,3,4,20,1,"Turnaround Bank shot","2PT Field Goal",14,"Los Angeles Clippers",145,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,1,6,53,0,"Turnaround Bank shot","2PT Field Goal",9,"New Orleans Pelicans",91,38,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,1,4,33,1,"Turnaround Bank shot","2PT Field Goal",5,"Indiana Pacers",58,3,0,1.20,"Mahinmi, Ian",2.50,15.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,3,17,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Philadelphia 76ers",-58,72,4,5.40,"Okafor, Jahlil",4.70,10.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,4,3,52,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Boston Celtics",-86,56,2,4.90,"Sullinger, Jared",2.80,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,10,44,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Brooklyn Nets",-165,0,4,4.40,"Young, Thaddeus",3.00,12.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,1,7,49,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Orlando Magic",2,105,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,2,6,28,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Memphis Grizzlies",-88,43,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,5,00,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Golden State Warriors",-137,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,3,8,09,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Phoenix Suns",-107,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,6,02,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Portland Trail Blazers",97,61,2,3.80,"Leonard, Meyers",3.20,11.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-05,2015,2983,1610612759,400829048,3,10,30,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Utah Jazz",-107,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,4,07,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Portland Trail Blazers",-99,56,2,3.70,"Plumlee, Mason",4.10,10.90
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,2,37,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Portland Trail Blazers",-107,16,2,3.20,"Davis, Ed",4.00,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-03,2015,2983,1610612759,400828167,2,5,59,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Memphis Grizzlies",-74,52,3,3.70,"Allen, Tony",0.00,9.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,3,11,22,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Golden State Warriors",-107,72,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-02,2015,2983,1610612759,400828389,3,5,38,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Houston Rockets",-88,80,2,3.00,"Jones, Terrence",4.10,14.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,1,10,29,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Philadelphia 76ers",-61,65,3,5.20,"Noel, Nerlens",4.00,10.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,1,8,51,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Denver Nuggets",-97,61,1,2.40,"Faried, Kenneth",2.60,15.30
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-11,2015,2983,1610612759,400828010,3,11,04,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Portland Trail Blazers",105,129,2,3.40,"Leonard, Meyers",2.50,10.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,2,1,23,1,"Turnaround Hook Shot","2PT Field Goal",3,"Detroit Pistons",-12,28,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,2,3,22,1,"Turnaround Hook Shot","2PT Field Goal",6,"Phoenix Suns",-63,11,4,4.70,"Leuer, Jon",1.60,11.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,3,11,13,0,"Turnaround Hook Shot","2PT Field Goal",7,"Brooklyn Nets",73,16,1,1.30,"Young, Thaddeus",3.50,13.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,1,10,52,0,"Turnaround Hook Shot","2PT Field Goal",7,"Phoenix Suns",-70,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-09,2015,2983,1610612759,400828671,2,8,21,1,"Turnaround Hook Shot","2PT Field Goal",7,"Miami Heat",78,-11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,3,11,43,1,"Turnaround Hook Shot","2PT Field Goal",4,"Oklahoma City Thunder",-40,14,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,4,17,1,"Turnaround Hook Shot","2PT Field Goal",10,"Golden State Warriors",-104,-5,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-25,2015,2983,1610612759,400828562,3,10,12,0,"Turnaround Hook Shot","2PT Field Goal",7,"Golden State Warriors",56,57,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,2,1,42,0,"Turnaround Hook Shot","2PT Field Goal",7,"Los Angeles Lakers",78,11,0,2.10,"Randle, Julius",0.60,4.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,3,9,18,0,"Turnaround Hook Shot","2PT Field Goal",3,"Utah Jazz",-2,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-07,2015,2983,1610612759,400828192,2,5,16,1,"Turnaround Hook Shot","2PT Field Goal",7,"Philadelphia 76ers",-30,70,2,4.20,"Okafor, Jahlil",3.40,13.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-07,2015,2983,1610612759,400829064,1,5,47,1,"Turnaround Hook Shot","2PT Field Goal",10,"Golden State Warriors",-35,95,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,5,34,1,"Turnaround Hook Shot","2PT Field Goal",4,"Miami Heat",45,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,2,2,31,0,"Turnaround Hook Shot","2PT Field Goal",6,"Minnesota Timberwolves",55,31,0,5.30,"Towns, Karl-Anthony",2.80,23.40
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-02,2015,2983,1610612759,400829027,3,2,36,1,"Turnaround Hook Shot","2PT Field Goal",8,"Toronto Raptors",-79,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-03,2015,2983,1610612759,400828796,4,6,10,1,"Turnaround Hook Shot","2PT Field Goal",8,"New Orleans Pelicans",-84,11,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,4,4,20,1,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-124,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-08,2015,2983,1610612759,400828433,1,3,01,0,"Turnaround Jump Shot","2PT Field Goal",9,"New York Knicks",-94,26,1,2.80,"Anthony, Carmelo",2.90,2.50
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,2,5,55,1,"Turnaround Jump Shot","2PT Field Goal",6,"Denver Nuggets",9,61,1,1.40,"Faried, Kenneth",2.00,13.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,4,8,49,1,"Turnaround Jump Shot","2PT Field Goal",14,"Brooklyn Nets",146,3,2,3.80,"Young, Thaddeus",2.20,6.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,6,55,1,"Turnaround Jump Shot","2PT Field Goal",12,"Houston Rockets",-122,0,0,0.80,"Jones, Terrence",3.80,9.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-14,2015,2983,1610612759,400828251,1,4,55,0,"Turnaround Jump Shot","2PT Field Goal",12,"Utah Jazz",-119,26,1,3.40,"Booker, Trevor",2.10,13.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,1,5,20,1,"Turnaround Jump Shot","2PT Field Goal",5,"Denver Nuggets",15,51,3,7.00,"Faried, Kenneth",2.60,6.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,1,6,11,0,"Turnaround Jump Shot","2PT Field Goal",11,"Miami Heat",-117,-6,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,9,05,1,"Turnaround Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-163,13,1,1.70,"Young, Thaddeus",3.50,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,2,7,42,1,"Turnaround Jump Shot","2PT Field Goal",11,"Atlanta Hawks",112,18,1,3.80,"Horford, Al",2.10,12.80
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,1,7,54,0,"Turnaround Jump Shot","2PT Field Goal",11,"Brooklyn Nets",-108,51,0,2.20,"Young, Thaddeus",0.20,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,2,2,18,0,"Turnaround Jump Shot","2PT Field Goal",13,"Boston Celtics",-116,67,5,4.20,"Johnson, Amir",3.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-30,2015,2983,1610612759,400829005,4,6,29,1,"Turnaround Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-74,26,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,3,6,35,1,"Turnaround Jump Shot","2PT Field Goal",12,"Dallas Mavericks",120,7,1,2.60,"Villanueva, Charlie",3.70,13.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,1,2,23,1,"Turnaround Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-96,2,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-27,2015,2983,1610612759,400828759,4,6,31,0,"Turnaround Jump Shot","2PT Field Goal",10,"Houston Rockets",-102,28,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,4,5,06,1,"Turnaround Jump Shot","2PT Field Goal",14,"Orlando Magic",-142,46,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-18,2015,2983,1610612759,400828059,3,4,18,0,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-143,61,2,4.00,"Arthur, Darrell",3.30,10.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-27,2015,2983,1610612759,400828122,1,4,54,0,"Turnaround Jump Shot","2PT Field Goal",13,"Denver Nuggets",-138,16,2,4.60,"Arthur, Darrell",3.50,12.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-17,2015,2983,1610612759,400828499,1,7,08,0,"Turnaround Jump Shot","2PT Field Goal",8,"Dallas Mavericks",-79,31,3,4.00,"Pachulia, Zaza",3.90,5.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,2,2,46,0,"Turnaround Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",56,95,3,3.70,"Plumlee, Mason",0.10,23.20
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-20,2015,2983,1610612759,400828069,2,0,29,1,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-130,57,2,4.10,"Davis, Anthony",4.40,7.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-01,2015,2983,1610612759,400827927,2,0,32,1,"Turnaround Jump Shot","2PT Field Goal",7,"Boston Celtics",-26,65,1,2.70,"Johnson, Amir",1.40,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-02,2015,2983,1610612759,400827935,2,8,00,1,"Turnaround Jump Shot","2PT Field Goal",13,"New York Knicks",-132,2,2,5.80,"O'Quinn, Kyle",5.10,14.40
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-11,2015,2983,1610612759,400828229,1,7,08,1,"Turnaround Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-147,62,3,4.40,"Nance Jr., Larry",3.30,9.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-03,2015,2983,1610612759,400828629,2,5,08,0,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-142,31,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,1,1,37,1,"Turnaround Jump Shot","2PT Field Goal",12,"Golden State Warriors",-120,33,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-14,2015,2983,1610612759,400828477,1,10,23,0,"Turnaround Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",-150,57,5,6.10,"Thompson, Tristan",3.10,7.10
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-28,2015,2983,1610612759,400828987,3,8,55,1,"Turnaround Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",74,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,3,7,09,0,"Turnaround Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-106,43,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-21,2015,2983,1610612759,400828303,3,10,40,0,"Turnaround Jump Shot","2PT Field Goal",7,"Indiana Pacers",76,16,0,0.50,"Mahinmi, Ian",2.50,1.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-24,2015,2983,1610612759,400828741,1,9,47,0,"Turnaround Jump Shot","2PT Field Goal",15,"Sacramento Kings",145,67,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-04-10,2015,2983,1610612759,400829088,3,4,25,1,"Turnaround Jump Shot","2PT Field Goal",13,"Golden State Warriors",138,8,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-02,2015,2983,1610612759,400828162,3,7,28,0,"Turnaround Jump Shot","2PT Field Goal",12,"Milwaukee Bucks",-129,13,2,4.40,"Monroe, Greg",3.00,5.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-23,2015,2983,1610612759,400828950,3,4,20,1,"Turnaround Jump Shot","2PT Field Goal",10,"Miami Heat",-94,51,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-21,2015,2983,1610612759,400828713,3,4,57,1,"Turnaround Jump Shot","2PT Field Goal",9,"Phoenix Suns",-96,13,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-16,2015,2983,1610612759,400828043,1,11,02,0,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-132,33,2,3.50,"Kaman, Chris",3.90,11.60
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-30,2015,2983,1610612759,400827915,1,11,27,1,"Turnaround Jump Shot","2PT Field Goal",21,"Brooklyn Nets",211,15,2,2.50,"Young, Thaddeus",2.60,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-12,2015,2983,1610612759,400828457,3,5,18,1,"Turnaround Jump Shot","2PT Field Goal",9,"Detroit Pistons",-94,16,1,1.70,"Ilyasova, Ersan",3.90,9.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,1,9,48,0,"Turnaround Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",69,62,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-25,2015,2983,1610612759,400828747,3,4,37,0,"Turnaround Jump Shot","2PT Field Goal",11,"Utah Jazz",-114,31,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,2,2,57,0,"Turnaround Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-124,3,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-10-28,2015,2983,1610612759,400827900,3,11,41,1,"Turnaround Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-110,16,2,4.70,"Ibaka, Serge",3.50,7.60
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-27,2015,2983,1610612759,400828576,1,3,06,0,"Turnaround Jump Shot","2PT Field Goal",13,"Houston Rockets",-130,36,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-11,2015,2983,1610612759,400828453,1,7,25,1,"Turnaround Jump Shot","2PT Field Goal",18,"Brooklyn Nets",176,41,0,1.30,"Young, Thaddeus",6.10,22.20
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-02,2015,2983,1610612759,400828792,3,6,50,1,"Turnaround Jump Shot","2PT Field Goal",16,"Detroit Pistons",-147,70,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-18,2015,2983,1610612759,0,1,5,17,0,"Turnaround Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",150,120,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-19,2015,2983,1610612759,400828705,4,8,33,0,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-138,7,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-25,2015,2983,1610612759,400828326,1,11,42,0,"Turnaround Jump Shot","2PT Field Goal",5,"Houston Rockets",-58,3,2,3.70,"Capela, Clint",0.10,8.70
+"LaMarcus Aldridge","San Antonio Spurs",2016-01-30,2015,2983,1610612759,400828600,3,8,47,0,"Turnaround Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",-84,47,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-23,2015,2983,1610612759,400828318,1,9,19,0,"Turnaround Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",22,61,3,4.10,"Towns, Karl-Anthony",4.00,13.80
+"LaMarcus Aldridge","San Antonio Spurs",2016-02-01,2015,2983,1610612759,400828613,3,5,25,0,"Turnaround Jump Shot","2PT Field Goal",10,"Orlando Magic",-104,21,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-19,2015,2983,1610612759,400828923,4,0,58,0,"Turnaround Jump Shot","2PT Field Goal",14,"Golden State Warriors",-138,33,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-07,2015,2983,1610612759,400827977,1,8,53,1,"Turnaround Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-151,65,0,0.90,"Williams, Marvin",4.70,1.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-30,2015,2983,1610612759,400828368,1,6,38,0,"Turnaround Jump Shot","2PT Field Goal",6,"Phoenix Suns",-60,26,2,3.60,"Chandler, Tyson",2.30,11.70
+"LaMarcus Aldridge","San Antonio Spurs",2015-11-28,2015,2983,1610612759,400828129,3,9,33,0,"Turnaround Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-124,51,2,6.30,"Horford, Al",4.00,7.30
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-25,2015,2983,1610612759,400828965,3,2,28,1,"Turnaround Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",145,82,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,4,8,04,0,"Turnaround Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-120,70,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-21,2015,2983,1610612759,400828930,1,9,47,0,"Turnaround Jump Shot","2PT Field Goal",13,"Charlotte Hornets",78,105,0,0.00,,0.00,0.00
+"LaMarcus Aldridge","San Antonio Spurs",2015-12-26,2015,2983,1610612759,400828337,1,4,04,0,"Turnaround Jump Shot","2PT Field Goal",13,"Denver Nuggets",-137,11,2,4.20,"Faried, Kenneth",3.00,15.90
+"LaMarcus Aldridge","San Antonio Spurs",2016-03-12,2015,2983,1610612759,400828866,2,3,25,0,"Turnaround Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",27,31,0,0.00,,0.00,0.00

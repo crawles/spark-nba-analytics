@@ -1,0 +1,1048 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Eric Bledsoe","Phoenix Suns",2014-11-12,2014,4238,1610612756,400578408,3,3,18,1,"Alley Oop Layup shot","2PT Field Goal",2,"Brooklyn Nets",18,9,5,5.80,"Teletovic, Mirza",2.50,3.80
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,1,6,10,0,"Alley Oop Layup shot","2PT Field Goal",0,"Oklahoma City Thunder",-8,4,0,0.00,"Roberson, Andre",5.10,21.20
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,2,1,48,0,"Driving Bank shot","2PT Field Goal",5,"Los Angeles Clippers",53,7,2,3.80,"Paul, Chris",3.10,8.10
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,1,4,31,0,"Driving Bank shot","2PT Field Goal",12,"Dallas Mavericks",72,97,2,2.00,"Harris, Devin",2.40,6.20
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,9,53,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,3,3.20,"Price, Ronnie",8.70,20.20
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,1,6,10,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,3,3.30,"Calderon, Jose",10.80,20.50
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,2,6,28,0,"Driving Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,9,8.90,"Vasquez, Greivis",1.80,15.30
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,1,7,11,1,"Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,3,3.80,"Williams, Mo",4.60,22.40
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,2,0,08,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,14,14.40,"Aldrich, Cole",2.50,4.00
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,3,5,52,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,2,4.30,"Ezeli, Festus",3.70,15.50
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,4,41,1,"Driving Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,3,3.00,"Batum, Nicolas",5.20,20.90
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,0,08,1,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,5,3.50,"Ariza, Trevor",5.80,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,2,1,37,1,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,2,3.20,"Terry, Jason",10.20,22.00
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,2,4,57,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Golden State Warriors",4,15,1,2.70,"Curry, Stephen",27.90,23.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,4,0,23,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",-13,12,19,15.60,"Anthony, Carmelo",3.70,8.50
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,3,2,43,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Golden State Warriors",-7,20,5,4.70,"Barnes, Harrison",1.00,3.90
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,2,0,32,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-8,6,9,12.50,"Wiggins, Andrew",2.20,11.50
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,1,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,9,4,4.50,"Allen, Lavoy",2.40,9.30
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,3,8,57,1,"Driving Jump shot","2PT Field Goal",5,"Dallas Mavericks",4,56,5,3.90,"Rondo, Rajon",3.80,20.00
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,9,20,1,"Driving Jump shot","2PT Field Goal",11,"Miami Heat",10,115,2,2.70,"Dragic, Goran",5.10,17.20
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,2,5,16,0,"Driving Jump shot","2PT Field Goal",5,"Memphis Grizzlies",-43,37,2,2.90,"Randolph, Zach",4.50,14.60
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,4,7,48,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",7,-8,2,4.40,"Harden, James",4.20,12.90
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,2,7,25,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,6,4,4.80,"Hayes, Charles",3.30,21.30
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,2,0,00,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",18,3,13,11.90,"Brewer, Corey",1.90,0.00
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,2,3,00,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,4,9,9.20,"Daye, Austin",2.10,12.90
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,3,3,20,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,0,13,12.00,"Redick, JJ",3.60,11.70
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,4,5,36,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",24,6,1,2.00,"Lowry, Kyle",3.20,9.50
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,2,4,57,0,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,0,2,2.80,"Young, Nick",2.60,21.20
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,2,3,29,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",17,6,8,10.70,"Jordan, DeAndre",0.00,15.10
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,4,5,06,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",-15,12,3,2.20,"DeRozan, DeMar",2.80,18.70
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,4,1,52,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,1,0,0.00,"DeRozan, DeMar",13.00,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,3,37,0,"Driving Layup Shot","2PT Field Goal",3,"Houston Rockets",37,0,3,3.40,"Beverley, Patrick",1.00,18.80
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,3,9,54,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,4,1,1.90,"Adams, Steven",3.40,10.50
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,1,4,32,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-21,4,5,4.50,"Westbrook, Russell",0.50,21.80
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,2,4,45,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",13,0,13,10.10,"Mozgov, Timofey",2.40,13.50
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,1,5,13,1,"Driving Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-7,7,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,3,29,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,7,14,12.50,"Lillard, Damian",3.90,11.70
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,2,4,35,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",23,1,1,3.10,"Williams, Mo",2.60,16.50
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,5,1,00,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,-2,6,3.90,"Roberson, Andre",4.00,19.00
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,4,0,28,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,7,5,4.80,"Monroe, Greg",1.90,19.30
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,2,0,53,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,6,5,4.00,"Davies, Brandon",1.00,2.30
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,3,4,56,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-13,7,4,5.30,"Splitter, Tiago",2.50,11.40
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,4,0,12,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",18,20,4,4.00,"Rubio, Ricky",2.90,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,6,57,0,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-19,4,4,3.50,"Beverley, Patrick",0.10,11.60
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,3,0,27,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",9,3,2,2.80,"Covington, Robert",1.00,21.50
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,3,05,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",26,0,2,4.10,"Harden, James",5.20,8.60
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,3,7,45,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",17,15,11,8.70,"Mbah a Moute, Luc",3.70,15.00
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,1,2,39,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,3,9,8.60,"Ross, Terrence",2.90,8.90
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,1,3,42,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,-5,2,2.60,"Randolph, Zach",2.50,13.70
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,1,4,34,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",21,4,7,7.80,"Pekovic, Nikola",4.10,14.70
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,3,7,40,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",4,26,6,7.00,"Dieng, Gorgui",1.40,12.90
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,3,4,25,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",20,6,3,4.20,"Motiejunas, Donatas",4.90,6.30
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,4,5,39,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,4,11,9.40,"Henson, John",3.20,13.30
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,3,11,13,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-15,0,6,6.00,"Harden, James",3.70,18.40
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,3,7,39,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",13,3,3,3.60,"Larkin, Shane",2.90,20.00
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,4,3,33,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",20,1,10,9.50,"Motiejunas, Donatas",1.00,6.00
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,1,2,41,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,-2,4,3.50,"Gasol, Marc",2.60,6.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,4,0,57,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,7,4,4.10,"Walker, Kemba",0.70,19.70
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,3,8,09,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",7,3,1,1.70,"Wiggins, Andrew",8.40,22.00
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,1,4,37,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-16,0,3,4.20,"Duncan, Tim",4.20,19.00
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,2,0,51,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-13,3,1,2.60,"Favors, Derrick",3.70,6.90
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,4,1,21,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-5,1,6,5.40,"Exum, Dante",4.50,13.90
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,2,2,36,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,0,3,3.20,"Leuer, Jon",3.10,15.00
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,5,4,06,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-15,0,4,4.90,"Collison, Darren",3.30,12.00
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,2,0,25,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-10,-3,4,5.00,"Conley, Mike",1.90,17.00
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,4,3,58,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",26,0,10,9.60,"Exum, Dante",0.80,11.20
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,3,6,07,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-19,-2,13,8.70,"Duncan, Tim",0.00,13.00
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,4,1,19,0,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-23,-2,6,5.00,"Cousins, DeMarcus",0.30,6.80
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,3,10,23,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",20,3,2,2.50,"Hayward, Gordon",5.60,19.80
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,6,2,08,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,6,9,9.20,"Thompson, Jason",3.70,15.00
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,2,1,55,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",21,3,9,8.80,"Adams, Steven",3.20,10.00
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,1,3,40,1,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",-5,7,1,1.70,"Vucevic, Nikola",2.80,18.00
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,3,5,06,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",15,4,6,4.70,"Bosh, Chris",2.10,1.00
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,4,3,56,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-16,-2,1,2.00,"Ellis, Monta",1.30,19.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,5,1,14,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,7,23,18.70,"Kanter, Enes",3.40,5.80
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,4,2,24,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,-2,13,10.20,"Gasol, Marc",3.30,13.30
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,3,5,41,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-15,3,3,9.90,"Noel, Nerlens",3.00,6.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,3,4,40,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,3,10,8.70,"Kanter, Enes",2.60,14.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,2,2,10,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,9,2,2.00,"Kanter, Enes",2.80,4.40
+"Eric Bledsoe","Phoenix Suns",2014-11-12,2014,4238,1610612756,400578408,3,9,58,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-7,11,10,10.20,"Williams, Deron",0.30,13.30
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,6,25,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,4,3,2.80,"Papanikolaou, Kostas",1.60,20.30
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,1,4,09,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",13,4,0,1.00,"Green, Draymond",2.00,20.50
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,3,0,33,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",15,14,9,6.30,"Lee, David",2.90,17.80
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,2,4,39,0,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",6,3,4,3.80,"Vucevic, Nikola",2.10,11.40
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,3,1,26,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,4,12,13.00,"Green, Danny",1.30,11.20
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,1,7,12,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",26,7,2,1.30,"Ibaka, Serge",3.00,11.30
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,2,3,44,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",13,9,9,4.60,"Jefferson, Al",1.90,20.40
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,4,5,59,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-18,7,7,8.00,"Kanter, Enes",4.10,2.60
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,2,13,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-8,4,12,11.20,"Smith, Josh",3.70,12.60
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,2,4,05,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,-2,1,3.00,"Mayo, O.J.",3.80,15.60
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,10,18,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",1,1,3,2.40,"Ariza, Trevor",2.80,13.60
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,3,9,19,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",10,0,3,4.10,"Knight, Brandon",2.60,21.60
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,1,6,27,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",14,24,1,1.80,"Vucevic, Nikola",2.10,9.10
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,2,4,06,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-21,15,4,2.40,"Duncan, Tim",2.80,15.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,4,7,47,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,9,8.60,"Kanter, Enes",4.30,17.00
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,4,2,23,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",12,9,2,2.40,"Mozgov, Timofey",3.30,19.30
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,3,10,59,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-5,9,5,5.20,"Green, Jeff",4.10,20.10
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,4,1,02,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,-2,7,4.10,"Gay, Rudy",1.30,19.30
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,1,7,12,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",23,4,9,8.20,"Splitter, Tiago",2.60,8.60
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,4,1,32,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",15,-10,11,10.50,"Bradley, Avery",0.00,13.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,1,7,09,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",9,11,4,3.40,"Calderon, Jose",4.70,14.10
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,1,48,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",7,20,1,1.60,"Beasley, Michael",2.50,20.10
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,4,4,39,1,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,3,1,2.00,"Dalembert, Samuel",3.60,10.80
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,4,3,58,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",6,11,5,4.90,"Beasley, Michael",3.80,18.20
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,4,04,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",7,0,2,1.80,"Chandler, Tyson",5.00,12.10
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,0,08,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",15,6,4,4.40,"Turner, Evan",2.10,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,0,16,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",10,0,3,3.30,"Crowder, Jae",3.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,3,7,22,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",21,3,5,4.60,"Zeller, Tyler",3.20,18.40
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,3,4,01,0,"Driving Layup Shot","2PT Field Goal",3,"Dallas Mavericks",-25,29,5,6.10,"Villanueva, Charlie",5.30,24.00
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,4,0,29,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",10,0,3,2.80,"Bradley, Avery",7.90,22.70
+"Eric Bledsoe","Phoenix Suns",2014-11-04,2014,4238,1610612756,400578348,4,2,43,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-7,3,0,0.00,"Hill, Jordan",2.30,10.20
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,3,6,35,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-21,7,6,11.80,"Davis, Anthony",0.70,0.20
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,4,1,59,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",21,4,5,5.10,"Holiday, Jrue",3.10,10.50
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,4,0,38,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",20,6,10,10.10,"Cunningham, Dante",1.90,14.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,2,2,32,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,-6,7,5.40,"Davis, Ed",2.20,18.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,11,03,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-19,-2,2,3.30,"Davis, Ed",0.00,5.20
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,4,2,15,0,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",6,3,9,6.60,"Harris, Tobias",0.00,17.40
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,1,4,22,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,7,4,4.90,"Monroe, Greg",2.10,19.00
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,2,2,11,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-19,6,2,2.00,"Randolph, Zach",3.60,14.80
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,3,9,26,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",18,7,5,4.90,"Afflalo, Arron",2.60,18.80
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,3,6,07,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",28,6,3,3.60,"Lillard, Damian",5.50,17.00
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,2,4,47,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-7,-3,4,4.60,"Ellington, Wayne",4.50,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,4,7,26,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",15,14,6,6.10,"McCallum, Ray",2.40,14.70
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,3,9,40,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,7,11,7.70,"Caldwell-Pope, Kentavious",3.60,6.30
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,2,2,56,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,-5,12,6.80,"Adams, Steven",0.20,16.90
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,3,7,13,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,6,6,5.00,"Williams, Mo",4.10,19.90
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,3,0,59,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",12,0,7,6.00,"Jackson, Reggie",2.10,17.10
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,6,42,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-19,9,5,9.70,"Hickson, JJ",6.80,7.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,5,44,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,0,11,9.80,"Ibaka, Serge",0.10,5.50
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,4,42,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,11,4,4.90,"Jackson, Reggie",1.10,19.30
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,1,5,28,0,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-8,0,4,3.80,"Mozgov, Timofey",1.90,10.30
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,2,0,29,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",10,-2,5,4.80,"Jordan, DeAndre",1.90,18.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,2,0,00,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,6,3,3.40,"Johnson, Amir",2.60,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,3,9,46,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-27,0,2,2.50,"Gay, Rudy",1.40,15.40
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,2,0,26,0,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-23,14,8,8.20,"Thompson, Tristan",3.60,3.80
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,4,7,45,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-27,9,12,7.30,"OQuinn, Kyle",1.50,16.60
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,4,3,24,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-26,1,6,5.00,"Zeller, Tyler",2.20,8.40
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,2,1,44,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,11,5,4.60,"Covington, Robert",6.10,12.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,8,35,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",7,9,3,2.90,"Hardaway Jr., Tim",3.30,19.70
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,7,57,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,-2,11,8.50,"Davis, Ed",1.80,15.30
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,2,2,07,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-10,6,0,0.20,"Green, Draymond",1.50,24.00
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,3,11,13,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",-23,-8,5,4.50,"Ross, Terrence",4.10,19.00
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,3,58,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",7,-2,5,4.80,"Hill, Jordan",2.80,20.70
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,4,4,38,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",18,0,0,0.00,"Millsap, Paul",2.80,21.60
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,4,3,34,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",21,4,8,12.40,"Millsap, Paul",5.40,6.60
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,2,5,31,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-10,7,5,4.90,"Butler, Caron",0.20,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,1,10,27,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",10,0,2,3.30,"Terry, Jason",3.80,4.00
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,4,6,43,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",28,7,1,2.60,"Babbitt, Luke",1.00,15.50
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,2,1,09,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-18,1,1,2.10,"Asik, Omer",1.80,14.70
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,8,04,0,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",10,0,9,8.90,"Dieng, Gorgui",2.00,14.80
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,4,0,33,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",18,-3,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,4,55,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-24,1,7,6.00,"Motiejunas, Donatas",2.30,15.00
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,1,0,06,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-18,0,22,21.00,"Ezeli, Festus",3.30,3.10
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,1,7,34,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",1,4,4,4.00,"Rubio, Ricky",2.40,16.40
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,1,10,43,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-19,-3,3,5.20,"Matthews, Wesley",4.10,19.70
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,4,0,38,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,1,2,2.10,"Thompson, Jason",3.50,4.00
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,2,2,41,0,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-23,17,11,9.80,"Hamilton, Justin",1.80,15.20
+"Eric Bledsoe","Phoenix Suns",2014-11-04,2014,4238,1610612756,400578348,1,6,28,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",1,9,2,3.40,"Lin, Jeremy",4.10,14.10
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,2,0,02,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,0,11,8.80,"Adams, Steven",0.70,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,2,1,13,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Atlanta Hawks",13,0,13,12.80,"Millsap, Paul",5.50,11.00
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,4,5,29,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Miami Heat",-18,15,4,2.70,"Haslem, Udonis",2.30,14.00
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,4,1,18,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",-13,23,6,8.50,"Seraphin, Kevin",2.40,6.90
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,1,5,28,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"New York Knicks",1,17,0,0.00,"Prigioni, Pablo",0.80,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,2,41,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,-2,13,14.80,"Davis, Ed",3.70,10.60
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,2,1,02,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",17,12,6,5.00,"Adams, Steven",2.90,18.00
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,9,46,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",13,7,7,5.70,"Hamilton, Justin",0.80,19.50
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,9,01,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",18,0,10,8.90,"Valanciunas, Jonas",5.70,15.40
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,2,4,38,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Charlotte Hornets",1,7,6,5.90,"Neal, Gary",0.20,0.50
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,5,1,51,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,1,5,4.30,"Ibaka, Serge",1.00,21.10
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,5,3,41,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,3,6,4.20,"Kanter, Enes",3.50,9.10
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,1,6,17,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",1,-3,3,3.10,"Butler, Jimmy",3.70,20.60
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,1,38,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-16,7,2,2.60,"Matthews, Wesley",1.90,20.10
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,1,09,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-13,1,5,4.10,"Harden, James",1.80,19.40
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,2,6,47,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",0,12,11,7.80,"Ajinca, Alexis",1.80,15.30
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,4,20,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",4,-3,7,4.70,"Adams, Steven",3.40,19.10
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,1,10,02,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Orlando Magic",9,1,5,4.80,"Oladipo, Victor",0.30,19.00
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,2,45,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Charlotte Hornets",9,4,3,2.40,"Jefferson, Al",3.60,10.50
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,11,19,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-18,-3,7,4.90,"Stoudemire, Amar'e",3.60,7.70
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,3,6,27,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Washington Wizards",-5,0,0,0.00,"Gortat, Marcin",0.80,16.10
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,2,1,18,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-21,-2,2,3.20,"Evans, Tyreke",4.40,4.40
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,3,4,44,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",23,-5,5,6.60,"Rubio, Ricky",2.40,18.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,2,4,14,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-19,0,10,8.80,"Villanueva, Charlie",4.50,15.60
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,4,5,43,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",13,11,6,6.40,"Anderson, Ryan",3.60,10.00
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,4,0,55,1,"Driving Slam Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,1,2.10,"Williams, Mo",3.00,22.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,6,45,1,"Dunk Shot","2PT Field Goal",0,"New York Knicks",6,1,3,3.70,"Hardaway Jr., Tim",5.70,20.50
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,4,6,21,1,"Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,1,2.00,"Augustin, D.J.",12.80,21.60
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,3,11,28,1,"Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,2,2.40,"Wroten, Tony",4.10,22.60
+"Eric Bledsoe","Phoenix Suns",2014-11-12,2014,4238,1610612756,400578408,1,7,22,1,"Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.80,"Lopez, Brook",5.00,13.30
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,2,3,38,1,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,2,2.40,"Collison, Darren",44.40,22.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,2,6,00,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,4,3.60,"Cole, Norris",4.00,22.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,6,17,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,2,3.20,"Sloan, Donald",9.00,22.70
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,2,10,00,0,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,12,10.30,"Diaw, Boris",2.80,13.40
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,2,0,00,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Atlanta Hawks",-56,124,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,1,7,36,1,"Fadeaway Jump Shot","3PT Field Goal",26,"Golden State Warriors",-18,260,1,2.80,"Curry, Stephen",4.40,13.80
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,4,1,13,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Atlanta Hawks",29,159,4,6.30,"Horford, Al",2.70,17.10
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,1,2,13,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Golden State Warriors",-157,45,2,3.10,"Iguodala, Andre",6.20,6.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,3,5,59,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,9,4,3.40,"Ibaka, Serge",4.30,21.60
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,3,3,41,0,"Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,-2,9,8.40,"Mozgov, Timofey",1.80,14.70
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,2,0,29,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Utah Jazz",13,15,18,16.60,"Ingles, Joe",3.20,5.30
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,8,56,1,"Floating Jump shot","2PT Field Goal",6,"Portland Trail Blazers",43,53,7,6.60,"Lillard, Damian",3.80,17.50
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,1,4,42,0,"Floating Jump shot","2PT Field Goal",4,"Minnesota Timberwolves",12,44,3,3.40,"Budinger, Chase",2.80,20.00
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,1,0,02,1,"Floating Jump shot","2PT Field Goal",6,"Denver Nuggets",0,67,13,13.60,"Lawson, Ty",2.80,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,1,10,25,0,"Floating Jump shot","2PT Field Goal",8,"Sacramento Kings",80,12,0,2.70,"McLemore, Ben",2.80,15.80
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,5,0,20,0,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",20,67,2,4.80,"Thompson, Jason",3.60,4.80
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,4,11,16,1,"Floating Jump shot","2PT Field Goal",9,"Golden State Warriors",-92,7,4,6.50,"McAdoo, James Michael",1.70,4.90
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,2,2,21,1,"Floating Jump shot","2PT Field Goal",7,"Toronto Raptors",4,72,8,8.90,"Ross, Terrence",3.20,10.20
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,1,7,31,0,"Floating Jump shot","2PT Field Goal",6,"Brooklyn Nets",-7,61,3,3.40,"Jack, Jarrett",2.50,20.00
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,3,9,05,0,"Floating Jump shot","2PT Field Goal",4,"San Antonio Spurs",21,39,1,4.20,"Green, Danny",2.30,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,3,34,1,"Floating Jump shot","2PT Field Goal",10,"Dallas Mavericks",6,104,3,2.80,"Jefferson, Richard",3.80,20.60
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,3,7,23,0,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",65,52,5,6.10,"Dudley, Jared",3.10,0.50
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,4,9,33,0,"Floating Jump shot","2PT Field Goal",4,"Brooklyn Nets",31,33,1,2.00,"Lopez, Brook",3.20,10.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,0,01,0,"Floating Jump shot","2PT Field Goal",9,"Oklahoma City Thunder",-93,-10,22,21.50,"Jackson, Reggie",4.30,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,3,11,43,0,"Floating Jump shot","2PT Field Goal",12,"New York Knicks",-16,123,2,2.70,"Bargnani, Andrea",3.40,9.50
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,2,4,39,1,"Jump Bank Shot","2PT Field Goal",3,"Boston Celtics",28,11,13,11.90,"Wallace, Gerald",4.30,11.40
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,4,1,02,0,"Jump Bank Shot","2PT Field Goal",4,"Memphis Grizzlies",28,34,3,4.30,"Conley, Mike",3.20,11.10
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,3,7,33,1,"Jump Bank Shot","2PT Field Goal",7,"Sacramento Kings",67,30,7,6.30,"McLemore, Ben",2.60,18.00
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,1,1,27,1,"Jump Bank Shot","2PT Field Goal",3,"Chicago Bulls",34,11,9,9.00,"Mirotic, Nikola",4.00,4.70
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,5,0,53,0,"Jump Bank Shot","2PT Field Goal",6,"Brooklyn Nets",-56,30,3,3.00,"Bogdanovic, Bojan",3.40,4.00
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,3,1,07,1,"Jump Bank Shot","2PT Field Goal",3,"Utah Jazz",28,15,2,1.60,"Exum, Dante",1.80,12.30
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,2,0,49,0,"Jump Bank Shot","2PT Field Goal",11,"San Antonio Spurs",-109,45,2,1.80,"Duncan, Tim",4.50,5.90
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,4,1,20,0,"Jump Bank Shot","2PT Field Goal",8,"Portland Trail Blazers",78,33,2,2.60,"Aldridge, LaMarcus",5.90,20.60
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,3,7,14,1,"Jump Bank Shot","2PT Field Goal",4,"Indiana Pacers",45,11,2,3.60,"Stuckey, Rodney",2.30,12.00
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,3,10,17,1,"Jump Bank Shot","2PT Field Goal",4,"Sacramento Kings",39,19,7,6.90,"Evans, Reggie",2.50,17.60
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,4,8,19,0,"Jump Bank Shot","2PT Field Goal",6,"Memphis Grizzlies",-59,36,6,6.00,"Leuer, Jon",1.80,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,2,34,0,"Jump Bank Shot","2PT Field Goal",5,"Houston Rockets",-45,23,14,13.20,"Papanikolaou, Kostas",1.90,2.20
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,3,11,36,1,"Jump Bank Shot","2PT Field Goal",3,"Indiana Pacers",-13,34,1,1.90,"Hibbert, Roy",5.80,3.60
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,1,11,10,1,"Jump Bank Shot","2PT Field Goal",6,"Memphis Grizzlies",64,28,1,3.40,"Conley, Mike",4.50,3.00
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,4,0,10,1,"Jump Bank Shot","2PT Field Goal",5,"Chicago Bulls",56,12,19,15.90,"Noah, Joakim",3.20,4.90
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,2,0,27,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",17,187,22,20.00,"Redick, JJ",4.90,3.60
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,2,4,08,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-15,192,7,6.20,"Exum, Dante",5.00,16.90
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,4,10,15,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",3,260,3,3.40,"Johnson, Tyler",6.50,19.80
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,1,7,00,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-125,209,0,1.60,"Ibaka, Serge",5.80,15.30
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,2,0,00,0,"Jump Shot","3PT Field Goal",69,"Dallas Mavericks",-7,690,1,1.30,"Parsons, Chandler",3.90,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,4,3,07,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",42,47,5,6.20,"Lin, Jeremy",2.40,10.60
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,1,5,36,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",108,225,3,5.20,"Bryant, Kobe",6.80,20.20
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,2,5,26,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",166,186,0,1.00,"Price, Ronnie",3.10,14.20
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,3,4,09,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-130,247,2,3.20,"Price, Ronnie",5.80,15.60
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,3,3,19,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",-40,28,15,12.40,"Davis, Ed",3.10,12.10
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,2,3,18,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",195,140,0,1.00,"Burke, Trey",1.80,9.70
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,2,1,36,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-52,173,10,8.40,"Burke, Trey",3.00,13.30
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,2,8,21,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",182,175,0,1.10,"Green, Danny",6.20,11.60
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,1,7,50,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-235,-10,0,1.00,"Lee, Courtney",4.00,3.60
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,1,1,12,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",58,194,3,4.60,"Udrih, Beno",3.60,14.90
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,3,11,34,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-212,129,0,0.90,"Lee, Courtney",4.50,18.50
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,2,3,52,1,"Jump Shot","2PT Field Goal",9,"Sacramento Kings",77,56,13,12.00,"Collison, Darren",1.70,11.90
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,3,6,06,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",237,31,0,1.10,"Thompson, Jason",7.00,19.60
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,3,9,04,1,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",217,1,0,0.00,"Curry, Stephen",2.30,10.40
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,1,9,28,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",231,1,0,1.30,"Walker, Kemba",3.70,15.90
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,1,3,36,0,"Jump Shot","2PT Field Goal",5,"Charlotte Hornets",-13,52,13,15.40,"Stephenson, Lance",3.50,0.40
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,2,3,25,1,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",0,222,0,1.30,"Walker, Kemba",6.30,17.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,2,29,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-82,233,1,3.10,"Neal, Gary",6.20,17.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,1,18,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",234,75,0,1.20,"Neal, Gary",6.40,18.40
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,4,5,52,1,"Jump Shot","2PT Field Goal",4,"Boston Celtics",20,44,12,8.70,"Bradley, Avery",4.30,3.80
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,4,1,32,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",43,7,0,0.00,"Bradley, Avery",0.10,24.00
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,1,2,35,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-8,249,6,7.60,"Wall, John",8.50,17.30
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,2,5,47,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",78,254,0,1.10,"Augustin, D.J.",5.60,22.20
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,3,7,35,1,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-15,89,0,0.70,"Monroe, Greg",3.80,9.10
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,1,7,25,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",113,167,4,5.50,"Sloan, Donald",4.70,19.30
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,1,08,1,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",28,48,2,1.60,"Sloan, Donald",1.90,22.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,8,34,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-136,206,0,1.10,"Lowry, Kyle",7.40,18.10
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,6,25,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",226,7,1,2.70,"Johnson, Amir",7.20,21.70
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,4,10,58,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",223,-11,0,0.90,"Hayes, Charles",3.30,14.70
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,0,31,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",141,127,8,7.60,"Lawson, Ty",3.50,16.40
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,1,9,06,0,"Jump Shot","2PT Field Goal",9,"Orlando Magic",-89,26,10,10.50,"Oladipo, Victor",3.00,14.60
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,2,1,56,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",160,12,0,1.80,"Payton, Elfrid",4.30,8.50
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,3,5,44,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-232,94,0,1.00,"Oladipo, Victor",4.80,11.90
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,1,9,50,1,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",-27,55,3,2.90,"Hill, Solomon",6.30,19.50
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,1,5,01,1,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",62,89,8,6.80,"Sloan, Donald",4.50,17.60
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,2,3,29,1,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",42,116,4,4.10,"West, David",6.80,13.90
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,3,8,55,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",160,189,0,1.00,"Stuckey, Rodney",6.80,22.10
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,1,0,00,0,"Jump Shot","3PT Field Goal",39,"Houston Rockets",-207,332,2,1.50,"Beverley, Patrick",6.10,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,3,9,02,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-187,167,0,1.20,"Black, Tarik",7.60,21.70
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,1,9,39,1,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",198,170,0,1.00,"Ellis, Monta",5.10,13.00
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,2,5,49,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-81,242,11,9.60,"Nelson, Jameer",6.40,14.70
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,2,0,04,0,"Jump Shot","2PT Field Goal",3,"Miami Heat",-30,15,8,5.50,"Deng, Luol",1.70,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,3,6,17,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",13,249,0,1.00,"Cole, Norris",5.70,5.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,1,11,43,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-2,252,1,2.10,"Redick, JJ",5.50,12.10
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,2,0,53,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-92,105,8,6.00,"Redick, JJ",3.00,16.80
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,2,0,05,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",23,20,6,7.20,"Redick, JJ",1.80,0.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,4,9,47,1,"Jump Shot","2PT Field Goal",21,"Los Angeles Clippers",-24,214,4,5.50,"Crawford, Jamal",4.00,19.10
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,4,9,24,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",54,181,7,6.20,"Redick, JJ",5.40,15.90
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,4,2,00,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",239,74,0,1.00,"Paul, Chris",3.30,16.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,4,0,09,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-3,268,18,17.60,"Redick, JJ",5.30,4.50
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,5,4,13,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-11,31,6,4.20,"Griffin, Blake",4.90,19.70
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,2,1,29,1,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",59,149,7,5.80,"Roberson, Andre",7.80,17.00
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,1,3,21,1,"Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",47,83,0,0.60,"Pachulia, Zaza",4.10,15.90
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,6,26,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-11,175,12,9.60,"Walker, Kemba",4.30,14.90
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,4,9,58,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",62,252,0,0.90,"Neal, Gary",5.90,5.90
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,4,6,50,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",26,19,2,2.90,"Jefferson, Al",2.10,18.50
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,7,14,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",-68,209,0,3.00,"Wall, John",5.10,10.00
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,2,54,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-235,30,3,3.90,"Miller, Andre",10.60,19.30
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,2,42,1,"Jump Shot","2PT Field Goal",20,"Washington Wizards",-164,126,0,2.90,"Miller, Andre",5.60,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,1,11,41,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-234,23,0,0.90,"Aldrich, Cole",8.60,9.20
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,3,8,26,1,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-117,187,10,9.80,"Rondo, Rajon",5.30,15.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,3,07,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",236,-8,0,0.70,"Ellis, Monta",5.00,11.10
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,1,10,12,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,3,0,0.80,"Holiday, Jrue",2.80,15.00
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,1,9,41,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",88,69,7,5.50,"Evans, Tyreke",4.20,23.90
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,1,42,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-128,220,12,12.50,"Lin, Jeremy",6.90,11.30
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,0,37,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-45,160,0,1.90,"Ellington, Wayne",2.80,1.00
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,3,9,00,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",7,246,2,2.30,"McLemore, Ben",7.60,8.10
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,3,6,38,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",149,77,10,8.00,"Evans, Reggie",4.20,6.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,2,4,46,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",18,241,0,-0.50,"Westbrook, Russell",1.40,16.80
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,2,0,00,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-24,192,11,7.00,"Jackson, Reggie",4.10,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,5,11,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-146,189,5,5.60,"Ibaka, Serge",5.70,13.90
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,1,9,17,1,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-21,145,4,4.30,"McDaniels, KJ",8.30,11.90
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,1,4,38,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",149,192,0,0.80,"Mbah a Moute, Luc",3.40,1.80
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,3,6,47,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-134,201,0,1.10,"Carter-Williams, Michael",4.60,10.50
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,3,0,52,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",32,6,13,13.00,"Sims, Henry",0.80,11.80
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,4,3,08,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",185,151,0,0.90,"Carter-Williams, Michael",8.50,15.80
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,1,8,02,1,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",-163,220,8,7.00,"Lowry, Kyle",7.40,14.90
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,2,1,10,1,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-56,156,12,13.30,"Ross, Terrence",4.60,9.20
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,1,5,43,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-231,69,9,8.50,"Pachulia, Zaza",4.70,9.40
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,1,4,33,0,"Jump Shot","2PT Field Goal",6,"Houston Rockets",-45,44,1,9.20,"Smith, Josh",2.10,1.70
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,3,8,16,1,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-120,123,3,2.60,"Beverley, Patrick",4.50,3.00
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,2,3,14,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-125,228,5,6.20,"Brewer, Corey",4.60,18.90
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,3,4,32,1,"Jump Shot","2PT Field Goal",5,"Houston Rockets",-30,41,0,0.60,"Smith, Josh",3.50,6.00
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,1,6,33,1,"Jump Shot","2PT Field Goal",8,"Houston Rockets",-41,71,6,6.90,"Harden, James",2.90,17.60
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,2,4,39,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",103,227,0,3.50,"Harden, James",13.60,22.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,10,25,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-153,195,0,1.00,"Bass, Brandon",12.80,11.50
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,2,2,17,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",78,241,0,1.10,"Barnes, Matt",6.50,17.00
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,1,6,14,0,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-78,200,8,8.60,"Evans, Tyreke",5.00,16.40
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,3,8,08,0,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-8,89,11,8.50,"Cunningham, Dante",3.10,14.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,3,9,44,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-242,-11,0,1.80,"Gordon, Eric",5.30,22.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,3,6,45,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",70,60,3,3.50,"Evans, Tyreke",3.90,10.90
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,4,3,45,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",122,222,2,2.80,"Snell, Tony",4.30,20.40
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,2,2,17,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",165,197,1,3.80,"Brooks, Aaron",3.90,12.00
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,2,6,22,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",132,142,1,1.70,"Rose, Derrick",1.60,5.00
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,4,4,06,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",51,184,9,8.20,"Rose, Derrick",7.00,16.90
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,2,1,07,1,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",-8,134,7,5.30,"Butler, Jimmy",4.30,18.20
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,7,22,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",37,0,16,14.90,"Paul, Chris",2.00,10.00
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,2,04,1,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",4,36,1,3.80,"Jordan, DeAndre",1.10,12.20
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,3,7,55,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",84,189,9,9.60,"Redick, JJ",8.10,15.10
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,7,19,1,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",32,6,0,0.90,"Jordan, DeAndre",3.40,9.10
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,3,0,31,1,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",70,124,7,6.20,"Hudson, Lester",1.70,11.40
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,11,20,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",171,181,0,0.80,"Paul, Chris",3.50,9.60
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,3,5,50,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",207,134,0,1.00,"Barnes, Matt",6.60,9.00
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,1,10,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-199,145,14,12.60,"Jordan, DeAndre",7.90,12.20
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,3,11,34,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-218,129,2,2.40,"Jordan, DeAndre",4.10,0.40
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,1,4,09,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",86,143,10,9.70,"Blake, Steve",1.70,12.60
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,3,4,21,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-185,168,12,10.90,"Lopez, Robin",5.40,4.70
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,4,3,11,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",155,71,13,13.30,"Cole, Norris",5.00,7.80
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,4,10,30,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",132,225,2,7.40,"Speights, Marreese",5.00,5.20
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,3,9,44,0,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",-150,172,2,3.20,"Curry, Stephen",6.20,13.90
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,3,7,02,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-21,28,18,12.50,"Thompson, Klay",2.90,11.00
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,1,0,31,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",-67,123,18,17.20,"Curry, Stephen",3.60,6.80
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,3,2,18,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",1,146,11,8.90,"Livingston, Shaun",3.00,14.90
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,1,8,27,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-87,89,9,8.70,"Barnes, Harrison",3.70,12.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,4,1,35,0,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",43,45,2,2.20,"Cole, Norris",2.90,7.10
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,1,4,24,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",9,178,9,7.50,"Evans, Tyreke",5.60,15.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,1,10,14,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-46,249,7,6.20,"Evans, Tyreke",5.60,15.80
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,3,10,52,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",215,119,0,1.00,"Gordon, Eric",3.80,8.00
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,1,2,25,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",203,6,1,3.70,"Iguodala, Andre",4.90,9.60
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,4,6,16,1,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-136,124,4,4.30,"Bogut, Andrew",4.00,3.10
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,1,2,03,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-4,249,7,6.30,"Curry, Stephen",6.80,17.30
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,2,1,26,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-168,206,0,1.30,"Curry, Stephen",4.10,19.30
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,2,0,05,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",124,179,17,19.60,"Curry, Stephen",2.80,3.60
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,3,1,28,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-62,239,7,8.00,"Livingston, Shaun",3.70,17.00
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,2,11,16,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-127,131,1,2.50,"Barnes, Harrison",5.10,6.90
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,3,4,59,0,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",-21,143,3,3.10,"Lawson, Ty",3.90,13.60
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,2,0,11,0,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",-24,56,20,19.60,"Sims, Henry",0.10,5.00
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,1,0,29,1,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",56,186,2,2.90,"Westbrook, Russell",5.50,3.10
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,4,0,53,1,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",54,37,13,8.60,"Augustin, D.J.",5.60,14.50
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,3,8,17,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",31,247,0,0.80,"Westbrook, Russell",5.90,9.00
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,2,1,59,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",223,17,0,1.00,"Brewer, Corey",6.80,18.00
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,3,5,50,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-86,140,5,5.90,"Middleton, Khris",4.80,9.70
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,3,5,03,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-109,230,0,1.00,"Oladipo, Victor",6.20,14.00
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,3,8,42,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",77,108,8,6.20,"Westbrook, Russell",3.40,18.40
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,4,0,13,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",50,254,0,0.90,"Chalmers, Mario",4.30,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,4,4,46,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",111,129,12,9.80,"Adams, Steven",7.60,13.90
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,4,2,18,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-232,3,0,0.70,"Bayless, Jerryd",3.50,2.10
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,3,2,30,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-40,246,0,1.20,"Westbrook, Russell",5.30,7.90
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,4,7,11,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",51,244,5,8.80,"Waiters, Dion",7.80,2.90
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,3,9,14,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",228,93,4,6.30,"Beal, Bradley",4.30,18.00
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,2,11,45,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",130,211,13,12.70,"Brewer, Corey",4.60,11.30
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,3,10,51,0,"Jump Shot","2PT Field Goal",23,"Houston Rockets",-153,176,6,5.00,"Motiejunas, Donatas",6.30,9.80
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,4,8,52,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-232,-10,1,1.20,"Prigioni, Pablo",3.00,20.40
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,2,05,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",195,176,6,7.10,"Mozgov, Timofey",6.10,6.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,6,37,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-220,108,0,1.10,"Rondo, Rajon",5.40,16.80
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,3,33,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-106,224,0,0.70,"Beverley, Patrick",6.10,12.90
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,6,38,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-131,74,2,2.30,"Rondo, Rajon",5.00,8.50
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,2,3,54,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-37,94,4,5.40,"Curry, Stephen",4.20,10.60
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,1,4,05,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",236,56,0,1.00,"Diaw, Boris",5.80,13.10
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,5,02,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",34,241,0,0.90,"Ellis, Monta",7.80,3.00
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,1,7,58,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-220,131,0,1.10,"Johnson, Wesley",6.00,16.10
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,2,0,00,0,"Jump Shot","3PT Field Goal",53,"Memphis Grizzlies",-193,504,0,0.30,"Conley, Mike",8.40,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,2,4,21,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-141,126,13,14.10,"Leuer, Jon",6.30,11.00
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,3,11,31,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-220,110,5,5.00,"Randolph, Zach",5.80,15.30
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,3,5,36,0,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-37,108,12,10.60,"Lee, Courtney",2.20,13.30
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,2,3,45,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-7,242,12,10.80,"Udrih, Beno",6.00,11.80
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,2,1,35,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-26,173,1,0.80,"Cole, Norris",4.80,22.60
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,3,4,55,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",154,97,14,11.70,"McLemore, Ben",5.40,13.10
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,1,7,18,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-168,200,0,1.30,"Holiday, Jrue",7.90,16.20
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,3,3,10,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",64,173,4,3.70,"Gortat, Marcin",5.50,20.50
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,3,9,41,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",6,34,2,2.90,"Redick, JJ",0.00,11.40
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,1,11,08,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-235,-14,0,0.90,"Carter-Williams, Michael",3.40,5.90
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,3,6,20,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-228,116,0,1.00,"Sloan, Donald",6.90,12.60
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,3,8,17,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",129,241,0,0.40,"Terry, Jason",2.70,0.60
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,1,08,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-123,142,15,13.00,"Jackson, Reggie",3.70,10.70
+"Eric Bledsoe","Phoenix Suns",2014-11-12,2014,4238,1610612756,400578408,1,3,03,0,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-2,146,0,0.80,"Williams, Deron",2.50,8.60
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,1,10,23,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",21,244,0,1.80,"Teague, Jeff",5.50,23.10
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,3,8,49,1,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",119,233,8,7.20,"Teague, Jeff",7.40,17.10
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,2,6,33,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-45,246,12,7.90,"Brand, Elton",6.70,13.70
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,4,0,38,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",10,203,23,18.20,"Ginobili, Manu",4.40,4.20
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,5,16,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-75,168,2,2.70,"Walker, Kemba",5.90,15.50
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,2,2,44,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-141,208,0,0.90,"Johnson, Amir",7.20,22.60
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,1,4,08,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-237,-10,0,0.00,"Lowry, Kyle",19.60,22.40
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,4,2,13,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",106,216,1,3.50,"Batum, Nicolas",4.80,16.20
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,1,5,03,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-11,246,0,1.20,"Curry, Stephen",6.00,21.40
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,2,3,49,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",18,154,5,4.60,"Holiday, Jrue",4.90,8.90
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,4,8,34,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-32,11,5,5.00,"Redick, JJ",3.90,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,1,6,36,0,"Jump Shot","2PT Field Goal",23,"Oklahoma City Thunder",-75,224,4,5.60,"Ibaka, Serge",6.00,6.30
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,3,9,24,0,"Jump Shot","2PT Field Goal",9,"Chicago Bulls",51,80,6,5.50,"Rose, Derrick",0.00,11.90
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,1,8,05,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-87,224,0,2.00,"Burke, Trey",3.20,12.00
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,1,3,55,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-19,252,0,0.80,"Redick, JJ",8.50,18.10
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,2,0,22,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",-205,1,3,4.20,"Terry, Jason",4.60,15.20
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,3,7,54,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-171,88,10,8.40,"Walker, Kemba",3.30,24.00
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,2,4,44,0,"Jump Shot","2PT Field Goal",8,"Orlando Magic",-40,71,1,2.60,"Vucevic, Nikola",2.70,3.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,3,11,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-7,255,0,1.90,"Harris, Devin",6.20,11.90
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,11,11,0,"Jump Shot","2PT Field Goal",15,"Houston Rockets",-157,-8,3,1.40,"Beverley, Patrick",5.20,16.30
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,3,5,23,0,"Jump Shot","2PT Field Goal",22,"Atlanta Hawks",12,220,4,4.10,"Millsap, Paul",2.00,19.80
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,1,8,34,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",86,159,4,4.20,"Redick, JJ",4.10,4.70
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,8,31,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-105,131,6,3.80,"Hibbert, Roy",5.70,5.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,2,6,23,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-177,39,7,7.90,"Stuckey, Rodney",3.50,17.00
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,1,11,35,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",17,249,0,1.90,"Beal, Bradley",5.50,22.90
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,2,2,07,0,"Jump Shot","2PT Field Goal",6,"Dallas Mavericks",0,61,0,0.90,"Nowitzki, Dirk",5.80,1.60
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,2,6,37,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",130,228,0,1.10,"Bayless, Jerryd",4.40,15.10
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,2,6,50,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",185,167,7,7.00,"Landry, Carl",6.30,10.50
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,3,0,11,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",0,148,19,20.30,"Ingles, Joe",4.60,3.60
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,4,0,07,0,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",-35,269,6,5.10,"Rose, Derrick",5.30,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,4,3,42,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",228,-6,0,0.80,"Walker, Kemba",2.80,5.80
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,3,0,01,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-4,268,5,4.90,"Watson, CJ",4.40,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,1,8,10,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",234,22,0,0.80,"Redick, JJ",7.50,7.20
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,3,8,31,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-160,113,6,5.60,"Favors, Derrick",6.30,17.40
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,7,02,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-79,233,15,14.50,"Chandler, Tyson",4.90,10.30
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,3,8,35,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-75,235,8,6.80,"Chandler, Wilson",4.50,16.70
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,2,3,07,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",36,184,12,10.10,"Smith, Josh",6.10,14.90
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,3,46,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",121,148,22,22.20,"Boozer, Carlos",6.60,2.10
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,1,0,52,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-234,55,0,1.40,"Roberts, Brian",3.30,19.00
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,2,4,28,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",184,173,0,1.20,"Schroder, Dennis",3.90,9.50
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,1,10,09,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",108,181,8,7.00,"Favors, Derrick",5.20,4.70
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,3,2,05,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-97,236,0,4.60,"Redick, JJ",5.20,10.90
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,1,10,13,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",1,142,2,2.00,"Olynyk, Kelly",4.70,16.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,0,49,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-153,197,1,2.00,"Neal, Gary",4.90,17.60
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,4,6,37,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",75,235,10,11.50,"Paul, Chris",4.70,10.20
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,3,11,18,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",152,-5,5,6.50,"Favors, Derrick",5.40,13.60
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,9,30,0,"Jump Shot","2PT Field Goal",4,"Houston Rockets",36,26,4,3.60,"Smith, Josh",5.10,15.90
+"Eric Bledsoe","Phoenix Suns",2014-11-04,2014,4238,1610612756,400578348,1,7,36,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-10,30,3,3.80,"Lin, Jeremy",0.60,19.40
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,3,49,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-109,157,6,6.50,"Pierce, Paul",5.40,3.30
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,1,6,15,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",141,119,4,4.00,"Duncan, Tim",5.30,20.00
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,4,41,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",203,149,0,1.40,"Robinson, Thomas",16.90,17.40
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,4,6,15,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",15,254,11,13.10,"Stauskas, Nik",5.30,11.70
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,0,31,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",151,225,16,16.40,"Copeland, Chris",4.80,7.80
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,3,0,00,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",9,156,5,4.50,"Ellis, Monta",3.60,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,4,1,11,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-133,116,6,4.00,"Davis, Ed",4.50,1.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,3,8,48,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",170,183,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,1,8,54,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-150,151,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,3,11,12,1,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",187,80,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,1,8,40,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",108,225,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,1,0,29,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-174,176,13,13.80,"Watson, CJ",8.10,10.10
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,3,7,38,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-108,143,4,3.20,"Curry, Stephen",2.90,20.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,9,44,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-87,228,0,1.00,"Lowry, Kyle",4.80,17.80
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,2,2,03,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",-21,274,9,10.00,"Beal, Bradley",5.50,14.80
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,1,10,07,0,"Jump Shot","2PT Field Goal",4,"San Antonio Spurs",-13,45,4,3.90,"Green, Danny",0.50,12.70
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,8,19,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",234,11,0,0.70,"Walker, Kemba",4.50,7.40
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,2,27,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",10,247,0,1.20,"Williams, Lou",16.50,16.40
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,4,8,31,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",-75,42,2,2.50,"Cousins, DeMarcus",3.00,3.20
+"Eric Bledsoe","Phoenix Suns",2014-11-04,2014,4238,1610612756,400578348,3,5,21,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-11,28,2,2.70,"Lin, Jeremy",0.60,10.50
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,1,11,07,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",171,189,0,1.20,"McLemore, Ben",5.30,11.50
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,4,8,57,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",83,149,6,5.70,"Parker, Tony",3.80,8.90
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,3,11,44,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-114,140,4,5.50,"Redick, JJ",4.10,11.10
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,1,2,09,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-205,143,2,2.40,"McCollum, CJ",4.10,10.80
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,3,11,02,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-142,80,4,3.90,"Sims, Henry",5.50,21.00
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,3,11,41,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",226,12,0,0.80,"Favors, Derrick",12.20,7.90
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,7,59,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",-224,-16,0,1.00,"Larkin, Shane",7.00,24.00
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,2,2,43,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",181,33,8,7.90,"Lillard, Damian",4.50,8.40
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,4,3,49,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",233,15,0,0.20,"Stephenson, Lance",2.70,23.20
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,1,0,30,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",149,142,12,11.30,"Leonard, Meyers",4.40,13.00
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,4,7,42,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-4,44,3,4.40,"Singler, Kyle",2.00,19.10
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,11,08,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",6,211,4,5.80,"Lawson, Ty",7.30,10.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,1,5,00,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-160,198,0,1.00,"Price, Ronnie",3.80,14.80
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,1,9,36,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-229,-8,0,1.20,"Deng, Luol",5.40,11.90
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,3,3,55,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",173,184,0,0.90,"Paul, Chris",4.40,14.40
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,8,08,0,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-114,96,10,7.00,"Beverley, Patrick",4.00,18.40
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,3,7,19,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-193,175,1,2.50,"Mbah a Moute, Luc",5.90,22.10
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,2,5,36,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-67,175,5,5.30,"Westbrook, Russell",6.80,19.10
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,4,4,28,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",29,34,21,19.60,"Thompson, Klay",2.30,3.90
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,1,1,52,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-13,247,2,5.60,"Griffin, Blake",6.20,6.70
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,3,5,13,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",225,123,0,0.90,"Redick, JJ",5.80,14.40
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,2,0,08,0,"Jump Shot","3PT Field Goal",29,"Portland Trail Blazers",43,291,19,19.80,"Matthews, Wesley",5.20,5.20
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,1,11,01,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-171,181,0,1.30,"Holiday, Jrue",3.40,12.80
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,2,2,59,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",231,47,0,1.20,"Collison, Darren",5.20,21.00
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,1,4,52,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",234,3,0,0.90,"Marshall, Kendall",5.60,16.30
+"Eric Bledsoe","Phoenix Suns",2014-11-15,2014,4238,1610612756,400578433,2,0,48,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-2,181,19,17.80,"Redick, JJ",4.10,6.60
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,2,3,06,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-5,249,0,1.30,"Ellis, Monta",5.00,16.90
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,7,37,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",155,216,6,6.80,"Wall, John",8.20,15.80
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,3,7,26,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-234,-6,0,1.90,"Exum, Dante",7.70,10.50
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,3,5,49,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",233,11,0,1.30,"Hayward, Gordon",6.00,14.10
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,3,3,41,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-43,249,0,0.80,"Johnson, Nick",3.70,14.20
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,1,05,0,"Jump Shot","2PT Field Goal",4,"Denver Nuggets",36,28,14,14.10,"Mozgov, Timofey",1.50,9.30
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,3,8,09,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",28,242,3,4.80,"Cole, Norris",3.80,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,3,10,20,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",173,186,0,1.00,"Jackson, Reggie",5.00,5.30
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,1,8,34,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-78,175,4,4.60,"Price, Ronnie",6.60,19.20
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,1,9,38,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",62,108,0,0.90,"Ibaka, Serge",5.40,10.20
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,3,9,10,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-231,17,0,1.40,"Black, Tarik",19.50,13.80
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,3,6,36,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",48,44,9,9.10,"Lawson, Ty",3.50,15.10
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,3,9,50,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-182,178,0,1.00,"Burke, Trey",1.40,18.70
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,4,10,21,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-133,80,2,2.20,"Jerebko, Jonas",4.30,3.70
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,4,12,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",170,52,1,1.90,"Walker, Kemba",5.70,13.30
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,0,26,0,"Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",20,39,9,8.10,"Robinson, Thomas",2.80,12.60
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,1,3,36,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",168,-2,0,0.00,"Grant, Jerami",4.30,10.50
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,1,5,37,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-228,0,0,1.00,"Middleton, Khris",7.70,22.20
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,5,59,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-146,203,1,2.90,"McLemore, Ben",7.50,12.10
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,9,26,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",228,-11,0,1.20,"Watson, CJ",5.40,10.10
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,2,0,57,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",43,241,0,1.20,"Deng, Luol",9.30,23.20
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,4,2,05,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-190,178,0,1.10,"Gallinari, Danilo",5.70,10.90
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,4,1,33,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-213,146,0,1.00,"Barton, Will",5.00,11.70
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,4,7,04,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-34,167,0,1.20,"Lawson, Ty",3.80,13.00
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,4,3,21,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-87,233,0,1.00,"Bargnani, Andrea",5.80,10.10
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,1,4,39,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",1,30,16,14.70,"Amundson, Lou",2.90,10.40
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,3,0,07,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",4,252,16,17.10,"Larkin, Shane",2.10,4.10
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,3,10,15,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",-226,-14,0,1.00,"Aldrich, Cole",7.80,21.00
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,1,1,55,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",36,12,7,4.70,"Aldrich, Cole",1.40,17.40
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,8,43,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-177,1,2,3.10,"Felton, Raymond",4.60,8.40
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,2,6,28,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",34,254,5,4.30,"Parsons, Chandler",6.50,20.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,1,5,30,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-142,176,3,3.70,"Rondo, Rajon",0.00,12.10
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,9,44,0,"Jump Shot","2PT Field Goal",7,"Dallas Mavericks",13,72,15,12.00,"Rondo, Rajon",1.80,10.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,2,0,33,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",201,165,1,2.70,"Rondo, Rajon",6.60,19.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,6,52,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",125,222,0,0.90,"Rondo, Rajon",6.50,6.90
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,4,1,35,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",88,235,13,13.80,"Wiggins, Andrew",8.40,10.20
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,2,9,46,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",95,52,5,4.10,"Rubio, Ricky",1.50,7.90
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,2,4,47,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",23,67,2,1.60,"Pekovic, Nikola",4.90,22.00
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,2,3,48,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-108,168,2,2.10,"McLemore, Ben",5.20,15.40
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,4,8,59,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",215,153,7,8.00,"Miller, Andre",5.50,15.70
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,5,3,23,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-172,184,0,1.10,"Williams, Deron",5.40,13.00
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,2,6,50,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",133,208,0,1.50,"Jack, Jarrett",5.10,9.70
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,3,57,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",67,184,2,2.40,"Nelson, Jameer",11.90,14.30
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,4,43,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",67,173,7,5.00,"Nelson, Jameer",1.40,9.00
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,3,0,00,0,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",-67,118,7,5.50,"Nelson, Jameer",2.60,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,0,41,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",2,178,5,3.20,"Lawson, Ty",2.30,17.00
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,3,5,24,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",201,30,0,1.20,"Jack, Jarrett",4.80,8.80
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,1,9,33,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-97,157,5,6.10,"Lawson, Ty",1.90,17.00
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,1,5,59,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-24,241,0,1.20,"Ginobili, Manu",16.60,3.30
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,3,5,03,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-232,-11,0,0.70,"Crowder, Jae",5.90,11.00
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,8,25,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",32,9,6,6.40,"Lillard, Damian",3.40,15.80
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,3,4,38,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",12,140,5,5.60,"Lillard, Damian",2.30,9.90
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,5,0,33,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",45,255,2,2.90,"Lee, Courtney",3.10,5.80
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,2,07,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",0,145,0,1.20,"Batum, Nicolas",4.10,15.60
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,2,5,54,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-97,184,11,9.20,"Calathes, Nick",6.10,14.20
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,6,0,00,0,"Jump Shot","3PT Field Goal",33,"Memphis Grizzlies",-190,279,0,-0.10,"Lee, Courtney",12.60,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,5,0,00,0,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-149,77,17,15.90,"Allen, Tony",5.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,1,10,26,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",1,241,0,0.00,"Conley, Mike",5.60,3.20
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,3,3,39,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",151,143,2,0.70,"Lee, Courtney",5.50,18.00
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,6,2,13,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",17,254,0,0.00,"Lee, Courtney",3.80,22.50
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,3,8,12,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-187,159,0,0.00,"Conley, Mike",8.00,16.50
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,4,1,46,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",187,183,6,5.80,"Rose, Derrick",5.50,7.20
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,1,0,37,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-120,224,0,1.10,"Hinrich, Kirk",3.30,7.90
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,2,3,38,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",231,4,0,0.90,"Brooks, Aaron",12.60,22.90
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,4,5,39,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",130,153,6,6.60,"Brooks, Aaron",5.80,17.40
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,3,0,11,0,"Jump Shot","2PT Field Goal",4,"Chicago Bulls",32,25,15,14.40,"Gasol, Pau",4.50,2.00
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,3,7,03,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",-13,31,9,8.20,"Noah, Joakim",2.50,16.70
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,2,0,30,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",103,124,2,3.00,"Rose, Derrick",5.30,17.70
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,4,1,25,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",89,146,9,7.50,"Butler, Jimmy",6.60,16.20
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,2,33,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",0,252,0,0.80,"Bradley, Avery",7.00,23.30
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,1,47,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-142,211,0,1.20,"Thomas, Isaiah",10.30,5.80
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,3,6,20,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",81,233,4,4.70,"Turner, Evan",3.80,18.50
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,7,25,0,"Jump Shot","2PT Field Goal",5,"Boston Celtics",17,55,1,1.80,"Young, James",2.00,17.40
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,8,44,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",149,126,5,4.80,"Smart, Marcus",4.20,18.80
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,1,11,41,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-45,247,0,1.60,"Gordon, Eric",4.40,8.20
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,3,8,36,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-7,244,1,1.60,"McCallum, Ray",7.20,15.00
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,3,5,05,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",53,-5,4,3.50,"Gay, Rudy",3.20,8.60
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,7,56,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-202,146,0,2.10,"Felton, Raymond",4.20,13.70
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,1,6,35,0,"Jump Shot","2PT Field Goal",5,"Dallas Mavericks",48,17,6,5.00,"Chandler, Tyson",1.30,19.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,3,7,04,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-84,239,2,2.60,"Rondo, Rajon",5.00,7.80
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,4,4,05,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",114,224,5,5.20,"Parsons, Chandler",5.00,17.00
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,8,06,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",193,162,1,2.00,"Deng, Luol",6.60,11.40
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,6,40,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-23,194,5,5.50,"Deng, Luol",5.10,3.30
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,11,18,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-134,209,1,3.20,"Deng, Luol",5.50,11.00
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,1,8,19,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-188,154,4,4.10,"McCallum, Ray",4.60,19.70
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,1,3,19,1,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",108,190,2,3.20,"Diaw, Boris",5.20,9.10
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,3,2,41,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",21,247,10,8.70,"Mills, Patty",4.30,16.20
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,1,9,59,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",45,209,6,6.80,"Leonard, Kawhi",6.90,17.60
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,2,7,50,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",192,30,3,4.90,"Leonard, Kawhi",6.30,24.00
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,4,0,25,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",64,250,2,2.10,"Jones, James",5.80,19.40
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,4,5,47,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",110,168,2,2.60,"Rubio, Ricky",5.40,12.30
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,3,7,06,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-234,11,0,1.30,"McCallum, Ray",4.20,12.00
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,3,6,08,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",83,239,0,0.80,"McLemore, Ben",7.70,12.50
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,4,2,28,1,"Jump Shot","2PT Field Goal",9,"Sacramento Kings",-60,71,1,1.20,"Williams, Derrick",3.00,12.60
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,2,10,02,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-87,140,9,8.20,"Miller, Andre",3.90,17.00
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,1,1,38,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-223,110,1,1.90,"Thompson, Jason",10.90,19.60
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,2,1,17,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",77,184,1,3.10,"McCallum, Ray",5.90,13.90
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,3,10,04,1,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",0,99,2,2.10,"Irving, Kyrie",2.10,14.60
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,3,3,13,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",230,108,7,7.50,"Collison, Nick",8.20,17.60
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,1,6,40,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-171,178,0,1.20,"Westbrook, Russell",4.30,8.90
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,5,0,10,0,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",95,37,24,16.10,"Roberson, Andre",1.60,1.00
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,5,3,57,0,"Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",39,28,7,7.60,"Kanter, Enes",1.70,17.30
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,3,2,25,0,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",39,34,1,2.10,"Marion, Shawn",2.80,6.20
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,1,7,46,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",214,131,0,0.80,"Exum, Dante",4.80,12.70
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,4,0,34,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",83,175,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,3,07,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",81,238,0,0.90,"Cole, Norris",6.30,14.50
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,3,6,41,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-204,14,2,2.60,"Hayward, Gordon",5.10,20.10
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,2,0,27,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",7,244,0,1.00,"Dellavedova, Matthew",6.00,9.00
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,4,5,00,0,"Jump Shot","2PT Field Goal",13,"Utah Jazz",80,104,9,7.50,"Exum, Dante",2.70,15.20
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,4,7,57,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-34,254,1,1.70,"James, LeBron",5.80,11.40
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,1,8,37,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",0,33,9,10.40,"Favors, Derrick",2.30,5.90
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,4,1,05,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-38,160,9,6.70,"Meeks, Jodie",3.20,16.70
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,5,37,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",15,31,3,4.10,"Cole, Norris",2.00,12.00
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,2,7,11,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-150,119,1,3.10,"Miller, Mike",3.20,19.60
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,2,1,40,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-231,107,0,3.70,"Smith, J.R.",6.40,8.30
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,4,1,41,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",127,94,7,6.20,"Rubio, Ricky",5.50,4.40
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,1,9,16,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",47,236,0,1.60,"Rubio, Ricky",5.30,16.60
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,3,53,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-51,239,1,3.10,"Wiggins, Andrew",7.00,11.80
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,2,4,04,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",86,239,0,1.60,"LaVine, Zach",9.90,16.30
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,4,5,21,0,"Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",15,47,11,8.40,"Hamilton, Justin",4.00,14.80
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,6,06,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",100,227,1,3.50,"Rubio, Ricky",0.90,0.90
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,5,34,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-232,34,0,0.90,"Dieng, Gorgui",6.30,5.50
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,1,8,14,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-210,143,1,2.90,"Smith, Josh",14.30,21.70
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,2,0,51,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",185,156,2,1.50,"Jennings, Brandon",3.70,7.30
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,2,0,04,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",61,192,14,16.20,"Jennings, Brandon",6.00,4.70
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,3,7,53,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",42,247,0,0.80,"Jennings, Brandon",4.10,12.60
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,3,5,24,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-155,12,0,1.20,"Jennings, Brandon",3.20,12.70
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,3,56,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",78,239,10,10.20,"Gordon, Eric",5.90,13.50
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,1,11,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",198,153,0,1.10,"Clarkson, Jordan",8.90,18.70
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,8,23,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-193,154,0,1.10,"Lin, Jeremy",8.30,13.30
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,4,0,41,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",-133,175,22,20.40,"Young, Nick",3.10,3.70
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,2,4,41,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",-205,78,4,5.50,"Lin, Jeremy",4.80,7.10
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,11,11,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-26,189,4,3.40,"Davis, Ed",2.10,20.50
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,4,1,05,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",223,-8,0,0.90,"Johnson, Wesley",5.50,1.80
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,9,18,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",53,195,7,5.00,"Cole, Norris",3.90,18.10
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,1,6,42,1,"Jump Shot","2PT Field Goal",20,"Cleveland Cavaliers",-7,200,5,4.30,"Irving, Kyrie",3.60,14.60
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,1,9,12,1,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",-68,134,3,3.80,"Irving, Kyrie",2.00,9.50
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,2,6,44,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-153,214,0,0.90,"Shumpert, Iman",6.90,11.60
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,3,11,00,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-133,116,4,3.80,"Irving, Kyrie",3.60,13.40
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,2,4,45,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",94,154,1,1.70,"Mozgov, Timofey",5.40,18.10
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,2,10,51,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",129,-27,5,4.80,"Shumpert, Iman",1.60,12.90
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,3,9,00,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-209,184,0,1.20,"James, LeBron",6.10,14.80
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,2,8,34,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",56,181,3,5.70,"Cole, Norris",3.90,7.10
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,4,59,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",40,258,4,4.50,"Cunningham, Dante",5.10,1.50
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,4,29,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",116,172,8,7.50,"Cole, Norris",5.00,13.10
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,10,37,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",70,254,0,1.50,"Evans, Tyreke",4.40,12.70
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,1,5,02,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",121,53,6,5.30,"Gordon, Eric",2.50,2.00
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,5,39,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-158,214,0,1.10,"Evans, Tyreke",5.00,20.40
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,4,11,24,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",152,200,1,2.20,"Joseph, Cory",5.70,15.60
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,2,0,30,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",159,205,3,3.40,"Mills, Patty",6.60,20.70
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,2,9,48,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-164,12,1,2.00,"Ayres, Jeff",6.00,7.80
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,6,05,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",37,6,3,7.10,"Lopez, Robin",1.10,14.90
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,5,28,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",157,102,13,12.00,"Aldridge, LaMarcus",6.40,11.90
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,4,3,41,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-81,52,3,3.10,"Lopez, Robin",4.80,7.30
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,4,4,30,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-185,58,1,3.70,"Lillard, Damian",6.90,12.70
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,7,54,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-188,156,10,10.60,"Aldridge, LaMarcus",6.20,7.90
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,2,01,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-226,-13,0,0.80,"Blake, Steve",4.20,12.90
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,4,7,36,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",99,153,9,7.20,"McCollum, CJ",1.60,16.50
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,9,38,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",155,105,5,5.00,"Afflalo, Arron",4.00,1.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,2,2,05,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",83,148,2,2.00,"Aldridge, LaMarcus",5.00,13.80
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,2,0,30,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-130,214,6,5.80,"Lillard, Damian",5.00,16.50
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,0,29,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-201,143,3,3.50,"Blake, Steve",4.90,20.40
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,3,3,27,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",231,0,0,0.90,"Harden, James",5.00,12.00
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,9,50,0,"Jump Shot","2PT Field Goal",13,"Houston Rockets",138,4,0,1.00,"Dorsey, Joey",7.10,14.90
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,11,43,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",17,254,1,1.60,"Beverley, Patrick",5.70,10.00
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,3,6,00,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",75,164,2,4.80,"Brewer, Corey",3.90,11.00
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,4,1,34,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",241,-3,0,0.90,"Splitter, Tiago",6.10,18.80
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,1,6,09,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",163,99,1,1.50,"Joseph, Cory",8.20,17.90
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,2,6,15,0,"Jump Shot","2PT Field Goal",22,"San Antonio Spurs",157,164,0,1.40,"Green, Danny",4.80,14.00
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,3,10,12,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-116,138,5,4.60,"Green, Danny",4.60,19.60
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,1,7,18,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-56,146,3,2.40,"Lawson, Ty",4.90,9.80
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,2,1,41,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",31,9,8,6.60,"Mozgov, Timofey",2.30,18.00
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,4,0,48,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",212,135,0,1.00,"Lawson, Ty",6.40,10.10
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,4,9,39,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-116,228,4,4.40,"Arthur, Darrell",5.40,9.50
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,4,4,01,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",233,86,0,0.80,"Afflalo, Arron",3.60,17.80
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,3,9,12,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",23,250,6,6.00,"Oladipo, Victor",7.40,18.60
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,2,4,04,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",127,97,15,12.80,"Young, Thaddeus",6.70,7.80
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,3,5,06,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",143,151,4,4.40,"Williams, Mo",4.70,13.00
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,3,10,50,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-199,165,0,1.00,"Williams, Mo",6.20,16.20
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,3,3,54,0,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",195,107,1,1.10,"Budinger, Chase",6.00,19.80
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,4,0,50,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-119,159,18,18.40,"Williams, Mo",5.10,5.10
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,3,9,08,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",125,209,3,3.40,"Williams, Mo",6.70,16.40
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,4,0,05,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",37,265,21,21.70,"Williams, Mo",11.90,2.00
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,1,7,26,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-198,173,0,0.80,"Williams, Mo",7.30,10.80
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,2,0,00,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",-37,47,12,8.30,"Williams, Mo",2.10,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,3,9,46,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",141,159,2,2.80,"Wiggins, Andrew",5.70,2.00
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,4,7,15,0,"Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",40,11,12,9.80,"Budinger, Chase",1.80,6.90
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,1,10,17,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",223,0,0,1.10,"Wiggins, Andrew",7.60,11.20
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,2,2,32,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-19,239,1,1.50,"Muhammad, Shabazz",5.00,18.00
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,4,3,44,1,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",152,138,7,6.40,"Joseph, Cory",4.50,18.00
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,3,5,57,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",83,118,4,10.10,"Joseph, Cory",2.40,13.00
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,4,5,15,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-146,201,0,0.90,"Joseph, Cory",4.00,16.80
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,2,6,32,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",36,244,0,1.40,"Joseph, Cory",6.30,9.50
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,1,7,06,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",155,183,3,3.60,"Jefferson, Richard",5.30,17.10
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,4,7,24,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",144,195,0,1.30,"Nowitzki, Dirk",5.80,7.00
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,4,0,07,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",141,197,1,1.40,"Aminu, Al-Farouq",2.80,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,4,0,11,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-182,184,0,0.80,"Walker, Kemba",4.50,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,5,34,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-95,236,8,8.10,"Batum, Nicolas",3.60,15.30
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,2,0,00,0,"Jump Shot","3PT Field Goal",44,"Portland Trail Blazers",-185,402,1,1.30,"Matthews, Wesley",7.20,0.00
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,1,9,25,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-212,131,0,1.20,"Lillard, Damian",5.50,3.20
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,7,25,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",53,209,9,7.50,"Wright, Dorell",5.50,16.90
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,3,36,1,"Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",0,42,2,2.20,"Robinson, Thomas",2.40,4.50
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,9,36,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-57,170,6,8.70,"Lillard, Damian",4.30,5.00
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,8,48,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",143,102,6,3.70,"Wright, Dorell",4.70,15.70
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,1,8,20,1,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",-38,60,4,3.30,"Lillard, Damian",5.70,12.20
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,2,4,39,0,"Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-7,101,6,5.20,"Matthews, Wesley",4.10,11.20
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,11,08,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-57,34,9,9.10,"Lillard, Damian",3.00,13.20
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,2,8,47,1,"Jump Shot","2PT Field Goal",7,"Houston Rockets",42,63,0,6.80,"Brewer, Corey",4.20,17.50
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,1,37,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-11,195,12,9.40,"Smith, Josh",6.10,13.70
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,4,10,01,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-48,246,0,1.20,"Harden, James",6.10,18.20
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,3,6,54,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",53,260,9,9.30,"Jennings, Brandon",6.20,15.30
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,2,0,01,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",-48,105,23,21.70,"Lawson, Ty",4.60,2.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,2,8,46,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-150,208,7,7.50,"Redick, JJ",4.50,16.50
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,2,0,39,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",233,56,0,0.90,"Middleton, Khris",7.70,6.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,2,3,05,0,"Jump Shot","2PT Field Goal",12,"Indiana Pacers",61,104,7,5.80,"Stuckey, Rodney",6.20,19.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,8,24,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-59,173,4,4.50,"Price, Ronnie",4.50,18.90
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,1,7,12,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",77,236,0,1.50,"Cole, Norris",11.80,11.80
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,1,11,32,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",230,108,0,1.00,"Beverley, Patrick",4.40,16.30
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,2,4,03,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-95,246,0,1.10,"Harden, James",9.50,16.80
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,3,10,56,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-138,134,5,7.50,"Pierce, Paul",5.60,17.20
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,4,13,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",7,160,10,6.90,"Mahinmi, Ian",5.00,9.60
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,3,2,40,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-127,209,0,0.80,"Hood, Rodney",7.00,9.20
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,3,8,50,0,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",110,194,6,6.40,"Holiday, Jrue",5.30,17.20
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,0,00,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",54,266,4,4.80,"Sloan, Donald",6.10,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,1,3,27,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",40,75,7,5.40,"Sessions, Ramon",1.40,8.30
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,3,5,05,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",124,214,0,0.90,"Westbrook, Russell",7.40,20.60
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,2,2,33,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",214,129,0,7.40,"Harris, Tobias",5.20,5.70
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,4,8,18,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",215,123,0,0.80,"McCallum, Ray",4.20,15.20
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,1,7,47,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-7,145,3,4.50,"Monroe, Greg",3.70,14.90
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,1,10,41,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-185,183,0,1.00,"Price, Ronnie",3.40,12.70
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,6,02,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",233,6,0,1.00,"Smith, Josh",5.80,17.50
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,3,10,35,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",2,113,2,2.10,"Beal, Bradley",6.30,6.00
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,3,7,09,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",53,241,0,1.50,"Westbrook, Russell",5.50,13.70
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,1,6,10,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-68,239,10,8.80,"Burke, Trey",5.90,16.40
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,1,6,35,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",234,-2,0,1.00,"Gortat, Marcin",14.40,16.10
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,2,6,25,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",187,175,1,1.10,"Jefferson, Al",5.40,18.40
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,3,4,17,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",70,209,0,0.80,"Allen, Tony",7.30,17.30
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,1,1,34,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-114,129,0,2.00,"Conley, Mike",5.10,5.00
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,1,7,55,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",26,0,2,2.70,"Gallinari, Danilo",5.80,21.10
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,2,3,42,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-5,3,3,2.90,"Hill, Solomon",6.10,19.10
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,2,52,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",28,-10,7,6.80,"Hickson, JJ",2.60,17.00
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,4,6,09,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,1,2,3.80,"Harris, Gary",5.10,21.80
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,3,6,15,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-11,3,2,2.40,"Vucevic, Nikola",3.80,13.10
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,3,11,34,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-16,-6,0,1.10,"Lawson, Ty",4.00,19.00
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,2,0,02,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,9,6,5.60,"Green, Draymond",1.90,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,3,7,18,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,1,13,10.70,"Adams, Steven",2.50,13.00
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,2,5,15,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",0,12,4,4.20,"Smith, J.R.",1.00,19.20
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,2,3,31,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-4,6,2,3.50,"Westbrook, Russell",2.00,22.40
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,1,10,32,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",20,-6,4,3.20,"Dieng, Gorgui",0.80,13.00
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,4,4,32,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",18,0,6,4.00,"Pachulia, Zaza",2.20,11.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,3,8,29,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",17,0,0,0.90,"Sloan, Donald",6.40,21.90
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,2,37,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,4,0,0.80,"Landry, Carl",3.80,13.20
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,5,43,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-21,6,0,1.00,"Thompson, Jason",2.30,19.90
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,4,9,07,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,9,8,8.20,"Biyombo, Bismack",1.90,16.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,4,2,35,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",20,15,2,2.00,"Lin, Jeremy",2.60,18.30
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,2,0,49,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",29,4,2,3.40,"Favors, Derrick",3.80,8.20
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,4,0,25,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",18,4,0,1.30,"Gasol, Marc",17.70,23.90
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,2,0,43,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",12,11,16,17.90,"Zeller, Tyler",1.60,7.30
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,2,15,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",24,6,5,4.40,"McLemore, Ben",1.00,20.20
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,1,7,01,1,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",20,1,0,0.60,"Conley, Mike",1.60,15.50
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,11,33,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-15,4,4,3.90,"Evans, Tyreke",1.90,18.40
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,4,5,42,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-11,-8,0,0.60,"Gasol, Marc",2.10,14.60
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,3,10,10,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,7,3,3.00,"Green, Draymond",3.70,20.10
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,3,10,29,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",13,6,5,3.20,"Conley, Mike",0.60,15.40
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,1,5,49,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",23,12,4,3.60,"Gasol, Marc",1.40,16.10
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,2,6,07,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",15,9,1,1.40,"Ajinca, Alexis",1.70,15.90
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,4,2,45,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-11,-2,3,3.70,"Oladipo, Victor",2.40,21.80
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,10,13,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-15,7,10,10.50,"Davis, Anthony",3.50,11.80
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,3,7,54,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-27,1,0,0.80,"Hill, Jordan",1.30,5.70
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,4,17,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-29,7,1,1.40,"Batum, Nicolas",2.10,15.20
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,2,0,43,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,4,1,1.60,"Thompson, Klay",5.50,21.90
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,3,1,34,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-10,0,4,3.60,"Williams, Lou",3.60,21.30
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,2,1,47,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,1,0,0.70,"Hill, Jordan",5.30,20.40
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,4,2,55,0,"Layup Shot","2PT Field Goal",3,"Golden State Warriors",20,23,0,1.20,"Bogut, Andrew",2.80,23.30
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,1,5,40,1,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-2,3,3,2.60,"Korver, Kyle",1.90,21.50
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,3,0,37,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",0,17,22,21.70,"Cunningham, Dante",2.30,3.00
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,3,10,34,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",13,19,0,1.20,"Ibaka, Serge",2.20,11.00
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,4,2,08,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-8,9,2,2.30,"Evans, Tyreke",3.70,16.40
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,1,8,02,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-7,3,4,2.90,"Lillard, Damian",2.00,22.40
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,3,7,45,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,4,5,5.40,"Noel, Nerlens",3.00,19.50
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,2,3,52,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,0,1,2.00,"Roberson, Andre",4.30,19.70
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,3,2,07,0,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-8,-5,0,0.70,"Stuckey, Rodney",2.30,20.70
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,2,3,42,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",24,7,6,6.80,"Noah, Joakim",4.60,16.80
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,1,10,50,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-4,6,3,3.70,"Smart, Marcus",11.80,22.20
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,2,2,16,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",21,-2,1,2.60,"Lillard, Damian",3.30,19.10
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,4,3,16,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",10,19,8,8.70,"Gobert, Rudy",3.20,13.80
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,3,5,49,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-13,0,5,5.20,"Lee, Courtney",2.00,14.80
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,2,0,39,1,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,-2,1,1.40,"Belinelli, Marco",1.90,19.00
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,0,01,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-29,3,14,13.70,"Landry, Carl",3.40,0.60
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,3,35,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",1,25,8,10.80,"Gortat, Marcin",0.00,15.30
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,3,1,20,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-8,-8,0,0.50,"Leonard, Meyers",4.30,20.20
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,2,1,46,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-7,0,0,1.50,"Lee, Courtney",3.30,20.70
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,4,3,23,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",15,3,0,1.00,"Aldridge, LaMarcus",4.40,15.50
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,2,4,57,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",23,-2,4,5.10,"Stuckey, Rodney",2.60,20.00
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,1,7,10,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",13,-2,1,1.90,"Frye, Channing",2.30,21.20
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,3,0,47,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",13,0,6,5.10,"Lowry, Kyle",2.90,18.00
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,1,3,53,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,1,3,3.30,"Rondo, Rajon",5.70,22.30
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,1,8,36,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",15,-5,1,2.00,"Frye, Channing",2.60,14.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,4,3,22,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",12,15,2,2.80,"Hardaway Jr., Tim",4.10,10.30
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,3,3,23,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",13,12,4,3.50,"Johnson, Tyler",3.50,22.20
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,4,8,44,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",21,4,0,0.00,"Dalembert, Samuel",2.70,18.90
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,0,08,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,7,0,0.70,"Hardaway Jr., Tim",2.80,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,1,24,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,0,1,3.40,"Blake, Steve",3.10,7.30
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,1,4,55,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",7,0,5,5.40,"Gasol, Marc",1.90,17.20
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,2,10,21,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-5,-2,3,3.40,"Dudley, Jared",2.30,20.40
+"Eric Bledsoe","Phoenix Suns",2015-03-02,2014,4238,1610612756,400579179,2,10,20,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-15,22,7,5.60,"Andersen, Chris",1.00,19.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,2,11,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",18,19,0,1.80,"Hardaway Jr., Tim",2.30,20.20
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,4,1,44,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",2,22,18,13.60,"Lopez, Robin",2.30,9.60
+"Eric Bledsoe","Phoenix Suns",2015-02-21,2014,4238,1610612756,400579110,4,0,49,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",23,14,5,4.90,"Butler, Jimmy",1.80,19.90
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,1,8,56,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,-6,8,9.00,"Cousins, DeMarcus",2.70,16.10
+"Eric Bledsoe","Phoenix Suns",2015-03-13,2014,4238,1610612756,400579266,2,4,22,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-11,7,4,3.80,"Horford, Al",1.20,11.20
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,4,6,27,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,-3,0,1.00,"Bennett, Anthony",3.60,23.70
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,1,4,32,0,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,4,10,8.00,"Williams, Mo",1.70,16.10
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,3,4,03,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",18,0,1,2.10,"Brewer, Corey",2.80,20.00
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,4,1,44,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",21,1,0,1.00,"Walker, Kemba",2.50,21.60
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,1,2,32,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",0,23,1,2.80,"Zeller, Tyler",1.10,7.00
+"Eric Bledsoe","Phoenix Suns",2014-12-20,2014,4238,1610612756,400578685,2,2,22,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",12,4,3,3.20,"Smith, Jason",5.80,17.90
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,5,49,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",15,1,0,0.00,"Walker, Kemba",0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,3,8,00,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",-5,-5,0,0.80,"Lowry, Kyle",3.90,18.90
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,2,9,35,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",26,4,4,3.10,"Rivers, Austin",2.30,11.50
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,3,4,51,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-2,14,1,1.40,"Jones, Perry",4.10,22.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,2,3,12,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-24,14,0,0.00,"Redick, JJ",13.10,13.50
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,1,9,33,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",2,11,8,8.60,"Gortat, Marcin",2.60,3.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,3,6,20,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",-8,25,6,4.30,"DeRozan, DeMar",2.00,21.40
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,1,8,02,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",4,22,0,1.00,"Jordan, DeAndre",4.50,11.00
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,4,1,25,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-13,-2,1,1.90,"Thompson, Tristan",4.50,21.60
+"Eric Bledsoe","Phoenix Suns",2014-11-22,2014,4238,1610612756,400578476,1,4,12,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-7,9,22,18.00,"Mahinmi, Ian",0.20,5.60
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,5,1,25,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",13,14,3,3.90,"Paul, Chris",2.00,3.30
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,1,5,56,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",13,9,1,1.10,"Bosh, Chris",1.80,10.00
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,3,9,09,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-4,6,2,1.40,"Redick, JJ",1.90,9.50
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,1,5,52,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",4,14,5,4.60,"Nelson, Jameer",2.80,19.80
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,4,0,44,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-8,15,17,15.60,"Ibaka, Serge",0.90,3.10
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,3,5,21,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",7,-11,5,4.50,"Butler, Rasual",4.90,18.40
+"Eric Bledsoe","Phoenix Suns",2015-01-13,2014,4238,1610612756,400578862,1,5,12,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",15,-3,0,0.60,"Smith, J.R.",3.40,10.70
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,4,8,15,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-5,-2,3,3.30,"Marshall, Kendall",5.40,21.00
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,1,7,14,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-7,6,1,2.20,"Jordan, DeAndre",2.60,9.70
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,1,1,15,1,"Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",32,3,4,4.00,"Jordan, DeAndre",3.10,19.30
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,2,7,39,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",21,-10,0,1.10,"Harden, James",7.30,21.30
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,1,9,13,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",18,9,0,0.60,"Ellis, Monta",3.50,20.90
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,0,24,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",21,-2,3,2.60,"Beverley, Patrick",3.00,21.50
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,1,6,57,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",13,4,16,13.50,"Parker, Jabari",3.40,11.30
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,1,8,52,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-13,6,1,1.70,"Sloan, Donald",3.00,21.20
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,1,8,23,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",10,0,0,1.30,"Howard, Dwight",7.70,11.50
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,11,06,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",21,-2,0,0.00,"Kaman, Chris",2.00,12.30
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,6,14,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",21,12,2,2.00,"Harden, James",6.90,20.90
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,1,8,16,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",20,6,0,0.70,"Motiejunas, Donatas",4.90,20.90
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,2,6,05,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-8,-2,3,2.50,"Leonard, Kawhi",2.70,6.70
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,4,5,26,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,0,0,0.80,"Bargnani, Andrea",3.90,21.10
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,4,5,10,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,1,5,5.80,"Middleton, Khris",4.70,18.30
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,2,6,21,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",20,0,0,1.20,"Larkin, Shane",4.90,15.50
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,3,10,34,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",10,9,0,1.00,"Drummond, Andre",4.20,14.80
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,3,4,40,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-8,-10,2,2.00,"Chandler, Wilson",1.40,21.10
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,2,3,57,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-11,11,4,3.60,"Amundson, Lou",2.20,18.00
+"Eric Bledsoe","Phoenix Suns",2014-12-12,2014,4238,1610612756,400578629,2,9,54,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,7,0,1.00,"Augustin, D.J.",2.80,21.30
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,2,37,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,-2,4,5.10,"Miles, CJ",2.10,21.40
+"Eric Bledsoe","Phoenix Suns",2015-01-06,2014,4238,1610612756,400578812,1,11,25,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,7,5,4.40,"Knight, Brandon",4.00,19.00
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,3,9,28,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",6,3,0,0.60,"Lowry, Kyle",7.70,19.80
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,3,8,40,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",15,12,1,2.20,"Gortat, Marcin",4.10,3.00
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,1,9,46,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",21,19,4,3.30,"Evans, Tyreke",2.30,19.90
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,1,8,12,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,6,3,3.00,"Lin, Jeremy",3.00,20.00
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,3,10,52,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,3,0,1.00,"Rubio, Ricky",1.40,9.00
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,3,8,11,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",6,6,0,1.20,"Dieng, Gorgui",17.70,21.00
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,2,0,03,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,4,22,22.80,"Valanciunas, Jonas",1.80,1.20
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,2,0,35,1,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",-15,1,0,0.80,"Vasquez, Greivis",3.10,20.00
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,2,3,49,1,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,-5,0,0.60,"Batum, Nicolas",3.50,19.40
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,1,11,44,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-7,0,1,2.20,"Williams, Deron",5.90,22.40
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,1,9,24,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",7,-8,0,0.70,"Williams, Deron",5.60,20.30
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,2,2,04,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",10,-8,1,2.00,"Williams, Deron",3.50,20.00
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,6,1,20,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",15,1,1,2.30,"Allen, Tony",1.80,20.50
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,1,4,33,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",18,-2,0,1.20,"Bass, Brandon",2.80,18.10
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,5,0,51,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-18,0,1,1.40,"Roberson, Andre",3.10,21.70
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,4,36,0,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",-188,-3,2,5.70,"Jefferson, Richard",4.30,1.00
+"Eric Bledsoe","Phoenix Suns",2014-11-09,2014,4238,1610612756,400578387,1,9,18,0,"Pullup Jump shot","2PT Field Goal",10,"Golden State Warriors",-27,99,6,5.30,"Curry, Stephen",3.80,19.30
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,3,2,02,1,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",-49,172,6,4.90,"Aminu, Al-Farouq",7.90,8.70
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,1,6,56,0,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",86,173,3,3.30,"Jordan, DeAndre",5.60,19.50
+"Eric Bledsoe","Phoenix Suns",2015-03-22,2014,4238,1610612756,400579338,2,1,02,1,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",110,153,3,3.10,"Parsons, Chandler",5.20,20.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,2,0,01,1,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",-48,140,8,8.40,"Lillard, Damian",3.80,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,2,0,19,1,"Pullup Jump shot","3PT Field Goal",24,"Philadelphia 76ers",-124,217,10,11.10,"Gordon, Drew",6.20,9.60
+"Eric Bledsoe","Phoenix Suns",2015-02-28,2014,4238,1610612756,400579167,3,5,55,0,"Pullup Jump shot","2PT Field Goal",11,"San Antonio Spurs",-93,74,6,6.80,"Leonard, Kawhi",3.80,1.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,3,07,1,"Pullup Jump shot","2PT Field Goal",13,"Charlotte Hornets",31,129,5,5.90,"Zeller, Cody",5.50,20.40
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,4,6,51,0,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-37,156,10,9.20,"Beverley, Patrick",2.20,14.70
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,1,9,32,0,"Pullup Jump shot","2PT Field Goal",20,"New York Knicks",-179,91,2,3.00,"Galloway, Langston",2.30,11.90
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,4,4,56,1,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",39,146,10,9.90,"Green, Danny",4.80,15.30
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,1,7,26,1,"Pullup Jump shot","2PT Field Goal",3,"Boston Celtics",-4,39,4,4.30,"Sullinger, Jared",5.30,11.60
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,2,10,50,1,"Pullup Jump shot","2PT Field Goal",11,"San Antonio Spurs",-119,-6,11,6.70,"Joseph, Cory",5.80,10.40
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,2,3,48,0,"Pullup Jump shot","3PT Field Goal",26,"Los Angeles Clippers",165,201,5,4.40,"Paul, Chris",3.20,19.60
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,1,0,07,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-76,175,16,16.50,"Harden, James",4.10,5.90
+"Eric Bledsoe","Phoenix Suns",2015-04-14,2014,4238,1610612756,400579508,4,9,28,0,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",-51,189,5,5.60,"Hudson, Lester",4.00,19.10
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,3,5,58,1,"Pullup Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",-127,149,7,5.20,"Williams, Mo",7.00,19.20
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,3,10,51,0,"Pullup Jump shot","2PT Field Goal",20,"Atlanta Hawks",-54,194,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,3,6,09,1,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",144,138,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,5,22,1,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",-68,176,3,2.90,"Rubio, Ricky",7.30,20.50
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,1,11,26,0,"Pullup Jump shot","2PT Field Goal",18,"Charlotte Hornets",-45,176,5,4.30,"Stephenson, Lance",7.30,20.30
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,4,1,56,1,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",-109,160,5,5.20,"Pierce, Paul",4.90,19.20
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,1,8,38,1,"Pullup Jump shot","2PT Field Goal",22,"Sacramento Kings",106,195,3,4.10,"McCallum, Ray",4.20,21.50
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,3,55,1,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",110,135,4,4.10,"Beverley, Patrick",4.40,18.70
+"Eric Bledsoe","Phoenix Suns",2015-03-11,2014,4238,1610612756,400579251,3,4,43,1,"Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",29,149,3,3.60,"Hamilton, Justin",5.20,10.00
+"Eric Bledsoe","Phoenix Suns",2015-04-07,2014,4238,1610612756,400579446,3,11,42,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",77,178,0,0.00,,0.00,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,4,18,0,"Pullup Jump shot","2PT Field Goal",21,"Dallas Mavericks",42,208,4,4.30,"Ellis, Monta",4.70,19.60
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,4,0,14,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-78,231,3,2.70,"Augustin, D.J.",5.10,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,3,5,38,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",-52,178,14,17.50,"Papanikolaou, Kostas",5.40,2.50
+"Eric Bledsoe","Phoenix Suns",2014-12-31,2014,4238,1610612756,400578772,3,0,00,0,"Pullup Jump shot","3PT Field Goal",27,"Oklahoma City Thunder",-8,274,4,2.80,"Jones, Perry",5.00,0.00
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,5,39,1,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-75,238,1,2.20,"Beverley, Patrick",11.70,3.30
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,4,4,33,0,"Pullup Jump shot","2PT Field Goal",19,"Washington Wizards",168,104,2,2.90,"Porter, Otto",4.20,20.30
+"Eric Bledsoe","Phoenix Suns",2014-11-12,2014,4238,1610612756,400578408,3,4,45,1,"Pullup Jump shot","3PT Field Goal",24,"Brooklyn Nets",-40,241,6,5.50,"Jack, Jarrett",9.10,19.50
+"Eric Bledsoe","Phoenix Suns",2014-12-06,2014,4238,1610612756,400578582,4,5,08,0,"Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",-147,138,2,2.20,"Harden, James",5.10,14.60
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,2,7,04,1,"Pullup Jump shot","2PT Field Goal",22,"San Antonio Spurs",-4,225,14,10.30,"Duncan, Tim",4.70,13.00
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,4,10,02,0,"Pullup Jump shot","2PT Field Goal",21,"Orlando Magic",-32,214,3,4.90,"Payton, Elfrid",3.90,11.90
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,3,8,14,1,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-120,153,6,5.60,"Prigioni, Pablo",5.00,16.30
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,3,5,03,1,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",4,149,2,2.00,"Westbrook, Russell",2.60,12.50
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,3,11,39,0,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",4,249,4,5.80,"Duncan, Tim",6.30,5.70
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,2,1,41,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",182,14,8,9.30,"Dorsey, Joey",6.00,16.00
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,10,15,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-79,179,6,4.60,"Lillard, Damian",4.50,18.70
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,1,8,47,0,"Pullup Jump shot","2PT Field Goal",16,"San Antonio Spurs",-125,113,1,3.00,"Leonard, Kawhi",4.10,12.70
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,1,4,47,0,"Pullup Jump shot","2PT Field Goal",18,"New Orleans Pelicans",102,156,9,7.80,"Evans, Tyreke",4.20,15.70
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,2,3,43,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-60,149,7,6.80,"Lillard, Damian",3.30,18.00
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,2,2,48,1,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",-10,195,8,7.20,"Rondo, Rajon",4.00,18.10
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,3,6,58,0,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",37,187,4,5.20,"Lillard, Damian",5.10,20.00
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,4,5,52,0,"Pullup Jump shot","2PT Field Goal",20,"San Antonio Spurs",2,200,2,3.00,"Mills, Patty",4.20,15.60
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,3,11,07,1,"Pullup Jump shot","2PT Field Goal",21,"Oklahoma City Thunder",94,190,3,3.30,"Westbrook, Russell",7.40,19.60
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,1,7,25,0,"Pullup Jump shot","2PT Field Goal",20,"San Antonio Spurs",89,189,3,3.60,"Green, Danny",5.00,21.60
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,2,0,04,1,"Pullup Jump shot","2PT Field Goal",16,"Denver Nuggets",-82,140,10,8.60,"Lawson, Ty",2.60,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,1,8,41,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",73,145,4,3.80,"Lee, Courtney",6.20,19.20
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,1,5,36,0,"Pullup Jump shot","2PT Field Goal",18,"Chicago Bulls",53,175,2,2.60,"Noah, Joakim",6.00,17.80
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,1,8,45,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",-134,132,5,5.20,"Allen, Tony",3.00,2.00
+"Eric Bledsoe","Phoenix Suns",2015-04-08,2014,4238,1610612756,400579463,2,3,37,1,"Pullup Jump shot","2PT Field Goal",10,"Dallas Mavericks",81,72,5,4.00,"Ellis, Monta",4.40,9.40
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,10,58,1,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",-4,186,4,3.40,"Watson, CJ",5.30,19.70
+"Eric Bledsoe","Phoenix Suns",2014-12-09,2014,4238,1610612756,400578605,2,3,10,0,"Pullup Jump shot","2PT Field Goal",19,"Miami Heat",-112,162,3,3.10,"Bosh, Chris",5.80,18.90
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,2,10,10,0,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",81,159,4,3.60,"Barbosa, Leandro",5.50,19.00
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,3,5,09,0,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-92,157,9,6.20,"Lin, Jeremy",6.20,17.70
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,2,1,12,1,"Pullup Jump shot","2PT Field Goal",13,"Chicago Bulls",-106,89,16,13.30,"Butler, Jimmy",3.50,11.00
+"Eric Bledsoe","Phoenix Suns",2014-10-29,2014,4238,1610612756,400578305,1,9,48,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",-90,140,4,3.40,"Lin, Jeremy",3.20,16.30
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,1,7,41,1,"Pullup Jump shot","2PT Field Goal",14,"New York Knicks",-70,123,8,8.00,"Shved, Alexey",5.00,17.10
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,2,3,22,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",110,231,0,0.90,"Thompson, Klay",10.10,6.00
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,2,6,35,1,"Pullup Jump shot","2PT Field Goal",15,"Houston Rockets",-111,101,10,12.00,"Prigioni, Pablo",3.70,8.00
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,3,9,52,1,"Pullup Jump shot","2PT Field Goal",19,"Chicago Bulls",23,189,3,2.30,"Rose, Derrick",2.70,13.20
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,1,8,30,0,"Pullup Jump shot","2PT Field Goal",17,"New Orleans Pelicans",80,153,5,4.40,"Asik, Omer",3.20,18.70
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,3,4,55,0,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",75,121,7,6.80,"Ingles, Joe",3.30,17.40
+"Eric Bledsoe","Phoenix Suns",2015-01-30,2014,4238,1610612756,400578996,4,7,41,0,"Pullup Jump shot","2PT Field Goal",20,"Chicago Bulls",-117,168,5,5.40,"Rose, Derrick",2.20,17.00
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,2,5,18,1,"Pullup Jump shot","2PT Field Goal",16,"Golden State Warriors",97,129,11,10.60,"McAdoo, James Michael",4.90,13.10
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,1,2,51,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-35,255,2,3.00,"Curry, Stephen",8.20,13.30
+"Eric Bledsoe","Phoenix Suns",2014-11-21,2014,4238,1610612756,400578465,3,9,59,1,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",155,61,3,2.90,"Carter-Williams, Michael",3.70,3.10
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,1,10,19,1,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",1,192,2,2.50,"Beverley, Patrick",9.60,14.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,3,9,33,0,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",89,142,10,9.70,"Nowitzki, Dirk",5.60,15.50
+"Eric Bledsoe","Phoenix Suns",2015-01-16,2014,4238,1610612756,400578888,1,6,15,0,"Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",160,123,2,2.20,"Young, Thaddeus",5.90,20.70
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,2,5,03,1,"Pullup Jump shot","2PT Field Goal",20,"Dallas Mavericks",64,192,4,4.10,"Ellis, Monta",6.60,20.80
+"Eric Bledsoe","Phoenix Suns",2015-03-06,2014,4238,1610612756,400579208,3,6,43,1,"Pullup Jump shot","2PT Field Goal",20,"Brooklyn Nets",43,200,5,4.80,"Williams, Deron",5.30,18.00
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,4,4,14,1,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",-111,154,20,18.30,"Ellis, Monta",4.90,6.80
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,2,4,30,1,"Pullup Jump shot","2PT Field Goal",19,"New York Knicks",-128,149,4,4.10,"Larkin, Shane",2.90,20.10
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,1,0,32,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",-75,149,4,3.30,"Thomas, Isaiah",2.30,20.70
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,8,24,0,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",-84,142,12,9.80,"Bass, Brandon",4.40,13.80
+"Eric Bledsoe","Phoenix Suns",2015-03-15,2014,4238,1610612756,400579280,4,6,12,1,"Pullup Jump shot","2PT Field Goal",19,"New York Knicks",-8,195,3,3.70,"Galloway, Langston",5.00,19.80
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,1,5,45,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",141,123,9,8.10,"Joseph, Cory",3.00,14.70
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,3,9,44,1,"Pullup Jump shot","2PT Field Goal",18,"Utah Jazz",-84,168,1,1.60,"Exum, Dante",2.50,20.60
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,1,6,10,1,"Pullup Jump shot","2PT Field Goal",18,"Utah Jazz",95,156,4,4.20,"Ingles, Joe",4.60,18.50
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,4,2,27,0,"Pullup Jump shot","2PT Field Goal",20,"Houston Rockets",-194,56,4,3.80,"Motiejunas, Donatas",4.00,11.70
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,2,2,12,1,"Putback Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.20,"Hummel, Robbie",2.20,24.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,1,0,01,1,"Putback Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,"Zeller, Tyler",1.20,0.00
+"Eric Bledsoe","Phoenix Suns",2014-10-31,2014,4238,1610612756,400578316,3,7,41,1,"Putback Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,0,0.40,"Green, Danny",0.00,24.00
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,3,11,32,1,"Putback Layup Shot","2PT Field Goal",0,"Denver Nuggets",6,7,0,0.20,"Lawson, Ty",4.80,18.30
+"Eric Bledsoe","Phoenix Suns",2014-11-05,2014,4238,1610612756,400578357,4,1,01,1,"Putback Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,0,0,0.00,"Pondexter, Quincy",2.90,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-30,2014,4238,1610612756,400578761,1,5,39,1,"Putback Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",23,6,0,1.20,"Holiday, Jrue",2.60,24.00
+"Eric Bledsoe","Phoenix Suns",2014-11-26,2014,4238,1610612756,400578513,1,4,23,1,"Reverse Layup Shot","2PT Field Goal",0,"Denver Nuggets",7,6,0,0.60,"Lawson, Ty",5.20,13.20
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,3,8,53,0,"Reverse Layup Shot","2PT Field Goal",0,"Utah Jazz",2,3,2,3.40,"Favors, Derrick",5.40,16.40
+"Eric Bledsoe","Phoenix Suns",2015-01-23,2014,4238,1610612756,400578942,4,0,27,0,"Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-10,6,1,2.40,"Brewer, Corey",2.90,21.70
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,4,5,11,0,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,4,10,10.50,"Davis, Ed",2.90,13.20
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,1,8,12,0,"Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",23,-3,3,2.70,"Green, Danny",0.30,0.70
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,4,0,05,1,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,1,1,1.00,"Thompson, Klay",2.80,0.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,3,4,48,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",29,-3,4,2.70,"Zeller, Tyler",1.00,19.70
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,8,02,1,"Reverse Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,-2,3,2.70,"Lillard, Damian",2.70,21.00
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,1,0,11,1,"Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",15,-5,5,4.40,"Burke, Trey",5.10,0.00
+"Eric Bledsoe","Phoenix Suns",2014-12-28,2014,4238,1610612756,400578750,1,9,22,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",4,14,2,1.80,"Davis, Ed",2.60,15.80
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,1,6,35,0,"Reverse Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,-8,1,1.70,"Hill, Solomon",3.30,22.00
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,3,8,00,0,"Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",9,-3,0,0.80,"Rondo, Rajon",4.60,14.30
+"Eric Bledsoe","Phoenix Suns",2015-03-07,2014,4238,1610612756,400579216,1,9,41,0,"Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-5,9,10,8.10,"Mozgov, Timofey",7.10,17.10
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,3,6,24,1,"Reverse Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",18,11,2,4.50,"Batum, Nicolas",3.70,21.30
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,2,1,24,0,"Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,11,4,3.70,"Chandler, Tyson",6.70,21.60
+"Eric Bledsoe","Phoenix Suns",2015-01-04,2014,4238,1610612756,400578799,3,11,33,1,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",-11,0,5,4.00,"Ross, Terrence",3.70,21.80
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,2,2,34,1,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",13,-3,0,0.80,"Noel, Nerlens",3.50,13.10
+"Eric Bledsoe","Phoenix Suns",2015-01-19,2014,4238,1610612756,400578914,4,1,43,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",7,14,1,2.50,"Johnson, Wesley",3.80,8.20
+"Eric Bledsoe","Phoenix Suns",2014-11-17,2014,4238,1610612756,400578440,3,8,23,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",-18,9,0,1.40,"Sullinger, Jared",3.40,15.20
+"Eric Bledsoe","Phoenix Suns",2014-11-07,2014,4238,1610612756,400578371,1,9,12,1,"Reverse Layup Shot","2PT Field Goal",1,"Sacramento Kings",-11,0,3,3.40,"Collison, Darren",4.70,21.00
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,1,5,05,0,"Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,4,0,1.50,"Muhammad, Shabazz",3.30,22.00
+"Eric Bledsoe","Phoenix Suns",2015-04-10,2014,4238,1610612756,400579474,2,9,03,0,"Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-7,19,7,6.80,"Anderson, Ryan",2.90,17.00
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,4,9,19,0,"Running Bank shot","2PT Field Goal",9,"Orlando Magic",86,31,4,3.30,"OQuinn, Kyle",3.00,10.00
+"Eric Bledsoe","Phoenix Suns",2014-12-02,2014,4238,1610612756,400578552,4,5,37,1,"Running Bank shot","2PT Field Goal",8,"Indiana Pacers",78,20,7,6.50,"Watson, CJ",3.50,7.00
+"Eric Bledsoe","Phoenix Suns",2015-01-09,2014,4238,1610612756,400578837,2,2,43,1,"Running Bank shot","2PT Field Goal",8,"San Antonio Spurs",81,36,0,1.80,"Green, Danny",3.80,19.30
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,1,3,51,0,"Running Bank shot","2PT Field Goal",7,"San Antonio Spurs",-75,9,12,9.80,"Leonard, Kawhi",3.40,13.90
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,3,11,33,0,"Running Bank shot","2PT Field Goal",9,"Memphis Grizzlies",56,77,3,2.90,"Randolph, Zach",4.20,0.20
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,7,34,0,"Running Bank shot","2PT Field Goal",9,"Charlotte Hornets",91,15,6,6.40,"Jefferson, Al",2.50,18.20
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,3,10,35,1,"Running Bank shot","2PT Field Goal",8,"Denver Nuggets",-82,36,2,2.50,"Mozgov, Timofey",5.30,12.10
+"Eric Bledsoe","Phoenix Suns",2015-04-04,2014,4238,1610612756,400579437,1,9,18,0,"Running Bank shot","2PT Field Goal",7,"Utah Jazz",75,22,5,7.90,"Exum, Dante",1.80,4.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,4,2,22,0,"Running Bank shot","2PT Field Goal",4,"Charlotte Hornets",-46,14,2,2.70,"Jefferson, Al",1.70,11.10
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,2,3,18,1,"Running Finger Roll Layup Shot","2PT Field Goal",4,"Houston Rockets",-4,44,1,4.20,"Beverley, Patrick",2.20,11.80
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,2,9,07,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Dallas Mavericks",7,20,9,11.10,"Chandler, Tyson",4.30,12.20
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,2,5,48,1,"Running Jump Shot","2PT Field Goal",3,"Golden State Warriors",9,33,18,15.70,"McAdoo, James Michael",0.10,7.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,2,0,29,0,"Running Jump Shot","2PT Field Goal",11,"Charlotte Hornets",59,96,18,17.50,"Jefferson, Al",4.60,6.50
+"Eric Bledsoe","Phoenix Suns",2015-01-28,2014,4238,1610612756,400578983,3,3,13,0,"Running Jump Shot","2PT Field Goal",4,"Washington Wizards",36,20,8,8.20,"Gortat, Marcin",3.50,13.00
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,9,24,0,"Running Jump Shot","2PT Field Goal",5,"Denver Nuggets",-21,47,7,5.70,"Lawson, Ty",2.70,18.20
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,1,4,23,1,"Running Jump Shot","2PT Field Goal",9,"Denver Nuggets",-97,22,10,8.10,"Lawson, Ty",2.70,4.00
+"Eric Bledsoe","Phoenix Suns",2014-11-24,2014,4238,1610612756,400578493,1,4,48,0,"Running Jump Shot","2PT Field Goal",12,"Toronto Raptors",92,83,1,1.40,"DeRozan, DeMar",3.90,8.00
+"Eric Bledsoe","Phoenix Suns",2014-11-28,2014,4238,1610612756,400578524,2,0,27,0,"Running Jump Shot","2PT Field Goal",3,"Denver Nuggets",-11,37,5,4.90,"Faried, Kenneth",0.70,19.70
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,3,3,40,0,"Running Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",62,37,1,2.20,"Allen, Tony",1.50,13.00
+"Eric Bledsoe","Phoenix Suns",2014-11-19,2014,4238,1610612756,400578457,2,2,30,1,"Running Jump Shot","2PT Field Goal",7,"Detroit Pistons",1,75,3,2.20,"Augustin, D.J.",1.30,13.00
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,8,55,1,"Running Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",37,6,4,4.90,"Lopez, Robin",2.00,19.50
+"Eric Bledsoe","Phoenix Suns",2014-12-17,2014,4238,1610612756,400578661,1,10,30,0,"Running Jump Shot","2PT Field Goal",4,"Charlotte Hornets",26,36,2,2.20,"Jefferson, Al",3.70,8.70
+"Eric Bledsoe","Phoenix Suns",2015-03-09,2014,4238,1610612756,400579236,4,7,29,1,"Running Jump Shot","2PT Field Goal",16,"Golden State Warriors",-97,134,8,5.80,"Curry, Stephen",2.70,17.50
+"Eric Bledsoe","Phoenix Suns",2015-03-21,2014,4238,1610612756,400579326,2,2,45,0,"Running Jump Shot","2PT Field Goal",4,"Houston Rockets",0,48,1,2.20,"Dorsey, Joey",3.30,16.30
+"Eric Bledsoe","Phoenix Suns",2015-01-31,2014,4238,1610612756,400579007,1,10,56,0,"Running Jump Shot","2PT Field Goal",8,"Golden State Warriors",-67,56,11,9.50,"Curry, Stephen",3.70,14.00
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,2,3,29,0,"Running Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",70,66,1,1.60,"Muhammad, Shabazz",3.30,18.50
+"Eric Bledsoe","Phoenix Suns",2015-02-25,2014,4238,1610612756,400579142,2,0,00,0,"Running Jump Shot","3PT Field Goal",26,"Denver Nuggets",-18,266,4,4.20,"Harris, Gary",2.70,0.00
+"Eric Bledsoe","Phoenix Suns",2014-11-01,2014,4238,1610612756,400578329,2,0,35,1,"Running Layup Shot","2PT Field Goal",2,"Utah Jazz",-18,11,18,14.40,"Burke, Trey",1.70,9.50
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,4,4,58,1,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-2,22,14,11.80,"Ellis, Monta",0.80,13.80
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,4,7,47,0,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",21,7,2,2.30,"Nelson, Jameer",2.80,20.90
+"Eric Bledsoe","Phoenix Suns",2015-02-05,2014,4238,1610612756,400579037,3,6,50,0,"Running Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",17,23,1,1.70,"Lillard, Damian",2.90,3.40
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,3,10,01,1,"Running Layup Shot","2PT Field Goal",0,"Washington Wizards",7,4,2,3.90,"Humphries, Kris",2.40,22.10
+"Eric Bledsoe","Phoenix Suns",2014-12-21,2014,4238,1610612756,400578698,4,1,01,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Washington Wizards",4,4,1,1.70,"Seraphin, Kevin",2.90,20.20
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,2,2,59,0,"Step Back Jump shot","2PT Field Goal",22,"Philadelphia 76ers",69,219,13,14.50,"Noel, Nerlens",6.20,5.90
+"Eric Bledsoe","Phoenix Suns",2015-02-10,2014,4238,1610612756,400579076,1,5,17,0,"Step Back Jump shot","2PT Field Goal",15,"Houston Rockets",-158,9,9,5.90,"Beverley, Patrick",2.30,2.80
+"Eric Bledsoe","Phoenix Suns",2015-01-02,2014,4238,1610612756,400578783,1,2,22,1,"Step Back Jump shot","3PT Field Goal",24,"Philadelphia 76ers",65,241,15,12.40,"Carter-Williams, Michael",8.90,6.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,1,4,53,0,"Step Back Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-175,14,4,4.00,"Aldridge, LaMarcus",0.80,3.10
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,3,5,37,0,"Step Back Jump shot","3PT Field Goal",25,"Minnesota Timberwolves",92,238,5,5.90,"Rubio, Ricky",6.30,17.00
+"Eric Bledsoe","Phoenix Suns",2014-12-14,2014,4238,1610612756,400578644,3,11,28,0,"Step Back Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",125,149,16,13.20,"Ibaka, Serge",6.20,11.30
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,2,7,21,0,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",-128,77,5,3.90,"Nowitzki, Dirk",5.20,10.90
+"Eric Bledsoe","Phoenix Suns",2015-02-26,2014,4238,1610612756,400579147,1,2,57,1,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",162,3,12,8.80,"Westbrook, Russell",6.00,3.50
+"Eric Bledsoe","Phoenix Suns",2015-03-04,2014,4238,1610612756,400579189,3,5,31,1,"Step Back Jump shot","2PT Field Goal",19,"Orlando Magic",1,197,7,5.80,"Oladipo, Victor",5.20,17.60
+"Eric Bledsoe","Phoenix Suns",2015-01-25,2014,4238,1610612756,400578951,1,8,57,0,"Step Back Jump shot","2PT Field Goal",22,"Los Angeles Clippers",113,195,0,2.30,"Redick, JJ",1.70,15.60
+"Eric Bledsoe","Phoenix Suns",2014-11-30,2014,4238,1610612756,400578538,3,7,12,0,"Step Back Jump shot","2PT Field Goal",21,"Orlando Magic",-144,162,14,13.10,"Vucevic, Nikola",5.80,2.80
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,4,6,30,1,"Step Back Jump shot","2PT Field Goal",19,"Utah Jazz",-117,154,13,12.10,"Johnson, Chris",4.70,7.50
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,3,9,19,0,"Step Back Jump shot","2PT Field Goal",15,"Dallas Mavericks",-89,129,5,4.80,"Nelson, Jameer",4.50,18.40
+"Eric Bledsoe","Phoenix Suns",2015-04-12,2014,4238,1610612756,400579492,1,4,14,1,"Step Back Jump shot","2PT Field Goal",13,"San Antonio Spurs",-21,132,22,17.20,"Leonard, Kawhi",4.60,5.80
+"Eric Bledsoe","Phoenix Suns",2015-03-25,2014,4238,1610612756,400579364,4,10,53,0,"Step Back Jump shot","2PT Field Goal",15,"Sacramento Kings",86,127,9,7.00,"Thompson, Jason",5.20,16.90
+"Eric Bledsoe","Phoenix Suns",2015-03-19,2014,4238,1610612756,400579310,2,4,10,0,"Step Back Jump shot","3PT Field Goal",24,"New Orleans Pelicans",222,105,5,5.00,"Gordon, Eric",5.00,5.90
+"Eric Bledsoe","Phoenix Suns",2015-02-06,2014,4238,1610612756,400579048,4,4,30,0,"Step Back Jump shot","2PT Field Goal",18,"Utah Jazz",182,-17,18,14.20,"Johnson, Chris",0.10,0.70
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,3,0,33,0,"Step Back Jump shot","3PT Field Goal",25,"Golden State Warriors",111,228,10,10.80,"Livingston, Shaun",5.00,13.20
+"Eric Bledsoe","Phoenix Suns",2015-03-29,2014,4238,1610612756,400579392,3,6,36,0,"Step Back Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",81,235,1,2.60,"Adams, Steven",5.40,12.00
+"Eric Bledsoe","Phoenix Suns",2015-02-02,2014,4238,1610612756,400579017,4,2,47,0,"Step Back Jump shot","2PT Field Goal",10,"Memphis Grizzlies",28,104,13,12.60,"Green, Jeff",7.20,9.20
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,7,37,0,"Step Back Jump shot","2PT Field Goal",21,"Portland Trail Blazers",173,135,3,3.90,"Aldridge, LaMarcus",2.50,0.90
+"Eric Bledsoe","Phoenix Suns",2015-02-20,2014,4238,1610612756,400579100,1,5,29,0,"Step Back Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",125,164,6,5.20,"Rubio, Ricky",5.60,19.00
+"Eric Bledsoe","Phoenix Suns",2014-12-05,2014,4238,1610612756,400578576,1,11,08,0,"Step Back Jump shot","2PT Field Goal",18,"Dallas Mavericks",-10,184,2,2.80,"Ellis, Monta",5.80,9.10
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,1,6,03,0,"Step Back Jump shot","2PT Field Goal",7,"Golden State Warriors",70,36,5,6.70,"Curry, Stephen",3.30,8.80
+"Eric Bledsoe","Phoenix Suns",2015-01-07,2014,4238,1610612756,400578823,1,8,56,0,"Step Back Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",0,206,7,7.90,"Wiggins, Andrew",6.40,16.50
+"Eric Bledsoe","Phoenix Suns",2015-01-11,2014,4238,1610612756,400578852,1,7,38,0,"Step Back Jump shot","2PT Field Goal",13,"Memphis Grizzlies",132,0,3,4.20,"Gasol, Marc",4.20,2.00
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,2,4,08,0,"Step Back Jump shot","3PT Field Goal",25,"Golden State Warriors",149,211,11,10.80,"Livingston, Shaun",4.80,2.30
+"Eric Bledsoe","Phoenix Suns",2015-04-02,2014,4238,1610612756,400579418,4,2,32,1,"Step Back Jump shot","3PT Field Goal",26,"Golden State Warriors",-191,181,12,17.10,"Bogut, Andrew",6.20,3.90
+"Eric Bledsoe","Phoenix Suns",2014-12-26,2014,4238,1610612756,400578734,1,8,48,1,"Step Back Jump shot","2PT Field Goal",13,"Sacramento Kings",-34,127,5,4.50,"McLemore, Ben",5.00,18.50
+"Eric Bledsoe","Phoenix Suns",2015-01-21,2014,0,1610612756,0,4,4,15,0,"Tip Shot","2PT Field Goal",2,"Portland Trail Blazers",6,26,0,0.10,"Robinson, Thomas",3.70,15.00
+"Eric Bledsoe","Phoenix Suns",2014-12-08,2014,4238,1610612756,400578599,3,11,41,1,"Tip Shot","2PT Field Goal",1,"Los Angeles Clippers",0,11,0,0.10,"Barnes, Matt",2.60,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-15,2014,4238,1610612756,400578652,1,6,17,1,"Tip Shot","2PT Field Goal",0,"Milwaukee Bucks",1,1,1,2.00,"Parker, Jabari",2.10,24.00
+"Eric Bledsoe","Phoenix Suns",2015-03-27,2014,4238,1610612756,400579378,3,4,07,0,"Tip Shot","2PT Field Goal",1,"Portland Trail Blazers",9,15,0,0.00,"Lillard, Damian",1.80,24.00
+"Eric Bledsoe","Phoenix Suns",2014-12-23,2014,4238,1610612756,400578717,1,10,14,0,"Tip Shot","2PT Field Goal",1,"Dallas Mavericks",18,-2,0,0.00,"Nowitzki, Dirk",1.40,15.00
+"Eric Bledsoe","Phoenix Suns",2014-11-14,2014,4238,1610612756,400578422,3,0,25,1,"Tip Shot","2PT Field Goal",2,"Charlotte Hornets",-16,14,0,0.90,"Neal, Gary",0.30,24.00
+"Eric Bledsoe","Phoenix Suns",2015-02-23,2014,4238,1610612756,400579127,4,7,24,0,"Tip Shot","2PT Field Goal",1,"Boston Celtics",12,4,0,1.60,"Crowder, Jae",0.40,24.00
+"Eric Bledsoe","Phoenix Suns",2015-03-30,2014,4238,1610612756,400579399,1,0,50,0,"Turnaround Bank shot","2PT Field Goal",3,"Portland Trail Blazers",34,9,14,13.10,"Blake, Steve",1.20,5.80

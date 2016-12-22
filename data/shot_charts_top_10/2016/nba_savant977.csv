@@ -1,0 +1,1070 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,4,36,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,1,0.70,"Belinelli, Marco",4.90,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,3,9,51,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",2,"Golden State Warriors",-24,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,1,49,0,"Cutting Layup Shot","2PT Field Goal",2,"Houston Rockets",22,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,9,29,1,"Cutting Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",6,2,0,0.60,"Middleton, Khris",7.10,19.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,9,52,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-2,-10,1,1.30,"Lee, Courtney",2.90,13.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,7,17,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-4,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,1,48,1,"Cutting Layup Shot","2PT Field Goal",2,"Brooklyn Nets",22,7,0,0.00,"Johnson, Joe",0.00,8.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,4,08,0,"Cutting Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-4,13,1,1.70,"Williams, Marvin",1.20,5.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,9,25,1,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,2,2.30,"Jones, Terrence",4.30,16.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,3,6,19,1,"Driving Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,5,6.90,"Crowder, Jae",4.60,8.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,1,4,05,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-14,11,2,5.10,"Holiday, Jrue",0.20,14.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,3,33,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Boston Celtics",20,-6,8,7.70,"Sullinger, Jared",2.10,13.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,5,52,1,"Driving Floating Bank Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-120,105,2,2.60,"Aminu, Al-Farouq",1.60,6.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,4,8,12,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Detroit Pistons",-9,47,1,3.50,"Drummond, Andre",2.00,15.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,4,14,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Atlanta Hawks",112,47,12,11.30,"Teague, Jeff",0.40,9.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,6,27,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",61,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,1,8,44,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Atlanta Hawks",73,75,1,2.00,"Sefolosha, Thabo",2.10,10.40
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,4,19,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Indiana Pacers",1,67,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,2,8,54,0,"Driving Hook Shot","2PT Field Goal",3,"Toronto Raptors",1,31,6,5.60,"Johnson, James",3.10,2.80
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,3,8,30,0,"Driving Hook Shot","2PT Field Goal",6,"Cleveland Cavaliers",35,51,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,8,31,1,"Driving Hook Shot","2PT Field Goal",3,"Oklahoma City Thunder",12,36,7,7.70,"Ibaka, Serge",2.40,2.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,1,4,09,0,"Driving Hook Shot","2PT Field Goal",5,"Sacramento Kings",46,33,8,11.00,"Cauley-Stein, Willie",1.70,7.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,1,8,16,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",9,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,1,8,52,0,"Driving Layup Shot","2PT Field Goal",4,"Brooklyn Nets",-38,13,4,5.40,"Young, Thaddeus",1.80,4.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,1,6,16,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",20,11,8,8.90,"Olynyk, Kelly",1.00,15.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,8,27,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,9,04,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-14,-6,1,3.00,"Larkin, Shane",5.80,13.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,5,11,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",9,13,8,6.70,"Capela, Clint",3.20,14.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,9,31,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",15,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,3,58,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",17,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,4,2,48,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,9,40,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-4,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,10,49,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-1,16,4,5.80,"Capela, Clint",2.20,15.50
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,4,3,36,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-12,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,2,0,02,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-17,11,1,1.60,"Green, Draymond",2.20,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,11,19,1,"Driving Layup Shot","2PT Field Goal",0,"Charlotte Hornets",1,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,1,45,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-7,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,5,36,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",15,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,2,1,41,1,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",25,7,3,4.00,"Ross, Terrence",4.40,15.20
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,4,56,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",6,-5,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,3,4,20,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",19,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,10,33,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-2,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,8,29,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",24,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,7,45,0,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",22,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,8,40,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,5,08,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,4,10,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",10,16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,0,00,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-3,19,6,7.20,"Acy, Quincy",0.80,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,4,57,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",4,13,13,13.00,"Zeller, Cody",0.60,11.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,2,44,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",17,-1,9,8.80,"Batum, Nicolas",1.40,14.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,3,7,40,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-1,11,2,3.30,"Drummond, Andre",4.60,19.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,7,16,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,0,3,2.90,"Barnes, Matt",2.60,13.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,0,06,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,-5,16,16.80,"Lee, Courtney",0.10,5.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,3,57,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",-7,-6,2,2.80,"Sullinger, Jared",0.00,19.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,2,2,16,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,0,3,6.10,"Davis, Ed",0.70,11.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,3,5,58,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",19,8,2,3.20,"Lillard, Damian",1.00,10.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,1,8,41,0,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",-22,8,7,5.90,"Sullinger, Jared",2.00,18.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,3,9,11,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-14,8,5,5.80,"Hairston, PJ",3.40,16.30
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,3,43,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Houston Rockets",-24,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,2,53,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",4,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,6,55,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",-16,21,11,11.80,"Bogut, Andrew",2.00,11.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,4,48,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-14,-5,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,6,35,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",-16,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,1,5,02,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-14,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,8,41,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-20,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,4,14,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Utah Jazz",-17,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,11,16,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,16,1,6.00,"Noel, Nerlens",4.60,6.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,4,10,06,1,"Driving Reverse Layup Shot","2PT Field Goal",3,"Brooklyn Nets",30,2,4,5.40,"Lopez, Brook",1.20,7.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,5,11,0,"Fadeaway Bank shot","2PT Field Goal",12,"Golden State Warriors",-120,21,7,8.80,"Curry, Stephen",4.20,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,2,4,04,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",63,82,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,11,45,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Houston Rockets",-99,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,1,5,11,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Sacramento Kings",92,80,7,9.80,"Acy, Quincy",4.10,8.20
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,8,33,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",48,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,9,12,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Sacramento Kings",195,3,2,2.00,"Gay, Rudy",3.70,16.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,2,6,54,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",96,144,4,6.10,"Johnson, Wesley",2.90,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,7,24,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Golden State Warriors",-97,156,2,6.00,"Rush, Brandon",2.80,11.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,11,04,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Houston Rockets",-30,82,1,1.70,"Brewer, Corey",4.10,11.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,8,56,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-68,144,3,5.20,"Aminu, Al-Farouq",2.60,11.80
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,1,6,43,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Utah Jazz",28,70,11,9.50,"Gobert, Rudy",3.80,15.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,3,7,25,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",186,-15,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,2,5,07,0,"Fadeaway Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-187,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,4,06,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Houston Rockets",101,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,11,08,1,"Fadeaway Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-169,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,4,38,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Golden State Warriors",79,154,4,3.20,"Iguodala, Andre",3.50,11.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,3,6,25,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Golden State Warriors",-122,110,0,1.40,"Barnes, Harrison",5.10,1.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,8,47,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-125,124,8,6.00,"Antetokounmpo, Giannis",4.50,3.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,1,07,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",105,178,12,10.50,"Thompson, Hollis",3.10,3.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,3,8,26,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",74,151,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,2,4,40,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Denver Nuggets",-59,85,0,7.30,"Barton, Will",2.00,9.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,3,07,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-11,149,3,9.00,"Crabbe, Allen",3.80,5.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,3,9,58,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Toronto Raptors",120,4,1,2.40,"DeRozan, DeMar",2.90,3.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,10,43,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Boston Celtics",-43,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,5,23,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Boston Celtics",-166,-10,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,1,7,35,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Golden State Warriors",104,165,1,3.00,"Barnes, Harrison",2.20,4.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,2,7,51,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",96,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,4,9,19,0,"Fadeaway Jump Shot","3PT Field Goal",23,"Dallas Mavericks",233,21,2,1.80,"Matthews, Wesley",2.80,14.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,2,4,23,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Golden State Warriors",117,16,2,7.20,"Barbosa, Leandro",2.20,1.20
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,2,47,0,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",-142,33,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,3,54,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Houston Rockets",-78,121,5,10.10,"Brewer, Corey",4.40,5.20
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,8,33,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Denver Nuggets",35,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,5,47,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",1,82,4,3.10,"Adams, Steven",3.80,10.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,7,54,1,"Fadeaway Jump Shot","2PT Field Goal",21,"Golden State Warriors",-109,188,2,4.70,"Rush, Brandon",3.90,23.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,1,8,47,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-184,-11,0,0.50,"Johnson, Joe",4.00,0.80
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,11,05,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Chicago Bulls",156,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,1,10,12,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Golden State Warriors",133,141,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,2,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",155,62,2,5.90,"Middleton, Khris",2.30,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,2,26,1,"Fadeaway Jump Shot","2PT Field Goal",20,"Boston Celtics",-209,-16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",40,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,5,21,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Chicago Bulls",-56,159,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,3,57,1,"Fadeaway Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-147,33,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,6,54,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Detroit Pistons",140,67,1,2.50,"Caldwell-Pope, Kentavious",2.80,10.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,3,37,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",200,-15,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,4,3,35,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",94,174,1,3.00,"Harkless, Maurice",3.00,7.20
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,3,3,08,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Indiana Pacers",141,-15,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,2,4,15,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",141,3,2,3.10,"Wiggins, Andrew",1.60,8.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,3,10,04,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",109,-16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,1,8,55,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",-58,105,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,11,28,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",87,87,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,3,8,57,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Golden State Warriors",192,21,2,3.40,"Rush, Brandon",2.90,6.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,2,5,29,1,"Fadeaway Jump Shot","2PT Field Goal",9,"San Antonio Spurs",25,87,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,1,4,14,0,"Floating Jump shot","2PT Field Goal",12,"Toronto Raptors",-20,126,3,6.90,"DeRozan, DeMar",4.00,1.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,1,3,49,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",14,70,10,7.60,"Koufos, Kosta",3.80,15.80
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,1,3,56,0,"Floating Jump shot","2PT Field Goal",7,"Chicago Bulls",-79,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,0,56,1,"Floating Jump shot","2PT Field Goal",6,"Boston Celtics",0,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,3,5,42,1,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",27,56,1,4.40,"Cauley-Stein, Willie",4.50,12.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,6,04,0,"Floating Jump shot","2PT Field Goal",8,"Oklahoma City Thunder",-86,8,5,5.60,"Kanter, Enes",1.50,1.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,5,23,0,"Hook Shot","2PT Field Goal",5,"Oklahoma City Thunder",25,52,10,11.20,"Kanter, Enes",2.00,5.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,2,53,0,"Hook Shot","2PT Field Goal",3,"Indiana Pacers",20,23,10,11.40,"Hill, Jordan",3.30,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,2,3,01,0,"Hook Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,8,33,0,"Hook Shot","2PT Field Goal",6,"Minnesota Timberwolves",-58,33,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,2,0,00,0,"Jump Bank Shot","3PT Field Goal",24,"Portland Trail Blazers",189,159,4,4.60,"Davis, Ed",3.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,9,13,1,"Jump Bank Shot","2PT Field Goal",15,"Portland Trail Blazers",-106,111,0,0.00,"Aminu, Al-Farouq",8.40,19.50
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,6,47,1,"Jump Bank Shot","2PT Field Goal",3,"Boston Celtics",0,31,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,1,09,1,"Jump Bank Shot","2PT Field Goal",9,"Boston Celtics",-96,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,4,26,1,"Jump Bank Shot","2PT Field Goal",9,"Sacramento Kings",-89,41,0,1.20,"Rondo, Rajon",1.30,22.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,2,7,23,1,"Jump Bank Shot","2PT Field Goal",4,"Atlanta Hawks",-45,13,0,1.50,"Bazemore, Kent",1.10,10.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,2,9,26,1,"Jump Bank Shot","2PT Field Goal",11,"Portland Trail Blazers",-89,77,3,3.10,"Aminu, Al-Farouq",2.40,16.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,1,10,1,"Jump Bank Shot","2PT Field Goal",9,"Sacramento Kings",-76,56,4,4.40,"McLemore, Ben",3.90,4.90
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,4,01,1,"Jump Bank Shot","3PT Field Goal",25,"Oklahoma City Thunder",-225,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,2,50,1,"Jump Bank Shot","2PT Field Goal",4,"Charlotte Hornets",45,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,5,27,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-12,259,6,6.50,"Arthur, Darrell",2.20,0.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,6,33,1,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-181,208,0,1.10,"Papanikolaou, Kostas",2.30,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,3,4,26,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",156,0,3,4.50,"Barton, Will",3.70,5.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,5,26,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",158,188,0,0.80,"Papanikolaou, Kostas",6.00,4.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,1,12,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",161,178,0,0.70,"Barton, Will",4.90,8.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,0,51,0,"Jump Shot","3PT Field Goal",31,"Denver Nuggets",-202,237,0,1.00,"Harris, Gary",5.00,7.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,4,16,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-124,214,12,11.00,"Jokic, Nikola",6.40,6.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,6,53,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",230,-6,0,1.00,"Foye, Randy",2.70,2.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,0,08,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-215,164,0,0.90,"Barton, Will",8.20,3.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,1,3,00,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",207,156,0,0.70,"Leonard, Kawhi",2.10,10.30
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,3,5,39,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",143,80,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,2,3,03,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",155,146,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,3,8,28,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",135,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,0,10,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-96,232,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,2,1,00,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",220,123,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,1,10,58,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",159,231,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,3,7,22,0,"Jump Shot","2PT Field Goal",7,"Milwaukee Bucks",-78,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,4,3,43,0,"Jump Shot","3PT Field Goal",28,"Toronto Raptors",-200,202,0,3.60,"Ross, Terrence",3.40,10.40
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,9,27,0,"Jump Shot","2PT Field Goal",15,"Cleveland Cavaliers",150,16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,4,5,40,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",235,-6,0,0.80,"Ross, Terrence",4.30,12.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,1,7,05,1,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",109,-21,9,9.30,"Ross, Terrence",1.90,14.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,1,9,18,1,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",-143,16,0,1.10,"Ross, Terrence",3.20,14.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,3,9,24,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",228,51,0,0.90,"DeRozan, DeMar",3.50,13.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,2,8,24,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-241,21,0,1.30,"Anderson, Kyle",0.00,4.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,1,11,43,0,"Jump Shot","2PT Field Goal",22,"Utah Jazz",-201,95,2,2.60,"Hayward, Gordon",1.90,9.80
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,2,57,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",22,259,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,4,33,0,"Jump Shot","3PT Field Goal",28,"Washington Wizards",-163,228,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,1,6,23,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-230,61,0,0.90,"Leonard, Kawhi",3.80,9.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,0,23,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",233,121,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,2,8,29,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",161,52,1,2.30,"Ingles, Joe",3.80,22.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,2,3,38,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-194,159,2,3.40,"Hayward, Gordon",3.40,13.50
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,2,6,59,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",164,183,3,3.70,"Johnson, Chris",3.90,18.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,2,5,23,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-227,95,0,1.00,"Neto, Raul",3.50,18.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,1,8,18,0,"Jump Shot","2PT Field Goal",23,"Utah Jazz",-217,82,0,1.60,"Hood, Rodney",3.50,9.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,4,27,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",232,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,9,40,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",179,164,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,6,58,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",153,214,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,10,48,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-165,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,4,4,50,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",168,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,3,3,55,0,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",143,80,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,2,0,32,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-129,208,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,0,28,0,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",-183,139,7,6.80,"Batum, Nicolas",2.30,16.60
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,4,3,17,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-88,224,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,1,7,52,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",182,159,0,1.00,"Towns, Karl-Anthony",6.10,21.40
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,2,30,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-237,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,2,9,31,1,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",161,41,0,1.20,"Dieng, Gorgui",5.30,13.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,2,9,04,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",141,134,0,0.80,"Prince, Tayshaun",3.10,16.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,3,9,34,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",101,131,5,5.50,"Wiggins, Andrew",3.70,12.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,1,3,51,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-183,183,0,1.10,"Wiggins, Andrew",4.00,14.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,2,7,56,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-32,120,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,1,8,31,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-143,224,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,4,4,06,0,"Jump Shot","3PT Field Goal",28,"Cleveland Cavaliers",-209,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,3,5,22,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",27,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,4,8,31,0,"Jump Shot","2PT Field Goal",23,"Cleveland Cavaliers",-214,97,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,2,3,28,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",97,234,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,3,11,21,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-220,124,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,4,5,36,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",135,208,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,2,46,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",213,120,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,3,11,36,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",158,183,0,0.90,"Leonard, Kawhi",4.50,2.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,5,40,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-181,188,0,0.80,"Mayo, O.J.",3.00,18.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,1,31,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",101,124,1,4.80,"Antetokounmpo, Giannis",10.00,15.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,2,09,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",171,205,0,0.90,"Parker, Jabari",2.60,23.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,2,2,02,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-88,200,1,4.00,"Antetokounmpo, Giannis",2.10,7.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,11,10,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",107,134,2,7.30,"Middleton, Khris",1.90,5.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,3,45,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",199,146,0,0.60,"Parker, Jabari",4.50,13.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,3,59,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-240,52,5,6.50,"Antetokounmpo, Giannis",4.40,11.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,8,36,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",135,159,1,1.80,"Mayo, O.J.",5.60,3.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,3,0,20,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-17,269,0,0.80,"Antetokounmpo, Giannis",6.60,11.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,2,1,51,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",207,154,0,1.10,"Parker, Jabari",6.40,21.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,10,01,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-156,180,0,1.00,"Antetokounmpo, Giannis",3.50,10.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,2,2,07,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",236,23,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,2,6,05,1,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",146,159,0,1.40,"Evans, Tyreke",3.20,15.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,1,4,41,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-140,203,0,1.50,"Evans, Tyreke",3.20,5.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,6,05,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",238,47,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,3,6,12,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",148,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,3,8,08,0,"Jump Shot","2PT Field Goal",15,"Boston Celtics",101,115,10,13.60,"Bradley, Avery",0.50,11.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,1,5,16,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",212,120,0,0.80,"Crowder, Jae",3.30,20.50
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,4,05,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",235,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,2,8,18,0,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",91,269,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,2,0,43,0,"Jump Shot","2PT Field Goal",22,"New York Knicks",-27,219,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,1,27,0,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",97,43,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,3,9,44,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",155,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,3,10,53,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-9,242,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,0,28,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-14,262,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,0,58,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",107,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,2,02,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-4,249,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,8,52,0,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",210,75,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,2,0,45,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",123,154,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,6,49,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-183,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,5,32,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-147,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,4,30,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-192,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,7,16,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-113,222,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,2,1,13,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",28,267,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,5,01,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",15,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,6,02,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-30,203,2,2.10,"Sullinger, Jared",5.20,9.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,2,3,45,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-135,228,10,7.50,"Mbah a Moute, Luc",3.20,10.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,2,4,43,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",204,139,3,4.80,"Johnson, Wesley",2.80,18.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,2,4,14,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-30,254,0,1.10,"Griffin, Blake",5.30,11.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,3,11,32,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-160,208,0,1.10,"Griffin, Blake",5.70,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,1,7,09,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",-122,38,4,5.20,"Mbah a Moute, Luc",2.50,12.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,3,8,22,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-50,174,1,1.60,"Redick, JJ",4.20,8.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,1,4,07,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",228,87,0,1.10,"Mbah a Moute, Luc",5.10,21.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,2,4,56,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",138,-16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,3,48,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-25,28,0,2.40,"Iguodala, Andre",3.10,21.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,3,7,53,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-145,203,10,9.80,"Rush, Brandon",4.00,3.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,9,21,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",213,164,5,4.80,"Rush, Brandon",3.90,17.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,3,5,13,0,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-202,180,0,2.90,"Curry, Stephen",4.40,12.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,3,52,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",6,110,2,1.90,"Iguodala, Andre",3.90,14.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,3,52,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",-42,67,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,5,23,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,36,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,2,1,57,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-151,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,4,1,05,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",120,70,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,10,17,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-176,170,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,4,0,09,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",122,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,4,3,55,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",6,185,2,2.10,"Crowder, Jae",3.00,10.50
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,2,6,10,0,"Jump Shot","3PT Field Goal",27,"New York Knicks",212,170,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,4,15,1,"Jump Shot","2PT Field Goal",14,"Indiana Pacers",140,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,1,7,19,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-238,51,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,3,04,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",218,131,0,0.70,"Crowder, Jae",4.40,11.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,4,6,40,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-237,120,2,3.90,"Turner, Evan",2.70,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,9,11,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",177,92,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,4,1,40,1,"Jump Shot","3PT Field Goal",28,"Boston Celtics",127,252,0,0.90,"Crowder, Jae",4.30,7.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,8,08,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",107,149,1,2.00,"Turner, Evan",4.00,20.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,4,4,11,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",76,242,3,2.60,"Lee, David",3.90,1.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,7,21,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-84,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,3,0,02,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",9,278,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,4,43,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",187,160,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,6,45,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",159,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,10,57,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-43,200,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,6,12,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",159,136,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,4,49,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-43,262,1,2.70,"Rondo, Rajon",2.90,5.80
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,2,6,14,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-199,154,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,2,8,20,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",132,210,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,2,6,47,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-156,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,4,46,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-110,214,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,6,10,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",97,219,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,11,44,0,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-153,232,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,6,15,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-160,213,0,1.00,"Morris, Marcus",5.10,12.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,1,9,10,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",228,21,1,2.80,"Morris, Marcus",4.20,10.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,4,33,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",192,169,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,7,36,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",230,70,0,2.10,"Morris, Marcus",3.80,9.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,8,35,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",186,41,1,5.50,"Ilyasova, Ersan",5.50,10.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,2,7,32,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-148,62,7,9.40,"Johnson, Stanley",3.40,0.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,1,10,08,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",66,149,1,1.50,"Morris, Marcus",2.90,14.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,2,05,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",184,101,5,6.90,"Johnson, Stanley",3.30,17.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,10,06,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-176,183,0,1.00,"Morris, Marcus",4.50,12.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,1,6,25,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",-58,126,2,3.90,"Morris, Marcus",2.10,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,1,4,48,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",205,165,0,0.90,"Tolliver, Anthony",4.80,17.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,3,31,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",168,7,7,7.20,"Johnson, Stanley",3.10,15.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,1,11,26,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",92,237,0,0.70,"Morris, Marcus",5.20,10.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,2,5,48,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",78,120,1,3.30,"Johnson, Stanley",3.90,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,1,11,25,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-38,169,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,3,5,13,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",220,101,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,1,9,09,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",-7,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,2,7,55,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",235,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,3,3,16,0,"Jump Shot","2PT Field Goal",6,"Utah Jazz",12,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,3,5,29,0,"Jump Shot","3PT Field Goal",31,"Utah Jazz",238,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,3,9,57,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",205,75,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,1,4,30,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",187,-16,6,8.50,"Ariza, Trevor",3.40,2.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,2,33,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",204,154,0,1.10,"Walker, Kemba",2.80,5.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,2,2,36,0,"Jump Shot","3PT Field Goal",29,"Utah Jazz",232,174,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,1,5,31,0,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-165,123,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,11,24,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",-38,159,4,3.90,"Ariza, Trevor",4.50,4.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,10,10,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-181,188,0,3.80,"Brewer, Corey",3.10,12.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,4,4,29,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",51,252,2,2.50,"Beverley, Patrick",4.70,12.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,6,41,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-99,259,0,1.20,"Ariza, Trevor",4.60,11.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,8,10,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",128,237,0,0.80,"Ariza, Trevor",5.70,7.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,5,40,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",132,175,0,1.60,"Ariza, Trevor",2.70,3.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,4,5,05,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-169,213,0,1.30,"Ariza, Trevor",5.40,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,3,32,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-191,195,0,1.80,"Ariza, Trevor",3.10,3.60
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,0,17,0,"Jump Shot","3PT Field Goal",29,"Indiana Pacers",-14,293,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,5,22,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",181,154,0,1.20,"Rondo, Rajon",3.70,19.60
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,3,03,1,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",225,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,2,4,19,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",207,129,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,1,10,48,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",200,160,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,7,16,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",182,-5,2,7.00,"Barnes, Matt",2.90,4.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,0,25,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",125,224,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,3,42,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",128,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,3,11,09,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-215,41,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,2,0,49,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-91,257,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,4,18,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-241,57,1,1.80,"McLemore, Ben",6.60,5.50
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,1,55,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",195,141,0,1.00,"McLemore, Ben",9.90,13.80
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,4,3,00,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",-165,214,0,0.70,"Collison, Darren",11.40,23.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,4,6,14,0,"Jump Shot","2PT Field Goal",9,"Sacramento Kings",91,11,6,7.50,"Rondo, Rajon",2.50,10.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,0,07,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-140,214,0,1.00,"Casspi, Omri",3.70,1.60
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,1,51,0,"Jump Shot","3PT Field Goal",29,"Indiana Pacers",-205,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,2,8,11,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",191,85,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,0,53,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",184,100,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,1,5,33,0,"Jump Shot","2PT Field Goal",10,"Indiana Pacers",-16,105,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,3,3,38,0,"Jump Shot","3PT Field Goal",35,"Indiana Pacers",-158,316,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,1,5,49,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",217,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,8,26,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",213,139,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,1,3,50,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",197,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,3,26,0,"Jump Shot","2PT Field Goal",7,"Charlotte Hornets",-68,18,0,1.50,"Williams, Marvin",1.00,14.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,3,5,36,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-225,82,0,0.90,"Batum, Nicolas",4.10,6.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,5,10,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",27,249,0,0.80,"Allen, Tony",5.50,6.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,6,50,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",138,164,0,1.70,"Barnes, Matt",4.70,10.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,10,10,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-150,224,0,1.00,"Barnes, Matt",3.40,5.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,1,04,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",227,65,0,1.90,"Allen, Tony",4.00,9.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,6,36,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",173,11,3,4.30,"Gasol, Marc",3.90,7.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,4,02,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-130,218,0,1.30,"Green, Jeff",3.30,19.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,2,37,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",20,252,0,1.40,"Lee, Courtney",4.10,17.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,1,11,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-73,237,1,3.00,"Allen, Tony",5.60,12.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,8,32,0,"Jump Shot","3PT Field Goal",28,"Memphis Grizzlies",60,277,0,0.90,"Green, Jeff",7.90,9.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,3,50,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-2,169,2,4.20,"Batum, Nicolas",2.80,11.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,4,6,05,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-1,77,0,0.00,"McCallum, Ray",1.60,9.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,4,25,1,"Jump Shot","2PT Field Goal",22,"Denver Nuggets",-214,56,0,0.80,"Barton, Will",3.30,13.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,3,5,06,1,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",-29,46,3,4.20,"Barton, Will",2.90,4.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,3,10,54,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-217,129,0,1.30,"Papanikolaou, Kostas",3.20,11.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,10,44,1,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",6,134,3,3.20,"Papanikolaou, Kostas",5.50,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,1,3,40,0,"Jump Shot","3PT Field Goal",28,"Milwaukee Bucks",155,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,3,05,1,"Jump Shot","2PT Field Goal",9,"Denver Nuggets",-94,18,2,3.10,"Barton, Will",3.40,21.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,6,13,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-184,-6,2,5.30,"Nelson, Jameer",2.40,3.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,0,06,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",64,174,21,20.10,"Brewer, Corey",2.50,3.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,2,6,08,0,"Jump Shot","3PT Field Goal",28,"Houston Rockets",173,224,5,4.90,"Harden, James",6.20,4.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,2,2,42,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",200,139,0,0.80,"Ariza, Trevor",4.90,20.60
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,1,4,47,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-192,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,3,10,46,0,"Jump Shot","2PT Field Goal",23,"Golden State Warriors",137,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,2,4,45,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-243,100,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,1,11,08,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-88,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,2,2,31,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",240,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,4,4,36,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-225,105,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,4,50,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-12,267,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,8,07,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-237,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,4,13,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",1,264,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,7,11,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",194,156,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,3,21,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-7,272,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,10,09,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",140,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,6,47,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",215,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,8,41,1,"Jump Shot","2PT Field Goal",23,"Oklahoma City Thunder",-133,190,0,1.20,"Waiters, Dion",1.70,10.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,8,12,1,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",223,-15,8,8.20,"Waiters, Dion",2.60,15.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,10,34,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-179,180,0,3.70,"Durant, Kevin",3.60,8.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,4,0,41,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",112,164,2,4.30,"Durant, Kevin",3.60,18.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,4,0,03,0,"Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",74,13,8,7.80,"Durant, Kevin",2.90,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,4,3,31,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",99,229,3,5.40,"Durant, Kevin",5.30,15.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,7,25,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",182,159,0,1.60,"Payne, Cameron",4.00,15.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,6,59,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-227,31,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,8,32,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",156,134,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,5,34,0,"Jump Shot","2PT Field Goal",7,"Miami Heat",-78,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,7,04,0,"Jump Shot","2PT Field Goal",10,"Miami Heat",-102,21,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,6,19,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",56,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,3,30,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-210,134,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,3,3,26,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",238,-31,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,11,32,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",42,239,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,6,30,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-161,208,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,10,11,0,"Jump Shot","3PT Field Goal",28,"Oklahoma City Thunder",-176,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,1,3,29,0,"Jump Shot","2PT Field Goal",3,"San Antonio Spurs",-11,38,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,2,8,16,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-14,159,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,2,2,50,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",-124,229,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,4,8,55,1,"Jump Shot","2PT Field Goal",23,"Memphis Grizzlies",-181,146,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,11,19,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-6,242,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,1,5,23,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-145,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,2,5,37,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",112,242,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,1,5,16,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-173,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,9,14,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",182,180,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,2,5,02,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",9,252,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,7,24,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",132,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,2,5,32,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",120,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,8,17,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",-120,257,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,6,52,0,"Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",42,33,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,2,3,18,0,"Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",9,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,2,1,56,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-32,178,4,3.90,"Aminu, Al-Farouq",3.60,9.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,10,35,0,"Jump Shot","2PT Field Goal",23,"Portland Trail Blazers",4,232,2,2.50,"Aminu, Al-Farouq",6.10,8.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,1,5,17,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-86,229,2,2.50,"Plumlee, Mason",5.00,17.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,4,2,39,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",35,247,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,3,11,43,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",233,100,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,2,4,32,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",104,223,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,9,14,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-11,252,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,10,09,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-212,116,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,3,3,36,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-169,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-02,2015,110,1610612747,400828793,1,8,13,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-176,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,2,6,12,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-133,214,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,1,9,53,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-184,160,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,5,23,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-160,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,2,5,59,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",61,70,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,4,28,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-96,223,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,0,53,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",195,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,11,22,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",209,124,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,2,1,33,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-235,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,4,01,0,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",-129,21,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,3,22,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-56,170,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,2,6,55,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-233,-5,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,2,14,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",115,228,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,4,2,00,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-137,229,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,4,46,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",240,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,2,0,25,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-66,249,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,11,01,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",164,-21,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,2,5,26,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-60,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,4,2,17,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-119,249,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,10,40,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",179,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,3,5,52,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",236,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,4,1,14,0,"Jump Shot","3PT Field Goal",28,"Phoenix Suns",96,264,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,2,0,37,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-163,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,4,3,20,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",215,124,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,4,4,01,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-237,-24,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,3,5,30,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",63,247,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,3,08,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-183,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,8,22,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",166,180,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,9,00,0,"Jump Shot","3PT Field Goal",31,"Utah Jazz",-32,313,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,5,34,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-61,165,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,3,39,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-156,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,9,31,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-168,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,9,45,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-96,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,6,39,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-187,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,11,18,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-237,-10,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,3,01,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",179,169,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,4,12,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",228,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,0,36,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-34,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,5,58,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-223,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,1,15,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-166,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,6,44,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",-1,51,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,2,35,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-217,120,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,3,20,1,"Jump Shot","2PT Field Goal",19,"Utah Jazz",197,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,7,36,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",82,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,10,44,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",199,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,11,25,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",137,203,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,10,22,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",110,131,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,2,28,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",122,219,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,10,56,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-189,-6,0,1.40,"Thomas, Lance",3.90,6.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,1,10,46,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",119,164,8,8.30,"Anthony, Carmelo",1.70,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,1,9,12,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",197,151,0,0.80,"Calderon, Jose",3.40,17.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,6,51,0,"Jump Shot","3PT Field Goal",27,"New York Knicks",-191,198,9,7.20,"Thomas, Lance",3.30,1.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,1,5,28,1,"Jump Shot","2PT Field Goal",22,"New York Knicks",159,154,0,1.30,"Anthony, Carmelo",5.60,13.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,8,38,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-153,195,0,2.80,"Thomas, Lance",4.80,7.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,0,39,0,"Jump Shot","3PT Field Goal",27,"New York Knicks",202,185,0,0.70,"Anthony, Carmelo",4.80,17.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,2,50,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-155,16,2,2.60,"Galloway, Langston",2.70,13.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,6,54,0,"Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",69,85,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,5,06,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",141,110,0,0.00,"Harkless, Maurice",3.30,12.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,10,34,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",202,149,0,0.80,"Aminu, Al-Farouq",5.50,16.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,4,1,59,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",4,72,4,3.30,"Crabbe, Allen",4.00,12.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,2,3,52,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-37,160,2,3.50,"Lillard, Damian",3.10,3.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,3,10,56,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",76,180,1,2.30,"Faried, Kenneth",4.70,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,2,5,59,1,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",61,154,2,1.70,"Barton, Will",2.90,16.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,4,8,55,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",30,200,0,0.70,"Harkless, Maurice",3.40,12.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,4,7,14,0,"Jump Shot","3PT Field Goal",28,"Portland Trail Blazers",-225,169,0,1.40,"Harkless, Maurice",4.20,13.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,3,4,43,1,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",199,154,0,1.00,"Teague, Jeff",4.60,19.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,1,11,25,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",155,121,0,4.10,"Sefolosha, Thabo",3.20,7.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,2,5,28,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-2,278,0,1.10,"Sefolosha, Thabo",6.10,5.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,0,40,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",86,180,0,2.70,"George, Paul",3.80,13.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,1,7,50,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-214,136,0,1.40,"Gay, Rudy",1.60,15.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,5,59,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",228,57,0,1.00,"Casspi, Omri",6.30,19.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,3,04,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-228,111,0,1.80,"Gay, Rudy",4.00,10.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,1,10,48,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",0,203,0,0.90,"Johnson, Joe",3.00,16.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,9,09,0,"Jump Shot","3PT Field Goal",29,"Indiana Pacers",-99,282,0,1.20,"George, Paul",3.10,1.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,7,18,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",233,51,0,1.20,"Casspi, Omri",3.90,19.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,4,0,07,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",35,269,1,1.30,"George, Paul",3.90,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,6,09,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-16,252,0,0.80,"Miles, CJ",2.80,14.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,2,48,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",92,175,4,4.50,"George, Paul",9.30,12.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,8,46,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",17,188,2,2.10,"Johnson, Joe",7.20,16.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,3,7,35,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",133,210,1,3.80,"Thompson, Klay",1.80,5.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,1,4,22,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",241,21,0,1.30,"Iguodala, Andre",4.40,1.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,2,9,45,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",189,159,0,0.80,"Ezeli, Festus",10.10,14.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,1,5,55,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",141,110,0,0.90,"Johnson, Joe",2.80,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,3,9,17,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-130,219,6,5.70,"Covington, Robert",4.70,12.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,3,5,13,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",125,232,0,0.20,"Thompson, Hollis",5.30,14.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,11,27,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",74,165,2,5.50,"Covington, Robert",2.50,6.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,6,54,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",232,7,0,0.80,"Sampson, JaKarr",9.80,16.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,2,44,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-176,185,0,2.00,"Covington, Robert",7.00,12.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,0,23,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",233,-26,1,3.10,"Grant, Jerami",2.70,17.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,1,47,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",28,262,0,2.10,"McConnell, TJ",3.60,15.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,10,12,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",35,257,2,5.30,"Covington, Robert",4.60,15.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,2,7,24,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",223,65,0,2.10,"Patterson, Patrick",4.30,16.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,7,34,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",150,208,0,1.00,"Johnson, Joe",6.20,6.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,3,6,53,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",220,106,0,0.80,"Matthews, Wesley",2.60,5.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,2,2,26,0,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-87,95,0,1.70,"Pachulia, Zaza",0.50,17.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,4,3,36,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",219,91,0,0.90,"Felton, Raymond",3.00,16.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,5,56,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",0,252,0,1.00,"Beal, Bradley",7.50,16.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,11,49,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",6,254,1,3.20,"Covington, Robert",5.30,16.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,3,5,56,0,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",-30,110,2,2.20,"Carroll, DeMarre",4.30,2.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,0,58,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-191,169,1,3.70,"Beal, Bradley",2.30,16.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,0,30,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",110,121,20,19.40,"Beal, Bradley",4.00,4.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,1,7,37,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",0,190,3,4.00,"Porter, Otto",3.50,13.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,4,7,14,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",127,208,4,4.50,"Johnson, James",4.70,19.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,1,5,13,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-135,213,0,1.10,"Carroll, DeMarre",3.60,13.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,1,6,22,1,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",82,80,0,2.30,"Lowry, Kyle",3.40,20.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,4,1,48,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",89,188,0,1.30,"Lowry, Kyle",2.80,20.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,2,34,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",148,75,4,7.00,"Oubre, Kelly",1.90,10.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,4,3,44,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",109,237,0,0.90,"Morris, Marcus",4.10,3.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,3,6,23,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",2,46,2,3.10,"Morris, Marcus",2.20,7.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,3,7,49,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-187,183,0,1.30,"Jackson, Reggie",11.40,18.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,1,10,47,1,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",104,-6,0,0.90,"Morris, Marcus",4.60,11.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,8,10,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",17,154,3,4.60,"Matthews, Wesley",3.30,12.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,1,12,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-197,159,0,1.10,"Oubre, Kelly",5.40,13.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,1,47,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-173,16,15,14.20,"Wall, John",3.10,10.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,8,17,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-183,195,0,1.30,"Temple, Garrett",2.60,15.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,1,6,45,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",10,244,0,0.80,"Beal, Bradley",3.70,16.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,3,52,1,"Jump Shot","2PT Field Goal",13,"Washington Wizards",25,129,16,12.00,"Beal, Bradley",2.50,2.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,9,02,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",199,159,0,0.90,"Neal, Gary",3.10,7.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,9,10,1,"Jump Shot","2PT Field Goal",5,"Washington Wizards",45,31,1,8.40,"Neal, Gary",1.00,4.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,4,9,45,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",194,144,0,0.90,"Matthews, Wesley",2.50,12.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,1,8,55,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-230,57,0,1.00,"Nowitzki, Dirk",7.30,20.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,1,34,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-145,214,0,1.30,"Parsons, Chandler",4.10,10.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,9,29,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",21,196,1,2.60,"Prince, Tayshaun",3.20,11.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,8,52,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",89,246,0,1.00,"Prince, Tayshaun",7.10,11.60
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,7,18,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-38,196,5,7.20,"Rudez, Damjan",4.90,6.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,1,13,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-80,230,1,3.40,"Prince, Tayshaun",3.40,14.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,5,30,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",164,199,2,3.10,"Wiggins, Andrew",2.70,11.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,8,54,1,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",181,66,0,2.30,"Wiggins, Andrew",4.20,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,7,54,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",228,42,0,1.10,"Wiggins, Andrew",5.50,20.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,5,54,1,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",-51,275,0,0.90,"Wiggins, Andrew",6.00,4.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,1,4,58,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",-45,165,1,2.60,"Anthony, Carmelo",7.30,13.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,1,4,16,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-97,224,0,2.60,"Anthony, Carmelo",2.70,14.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,10,30,0,"Jump Shot","3PT Field Goal",22,"New York Knicks",222,-16,1,5.80,"Thomas, Lance",4.70,12.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,2,6,23,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-114,2,1,2.80,"Aminu, Al-Farouq",2.60,15.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,9,43,1,"Jump Shot","2PT Field Goal",11,"New York Knicks",107,51,1,3.50,"Thomas, Lance",4.00,8.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,5,45,0,"Jump Shot","2PT Field Goal",14,"New York Knicks",141,7,1,1.10,"Anthony, Carmelo",7.80,9.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,3,5,41,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",133,208,0,0.80,"Anthony, Carmelo",4.50,9.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,0,01,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-151,193,0,3.60,"Vujacic, Sasha",2.10,2.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,1,42,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",130,175,0,0.80,"Anthony, Carmelo",3.70,8.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,0,47,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,31,0,1.60,"Vujacic, Sasha",15.40,18.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,2,8,05,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-117,208,11,10.40,"Thomas, Lance",3.00,13.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-08,2015,110,1610612747,400827982,4,5,10,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",-43,23,1,3.10,"Lopez, Robin",3.20,13.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,3,4,53,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-142,61,2,4.50,"Aminu, Al-Farouq",3.70,1.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,4,11,20,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",24,190,0,3.40,"Henderson, Gerald",3.00,8.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,4,3,25,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-160,198,0,0.70,"Crabbe, Allen",3.80,12.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,5,52,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-106,228,0,0.00,"Plumlee, Mason",4.40,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,4,05,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-120,56,0,0.00,"Lillard, Damian",3.00,5.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,8,46,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",182,160,0,0.00,"Aminu, Al-Farouq",5.60,15.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,4,8,51,0,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",133,31,2,3.10,"McCollum, CJ",2.10,13.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,7,54,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",114,139,1,3.20,"Aminu, Al-Farouq",1.60,17.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,4,7,54,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",37,190,0,1.40,"Henderson, Gerald",4.00,9.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,2,10,26,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",174,174,0,0.90,"Harkless, Maurice",5.00,10.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,4,1,19,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",82,242,0,2.10,"Hill, George",2.70,17.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,1,10,06,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",225,110,1,2.30,"Gallinari, Danilo",1.40,12.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,3,6,48,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-160,203,0,2.10,"Mudiay, Emmanuel",4.20,5.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,3,5,01,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",-1,33,0,1.20,"Faried, Kenneth",2.80,4.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,3,4,01,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",99,219,1,2.30,"Nelson, Jameer",3.40,5.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,4,5,31,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",177,174,0,0.90,"Gallinari, Danilo",7.20,13.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,1,4,41,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",187,164,0,1.00,"Harris, Gary",4.90,20.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,1,5,35,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-120,136,0,1.10,"Mudiay, Emmanuel",3.00,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,3,11,45,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",97,223,0,0.80,"Aminu, Al-Farouq",5.70,12.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,3,13,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",99,149,1,2.20,"Aminu, Al-Farouq",3.70,12.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,3,10,55,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-173,164,0,3.20,"Lillard, Damian",4.00,5.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,4,09,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",202,36,1,6.60,"Aminu, Al-Farouq",4.00,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,4,11,03,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-115,218,1,3.20,"Harkless, Maurice",1.40,11.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,1,53,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",218,120,0,1.40,"Sefolosha, Thabo",3.30,15.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,1,10,26,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",207,134,0,0.80,"Sefolosha, Thabo",4.20,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,4,10,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",233,26,0,1.60,"Sefolosha, Thabo",2.60,5.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,2,7,59,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-194,154,0,1.10,"Bazemore, Kent",4.60,5.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,6,15,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-81,237,0,0.80,"Korver, Kyle",5.90,13.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,3,6,45,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",173,8,2,3.20,"Covington, Robert",3.00,6.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,9,20,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-48,267,1,3.10,"Sampson, JaKarr",4.20,14.90
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,3,6,54,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-97,237,1,1.70,"Cauley-Stein, Willie",5.50,15.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,1,8,57,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-122,239,1,2.70,"Cousins, DeMarcus",4.90,6.60
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,1,6,04,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",176,170,0,2.90,"Gay, Rudy",6.40,7.30
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,1,8,36,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",210,144,0,0.90,"Gay, Rudy",5.30,18.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,7,07,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",61,11,2,5.20,"Hill, George",1.60,6.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,7,18,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",-38,11,2,3.90,"George, Paul",5.10,12.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,1,02,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",55,13,6,6.40,"George, Paul",1.70,12.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,4,10,26,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",91,175,5,5.80,"Budinger, Chase",5.60,18.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,4,9,57,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-120,97,2,3.30,"Budinger, Chase",1.90,4.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,1,43,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-161,185,0,1.30,"George, Paul",3.20,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,8,46,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",184,164,0,2.40,"George, Paul",3.30,17.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,5,56,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",-119,-1,0,5.00,"Hill, George",1.70,7.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,7,56,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",61,115,0,1.00,"George, Paul",4.40,22.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,2,8,50,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",173,92,9,8.10,"Stuckey, Rodney",3.60,5.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,4,40,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",-86,80,4,3.90,"George, Paul",0.80,9.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,3,8,35,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-119,101,2,2.70,"Barnes, Harrison",2.80,1.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,3,4,20,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-16,90,0,2.70,"Thompson, Klay",4.60,1.90
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,1,11,27,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-58,178,0,1.40,"Barnes, Harrison",2.80,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,2,10,29,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",210,144,0,0.90,"Speights, Marreese",5.30,8.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,0,07,1,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",-135,-16,11,13.60,"Johnson, Joe",2.20,3.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,2,0,49,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",37,257,6,6.40,"Thompson, Hollis",4.80,18.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,4,28,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",240,-1,0,0.70,"Johnson, Joe",4.70,14.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,4,1,35,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-225,82,1,1.10,"Johnson, Joe",2.90,9.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,4,10,31,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",69,237,10,6.30,"Larkin, Shane",2.70,18.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,1,9,40,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",176,-1,2,5.00,"Lopez, Brook",3.00,14.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,1,10,15,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",102,93,7,8.10,"Matthews, Wesley",2.20,16.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,4,7,57,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-29,104,0,5.40,"Matthews, Wesley",2.80,9.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,1,11,28,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-143,149,0,3.10,"Parsons, Chandler",4.80,11.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,2,6,15,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-217,132,0,1.10,"Matthews, Wesley",3.50,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,3,11,06,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-225,1,0,1.30,"Matthews, Wesley",3.60,10.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,2,1,44,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-230,15,0,0.80,"Felton, Raymond",2.80,6.10
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,4,5,32,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",5,257,1,2.40,"Felton, Raymond",3.70,8.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,3,4,37,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",2,259,0,1.70,"Matthews, Wesley",4.40,12.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,2,4,00,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",81,133,3,2.90,"Williams, Deron",1.70,11.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,4,1,18,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",157,191,0,2.50,"Felton, Raymond",2.40,22.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,10,44,1,"Jump Shot","3PT Field Goal",28,"Philadelphia 76ers",-58,277,0,1.00,"Covington, Robert",4.50,22.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,3,11,07,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",220,129,0,3.80,"Canaan, Isaiah",3.30,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,7,12,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",66,247,8,8.40,"Covington, Robert",3.50,14.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,8,38,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-201,159,0,2.10,"Grant, Jerami",5.40,6.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,10,48,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-43,262,2,4.90,"Covington, Robert",4.10,15.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,4,48,0,"Jump Shot","3PT Field Goal",29,"Philadelphia 76ers",-158,249,0,2.00,"Thompson, Hollis",8.10,17.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,10,33,0,"Jump Shot","2PT Field Goal",12,"Washington Wizards",120,31,1,2.80,"Hollins, Ryan",3.20,7.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,2,0,40,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-124,210,0,1.50,"DeRozan, DeMar",4.90,12.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,4,1,13,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",127,203,2,3.20,"Carroll, DeMarre",3.30,15.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,4,7,08,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",78,247,0,1.00,"Jackson, Reggie",10.20,9.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,2,0,37,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-138,141,0,2.60,"Morris, Marcus",4.40,15.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,4,8,24,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-163,120,2,5.10,"Johnson, Stanley",7.00,4.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,1,5,40,0,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",-215,36,1,5.60,"Morris, Marcus",3.00,9.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,4,10,34,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-132,61,2,2.50,"Johnson, Stanley",3.30,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,2,11,07,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",207,151,0,1.90,"Jackson, Reggie",2.60,10.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,3,8,19,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",9,36,3,5.00,"Ilyasova, Ersan",2.20,10.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,3,10,59,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",76,188,1,1.50,"Morris, Marcus",4.20,11.50
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,1,11,48,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",164,8,0,0.00,"Morris, Marcus",3.00,6.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,2,8,07,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-92,144,2,4.60,"Johnson, Stanley",1.50,6.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,1,10,38,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-176,33,0,2.00,"Parsons, Chandler",2.90,6.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,11,41,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",210,124,0,3.10,"Neal, Gary",3.10,8.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,11,06,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-84,164,7,7.70,"Temple, Garrett",3.80,4.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,10,14,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",79,149,7,5.40,"Temple, Garrett",2.70,7.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,3,32,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-112,156,9,8.40,"Gortat, Marcin",5.20,12.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,7,36,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",153,188,0,1.00,"Sessions, Ramon",3.50,21.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,11,28,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",217,97,0,0.80,"Temple, Garrett",4.10,11.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,3,10,12,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-96,154,5,7.60,"Beal, Bradley",2.70,3.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,3,4,41,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-187,164,3,4.60,"Porter, Otto",4.10,7.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,4,4,50,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-96,156,8,9.10,"Beal, Bradley",3.50,8.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,1,4,36,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-96,237,0,1.10,"Wall, John",1.30,7.40
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,10,41,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-89,224,1,2.80,"Harris, Devin",2.40,10.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,0,52,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",182,160,0,0.80,"Parsons, Chandler",4.30,19.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,7,59,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",134,216,3,4.20,"Rubio, Ricky",2.70,20.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,0,00,0,"Jump Shot","3PT Field Goal",60,"Minnesota Timberwolves",146,584,1,2.10,"Muhammad, Shabazz",4.90,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,3,38,0,"Jump Shot","3PT Field Goal",29,"Minnesota Timberwolves",212,202,0,2.10,"Prince, Tayshaun",3.80,4.60
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,4,1,48,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-45,251,0,0.70,"Rubio, Ricky",7.30,21.20
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,3,11,40,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-220,-21,1,2.30,"Prince, Tayshaun",2.70,8.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,11,17,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-43,263,0,1.00,"Prince, Tayshaun",9.10,8.30
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,4,6,54,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",48,268,1,1.80,"Wiggins, Andrew",3.60,9.80
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,8,31,0,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",176,96,0,2.00,"Wiggins, Andrew",3.20,14.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,6,23,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",228,-4,8,9.40,"Bjelica, Nemanja",4.20,13.60
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,4,3,24,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",5,105,5,5.60,"Wiggins, Andrew",1.40,11.90
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,8,07,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",127,137,1,3.70,"Prince, Tayshaun",4.70,17.10
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,7,15,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",125,109,0,3.10,"Prince, Tayshaun",3.00,15.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,4,5,39,0,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",137,-13,11,9.70,"Wiggins, Andrew",3.40,11.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,2,8,01,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",209,124,1,1.40,"Babbitt, Luke",3.10,5.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,2,4,27,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",200,134,5,4.90,"Gordon, Eric",1.20,19.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,1,8,02,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",228,18,1,4.20,"Cunningham, Dante",4.40,8.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-17,2015,110,1610612747,400828501,1,0,56,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-210,178,2,4.70,"Brewer, Corey",3.40,11.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-17,2015,110,1610612747,400828501,1,0,05,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-47,188,10,15.50,"Capela, Clint",3.30,2.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-17,2015,110,1610612747,400828501,3,4,10,0,"Jump Shot","2PT Field Goal",23,"Houston Rockets",35,228,0,1.10,"Harrell, Montrezl",6.90,9.30
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,4,31,1,"Jump Shot","3PT Field Goal",29,"Houston Rockets",-204,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,1,34,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-25,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,3,27,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",140,154,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,0,19,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",204,165,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,1,30,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",164,219,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,10,56,1,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-132,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,4,51,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",101,232,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,7,39,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-137,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,4,11,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",174,174,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,8,25,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",156,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,6,30,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",177,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,6,22,1,"Jump Shot","3PT Field Goal",29,"Boston Celtics",132,264,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,3,8,41,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",200,159,0,0.80,"Leonard, Kawhi",4.60,12.40
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,2,3,22,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",235,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,1,9,30,1,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",168,134,0,2.40,"Leonard, Kawhi",4.10,17.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,0,26,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",145,139,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,3,27,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",76,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,2,22,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",33,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,1,4,31,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",89,228,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,8,25,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-233,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,7,30,0,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",82,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,4,19,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-199,154,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,1,11,14,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",169,180,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,1,9,38,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-14,224,2,2.70,"McLemore, Ben",7.00,8.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,10,05,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-151,193,0,1.00,"Gay, Rudy",3.50,15.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,6,37,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",102,203,7,4.40,"Gay, Rudy",4.30,15.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,1,38,1,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",-191,208,0,1.00,"Batum, Nicolas",4.10,19.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,1,8,33,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-223,120,0,1.50,"Hairston, PJ",3.50,13.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,1,3,53,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-227,101,0,4.00,"Batum, Nicolas",3.30,2.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,1,16,0,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-138,237,0,2.50,"Batum, Nicolas",3.90,19.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,3,10,57,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",114,224,1,1.70,"Williams, Marvin",5.60,21.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,5,26,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-42,242,0,0.80,"Hairston, PJ",5.20,10.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,4,1,07,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",200,151,4,3.50,"Lin, Jeremy",2.80,21.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,8,19,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-84,228,0,1.20,"Lin, Jeremy",13.40,21.80
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,3,48,1,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-12,219,1,2.30,"Gay, Rudy",3.50,0.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,7,28,1,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",123,7,7,7.00,"Koufos, Kosta",1.90,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,9,35,1,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",141,232,0,0.90,"Gay, Rudy",4.10,16.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,1,2,59,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",150,213,0,0.80,"Koufos, Kosta",8.70,13.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,4,54,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-125,213,0,1.40,"Rondo, Rajon",3.40,13.30
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,1,7,25,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-147,193,2,5.10,"Acy, Quincy",2.30,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,3,7,42,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-135,208,7,6.70,"Gay, Rudy",2.80,17.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,5,31,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",-60,41,11,10.20,"Koufos, Kosta",1.40,14.50
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,4,2,53,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-163,193,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,9,45,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-230,16,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,0,40,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-184,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,5,24,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",223,106,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,6,55,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",230,87,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,2,8,22,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",233,-26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,4,1,27,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",163,85,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,8,49,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",51,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,4,57,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-109,165,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,6,06,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",158,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,7,26,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",168,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,2,2,46,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",89,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,9,00,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",135,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,2,0,14,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-173,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,2,6,26,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",102,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,6,13,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",225,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,11,27,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",17,214,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,7,47,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",150,224,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,9,30,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",168,151,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,1,9,44,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-181,164,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,1,11,24,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-191,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,2,2,37,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",218,120,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,11,38,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-83,242,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,5,23,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",127,218,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,9,39,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",125,213,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,2,6,07,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-79,228,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,2,4,25,1,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",58,232,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,7,56,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",197,141,0,0.90,"Durant, Kevin",7.30,21.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,0,01,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",125,33,4,3.50,"Durant, Kevin",4.10,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,9,08,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-147,46,7,7.50,"Westbrook, Russell",1.90,6.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,9,08,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",35,11,1,2.30,"Adams, Steven",2.90,0.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,5,40,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",187,170,0,2.00,"Durant, Kevin",4.10,2.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,11,17,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-130,111,5,5.60,"Ibaka, Serge",4.90,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,4,58,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-142,213,0,0.00,"Durant, Kevin",5.70,21.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,5,48,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-137,223,2,2.50,"Durant, Kevin",3.90,20.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,7,06,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",74,124,7,8.80,"Ibaka, Serge",3.20,1.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,3,22,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",79,95,8,6.30,"Durant, Kevin",3.10,7.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,5,40,0,"Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",4,75,6,9.80,"Durant, Kevin",3.40,11.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,4,12,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",104,218,0,1.10,"Durant, Kevin",5.90,14.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,5,07,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",205,154,0,0.60,"Durant, Kevin",3.60,4.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,10,13,0,"Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",166,218,4,6.50,"Ibaka, Serge",5.40,5.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,7,37,0,"Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",46,87,1,2.10,"Durant, Kevin",2.40,14.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,5,47,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-169,16,6,9.50,"Durant, Kevin",4.50,4.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,1,01,1,"Jump Shot","2PT Field Goal",22,"Houston Rockets",-158,154,1,2.40,"Brewer, Corey",5.20,7.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,4,24,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-132,218,1,2.90,"Ibaka, Serge",4.60,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,5,59,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-20,120,2,3.80,"Durant, Kevin",3.80,20.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,4,32,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-233,100,0,1.30,"Lawson, Ty",2.60,22.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,1,4,05,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-61,237,3,2.90,"Ariza, Trevor",7.30,16.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,2,6,00,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",164,174,0,1.10,"Beverley, Patrick",6.90,23.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,5,40,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-241,-11,0,0.90,"Ariza, Trevor",6.30,21.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,2,15,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-19,16,1,1.40,"Noel, Nerlens",2.70,9.90
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,6,46,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,2,0,1.10,"Collison, Darren",6.60,14.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,0,00,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-19,0,0,0.80,"Koufos, Kosta",3.60,0.20
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,10,04,0,"Layup Shot","2PT Field Goal",0,"Utah Jazz",6,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,3,52,0,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-7,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,2,1,24,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-19,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,0,01,1,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",-24,18,1,1.40,"Anderson, James",1.70,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,4,3,54,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",28,1,2,6.80,"Bjelica, Nemanja",0.80,4.20
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,8,59,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",19,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,3,7,41,0,"Layup Shot","2PT Field Goal",4,"Dallas Mavericks",30,32,2,2.70,"Williams, Deron",1.00,16.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,4,8,42,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",10,26,1,3.50,"Okafor, Jahlil",3.00,10.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,2,7,22,1,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",14,16,1,3.10,"Johnson, Stanley",2.90,4.60
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,1,9,31,0,"Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-37,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,3,8,10,0,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,7,0,0.90,"McLemore, Ben",0.30,20.90
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,2,7,58,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",1,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,3,8,00,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",12,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,8,42,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",12,21,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,3,12,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",9,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,1,9,54,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,7,31,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-22,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-06,2015,110,1610612747,400828188,3,6,00,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,-1,0,1.20,"Ilyasova, Ersan",1.90,19.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,5,14,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",10,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,8,40,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",19,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,3,5,07,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,1,3,34,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",14,7,2,4.90,"Miles, CJ",4.30,4.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,1,9,13,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-22,0,6,5.10,"Durant, Kevin",3.10,14.80
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,3,4,11,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",0,21,2,2.80,"Biyombo, Bismack",1.40,6.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-07,2015,110,1610612747,400828426,2,6,05,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",10,2,2,4.30,"Koufos, Kosta",4.30,13.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-17,2015,110,1610612747,400828501,3,10,51,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",-7,16,4,6.70,"Capela, Clint",2.20,5.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,8,53,1,"Layup Shot","2PT Field Goal",1,"Houston Rockets",9,7,0,0.80,"Terry, Jason",3.60,23.20
+"Kobe Bryant","Los Angeles Lakers",2015-11-01,2015,110,1610612747,400827932,3,10,11,1,"Layup Shot","2PT Field Goal",3,"Dallas Mavericks",35,1,2,2.50,"Pachulia, Zaza",3.10,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,1,01,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-16,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,7,36,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-16,2,2,3.10,"Durant, Kevin",1.00,16.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,4,40,0,"Pullup Bank shot","2PT Field Goal",15,"Chicago Bulls",-119,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,1,7,06,0,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",189,165,4,4.40,"Hairston, PJ",3.30,19.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,1,6,35,0,"Pullup Jump shot","3PT Field Goal",24,"New Orleans Pelicans",151,193,4,4.10,"Cunningham, Dante",4.60,20.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,10,19,1,"Pullup Jump shot","3PT Field Goal",24,"Dallas Mavericks",-143,205,1,2.00,"Parsons, Chandler",4.50,18.50
+"Kobe Bryant","Los Angeles Lakers",2016-01-17,2015,110,1610612747,400828501,1,5,18,1,"Pullup Jump shot","2PT Field Goal",18,"Houston Rockets",110,146,3,1.70,"Ariza, Trevor",7.30,17.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,1,3,35,1,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",177,-11,1,3.50,"McCallum, Ray",2.20,13.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,9,14,0,"Pullup Jump shot","2PT Field Goal",21,"Portland Trail Blazers",-119,183,2,4.00,"Aminu, Al-Farouq",9.10,11.20
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,7,21,1,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",159,124,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,4,9,45,1,"Pullup Jump shot","2PT Field Goal",21,"San Antonio Spurs",-2,214,2,3.30,"West, David",6.50,17.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,1,3,35,1,"Pullup Jump shot","2PT Field Goal",13,"New Orleans Pelicans",56,126,14,12.00,"Holiday, Jrue",3.90,12.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-15,2015,110,1610612747,400828257,1,4,16,1,"Pullup Jump shot","2PT Field Goal",15,"Milwaukee Bucks",102,120,1,2.10,"Henson, John",7.30,13.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,2,0,54,0,"Pullup Jump shot","3PT Field Goal",27,"Golden State Warriors",-135,234,1,1.60,"Curry, Stephen",15.90,0.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,2,1,16,1,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",-81,242,14,12.30,"Batum, Nicolas",3.90,12.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-02,2015,110,1610612747,400828793,1,4,40,1,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",-137,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,3,7,23,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-127,146,1,1.50,"Aminu, Al-Farouq",3.10,8.90
+"Kobe Bryant","Los Angeles Lakers",2015-10-30,2015,110,1610612747,400827918,2,2,45,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",97,160,3,3.60,"Cousins, DeMarcus",2.80,16.50
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,1,11,30,1,"Pullup Jump shot","2PT Field Goal",15,"Cleveland Cavaliers",141,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,11,39,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",-97,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,6,12,1,"Pullup Jump shot","2PT Field Goal",10,"San Antonio Spurs",101,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,4,3,12,0,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",-183,7,5,8.30,"Biyombo, Bismack",3.20,10.90
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,3,35,0,"Pullup Jump shot","3PT Field Goal",23,"Oklahoma City Thunder",-155,180,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,2,8,21,0,"Pullup Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",-124,156,2,2.00,"Bjelica, Nemanja",2.40,8.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,5,02,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",-133,200,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,1,11,06,1,"Pullup Jump shot","2PT Field Goal",14,"San Antonio Spurs",0,146,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,2,9,25,0,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-112,151,2,2.90,"Crabbe, Allen",3.20,11.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,3,6,29,0,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",76,149,3,2.70,"Wiggins, Andrew",2.40,15.90
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,1,10,1,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",120,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,10,59,1,"Pullup Jump shot","2PT Field Goal",9,"San Antonio Spurs",-52,80,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,1,5,31,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",-150,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,4,14,1,"Pullup Jump shot","2PT Field Goal",4,"San Antonio Spurs",-27,41,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,1,10,05,1,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",-12,180,1,2.10,"Wiggins, Andrew",3.50,9.20
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,1,7,29,1,"Pullup Jump shot","2PT Field Goal",14,"San Antonio Spurs",4,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,2,1,44,0,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-63,188,6,7.40,"Aminu, Al-Farouq",3.70,8.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,3,10,22,0,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",-20,247,7,10.30,"Bogut, Andrew",4.70,7.50
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,4,09,0,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",179,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,3,8,17,1,"Pullup Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",-187,23,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,2,10,14,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",112,237,7,5.20,"Iguodala, Andre",5.00,19.50
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,3,4,55,0,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Clippers",81,169,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,4,3,18,0,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",222,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,10,28,1,"Pullup Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",91,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,3,8,46,1,"Pullup Jump shot","2PT Field Goal",11,"Washington Wizards",20,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,0,03,1,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",20,277,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,0,45,1,"Pullup Jump shot","2PT Field Goal",13,"Washington Wizards",-101,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,2,22,0,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-181,178,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,3,05,1,"Pullup Jump shot","2PT Field Goal",22,"Houston Rockets",-199,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,4,2,30,1,"Pullup Jump shot","3PT Field Goal",27,"Indiana Pacers",-19,272,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,3,7,45,0,"Pullup Jump shot","2PT Field Goal",17,"Brooklyn Nets",141,100,5,3.30,"Johnson, Joe",3.80,12.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,9,39,1,"Pullup Jump shot","2PT Field Goal",9,"Houston Rockets",71,67,1,2.10,"Ariza, Trevor",2.10,14.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,2,4,05,1,"Pullup Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",48,0,4,7.40,"Durant, Kevin",3.50,6.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,1,6,56,0,"Pullup Jump shot","2PT Field Goal",19,"Phoenix Suns",53,185,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,4,2,52,1,"Pullup Jump shot","3PT Field Goal",28,"Phoenix Suns",-79,269,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,1,8,55,1,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",181,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,1,6,18,0,"Pullup Jump shot","2PT Field Goal",16,"New York Knicks",-129,97,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,4,46,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-66,149,10,10.40,"Sefolosha, Thabo",2.40,9.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,3,4,09,1,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",215,126,11,9.00,"Sefolosha, Thabo",2.90,18.30
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,3,9,06,0,"Pullup Jump shot","2PT Field Goal",16,"Washington Wizards",104,126,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,7,36,1,"Pullup Jump shot","2PT Field Goal",20,"Philadelphia 76ers",-43,200,11,11.20,"Covington, Robert",4.40,12.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,1,6,28,1,"Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",-106,115,2,2.60,"Wiggins, Andrew",2.90,4.50
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,7,36,1,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",-112,105,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,2,2,21,1,"Pullup Jump shot","2PT Field Goal",10,"New York Knicks",69,80,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,2,8,31,1,"Pullup Jump shot","2PT Field Goal",11,"Chicago Bulls",4,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,3,8,37,0,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",81,141,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,8,41,0,"Pullup Jump shot","2PT Field Goal",12,"Utah Jazz",-40,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,2,3,59,0,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",-171,188,8,9.60,"McLemore, Ben",4.70,12.80
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,1,27,1,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",69,129,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,8,34,1,"Pullup Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",132,2,2,1.30,"Durant, Kevin",5.80,11.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,5,05,0,"Pullup Jump shot","2PT Field Goal",9,"Utah Jazz",50,85,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,3,6,14,0,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",12,174,1,1.40,"Horford, Al",4.70,10.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,1,24,0,"Pullup Jump shot","3PT Field Goal",23,"Houston Rockets",32,237,3,4.80,"Lawson, Ty",4.40,20.80
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,8,58,1,"Pullup Jump shot","3PT Field Goal",24,"Utah Jazz",43,237,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,5,12,1,"Pullup Jump shot","2PT Field Goal",10,"Utah Jazz",-104,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,1,5,04,0,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-120,223,0,1.00,"Harden, James",7.40,18.70
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,5,02,0,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",155,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,0,59,1,"Pullup Jump shot","3PT Field Goal",25,"Utah Jazz",-232,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,4,4,56,1,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",1,183,2,2.20,"Ross, Terrence",3.20,9.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,2,17,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",28,190,2,4.00,"Sefolosha, Thabo",2.90,12.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,2,6,36,1,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",43,175,7,5.80,"Collison, Nick",3.10,10.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,4,6,16,1,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",-138,124,1,2.20,"Ross, Terrence",3.60,13.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,2,5,45,1,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",123,149,3,3.50,"Ariza, Trevor",2.40,15.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,2,4,50,1,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",195,151,0,1.10,"Harden, James",2.50,19.70
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,4,45,1,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",-32,154,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,3,00,1,"Pullup Jump shot","3PT Field Goal",23,"Utah Jazz",195,139,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,0,02,0,"Pullup Jump shot","3PT Field Goal",26,"Utah Jazz",-168,205,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,5,03,1,"Pullup Jump shot","2PT Field Goal",12,"Utah Jazz",122,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,0,31,1,"Pullup Jump shot","2PT Field Goal",19,"Utah Jazz",58,188,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,2,2,22,1,"Pullup Jump shot","2PT Field Goal",14,"Milwaukee Bucks",-58,133,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,7,57,0,"Pullup Jump shot","2PT Field Goal",17,"Denver Nuggets",84,149,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,3,42,1,"Pullup Jump shot","2PT Field Goal",10,"Denver Nuggets",82,62,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,5,41,1,"Pullup Jump shot","2PT Field Goal",11,"Utah Jazz",-7,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,2,1,05,0,"Pullup Jump shot","2PT Field Goal",8,"Denver Nuggets",81,-5,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,3,3,50,1,"Pullup Jump shot","2PT Field Goal",16,"Denver Nuggets",-120,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,3,5,57,0,"Pullup Jump shot","3PT Field Goal",25,"Indiana Pacers",119,223,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,11,19,1,"Pullup Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",102,169,3,4.10,"Durant, Kevin",5.40,20.90
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,3,3,43,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",25,252,6,7.00,"Bazemore, Kent",4.00,17.70
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,1,10,42,0,"Pullup Jump shot","2PT Field Goal",23,"Utah Jazz",159,170,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-30,2015,110,1610612747,400829008,1,11,14,1,"Pullup Jump shot","2PT Field Goal",14,"Miami Heat",-9,144,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,1,5,38,0,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",87,232,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,1,10,14,1,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",109,131,1,3.20,"Williams, Deron",2.50,14.50
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,5,54,1,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-148,208,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,0,36,0,"Pullup Jump shot","3PT Field Goal",23,"Oklahoma City Thunder",182,156,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,3,5,29,0,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-158,203,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,7,05,1,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-176,169,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,4,3,46,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-202,160,4,5.00,"Barbosa, Leandro",5.10,15.20
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,10,14,1,"Pullup Jump shot","2PT Field Goal",11,"New Orleans Pelicans",9,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,4,6,46,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",138,121,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,3,8,49,1,"Pullup Jump shot","2PT Field Goal",5,"Houston Rockets",51,8,6,7.90,"Ariza, Trevor",4.00,16.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,2,4,22,0,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",97,156,4,2.80,"Duncan, Tim",3.30,16.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,7,36,0,"Pullup Jump shot","2PT Field Goal",11,"Memphis Grizzlies",-58,100,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,5,27,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",71,136,2,1.80,"Aminu, Al-Farouq",3.00,14.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,4,47,1,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",151,100,2,4.60,"Aminu, Al-Farouq",2.90,7.70
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,2,7,32,1,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",60,100,2,1.80,"Henderson, Gerald",1.60,13.10
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,1,6,31,0,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",107,160,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,4,9,53,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",223,110,13,10.10,"Bazemore, Kent",4.00,2.20
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,2,2,20,1,"Pullup Jump shot","2PT Field Goal",12,"Los Angeles Clippers",-4,129,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,3,6,07,0,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Clippers",38,198,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,7,17,0,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Clippers",158,36,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,10,03,1,"Pullup Jump shot","2PT Field Goal",9,"Portland Trail Blazers",-92,7,1,1.60,"Lillard, Damian",3.50,9.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,3,7,52,0,"Pullup Jump shot","2PT Field Goal",21,"Toronto Raptors",-187,110,2,3.90,"DeRozan, DeMar",6.20,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,1,23,1,"Pullup Jump shot","2PT Field Goal",8,"San Antonio Spurs",58,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,4,4,11,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",5,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,4,1,40,1,"Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,2,0,24,1,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-12,7,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,1,6,08,0,"Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-27,-6,11,13.00,"Durant, Kevin",1.90,3.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,3,05,1,"Reverse Layup Shot","2PT Field Goal",0,"Utah Jazz",6,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-03,2015,110,1610612747,400827946,1,3,36,1,"Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-16,3,0,0.00,"Gallinari, Danilo",8.70,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,6,21,1,"Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-16,11,2,5.60,"Ibaka, Serge",3.80,7.40
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,0,59,1,"Running Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,1,2,44,1,"Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,1,2.10,"Westbrook, Russell",3.30,19.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,3,7,38,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Toronto Raptors",2,11,3,4.00,"Lowry, Kyle",2.70,21.50
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,3,6,45,0,"Running Jump Shot","3PT Field Goal",42,"Golden State Warriors",-220,367,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,6,15,1,"Running Jump Shot","2PT Field Goal",10,"Golden State Warriors",25,100,6,8.00,"Thompson, Klay",3.70,15.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,3,10,0,"Running Jump Shot","2PT Field Goal",3,"Minnesota Timberwolves",10,33,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,1,1,36,1,"Running Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",119,229,1,1.40,"Lee, Courtney",6.00,20.40
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,4,44,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,7,5,5.30,"Waiters, Dion",3.40,19.40
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,10,54,1,"Running Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-23,2015,110,1610612747,400828322,3,6,02,0,"Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",14,7,0,1.20,"Ibaka, Serge",1.70,20.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,3,11,22,0,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Toronto Raptors",151,208,6,4.80,"DeRozan, DeMar",3.60,19.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,2,4,52,1,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-112,223,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,1,10,01,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Washington Wizards",173,183,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,3,4,31,1,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-174,175,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-20,2015,110,1610612747,400828525,1,5,00,1,"Step Back Jump shot","2PT Field Goal",18,"Sacramento Kings",-184,-19,3,3.80,"Cousins, DeMarcus",4.90,7.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,1,11,23,0,"Step Back Jump shot","2PT Field Goal",13,"Boston Celtics",-132,38,3,5.50,"Crowder, Jae",3.40,24.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,11,21,1,"Step Back Jump shot","3PT Field Goal",25,"Philadelphia 76ers",-45,252,2,4.60,"Covington, Robert",5.20,15.70
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,2,2,31,0,"Step Back Jump shot","2PT Field Goal",18,"Los Angeles Clippers",17,180,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,2,1,34,1,"Step Back Jump shot","3PT Field Goal",24,"Milwaukee Bucks",228,100,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,4,0,39,0,"Step Back Jump shot","3PT Field Goal",26,"Dallas Mavericks",-181,188,1,4.50,"Matthews, Wesley",2.50,19.40
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,11,13,0,"Step Back Jump shot","2PT Field Goal",21,"Los Angeles Clippers",-210,-10,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-22,2015,110,1610612747,400828540,3,5,13,1,"Step Back Jump shot","3PT Field Goal",25,"San Antonio Spurs",-250,-19,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-02,2015,110,1610612747,400828621,4,5,22,0,"Step Back Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",-197,61,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,4,7,37,0,"Step Back Jump shot","2PT Field Goal",14,"Boston Celtics",96,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,4,9,53,1,"Step Back Jump shot","2PT Field Goal",14,"Toronto Raptors",-145,31,3,7.40,"Carroll, DeMarre",2.80,4.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,2,2,43,1,"Step Back Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-32,170,2,2.20,"Wiggins, Andrew",4.50,14.30
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,11,13,1,"Step Back Jump shot","2PT Field Goal",19,"Dallas Mavericks",173,80,0,0.90,"Parsons, Chandler",4.90,6.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,1,8,42,0,"Step Back Jump shot","2PT Field Goal",11,"Milwaukee Bucks",97,54,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,3,10,49,1,"Step Back Jump shot","3PT Field Goal",25,"Cleveland Cavaliers",-76,239,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,4,3,29,1,"Step Back Jump shot","3PT Field Goal",24,"Memphis Grizzlies",176,175,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,3,9,44,0,"Step Back Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-156,36,1,4.60,"Aminu, Al-Farouq",3.20,7.30
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,6,16,0,"Step Back Jump shot","2PT Field Goal",12,"Washington Wizards",60,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,2,8,15,0,"Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-174,11,2,2.80,"DeRozan, DeMar",3.00,12.70
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,5,57,1,"Tip Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-27,3,0,1.60,"Morrow, Anthony",8.70,23.80
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,2,5,26,0,"Tip Layup Shot","2PT Field Goal",2,"Chicago Bulls",-16,18,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,7,05,0,"Turnaround Bank shot","2PT Field Goal",10,"Portland Trail Blazers",92,41,3,5.70,"Lillard, Damian",2.20,10.20
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,9,12,0,"Turnaround Bank shot","2PT Field Goal",9,"Charlotte Hornets",-81,47,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,9,58,1,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",14,"Chicago Bulls",119,90,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,4,52,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Los Angeles Clippers",60,110,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,3,6,52,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Oklahoma City Thunder",143,70,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,9,19,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Philadelphia 76ers",-92,111,1,5.30,"Covington, Robert",3.20,8.40
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,4,46,0,"Turnaround Fadeaway shot","2PT Field Goal",18,"Boston Celtics",169,80,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,1,6,14,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Utah Jazz",125,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,3,7,24,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Charlotte Hornets",109,75,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,3,4,53,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Atlanta Hawks",127,115,3,4.10,"Sefolosha, Thabo",3.20,1.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,4,2,10,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Denver Nuggets",71,134,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-28,2015,110,1610612747,400828991,1,4,23,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Utah Jazz",141,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,2,0,36,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Los Angeles Clippers",89,2,10,10.60,"Mbah a Moute, Luc",4.00,13.40
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,2,6,29,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Memphis Grizzlies",69,106,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,3,6,21,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Houston Rockets",-63,110,2,6.90,"Beverley, Patrick",2.60,9.70
+"Kobe Bryant","Los Angeles Lakers",2015-12-28,2015,110,1610612747,400828345,1,10,32,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Charlotte Hornets",140,36,4,6.70,"Hairston, PJ",2.00,12.70
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,1,6,51,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Cleveland Cavaliers",-112,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,2,9,00,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Golden State Warriors",84,70,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,2,2,56,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Boston Celtics",109,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,2,0,00,0,"Turnaround Fadeaway shot","3PT Field Goal",22,"Golden State Warriors",228,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,1,5,15,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Toronto Raptors",-29,159,13,12.50,"DeRozan, DeMar",2.90,11.50
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,4,10,11,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Memphis Grizzlies",140,90,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-25,2015,110,1610612747,400828327,1,11,39,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Los Angeles Clippers",-79,120,6,6.60,"Mbah a Moute, Luc",3.20,6.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,11,42,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Denver Nuggets",-114,106,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,2,0,24,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",119,56,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,10,40,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Memphis Grizzlies",-143,-15,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,1,6,26,0,"Turnaround Fadeaway shot","2PT Field Goal",20,"Boston Celtics",-29,203,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,4,4,27,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Utah Jazz",-83,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,5,21,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Memphis Grizzlies",48,92,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,1,4,20,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Denver Nuggets",-137,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,8,12,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Memphis Grizzlies",-45,111,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,2,08,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Dallas Mavericks",17,75,0,1.40,"Pachulia, Zaza",3.20,11.10
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,4,4,45,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"San Antonio Spurs",-110,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,6,44,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Memphis Grizzlies",120,77,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,2,3,13,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Dallas Mavericks",135,110,2,4.20,"Felton, Raymond",3.20,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,2,4,17,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"San Antonio Spurs",27,56,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,3,18,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"San Antonio Spurs",127,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-12,2015,110,1610612747,400828463,2,4,41,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"New Orleans Pelicans",135,8,4,8.20,"Cole, Norris",2.20,10.40
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,2,5,18,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Minnesota Timberwolves",-24,121,5,6.60,"Prince, Tayshaun",0.80,5.90
+"Kobe Bryant","Los Angeles Lakers",2015-10-28,2015,110,1610612747,400827904,1,5,39,1,"Turnaround Fadeaway shot","2PT Field Goal",7,"Minnesota Timberwolves",-72,29,0,2.20,"Towns, Karl-Anthony",1.10,16.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-27,2015,110,1610612747,400828342,3,3,47,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",-137,-10,5,6.60,"Allen, Tony",2.70,10.30
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,3,4,04,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Memphis Grizzlies",-38,75,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-27,2015,110,1610612747,400828983,2,4,48,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Washington Wizards",122,-11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,5,36,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Houston Rockets",99,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-24,2015,110,1610612747,400828101,1,5,03,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Golden State Warriors",-73,120,2,3.50,"Thompson, Klay",4.20,6.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,7,37,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Los Angeles Clippers",-1,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,3,7,48,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Los Angeles Clippers",82,-1,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,1,8,42,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Portland Trail Blazers",145,97,9,8.00,"Aminu, Al-Farouq",4.00,7.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-08,2015,110,1610612747,400828436,3,3,18,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Oklahoma City Thunder",135,-1,5,7.00,"Westbrook, Russell",4.00,6.60
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,2,8,56,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Detroit Pistons",-30,56,1,5.90,"Jackson, Reggie",2.70,6.30
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,4,8,37,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"San Antonio Spurs",-114,115,8,12.10,"Simmons, Jonathon",2.00,4.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,1,10,00,0,"Turnaround Fadeaway shot","2PT Field Goal",17,"Boston Celtics",138,111,2,5.00,"Crowder, Jae",3.30,2.50
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,2,1,32,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Memphis Grizzlies",-156,8,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-21,2015,110,1610612747,400828718,3,11,39,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Chicago Bulls",92,0,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-22,2015,110,1610612747,400828942,1,5,29,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Memphis Grizzlies",117,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,1,3,41,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Phoenix Suns",82,85,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-16,2015,110,1610612747,400828495,2,8,02,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Utah Jazz",-112,11,1,1.90,"Ingles, Joe",2.70,11.80
+"Kobe Bryant","Los Angeles Lakers",2016-02-24,2015,110,1610612747,400828738,1,6,20,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Memphis Grizzlies",153,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-07,2015,110,1610612747,400828195,3,8,29,1,"Turnaround Fadeaway shot","2PT Field Goal",10,"Toronto Raptors",6,105,3,7.50,"DeRozan, DeMar",2.90,11.50
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,0,36,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Charlotte Hornets",97,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-28,2015,110,1610612747,400828584,1,6,53,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Chicago Bulls",97,56,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-11,2015,110,1610612747,400829096,1,1,34,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Oklahoma City Thunder",-151,13,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-15,2015,110,1610612747,400828038,1,9,25,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Detroit Pistons",146,-1,2,6.30,"Morris, Marcus",2.90,23.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,3,1,10,1,"Turnaround Hook Shot","2PT Field Goal",9,"Houston Rockets",9,92,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-01,2015,110,1610612747,400828150,1,4,27,1,"Turnaround Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",12,61,0,2.50,"Canaan, Isaiah",4.40,24.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-03,2015,110,1610612747,400829040,3,10,06,1,"Turnaround Hook Shot","2PT Field Goal",3,"Boston Celtics",6,31,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,3,8,25,0,"Turnaround Hook Shot","2PT Field Goal",9,"Portland Trail Blazers",-43,90,4,6.20,"Vonleh, Noah",3.60,2.80
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,3,8,36,1,"Turnaround Hook Shot","2PT Field Goal",8,"San Antonio Spurs",-76,31,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-10,2015,110,1610612747,400828682,2,10,16,0,"Turnaround Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",137,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-08,2015,110,1610612747,400828663,1,7,38,0,"Turnaround Jump Shot","2PT Field Goal",15,"Indiana Pacers",159,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-22,2015,110,1610612747,400828088,1,10,10,1,"Turnaround Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",68,16,3,4.40,"Aminu, Al-Farouq",4.20,14.50
+"Kobe Bryant","Los Angeles Lakers",2016-04-05,2015,110,1610612747,400829051,1,9,07,0,"Turnaround Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",176,41,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,1,7,40,0,"Turnaround Jump Shot","2PT Field Goal",4,"Utah Jazz",6,46,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-04,2015,110,1610612747,400828634,1,8,03,1,"Turnaround Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",53,115,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-20,2015,110,1610612747,400828075,4,4,42,1,"Turnaround Jump Shot","2PT Field Goal",7,"Toronto Raptors",28,67,2,6.30,"Johnson, James",4.50,5.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,3,16,0,"Turnaround Jump Shot","2PT Field Goal",17,"Denver Nuggets",-178,11,1,4.00,"Harris, Gary",3.30,10.40
+"Kobe Bryant","Los Angeles Lakers",2015-12-04,2015,110,1610612747,400828173,1,5,02,0,"Turnaround Jump Shot","2PT Field Goal",16,"Atlanta Hawks",164,16,5,6.70,"Teague, Jeff",0.10,13.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-12,2015,110,1610612747,400828236,1,3,51,0,"Turnaround Jump Shot","2PT Field Goal",11,"Houston Rockets",-48,100,0,1.80,"Ariza, Trevor",5.50,19.50
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,2,18,0,"Turnaround Jump Shot","2PT Field Goal",17,"Denver Nuggets",166,65,15,15.20,"Harris, Gary",2.40,9.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,2,20,0,"Turnaround Jump Shot","2PT Field Goal",7,"Boston Celtics",61,41,6,8.70,"Smart, Marcus",2.20,15.10
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,2,42,0,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",145,47,1,3.70,"Barton, Will",4.00,14.60
+"Kobe Bryant","Los Angeles Lakers",2015-12-02,2015,110,1610612747,400828156,2,7,40,1,"Turnaround Jump Shot","2PT Field Goal",17,"Washington Wizards",179,-1,4,4.60,"Temple, Garrett",3.30,5.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-17,2015,110,1610612747,400828272,2,2,11,0,"Turnaround Jump Shot","2PT Field Goal",11,"Houston Rockets",56,100,6,7.20,"Ariza, Trevor",3.30,7.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,2,05,1,"Turnaround Jump Shot","2PT Field Goal",12,"Denver Nuggets",-20,120,5,5.70,"Nelson, Jameer",3.30,6.10
+"Kobe Bryant","Los Angeles Lakers",2016-04-06,2015,110,1610612747,400829059,1,3,28,0,"Turnaround Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-81,136,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-28,2015,110,1610612747,400828131,4,1,20,0,"Turnaround Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-94,46,2,2.80,"Lillard, Damian",1.50,12.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-11,2015,110,1610612747,400828229,1,5,52,1,"Turnaround Jump Shot","2PT Field Goal",16,"San Antonio Spurs",104,134,2,2.80,"McCallum, Ray",0.30,9.20
+"Kobe Bryant","Los Angeles Lakers",2015-12-30,2015,110,1610612747,400828363,2,6,20,0,"Turnaround Jump Shot","2PT Field Goal",4,"Boston Celtics",46,2,2,5.90,"Lee, David",1.90,6.80
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,3,2,43,1,"Turnaround Jump Shot","2PT Field Goal",14,"Denver Nuggets",-148,-16,3,4.10,"Barton, Will",3.10,3.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,2,2,02,1,"Turnaround Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",133,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-22,2015,110,1610612747,400828724,1,9,35,1,"Turnaround Jump Shot","2PT Field Goal",11,"Milwaukee Bucks",114,25,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-31,2015,110,1610612747,400828607,1,2,24,1,"Turnaround Jump Shot","2PT Field Goal",9,"Charlotte Hornets",9,95,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,3,11,42,0,"Turnaround Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-63,38,0,1.10,"Wiggins, Andrew",2.70,8.40
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,2,1,17,1,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-65,105,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-01-23,2015,110,1610612747,400828549,1,4,03,1,"Turnaround Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-92,146,1,4.00,"Lillard, Damian",1.60,3.20
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,1,6,51,1,"Turnaround Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",42,2,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-09,2015,110,1610612747,400828212,3,4,04,0,"Turnaround Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",50,56,1,6.00,"Wiggins, Andrew",4.10,13.90
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,4,3,17,1,"Turnaround Jump Shot","2PT Field Goal",9,"New York Knicks",64,65,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-25,2015,110,1610612747,400828968,2,5,24,0,"Turnaround Jump Shot","2PT Field Goal",7,"Denver Nuggets",42,62,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-10,2015,110,1610612747,400828849,3,10,24,1,"Turnaround Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-143,41,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,4,0,32,1,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-32,154,4,15.30,"Harris, Gary",2.10,6.80
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,3,5,19,0,"Turnaround Jump Shot","2PT Field Goal",15,"New York Knicks",-143,57,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,3,9,58,0,"Turnaround Jump Shot","2PT Field Goal",13,"Phoenix Suns",132,11,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-12-22,2015,110,1610612747,400828309,1,5,09,0,"Turnaround Jump Shot","2PT Field Goal",6,"Denver Nuggets",46,41,7,8.20,"Barton, Will",2.10,14.10
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,2,6,22,1,"Turnaround Jump Shot","2PT Field Goal",7,"Golden State Warriors",10,77,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-13,2015,110,1610612747,400829115,3,10,09,1,"Turnaround Jump Shot","2PT Field Goal",8,"Utah Jazz",-45,75,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-02-19,2015,110,1610612747,400828705,1,4,52,0,"Turnaround Jump Shot","2PT Field Goal",7,"San Antonio Spurs",48,56,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-23,2015,110,1610612747,400828952,1,4,15,0,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",159,3,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2016-04-10,2015,110,1610612747,400829082,1,7,59,0,"Turnaround Jump Shot","2PT Field Goal",13,"Houston Rockets",132,-6,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-29,2015,110,1610612747,400828140,4,0,12,1,"Turnaround Jump Shot","3PT Field Goal",24,"Indiana Pacers",-81,232,0,0.80,"George, Paul",3.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-06,2015,110,1610612747,400827964,2,11,03,0,"Turnaround Jump Shot","2PT Field Goal",15,"Brooklyn Nets",150,2,1,4.00,"Ellington, Wayne",3.10,16.10
+"Kobe Bryant","Los Angeles Lakers",2016-01-14,2015,110,1610612747,400828479,1,9,39,1,"Turnaround Jump Shot","2PT Field Goal",21,"Golden State Warriors",155,149,0,1.60,"Rush, Brandon",3.40,13.70
+"Kobe Bryant","Los Angeles Lakers",2016-03-13,2015,110,1610612747,400828874,4,1,32,1,"Turnaround Jump Shot","2PT Field Goal",13,"New York Knicks",132,26,0,0.00,,0.00,0.00
+"Kobe Bryant","Los Angeles Lakers",2015-11-13,2015,110,1610612747,400828022,3,6,37,0,"Turnaround Jump Shot","2PT Field Goal",5,"Dallas Mavericks",-1,51,4,6.50,"Matthews, Wesley",2.80,9.00
+"Kobe Bryant","Los Angeles Lakers",2016-03-06,2015,110,1610612747,400828818,1,8,23,0,"Turnaround Jump Shot","2PT Field Goal",12,"Golden State Warriors",63,106,0,0.00,,0.00,0.00

@@ -1,0 +1,1042 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,7,09,1,"Cutting Layup Shot","2PT Field Goal",2,"Phoenix Suns",2,26,1,1.90,"Chandler, Tyson",5.10,15.50
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,3,9,08,1,"Driving Bank shot","2PT Field Goal",3,"Oklahoma City Thunder",22,26,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,2,4,11,0,"Driving Bank shot","2PT Field Goal",6,"Sacramento Kings",64,20,7,8.00,"Cousins, DeMarcus",2.90,15.90
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,2,3,22,1,"Driving Bank shot","2PT Field Goal",5,"Golden State Warriors",43,31,0,0.00,"Thompson, Jason",2.20,14.60
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,1,3,41,1,"Driving Bank shot","2PT Field Goal",6,"Minnesota Timberwolves",56,33,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,7,02,0,"Driving Bank shot","2PT Field Goal",2,"Dallas Mavericks",15,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,2,37,1,"Driving Bank shot","2PT Field Goal",3,"Chicago Bulls",19,33,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,1,10,45,1,"Driving Bank shot","2PT Field Goal",3,"Houston Rockets",30,11,10,9.80,"Harden, James",4.20,14.60
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,4,2,21,1,"Driving Bank shot","2PT Field Goal",1,"Toronto Raptors",9,16,0,0.00,"DeRozan, DeMar",2.30,17.90
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,2,0,26,0,"Driving Bank shot","2PT Field Goal",6,"Dallas Mavericks",56,41,6,3.00,"Evans, Jeremy",6.70,20.90
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,3,47,1,"Driving Bank shot","2PT Field Goal",3,"Washington Wizards",33,-6,0,0.90,"Porter, Otto",3.90,9.70
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,3,14,1,"Driving Dunk Shot","2PT Field Goal",0,"Washington Wizards",4,0,13,13.30,"Oubre, Kelly",3.50,11.20
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,1,58,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,7,12,11.00,"Lillard, Damian",3.30,12.10
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,2,3,24,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,5,1,14,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,-11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,2,1,00,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Houston Rockets",-4,21,3,6.10,"Beverley, Patrick",5.10,4.80
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,2,0,50,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",55,18,12,9.30,"Hibbert, Roy",3.00,14.50
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,11,11,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Boston Celtics",24,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,5,29,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Washington Wizards",22,75,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,4,1,20,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-27,70,21,13.00,"Bargnani, Andrea",5.30,10.30
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,3,2,08,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Atlanta Hawks",48,61,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,3,57,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",32,70,12,8.90,"Frazier, Tim",2.40,15.80
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,3,5,20,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Utah Jazz",24,62,4,6.00,"Neto, Raul",3.90,13.80
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,1,11,42,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Atlanta Hawks",91,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,7,25,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Toronto Raptors",42,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,11,34,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-34,41,4,5.60,"Lillard, Damian",0.00,9.70
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,2,3,30,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",25,43,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,1,11,11,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Dallas Mavericks",1,38,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,0,00,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Dallas Mavericks",-19,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,11,12,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Dallas Mavericks",12,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,4,6,18,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Denver Nuggets",-42,47,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,3,49,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Boston Celtics",-73,14,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,2,0,16,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Brooklyn Nets",78,43,4,2.20,"Young, Thaddeus",4.00,4.50
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,7,42,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Sacramento Kings",-56,61,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,3,4,38,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-4,65,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,1,4,26,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Milwaukee Bucks",-89,28,2,2.00,"Carter-Williams, Michael",2.50,14.80
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,6,57,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",-2,38,12,10.10,"Crabbe, Allen",0.20,13.80
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,3,2,09,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Toronto Raptors",55,23,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,1,11,22,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Atlanta Hawks",45,36,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,2,5,26,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Sacramento Kings",10,46,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,10,18,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Washington Wizards",-47,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,4,6,22,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Utah Jazz",30,67,0,0.00,"Neto, Raul",2.30,10.40
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,7,58,1,"Driving Hook Shot","2PT Field Goal",9,"Los Angeles Lakers",-14,92,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,1,46,0,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",4,3,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,3,9,26,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",9,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,3,5,01,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",12,18,15,12.30,"Jones, Terrence",4.10,10.50
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,2,7,44,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",-31,0,1,5.00,"Collison, Darren",2.90,16.60
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,4,5,26,1,"Driving Layup Shot","2PT Field Goal",5,"Sacramento Kings",45,24,10,10.70,"Belinelli, Marco",3.90,9.10
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,2,0,45,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",17,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,1,10,43,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-1,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,4,0,10,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",0,11,1,2.30,"Westbrook, Russell",2.90,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,2,0,01,1,"Driving Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",6,7,23,21.10,"Davis, Anthony",1.50,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,1,4,44,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",4,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,3,8,37,0,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",6,16,3,2.80,"Biyombo, Bismack",2.30,21.20
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,0,05,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-17,7,11,9.40,"Barnes, Harrison",2.30,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,3,9,22,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",22,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,8,15,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-22,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,3,8,49,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",6,23,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,3,3,43,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",24,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,4,1,14,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",9,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,2,0,07,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",6,7,4,14.60,"Arthur, Darrell",2.40,2.70
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,3,51,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",20,13,1,2.30,"Green, Draymond",4.90,2.40
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,3,38,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-20,7,6,7.30,"Kaminsky, Frank",2.00,24.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,4,6,16,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,3,1,34,1,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",9,36,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,2,0,35,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,4,43,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",2,0,4,3.60,"Antetokounmpo, Giannis",2.20,19.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,4,7,15,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,3,44,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",17,-5,2,4.80,"Gortat, Marcin",1.50,10.50
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,4,2,18,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",10,18,13,12.00,"Arthur, Darrell",3.80,23.50
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,3,30,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-24,-1,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,3,4,58,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",15,4,11,10.30,"Johnson, Tyler",2.20,15.70
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,1,05,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",20,-1,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,1,28,1,"Driving Layup Shot","2PT Field Goal",3,"San Antonio Spurs",-14,36,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,4,0,13,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",14,2,7,7.10,"Green, Draymond",3.20,4.40
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,2,1,57,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",14,21,7,6.50,"Hood, Rodney",2.70,17.60
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,1,44,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",10,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,4,20,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",15,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,2,4,09,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",19,-1,12,10.10,"Walker, Kemba",3.70,14.60
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,2,3,38,0,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",32,3,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,2,3,51,1,"Driving Layup Shot","2PT Field Goal",3,"Atlanta Hawks",19,31,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,4,4,49,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-16,18,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,2,2,24,0,"Driving Layup Shot","2PT Field Goal",3,"Cleveland Cavaliers",22,23,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,4,5,52,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",17,-6,9,9.00,"Neto, Raul",1.60,12.10
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,2,37,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",0,-5,4,3.90,"Russell, D'Angelo",3.90,19.90
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,1,8,13,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",17,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,2,2,53,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-14,11,11,10.10,"Thompson, Klay",3.00,13.60
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,4,3,48,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",19,2,11,11.30,"Neto, Raul",3.80,13.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,2,1,25,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,2,6,5.60,"Morris, Marcus",4.50,24.00
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,3,2,03,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",9,13,4,3.30,"Marshall, Kendall",2.40,9.50
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,6,14,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",17,8,3,3.70,"Plumlee, Miles",6.10,16.80
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,4,2,13,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,1,1,40,0,"Driving Layup Shot","2PT Field Goal",2,"New York Knicks",20,3,12,10.30,"Grant, Jerian",4.10,12.50
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,1,4,49,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",24,2,3,2.90,"Plumlee, Miles",1.80,17.80
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,5,36,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,4,6,35,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",19,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,3,54,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",24,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,5,45,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",17,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,1,15,0,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",12,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,9,37,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",19,0,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,2,44,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,2,11,9.90,"Frazier, Tim",1.60,12.30
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,7,52,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",-4,8,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,1,6,28,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",12,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,2,1,02,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",12,23,7,9.70,"Towns, Karl-Anthony",4.90,13.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,0,36,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,2,5,14.30,"Harden, James",2.90,8.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,3,6,34,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-2,28,2,3.60,"Martin, Kevin",2.50,14.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,4,3,52,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",20,18,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,2,54,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,3,10,53,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",14,11,6,4.80,"Jack, Jarrett",2.40,16.50
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,3,4,47,0,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",-34,3,1,2.60,"Bledsoe, Eric",0.20,12.70
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,2,1,26,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,1,11,22,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-22,-6,2,2.70,"Gee, Alonzo",3.50,5.30
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,2,3,10,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Dallas Mavericks",2,23,7,10.30,"Powell, Dwight",5.40,13.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,5,17,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,2,1.60,"Gortat, Marcin",51.40,20.70
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,0,42,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Boston Celtics",186,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,3,1,25,1,"Fadeaway Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-42,200,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,4,15,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-127,80,1,4.20,"Rubio, Ricky",3.30,10.10
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,1,8,21,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Golden State Warriors",-119,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,1,2,59,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Utah Jazz",-117,139,8,11.40,"Hayward, Gordon",3.60,2.70
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,3,57,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Sacramento Kings",-97,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,10,57,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Washington Wizards",19,170,15,11.90,"Oubre, Kelly",6.40,12.10
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,3,3,43,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Chicago Bulls",61,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,11,06,1,"Fadeaway Jump Shot","2PT Field Goal",8,"San Antonio Spurs",-29,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,2,0,02,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",123,-11,20,15.90,"Price, Ronnie",3.70,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,1,7,50,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Golden State Warriors",50,70,8,7.70,"Livingston, Shaun",2.60,15.30
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,4,18,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Sacramento Kings",5,172,13,12.20,"Collison, Darren",5.50,12.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,11,16,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",48,159,10,10.90,"Lillard, Damian",2.80,4.60
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,7,48,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Sacramento Kings",-229,120,7,7.60,"Koufos, Kosta",5.80,1.10
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,2,2,54,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Dallas Mavericks",23,192,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,4,0,33,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Sacramento Kings",10,142,21,22.30,"Cousins, DeMarcus",3.90,1.70
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,1,4,22,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-115,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,3,8,22,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Indiana Pacers",50,92,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,4,3,32,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Miami Heat",92,61,8,9.50,"Johnson, Tyler",2.20,10.60
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,2,3,25,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-129,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,2,0,28,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",145,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,2,1,50,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Golden State Warriors",-4,105,15,13.60,"Thompson, Klay",2.60,10.40
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,2,0,01,1,"Fadeaway Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-161,-6,9,10.40,"Anderson, Ryan",4.90,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,7,31,1,"Fadeaway Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-99,26,9,8.20,"Leonard, Kawhi",3.60,13.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,2,1,09,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Golden State Warriors",-137,121,5,4.50,"Thompson, Klay",4.20,19.10
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,5,31,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Charlotte Hornets",40,82,2,2.40,"Hairston, PJ",5.20,12.10
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,2,5,55,1,"Fadeaway Jump Shot","2PT Field Goal",16,"New York Knicks",35,165,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,4,44,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",150,110,2,2.80,"Vonleh, Noah",4.10,15.10
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,3,3,51,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-61,165,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,1,4,09,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Dallas Mavericks",140,95,7,7.40,"Williams, Deron",4.00,16.20
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,3,3,39,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",64,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,4,3,09,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",177,2,7,8.00,"Wiggins, Andrew",4.90,10.80
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,4,3,07,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Dallas Mavericks",209,154,6,5.60,"Nowitzki, Dirk",4.40,1.40
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,4,45,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Washington Wizards",96,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,1,7,14,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Los Angeles Lakers",45,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,10,25,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Sacramento Kings",105,64,11,8.50,"Rondo, Rajon",7.40,14.70
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,3,3,31,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",123,-1,6,7.90,"Tucker, PJ",2.60,1.50
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,6,21,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Golden State Warriors",-12,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,4,5,17,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Lakers",56,38,12,11.60,"Bass, Brandon",3.80,13.50
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,2,1,24,0,"Floating Jump shot","2PT Field Goal",4,"Denver Nuggets",-32,34,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,4,8,02,0,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",27,62,8,6.50,"Casspi, Omri",3.60,3.80
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,9,59,0,"Floating Jump shot","2PT Field Goal",7,"Charlotte Hornets",-19,72,4,3.60,"Zeller, Cody",1.80,7.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,0,04,0,"Floating Jump shot","2PT Field Goal",6,"Atlanta Hawks",-29,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,10,21,0,"Floating Jump shot","2PT Field Goal",4,"Atlanta Hawks",48,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,4,9,11,0,"Floating Jump shot","2PT Field Goal",4,"Dallas Mavericks",17,38,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,1,3,51,0,"Floating Jump shot","2PT Field Goal",6,"Minnesota Timberwolves",45,43,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,6,36,0,"Floating Jump shot","2PT Field Goal",5,"Chicago Bulls",14,51,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,1,10,52,0,"Floating Jump shot","2PT Field Goal",11,"Philadelphia 76ers",-9,110,8,7.70,"Smith, Ish",3.20,16.20
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,1,1,03,1,"Floating Jump shot","2PT Field Goal",10,"Milwaukee Bucks",2,100,12,13.20,"Ennis, Tyler",1.70,2.80
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,1,9,46,1,"Floating Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",55,31,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,1,5,18,1,"Floating Jump shot","2PT Field Goal",9,"Houston Rockets",-40,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,10,36,1,"Floating Jump shot","2PT Field Goal",3,"Indiana Pacers",-11,28,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,7,48,1,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Lakers",-16,46,1,5.80,"Hibbert, Roy",4.00,6.20
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,7,27,0,"Floating Jump shot","2PT Field Goal",5,"Golden State Warriors",-9,51,2,2.90,"Ezeli, Festus",4.10,13.30
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,1,4,41,1,"Floating Jump shot","2PT Field Goal",5,"Minnesota Timberwolves",33,41,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,6,00,1,"Floating Jump shot","2PT Field Goal",8,"Minnesota Timberwolves",10,85,13,11.50,"Rubio, Ricky",4.80,14.00
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,2,3,15,0,"Floating Jump shot","2PT Field Goal",9,"Dallas Mavericks",45,80,1,2.20,"Harris, Devin",5.90,2.80
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,1,1,29,1,"Floating Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",12,41,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,3,4,58,1,"Floating Jump shot","2PT Field Goal",8,"New Orleans Pelicans",40,75,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,3,3,21,1,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Lakers",10,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,4,16,1,"Jump Bank Shot","2PT Field Goal",4,"Chicago Bulls",33,36,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,4,5,24,0,"Jump Bank Shot","2PT Field Goal",6,"Detroit Pistons",51,33,18,16.60,"Drummond, Andre",2.60,8.40
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,2,4,08,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-17,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,4,6,28,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",173,72,21,19.30,"Neto, Raul",3.10,4.80
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,1,10,27,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",202,72,1,9.00,"Neto, Raul",2.60,2.70
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,3,1,50,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",156,100,4,3.50,"Burke, Trey",2.20,4.30
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,1,9,47,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-147,224,4,3.80,"Nowitzki, Dirk",4.80,19.70
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,1,41,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-169,203,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,3,8,08,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",64,180,7,8.80,"Vonleh, Noah",4.80,14.40
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,1,6,25,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-81,90,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,2,0,00,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-109,67,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,2,2,59,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",164,214,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,1,2,55,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-38,70,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,8,42,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-225,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,2,3,32,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-219,111,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,2,6,47,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",63,141,2,3.10,"McCollum, CJ",4.10,9.90
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,2,5,46,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",0,38,11,9.40,"Henderson, Gerald",3.40,14.10
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,4,5,53,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-20,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,5,3,04,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",9,33,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,1,4,00,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",181,-11,11,10.70,"Davis, Ed",3.70,12.80
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,3,9,47,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",10,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,9,50,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",232,11,15,15.00,"Adams, Steven",5.40,8.90
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,6,45,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-169,188,0,1.80,"Roberson, Andre",4.30,1.50
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,1,20,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-147,203,2,2.40,"Ibaka, Serge",5.00,9.80
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,0,28,1,"Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",25,85,5,4.80,"Waiters, Dion",3.70,17.50
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,10,02,0,"Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",38,80,4,4.40,"Westbrook, Russell",3.20,19.70
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,2,3,40,0,"Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",89,75,11,7.80,"Harkless, Maurice",5.60,15.30
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,4,5,22,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-70,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,4,0,00,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",109,149,6,4.70,"Durant, Kevin",4.70,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,4,1,53,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",141,228,8,10.70,"Barnes, Matt",4.20,3.10
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,5,27,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-11,249,0,1.00,"Ibaka, Serge",5.50,4.60
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,4,2,49,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",42,156,16,15.30,"Ibaka, Serge",5.20,9.20
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,2,2,47,0,"Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",-56,77,3,2.80,"Ibaka, Serge",3.60,11.80
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,4,6,40,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",168,174,1,1.20,"Barnes, Matt",2.30,0.60
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,2,44,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-168,198,23,21.40,"Ibaka, Serge",5.70,3.70
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,9,24,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-6,249,4,4.60,"Durant, Kevin",7.00,18.70
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,11,32,0,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",109,7,0,0.90,"Westbrook, Russell",3.30,16.20
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,4,5,00,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",156,129,2,2.20,"Conley, Mike",4.70,11.40
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,2,5,21,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-134,122,10,7.20,"Cauley-Stein, Willie",5.30,16.60
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,3,5,27,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",120,239,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,11,08,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-76,164,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,2,0,32,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-132,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,9,01,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",17,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,4,8,09,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",16,67,4,3.10,"Collison, Darren",2.20,10.20
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,1,9,03,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-48,244,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,2,38,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-99,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,2,4,49,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",38,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,3,5,53,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",233,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,3,5,23,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-147,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,3,0,02,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",6,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,4,2,52,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-147,203,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,1,3,21,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-232,-11,0,0.90,"Koufos, Kosta",6.90,10.90
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,1,8,38,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-101,146,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,1,6,06,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-225,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,1,4,44,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-150,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,1,5,09,0,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",-48,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,3,10,40,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",107,110,2,2.20,"Holiday, Jrue",7.30,11.80
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,1,6,33,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",97,239,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,8,24,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",128,62,12,8.50,"Rubio, Ricky",3.20,14.60
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,2,0,00,1,"Jump Shot","3PT Field Goal",34,"Minnesota Timberwolves",146,308,1,1.40,"LaVine, Zach",5.20,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,1,9,02,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",133,124,3,2.90,"Wiggins, Andrew",7.10,21.10
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,4,00,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-138,101,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,5,20,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-153,198,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,1,2,37,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-228,13,0,1.60,"Gordon, Eric",10.40,17.70
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,3,10,02,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-191,178,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,11,35,0,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",-147,164,3,3.60,"Rubio, Ricky",6.20,14.70
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,4,3,47,1,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",74,38,8,6.60,"Towns, Karl-Anthony",3.10,18.30
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,3,22,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-120,106,5,6.10,"LaVine, Zach",3.20,6.40
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,4,4,05,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-114,154,3,3.90,"Rubio, Ricky",4.30,19.60
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,4,3,06,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-27,159,9,8.60,"Rubio, Ricky",3.70,0.80
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,2,0,00,0,"Jump Shot","3PT Field Goal",45,"San Antonio Spurs",215,400,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,2,5,01,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-2,249,0,1.10,"Wiggins, Andrew",6.00,16.20
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,4,52,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",220,116,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,3,2,09,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-11,249,2,2.40,"Cauley-Stein, Willie",5.00,4.60
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,4,5,47,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-129,126,7,7.80,"Walker, Kemba",3.70,16.20
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,0,46,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-241,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,3,6,15,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",101,228,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,4,2,53,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-60,35,13,12.20,"Collison, Darren",2.80,11.80
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,1,4,46,0,"Jump Shot","2PT Field Goal",9,"Indiana Pacers",-14,95,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,1,7,46,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-63,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,4,0,05,0,"Jump Shot","3PT Field Goal",33,"Sacramento Kings",43,331,7,3.10,"Rondo, Rajon",4.90,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,4,5,54,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-119,218,0,1.20,"Collison, Darren",12.30,13.30
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,1,6,39,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",240,110,0,4.50,"Cauley-Stein, Willie",5.80,14.80
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,6,46,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",146,200,1,1.70,"Gay, Rudy",4.70,20.10
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,4,6,36,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-228,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,10,43,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",-88,115,4,2.70,"Rondo, Rajon",4.50,10.40
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,3,9,15,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-153,193,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,3,10,05,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-37,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,1,4,53,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",133,136,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,2,6,42,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-207,154,5,4.80,"Collison, Darren",7.10,18.80
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,4,4,39,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",111,111,8,8.00,"Rondo, Rajon",2.80,13.70
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,4,09,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-76,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,2,6,30,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",235,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,3,4,04,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",233,21,0,0.90,"Capela, Clint",4.80,0.20
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,3,6,10,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-137,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,4,0,44,1,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",10,272,21,16.60,"Carter-Williams, Michael",4.60,6.30
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,3,5,40,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",105,244,3,4.20,"Antetokounmpo, Giannis",4.10,1.60
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,3,8,47,1,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",-3,132,9,7.90,"Rondo, Rajon",2.80,3.60
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,1,15,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",109,124,1,2.70,"Carter-Williams, Michael",4.20,20.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,2,3,14,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-2,156,7,7.00,"Jokic, Nikola",6.80,15.30
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,1,58,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-129,75,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,3,3,54,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",169,-11,3,4.20,"Carter-Williams, Michael",0.90,5.50
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,3,3,09,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-9,169,7,6.40,"Carter-Williams, Michael",3.20,2.60
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,7,54,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-186,188,0,0.80,"O'Bryant, Johnny",7.90,14.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,0,27,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-7,272,2,2.80,"Carter-Williams, Michael",5.60,20.10
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,3,4,42,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",232,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,2,1,34,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",159,208,8,7.20,"Parker, Tony",4.90,14.70
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,2,43,1,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-183,82,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,1,7,49,1,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-70,188,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,1,4,08,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",74,120,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,10,30,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",101,228,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,0,24,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-109,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,8,48,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",117,219,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,1,6,41,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",6,188,2,2.20,"Harris, Gary",3.40,11.80
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,0,01,1,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-99,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,7,50,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-243,-10,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,1,0,02,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",79,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,1,7,04,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",151,72,7,7.80,"LaVine, Zach",3.90,24.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,1,48,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-97,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,1,7,38,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-129,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,1,3,17,1,"Jump Shot","2PT Field Goal",13,"Boston Celtics",56,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,2,6,38,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-2,262,0,1.40,"Bjelica, Nemanja",5.90,11.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,4,0,51,1,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-148,70,13,9.40,"Tolliver, Anthony",3.10,3.60
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,3,7,53,0,"Jump Shot","2PT Field Goal",20,"San Antonio Spurs",-119,164,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,2,7,59,1,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",15,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,2,27,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-104,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,3,2,50,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",-4,65,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,2,6,11,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",91,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,11,25,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",18,250,0,1.00,"Cousins, DeMarcus",5.50,22.50
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,4,40,0,"Jump Shot","2PT Field Goal",22,"San Antonio Spurs",-107,198,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,8,47,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",45,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,1,7,32,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",55,101,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,2,1,17,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",50,160,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,3,8,39,1,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-29,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,2,2,02,1,"Jump Shot","2PT Field Goal",13,"San Antonio Spurs",81,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,3,10,51,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",91,149,6,6.30,"LaVine, Zach",13.40,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,2,4,36,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-117,239,0,0.00,"Thompson, Klay",17.50,21.30
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,4,1,18,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",236,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,1,7,08,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-20,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,2,24,0,"Jump Shot","3PT Field Goal",29,"Washington Wizards",-194,223,10,7.90,"Wall, John",4.10,14.10
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,1,5,44,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",114,210,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,3,5,35,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",238,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,3,7,43,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-223,-1,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,4,2,24,1,"Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-83,146,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,3,5,07,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-7,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,4,0,00,0,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",132,242,3,2.30,"Rose, Derrick",0.80,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,8,42,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",79,151,2,2.00,"Wall, John",6.00,20.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,1,4,01,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-97,169,7,12.20,"Hinrich, Kirk",4.80,7.60
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,2,3,18,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-27,159,4,6.40,"Rose, Derrick",4.50,6.80
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,7,00,1,"Jump Shot","2PT Field Goal",20,"Minnesota Timberwolves",-171,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,3,6,12,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",-160,75,4,4.90,"Hinrich, Kirk",5.60,19.40
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,4,1,44,1,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-14,273,8,6.70,"Carter-Williams, Michael",5.20,4.50
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,4,2,32,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",20,259,17,16.30,"Antetokounmpo, Giannis",6.30,7.80
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,10,32,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",150,8,8,7.20,"Carter-Williams, Michael",3.20,15.60
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,8,36,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",79,126,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,11,10,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",232,21,0,1.50,"Carter-Williams, Michael",12.60,12.30
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,1,3,45,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-129,77,3,4.10,"Carter-Williams, Michael",3.40,9.70
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,5,11,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",169,7,1,1.60,"Carter-Williams, Michael",4.90,9.20
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,3,3,42,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",-30,28,0,0.80,"Henson, John",4.10,6.30
+"Chris Paul","Los Angeles Clippers",2015-12-16,2015,2779,1610612746,400828269,4,1,00,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",32,262,20,19.50,"Carter-Williams, Michael",5.60,4.50
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,2,6,22,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-163,100,6,6.80,"Randle, Julius",4.40,2.20
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,5,11,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",143,205,4,4.50,"Barnes, Harrison",4.30,6.60
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,3,04,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-45,244,0,1.10,"Frazier, Tim",6.10,9.60
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,1,28,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",63,237,8,6.90,"Lillard, Damian",5.00,15.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,2,5,58,1,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-48,110,6,7.70,"Russell, D'Angelo",6.90,16.70
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,3,42,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",127,225,2,2.70,"Belinelli, Marco",4.80,19.70
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,3,11,04,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",91,239,2,5.30,"Capela, Clint",4.00,1.70
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,1,31,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",94,146,3,6.20,"Aminu, Al-Farouq",8.40,9.70
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,3,5,02,0,"Jump Shot","3PT Field Goal",28,"Golden State Warriors",-109,264,3,7.70,"Thompson, Klay",4.00,1.90
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,3,2,27,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",146,200,2,2.80,"Clarkson, Jordan",6.50,20.10
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,2,3,06,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-132,100,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,3,59,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-110,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,3,7,33,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",245,-5,0,1.50,"Thompson, Klay",23.80,17.80
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,1,32,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",120,160,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,4,2,52,1,"Jump Shot","3PT Field Goal",31,"Chicago Bulls",-9,318,1,1.50,"Rose, Derrick",6.20,1.40
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,4,5,24,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-84,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,1,4,59,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",40,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,2,1,13,0,"Jump Shot","2PT Field Goal",22,"Washington Wizards",137,175,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,1,6,33,0,"Jump Shot","2PT Field Goal",14,"Houston Rockets",-140,19,0,2.50,"Terry, Jason",2.40,4.30
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,3,8,53,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",158,126,7,6.90,"Gasol, Pau",6.00,15.90
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,9,23,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-48,185,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,11,41,1,"Jump Shot","2PT Field Goal",21,"Washington Wizards",117,180,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,11,26,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",55,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,3,8,41,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",135,136,25,22.20,"Curry, Stephen",2.30,2.40
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,1,4,39,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-60,36,11,9.10,"Casspi, Omri",4.50,11.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,1,3,31,0,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",107,7,8,9.30,"Hinrich, Kirk",1.90,13.80
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,1,7,28,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",152,77,5,3.80,"Rondo, Rajon",3.10,20.20
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,3,8,17,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",133,203,1,1.80,"Rose, Derrick",4.00,21.70
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,1,7,31,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",89,149,9,9.00,"Rose, Derrick",2.00,14.30
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,2,6,13,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-117,223,8,8.80,"Terry, Jason",4.80,11.50
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,2,2,08,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-40,198,8,8.00,"Hinrich, Kirk",4.50,15.30
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,1,8,18,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-47,254,5,5.00,"Sampson, JaKarr",6.80,18.20
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,3,5,34,0,"Jump Shot","2PT Field Goal",18,"Houston Rockets",-27,188,1,2.30,"Terry, Jason",3.60,10.60
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,3,9,12,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-127,223,15,12.50,"Beverley, Patrick",3.00,9.80
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,4,32,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-148,213,0,1.30,"Aldridge, LaMarcus",8.80,18.40
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,1,17,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",151,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,0,31,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",61,20,4,3.40,"Koufos, Kosta",3.70,20.60
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,6,07,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",177,170,0,1.10,"Parker, Tony",7.40,12.60
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,1,5,16,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",6,257,0,1.10,"Terry, Jason",4.30,16.10
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,2,0,11,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-238,0,0,0.90,"Leonard, Kawhi",4.30,7.40
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,3,10,14,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",4,175,2,2.00,"Howard, Dwight",3.30,19.70
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,4,54,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-219,139,6,7.10,"Duncan, Tim",4.70,0.20
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,1,6,51,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",91,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,1,11,34,0,"Jump Shot","3PT Field Goal",28,"Brooklyn Nets",-2,287,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,4,6,29,0,"Jump Shot","3PT Field Goal",28,"Houston Rockets",-132,249,2,3.40,"Jones, Terrence",4.40,0.40
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,2,2,11,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",192,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,5,54,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-232,23,0,1.00,"Curry, Stephen",4.20,18.20
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,2,4,55,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",145,200,1,0.90,"Capela, Clint",8.00,1.40
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,1,10,04,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-66,237,2,5.20,"Holiday, Jrue",3.60,2.80
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,3,8,18,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-86,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,3,9,15,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",133,129,11,10.70,"Curry, Stephen",5.10,12.80
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,2,5,44,1,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",-142,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,4,9,12,0,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-187,198,5,7.40,"Speights, Marreese",5.50,2.70
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,3,5,32,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-58,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,2,3,11,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",120,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,1,3,04,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-133,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,4,6,54,0,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",-178,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,6,51,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-86,237,3,4.40,"Clarkson, Jordan",8.90,7.50
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,7,18,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",81,232,11,9.30,"Walker, Kemba",1.90,14.20
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,3,22,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",1,164,16,13.10,"Wall, John",4.50,9.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,2,8,29,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",128,115,8,7.40,"Barbosa, Leandro",4.00,15.50
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,5,48,1,"Jump Shot","3PT Field Goal",27,"Washington Wizards",12,277,12,14.30,"Wall, John",4.50,10.10
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,9,13,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",138,120,2,3.00,"Temple, Garrett",4.40,10.50
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,6,42,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-40,11,10,9.90,"Wall, John",1.60,4.80
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,2,00,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",141,120,17,12.70,"Porter, Otto",3.40,9.80
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,3,4,11,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-178,193,2,2.80,"Temple, Garrett",2.90,1.70
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,3,8,59,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",15,277,2,2.60,"Wall, John",3.80,7.30
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,4,20,0,"Jump Shot","3PT Field Goal",32,"Washington Wizards",212,247,3,2.50,"Wall, John",4.80,3.70
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,4,2,01,0,"Jump Shot","2PT Field Goal",12,"Charlotte Hornets",37,121,14,11.90,"Walker, Kemba",2.50,7.80
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,3,1,21,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-79,178,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,4,1,22,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",240,-11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,3,5,15,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-184,203,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,2,1,22,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-17,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,8,44,1,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-165,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,2,0,02,0,"Jump Shot","2PT Field Goal",14,"Utah Jazz",92,115,11,10.20,"Burks, Alec",4.70,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,4,0,22,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",15,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,1,10,31,1,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-56,110,2,2.20,"Ezeli, Festus",4.60,21.70
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,2,5,23,1,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",133,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,4,45,0,"Jump Shot","3PT Field Goal",30,"San Antonio Spurs",181,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,1,2,31,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",166,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,3,5,25,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",230,16,0,1.60,"Smith, Ish",4.60,13.50
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,2,4,20,0,"Jump Shot","3PT Field Goal",28,"Atlanta Hawks",-179,228,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,1,27,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",153,43,4,5.00,"Green, Draymond",5.20,6.50
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,3,30,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",122,210,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,3,5,54,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-158,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,1,7,42,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",187,70,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,4,4,42,0,"Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-6,111,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,2,3,52,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",200,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,1,9,18,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",130,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,3,6,04,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-168,-5,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,2,5,13,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",130,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,1,4,48,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-129,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,3,9,48,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",27,239,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,4,0,00,0,"Jump Shot","3PT Field Goal",40,"New Orleans Pelicans",-4,406,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,3,9,01,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-238,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,4,1,17,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",53,259,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,2,0,02,0,"Jump Shot","3PT Field Goal",28,"Philadelphia 76ers",-11,287,5,2.80,"Smith, Ish",5.60,0.50
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,2,3,14,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-68,165,15,13.50,"Noel, Nerlens",4.80,10.40
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,2,0,57,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-102,254,11,12.70,"Noel, Nerlens",5.40,10.90
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,1,6,15,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-117,110,1,3.60,"Smith, Ish",3.80,7.40
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,1,3,35,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",6,183,3,5.10,"McConnell, TJ",5.80,12.80
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,3,3,55,0,"Jump Shot","3PT Field Goal",28,"Philadelphia 76ers",-124,252,1,2.50,"Marshall, Kendall",3.40,16.10
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,3,6,24,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-107,154,2,6.60,"Okafor, Jahlil",5.40,6.90
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,4,5,57,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-196,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,1,4,36,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",101,139,7,7.00,"Young, Thaddeus",4.20,16.20
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,3,9,34,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-214,116,4,2.50,"Bogdanovic, Bojan",2.90,4.60
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,5,11,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",1,264,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,1,3,19,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",125,120,7,5.50,"Jack, Jarrett",4.40,17.90
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,2,3,30,0,"Jump Shot","3PT Field Goal",29,"Cleveland Cavaliers",14,293,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,2,4,49,1,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-187,198,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,9,16,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-107,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,6,26,0,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-158,228,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,1,02,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",37,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,3,7,19,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-150,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,2,7,42,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-32,51,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,5,00,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-109,75,9,9.60,"Chandler, Tyson",5.90,14.90
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,3,7,47,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-14,154,3,2.80,"Morris, Markieff",5.40,7.50
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,3,3,01,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-66,254,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,2,0,00,0,"Jump Shot","3PT Field Goal",31,"Brooklyn Nets",169,264,4,3.50,"Jack, Jarrett",3.70,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,1,6,43,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",115,146,1,1.30,"Jack, Jarrett",3.10,9.90
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,4,1,37,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-18,265,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,4,2,18,0,"Jump Shot","2PT Field Goal",13,"Utah Jazz",101,85,11,7.50,"Burks, Alec",7.50,16.40
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,4,0,59,0,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",-132,237,0,1.20,"Morris, Markieff",5.10,3.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,2,4,31,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-58,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,3,3,02,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",128,218,5,8.00,"Young, Thaddeus",4.60,1.30
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,9,12,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-91,146,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,2,5,35,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-138,208,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,1,10,16,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",109,174,3,3.00,"Jack, Jarrett",4.50,12.80
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,3,5,36,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",78,232,8,7.00,"Jack, Jarrett",7.30,15.20
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,2,2,28,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",138,205,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,1,5,21,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-45,169,3,5.70,"Neto, Raul",3.80,3.20
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,2,2,59,0,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",86,77,9,7.30,"Williams, Marvin",4.70,12.40
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,9,42,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",141,200,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,3,24,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",115,151,8,6.90,"Grant, Jerian",4.40,10.80
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,4,4,36,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",150,200,13,12.00,"Walker, Kemba",3.70,1.80
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,1,7,30,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-202,136,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,1,4,05,0,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",10,272,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,2,8,06,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",186,160,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,2,6,21,1,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-96,92,2,3.00,"Smith, Ish",1.80,4.70
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,9,53,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-70,239,15,13.70,"Zeller, Cody",6.20,11.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,1,9,04,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-119,141,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,3,9,49,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-104,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,3,53,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",138,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,2,0,07,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-148,203,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,1,2,31,1,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-37,272,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,7,43,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-248,-6,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,8,54,1,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",0,87,2,2.70,"Walker, Kemba",2.40,1.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,2,0,01,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",89,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,1,5,10,1,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",-127,23,2,2.00,"Koufos, Kosta",4.20,14.20
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,2,2,34,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",117,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,5,44,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",184,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,3,53,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-117,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,6,18,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",146,-11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,6,55,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",40,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,4,5,33,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",47,141,11,9.60,"Collison, Darren",6.60,14.40
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,9,51,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",143,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,1,6,57,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-233,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,4,1,12,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",19,178,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-209,139,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,3,8,28,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",89,232,0,1.20,"Holiday, Jrue",5.50,7.70
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,4,4,15,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",9,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,4,8,15,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-230,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,1,8,38,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",155,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,1,10,01,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",137,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,1,7,25,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-66,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,3,6,28,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",64,249,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,1,5,04,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-110,239,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,3,4,52,1,"Jump Shot","2PT Field Goal",8,"Denver Nuggets",84,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,1,4,02,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-61,259,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,3,6,12,1,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",20,264,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,4,4,39,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",146,56,12,10.00,"Hood, Rodney",6.90,13.60
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,4,48,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-197,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,4,6,04,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",109,126,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,0,02,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",96,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,1,5,34,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",28,188,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,3,3,46,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",43,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,4,2,41,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-241,3,1,2.60,"Favors, Derrick",6.10,21.50
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,9,22,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",63,134,6,6.50,"Walker, Kemba",4.70,16.40
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,3,9,51,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-101,146,7,8.10,"Neto, Raul",5.00,15.60
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,2,3,47,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",135,95,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,3,11,15,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",107,232,2,4.50,"Walker, Kemba",3.80,3.90
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,4,0,41,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",24,249,0,1.30,"Gobert, Rudy",5.70,18.10
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,3,8,56,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-187,188,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,2,1,10,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-115,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,1,4,38,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",166,36,4,3.90,"Neto, Raul",4.90,4.40
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,3,2,57,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",69,151,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,1,7,54,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-110,254,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,4,4,10,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-156,214,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,4,6,40,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-132,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,10,53,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",133,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,1,4,05,0,"Jump Shot","3PT Field Goal",31,"Golden State Warriors",-1,311,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,9,04,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",28,164,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,3,45,1,"Jump Shot","2PT Field Goal",22,"Golden State Warriors",68,210,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,6,29,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-191,185,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,2,1,31,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",133,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,0,30,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-153,47,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,1,9,42,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",171,198,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,6,57,1,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",66,120,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,2,2,29,1,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",50,120,7,7.40,"Lowry, Kyle",5.00,15.10
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,8,02,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",105,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,1,6,07,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",119,160,20,19.90,"Asik, Omer",4.60,3.30
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,3,5,34,1,"Jump Shot","3PT Field Goal",29,"Toronto Raptors",-215,198,3,3.40,"DeRozan, DeMar",4.70,20.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,2,1,44,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",55,165,3,1.90,"LaVine, Zach",4.60,5.10
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,2,3,38,1,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",150,26,0,1.10,"LaVine, Zach",4.50,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,1,3,50,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-48,120,1,4.20,"Harris, Gary",3.90,13.70
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,9,41,1,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",24,262,0,1.10,"Tucker, PJ",7.90,16.60
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,4,2,27,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",2,65,16,15.70,"Chandler, Tyson",3.90,8.70
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,0,53,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-130,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,3,00,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-130,149,4,4.80,"Price, Ronnie",4.00,5.10
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,1,6,33,1,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",17,26,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,4,0,19,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-73,250,14,11.60,"Barnes, Harrison",0.00,12.40
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,3,4,22,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",109,11,23,11.10,"Pachulia, Zaza",3.80,12.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,1,7,06,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",48,164,7,8.00,"Livingston, Shaun",0.70,14.60
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,2,5,44,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-79,237,1,2.20,"Curry, Stephen",6.10,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,4,0,53,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-12,90,9,11.40,"Green, Draymond",1.30,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,10,03,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-112,100,0,3.20,"Curry, Stephen",4.20,8.60
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,7,48,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-151,213,8,8.10,"Green, Draymond",2.10,8.90
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,4,3,37,1,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",-184,200,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,4,30,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",40,159,5,4.30,"Iguodala, Andre",5.00,16.90
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,6,32,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-94,242,8,12.50,"Speights, Marreese",4.70,2.40
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,9,34,1,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-70,267,0,1.20,"Curry, Stephen",3.80,9.10
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,6,51,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-137,213,6,6.70,"Thompson, Klay",5.40,4.90
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,4,6,23,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",150,121,8,7.70,"Jokic, Nikola",8.60,14.00
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,4,0,51,1,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",120,144,2,2.30,"Dieng, Gorgui",5.20,6.70
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,4,2,43,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",155,205,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,1,5,32,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-158,75,7,7.30,"Harris, Gary",2.00,16.50
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,3,10,19,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",30,154,10,9.30,"Arthur, Darrell",3.90,9.90
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,3,7,46,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-48,243,0,1.00,"Koufos, Kosta",5.60,16.60
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,1,6,35,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-71,249,3,4.20,"Cousins, DeMarcus",5.90,3.90
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,1,8,33,0,"Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",61,31,5,3.80,"Gasol, Marc",3.50,20.00
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,4,8,25,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",96,228,5,6.10,"Conley, Mike",7.00,17.50
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,2,0,00,0,"Jump Shot","3PT Field Goal",51,"Portland Trail Blazers",191,478,0,0.80,"Davis, Ed",9.80,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,3,9,46,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-114,100,6,4.30,"Aminu, Al-Farouq",2.60,18.50
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,4,2,47,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",114,92,13,9.40,"Conley, Mike",4.30,14.50
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,2,7,14,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-140,205,3,2.80,"Barnes, Matt",3.30,17.80
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,3,8,33,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",19,175,1,1.70,"McCollum, CJ",4.10,7.20
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,1,10,24,1,"Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",-55,126,2,2.30,"Lillard, Damian",3.00,12.80
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,2,4,04,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",60,174,1,1.60,"Holiday, Jrue",3.70,3.80
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,3,3,48,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-245,36,0,1.10,"Felton, Raymond",3.70,11.50
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,2,5,23,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",135,218,0,1.20,"Jenkins, John",15.10,6.00
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,2,4,17,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",94,131,4,4.10,"Powell, Dwight",5.10,15.60
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,1,10,35,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",146,121,8,8.50,"Pachulia, Zaza",4.70,7.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,4,4,16,1,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",-66,82,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,2,2,17,0,"Jump Shot","2PT Field Goal",12,"Chicago Bulls",10,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,3,8,13,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",-145,61,1,2.40,"Matthews, Wesley",3.40,17.00
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,1,11,31,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-163,190,0,1.00,"Walker, Kemba",1.90,1.00
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,2,6,21,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-120,205,0,1.20,"Matthews, Wesley",7.90,18.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,4,13,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",60,38,2,4.90,"Lillard, Damian",0.50,14.40
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,1,6,01,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",168,51,10,9.40,"Walker, Kemba",2.30,13.70
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,4,1,31,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",112,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,2,28,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-60,267,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,3,9,25,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",140,23,10,9.10,"Caldwell-Pope, Kentavious",7.20,12.20
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,10,08,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-178,57,9,8.50,"Jackson, Reggie",5.00,24.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,3,4,39,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",69,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,3,7,43,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",171,62,2,3.00,"Ilyasova, Ersan",10.60,9.40
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,5,4,38,0,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",101,21,4,4.00,"Jackson, Reggie",2.00,24.00
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,3,10,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",45,144,4,4.00,"Tolliver, Anthony",4.60,3.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,2,55,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",-74,2,3,2.60,"Caldwell-Pope, Kentavious",3.20,18.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,9,07,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",78,51,9,8.10,"Jackson, Reggie",6.60,14.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,2,3,44,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-165,213,0,1.10,"Jackson, Reggie",7.70,23.80
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,5,2,37,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",158,61,5,10.20,"Jackson, Reggie",9.50,12.70
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,4,7,08,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",151,21,12,11.40,"Caldwell-Pope, Kentavious",3.30,13.40
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,4,01,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-173,82,1,0.70,"Caldwell-Pope, Kentavious",2.50,19.10
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,4,2,30,0,"Jump Shot","3PT Field Goal",29,"Detroit Pistons",140,259,1,1.70,"Tolliver, Anthony",5.30,20.40
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,5,56,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",24,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,1,4,43,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-246,-5,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,11,26,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-233,-15,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,1,9,27,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",1,254,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,2,51,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",233,-16,0,0.50,"Gee, Alonzo",5.90,2.90
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,6,12,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",107,223,2,2.00,"Vonleh, Noah",7.10,4.30
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,1,4,44,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-140,82,2,2.40,"Gordon, Eric",2.90,11.20
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,3,8,17,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",169,180,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,1,8,14,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-153,190,0,1.20,"McCollum, CJ",4.90,10.90
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,0,00,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-106,237,0,1.60,"Gordon, Eric",2.90,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,2,03,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-9,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,4,4,13,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",40,11,5,5.10,"Gordon, Eric",2.40,7.20
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,1,8,56,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",145,134,5,4.50,"Gordon, Eric",6.70,18.40
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,3,6,49,0,"Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",-4,90,25,23.30,"Asik, Omer",4.70,1.90
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,1,3,00,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",115,67,8,7.90,"Cole, Norris",4.00,15.30
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,4,51,0,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",66,85,0,0.00,"Asik, Omer",4.20,16.50
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,5,01,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-101,165,12,14.90,"Asik, Omer",5.10,7.60
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,4,2,20,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",227,-5,20,19.10,"Davis, Anthony",2.90,3.60
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,3,3,58,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-6,247,9,11.70,"Gordon, Eric",3.10,12.60
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,3,3,13,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-9,188,12,9.60,"Holiday, Jrue",5.50,13.60
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,3,8,43,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-140,101,9,8.60,"Gordon, Eric",4.40,4.70
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,3,4,36,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-56,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,1,10,42,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",123,169,15,15.80,"Anderson, Ryan",4.70,7.90
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,2,2,51,0,"Jump Shot","3PT Field Goal",28,"Sacramento Kings",119,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,3,4,24,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",120,164,3,3.40,"Anderson, Ryan",5.30,4.60
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,9,09,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-14,244,1,5.10,"Walker, Kemba",5.10,10.30
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,3,11,20,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",0,205,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,2,5,04,1,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-197,188,5,5.20,"Evans, Tyreke",4.10,17.70
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,3,11,35,1,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",101,111,3,3.70,"Holiday, Jrue",4.10,15.10
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,1,5,08,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",173,183,2,8.00,"Evans, Tyreke",4.60,24.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,3,9,29,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",68,146,1,1.40,"Asik, Omer",5.40,8.60
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,3,1,51,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-137,218,13,10.40,"Gee, Alonzo",6.60,3.70
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,1,8,16,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-91,156,12,12.50,"Asik, Omer",6.50,11.50
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,3,10,47,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",140,139,12,11.00,"Asik, Omer",5.20,7.30
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,1,2,46,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",146,149,10,8.40,"Cole, Norris",3.90,14.50
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,3,6,46,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-246,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,2,4,59,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-169,178,1,1.60,"Lillard, Damian",3.80,11.80
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,2,0,01,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-158,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,2,6,53,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",99,242,0,1.20,"Nowitzki, Dirk",7.60,17.60
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,3,5,33,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",19,203,4,4.90,"Felton, Raymond",3.40,2.80
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,3,11,16,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",158,-5,10,9.50,"Neto, Raul",3.90,15.50
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,1,5,24,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-163,175,0,2.20,"Lyles, Trey",4.80,20.50
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,1,8,18,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-109,224,2,4.30,"Walker, Kemba",3.90,5.40
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,1,8,04,0,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-81,70,3,4.30,"Mayo, O.J.",3.90,13.50
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,0,00,0,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",10,272,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,1,11,12,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-133,229,0,1.20,"Carroll, DeMarre",4.40,13.40
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,4,2,00,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",45,264,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,2,4,22,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-104,254,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,8,45,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",125,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,1,4,51,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",107,219,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,3,4,16,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",69,254,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,3,8,17,0,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",-83,61,14,11.80,"Gordon, Eric",4.00,10.10
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,3,07,0,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",79,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,2,2,58,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Lakers",-104,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,4,3,03,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-133,-16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,3,0,44,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-148,219,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,1,2,36,1,"Jump Shot","3PT Field Goal",28,"Minnesota Timberwolves",-196,208,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,0,01,0,"Jump Shot","2PT Field Goal",22,"Boston Celtics",64,213,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,2,0,51,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",71,237,0,1.40,"Harris, Devin",13.00,18.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,3,9,11,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",87,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,3,2,08,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-117,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,1,8,56,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",89,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,4,3,31,1,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-48,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,2,3,32,0,"Jump Shot","3PT Field Goal",27,"Minnesota Timberwolves",0,272,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,4,0,07,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",107,232,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,1,1,14,0,"Jump Shot","2PT Field Goal",8,"New York Knicks",-53,62,5,4.60,"Porzingis, Kristaps",6.70,12.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,3,3,23,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",45,259,2,1.20,"Lowry, Kyle",4.20,8.40
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,9,13,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",73,170,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,8,09,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",-153,80,2,5.10,"Lopez, Robin",6.00,5.20
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,2,05,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",166,174,14,11.70,"Porzingis, Kristaps",5.80,11.80
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,2,1,28,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",53,11,0,0.00,"Porzingis, Kristaps",1.80,11.90
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,1,3,55,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",-38,-1,12,10.80,"Calderon, Jose",2.50,3.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,8,46,1,"Jump Shot","2PT Field Goal",11,"New York Knicks",-106,33,1,3.10,"Calderon, Jose",3.20,8.60
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,6,56,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",161,193,14,12.40,"Lopez, Robin",6.10,10.90
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,1,7,08,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-187,190,2,3.20,"Porzingis, Kristaps",6.10,3.50
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,1,6,15,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-183,-19,10,8.70,"Porzingis, Kristaps",5.50,24.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,10,52,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",-171,205,2,3.10,"Anthony, Carmelo",4.60,1.40
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,5,53,0,"Jump Shot","2PT Field Goal",14,"New York Knicks",-133,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,4,2,40,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-179,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,1,8,58,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",240,3,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,5,46,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-97,129,4,5.00,"Udrih, Beno",2.50,10.30
+"Chris Paul","Los Angeles Clippers",2015-12-14,2015,2779,1610612746,400828246,1,6,51,1,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",71,87,9,8.00,"Jackson, Reggie",4.30,16.40
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,8,44,1,"Jump Shot","3PT Field Goal",25,"Miami Heat",-163,200,0,1.40,"Udrih, Beno",5.60,12.50
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,5,07,1,"Jump Shot","2PT Field Goal",5,"Miami Heat",-14,51,1,2.20,"Winslow, Justise",3.00,16.10
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,3,9,12,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",17,244,0,1.00,"Udrih, Beno",4.10,10.20
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,4,1,01,1,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-158,139,1,3.60,"Lin, Jeremy",2.70,2.80
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,6,02,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",135,129,10,7.40,"Zeller, Cody",2.60,15.20
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,4,22,1,"Jump Shot","2PT Field Goal",12,"Miami Heat",-4,124,4,3.10,"Udrih, Beno",4.50,11.70
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,6,47,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",238,51,0,1.20,"Udrih, Beno",3.70,14.50
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,3,11,14,1,"Jump Shot","2PT Field Goal",22,"Phoenix Suns",-34,223,5,9.20,"Bledsoe, Eric",5.30,6.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,3,23,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",117,154,12,11.10,"Udrih, Beno",3.30,12.40
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,8,10,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",112,164,6,5.40,"Chandler, Tyson",9.80,3.50
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,3,3,35,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-14,154,3,6.30,"Johnson, Tyler",4.20,6.20
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,4,4,48,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",61,36,11,11.70,"Morris, Markieff",4.70,12.10
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,2,7,34,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-124,139,4,4.10,"DeRozan, DeMar",3.90,16.80
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,1,9,25,1,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",76,115,9,7.50,"Hairston, PJ",6.70,15.20
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,1,6,50,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-148,190,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,2,3,28,1,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",78,131,8,6.20,"Walker, Kemba",3.60,24.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,3,3,33,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-158,205,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,3,8,26,0,"Jump Shot","3PT Field Goal",31,"Houston Rockets",-1,311,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,4,17,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-169,223,22,21.00,"Thornton, Marcus",5.60,1.60
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,2,0,04,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",155,198,0,0.90,"Walker, Kemba",5.70,1.90
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,4,0,27,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",119,156,16,13.50,"Cunningham, Dante",3.80,2.10
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,5,2,15,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",125,237,24,20.60,"Howard, Dwight",5.30,2.90
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,2,4,04,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-230,-11,0,3.10,"Jones, Terrence",0.20,8.40
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,1,05,0,"Jump Shot","2PT Field Goal",5,"Houston Rockets",-43,38,5,4.80,"Terry, Jason",2.30,4.20
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,0,03,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",120,149,5,4.60,"Harden, James",3.40,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,2,2,32,0,"Jump Shot","3PT Field Goal",29,"Houston Rockets",-16,293,2,3.50,"Harden, James",5.90,4.50
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,4,4,57,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",123,97,14,13.30,"Anderson, Ryan",4.40,7.90
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,3,2,05,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-133,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,3,3,18,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",159,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,1,10,50,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",17,252,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,0,12,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",158,65,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,3,7,50,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",110,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,4,03,0,"Jump Shot","2PT Field Goal",11,"Minnesota Timberwolves",43,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,1,37,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",233,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,3,9,27,0,"Jump Shot","2PT Field Goal",11,"Toronto Raptors",74,82,4,3.40,"Lowry, Kyle",4.60,12.40
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,4,0,31,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-237,-19,0,2.20,"Lowry, Kyle",6.80,21.20
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,2,1,00,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",76,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,3,6,36,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-179,190,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,3,10,00,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-102,178,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,3,7,53,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,8,1,1.80,"Mudiay, Emmanuel",10.50,20.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,2,0,01,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",27,7,14,10.60,"Calderon, Jose",3.40,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,4,1,07,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",22,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,4,2,25,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-24,-1,12,12.60,"Russell, D'Angelo",3.00,11.10
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,9,10,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-2,11,0,0.60,"Leonard, Kawhi",1.20,20.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,11,47,1,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",12,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,4,0,58,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",1,16,4,4.60,"Rose, Derrick",1.80,20.80
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,3,7,03,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-9,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-20,2015,2779,1610612746,400828927,2,2,56,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",14,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,2,1,36,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",17,7,7,7.30,"Roberts, Brian",2.20,15.70
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,4,0,38,0,"Layup Shot","2PT Field Goal",3,"Chicago Bulls",28,16,5,4.30,"Gasol, Pau",3.20,19.60
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,4,0,59,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",6,21,9,5.90,"Barnes, Harrison",2.90,17.40
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,8,01,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",10,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,9,30,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-7,2,0,1.10,"Rondo, Rajon",1.20,13.60
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,2,3,59,0,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",0,8,6,7.80,"Johnson, Joe",4.40,4.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,1,6,28,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,1,6,44,0,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",9,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,6,07,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",9,26,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,2,49,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",9,8,8,6.40,"Johnson, Tyler",1.00,17.70
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,3,11,03,1,"Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",-32,13,3,7.50,"Smith, Ish",3.00,6.50
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,1,5,27,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",24,8,6,7.20,"Temple, Garrett",5.20,16.40
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,2,8,36,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",15,3,8,7.20,"Gortat, Marcin",3.90,16.50
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,3,4,10,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",10,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-15,2015,2779,1610612746,400828888,4,5,50,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",4,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,4,19,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,16,7,10.80,"Cole, Norris",4.60,13.40
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,3,7,42,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,18,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,0,01,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-14,3,6,3.60,"Carter-Williams, Michael",1.70,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,3,1,57,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",6,11,3,5.30,"Udrih, Beno",3.20,21.50
+"Chris Paul","Los Angeles Clippers",2016-01-02,2015,2779,1610612746,400828392,2,4,46,1,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",9,16,7,6.10,"Babcock, Chris",4.70,17.60
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,0,01,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,7,1,1.90,"Augustin, D.J.",4.60,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,5,24,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",4,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,3,20,0,"Pullup Bank shot","2PT Field Goal",18,"Toronto Raptors",141,116,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,1,4,45,0,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",145,85,5,5.90,"Asik, Omer",7.80,16.60
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,1,11,02,0,"Pullup Jump shot","2PT Field Goal",15,"Charlotte Hornets",86,124,14,12.00,"Walker, Kemba",4.50,9.40
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,7,36,1,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",120,111,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,3,10,19,1,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",-96,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,4,1,31,1,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Lakers",127,100,11,10.40,"Bass, Brandon",8.50,12.80
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,3,9,47,0,"Pullup Jump shot","2PT Field Goal",13,"Los Angeles Lakers",138,23,6,5.80,"Hibbert, Roy",6.60,17.20
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,4,25,1,"Pullup Jump shot","2PT Field Goal",7,"Sacramento Kings",-61,46,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,2,32,1,"Pullup Jump shot","2PT Field Goal",19,"Sacramento Kings",-63,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,1,9,56,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",132,131,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,2,6,59,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",-83,169,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,1,6,36,0,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",86,131,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,3,1,48,1,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",25,188,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,4,5,54,1,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",9,164,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,3,3,55,0,"Pullup Jump shot","3PT Field Goal",29,"Toronto Raptors",132,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,1,9,28,1,"Pullup Jump shot","3PT Field Goal",24,"Toronto Raptors",187,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,2,1,14,0,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",122,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,2,58,1,"Pullup Jump shot","2PT Field Goal",13,"Los Angeles Lakers",91,100,6,7.70,"Russell, D'Angelo",3.70,14.70
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,10,24,1,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",40,175,3,1.70,"Clarkson, Jordan",8.70,24.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,2,7,44,0,"Pullup Jump shot","2PT Field Goal",14,"Houston Rockets",76,129,6,5.40,"Beverley, Patrick",2.80,17.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,2,3,37,0,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",89,124,7,4.30,"Clarkson, Jordan",2.80,18.50
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,6,38,1,"Pullup Jump shot","2PT Field Goal",12,"Washington Wizards",69,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,5,48,1,"Pullup Jump shot","2PT Field Goal",12,"Washington Wizards",-66,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,1,6,21,0,"Pullup Jump shot","2PT Field Goal",19,"Cleveland Cavaliers",-97,164,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,1,9,52,1,"Pullup Jump shot","3PT Field Goal",25,"Cleveland Cavaliers",127,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,5,3,49,1,"Pullup Jump shot","2PT Field Goal",15,"New Orleans Pelicans",60,146,3,7.30,"Holiday, Jrue",4.80,24.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,4,6,05,1,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",133,105,9,9.60,"Holiday, Jrue",4.20,14.30
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,3,9,04,0,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",138,72,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,3,25,1,"Pullup Jump shot","2PT Field Goal",6,"Charlotte Hornets",32,51,2,2.60,"Kaminsky, Frank",3.90,21.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,3,10,30,1,"Pullup Jump shot","2PT Field Goal",16,"Charlotte Hornets",138,82,8,7.20,"Walker, Kemba",3.50,15.80
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,2,5,30,0,"Pullup Jump shot","2PT Field Goal",18,"Charlotte Hornets",128,134,26,21.60,"Kaminsky, Frank",3.10,3.50
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,1,6,52,0,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",-17,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,3,46,1,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",-115,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,7,16,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",145,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,3,10,13,1,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",42,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,3,08,1,"Pullup Jump shot","3PT Field Goal",25,"Indiana Pacers",73,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,2,2,45,1,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",-79,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,4,5,07,1,"Pullup Jump shot","2PT Field Goal",15,"New Orleans Pelicans",133,87,5,6.00,"Anderson, Ryan",4.70,17.60
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,3,5,55,0,"Pullup Jump shot","2PT Field Goal",18,"Boston Celtics",174,65,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,2,12,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",79,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,10,23,1,"Pullup Jump shot","2PT Field Goal",19,"Boston Celtics",-2,193,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,10,44,1,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-73,141,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,3,3,27,1,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",-4,146,8,7.50,"Burke, Trey",3.80,15.50
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,3,2,31,1,"Pullup Jump shot","2PT Field Goal",17,"Utah Jazz",48,165,2,3.40,"Withey, Jeff",5.80,13.80
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,3,10,15,1,"Pullup Jump shot","2PT Field Goal",18,"Philadelphia 76ers",-109,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,1,9,18,1,"Pullup Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-58,165,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,5,3,37,1,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",63,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,4,35,1,"Pullup Jump shot","2PT Field Goal",13,"Oklahoma City Thunder",101,85,8,7.30,"Roberson, Andre",5.20,15.70
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,4,3,44,1,"Pullup Jump shot","2PT Field Goal",4,"Oklahoma City Thunder",9,41,14,14.00,"Westbrook, Russell",2.30,10.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,2,5,38,1,"Pullup Jump shot","2PT Field Goal",12,"Phoenix Suns",-6,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,2,1,21,0,"Pullup Jump shot","2PT Field Goal",15,"Phoenix Suns",-55,141,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,2,3,49,0,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",27,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,3,8,15,1,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",128,218,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,3,4,32,0,"Pullup Jump shot","2PT Field Goal",15,"Phoenix Suns",2,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,1,8,23,1,"Pullup Jump shot","2PT Field Goal",12,"Phoenix Suns",9,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,1,4,16,1,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",-156,105,20,16.30,"Rubio, Ricky",4.90,7.60
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,5,17,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",-151,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,1,7,40,0,"Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",6,156,4,3.90,"Towns, Karl-Anthony",5.40,20.00
+"Chris Paul","Los Angeles Clippers",2015-12-07,2015,2779,1610612746,400828198,3,5,32,0,"Pullup Jump shot","2PT Field Goal",11,"Minnesota Timberwolves",91,75,13,10.10,"Rubio, Ricky",6.20,13.90
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,0,29,0,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",184,31,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,3,9,24,1,"Pullup Jump shot","2PT Field Goal",15,"Indiana Pacers",96,121,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,0,33,1,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",107,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,2,30,1,"Pullup Jump shot","2PT Field Goal",15,"Indiana Pacers",9,151,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,3,28,0,"Pullup Jump shot","2PT Field Goal",5,"Sacramento Kings",1,52,3,3.20,"Rondo, Rajon",3.30,11.10
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,5,10,0,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",115,146,5,4.50,"Rondo, Rajon",6.50,0.60
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,3,8,09,0,"Pullup Jump shot","2PT Field Goal",12,"Denver Nuggets",-9,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,2,0,30,0,"Pullup Jump shot","2PT Field Goal",14,"Denver Nuggets",101,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,3,3,30,0,"Pullup Jump shot","2PT Field Goal",15,"Denver Nuggets",-102,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,1,7,07,1,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",163,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,2,0,33,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",158,72,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,1,10,47,1,"Pullup Jump shot","2PT Field Goal",18,"Boston Celtics",94,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,2,1,45,0,"Pullup Jump shot","2PT Field Goal",20,"Dallas Mavericks",148,141,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,1,3,51,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-24,169,2,5.20,"Lillard, Damian",5.80,11.30
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,4,6,57,1,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",130,3,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,1,5,08,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-83,141,2,5.30,"Aminu, Al-Farouq",5.40,4.90
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,4,5,18,1,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",1,146,17,15.60,"Lillard, Damian",8.20,8.80
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,6,11,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-127,126,7,7.40,"Crabbe, Allen",0.00,15.80
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,4,7,24,0,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",112,144,9,8.20,"Harkless, Maurice",5.60,12.80
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,4,33,1,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",-45,144,4,8.40,"Crabbe, Allen",8.00,4.40
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,4,2,08,0,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-124,131,5,5.50,"Harkless, Maurice",4.40,7.60
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,3,8,52,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",202,139,3,2.60,"Aminu, Al-Farouq",0.70,1.30
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,1,6,30,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-38,159,12,12.70,"Vonleh, Noah",10.50,11.80
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,1,4,27,1,"Pullup Jump shot","2PT Field Goal",17,"Washington Wizards",97,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,2,5,48,1,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",143,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,2,2,44,1,"Pullup Jump shot","2PT Field Goal",17,"Chicago Bulls",-7,170,8,7.70,"Rose, Derrick",7.60,16.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,3,6,43,1,"Pullup Jump shot","2PT Field Goal",19,"Chicago Bulls",-110,159,9,8.90,"Hinrich, Kirk",3.30,15.10
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,1,9,55,0,"Pullup Jump shot","2PT Field Goal",19,"Chicago Bulls",115,154,10,8.60,"Rose, Derrick",2.40,13.90
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,10,52,1,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",104,120,1,3.00,"Parker, Tony",3.70,10.60
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,1,4,56,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",146,115,11,10.80,"Parker, Tony",4.40,13.80
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,4,2,43,1,"Pullup Jump shot","2PT Field Goal",17,"San Antonio Spurs",-104,144,10,9.00,"Parker, Tony",3.30,13.90
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,2,6,08,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",155,95,3,3.70,"Parker, Tony",2.50,15.30
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,2,3,11,1,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",135,120,4,4.60,"Parker, Tony",3.40,12.30
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,1,8,25,0,"Pullup Jump shot","2PT Field Goal",18,"San Antonio Spurs",-151,101,7,4.40,"Aldridge, LaMarcus",4.10,4.50
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,1,4,41,1,"Pullup Jump shot","2PT Field Goal",12,"Brooklyn Nets",35,124,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,4,1,18,0,"Pullup Jump shot","3PT Field Goal",26,"Atlanta Hawks",-45,262,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,3,6,24,1,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",141,139,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,4,4,58,1,"Pullup Jump shot","2PT Field Goal",10,"Brooklyn Nets",74,70,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,4,1,53,1,"Pullup Jump shot","2PT Field Goal",18,"Atlanta Hawks",120,146,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,1,3,12,0,"Pullup Jump shot","3PT Field Goal",23,"Atlanta Hawks",46,234,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,3,4,38,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-42,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,3,10,28,1,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",-135,120,6,6.10,"Wall, John",5.20,18.70
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,1,3,19,1,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",105,126,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,1,6,07,0,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",-104,136,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,3,0,05,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",117,90,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,10,46,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",104,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,0,38,0,"Pullup Jump shot","2PT Field Goal",13,"Atlanta Hawks",0,134,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,3,6,39,0,"Pullup Jump shot","2PT Field Goal",11,"Atlanta Hawks",-12,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,1,4,52,0,"Pullup Jump shot","2PT Field Goal",18,"Atlanta Hawks",96,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,4,4,02,0,"Pullup Jump shot","3PT Field Goal",29,"Houston Rockets",-68,282,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,2,14,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-52,259,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,10,12,0,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",-148,121,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,1,3,27,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-114,223,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,4,3,36,1,"Pullup Jump shot","2PT Field Goal",20,"Brooklyn Nets",99,174,3,2.60,"Jack, Jarrett",4.30,12.60
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,2,2,57,0,"Pullup Jump shot","2PT Field Goal",14,"Brooklyn Nets",-2,144,0,0.80,"Sloan, Donald",3.80,17.30
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,11,23,0,"Pullup Jump shot","2PT Field Goal",15,"New York Knicks",114,106,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,2,1,43,1,"Pullup Jump shot","2PT Field Goal",15,"New York Knicks",-83,136,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,8,10,1,"Pullup Jump shot","2PT Field Goal",12,"New York Knicks",-86,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,2,0,00,1,"Pullup Jump shot","2PT Field Goal",12,"Miami Heat",82,100,6,4.80,"Deng, Luol",5.40,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,3,7,08,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",102,43,7,6.30,"Udrih, Beno",3.80,17.10
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,1,9,07,0,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",141,56,13,9.10,"Udrih, Beno",3.10,13.60
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,2,2,21,0,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",117,100,5,4.80,"Udrih, Beno",2.30,7.40
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,1,7,45,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-9,247,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,3,8,49,0,"Pullup Jump shot","2PT Field Goal",15,"Houston Rockets",125,95,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,4,2,53,0,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",135,100,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,1,7,09,0,"Pullup Jump shot","2PT Field Goal",11,"Houston Rockets",-14,116,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,5,20,1,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",-156,228,9,8.70,"Terry, Jason",6.10,15.60
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,1,2,36,1,"Pullup Jump shot","3PT Field Goal",26,"Houston Rockets",96,244,4,4.70,"Brewer, Corey",5.40,18.70
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,4,3,02,1,"Pullup Jump shot","2PT Field Goal",15,"Houston Rockets",132,90,21,18.20,"Terry, Jason",2.80,6.70
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,1,3,27,1,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",-156,228,3,3.30,"Lawson, Ty",4.20,20.40
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,3,8,45,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",45,193,9,9.20,"Lawson, Ty",4.30,14.00
+"Chris Paul","Los Angeles Clippers",2016-01-18,2015,2779,1610612746,400828511,2,1,30,0,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",151,80,14,16.60,"Harden, James",6.30,6.50
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,1,8,19,0,"Pullup Jump shot","2PT Field Goal",19,"Minnesota Timberwolves",-112,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,4,3,32,0,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-129,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,4,2,19,1,"Pullup Jump shot","2PT Field Goal",9,"Los Angeles Lakers",40,85,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,1,10,17,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Lakers",-124,77,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,3,7,38,0,"Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",81,134,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-03,2015,2779,1610612746,400828632,2,1,41,1,"Pullup Jump shot","3PT Field Goal",24,"Minnesota Timberwolves",240,52,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,4,10,32,1,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",74,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,3,4,51,1,"Pullup Jump shot","2PT Field Goal",14,"New York Knicks",-83,116,8,6.60,"Porzingis, Kristaps",5.90,17.50
+"Chris Paul","Los Angeles Clippers",2016-01-22,2015,2779,1610612746,400828535,2,3,50,1,"Pullup Jump shot","2PT Field Goal",9,"New York Knicks",43,90,5,4.90,"Galloway, Langston",5.20,19.80
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,0,36,1,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",-151,200,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,1,5,50,1,"Pullup Jump shot","2PT Field Goal",11,"Dallas Mavericks",-53,100,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,2,1,53,0,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",-79,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,9,01,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Lakers",76,120,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,10,11,1,"Pullup Jump shot","2PT Field Goal",11,"Los Angeles Lakers",50,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,3,10,03,1,"Pullup Jump shot","2PT Field Goal",9,"Denver Nuggets",-50,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,3,9,39,1,"Pullup Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",60,115,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,1,09,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",119,126,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,1,9,01,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",-55,144,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,1,11,17,1,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Lakers",173,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,3,7,11,1,"Pullup Jump shot","2PT Field Goal",12,"Los Angeles Lakers",-2,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,2,5,16,0,"Pullup Jump shot","2PT Field Goal",17,"Toronto Raptors",173,46,3,4.10,"Lowry, Kyle",4.70,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,3,6,07,1,"Pullup Jump shot","2PT Field Goal",14,"Toronto Raptors",38,136,7,8.30,"Scola, Luis",4.60,24.00
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,2,2,30,1,"Pullup Jump shot","2PT Field Goal",13,"Phoenix Suns",125,46,8,8.00,"Knight, Brandon",4.40,14.50
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,10,30,1,"Pullup Jump shot","2PT Field Goal",12,"Golden State Warriors",46,116,4,4.20,"Curry, Stephen",3.10,18.90
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,1,4,40,1,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",146,72,4,4.00,"Wiggins, Andrew",5.40,18.60
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,2,2,13,1,"Pullup Jump shot","2PT Field Goal",13,"Denver Nuggets",-124,62,8,7.70,"Harris, Gary",5.30,15.80
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,1,9,50,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",132,95,5,4.00,"Aminu, Al-Farouq",3.80,19.70
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,5,42,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-163,3,1,1.80,"Lillard, Damian",3.50,9.80
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,1,7,45,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",81,141,10,8.60,"Lillard, Damian",1.20,15.10
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,1,6,00,1,"Pullup Jump shot","2PT Field Goal",12,"Utah Jazz",89,90,9,11.30,"Neto, Raul",3.30,12.50
+"Chris Paul","Los Angeles Clippers",2015-10-28,2015,2779,1610612746,400827903,3,0,03,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",104,152,12,11.40,"Collison, Darren",3.90,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,2,3,36,1,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",-104,178,12,9.60,"Ross, Terrence",6.00,14.20
+"Chris Paul","Los Angeles Clippers",2015-11-22,2015,2779,1610612746,400828083,2,1,53,0,"Pullup Jump shot","2PT Field Goal",14,"Toronto Raptors",-104,106,11,9.50,"Biyombo, Bismack",4.70,13.80
+"Chris Paul","Los Angeles Clippers",2015-11-02,2015,2779,1610612746,400827939,1,6,50,0,"Pullup Jump shot","2PT Field Goal",17,"Phoenix Suns",-153,80,1,4.80,"Morris, Markieff",10.50,20.30
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,1,6,01,1,"Pullup Jump shot","2PT Field Goal",9,"Golden State Warriors",61,77,3,6.90,"Speights, Marreese",4.40,11.70
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,3,6,21,1,"Pullup Jump shot","2PT Field Goal",12,"Golden State Warriors",69,106,6,4.90,"Curry, Stephen",4.60,19.50
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,1,10,34,1,"Pullup Jump shot","2PT Field Goal",16,"Minnesota Timberwolves",102,134,3,4.00,"LaVine, Zach",6.50,13.10
+"Chris Paul","Los Angeles Clippers",2015-11-29,2015,2779,1610612746,400828134,3,7,11,0,"Pullup Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",58,106,8,7.70,"Towns, Karl-Anthony",4.30,14.20
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,2,7,06,1,"Pullup Jump shot","2PT Field Goal",13,"Sacramento Kings",133,36,9,8.40,"Collison, Darren",3.50,14.30
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,1,11,19,0,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",105,131,4,3.30,"Gasol, Marc",3.50,19.40
+"Chris Paul","Los Angeles Clippers",2015-11-09,2015,2779,1610612746,400827992,3,5,05,0,"Pullup Jump shot","2PT Field Goal",14,"Memphis Grizzlies",-53,134,7,6.30,"Randolph, Zach",3.30,17.40
+"Chris Paul","Los Angeles Clippers",2015-11-30,2015,2779,1610612746,400828148,2,4,30,0,"Pullup Jump shot","2PT Field Goal",11,"Portland Trail Blazers",107,47,10,7.10,"Lillard, Damian",3.30,16.60
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,3,10,09,0,"Pullup Jump shot","2PT Field Goal",10,"Portland Trail Blazers",102,3,1,1.90,"Lillard, Damian",3.20,13.40
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,4,3,40,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",58,154,3,2.60,"Lillard, Damian",3.10,21.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,4,5,07,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",117,213,2,3.10,"Davis, Ed",4.30,3.40
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,2,1,50,0,"Pullup Jump shot","2PT Field Goal",9,"Dallas Mavericks",12,90,5,6.60,"Felton, Raymond",3.50,5.80
+"Chris Paul","Los Angeles Clippers",2015-11-11,2015,2779,1610612746,400828005,3,2,25,0,"Pullup Jump shot","2PT Field Goal",19,"Dallas Mavericks",133,149,13,12.50,"Nowitzki, Dirk",7.20,16.00
+"Chris Paul","Los Angeles Clippers",2015-11-27,2015,2779,1610612746,400828125,1,8,30,0,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",133,101,6,4.00,"Holiday, Jrue",8.80,20.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,2,4,17,1,"Putback Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",1,16,0,0.10,"Asik, Omer",3.80,24.00
+"Chris Paul","Los Angeles Clippers",2016-04-06,2015,2779,1610612746,400829059,3,5,37,0,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-20,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-19,2015,2779,1610612746,400828288,2,0,01,0,"Reverse Layup Shot","2PT Field Goal",2,"Houston Rockets",-20,16,8,6.20,"Thornton, Marcus",3.90,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,2,2,38,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Boston Celtics",19,8,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,2,3,33,0,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",-6,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,7,34,1,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Dallas Mavericks",1,8,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-27,2015,2779,1610612746,400828979,2,3,37,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",-2,13,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,4,1,42,0,"Running Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-79,237,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,3,0,00,1,"Running Jump Shot","3PT Field Goal",30,"Golden State Warriors",-1,301,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-18,2015,2779,1610612746,400828280,3,2,53,0,"Running Jump Shot","2PT Field Goal",7,"San Antonio Spurs",20,75,6,5.30,"Aldridge, LaMarcus",6.60,19.20
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,2,2,38,1,"Running Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",119,11,1,1.20,"Clarkson, Jordan",1.90,20.90
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,2,0,27,0,"Running Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-81,193,2,2.10,"Aminu, Al-Farouq",2.40,21.00
+"Chris Paul","Los Angeles Clippers",2016-01-26,2015,2779,1610612746,400828563,4,3,52,1,"Running Jump Shot","2PT Field Goal",10,"Indiana Pacers",99,23,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,3,11,15,1,"Running Layup Shot","2PT Field Goal",2,"Washington Wizards",-14,26,6,7.10,"Gortat, Marcin",7.60,16.20
+"Chris Paul","Los Angeles Clippers",2015-12-12,2015,2779,1610612746,400828231,1,8,18,1,"Running Layup Shot","2PT Field Goal",0,"Brooklyn Nets",6,7,3,3.10,"Johnson, Joe",14.70,20.80
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,2,0,51,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-4,18,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,1,3,28,1,"Running Layup Shot","2PT Field Goal",2,"Toronto Raptors",22,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,4,5,59,0,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-7,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,3,1,03,1,"Running Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,1,9,21,0,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-17,3,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-04,2015,2779,1610612746,400827956,4,3,27,1,"Running Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,2,0,1.70,"Green, Draymond",7.60,19.80
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,1,11,09,1,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-6,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,1,6,46,1,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",22,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,4,2,42,1,"Running Layup Shot","2PT Field Goal",2,"Utah Jazz",15,16,6,5.40,"Neto, Raul",0.70,19.70
+"Chris Paul","Los Angeles Clippers",2016-02-24,2015,2779,1610612746,400828740,4,1,08,0,"Running Layup Shot","2PT Field Goal",2,"Denver Nuggets",9,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,7,48,0,"Running Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",16,-4,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,3,2,20,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,-1,3,3.30,"Carter-Williams, Michael",6.30,18.30
+"Chris Paul","Los Angeles Clippers",2015-12-09,2015,2779,1610612746,400828211,2,3,05,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,-6,2,2.80,"Antetokounmpo, Giannis",4.30,20.00
+"Chris Paul","Los Angeles Clippers",2016-04-10,2015,2779,1610612746,400829083,3,2,44,0,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",14,18,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,2,0,43,1,"Running Layup Shot","2PT Field Goal",3,"Brooklyn Nets",38,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-09,2015,2779,1610612746,400828842,2,0,54,1,"Running Pull-Up Jump Shot","2PT Field Goal",4,"Oklahoma City Thunder",9,41,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,2,1,36,1,"Running Pull-Up Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-79,154,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-10,2015,2779,1610612746,400828217,4,3,48,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Chicago Bulls",-101,229,2,3.00,"Butler, Jimmy",5.00,19.40
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,3,9,29,1,"Running Pull-Up Jump Shot","2PT Field Goal",11,"Cleveland Cavaliers",-20,110,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,9,15,1,"Running Pull-Up Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",74,134,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-05,2015,2779,1610612746,400829051,3,10,30,1,"Running Pull-Up Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-186,21,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-13,2015,2779,1610612746,400828870,2,6,44,1,"Running Pull-Up Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",9,129,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-20,2015,2779,1610612746,400828073,1,6,13,0,"Running Pull-Up Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",78,56,5,4.10,"Plumlee, Mason",5.50,19.00
+"Chris Paul","Los Angeles Clippers",2015-10-31,2015,2779,1610612746,400827925,2,1,26,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Sacramento Kings",-143,210,4,3.80,"Koufos, Kosta",9.30,19.40
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,3,5,19,1,"Running Pull-Up Jump Shot","2PT Field Goal",10,"Chicago Bulls",-16,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-06,2015,2779,1610612746,400828422,1,8,21,1,"Running Pull-Up Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-81,141,6,4.30,"Lillard, Damian",5.30,18.90
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,4,9,25,0,"Step Back Jump shot","3PT Field Goal",25,"Dallas Mavericks",-179,178,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,2,3,07,1,"Step Back Jump shot","2PT Field Goal",10,"New Orleans Pelicans",84,56,5,5.60,"Evans, Tyreke",5.60,17.90
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,7,54,1,"Step Back Jump shot","2PT Field Goal",19,"Dallas Mavericks",74,175,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,4,11,06,1,"Step Back Jump shot","2PT Field Goal",20,"Dallas Mavericks",-60,198,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-29,2015,2779,1610612746,400828593,1,4,23,1,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",-38,134,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-30,2015,2779,1610612746,400829003,2,5,47,0,"Step Back Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",91,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,2,0,06,1,"Step Back Jump shot","2PT Field Goal",15,"Houston Rockets",120,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,2,1,42,1,"Step Back Jump shot","2PT Field Goal",8,"Houston Rockets",84,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,2,6,46,0,"Step Back Jump shot","2PT Field Goal",14,"Miami Heat",-119,85,6,4.60,"Udrih, Beno",3.30,7.50
+"Chris Paul","Los Angeles Clippers",2016-01-13,2015,2779,1610612746,400828473,2,1,09,0,"Step Back Jump shot","2PT Field Goal",17,"Miami Heat",53,169,15,10.60,"Bosh, Chris",5.30,9.30
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,2,0,01,0,"Step Back Jump shot","3PT Field Goal",28,"New York Knicks",204,193,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-11,2015,2779,1610612746,400828859,3,3,45,0,"Step Back Jump shot","2PT Field Goal",16,"New York Knicks",-97,139,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,3,6,39,1,"Step Back Jump shot","2PT Field Goal",13,"Los Angeles Lakers",127,31,6,7.40,"Hibbert, Roy",3.20,14.10
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,2,0,31,1,"Step Back Jump shot","2PT Field Goal",11,"Golden State Warriors",115,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-20,2015,2779,1610612746,400828709,4,4,57,1,"Step Back Jump shot","2PT Field Goal",9,"Golden State Warriors",-70,70,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-16,2015,2779,1610612746,400828896,4,7,52,1,"Step Back Jump shot","2PT Field Goal",18,"Houston Rockets",-7,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,4,0,30,0,"Step Back Jump shot","3PT Field Goal",23,"Atlanta Hawks",238,2,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-28,2015,2779,1610612746,400828348,3,10,05,1,"Step Back Jump shot","2PT Field Goal",14,"Washington Wizards",81,115,10,7.90,"Oubre, Kelly",3.80,15.40
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,2,0,05,0,"Step Back Jump shot","2PT Field Goal",7,"Atlanta Hawks",56,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-29,2015,2779,1610612746,400828777,4,4,31,0,"Step Back Jump shot","2PT Field Goal",14,"Brooklyn Nets",76,120,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-27,2015,2779,1610612746,400828574,4,6,33,0,"Step Back Jump shot","2PT Field Goal",19,"Atlanta Hawks",-16,190,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,1,9,35,0,"Step Back Jump shot","3PT Field Goal",25,"Los Angeles Lakers",-71,247,8,8.70,"Clarkson, Jordan",2.80,15.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,3,10,29,0,"Step Back Jump shot","2PT Field Goal",16,"Washington Wizards",-142,90,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-03,2015,2779,1610612746,400829034,4,2,01,1,"Step Back Jump shot","2PT Field Goal",13,"Washington Wizards",110,80,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,4,10,14,1,"Step Back Jump shot","3PT Field Goal",25,"Boston Celtics",176,183,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-10,2015,2779,1610612746,400828679,3,3,18,1,"Step Back Jump shot","2PT Field Goal",19,"Boston Celtics",189,56,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,1,8,19,1,"Step Back Jump shot","3PT Field Goal",25,"Sacramento Kings",-63,249,2,2.10,"Rondo, Rajon",6.30,23.50
+"Chris Paul","Los Angeles Clippers",2016-01-16,2015,2779,1610612746,400828496,3,8,58,0,"Step Back Jump shot","2PT Field Goal",19,"Sacramento Kings",-30,195,17,17.20,"Gay, Rudy",4.70,6.20
+"Chris Paul","Los Angeles Clippers",2016-02-22,2015,2779,1610612746,400828726,3,6,49,1,"Step Back Jump shot","2PT Field Goal",13,"Phoenix Suns",109,87,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,4,8,21,0,"Step Back Jump shot","2PT Field Goal",17,"Toronto Raptors",-97,146,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-26,2015,2779,1610612746,400828754,3,3,36,1,"Step Back Jump shot","3PT Field Goal",25,"Sacramento Kings",-1,257,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,6,35,1,"Step Back Jump shot","2PT Field Goal",6,"Oklahoma City Thunder",0,67,6,6.20,"Westbrook, Russell",4.10,16.30
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,2,6,17,0,"Step Back Jump shot","2PT Field Goal",16,"Philadelphia 76ers",43,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,3,6,40,1,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",164,65,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,4,2,06,0,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",140,105,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-08,2015,2779,1610612746,400828664,1,6,32,0,"Step Back Jump shot","2PT Field Goal",17,"Philadelphia 76ers",143,92,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,3,8,10,0,"Step Back Jump shot","2PT Field Goal",20,"Utah Jazz",155,131,7,7.10,"Lyles, Trey",4.00,1.10
+"Chris Paul","Los Angeles Clippers",2015-12-26,2015,2779,1610612746,400828339,2,0,01,0,"Step Back Jump shot","2PT Field Goal",20,"Utah Jazz",164,124,12,11.30,"Lyles, Trey",3.10,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-28,2015,2779,1610612746,400828993,2,1,14,0,"Step Back Jump shot","2PT Field Goal",17,"Boston Celtics",28,175,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-31,2015,2779,1610612746,400828374,4,1,00,1,"Step Back Jump shot","2PT Field Goal",18,"New Orleans Pelicans",-181,56,25,20.50,"Gee, Alonzo",3.70,2.10
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,1,9,46,0,"Step Back Jump shot","2PT Field Goal",14,"Chicago Bulls",141,0,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,1,6,20,0,"Step Back Jump shot","2PT Field Goal",19,"Charlotte Hornets",12,190,11,8.30,"Hairston, PJ",4.00,15.20
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,2,2,48,1,"Step Back Jump shot","2PT Field Goal",14,"San Antonio Spurs",35,139,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,2,5,33,1,"Step Back Jump shot","2PT Field Goal",17,"Charlotte Hornets",102,139,6,5.60,"Roberts, Brian",5.70,17.40
+"Chris Paul","Los Angeles Clippers",2016-01-31,2015,2779,1610612746,400828601,2,0,29,1,"Step Back Jump shot","2PT Field Goal",19,"Chicago Bulls",115,156,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-10,2015,2779,1610612746,400828445,5,1,15,1,"Step Back Jump shot","3PT Field Goal",24,"New Orleans Pelicans",82,232,24,21.70,"Cunningham, Dante",3.70,1.70
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,2,5,32,1,"Step Back Jump shot","2PT Field Goal",14,"Utah Jazz",97,111,10,11.20,"Neto, Raul",7.00,7.40
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,4,2,27,1,"Step Back Jump shot","2PT Field Goal",15,"Charlotte Hornets",28,149,11,8.50,"Lin, Jeremy",5.30,6.60
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,1,7,54,0,"Step Back Jump shot","2PT Field Goal",14,"Utah Jazz",71,129,7,6.70,"Neto, Raul",5.50,17.20
+"Chris Paul","Los Angeles Clippers",2015-10-29,2015,2779,1610612746,400827907,2,0,00,1,"Step Back Jump shot","2PT Field Goal",16,"Dallas Mavericks",107,124,4,9.80,"Powell, Dwight",4.70,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-23,2015,2779,1610612746,400828953,1,11,33,0,"Step Back Jump shot","2PT Field Goal",17,"Golden State Warriors",99,149,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,3,8,16,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",104,115,11,9.00,"Neto, Raul",3.20,10.30
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,1,10,30,0,"Step Back Jump shot","3PT Field Goal",26,"Oklahoma City Thunder",109,242,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-04-12,2015,2779,1610612746,400829103,1,3,42,1,"Step Back Jump shot","2PT Field Goal",7,"Memphis Grizzlies",-12,70,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-02,2015,2779,1610612746,400828794,2,4,27,1,"Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-9,7,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-05,2015,2779,1610612746,400828816,3,0,51,0,"Turnaround Fadeaway shot","2PT Field Goal",6,"Atlanta Hawks",-68,8,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-12-30,2015,2779,1610612746,400828361,4,4,00,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Charlotte Hornets",-83,95,9,9.10,"Walker, Kemba",3.40,2.70
+"Chris Paul","Los Angeles Clippers",2015-11-19,2015,2779,1610612746,400828064,2,4,19,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Golden State Warriors",50,121,6,8.30,"Thompson, Klay",3.40,10.40
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,3,32,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Dallas Mavericks",125,11,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-03-07,2015,2779,1610612746,400828829,3,10,38,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Dallas Mavericks",15,61,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-25,2015,2779,1610612746,400828113,3,4,15,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Utah Jazz",-7,124,5,4.50,"Neto, Raul",2.00,1.30
+"Chris Paul","Los Angeles Clippers",2016-03-19,2015,2779,1610612746,400828922,3,7,04,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Memphis Grizzlies",-101,16,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-09,2015,2779,1610612746,400828437,3,2,53,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Charlotte Hornets",22,105,7,6.00,"Walker, Kemba",6.40,17.90
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,4,0,45,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Los Angeles Lakers",-94,85,11,13.70,"Russell, D'Angelo",4.70,2.00
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,1,2,35,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Oklahoma City Thunder",-68,72,4,5.70,"Augustin, D.J.",2.80,3.50
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,2,1,35,0,"Turnaround Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-133,51,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-02-18,2015,2779,1610612746,0,4,6,11,1,"Turnaround Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-97,46,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2016-01-24,2015,2779,1610612746,400828553,1,5,34,1,"Turnaround Jump Shot","2PT Field Goal",18,"Toronto Raptors",-86,159,0,0.00,,0.00,0.00
+"Chris Paul","Los Angeles Clippers",2015-11-24,2015,2779,1610612746,400828099,3,6,10,1,"Turnaround Jump Shot","2PT Field Goal",16,"Denver Nuggets",166,13,23,19.40,"Jokic, Nikola",4.80,4.90
+"Chris Paul","Los Angeles Clippers",2015-12-21,2015,2779,1610612746,400828305,3,6,16,1,"Turnaround Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",-97,11,9,9.60,"Ibaka, Serge",4.10,13.30
+"Chris Paul","Los Angeles Clippers",2015-12-25,2015,2779,1610612746,400828327,3,2,48,1,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-68,120,7,6.80,"Clarkson, Jordan",4.90,15.30

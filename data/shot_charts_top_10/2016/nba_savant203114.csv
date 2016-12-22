@@ -1,0 +1,1129 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,4,2,50,1,"Cutting Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.60,"Stauskas, Nik",3.90,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,2,4,44,1,"Cutting Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.60,"Mahinmi, Ian",6.20,14.80
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,2,6,02,1,"Cutting Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.70,"Temple, Garrett",1.10,16.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,1,5,15,1,"Cutting Layup Shot","2PT Field Goal",0,"Orlando Magic",-1,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,3,9,33,1,"Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-1,2,0,1.00,"Mbah a Moute, Luc",3.00,11.90
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,8,08,1,"Cutting Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",2,2,0,0.00,"Williams, Lou",5.90,23.60
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,1,6,22,0,"Driving Bank shot","2PT Field Goal",10,"Brooklyn Nets",96,46,5,4.30,"Johnson, Joe",2.40,8.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,3,2,46,0,"Driving Bank shot","2PT Field Goal",12,"Atlanta Hawks",115,43,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,2,5,23,1,"Driving Bank shot","2PT Field Goal",10,"Dallas Mavericks",-92,56,2,2.90,"Harris, Devin",3.50,6.40
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,1,8,43,0,"Driving Bank shot","2PT Field Goal",5,"Orlando Magic",-34,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,1,5,39,1,"Driving Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,2,1,35,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",-1,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,3,1,21,1,"Driving Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,2,2.60,"Green, Danny",1.70,10.70
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,2,05,1,"Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,4,11,12,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,1,1.70,"Randle, Julius",11.70,22.20
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,3,4,43,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,-6,2,1.80,"Gooden, Drew",2.00,18.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,1,10,22,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Washington Wizards",-4,0,0,1.00,"Wall, John",3.00,24.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,10,35,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-17,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,3,5,40,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Detroit Pistons",-6,2,3,2.40,"Caldwell-Pope, Kentavious",4.60,11.60
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,3,6,00,1,"Driving Floating Bank Jump Shot","2PT Field Goal",10,"Washington Wizards",101,43,1,1.00,"Wall, John",4.20,8.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,2,6,48,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Miami Heat",55,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,2,0,45,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Dallas Mavericks",27,31,8,6.70,"Matthews, Wesley",2.00,9.70
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,4,4,55,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Houston Rockets",-43,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,2,10,30,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Toronto Raptors",-58,46,2,3.10,"Biyombo, Bismack",4.70,12.00
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,8,58,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-9,61,1,1.60,"Hairston, PJ",2.20,14.90
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,1,15,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Atlanta Hawks",30,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,0,27,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Miami Heat",42,108,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,1,20,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Chicago Bulls",-66,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,3,12,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Chicago Bulls",-48,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,2,0,52,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Toronto Raptors",22,61,1,2.00,"Biyombo, Bismack",3.00,7.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,0,00,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Dallas Mavericks",-38,85,0,0.00,"Harris, Devin",14.60,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,9,16,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-2,85,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,8,47,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Detroit Pistons",-35,20,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,1,52,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Boston Celtics",-7,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,3,7,01,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Boston Celtics",55,46,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,3,6,53,0,"Driving Floating Jump Shot","2PT Field Goal",12,"Atlanta Hawks",122,33,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,1,15,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-48,8,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,1,54,0,"Driving Hook Shot","2PT Field Goal",5,"Houston Rockets",-11,51,2,3.50,"Thornton, Marcus",2.30,9.90
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,3,1,56,1,"Driving Hook Shot","2PT Field Goal",7,"Toronto Raptors",20,74,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,3,7,34,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,0,2,1.90,"Drummond, Andre",2.40,11.80
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,4,2,37,0,"Driving Layup Shot","2PT Field Goal",2,"Toronto Raptors",17,11,5,4.20,"Patterson, Patrick",2.00,2.30
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,5,49,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,3,2,43,0,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",-30,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,5,58,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,4,24,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-12,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,7,19,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-4,-11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,3,2,52,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-11,21,2,3.60,"Matthews, Wesley",2.20,13.10
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,2,1,01,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",4,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,2,0,04,0,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,3,59,0,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-17,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,4,4,03,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",-2,-1,2,2.20,"Chandler, Tyson",2.80,9.80
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,2,1,38,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",14,28,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,4,7,37,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",-24,-1,4,5.70,"Chandler, Tyson",2.10,11.70
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,1,0,31,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",22,8,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,5,41,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-20,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,1,50,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-25,2,2,2.80,"Gibson, Taj",2.10,14.20
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,5,33,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",2,0,3,2.00,"Matthews, Wesley",4.30,8.10
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,11,03,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-7,-16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,9,33,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-11,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,1,9,39,1,"Driving Layup Shot","2PT Field Goal",4,"Phoenix Suns",-44,10,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,4,11,25,1,"Driving Layup Shot","2PT Field Goal",3,"Toronto Raptors",-25,21,1,4.20,"Ross, Terrence",3.20,11.40
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,1,1,22,1,"Driving Layup Shot","2PT Field Goal",3,"Golden State Warriors",1,31,0,0.60,"Curry, Stephen",1.10,19.60
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,4,3,42,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,2,4,4.60,"Kanter, Enes",2.80,12.70
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,8,07,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,3,10,30,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-9,8,2,2.90,"Pachulia, Zaza",1.40,9.30
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,2,0,32,1,"Driving Layup Shot","2PT Field Goal",3,"Utah Jazz",-27,28,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,4,7,44,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",19,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,1,0,51,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",17,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,0,59,1,"Driving Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",4,-5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,3,1,17,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",-12,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,1,3,20,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",-9,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,6,16,1,"Driving Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-37,15,3,6.20,"Horford, Al",2.30,10.50
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,9,46,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-27,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,1,9,43,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",9,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,4,8,35,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,-16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,4,9,58,1,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-20,2,5,5.30,"Lin, Jeremy",4.10,9.60
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,7,49,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",25,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,3,27,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-12,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,1,36,1,"Driving Layup Shot","2PT Field Goal",5,"Atlanta Hawks",-50,-6,1,5.10,"Korver, Kyle",2.60,14.80
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,1,2,53,1,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-7,-1,4,5.10,"West, David",2.20,11.20
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,7,39,0,"Driving Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",3,34,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,2,3,54,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",22,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,5,1,13,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-12,11,0,0.80,"Jefferson, Richard",4.30,10.80
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,2,4,24,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",9,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,0,23,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,2,3,33,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,2,2.30,"Winslow, Justise",4.60,22.70
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,1,7,23,0,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,5,4.00,"Plumlee, Mason",3.40,21.20
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,8,22,1,"Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,4,1,12,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,3,11,39,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Miami Heat",-151,7,2,2.60,"Deng, Luol",2.70,6.80
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,4,4,23,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-160,28,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,1,4,19,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Detroit Pistons",119,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,2,3,43,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",161,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,2,1,43,1,"Fadeaway Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-97,57,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,9,34,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Chicago Bulls",125,-21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,4,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Denver Nuggets",-197,-1,2,2.00,"Faried, Kenneth",1.30,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,1,0,00,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Denver Nuggets",-227,124,0,0.60,"Papanikolaou, Kostas",3.60,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,0,37,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Houston Rockets",-191,-11,1,1.40,"Brewer, Corey",4.00,15.70
+"Khris Middleton","Milwaukee Bucks",2016-04-13,2015,6609,1610612749,400829112,1,5,47,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Indiana Pacers",114,92,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,0,45,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Orlando Magic",-24,195,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,2,0,01,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Denver Nuggets",84,180,4,3.80,"Gallinari, Danilo",4.40,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,3,0,59,1,"Fadeaway Jump Shot","2PT Field Goal",5,"Orlando Magic",-7,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,10,25,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",-109,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,1,3,59,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Phoenix Suns",-148,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,2,2,31,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Charlotte Hornets",148,70,2,4.10,"Lin, Jeremy",2.00,7.10
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,2,3,16,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Orlando Magic",112,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,3,7,13,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-148,105,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,6,28,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-158,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,1,11,00,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Washington Wizards",-112,41,2,4.10,"Porter, Otto",1.30,19.40
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,2,2,12,1,"Fadeaway Jump Shot","2PT Field Goal",20,"Chicago Bulls",-204,-16,1,0.90,"Butler, Jimmy",4.60,5.10
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,3,2,46,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-140,-6,3,4.80,"Paul, Chris",2.30,9.30
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,0,00,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Chicago Bulls",-137,-21,0,0.40,"Portis, Bobby",4.60,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,10,17,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",-63,31,0,1.90,"Clarkson, Jordan",2.80,10.30
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,1,52,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Charlotte Hornets",1,13,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,1,0,45,1,"Floating Jump shot","2PT Field Goal",11,"Charlotte Hornets",99,61,12,10.30,"Batum, Nicolas",0.20,13.50
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,10,07,0,"Floating Jump shot","2PT Field Goal",10,"Miami Heat",-48,90,1,1.40,"Wade, Dwyane",3.90,11.40
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,6,54,0,"Floating Jump shot","2PT Field Goal",12,"Toronto Raptors",6,120,2,2.70,"DeRozan, DeMar",4.30,8.80
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,2,10,1,"Floating Jump shot","2PT Field Goal",5,"Chicago Bulls",42,31,6,7.00,"Portis, Bobby",2.40,17.10
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,1,27,0,"Floating Jump shot","2PT Field Goal",8,"Charlotte Hornets",86,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,3,0,00,1,"Floating Jump shot","2PT Field Goal",11,"Utah Jazz",-35,108,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,1,0,11,1,"Floating Jump shot","2PT Field Goal",10,"San Antonio Spurs",-102,26,1,1.50,"Leonard, Kawhi",3.80,6.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,5,15,0,"Floating Jump shot","2PT Field Goal",7,"Orlando Magic",19,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,1,1,26,1,"Floating Jump shot","2PT Field Goal",12,"Indiana Pacers",-12,121,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,3,39,0,"Floating Jump shot","2PT Field Goal",9,"Memphis Grizzlies",-48,77,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,2,2,43,1,"Floating Jump shot","2PT Field Goal",5,"Phoenix Suns",-1,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,1,8,15,1,"Floating Jump shot","2PT Field Goal",11,"Boston Celtics",33,115,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,2,0,17,1,"Floating Jump shot","2PT Field Goal",15,"Philadelphia 76ers",27,149,2,2.40,"Thompson, Hollis",1.60,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,3,11,12,1,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Lakers",-20,65,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,3,9,39,0,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Lakers",63,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,2,32,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",-73,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,4,7,18,1,"Floating Jump shot","2PT Field Goal",4,"Detroit Pistons",-42,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,3,9,26,1,"Floating Jump shot","2PT Field Goal",8,"Orlando Magic",2,85,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,0,43,1,"Floating Jump shot","2PT Field Goal",4,"Chicago Bulls",-14,41,9,8.20,"Portis, Bobby",1.60,14.90
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,4,7,20,1,"Floating Jump shot","2PT Field Goal",9,"Houston Rockets",-37,87,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,0,54,0,"Floating Jump shot","2PT Field Goal",10,"Brooklyn Nets",71,80,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,1,11,21,1,"Floating Jump shot","2PT Field Goal",6,"Phoenix Suns",51,46,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,3,1,20,0,"Floating Jump shot","2PT Field Goal",7,"New York Knicks",56,56,5,4.20,"Calderon, Jose",2.20,10.30
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,11,38,0,"Floating Jump shot","2PT Field Goal",10,"Portland Trail Blazers",1,101,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,2,0,17,1,"Floating Jump shot","2PT Field Goal",11,"Toronto Raptors",6,111,0,0.00,"DeRozan, DeMar",1.90,14.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,4,5,02,0,"Floating Jump shot","2PT Field Goal",11,"Houston Rockets",-115,26,4,4.20,"Ariza, Trevor",3.40,9.70
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,1,0,49,0,"Floating Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",9,124,3,2.50,"Prince, Tayshaun",1.60,14.80
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,1,7,53,1,"Hook Shot","2PT Field Goal",12,"Detroit Pistons",-106,72,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,3,6,32,0,"Hook Shot","2PT Field Goal",5,"Detroit Pistons",50,21,1,1.60,"Morris, Marcus",2.40,15.70
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,2,1,47,0,"Hook Shot","2PT Field Goal",6,"San Antonio Spurs",61,11,1,2.80,"Simmons, Jonathon",2.20,16.30
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,2,11,10,0,"Hook Shot","2PT Field Goal",9,"Indiana Pacers",-61,70,2,1.50,"Robinson, Glenn",0.30,16.20
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,2,4,00,0,"Hook Shot","2PT Field Goal",7,"Miami Heat",-71,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,3,0,26,1,"Jump Bank Shot","2PT Field Goal",6,"Brooklyn Nets",-58,31,2,2.20,"Johnson, Joe",3.50,11.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,1,4,58,0,"Jump Bank Shot","2PT Field Goal",12,"Minnesota Timberwolves",-117,28,6,4.90,"Prince, Tayshaun",2.70,5.30
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,4,19,1,"Jump Bank Shot","2PT Field Goal",8,"New York Knicks",-71,46,8,7.40,"Thomas, Lance",2.80,16.10
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,7,59,0,"Jump Bank Shot","2PT Field Goal",7,"Phoenix Suns",73,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,1,2,31,0,"Jump Bank Shot","2PT Field Goal",15,"San Antonio Spurs",-132,80,2,3.00,"Leonard, Kawhi",0.40,8.60
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,4,2,09,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-232,38,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,3,4,26,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-20,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,7,35,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-145,198,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,4,3,34,0,"Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",-25,54,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,3,10,10,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-242,34,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,2,2,43,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",120,175,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,1,2,43,0,"Jump Shot","2PT Field Goal",13,"Orlando Magic",91,106,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,2,3,42,1,"Jump Shot","2PT Field Goal",22,"Toronto Raptors",-38,221,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,0,16,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",9,254,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,1,10,13,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-92,31,1,2.40,"McCollum, CJ",2.00,1.60
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,3,10,38,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-204,11,0,0.60,"Lillard, Damian",3.70,8.70
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,1,6,18,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",-161,77,3,2.70,"McCollum, CJ",2.00,12.20
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,3,0,03,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-173,185,0,1.80,"Crabbe, Allen",2.10,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,4,6,48,1,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-178,198,0,0.10,"McCollum, CJ",12.30,16.80
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,3,10,03,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",232,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,4,2,18,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",191,159,0,0.70,"Crabbe, Allen",4.20,6.90
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,2,8,03,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",109,234,0,1.00,"Harkless, Maurice",2.90,12.90
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,2,3,09,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",235,18,0,0.00,"Henderson, Gerald",7.10,12.90
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,2,10,38,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-233,116,0,0.70,"Harkless, Maurice",5.00,3.50
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,4,3,50,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-189,180,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,2,0,16,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-237,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,1,10,42,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-237,8,0,0.80,"Prince, Tayshaun",10.90,8.30
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,2,0,01,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",191,47,5,4.80,"Lin, Jeremy",2.10,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,2,0,53,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",151,90,0,2.30,"Lin, Jeremy",2.80,11.40
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,4,8,07,0,"Jump Shot","2PT Field Goal",11,"Charlotte Hornets",-102,51,7,6.50,"Batum, Nicolas",0.80,8.20
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,1,8,14,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-137,198,0,0.70,"Batum, Nicolas",4.80,8.40
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,1,1,30,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-86,165,1,1.70,"Batum, Nicolas",5.20,15.90
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,1,0,12,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",146,208,16,16.10,"Batum, Nicolas",2.90,7.40
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,7,28,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",45,257,0,0.80,"Ross, Terrence",5.80,14.00
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,1,3,44,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-209,174,2,2.00,"Griffin, Blake",5.00,5.70
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,3,6,38,0,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",114,57,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,3,2,57,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",156,41,2,2.00,"Griffin, Blake",7.20,15.50
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,4,3,52,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-181,205,0,1.10,"Redick, JJ",2.10,14.20
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,1,2,54,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",225,51,0,0.80,"Johnson, Wesley",13.10,14.50
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,3,11,47,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-94,134,0,0.70,"Redick, JJ",2.70,14.50
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,2,3,09,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-161,67,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,1,25,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-42,249,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,1,02,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-191,164,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,2,4,51,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-174,56,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,3,8,20,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-235,47,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,1,4,36,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",9,239,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,3,10,20,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",148,134,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,2,0,01,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-140,223,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,0,45,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",164,195,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,1,6,06,0,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",-9,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,3,9,46,1,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",140,100,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,1,2,23,0,"Jump Shot","2PT Field Goal",7,"Toronto Raptors",74,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,2,3,08,0,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",130,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,2,4,34,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",163,195,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,4,3,42,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-150,110,1,2.30,"Thompson, Hollis",3.80,9.40
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,3,4,47,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",159,196,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,4,0,34,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-7,247,1,1.50,"Green, Draymond",1.90,20.40
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,4,8,45,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-174,21,1,5.50,"Ross, Terrence",2.70,14.60
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,1,04,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-24,198,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,4,8,07,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-191,156,0,1.10,"Young, Nick",3.40,15.10
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,11,07,0,"Jump Shot","2PT Field Goal",21,"Los Angeles Lakers",-183,116,2,1.70,"Williams, Lou",5.50,17.90
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,5,06,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",112,218,0,0.80,"Hibbert, Roy",6.80,14.60
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,1,09,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",132,26,0,0.40,"Sacre, Robert",1.80,0.40
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,4,6,52,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",1,33,9,7.30,"Randle, Julius",0.30,14.60
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,1,51,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",-24,36,1,1.30,"Williams, Lou",2.10,11.30
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,3,3,17,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",150,205,0,0.90,"Clarkson, Jordan",1.70,10.30
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,3,6,35,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",230,8,0,0.90,"Clarkson, Jordan",3.00,20.40
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,2,21,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-133,67,0,2.50,"Williams, Lou",3.30,11.80
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,1,8,06,1,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",115,31,4,3.70,"Curry, Stephen",2.80,20.50
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,4,6,22,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",192,-6,1,1.40,"Deng, Luol",2.20,2.20
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,1,23,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-122,120,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,2,1,43,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",66,154,2,3.40,"Deng, Luol",3.80,12.10
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,3,2,42,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",217,110,0,1.10,"Richardson, Josh",3.80,9.70
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,3,11,03,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-158,95,1,0.90,"Deng, Luol",3.60,11.60
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,4,7,09,1,"Jump Shot","2PT Field Goal",16,"Miami Heat",-91,141,0,0.80,"Richardson, Josh",4.00,7.90
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,10,44,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-207,124,1,2.00,"Wade, Dwyane",3.20,24.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,5,22,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-88,11,7,6.70,"Wade, Dwyane",1.30,8.40
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,9,01,1,"Jump Shot","3PT Field Goal",22,"Miami Heat",-228,23,0,2.30,"Whiteside, Hassan",1.50,9.90
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,3,2,00,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",-130,115,0,3.30,"Richardson, Josh",2.20,5.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,0,29,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-210,120,4,5.30,"Green, Gerald",3.50,18.30
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,7,20,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-143,77,10,9.40,"Wade, Dwyane",4.10,15.20
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,3,20,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-184,43,0,1.10,"Winslow, Justise",7.10,10.90
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,3,11,00,1,"Jump Shot","2PT Field Goal",15,"Washington Wizards",153,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,5,38,1,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",130,56,1,2.10,"Millsap, Paul",7.70,16.30
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,8,23,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-165,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,0,54,1,"Jump Shot","2PT Field Goal",7,"Washington Wizards",-68,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,5,43,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",1,264,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,6,49,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",117,134,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,1,57,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",220,111,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,2,21,1,"Jump Shot","2PT Field Goal",11,"Washington Wizards",112,-15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,2,0,01,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-245,87,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,5,0,27,0,"Jump Shot","2PT Field Goal",14,"Atlanta Hawks",148,-6,0,0.20,"Teague, Jeff",4.00,6.90
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,4,11,17,0,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",135,33,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,2,49,0,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",137,159,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,4,3,52,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-30,239,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,10,59,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-7,239,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,2,4,20,0,"Jump Shot","2PT Field Goal",22,"Brooklyn Nets",-86,203,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,4,1,01,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-181,175,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,4,8,31,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-214,134,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,2,25,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-205,156,0,1.20,"Thomas, Lance",5.20,10.10
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,3,5,13,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",94,244,0,1.00,"Leonard, Kawhi",3.50,11.60
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,3,3,19,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",168,-5,1,3.80,"Ross, Terrence",1.80,1.50
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,1,3,25,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-165,62,1,3.30,"Afflalo, Arron",3.90,9.20
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,3,11,29,0,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",-12,82,2,1.70,"Green, Danny",2.30,13.00
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,3,8,37,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",230,43,0,0.80,"Afflalo, Arron",4.20,8.50
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,3,5,08,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",-76,7,3,6.20,"Galloway, Langston",2.30,7.20
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,2,2,00,1,"Jump Shot","2PT Field Goal",12,"New York Knicks",127,-15,0,0.40,"Afflalo, Arron",4.50,3.40
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,3,9,04,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",155,43,5,3.10,"Afflalo, Arron",3.00,17.70
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,1,10,04,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",137,-21,3,2.20,"Afflalo, Arron",3.10,4.00
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,1,7,13,0,"Jump Shot","2PT Field Goal",9,"New York Knicks",-27,95,1,2.00,"Afflalo, Arron",2.60,13.50
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,1,8,01,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-9,62,3,3.80,"Lopez, Robin",3.20,17.50
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,8,34,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-37,241,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,4,57,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-181,105,4,4.70,"Korver, Kyle",3.50,14.80
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,3,5,10,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",30,169,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,4,9,12,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-237,-29,0,0.70,"Thomas, Lance",3.40,17.40
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,10,25,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",69,169,2,2.50,"Afflalo, Arron",2.70,14.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,2,4,25,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-110,129,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,4,26,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-158,74,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,2,5,46,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",15,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,4,3,31,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-142,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,7,08,1,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",-42,98,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,4,6,27,0,"Jump Shot","2PT Field Goal",7,"Detroit Pistons",15,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,2,3,24,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-237,-8,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,11,04,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",168,180,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,2,5,02,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-120,211,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,9,54,0,"Jump Shot","2PT Field Goal",11,"Detroit Pistons",114,31,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,7,05,0,"Jump Shot","2PT Field Goal",18,"Minnesota Timberwolves",43,175,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,1,9,48,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-74,149,0,0.80,"Redick, JJ",1.30,11.90
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,2,2,25,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",212,120,0,0.80,"George, Paul",4.40,13.10
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,1,6,31,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",38,165,0,0.90,"Green, Danny",3.90,10.90
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,3,1,47,1,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-12,178,2,2.10,"Simmons, Jonathon",2.60,13.40
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,4,6,33,1,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",73,144,1,1.40,"West, David",4.20,14.70
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,4,5,31,0,"Jump Shot","3PT Field Goal",28,"San Antonio Spurs",-210,188,0,0.80,"Simmons, Jonathon",2.20,18.50
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,2,3,53,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",-169,200,0,1.90,"Simmons, Jonathon",1.50,3.00
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,4,8,13,0,"Jump Shot","3PT Field Goal",26,"San Antonio Spurs",0,262,0,0.70,"Leonard, Kawhi",2.80,16.80
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,3,0,05,0,"Jump Shot","2PT Field Goal",11,"San Antonio Spurs",-114,16,7,5.60,"Simmons, Jonathon",3.30,5.30
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,2,1,22,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",158,8,4,3.90,"Korver, Kyle",3.40,5.60
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,2,0,30,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",-194,-15,0,0.30,"Horford, Al",5.20,7.90
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,10,01,0,"Jump Shot","2PT Field Goal",13,"Atlanta Hawks",132,31,0,0.80,"Korver, Kyle",5.60,15.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,1,41,0,"Jump Shot","2PT Field Goal",20,"Atlanta Hawks",-169,121,13,12.50,"Korver, Kyle",3.40,9.70
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,3,5,19,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",-199,169,0,0.80,"Korver, Kyle",5.30,23.30
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,0,48,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",0,273,1,1.70,"Hardaway Jr., Tim",3.80,1.40
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,4,49,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-189,198,0,1.30,"Korver, Kyle",5.30,17.30
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,0,56,0,"Jump Shot","2PT Field Goal",21,"Atlanta Hawks",-179,121,1,2.70,"Hardaway Jr., Tim",4.10,9.80
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,9,17,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",104,237,0,1.10,"Horford, Al",6.40,9.90
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,4,9,32,1,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",-30,7,1,1.20,"Lin, Jeremy",2.00,12.40
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,1,11,21,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-74,169,2,2.20,"Batum, Nicolas",3.90,8.20
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,1,4,18,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-22,151,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,1,5,20,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",197,160,0,0.80,"Ellis, Monta",5.30,18.50
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,9,50,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-176,-31,0,0.20,"Ellis, Monta",1.90,9.60
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,8,11,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",227,75,0,0.80,"Allen, Lavoy",7.80,19.30
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,1,6,14,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",235,-21,0,0.80,"Allen, Lavoy",6.30,17.70
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,1,11,40,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-124,237,0,0.70,"Ellis, Monta",3.10,6.50
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,9,36,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",104,218,0,0.60,"Ellis, Monta",3.60,21.50
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,4,0,24,0,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-11,218,19,16.00,"Hill, Solomon",3.40,6.40
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,1,0,03,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-1,195,3,2.50,"George, Paul",1.60,1.80
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,3,2,59,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-184,0,0,0.00,"Thomas, Lance",6.10,6.20
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,3,6,19,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",-174,-6,1,1.80,"Afflalo, Arron",6.50,12.70
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,3,5,38,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-207,149,6,5.90,"Porzingis, Kristaps",5.10,8.30
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,2,2,25,0,"Jump Shot","2PT Field Goal",4,"New York Knicks",-37,16,2,2.40,"Afflalo, Arron",0.10,2.80
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,5,26,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",-119,61,3,3.70,"Afflalo, Arron",2.10,13.60
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,2,3,48,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",-32,11,0,0.60,"Porzingis, Kristaps",5.50,9.40
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,2,49,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",71,-1,0,0.70,"Porzingis, Kristaps",3.60,5.90
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,2,1,52,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-40,46,1,2.30,"Afflalo, Arron",0.40,8.10
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,4,5,18,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-1,244,0,1.00,"Scola, Luis",13.30,17.80
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,0,01,1,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",104,129,1,1.80,"DeRozan, DeMar",2.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,2,2,11,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",122,210,0,1.00,"DeRozan, DeMar",11.70,9.60
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,7,52,0,"Jump Shot","2PT Field Goal",6,"Toronto Raptors",14,62,2,2.40,"Johnson, James",2.30,7.40
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,3,2,09,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-155,200,0,0.10,"Ross, Terrence",6.90,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,1,6,25,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",117,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,3,11,34,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",173,174,0,0.90,"Johnson, James",8.00,7.40
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,3,6,18,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-130,224,0,1.00,"Johnson, James",4.30,5.20
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,3,4,13,1,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-171,26,2,2.60,"Batum, Nicolas",2.80,15.50
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,4,4,01,1,"Jump Shot","2PT Field Goal",6,"Toronto Raptors",58,16,1,0.90,"Ross, Terrence",2.60,6.60
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,1,18,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",-145,75,3,6.20,"DeRozan, DeMar",3.10,6.00
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,3,10,24,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",232,-21,0,0.70,"DeRozan, DeMar",10.80,13.10
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,4,54,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",217,120,0,0.80,"DeRozan, DeMar",4.70,11.50
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,3,28,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-212,31,1,1.80,"Joseph, Cory",4.50,5.80
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,4,6,53,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-212,136,0,0.80,"Ross, Terrence",5.30,8.30
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,5,35,0,"Jump Shot","2PT Field Goal",10,"Chicago Bulls",43,95,4,3.30,"Gibson, Taj",2.50,17.70
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,0,56,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-238,56,0,1.20,"Butler, Jimmy",4.20,16.10
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,4,11,1,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",-227,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,3,5,31,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-66,178,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,2,0,49,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",91,232,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,11,42,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",53,187,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,3,29,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-147,208,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,0,00,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-65,170,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,3,8,50,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",200,164,0,0.80,"Butler, Jimmy",4.40,17.90
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,4,5,02,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",79,242,0,0.70,"Rose, Derrick",5.40,11.30
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,2,0,34,1,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",86,203,1,1.20,"Butler, Jimmy",2.30,14.30
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,3,56,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",91,233,1,1.20,"Butler, Jimmy",4.20,14.90
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,5,17,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",153,208,0,0.80,"Mirotic, Nikola",5.80,16.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,9,20,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-232,2,0,0.90,"Rose, Derrick",3.50,10.50
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,3,0,31,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",91,223,0,0.70,"Butler, Jimmy",3.20,16.40
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,1,11,34,1,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-184,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,1,51,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-161,52,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,1,0,53,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-245,-11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,1,0,50,0,"Jump Shot","2PT Field Goal",13,"Miami Heat",-97,97,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,1,8,19,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-7,264,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,4,41,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-89,229,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,10,39,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",159,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,7,30,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-165,188,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,2,5,45,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-191,-3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,2,0,31,0,"Jump Shot","2PT Field Goal",21,"Miami Heat",-138,160,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,1,8,19,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-240,-15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,3,50,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",186,170,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,8,00,0,"Jump Shot","2PT Field Goal",21,"Minnesota Timberwolves",-129,175,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,4,56,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-104,231,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,9,59,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-112,223,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,2,02,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",169,168,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,2,27,0,"Jump Shot","2PT Field Goal",3,"Minnesota Timberwolves",-16,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,1,38,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",107,216,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,0,33,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",89,226,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,0,01,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",76,232,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,1,4,13,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",27,100,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,2,2,06,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",151,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,4,25,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-230,113,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,5,16,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",238,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,8,06,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-84,182,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,2,29,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-130,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,3,0,32,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-143,124,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,3,30,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",140,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,2,1,15,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-227,-21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,2,0,06,0,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",127,52,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,2,52,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",40,237,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,1,20,1,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",-70,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,3,10,23,1,"Jump Shot","2PT Field Goal",4,"Memphis Grizzlies",1,43,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,1,3,44,1,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-173,26,0,0.90,"Thompson, Hollis",3.60,13.50
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,1,10,39,1,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",236,-10,0,0.70,"Sampson, JaKarr",4.90,11.70
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,2,5,16,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",96,237,0,0.50,"Thompson, Hollis",11.80,8.40
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,4,6,09,0,"Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",33,57,1,2.30,"Canaan, Isaiah",1.00,16.30
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,2,26,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-176,56,1,6.60,"Nowitzki, Dirk",4.90,7.10
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,1,2,42,0,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",-83,56,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,4,0,15,0,"Jump Shot","3PT Field Goal",27,"Miami Heat",-120,244,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,1,7,10,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",-147,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-79,232,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,4,0,57,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-88,237,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,9,34,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-209,129,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,2,4,40,0,"Jump Shot","2PT Field Goal",12,"Miami Heat",101,77,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,0,40,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",110,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,9,34,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-148,224,8,7.50,"Green, Draymond",5.10,15.80
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,4,01,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-30,188,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,7,06,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-242,4,0,0.70,"Green, Draymond",3.10,14.80
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,5,28,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-151,26,3,9.30,"Curry, Stephen",3.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,6,16,1,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-124,-11,1,2.00,"Rush, Brandon",3.00,14.20
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,4,10,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-209,169,0,1.00,"Iguodala, Andre",4.30,13.20
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,3,1,13,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",141,116,1,1.40,"Iguodala, Andre",4.50,7.80
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,3,10,25,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-129,16,7,9.40,"Bogut, Andrew",3.80,14.90
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,4,1,37,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",125,146,2,2.20,"Iguodala, Andre",3.30,0.90
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,3,7,34,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-173,200,0,0.90,"Thompson, Klay",3.10,7.30
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,3,6,34,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",-56,13,2,4.60,"Curry, Stephen",0.50,6.10
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,0,03,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",194,7,0,0.60,"Len, Alex",5.10,2.20
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,4,3,00,1,"Jump Shot","2PT Field Goal",22,"Phoenix Suns",-173,139,1,1.30,"Tucker, PJ",2.90,13.40
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,1,5,39,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",14,247,0,1.30,"Tucker, PJ",3.60,12.50
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,1,54,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",127,218,0,0.90,"Morris, Markieff",5.40,17.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,1,21,1,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",-92,87,1,1.60,"Warren, TJ",3.60,14.40
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,4,08,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-169,-24,1,1.20,"Tucker, PJ",2.20,7.10
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,2,4,54,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,31,0,0.50,"Warren, TJ",5.40,16.90
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,4,2,24,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-212,154,2,3.20,"Tucker, PJ",4.00,6.10
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,6,22,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-163,208,0,1.20,"Tucker, PJ",5.10,12.10
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,1,7,06,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-237,65,1,1.10,"Wall, John",2.90,16.20
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,4,7,16,1,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-233,2,0,0.90,"Oubre, Kelly",20.80,17.20
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,4,0,05,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",173,203,6,4.80,"Dudley, Jared",4.90,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,4,8,25,1,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-145,7,1,1.50,"Oubre, Kelly",2.00,11.80
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,4,5,54,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-233,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,1,04,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-125,214,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,4,11,23,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",146,208,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,9,22,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",35,178,2,2.20,"Matthews, Wesley",3.10,15.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,2,0,32,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",-96,16,2,2.10,"Temple, Garrett",2.70,22.40
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,3,0,06,0,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-165,-11,19,19.30,"Beal, Bradley",0.80,4.40
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,11,36,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",119,234,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,1,6,20,0,"Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",19,59,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,4,7,31,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",56,234,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,4,0,30,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",177,65,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,4,2,47,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",81,232,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,3,2,53,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-169,11,4,3.50,"Matthews, Wesley",7.50,8.50
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,3,11,08,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-107,232,7,7.90,"Parsons, Chandler",5.40,3.60
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,2,1,43,0,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-114,47,2,5.00,"Felton, Raymond",1.70,12.30
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,3,6,38,0,"Jump Shot","2PT Field Goal",11,"Miami Heat",-91,62,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,4,4,51,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-101,131,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,5,47,0,"Jump Shot","2PT Field Goal",22,"Chicago Bulls",-38,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,3,7,10,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-74,239,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,1,8,58,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-238,95,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,10,46,0,"Jump Shot","3PT Field Goal",28,"Phoenix Suns",-135,252,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,1,05,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-230,111,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,4,13,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",133,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,7,10,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-101,178,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,3,09,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",176,-16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,3,0,13,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",-161,126,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,3,3,56,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-101,242,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,2,6,05,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-214,144,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,2,6,38,0,"Jump Shot","2PT Field Goal",3,"Orlando Magic",17,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,4,5,28,0,"Jump Shot","2PT Field Goal",13,"Boston Celtics",-130,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,4,1,36,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-184,174,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,4,0,13,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",120,229,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,3,4,14,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-240,41,0,0.90,"Harden, James",4.40,17.60
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,1,1,25,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",-94,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,4,3,22,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-84,242,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,4,0,06,1,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-156,208,0,0.90,"Ariza, Trevor",13.30,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,4,6,31,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-169,129,0,2.60,"Ariza, Trevor",3.00,3.60
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,2,24,1,"Jump Shot","2PT Field Goal",21,"Houston Rockets",-197,80,0,3.00,"Thornton, Marcus",4.30,14.60
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,3,10,57,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",202,151,0,0.80,"Harden, James",5.40,3.30
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,0,30,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",176,-19,1,1.80,"Ariza, Trevor",3.70,18.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,6,28,0,"Jump Shot","2PT Field Goal",16,"Houston Rockets",-163,-6,1,1.60,"Capela, Clint",4.00,11.50
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,11,24,0,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-191,-6,3,4.80,"Harden, James",4.10,16.70
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,4,0,09,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-171,185,0,1.00,"Ariza, Trevor",3.80,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,4,00,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-178,174,0,1.80,"Ariza, Trevor",3.20,8.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,4,9,48,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",236,11,0,0.80,"Thornton, Marcus",7.30,5.80
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,4,6,20,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-171,218,0,0.80,"Holiday, Jrue",5.20,14.60
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,4,7,43,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-238,43,0,1.10,"Holiday, Jrue",2.80,16.70
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,2,2,06,0,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-130,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,3,9,05,1,"Jump Shot","3PT Field Goal",22,"Chicago Bulls",-223,-24,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,0,39,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",143,200,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,2,1,14,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-101,149,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,1,0,02,1,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",-17,106,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,1,11,11,1,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",-117,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,2,1,21,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-145,223,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,4,3,05,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",50,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,2,31,1,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-78,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,1,7,43,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",-130,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,1,8,25,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",236,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,5,42,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",102,244,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,4,1,30,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-148,224,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,11,38,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-155,85,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,2,5,26,0,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",132,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,6,47,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-179,51,0,1.10,"Evans, Tyreke",3.30,8.50
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,3,43,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",155,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,5,33,1,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-212,26,0,2.30,"Gee, Alonzo",2.70,11.50
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,2,0,02,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",79,228,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,2,0,55,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-237,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,1,10,38,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-99,105,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,1,7,56,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-238,-41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,4,15,0,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",127,25,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,0,28,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-240,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,1,46,0,"Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-92,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,1,6,25,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",163,180,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,2,6,15,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-142,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,4,4,35,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-228,65,0,1.50,"Gee, Alonzo",3.20,18.10
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,4,8,06,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",114,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,1,11,14,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-160,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,4,4,23,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",51,200,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,6,59,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-43,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,2,10,14,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",92,241,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,11,31,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",155,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,2,3,51,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",222,121,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,3,9,53,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-232,-15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,3,1,27,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",63,234,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,3,40,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-179,185,0,1.30,"Gee, Alonzo",3.10,10.80
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,1,9,31,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-205,164,0,0.80,"Evans, Tyreke",0.70,13.90
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,9,04,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-238,26,0,0.90,"Evans, Tyreke",3.60,17.20
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,2,30,0,"Jump Shot","2PT Field Goal",10,"New Orleans Pelicans",104,8,4,5.70,"Holiday, Jrue",3.70,8.50
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,1,4,50,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",199,183,0,1.50,"Anderson, Ryan",4.80,6.50
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,5,04,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-155,72,2,4.20,"Holiday, Jrue",4.20,7.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,11,44,0,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",63,203,0,0.80,"Cole, Norris",4.20,11.70
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,0,57,0,"Jump Shot","2PT Field Goal",22,"New Orleans Pelicans",-181,136,1,4.40,"Cole, Norris",4.20,10.70
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,2,30,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",155,88,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,2,36,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-169,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,1,27,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-241,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,10,30,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-89,160,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,1,9,43,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",151,20,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,7,34,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-233,-8,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,0,45,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-227,10,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,0,06,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-196,152,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,0,02,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",-227,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,1,56,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",19,159,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,3,11,28,0,"Jump Shot","2PT Field Goal",13,"Charlotte Hornets",-70,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,3,7,42,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-187,182,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,1,0,57,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",150,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,0,02,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-163,195,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,1,1,31,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",96,183,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,2,1,26,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-230,-10,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,0,05,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",73,152,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,3,4,44,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-166,192,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,2,0,01,1,"Jump Shot","3PT Field Goal",27,"Orlando Magic",-205,180,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,2,0,31,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-25,174,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,1,11,21,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-237,-10,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,4,4,48,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",6,249,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,7,48,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",182,165,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,0,20,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-161,198,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,6,29,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",174,-24,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,1,2,59,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",102,228,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,3,20,0,"Jump Shot","3PT Field Goal",27,"Orlando Magic",-160,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,1,8,17,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",159,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,4,5,05,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-191,160,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,1,11,25,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-173,70,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,3,8,51,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",17,144,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,3,10,42,1,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",138,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-23,2015,6609,1610612749,400828946,1,6,35,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",138,203,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-13,2015,6609,1610612749,400829112,1,6,54,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",141,208,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,4,0,48,1,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-196,190,0,0.80,"Thompson, Hollis",5.40,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,6,21,1,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",115,111,0,0.80,"Sampson, JaKarr",3.60,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,4,2,05,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-220,2,0,0.90,"Beal, Bradley",2.30,13.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,1,5,06,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",170,173,0,0.70,"Wall, John",3.70,9.80
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,5,39,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-156,16,2,2.20,"Hairston, PJ",3.20,6.20
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,3,34,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",64,237,0,0.70,"Hairston, PJ",5.50,11.40
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,0,08,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-114,234,1,1.80,"Caldwell-Pope, Kentavious",8.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,5,49,0,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",-168,218,0,3.40,"Morris, Marcus",8.40,23.10
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,0,42,1,"Jump Shot","3PT Field Goal",27,"Detroit Pistons",102,252,0,0.90,"Caldwell-Pope, Kentavious",2.00,21.10
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,2,4,18,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-235,106,0,1.20,"Morris, Marcus",3.40,10.60
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,3,6,13,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-119,115,2,2.40,"Caldwell-Pope, Kentavious",1.90,4.80
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,3,8,35,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",45,244,0,0.70,"Caldwell-Pope, Kentavious",3.40,11.90
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,3,6,39,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-173,7,0,0.40,"Johnson, Joe",3.00,2.50
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,1,0,01,0,"Jump Shot","3PT Field Goal",27,"Brooklyn Nets",168,218,0,0.80,"Bogdanovic, Bojan",6.80,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,2,5,09,1,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-43,159,1,1.00,"Young, Thaddeus",4.60,14.40
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,2,2,00,1,"Jump Shot","2PT Field Goal",20,"Washington Wizards",195,47,0,0.90,"Neal, Gary",12.90,13.80
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,9,40,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",82,-21,6,5.50,"Stauskas, Nik",2.10,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,2,34,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-124,-11,10,8.30,"Thompson, Hollis",1.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,5,57,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-207,160,0,0.90,"Sampson, JaKarr",4.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,3,3,02,1,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-160,95,0,0.80,"Jefferson, Richard",3.30,15.50
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,2,5,15,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-181,85,2,2.30,"James, LeBron",4.00,4.40
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,1,5,03,0,"Jump Shot","2PT Field Goal",13,"Cleveland Cavaliers",-115,75,4,7.80,"Smith, J.R.",2.50,1.00
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,1,5,50,1,"Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-88,51,1,1.60,"Smith, J.R.",2.30,12.90
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,10,58,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",158,193,0,0.00,"Batum, Nicolas",9.20,15.00
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,4,3,58,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",233,31,0,0.60,"Walker, Kemba",1.70,24.00
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,10,43,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-205,100,2,2.10,"Gay, Rudy",3.90,20.20
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,6,4,25,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",225,106,0,0.80,"Jefferson, Richard",4.10,12.20
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,3,3,40,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",-124,11,1,1.00,"Grant, Jerian",3.00,13.60
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,2,0,01,0,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-179,80,0,0.00,"Jefferson, Richard",3.30,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,4,1,57,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",38,247,0,0.70,"Porzingis, Kristaps",5.50,6.00
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,4,2,20,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-246,-1,0,4.30,"Casspi, Omri",12.10,18.00
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,2,9,00,0,"Jump Shot","2PT Field Goal",8,"Toronto Raptors",-66,46,3,2.20,"DeRozan, DeMar",3.00,19.80
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,1,10,52,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-245,101,0,0.80,"Gallinari, Danilo",3.60,8.60
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,1,3,23,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",145,203,0,1.00,"Gallinari, Danilo",3.30,12.10
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,1,10,23,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",-151,46,1,1.50,"Vujacic, Sasha",2.30,5.50
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,1,0,22,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",171,75,1,1.40,"Thomas, Lance",3.90,10.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,1,4,04,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-42,16,1,1.60,"Dellavedova, Matthew",2.00,12.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,3,0,56,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-124,-1,1,1.20,"Dellavedova, Matthew",3.10,18.30
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,1,9,20,1,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",141,41,3,3.30,"Smith, J.R.",6.70,6.50
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,1,5,09,0,"Jump Shot","2PT Field Goal",3,"Cleveland Cavaliers",-9,33,0,0.40,"Smith, J.R.",2.80,14.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,5,4,25,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",71,170,0,0.90,"Jefferson, Richard",4.40,10.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,6,2,29,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",173,188,0,0.70,"Jefferson, Richard",3.50,12.50
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,4,9,59,1,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-225,156,0,0.70,"Olynyk, Kelly",4.70,14.50
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,4,5,22,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",123,232,0,0.90,"Hunter, RJ",4.90,2.90
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,3,10,47,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",-38,31,2,1.80,"Crowder, Jae",2.50,12.40
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,2,5,10,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",-45,31,4,4.10,"Mudiay, Emmanuel",1.80,15.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,3,10,59,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-187,174,0,1.10,"Harris, Gary",6.50,11.70
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,3,10,28,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",230,0,0,0.70,"Ellis, Monta",4.60,16.50
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,9,36,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-143,61,0,0.90,"Porter, Otto",4.40,12.80
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,3,9,47,1,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",-189,200,0,0.80,"Koufos, Kosta",10.10,4.10
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,4,0,26,1,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-194,178,0,0.70,"Collison, Darren",3.00,19.60
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,1,00,1,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",-115,-15,1,1.80,"Belinelli, Marco",2.00,1.40
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,3,11,44,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",123,208,0,1.10,"Rondo, Rajon",5.90,10.30
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,4,1,44,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",35,254,2,1.90,"Casspi, Omri",5.20,10.40
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,1,07,0,"Jump Shot","2PT Field Goal",10,"Washington Wizards",32,100,1,1.30,"Temple, Garrett",3.00,11.20
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,3,3,48,1,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",-38,82,8,6.70,"Simmons, Jonathon",1.10,15.70
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,1,5,35,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",238,-16,0,0.80,"Budinger, Chase",3.90,14.00
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,1,3,29,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-17,259,0,1.10,"Harris, Tobias",6.10,6.50
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,2,3,45,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",-24,56,2,1.90,"Mahinmi, Ian",4.90,20.90
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,3,6,36,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-147,223,1,1.60,"Budinger, Chase",2.00,3.70
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,1,8,09,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",-89,154,2,2.20,"Temple, Garrett",1.70,12.70
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,3,23,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",40,244,0,0.80,"Temple, Garrett",3.10,4.30
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,1,7,10,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",194,154,1,1.30,"Green, Danny",4.20,24.00
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,4,9,13,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",82,259,0,0.80,"Neal, Gary",5.70,8.30
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,1,0,51,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-230,121,0,1.00,"Anderson, Kyle",3.40,16.10
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,3,11,07,1,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",171,0,3,2.80,"Green, Danny",3.40,7.50
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,1,8,04,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",172,15,0,0.00,"Anthony, Carmelo",4.30,18.20
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,3,9,41,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",227,63,0,1.30,"Vujacic, Sasha",4.30,13.40
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,2,0,02,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",219,103,1,0.90,"Thomas, Lance",4.90,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,2,4,54,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-208,136,0,0.80,"Anthony, Carmelo",5.50,16.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,1,8,07,0,"Jump Shot","2PT Field Goal",2,"New York Knicks",-26,12,1,2.10,"Lopez, Robin",1.20,20.10
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,2,1,36,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",218,101,0,0.90,"Grant, Jerian",4.60,16.80
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,2,8,13,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",135,80,1,1.50,"Thomas, Lance",4.50,12.90
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,3,10,37,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",233,-1,0,0.70,"Fournier, Evan",2.10,8.60
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,3,6,39,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",207,134,0,0.90,"Harris, Tobias",1.60,17.40
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,2,28,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-235,16,0,0.70,"Batum, Nicolas",5.20,5.50
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,3,11,38,1,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",-58,36,1,2.60,"Jackson, Reggie",3.00,6.80
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,1,2,12,1,"Jump Shot","2PT Field Goal",12,"Detroit Pistons",9,129,1,1.00,"Johnson, Stanley",1.80,14.00
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,4,23,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-238,23,0,0.90,"Morris, Marcus",5.00,17.40
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,3,10,22,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-27,41,6,5.20,"Morris, Marcus",2.00,17.00
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,4,49,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-245,85,0,1.10,"Morris, Marcus",2.50,18.90
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,1,10,06,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",228,18,0,1.00,"Morris, Marcus",4.80,17.20
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,0,27,0,"Jump Shot","3PT Field Goal",28,"Detroit Pistons",182,224,0,0.70,"Caldwell-Pope, Kentavious",3.10,20.50
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,4,5,23,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-32,7,1,1.40,"Tolliver, Anthony",2.30,13.80
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,3,4,51,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",-61,7,1,3.00,"Morris, Marcus",0.20,6.50
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,1,4,46,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",235,-11,0,0.70,"Johnson, Joe",5.80,12.00
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,4,3,59,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",99,224,0,0.80,"Bogdanovic, Bojan",3.10,12.90
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,4,3,37,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",145,214,0,0.70,"Bogdanovic, Bojan",7.50,19.00
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,4,5,47,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-155,21,2,1.70,"Bogdanovic, Bojan",3.50,15.40
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,2,0,52,0,"Jump Shot","2PT Field Goal",22,"Washington Wizards",-197,113,1,5.20,"Neal, Gary",4.00,10.60
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,4,6,55,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-181,183,0,0.80,"Smith, J.R.",2.20,16.40
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,11,36,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-174,-11,0,0.20,"Stauskas, Nik",3.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,0,08,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-238,126,0,1.10,"Canaan, Isaiah",8.40,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,2,3,36,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-241,8,0,0.80,"Noel, Nerlens",5.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,4,3,23,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-16,262,4,3.60,"Stauskas, Nik",3.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,3,14,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-145,223,2,2.50,"Noel, Nerlens",6.90,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,1,38,0,"Jump Shot","3PT Field Goal",27,"Philadelphia 76ers",-245,126,0,0.80,"Holmes, Richaun",5.40,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,8,50,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-104,124,3,2.50,"Stauskas, Nik",4.60,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,8,03,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-176,70,0,3.40,"Noel, Nerlens",15.60,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,3,0,00,0,"Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-61,7,3,4.40,"Jefferson, Richard",1.90,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,3,8,41,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",145,97,0,0.80,"Smith, J.R.",3.70,18.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,1,0,33,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",162,16,0,0.70,"Porter, Otto",3.20,4.20
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,4,0,12,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-19,253,0,1.00,"Temple, Garrett",2.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,1,3,35,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",-43,111,3,4.60,"Neal, Gary",2.30,11.80
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,4,5,14,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",158,177,0,0.90,"Beal, Bradley",2.40,9.60
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,3,9,59,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",42,133,3,2.90,"Beal, Bradley",2.60,14.90
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,3,44,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",204,144,0,0.80,"Batum, Nicolas",5.60,18.70
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,1,59,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",102,193,2,2.60,"Lamb, Jeremy",6.30,8.60
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,2,1,31,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-243,18,0,0.80,"Batum, Nicolas",3.80,11.10
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,2,3,41,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-117,129,0,0.90,"Batum, Nicolas",3.70,13.00
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,4,0,22,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-107,244,0,0.50,"Batum, Nicolas",3.20,23.40
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,4,3,11,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-143,80,0,0.80,"Galloway, Langston",3.30,5.30
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,1,8,51,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-156,97,0,0.80,"Gallinari, Danilo",5.00,18.10
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,1,5,16,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",43,257,0,1.10,"Mudiay, Emmanuel",6.70,14.60
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,3,9,07,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-176,210,1,4.10,"Faried, Kenneth",4.30,6.90
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,1,1,32,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-238,116,1,1.80,"Gallinari, Danilo",5.70,17.30
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,2,3,35,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-181,75,2,2.60,"Gallinari, Danilo",2.70,12.20
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,3,5,03,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-192,13,0,0.90,"Gallinari, Danilo",5.00,7.60
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,2,7,03,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",-71,7,1,1.80,"Thomas, Lance",2.90,12.00
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,3,7,55,0,"Jump Shot","3PT Field Goal",32,"New York Knicks",171,273,1,1.50,"Anthony, Carmelo",4.70,1.50
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,2,4,29,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-133,203,0,0.90,"Anthony, Carmelo",4.80,17.50
+"Khris Middleton","Milwaukee Bucks",2015-11-06,2015,6609,1610612749,400827966,2,2,10,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",166,-11,0,0.00,"Vujacic, Sasha",3.80,3.80
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,3,3,13,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",130,97,0,0.90,"Thompson, Tristan",7.30,14.50
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,1,4,15,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-133,139,0,0.70,"DeRozan, DeMar",4.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,3,9,45,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",110,242,0,1.00,"DeRozan, DeMar",4.10,21.60
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,1,8,01,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-115,237,0,1.10,"Carroll, DeMarre",5.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,2,6,05,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-214,159,0,1.10,"Crowder, Jae",5.20,17.70
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,1,6,18,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",10,262,0,0.80,"Bradley, Avery",6.10,10.80
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,4,4,16,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",186,170,0,0.80,"Johnson, Amir",6.30,12.80
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,1,4,25,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-176,31,0,1.00,"Olynyk, Kelly",5.40,8.90
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,2,5,30,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-192,190,0,0.80,"Crowder, Jae",4.60,11.40
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,2,2,30,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-189,11,0,1.00,"Hickson, JJ",6.00,18.50
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,1,10,40,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-241,101,0,0.90,"Faried, Kenneth",8.40,5.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,4,7,54,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",223,0,0,0.70,"Barton, Will",2.80,13.80
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,4,0,35,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-194,169,0,0.90,"Hickson, JJ",5.70,15.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,3,0,00,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-150,11,5,6.20,"Barton, Will",2.70,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,3,8,32,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-163,121,1,1.40,"Harris, Gary",3.30,7.50
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,6,55,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-112,228,0,1.00,"Gay, Rudy",11.80,18.70
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,4,1,11,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-250,7,0,0.80,"Gay, Rudy",6.50,17.60
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,2,16,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-106,116,3,3.10,"Collison, Darren",3.30,20.60
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,2,1,33,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-47,257,0,0.70,"McLemore, Ben",4.60,4.00
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,1,5,06,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",110,144,0,0.80,"Budinger, Chase",6.60,14.30
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,2,2,32,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",232,-5,0,0.00,"Lopez, Brook",16.50,6.30
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,3,6,19,1,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-238,121,0,0.70,"Hollis-Jefferson, Rondae",5.50,15.30
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,1,10,34,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-178,-19,8,5.90,"Lopez, Brook",4.10,6.20
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,3,2,39,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",53,252,1,2.10,"Hill, Jordan",9.90,15.20
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,1,3,04,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",91,85,2,1.90,"Aldridge, LaMarcus",3.60,12.10
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,10,36,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",122,214,0,1.10,"Porter, Otto",6.10,11.80
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,4,10,08,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-184,185,0,0.90,"Neal, Gary",1.80,3.20
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,0,01,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-194,183,0,0.80,Nene,5.30,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,4,3,18,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-88,231,0,0.80,"Vujacic, Sasha",3.90,13.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,3,0,00,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",-125,46,2,2.40,"Thomas, Lance",4.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,3,9,17,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-95,141,2,3.20,"Calderon, Jose",2.80,12.60
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,3,7,01,0,"Jump Shot","2PT Field Goal",10,"New York Knicks",103,25,5,4.20,"Anthony, Carmelo",2.10,7.60
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,1,4,55,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-224,77,0,0.80,"Galloway, Langston",5.90,19.20
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,3,5,52,1,"Jump Shot","3PT Field Goal",28,"Orlando Magic",-102,262,0,1.50,"Harris, Tobias",5.50,1.30
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,3,3,22,0,"Jump Shot","3PT Field Goal",22,"Orlando Magic",228,28,0,0.80,"Nicholson, Andrew",2.30,11.50
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,5,06,1,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-27,267,0,1.00,"Rose, Derrick",4.20,13.70
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,2,4,34,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-142,218,0,0.70,"Rose, Derrick",6.40,11.20
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,4,2,26,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-240,-11,0,0.70,"Snell, Tony",4.90,17.70
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,2,1,35,1,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",15,149,1,1.20,"Butler, Jimmy",3.20,14.40
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,4,7,24,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-189,65,0,0.90,"Butler, Jimmy",4.80,9.60
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,9,42,0,"Jump Shot","2PT Field Goal",8,"Chicago Bulls",-88,5,3,4.40,"Rose, Derrick",3.10,11.50
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,3,8,28,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-187,193,0,0.90,"Butler, Jimmy",4.90,13.30
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,1,27,0,"Jump Shot","3PT Field Goal",28,"Chicago Bulls",-202,198,3,4.40,"Noah, Joakim",4.30,2.80
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,3,0,31,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",-12,31,6,6.20,"Brooks, Aaron",2.20,18.00
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,2,6,20,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",120,210,0,0.70,"Butler, Jimmy",4.70,11.70
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,3,3,06,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",37,213,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,1,9,19,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",146,232,0,1.00,"Griffin, Blake",5.30,19.00
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,2,0,00,0,"Jump Shot","3PT Field Goal",44,"Los Angeles Clippers",-16,447,2,2.20,"Redick, JJ",3.90,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,4,7,45,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-135,223,0,0.70,"Rivers, Austin",4.60,10.80
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,4,11,32,0,"Jump Shot","3PT Field Goal",29,"Los Angeles Clippers",-199,214,0,1.00,"Stephenson, Lance",3.10,16.00
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,1,6,39,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",2,139,0,0.80,"Redick, JJ",4.90,14.70
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,3,3,31,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",102,95,1,1.90,"Johnson, Wesley",3.30,15.60
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,1,1,56,0,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",-6,70,1,2.90,"Crawford, Jamal",2.00,10.00
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,3,7,39,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-245,-6,0,1.00,"Mbah a Moute, Luc",2.00,18.40
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,1,8,42,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",179,65,3,2.70,Nene,5.00,4.10
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,1,5,45,1,"Jump Shot","2PT Field Goal",22,"Houston Rockets",192,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,0,00,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",19,259,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,5,23,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",143,208,0,1.00,"DeRozan, DeMar",4.60,12.20
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,3,8,21,1,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",210,174,0,0.90,"Ross, Terrence",4.90,16.20
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,9,39,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",-2,41,1,1.30,"Ross, Terrence",2.30,13.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,4,5,09,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-61,144,1,3.60,"Muhammad, Shabazz",3.00,5.80
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,0,00,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-45,257,5,3.60,"Green, Draymond",2.40,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,3,4,35,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-81,139,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,4,6,42,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",227,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,11,09,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",60,234,0,0.70,"Thompson, Klay",3.40,6.40
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,2,3,13,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",150,218,0,0.90,"Curry, Stephen",3.60,7.70
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,6,09,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-235,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,8,06,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",143,213,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,9,29,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",132,214,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,4,0,44,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",153,208,1,1.50,"Iguodala, Andre",2.10,18.40
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,1,11,33,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-92,232,0,0.80,"Thompson, Klay",6.80,11.90
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,4,3,44,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",123,218,0,0.90,"Thompson, Klay",1.70,13.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,8,55,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",228,0,0,0.00,"Thompson, Klay",6.10,4.50
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,4,4,47,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",-166,23,1,3.90,"Curry, Stephen",2.80,7.10
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,8,23,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-202,149,0,0.80,"Curry, Stephen",3.90,5.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,2,39,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",17,164,2,3.10,"Thompson, Klay",2.00,15.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,3,4,41,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-24,90,2,2.00,"Rush, Brandon",0.60,8.90
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,4,6,13,1,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",25,174,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,4,10,38,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",127,120,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,11,35,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-2,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,3,7,46,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",61,234,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,4,7,47,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",215,136,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,4,1,02,0,"Jump Shot","2PT Field Goal",20,"Houston Rockets",207,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,1,3,49,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-233,20,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,1,11,13,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",-165,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,3,3,08,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",101,226,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,1,0,23,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",235,11,0,0.90,"Payne, Adreian",4.50,4.60
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,8,53,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-130,134,0,3.20,"Barea, Jose Juan",3.00,11.70
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,10,14,0,"Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",-84,85,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,4,1,48,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-178,169,0,0.70,"Matthews, Wesley",4.20,22.40
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,5,3,42,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-187,188,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,5,27,0,"Jump Shot","2PT Field Goal",23,"Philadelphia 76ers",-81,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,6,05,1,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-38,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,6,46,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-227,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,5,1,18,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-25,252,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,4,9,57,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-130,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,4,5,49,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-189,178,0,1.30,"Price, Ronnie",3.10,10.40
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,9,41,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",138,208,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,3,7,20,0,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-148,2,5,5.20,"Wall, John",3.10,14.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,3,7,39,0,"Jump Shot","3PT Field Goal",27,"Orlando Magic",-191,198,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,0,24,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-189,5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,4,11,01,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",22,252,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,6,40,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-160,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,2,0,30,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-217,159,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,7,19,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",-161,36,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,3,2,17,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",228,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,9,55,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-238,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,2,4,12,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",228,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,1,20,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-230,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,3,0,30,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-243,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,1,8,33,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",107,129,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,0,42,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-233,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,2,1,56,0,"Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",-71,69,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,4,0,29,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-7,247,4,4.20,"Wall, John",2.30,18.50
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,4,2,03,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-137,101,5,4.40,"Matthews, Wesley",2.00,9.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,1,5,24,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",4,172,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,7,03,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",125,115,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,2,0,03,0,"Jump Shot","2PT Field Goal",9,"Oklahoma City Thunder",92,28,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,3,5,03,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",4,183,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,3,10,20,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-110,146,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,1,1,44,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-114,216,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,1,4,44,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",32,260,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,3,0,43,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-135,214,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,10,41,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-148,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,3,11,46,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-192,-26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,1,4,31,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-225,106,0,0.50,"Durant, Kevin",7.10,16.10
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,2,57,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-138,203,0,0.80,"Durant, Kevin",3.60,15.50
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,1,6,35,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",228,56,0,0.80,"Roberson, Andre",5.40,24.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,2,2,02,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",48,247,0,1.20,"Roberson, Andre",5.40,15.10
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,2,0,40,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",166,61,0,0.30,"Westbrook, Russell",5.60,22.30
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,3,48,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-205,146,0,0.90,"Durant, Kevin",9.60,17.60
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,3,20,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-50,174,1,1.30,"Durant, Kevin",3.40,15.90
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,6,25,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-166,120,0,3.30,"Westbrook, Russell",3.60,4.60
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,4,6,54,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-176,188,0,1.10,"Durant, Kevin",7.70,18.50
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,1,0,49,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-148,41,0,1.00,"Durant, Kevin",5.50,13.80
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,6,34,0,"Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",-9,38,2,4.50,"Roberson, Andre",1.20,13.30
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,4,0,22,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-156,193,0,0.70,"Waiters, Dion",1.30,16.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,1,9,28,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",78,237,0,0.70,"Roberson, Andre",3.30,19.20
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,7,29,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-140,95,2,2.00,"Durant, Kevin",5.60,17.40
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,0,11,0,"Jump Shot","3PT Field Goal",27,"Oklahoma City Thunder",-96,257,0,1.70,"Durant, Kevin",6.70,4.30
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,2,0,44,0,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",94,36,6,5.30,"Roberson, Andre",1.80,3.10
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,3,40,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",140,65,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,2,1,40,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-233,65,0,0.90,"Rubio, Ricky",3.80,18.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,3,7,19,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-4,242,0,1.00,"Prince, Tayshaun",3.50,14.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,3,5,41,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-161,214,6,7.30,"Prince, Tayshaun",4.60,1.30
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,2,2,39,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",1,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,4,11,08,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",1,15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,4,7,29,0,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-9,3,6,5.60,"James, LeBron",4.30,19.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,9,58,0,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,2,0,50,1,"Layup Shot","2PT Field Goal",3,"Washington Wizards",-17,34,0,0.30,"Neal, Gary",2.00,23.40
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,3,0,20,1,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",-1,21,0,0.40,"Dieng, Gorgui",2.90,20.30
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,1,20,0,"Layup Shot","2PT Field Goal",2,"Washington Wizards",-27,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,3,54,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,2,3,04,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-4,11,7,5.90,"Horford, Al",1.20,18.10
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,4,2,30,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-12,7,6,6.00,"Gasol, Pau",2.50,18.30
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,3,3,28,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",1,8,0,1.10,"Paul, Chris",0.80,23.50
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,3,8,33,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",8,10,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,4,6,08,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",-2,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,6,07,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",20,0,0,1.10,"Ariza, Trevor",1.60,11.10
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,1,14,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-24,11,0,0.00,"Russell, D'Angelo",1.60,12.10
+"Khris Middleton","Milwaukee Bucks",2015-12-26,2015,6609,1610612749,400828328,1,10,17,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",2,-21,0,1.10,"Johnson, James",1.60,9.80
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,3,2,08,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",19,16,5,3.20,"Porzingis, Kristaps",2.10,21.20
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,3,1,45,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-16,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,1,5,02,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",15,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,4,2,49,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-25,2,0,0.00,"Hill, George",1.20,4.40
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,2,23,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-16,0,2,2.30,"Koufos, Kosta",5.20,20.30
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,1,3,26,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",20,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,2,2,59,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",-6,11,0,0.40,"Lee, David",3.10,3.50
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,9,30,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",3,14,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,8,22,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",5,15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,8,56,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,3,3,17,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-20,7,3,3.40,"Simmons, Jonathon",0.30,9.80
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,2,0,28,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-2,7,0,1.00,"Batum, Nicolas",3.40,20.90
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,4,6,58,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",15,21,2,7.20,"Johnson, James",3.70,8.70
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,4,11,12,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-29,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,1,7,10,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-16,2,0,1.80,"Anthony, Carmelo",2.20,22.50
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,5,10,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,0,29,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",-11,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,3,6,49,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-20,18,3,6.00,"Deng, Luol",2.00,8.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,1,6,53,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-17,11,1,2.20,"Mozgov, Timofey",2.10,19.30
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,3,5,51,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-10,4,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,3,01,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",20,7,5,4.80,"Whiteside, Hassan",0.40,16.30
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,3,7,09,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,2,1,3.40,"Thompson, Klay",3.70,9.10
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,9,51,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-4,13,0,0.00,"Hairston, PJ",2.90,14.90
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,8,41,1,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-2,3,0,0.90,"Walker, Kemba",40.50,20.50
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,3,0,20,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-15,15,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,2,1,25,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,-1,0,0.70,"Aldridge, LaMarcus",3.30,11.00
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,3,0,29,0,"Layup Shot","2PT Field Goal",0,"Chicago Bulls",1,7,0,0.80,"Brooks, Aaron",4.00,23.20
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,4,2,36,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-4,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,4,9,54,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-17,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,2,0,44,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-12,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,2,25,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",24,2,4,3.60,"Ibaka, Serge",9.50,19.50
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,1,2,12,0,"Layup Shot","2PT Field Goal",0,"Orlando Magic",-7,3,13,10.20,"Nicholson, Andrew",0.40,11.70
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,8,00,1,"Pullup Bank shot","2PT Field Goal",12,"Philadelphia 76ers",-115,51,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,4,6,32,1,"Pullup Jump shot","2PT Field Goal",19,"Charlotte Hornets",-179,75,1,6.40,"Hairston, PJ",5.80,5.10
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,1,3,02,1,"Pullup Jump shot","2PT Field Goal",14,"Golden State Warriors",-38,141,2,2.00,"Curry, Stephen",6.20,9.70
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,4,7,17,1,"Pullup Jump shot","2PT Field Goal",20,"Portland Trail Blazers",138,149,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,4,1,48,0,"Pullup Jump shot","3PT Field Goal",24,"Chicago Bulls",174,169,5,3.60,"Butler, Jimmy",3.30,10.60
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,1,3,37,1,"Pullup Jump shot","2PT Field Goal",14,"Chicago Bulls",145,-15,0,0.10,"Butler, Jimmy",2.60,11.50
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,2,0,40,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",125,149,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,6,56,1,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",176,92,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,3,10,54,0,"Pullup Jump shot","2PT Field Goal",6,"Atlanta Hawks",58,31,2,2.40,"Korver, Kyle",2.30,5.60
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,4,23,1,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",-91,164,1,2.10,"Stuckey, Rodney",3.10,6.90
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,1,21,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",-158,116,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-05,2015,6609,1610612749,400828182,2,0,47,0,"Pullup Jump shot","2PT Field Goal",5,"New York Knicks",24,51,0,1.20,"Afflalo, Arron",2.20,12.80
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,2,4,48,1,"Pullup Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-133,118,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,1,0,31,1,"Pullup Jump shot","2PT Field Goal",20,"Indiana Pacers",-160,131,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,9,24,1,"Pullup Jump shot","2PT Field Goal",19,"Phoenix Suns",-165,95,8,7.60,"Tucker, PJ",3.30,17.40
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,2,0,25,1,"Pullup Jump shot","3PT Field Goal",28,"Phoenix Suns",-74,272,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,3,11,36,0,"Pullup Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",-135,129,11,9.90,"Prince, Tayshaun",3.90,16.10
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,8,25,0,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",17,164,1,1.50,"Stauskas, Nik",3.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,4,30,1,"Pullup Jump shot","3PT Field Goal",29,"Charlotte Hornets",-181,228,2,2.50,"Hairston, PJ",3.10,2.40
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,4,10,39,1,"Pullup Jump shot","2PT Field Goal",13,"Los Angeles Lakers",-71,120,2,2.20,"Young, Nick",3.80,14.50
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,3,8,54,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-130,97,12,11.60,"Korver, Kyle",1.30,11.40
+"Khris Middleton","Milwaukee Bucks",2015-12-16,2015,6609,1610612749,400828269,1,8,46,1,"Pullup Jump shot","2PT Field Goal",11,"Los Angeles Clippers",-119,0,3,3.50,"Redick, JJ",2.80,13.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,8,38,1,"Pullup Jump shot","2PT Field Goal",21,"Charlotte Hornets",-191,93,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,11,19,0,"Pullup Jump shot","3PT Field Goal",25,"Chicago Bulls",-11,257,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,4,6,39,1,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",135,70,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,5,50,0,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",-106,124,4,4.80,"McLemore, Ben",2.50,6.30
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,3,1,10,0,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",-168,23,1,3.40,"Snell, Tony",0.20,15.20
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,5,13,1,"Pullup Jump shot","2PT Field Goal",14,"Phoenix Suns",127,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,1,6,29,1,"Pullup Jump shot","3PT Field Goal",24,"Brooklyn Nets",-130,205,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,2,1,27,1,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",138,51,3,3.90,"Roberson, Andre",2.80,13.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,4,9,47,1,"Pullup Jump shot","2PT Field Goal",10,"Orlando Magic",86,56,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,3,8,08,0,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-109,110,0,0.70,"Turner, Evan",2.60,14.30
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,3,8,19,0,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",181,-11,1,1.40,"Miles, CJ",2.30,14.20
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,3,11,40,1,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",-158,77,2,2.60,"Korver, Kyle",3.20,6.10
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,3,6,31,0,"Pullup Jump shot","2PT Field Goal",12,"Orlando Magic",128,-5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,4,30,1,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-127,139,2,2.10,"Williams, Lou",3.60,7.70
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,3,7,18,1,"Pullup Jump shot","2PT Field Goal",13,"Dallas Mavericks",74,110,2,1.50,"Parsons, Chandler",3.40,7.70
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,0,31,1,"Pullup Jump shot","2PT Field Goal",22,"Dallas Mavericks",-202,95,7,7.50,"Parsons, Chandler",1.70,16.50
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,1,7,42,1,"Pullup Jump shot","2PT Field Goal",14,"Boston Celtics",-127,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,1,5,03,0,"Pullup Jump shot","2PT Field Goal",18,"Brooklyn Nets",133,134,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,0,35,0,"Pullup Jump shot","2PT Field Goal",7,"Portland Trail Blazers",-53,57,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,0,07,1,"Pullup Jump shot","2PT Field Goal",12,"Atlanta Hawks",-81,92,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,6,30,0,"Pullup Jump shot","2PT Field Goal",15,"Portland Trail Blazers",151,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,1,7,57,0,"Pullup Jump shot","2PT Field Goal",20,"Atlanta Hawks",-107,169,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,2,6,24,0,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",-17,159,3,1.60,"Crowder, Jae",4.10,1.40
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,1,7,31,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-2,159,1,1.40,"Leonard, Kawhi",2.50,14.20
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,1,7,31,0,"Pullup Jump shot","2PT Field Goal",8,"Atlanta Hawks",28,77,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,2,11,13,1,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",-127,116,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,5,19,1,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",-189,8,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,3,8,59,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-45,156,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,2,0,37,1,"Pullup Jump shot","2PT Field Goal",20,"Chicago Bulls",-130,160,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,10,34,1,"Pullup Jump shot","2PT Field Goal",15,"Indiana Pacers",130,90,2,2.60,"Ellis, Monta",1.30,14.20
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,11,24,0,"Pullup Jump shot","2PT Field Goal",20,"Portland Trail Blazers",-63,198,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,2,49,1,"Pullup Jump shot","2PT Field Goal",21,"Houston Rockets",-160,139,1,2.40,"Brewer, Corey",2.90,15.20
+"Khris Middleton","Milwaukee Bucks",2016-03-20,2015,6609,1610612749,400828928,4,4,28,0,"Pullup Jump shot","2PT Field Goal",15,"Utah Jazz",-73,139,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,2,3,33,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",132,146,2,1.90,"Turner, Myles",5.50,15.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,6,58,1,"Pullup Jump shot","2PT Field Goal",16,"Indiana Pacers",-156,51,3,4.80,"Ellis, Monta",2.00,3.50
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,1,4,26,0,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-88,139,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,2,4,07,1,"Pullup Jump shot","2PT Field Goal",13,"Chicago Bulls",-129,-19,2,3.70,"Gasol, Pau",3.10,12.70
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,3,1,30,1,"Pullup Jump shot","3PT Field Goal",24,"Brooklyn Nets",218,106,0,0.90,"Bogdanovic, Bojan",5.20,18.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,2,4,50,0,"Pullup Jump shot","2PT Field Goal",13,"Atlanta Hawks",73,116,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,4,1,04,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",-129,208,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,2,3,56,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",91,232,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-02,2015,6609,1610612749,400828162,3,0,59,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-150,43,2,2.30,"Anderson, Kyle",4.50,9.30
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,2,5,47,1,"Pullup Jump shot","2PT Field Goal",22,"Atlanta Hawks",195,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,3,9,48,1,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-24,149,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,5,42,0,"Pullup Jump shot","2PT Field Goal",20,"Dallas Mavericks",4,205,2,1.20,"Matthews, Wesley",2.20,0.20
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,1,6,58,0,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",-161,-6,1,1.80,"DeRozan, DeMar",2.80,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,3,3,55,1,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",-150,8,1,5.10,"Joseph, Cory",4.10,10.60
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,11,06,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",-106,144,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-30,2015,6609,1610612749,400828145,3,1,17,0,"Pullup Jump shot","2PT Field Goal",17,"Denver Nuggets",-102,146,2,2.80,"Nelson, Jameer",4.70,17.10
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,4,8,18,1,"Pullup Jump shot","2PT Field Goal",12,"Miami Heat",51,111,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-13,2015,6609,1610612749,400829112,1,7,35,0,"Pullup Jump shot","2PT Field Goal",13,"Indiana Pacers",-29,134,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,3,1,22,0,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",143,13,3,4.20,"Durant, Kevin",2.80,10.20
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,5,4,28,0,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-58,159,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,8,48,1,"Pullup Jump shot","2PT Field Goal",13,"Philadelphia 76ers",-135,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,1,33,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",-135,208,1,1.50,"Harden, James",5.30,24.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,2,4,56,0,"Pullup Jump shot","2PT Field Goal",14,"Toronto Raptors",-132,62,1,4.70,"Ross, Terrence",2.20,12.60
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,2,11,44,1,"Pullup Jump shot","2PT Field Goal",9,"Chicago Bulls",92,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,3,3,27,0,"Pullup Jump shot","2PT Field Goal",22,"Atlanta Hawks",181,129,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,4,5,25,1,"Pullup Jump shot","2PT Field Goal",5,"Atlanta Hawks",37,38,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,3,19,1,"Pullup Jump shot","2PT Field Goal",14,"Philadelphia 76ers",-127,62,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,6,05,1,"Pullup Jump shot","2PT Field Goal",23,"Toronto Raptors",45,232,1,1.30,"DeRozan, DeMar",4.80,2.90
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,4,4,45,1,"Pullup Jump shot","2PT Field Goal",16,"Phoenix Suns",148,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,4,8,47,0,"Pullup Jump shot","2PT Field Goal",16,"Miami Heat",-70,154,13,10.60,"Richardson, Josh",3.20,12.10
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,8,43,0,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",-9,193,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,0,05,1,"Pullup Jump shot","2PT Field Goal",18,"Chicago Bulls",-7,183,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,3,3,14,0,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",-101,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,4,8,40,0,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",-70,167,1,1.20,"Beal, Bradley",6.20,11.60
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,1,6,02,1,"Pullup Jump shot","2PT Field Goal",17,"Washington Wizards",166,57,2,2.30,"Porter, Otto",2.10,11.10
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,3,9,12,0,"Pullup Jump shot","2PT Field Goal",17,"Atlanta Hawks",-32,169,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,3,7,29,0,"Pullup Jump shot","2PT Field Goal",14,"Chicago Bulls",87,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,3,4,57,1,"Pullup Jump shot","2PT Field Goal",13,"Brooklyn Nets",-127,46,1,1.10,"Bogdanovic, Bojan",2.20,13.50
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,3,17,0,"Pullup Jump shot","3PT Field Goal",25,"Chicago Bulls",-171,183,0,3.30,"Butler, Jimmy",9.80,24.00
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,8,57,1,"Putback Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-6,11,0,0.00,"Hairston, PJ",1.30,24.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,3,7,06,1,"Putback Layup Shot","2PT Field Goal",1,"Boston Celtics",6,11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,2,2,37,1,"Reverse Layup Shot","2PT Field Goal",0,"Miami Heat",-6,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,1,2,27,0,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",9,11,0,0.80,"Ross, Terrence",1.90,7.50
+"Khris Middleton","Milwaukee Bucks",2015-12-12,2015,6609,1610612749,400828238,1,10,45,1,"Reverse Layup Shot","2PT Field Goal",0,"Golden State Warriors",-2,0,0,2.80,"Thompson, Klay",2.80,9.90
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,3,0,51,0,"Reverse Layup Shot","2PT Field Goal",1,"Phoenix Suns",14,-6,0,0.60,"Warren, TJ",0.20,18.30
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,1,9,25,1,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",9,7,0,0.70,"Lowry, Kyle",4.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-18,2015,6609,1610612749,400828284,1,5,55,1,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",15,13,0,0.70,"Green, Draymond",4.60,20.90
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,3,9,34,0,"Reverse Layup Shot","2PT Field Goal",2,"Chicago Bulls",28,0,2,2.40,"Gasol, Pau",2.80,17.60
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,4,10,43,1,"Running Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,6,42,1,"Running Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,4,5,30,1,"Running Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,4,0,53,1,"Running Dunk Shot","2PT Field Goal",1,"Indiana Pacers",19,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,3,5,53,1,"Running Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,1,2.10,"Korver, Kyle",6.20,20.60
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,2,4,18,1,"Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,1.20,"McConnell, TJ",4.80,21.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,1,2,42,1,"Running Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,1,1.40,"Wall, John",2.30,21.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,3,8,59,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,3,10,1,"Running Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,1,3.50,"Korver, Kyle",13.90,21.30
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,1,7,20,1,"Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",-9,0,3,4.50,"Cauley-Stein, Willie",31.20,20.80
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,3,6,02,1,"Running Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,2,0,48,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Dallas Mavericks",9,11,4,4.40,"Nowitzki, Dirk",4.60,20.20
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,3,6,38,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",-14,0,5,4.80,"George, Paul",2.50,19.30
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,1,3,04,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Indiana Pacers",-4,-10,2,2.60,"Miles, CJ",0.70,19.40
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,1,0,00,0,"Running Jump Shot","3PT Field Goal",35,"Atlanta Hawks",-207,288,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-02,2015,6609,1610612749,400828387,3,11,01,0,"Running Jump Shot","2PT Field Goal",6,"Minnesota Timberwolves",50,47,3,2.50,"Garnett, Kevin",4.30,11.90
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,4,6,13,0,"Running Jump Shot","2PT Field Goal",4,"Dallas Mavericks",-45,-6,4,5.80,"Pachulia, Zaza",1.90,2.40
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,2,0,00,0,"Running Jump Shot","3PT Field Goal",45,"Atlanta Hawks",-1,458,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,1,3,49,0,"Running Jump Shot","2PT Field Goal",10,"Toronto Raptors",105,-6,1,1.60,"Carroll, DeMarre",2.80,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,1,7,09,0,"Running Jump Shot","2PT Field Goal",7,"Sacramento Kings",76,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,1,6,03,1,"Running Jump Shot","2PT Field Goal",14,"New York Knicks",-109,97,2,2.00,"Afflalo, Arron",2.10,23.50
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,3,10,16,0,"Running Jump Shot","2PT Field Goal",1,"Cleveland Cavaliers",-11,7,1,1.90,"Love, Kevin",1.30,4.70
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,3,0,00,0,"Running Jump Shot","3PT Field Goal",26,"Charlotte Hornets",33,267,2,2.50,"Lamb, Jeremy",4.40,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,5,50,1,"Running Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",43,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,3,7,55,1,"Running Jump Shot","2PT Field Goal",5,"Washington Wizards",-14,51,2,2.40,"Gortat, Marcin",4.40,9.90
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,7,51,1,"Running Jump Shot","2PT Field Goal",6,"Chicago Bulls",46,46,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,4,10,24,1,"Running Jump Shot","3PT Field Goal",26,"Toronto Raptors",94,252,0,0.90,"Johnson, James",7.80,18.50
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,2,22,1,"Running Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-2,7,0,0.80,"Korver, Kyle",2.30,20.90
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,1,5,21,0,"Running Layup Shot","2PT Field Goal",4,"Miami Heat",-40,9,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,4,11,45,1,"Running Layup Shot","2PT Field Goal",2,"Orlando Magic",1,21,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-26,2015,6609,1610612749,400828976,1,0,30,1,"Running Layup Shot","2PT Field Goal",0,"Charlotte Hornets",4,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,1,11,07,1,"Running Layup Shot","2PT Field Goal",3,"Orlando Magic",-32,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,1,10,44,0,"Running Layup Shot","2PT Field Goal",0,"Orlando Magic",-2,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,3,7,36,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",19,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,2,1,03,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-17,-6,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,2,1,06,1,"Running Layup Shot","2PT Field Goal",0,"Houston Rockets",-2,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,2,1,49,1,"Running Layup Shot","2PT Field Goal",2,"Houston Rockets",22,0,1,1.60,"Harden, James",1.40,21.20
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,2,1,36,1,"Running Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",9,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,1,9,11,1,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-12,3,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,3,6,54,0,"Running Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-7,3,2,3.90,"Stauskas, Nik",2.50,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,1,10,37,1,"Running Layup Shot","2PT Field Goal",2,"Detroit Pistons",17,11,5,5.00,"Jackson, Reggie",2.50,20.50
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,2,1,52,1,"Running Layup Shot","2PT Field Goal",0,"Orlando Magic",1,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,4,0,01,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-7,7,4,5.30,"Durant, Kevin",2.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,3,9,10,0,"Running Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",4,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,2,9,20,1,"Running Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-2,0,0,0.50,"Leonard, Meyers",4.40,20.10
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,1,06,1,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",2,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,2,5,15,1,"Running Layup Shot","2PT Field Goal",1,"Washington Wizards",-12,11,0,0.00,"Porter, Otto",4.40,20.80
+"Khris Middleton","Milwaukee Bucks",2015-11-01,2015,6609,1610612749,400827929,4,5,31,0,"Running Layup Shot","2PT Field Goal",0,"Toronto Raptors",9,-1,1,1.60,"Ross, Terrence",1.80,20.10
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,1,11,25,1,"Running Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-25,7,0,0.90,"Sampson, JaKarr",5.30,20.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,7,06,1,"Running Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-29,3,2,2.20,"Matthews, Wesley",3.70,19.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,2,1,01,1,"Running Layup Shot","2PT Field Goal",1,"Phoenix Suns",-14,2,5,5.10,"Teletovic, Mirza",1.90,20.60
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,1,8,00,1,"Running Layup Shot","2PT Field Goal",0,"Phoenix Suns",6,-1,0,0.80,"Bledsoe, Eric",3.50,21.10
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,2,5,47,1,"Running Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-06,2015,6609,1610612749,400828817,3,0,04,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",6,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,3,11,37,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,1,08,1,"Running Layup Shot","2PT Field Goal",0,"Dallas Mavericks",1,8,0,0.00,"Parsons, Chandler",2.50,19.10
+"Khris Middleton","Milwaukee Bucks",2016-03-13,2015,6609,1610612749,400828872,3,5,05,1,"Running Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,0,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,4,0,09,1,"Running Pull-Up Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-60,8,3,3.70,"Felton, Raymond",2.10,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,1,23,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",17,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,3,04,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Houston Rockets",6,8,7,9.10,"Smith, Josh",1.20,12.60
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,3,5,14,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",17,-5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,1,3,08,1,"Step Back Jump shot","2PT Field Goal",16,"Washington Wizards",-147,75,3,3.00,"Temple, Garrett",4.30,4.50
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,2,4,13,0,"Step Back Jump shot","2PT Field Goal",13,"Indiana Pacers",-133,41,2,4.80,"Ellis, Monta",4.90,9.30
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,2,5,43,0,"Step Back Jump shot","2PT Field Goal",18,"New York Knicks",107,149,1,2.00,"Anthony, Carmelo",3.60,3.40
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,1,2,37,1,"Step Back Jump shot","2PT Field Goal",20,"Atlanta Hawks",-207,-10,0,0.00,"Korver, Kyle",1.30,9.80
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,3,4,00,1,"Step Back Jump shot","2PT Field Goal",19,"New Orleans Pelicans",166,97,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-30,2015,6609,1610612749,400827914,3,11,41,0,"Step Back Jump shot","2PT Field Goal",12,"Washington Wizards",-120,43,0,1.00,"Beal, Bradley",2.10,8.60
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,2,9,44,0,"Step Back Jump shot","2PT Field Goal",14,"Portland Trail Blazers",1,141,1,1.90,"Harkless, Maurice",3.20,11.20
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,3,6,16,1,"Step Back Jump shot","3PT Field Goal",25,"Brooklyn Nets",-181,178,3,2.80,"Johnson, Joe",4.10,15.60
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,4,5,23,1,"Step Back Jump shot","2PT Field Goal",16,"New Orleans Pelicans",161,33,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,4,4,59,1,"Step Back Jump shot","2PT Field Goal",22,"New Orleans Pelicans",155,159,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,4,1,13,1,"Step Back Jump shot","2PT Field Goal",17,"Brooklyn Nets",137,115,5,4.40,"Jack, Jarrett",4.10,6.80
+"Khris Middleton","Milwaukee Bucks",2016-01-04,2015,6609,1610612749,400828403,3,3,09,1,"Step Back Jump shot","2PT Field Goal",20,"San Antonio Spurs",-205,-1,1,1.70,"Diaw, Boris",4.40,13.50
+"Khris Middleton","Milwaukee Bucks",2015-11-07,2015,6609,1610612749,400827976,2,0,34,0,"Step Back Jump shot","2PT Field Goal",14,"Brooklyn Nets",105,95,3,2.50,"Johnson, Joe",4.00,6.40
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,4,0,12,0,"Step Back Jump shot","2PT Field Goal",11,"Philadelphia 76ers",117,26,2,7.20,"McConnell, TJ",2.30,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,4,4,56,0,"Step Back Jump shot","2PT Field Goal",16,"Orlando Magic",117,115,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-11,2015,6609,1610612749,400828224,3,2,20,1,"Step Back Jump shot","2PT Field Goal",18,"Toronto Raptors",-186,31,1,3.20,"Johnson, James",5.80,11.70
+"Khris Middleton","Milwaukee Bucks",2016-02-20,2015,6609,1610612749,400828706,3,3,36,0,"Step Back Jump shot","3PT Field Goal",24,"Atlanta Hawks",199,146,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-27,2015,6609,1610612749,400828760,3,4,59,1,"Step Back Jump shot","2PT Field Goal",10,"Detroit Pistons",2,101,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-15,2015,6609,1610612749,400828486,4,2,23,1,"Step Back Jump shot","2PT Field Goal",19,"Atlanta Hawks",61,188,7,9.90,"Horford, Al",5.30,3.60
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,1,7,54,0,"Step Back Jump shot","2PT Field Goal",9,"Philadelphia 76ers",40,85,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,1,10,19,1,"Step Back Jump shot","2PT Field Goal",12,"Indiana Pacers",-99,77,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-04-10,2015,6609,1610612749,400829084,3,7,43,0,"Step Back Jump shot","2PT Field Goal",16,"Philadelphia 76ers",-147,65,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,0,43,0,"Step Back Jump shot","3PT Field Goal",22,"Dallas Mavericks",-222,7,1,2.80,"Parsons, Chandler",3.50,14.20
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,3,9,15,0,"Step Back Jump shot","2PT Field Goal",14,"Washington Wizards",-146,19,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-19,2015,6609,1610612749,400828700,4,5,11,1,"Step Back Jump shot","2PT Field Goal",17,"Charlotte Hornets",-176,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,1,9,38,0,"Step Back Jump shot","2PT Field Goal",19,"New York Knicks",-196,-6,1,3.10,"Calderon, Jose",3.20,14.80
+"Khris Middleton","Milwaukee Bucks",2015-11-17,2015,6609,1610612749,400828045,1,9,05,1,"Step Back Jump shot","3PT Field Goal",25,"Washington Wizards",-89,237,1,1.60,"Porter, Otto",5.20,11.50
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,2,1,55,0,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Clippers",-168,31,7,5.10,"Redick, JJ",2.60,9.80
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,3,6,02,0,"Step Back Jump shot","3PT Field Goal",24,"Chicago Bulls",-102,223,2,1.90,"Butler, Jimmy",5.30,2.60
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,4,2,32,1,"Step Back Jump shot","2PT Field Goal",13,"Philadelphia 76ers",-133,-1,2,2.30,"Thompson, Hollis",5.10,11.80
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,1,9,44,1,"Step Back Jump shot","2PT Field Goal",11,"Orlando Magic",119,2,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,0,50,1,"Step Back Jump shot","2PT Field Goal",17,"Dallas Mavericks",-173,-6,3,3.10,"Parsons, Chandler",5.00,16.60
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,4,7,32,0,"Step Back Jump shot","2PT Field Goal",20,"Denver Nuggets",-140,146,2,2.10,"Gallinari, Danilo",4.40,4.90
+"Khris Middleton","Milwaukee Bucks",2016-01-29,2015,6609,1610612749,400828590,2,1,22,0,"Step Back Jump shot","3PT Field Goal",27,"Miami Heat",-168,218,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,2,1,52,1,"Step Back Jump shot","2PT Field Goal",16,"Charlotte Hornets",-160,36,2,4.50,"Lin, Jeremy",2.70,10.50
+"Khris Middleton","Milwaukee Bucks",2016-02-11,2015,6609,1610612749,400828688,1,10,20,0,"Step Back Jump shot","2PT Field Goal",19,"Washington Wizards",-194,-11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,3,10,03,0,"Step Back Jump shot","3PT Field Goal",26,"Boston Celtics",-163,203,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,1,7,19,1,"Step Back Jump shot","2PT Field Goal",12,"Boston Celtics",-119,23,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,4,7,50,0,"Step Back Jump shot","2PT Field Goal",15,"Chicago Bulls",-150,-1,1,2.20,"Rose, Derrick",3.60,6.40
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,1,8,41,0,"Step Back Jump shot","2PT Field Goal",13,"Cleveland Cavaliers",1,139,1,1.20,"Smith, J.R.",4.30,9.70
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,1,4,52,1,"Step Back Jump shot","2PT Field Goal",15,"Toronto Raptors",128,79,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,4,2,03,0,"Step Back Jump shot","2PT Field Goal",17,"Chicago Bulls",-178,-16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-04,2015,6609,1610612749,400828806,3,1,58,1,"Step Back Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",-155,29,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,3,2,11,1,"Step Back Jump shot","2PT Field Goal",21,"Chicago Bulls",-166,136,1,4.20,"Butler, Jimmy",3.30,9.00
+"Khris Middleton","Milwaukee Bucks",2016-02-29,2015,6609,1610612749,400828774,3,9,02,1,"Step Back Jump shot","2PT Field Goal",17,"Houston Rockets",-169,26,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-15,2015,6609,1610612749,400828257,1,3,22,0,"Step Back Jump shot","2PT Field Goal",12,"Los Angeles Lakers",120,26,2,4.10,"Williams, Lou",3.40,6.90
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,3,7,10,0,"Step Back Jump shot","2PT Field Goal",12,"Boston Celtics",127,16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,4,5,01,1,"Step Back Jump shot","2PT Field Goal",16,"Indiana Pacers",-151,75,2,3.30,"George, Paul",5.00,5.30
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,4,7,57,1,"Step Back Jump shot","2PT Field Goal",15,"Boston Celtics",-106,115,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-07,2015,6609,1610612749,400828827,1,3,07,0,"Step Back Jump shot","3PT Field Goal",22,"Chicago Bulls",223,-11,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,1,10,12,0,"Step Back Jump shot","2PT Field Goal",20,"Toronto Raptors",-148,147,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-26,2015,6609,1610612749,400828568,4,0,36,0,"Step Back Jump shot","2PT Field Goal",13,"Orlando Magic",132,-1,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-25,2015,6609,1610612749,400828963,4,3,38,0,"Step Back Jump shot","3PT Field Goal",24,"Atlanta Hawks",241,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,3,9,55,0,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",2,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,3,33,0,"Tip Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,7,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,4,16,0,"Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",9,-5,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-10,2015,6609,1610612749,400827997,3,4,47,1,"Turnaround Bank shot","2PT Field Goal",6,"Boston Celtics",-60,7,4,7.90,"Thomas, Isaiah",4.90,11.60
+"Khris Middleton","Milwaukee Bucks",2015-10-28,2015,6609,1610612749,400827899,1,6,14,0,"Turnaround Bank shot","2PT Field Goal",9,"New York Knicks",-86,29,2,4.40,"Galloway, Langston",1.30,7.50
+"Khris Middleton","Milwaukee Bucks",2016-03-17,2015,6609,1610612749,400828904,3,11,18,1,"Turnaround Bank shot","2PT Field Goal",6,"Memphis Grizzlies",-43,52,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,8,31,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"New Orleans Pelicans",-171,13,3,5.10,"Cole, Norris",3.70,3.90
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,3,9,34,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"New Orleans Pelicans",-161,-6,4,4.10,"Evans, Tyreke",1.90,4.90
+"Khris Middleton","Milwaukee Bucks",2016-01-16,2015,6609,1610612749,400828490,4,8,52,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Charlotte Hornets",-68,92,2,4.70,"Batum, Nicolas",3.20,5.70
+"Khris Middleton","Milwaukee Bucks",2015-11-21,2015,6609,1610612749,400828077,2,10,30,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Indiana Pacers",148,-11,2,2.70,"Robinson, Glenn",0.00,7.50
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,2,2,38,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Miami Heat",-119,3,2,4.30,"Wade, Dwyane",3.70,11.90
+"Khris Middleton","Milwaukee Bucks",2016-02-02,2015,6609,1610612749,400828620,1,3,05,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Portland Trail Blazers",-117,31,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,11,01,1,"Turnaround Fadeaway shot","2PT Field Goal",11,"Dallas Mavericks",-109,31,3,3.80,"Matthews, Wesley",2.90,11.10
+"Khris Middleton","Milwaukee Bucks",2016-04-01,2015,6609,1610612749,400829020,1,7,41,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Orlando Magic",-122,-16,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,3,11,42,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Detroit Pistons",-124,-15,2,3.30,"Jackson, Reggie",3.10,7.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,2,4,02,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"Washington Wizards",-166,0,2,2.50,"Dudley, Jared",2.80,5.00
+"Khris Middleton","Milwaukee Bucks",2016-04-11,2015,6609,1610612749,400829091,2,2,40,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Orlando Magic",-11,80,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,3,6,16,0,"Turnaround Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-106,80,0,1.00,"Barea, Jose Juan",2.30,11.70
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,7,31,1,"Turnaround Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-151,-5,1,2.60,"McConnell, TJ",3.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-14,2015,6609,1610612749,400828028,3,1,21,0,"Turnaround Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",-84,-6,3,4.10,"Smith, J.R.",2.30,9.40
+"Khris Middleton","Milwaukee Bucks",2016-01-12,2015,6609,1610612749,400828460,4,0,16,1,"Turnaround Jump Shot","2PT Field Goal",16,"Chicago Bulls",-158,61,9,6.80,"Butler, Jimmy",3.70,3.80
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,1,5,35,0,"Turnaround Jump Shot","2PT Field Goal",16,"Charlotte Hornets",155,41,4,5.60,"Walker, Kemba",1.90,2.30
+"Khris Middleton","Milwaukee Bucks",2015-11-27,2015,6609,1610612749,400828115,2,2,15,1,"Turnaround Jump Shot","2PT Field Goal",16,"Orlando Magic",-163,-6,2,4.30,"Fournier, Evan",3.00,7.40
+"Khris Middleton","Milwaukee Bucks",2015-12-31,2015,6609,1610612749,400828371,4,1,40,1,"Turnaround Jump Shot","2PT Field Goal",5,"Indiana Pacers",9,57,7,6.60,"Hill, Solomon",4.00,5.20
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,4,0,08,0,"Turnaround Jump Shot","3PT Field Goal",28,"Dallas Mavericks",-106,262,0,0.60,"Matthews, Wesley",1.80,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,4,4,49,1,"Turnaround Jump Shot","2PT Field Goal",6,"Dallas Mavericks",-20,65,8,8.40,"Felton, Raymond",1.00,9.90
+"Khris Middleton","Milwaukee Bucks",2015-12-28,2015,6609,1610612749,400828351,1,4,15,1,"Turnaround Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-86,90,3,5.10,"Matthews, Wesley",4.20,6.30
+"Khris Middleton","Milwaukee Bucks",2015-12-04,2015,6609,1610612749,400828172,1,6,17,0,"Turnaround Jump Shot","2PT Field Goal",8,"Detroit Pistons",81,7,2,5.10,"Caldwell-Pope, Kentavious",2.20,11.10
+"Khris Middleton","Milwaukee Bucks",2016-01-19,2015,6609,1610612749,400828512,1,1,23,0,"Turnaround Jump Shot","2PT Field Goal",13,"Miami Heat",-61,124,8,9.80,"Winslow, Justise",3.10,14.40
+"Khris Middleton","Milwaukee Bucks",2015-11-11,2015,6609,1610612749,400828008,3,9,25,0,"Turnaround Jump Shot","2PT Field Goal",12,"Denver Nuggets",-32,121,2,3.40,"Mudiay, Emmanuel",2.90,12.90
+"Khris Middleton","Milwaukee Bucks",2015-12-23,2015,6609,1610612749,400828317,3,10,51,1,"Turnaround Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-34,149,1,1.10,"Marshall, Kendall",3.00,2.30
+"Khris Middleton","Milwaukee Bucks",2015-11-02,2015,6609,1610612749,400827934,2,0,21,0,"Turnaround Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-99,38,5,5.10,"Brown, Markel",2.50,12.00
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,1,1,05,1,"Turnaround Jump Shot","2PT Field Goal",8,"Houston Rockets",-56,65,3,4.50,"Lawson, Ty",2.10,12.90
+"Khris Middleton","Milwaukee Bucks",2016-02-01,2015,6609,1610612749,400828616,4,3,22,0,"Turnaround Jump Shot","2PT Field Goal",7,"Sacramento Kings",69,38,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-02-09,2015,6609,1610612749,400828673,1,9,31,0,"Turnaround Jump Shot","2PT Field Goal",12,"Boston Celtics",-94,75,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-20,2015,6609,1610612749,400828293,1,7,16,1,"Turnaround Jump Shot","2PT Field Goal",10,"Phoenix Suns",104,13,1,1.70,"Tucker, PJ",2.60,14.80
+"Khris Middleton","Milwaukee Bucks",2016-03-30,2015,6609,1610612749,400829002,2,2,17,1,"Turnaround Jump Shot","2PT Field Goal",11,"Phoenix Suns",-86,80,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-11-25,2015,6609,1610612749,400828108,3,11,11,1,"Turnaround Jump Shot","2PT Field Goal",11,"Sacramento Kings",-104,36,6,5.20,"McLemore, Ben",3.20,17.20
+"Khris Middleton","Milwaukee Bucks",2016-01-23,2015,6609,1610612749,400828544,1,3,08,0,"Turnaround Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-137,16,3,4.20,"Holiday, Jrue",3.80,8.50
+"Khris Middleton","Milwaukee Bucks",2016-02-25,2015,6609,1610612749,400828743,3,0,01,0,"Turnaround Jump Shot","2PT Field Goal",7,"Boston Celtics",-61,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-05,2015,6609,1610612749,400828409,1,0,03,0,"Turnaround Jump Shot","2PT Field Goal",14,"Chicago Bulls",-147,23,6,9.90,"Hinrich, Kirk",0.20,2.20
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,2,3,44,1,"Turnaround Jump Shot","2PT Field Goal",9,"Dallas Mavericks",-97,23,0,3.70,"Felton, Raymond",3.30,12.40
+"Khris Middleton","Milwaukee Bucks",2015-11-19,2015,6609,1610612749,400828063,3,2,21,1,"Turnaround Jump Shot","2PT Field Goal",10,"Cleveland Cavaliers",-89,51,1,2.70,"Jefferson, Richard",3.80,11.10
+"Khris Middleton","Milwaukee Bucks",2015-12-07,2015,6609,1610612749,400828197,1,11,16,0,"Turnaround Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-160,-26,0,1.30,"McCollum, CJ",2.80,0.20
+"Khris Middleton","Milwaukee Bucks",2016-01-10,2015,6609,1610612749,400828449,4,8,41,0,"Turnaround Jump Shot","2PT Field Goal",8,"New York Knicks",-73,46,8,8.00,"Galloway, Langston",3.20,15.60
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,3,25,1,"Turnaround Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",61,18,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-12,2015,6609,1610612749,400828865,1,6,39,1,"Turnaround Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-68,41,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-08,2015,6609,1610612749,400828432,1,7,28,0,"Turnaround Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-163,33,1,6.70,"Matthews, Wesley",2.70,15.90
+"Khris Middleton","Milwaukee Bucks",2015-11-29,2015,6609,1610612749,400828133,4,3,31,0,"Turnaround Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-163,13,6,6.30,"Walker, Kemba",2.10,16.60
+"Khris Middleton","Milwaukee Bucks",2016-02-22,2015,6609,1610612749,400828724,1,4,01,1,"Turnaround Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-92,95,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-28,2015,6609,1610612749,400828582,1,4,59,1,"Turnaround Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-70,61,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-21,2015,6609,1610612749,400828934,3,0,07,1,"Turnaround Jump Shot","2PT Field Goal",14,"Detroit Pistons",-45,139,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2015-12-29,2015,6609,1610612749,400828359,1,1,09,0,"Turnaround Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-135,0,1,4.60,"Durant, Kevin",6.10,9.00
+"Khris Middleton","Milwaukee Bucks",2015-11-04,2015,6609,1610612749,400827952,1,7,12,0,"Turnaround Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-161,67,1,3.30,"McConnell, TJ",2.90,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-15,2015,6609,1610612749,400828887,3,3,19,1,"Turnaround Jump Shot","2PT Field Goal",12,"Toronto Raptors",66,110,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-03-09,2015,6609,1610612749,400828839,1,6,51,1,"Turnaround Jump Shot","2PT Field Goal",11,"Miami Heat",-102,62,0,0.00,,0.00,0.00
+"Khris Middleton","Milwaukee Bucks",2016-01-13,2015,6609,1610612749,400828465,3,0,36,1,"Turnaround Jump Shot","2PT Field Goal",12,"Washington Wizards",-109,65,7,7.90,"Temple, Garrett",1.60,4.10
+"Khris Middleton","Milwaukee Bucks",2015-11-23,2015,6609,1610612749,400828092,2,1,19,0,"Turnaround Jump Shot","2PT Field Goal",9,"Detroit Pistons",-91,41,1,5.00,"Jackson, Reggie",1.80,4.20
+"Khris Middleton","Milwaukee Bucks",2015-12-09,2015,6609,1610612749,400828211,4,7,49,1,"Turnaround Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-150,-26,2,1.90,"Rivers, Austin",3.50,12.90
+"Khris Middleton","Milwaukee Bucks",2016-01-22,2015,6609,1610612749,400828537,3,2,12,0,"Turnaround Jump Shot","2PT Field Goal",11,"Houston Rockets",-110,3,5,4.30,"Thornton, Marcus",2.60,17.80
+"Khris Middleton","Milwaukee Bucks",2016-03-02,2015,6609,1610612749,400828790,3,8,19,0,"Turnaround Jump Shot","2PT Field Goal",13,"Indiana Pacers",-130,25,0,0.00,,0.00,0.00

@@ -1,0 +1,1008 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,4,10,18,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,"Dedmon, Dewayne",5.10,6.90
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,2,8,23,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,4,7,51,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.90,"Mirotic, Nikola",3.30,23.30
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,4,11,23,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,6,06,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,10,05,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,4,3,51,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,2,7,14,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,3,3,13,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,6,00,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.30,"Hayward, Gordon",6.20,24.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,2,0,02,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,10.60,"Aminu, Al-Farouq",2.10,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,1,11,29,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.30,"Nowitzki, Dirk",2.50,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,3,9,09,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,4,2,08,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,1,0.80,"Rudez, Damjan",3.30,23.70
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,4,7,40,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-04,2015,3213,1610612737,400828808,3,7,14,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,3,9,40,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.20,"Garnett, Kevin",5.00,19.60
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,2,8,52,1,"Alley Oop Dunk Shot","2PT Field Goal",1,"Toronto Raptors",17,2,0,0.00,"Joseph, Cory",1.30,20.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,0,43,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,7,33,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,3,8,02,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,"Young, Thaddeus",4.10,12.10
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,10,13,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,1,0.60,"Smith, Jason",7.00,24.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,3,9,45,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,1,9,18,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,2,11,16,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,10,15,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.80,"Olynyk, Kelly",4.50,16.40
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,2,6,15,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,4,11,45,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,1,6,54,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,3,10,30,1,"Alley Oop Layup shot","2PT Field Goal",2,"Boston Celtics",24,7,0,0.90,"Sullinger, Jared",2.30,9.10
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,7,24,0,"Alley Oop Layup shot","2PT Field Goal",2,"Denver Nuggets",19,18,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,2,11,19,1,"Alley Oop Layup shot","2PT Field Goal",1,"Orlando Magic",15,0,0,0.00,"Smith, Jason",5.10,12.70
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,4,10,45,1,"Alley Oop Layup shot","2PT Field Goal",1,"Denver Nuggets",15,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,10,35,1,"Alley Oop Layup shot","2PT Field Goal",2,"Philadelphia 76ers",19,7,0,0.00,"Smith, Ish",1.50,19.70
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,3,1,23,1,"Alley Oop Layup shot","2PT Field Goal",1,"Memphis Grizzlies",9,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,1,8,59,1,"Alley Oop Layup shot","2PT Field Goal",2,"New York Knicks",0,26,0,0.20,"Lopez, Robin",2.60,23.90
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,1,6,53,1,"Alley Oop Layup shot","2PT Field Goal",3,"Indiana Pacers",30,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,1,0,00,1,"Alley Oop Layup shot","2PT Field Goal",1,"Charlotte Hornets",19,-6,0,0.00,"Lin, Jeremy",0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,2,2,03,1,"Alley Oop Layup shot","2PT Field Goal",1,"Toronto Raptors",-9,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,2,11,47,1,"Alley Oop Layup shot","2PT Field Goal",0,"Milwaukee Bucks",4,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,3,10,05,0,"Alley Oop Layup shot","2PT Field Goal",1,"New York Knicks",17,2,0,0.30,"Lopez, Robin",5.50,9.20
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,2,8,45,1,"Alley Oop Layup shot","2PT Field Goal",2,"Miami Heat",15,16,0,0.00,"Deng, Luol",0.90,9.20
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,1,11,11,1,"Alley Oop Layup shot","2PT Field Goal",0,"Orlando Magic",-9,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,4,11,49,1,"Alley Oop Layup shot","2PT Field Goal",1,"Chicago Bulls",-12,7,0,0.80,"Gibson, Taj",1.60,13.90
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,3,10,54,1,"Cutting Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,1.00,"Randle, Julius",4.20,11.90
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,2,10,05,1,"Cutting Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.70,"Ellington, Wayne",4.00,10.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,3,9,15,1,"Cutting Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.50,"Bosh, Chris",5.00,9.70
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,4,3,22,1,"Cutting Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.70,"Pachulia, Zaza",3.40,0.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,4,06,1,"Cutting Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,1,1.20,"Williams, Derrick",2.30,21.90
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,3,7,12,1,"Cutting Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,1,0,53,1,"Cutting Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.60,"Bogdanovic, Bojan",3.80,11.50
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,1,0,03,1,"Cutting Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.90,"Hezonja, Mario",2.90,9.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,0,04,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.70,"Turner, Evan",3.50,12.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,1,5,46,1,"Cutting Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,3,7,46,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.60,"Lee, David",5.30,22.20
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,3,10,01,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,4,7,39,1,"Cutting Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.60,"Dieng, Gorgui",3.30,18.40
+"Al Horford","Atlanta Hawks",2016-02-03,2015,3213,1610612737,400828623,1,5,59,1,"Cutting Finger Roll Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",2,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,1,7,10,0,"Cutting Layup Shot","2PT Field Goal",3,"Miami Heat",15,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,4,11,18,1,"Cutting Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,16,0,0.90,"Babbitt, Luke",3.20,8.30
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,1,55,1,"Cutting Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",9,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,10,42,1,"Cutting Layup Shot","2PT Field Goal",2,"Chicago Bulls",20,-1,0,0.50,"Gasol, Pau",4.50,3.90
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,1,9,54,1,"Cutting Layup Shot","2PT Field Goal",1,"New York Knicks",19,-1,0,0.90,"Anthony, Carmelo",2.50,12.40
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,3,7,52,1,"Cutting Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,4,51,1,"Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",10,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,2,11,38,1,"Cutting Layup Shot","2PT Field Goal",1,"Chicago Bulls",14,-1,0,0.60,"McDermott, Doug",2.00,17.80
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,3,8,58,1,"Cutting Layup Shot","2PT Field Goal",0,"Denver Nuggets",-6,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,9,22,0,"Cutting Layup Shot","2PT Field Goal",0,"Denver Nuggets",9,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,1,9,39,1,"Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-5,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,10,05,0,"Cutting Layup Shot","2PT Field Goal",2,"Boston Celtics",12,16,0,0.90,"Olynyk, Kelly",2.00,5.00
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,10,19,1,"Cutting Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-4,23,0,0.70,"Okafor, Jahlil",3.80,17.20
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,1,7,09,1,"Cutting Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,-1,0,0.50,"Duncan, Tim",2.30,14.90
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,2,9,34,1,"Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",6,11,0,0.50,"Terry, Jason",7.70,11.70
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,10,06,1,"Cutting Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-22,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,1,10,25,1,"Cutting Layup Shot","2PT Field Goal",2,"Houston Rockets",-20,3,0,0.70,"Beverley, Patrick",2.50,22.60
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,1,7,16,1,"Cutting Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-17,7,0,0.50,"Antetokounmpo, Giannis",3.30,19.80
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,2,3,25,0,"Cutting Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-17,-5,0,1.30,"Towns, Karl-Anthony",1.20,8.40
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,2,2,34,0,"Cutting Layup Shot","2PT Field Goal",2,"Toronto Raptors",24,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,8,44,1,"Cutting Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",25,11,0,0.60,"Conley, Mike",2.90,4.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,1,5,53,1,"Cutting Layup Shot","2PT Field Goal",1,"Toronto Raptors",15,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,4,11,50,1,"Cutting Layup Shot","2PT Field Goal",0,"Golden State Warriors",-4,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,1,6,42,1,"Driving Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,1,1,32,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,1,5,31,0,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,1,0,41,1,"Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.80,"Belinelli, Marco",3.20,20.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,2,10,52,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,8,37,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,3,8,32,1,"Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,1,2.80,"Gay, Rudy",5.40,10.90
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,1,6,23,1,"Driving Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.10,"Johnson, Amir",4.60,0.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,4,0,01,1,"Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,1,1.50,"Roberson, Andre",18.80,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,2,1,48,1,"Driving Dunk Shot","2PT Field Goal",0,"Detroit Pistons",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,2,11,23,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,1,2.40,"Ajinca, Alexis",8.10,6.20
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,2,10,07,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,1,1,09,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,9,09,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,3,6,41,1,"Driving Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,1,2.10,"Harris, Tobias",3.40,4.80
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,3,2,15,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Chicago Bulls",10,2,0,0.70,"Butler, Jimmy",3.20,12.50
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,1,8,20,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Boston Celtics",0,7,0,1.90,"Johnson, Amir",3.60,13.30
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,1,53,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Charlotte Hornets",17,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,10,48,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,3,0,38,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Detroit Pistons",-17,11,1,1.90,"Blake, Steve",3.80,12.40
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,2,6,25,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,21,1,1.80,"Aminu, Al-Farouq",5.30,13.60
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,10,55,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",-17,3,3,4.50,"Lee, David",2.00,8.90
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,1,8,31,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Chicago Bulls",17,8,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,4,5,54,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",-11,61,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,7,54,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",-37,46,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,2,4,09,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Boston Celtics",10,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,1,9,12,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Toronto Raptors",9,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,4,10,10,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Utah Jazz",10,61,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,3,7,20,0,"Driving Hook Shot","2PT Field Goal",5,"Utah Jazz",12,56,2,1.80,"Gobert, Rudy",3.30,8.90
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,4,1,29,0,"Driving Hook Shot","2PT Field Goal",8,"Charlotte Hornets",-16,82,2,7.90,"Jefferson, Al",3.70,5.50
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,1,10,23,0,"Driving Hook Shot","2PT Field Goal",6,"Chicago Bulls",61,31,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,1,4,29,1,"Driving Hook Shot","2PT Field Goal",6,"Brooklyn Nets",-1,61,3,5.90,"Lopez, Brook",2.50,11.60
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,7,39,0,"Driving Hook Shot","2PT Field Goal",6,"Houston Rockets",14,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,3,5,16,0,"Driving Hook Shot","2PT Field Goal",7,"New York Knicks",-27,65,1,3.60,"Lopez, Robin",2.70,11.80
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,8,20,1,"Driving Hook Shot","2PT Field Goal",5,"Golden State Warriors",20,47,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,4,9,00,0,"Driving Hook Shot","2PT Field Goal",11,"Oklahoma City Thunder",-16,115,2,5.60,"Durant, Kevin",2.40,9.40
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,3,11,43,1,"Driving Hook Shot","2PT Field Goal",5,"Denver Nuggets",2,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,4,3,19,1,"Driving Hook Shot","2PT Field Goal",4,"Los Angeles Clippers",-17,38,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,8,45,1,"Driving Hook Shot","2PT Field Goal",7,"Houston Rockets",-1,72,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,5,33,0,"Driving Hook Shot","2PT Field Goal",5,"Golden State Warriors",6,52,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,2,9,33,1,"Driving Hook Shot","2PT Field Goal",4,"Detroit Pistons",2,46,5,5.20,"Johnson, Stanley",2.40,7.10
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,3,5,41,0,"Driving Hook Shot","2PT Field Goal",5,"Brooklyn Nets",27,47,0,0.80,"Young, Thaddeus",4.30,13.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,11,39,0,"Driving Hook Shot","2PT Field Goal",6,"Houston Rockets",9,61,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,4,9,32,1,"Driving Hook Shot","2PT Field Goal",5,"Chicago Bulls",10,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,4,4,42,0,"Driving Hook Shot","2PT Field Goal",5,"Toronto Raptors",42,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,3,10,59,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",9,-1,0,1.50,"Sullinger, Jared",1.40,18.60
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,3,6,27,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,2,1,2.40,"Okafor, Jahlil",3.40,12.80
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,8,40,1,"Driving Layup Shot","2PT Field Goal",3,"Oklahoma City Thunder",33,11,0,3.90,"Ibaka, Serge",3.90,9.50
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,4,6,51,1,"Driving Layup Shot","2PT Field Goal",3,"Orlando Magic",35,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,5,35,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",9,16,0,1.00,"Crowder, Jae",3.40,19.50
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,10,13,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",28,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,0,49,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",19,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,4,9,16,1,"Driving Layup Shot","2PT Field Goal",3,"Los Angeles Clippers",1,31,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,1,0,08,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",10,11,1,2.00,"Hill, Jordan",4.20,3.90
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,2,0,30,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",10,-5,2,2.30,"Lopez, Robin",1.80,14.10
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,1,6,53,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",14,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,2,9,33,0,"Driving Layup Shot","2PT Field Goal",3,"Indiana Pacers",-34,18,0,1.00,"Hill, Jordan",2.10,14.30
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,4,7,57,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",9,2,1,2.70,"Capela, Clint",3.50,10.80
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,2,5,19,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",19,8,1,1.90,"Frazier, Tim",2.10,6.40
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,3,8,23,1,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",1,26,2,2.80,"Drummond, Andre",1.50,9.50
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,3,10,25,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",19,-5,1,2.10,"Drummond, Andre",4.10,14.10
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,2,9,52,1,"Driving Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-9,11,4,5.10,"Monroe, Greg",2.60,9.40
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,3,9,13,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",25,3,1,1.70,"Lopez, Brook",2.70,13.30
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,4,6,46,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",15,3,2,2.50,"Dedmon, Dewayne",0.50,15.90
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,4,09,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-16,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,2,3,58,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",25,2,2,2.60,"Duncan, Tim",3.20,12.30
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,1,6,32,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",14,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,4,10,20,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,2,1,19,1,"Driving Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",25,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,4,9,26,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",27,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,1,9,20,1,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",-4,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,1,0,28,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,2,1,1.80,"Holmes, Richaun",0.10,12.70
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,1,9,21,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Boston Celtics",-17,0,0,0.00,"Sullinger, Jared",2.90,10.80
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,2,7,52,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",-16,2,1,1.60,"Withey, Jeff",2.80,8.60
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,8,31,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-12,-1,1,4.80,"Towns, Karl-Anthony",1.60,11.50
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,10,49,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Houston Rockets",6,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,1,0,45,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-9,21,0,0.00,"Thompson, Hollis",5.30,20.30
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,3,1,19,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",-22,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,0,22,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",-2,-1,0,2.30,"Butler, Jimmy",3.40,16.10
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,11,37,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",-17,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,7,02,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.50,"Gibson, Taj",3.80,7.10
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,9,37,1,"Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.60,"O'Bryant, Johnny",6.70,17.40
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,4,3,41,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,1.00,"Whiteside, Hassan",6.30,20.80
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,2,11,17,1,"Dunk Shot","2PT Field Goal",0,"Washington Wizards",0,1,0,0.80,"Sessions, Ramon",7.00,24.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,4,6,37,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,3,1,41,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.90,"Rose, Derrick",3.10,20.50
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,4,5,55,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,3,5,19,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,4,56,1,"Dunk Shot","2PT Field Goal",0,"Portland Trail Blazers",0,1,0,0.00,"Plumlee, Mason",2.70,18.00
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,3,0,28,1,"Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.70,"Chandler, Tyson",5.70,19.20
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,8,58,1,"Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.60,"Fournier, Evan",2.70,14.80
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,2,8,12,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.90,"Zeller, Tyler",3.30,0.00
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,3,9,00,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.60,"Bryant, Kobe",4.70,16.90
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,1,5,36,1,"Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,4,40,1,"Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.50,"Thomas, Isaiah",6.40,16.40
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,3,1,40,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-43,175,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,6,04,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-4,124,5,6.30,"Adams, Steven",4.80,4.70
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,5,06,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",146,2,0,0.00,"Okafor, Jahlil",4.70,4.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,8,16,1,"Finger Roll Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",4,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,2,4,56,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",6,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,3,11,30,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Boston Celtics",10,8,0,1.10,"Sullinger, Jared",5.60,0.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,4,10,27,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-7,-5,0,0.40,"Hawes, Spencer",3.50,14.70
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,1,9,34,0,"Floating Jump shot","2PT Field Goal",8,"Los Angeles Clippers",40,80,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,1,10,03,1,"Floating Jump shot","2PT Field Goal",4,"Orlando Magic",9,46,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,9,00,1,"Floating Jump shot","2PT Field Goal",6,"New York Knicks",-12,61,2,0.80,"Grant, Jerian",3.40,14.80
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,9,12,0,"Floating Jump shot","2PT Field Goal",6,"Minnesota Timberwolves",-6,61,0,0.60,"Towns, Karl-Anthony",1.70,14.50
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,3,11,48,0,"Floating Jump shot","2PT Field Goal",9,"Charlotte Hornets",-37,92,0,0.70,"Jefferson, Al",3.80,15.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,8,48,1,"Floating Jump shot","2PT Field Goal",5,"Cleveland Cavaliers",32,47,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,1,8,08,0,"Floating Jump shot","2PT Field Goal",5,"Utah Jazz",-2,56,0,0.50,"Gobert, Rudy",5.60,14.60
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,1,7,51,0,"Floating Jump shot","2PT Field Goal",6,"Cleveland Cavaliers",-4,61,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,3,8,12,0,"Floating Jump shot","2PT Field Goal",4,"Toronto Raptors",-22,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,5,0,08,1,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",61,65,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,3,6,24,1,"Floating Jump shot","2PT Field Goal",3,"Washington Wizards",15,31,0,0.60,"Gortat, Marcin",3.50,5.40
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,6,35,0,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-83,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,4,9,42,1,"Floating Jump shot","2PT Field Goal",5,"Charlotte Hornets",32,41,0,0.70,"Kaminsky, Frank",2.90,18.10
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,3,11,26,1,"Floating Jump shot","2PT Field Goal",3,"Washington Wizards",1,36,0,0.70,"Gortat, Marcin",4.40,11.90
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,10,21,1,"Floating Jump shot","2PT Field Goal",7,"Golden State Warriors",33,72,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,2,3,46,0,"Floating Jump shot","2PT Field Goal",12,"Golden State Warriors",107,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,1,10,56,0,"Floating Jump shot","2PT Field Goal",6,"San Antonio Spurs",-7,62,0,0.80,"Duncan, Tim",4.10,15.40
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,11,05,0,"Floating Jump shot","2PT Field Goal",7,"Charlotte Hornets",4,75,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,8,34,1,"Floating Jump shot","2PT Field Goal",4,"Memphis Grizzlies",-2,47,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,9,41,1,"Floating Jump shot","2PT Field Goal",8,"New York Knicks",-11,80,0,0.70,"Galloway, Langston",4.80,13.70
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,4,07,1,"Hook Bank Shot","2PT Field Goal",2,"Washington Wizards",-20,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,1,11,18,1,"Hook Shot","2PT Field Goal",5,"Toronto Raptors",10,52,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,1,9,02,0,"Hook Shot","2PT Field Goal",5,"Dallas Mavericks",9,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,1,0,58,1,"Hook Shot","2PT Field Goal",6,"Minnesota Timberwolves",24,61,3,3.50,"Dieng, Gorgui",2.30,7.70
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,3,4,59,1,"Hook Shot","2PT Field Goal",5,"New Orleans Pelicans",-1,57,0,0.90,"Cunningham, Dante",1.90,18.60
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,10,06,0,"Hook Shot","2PT Field Goal",8,"New Orleans Pelicans",22,80,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,1,7,13,0,"Hook Shot","2PT Field Goal",5,"Toronto Raptors",2,56,3,6.00,"Scola, Luis",2.20,14.80
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,1,10,43,0,"Hook Shot","2PT Field Goal",9,"Sacramento Kings",14,90,1,3.00,"Cousins, DeMarcus",1.80,10.80
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,1,7,19,1,"Hook Shot","2PT Field Goal",2,"Houston Rockets",2,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,2,0,51,0,"Hook Shot","2PT Field Goal",10,"New Orleans Pelicans",109,3,2,5.00,"Davis, Anthony",3.50,12.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,5,3,58,0,"Hook Shot","2PT Field Goal",13,"Orlando Magic",-78,116,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,6,07,1,"Hook Shot","2PT Field Goal",8,"Chicago Bulls",-4,87,1,4.80,"Gibson, Taj",3.50,5.50
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,3,10,15,0,"Hook Shot","2PT Field Goal",6,"Boston Celtics",-4,61,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,4,2,04,0,"Hook Shot","2PT Field Goal",7,"Los Angeles Clippers",-2,70,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,5,20,0,"Hook Shot","2PT Field Goal",9,"Phoenix Suns",53,75,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,2,2,23,0,"Hook Shot","2PT Field Goal",4,"Phoenix Suns",-47,16,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,3,6,27,0,"Hook Shot","2PT Field Goal",5,"Cleveland Cavaliers",-11,57,2,5.70,"Thompson, Tristan",2.60,15.50
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,4,22,0,"Hook Shot","2PT Field Goal",9,"Cleveland Cavaliers",91,13,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,4,9,58,1,"Hook Shot","2PT Field Goal",5,"Indiana Pacers",1,51,2,4.60,"Hill, Jordan",3.20,11.70
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,10,49,1,"Hook Shot","2PT Field Goal",6,"Utah Jazz",-1,61,2,4.30,"Booker, Trevor",1.70,24.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,4,10,51,0,"Hook Shot","2PT Field Goal",14,"Washington Wizards",143,13,1,1.80,"Dudley, Jared",1.60,6.20
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,11,14,0,"Hook Shot","2PT Field Goal",3,"Houston Rockets",-29,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,4,8,07,0,"Hook Shot","2PT Field Goal",9,"Oklahoma City Thunder",91,7,1,4.60,"Collison, Nick",1.80,0.80
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,6,51,0,"Hook Shot","2PT Field Goal",7,"Phoenix Suns",0,75,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,2,9,02,1,"Hook Shot","2PT Field Goal",4,"Utah Jazz",-1,41,2,5.00,"Favors, Derrick",2.10,13.60
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,3,6,41,0,"Hook Shot","2PT Field Goal",2,"Boston Celtics",-17,23,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,10,07,1,"Hook Shot","2PT Field Goal",5,"New York Knicks",-6,51,2,3.90,"Porzingis, Kristaps",3.40,8.40
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,4,0,44,0,"Hook Shot","2PT Field Goal",4,"Cleveland Cavaliers",-9,41,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,9,03,1,"Hook Shot","2PT Field Goal",7,"New York Knicks",6,72,2,5.20,"Porzingis, Kristaps",3.30,13.80
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,2,11,38,1,"Hook Shot","2PT Field Goal",7,"New York Knicks",-17,70,3,8.20,"Porzingis, Kristaps",3.90,4.90
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,1,11,29,1,"Hook Shot","2PT Field Goal",0,"Indiana Pacers",-4,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,1,8,24,1,"Hook Shot","2PT Field Goal",2,"Chicago Bulls",-19,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-04,2015,3213,1610612737,400828808,2,11,16,0,"Hook Shot","2PT Field Goal",8,"Los Angeles Lakers",-78,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,1,9,51,0,"Hook Shot","2PT Field Goal",5,"Orlando Magic",-17,51,0,0.80,"Harris, Tobias",3.10,10.60
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,1,8,42,0,"Hook Shot","2PT Field Goal",3,"Indiana Pacers",20,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,2,2,44,0,"Hook Shot","2PT Field Goal",8,"Sacramento Kings",-17,82,1,6.00,"Cousins, DeMarcus",2.60,9.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,3,8,28,0,"Hook Shot","2PT Field Goal",6,"Philadelphia 76ers",9,62,4,6.90,"Okafor, Jahlil",1.80,11.10
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,1,10,53,0,"Hook Shot","2PT Field Goal",9,"Boston Celtics",92,11,3,5.20,"Sullinger, Jared",0.40,14.70
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,4,0,33,1,"Jump Bank Shot","2PT Field Goal",4,"Houston Rockets",46,8,0,1.00,"Brewer, Corey",4.90,8.50
+"Al Horford","Atlanta Hawks",2016-01-13,2015,3213,1610612737,400828464,3,10,06,0,"Jump Bank Shot","2PT Field Goal",7,"Charlotte Hornets",69,23,5,6.70,"Zeller, Cody",0.80,11.90
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,2,2,25,1,"Jump Bank Shot","2PT Field Goal",16,"Indiana Pacers",138,82,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,3,10,42,1,"Jump Bank Shot","3PT Field Goal",24,"Golden State Warriors",181,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,1,8,14,0,"Jump Bank Shot","2PT Field Goal",11,"Los Angeles Clippers",115,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,1,5,10,0,"Jump Bank Shot","2PT Field Goal",8,"Miami Heat",68,43,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,1,8,08,0,"Jump Bank Shot","2PT Field Goal",4,"Boston Celtics",28,36,0,0.70,"Sullinger, Jared",5.90,13.80
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,4,9,01,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",9,244,0,0.80,"Howard, Dwight",6.30,17.50
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,3,9,23,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-112,223,0,1.00,"Howard, Dwight",5.40,16.70
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,1,6,22,1,"Jump Shot","2PT Field Goal",19,"Houston Rockets",-166,100,0,1.10,"Harden, James",5.90,9.00
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,3,11,42,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-138,198,0,1.20,"Howard, Dwight",7.40,7.40
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,2,10,01,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",6,242,0,1.10,"Motiejunas, Donatas",16.70,13.30
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,2,0,41,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",53,234,0,1.30,"Howard, Dwight",9.20,9.90
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,1,8,40,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",223,18,0,1.00,"Howard, Dwight",21.70,10.60
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,4,11,27,0,"Jump Shot","2PT Field Goal",9,"Houston Rockets",96,11,0,1.60,"Ariza, Trevor",5.30,18.80
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,1,7,38,1,"Jump Shot","2PT Field Goal",13,"Toronto Raptors",135,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,3,11,40,1,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",-48,52,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,2,9,50,1,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-142,144,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,3,8,28,1,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",150,70,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,2,2,21,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-99,174,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,3,9,18,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",127,229,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,3,10,53,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-160,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,1,9,06,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",19,267,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,2,11,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",35,149,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,2,6,19,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-155,115,1,2.80,"Drummond, Andre",5.80,9.80
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,3,9,40,1,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",-137,16,0,3.80,"Drummond, Andre",5.10,4.40
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,2,8,41,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",28,262,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,4,10,39,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-181,170,0,1.30,"Drummond, Andre",8.70,16.60
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,4,0,57,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",97,223,0,0.80,"Drummond, Andre",8.10,4.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,5,1,37,1,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",192,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,1,11,40,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",132,121,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,4,2,26,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",-173,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,2,11,17,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-155,111,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,4,7,11,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-238,31,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,4,9,38,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",146,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,3,9,27,1,"Jump Shot","2PT Field Goal",22,"Milwaukee Bucks",-66,218,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,2,7,01,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",140,198,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,4,2,36,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-34,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,5,3,12,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-173,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,4,3,05,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-112,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,3,1,39,1,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-109,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,4,10,52,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-153,190,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,0,32,1,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-60,164,0,1.30,"West, David",5.40,13.70
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,8,08,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",176,41,0,0.00,"Duncan, Tim",6.20,24.00
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,1,19,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",138,134,0,0.80,"West, David",6.90,13.20
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,1,11,04,1,"Jump Shot","2PT Field Goal",18,"Orlando Magic",66,169,0,1.10,"Vucevic, Nikola",6.80,11.10
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-17,257,1,2.50,"Vucevic, Nikola",2.50,0.00
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,1,8,53,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",91,149,0,0.80,"Frye, Channing",8.10,17.10
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,3,10,28,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-151,31,0,1.10,"Vucevic, Nikola",10.40,10.00
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,4,8,49,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",37,252,0,0.90,"Smith, Jason",7.60,11.80
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,3,8,06,0,"Jump Shot","2PT Field Goal",19,"Orlando Magic",-52,185,0,1.00,"Vucevic, Nikola",5.80,12.10
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,4,0,15,0,"Jump Shot","2PT Field Goal",21,"Orlando Magic",-138,159,0,0.80,"Payton, Elfrid",5.40,3.50
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,6,47,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",109,229,0,1.10,"Vucevic, Nikola",8.30,15.90
+"Al Horford","Atlanta Hawks",2016-01-13,2015,3213,1610612737,400828464,3,7,33,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-30,242,0,1.00,"Hairston, PJ",11.70,17.90
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,2,7,57,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-187,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,3,8,01,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-4,242,0,1.00,"Jefferson, Al",6.80,9.40
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,2,1,53,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",164,188,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,2,1,12,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-48,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,1,11,08,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",227,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,4,10,19,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-60,188,0,1.00,"Gasol, Pau",9.70,11.50
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,4,3,53,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-11,252,0,0.90,"McDermott, Doug",7.50,12.30
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,5,44,1,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",38,188,0,1.00,"Gibson, Taj",6.70,11.30
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,2,2,34,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",227,46,0,0.90,"McDermott, Doug",7.50,11.40
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,2,3,12,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-43,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,1,1,06,1,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",12,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,4,5,56,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",6,149,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,3,8,47,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",10,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,3,6,35,1,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",161,70,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,1,0,42,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",2,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,4,3,21,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-119,223,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,3,8,26,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",145,95,0,0.90,"Lopez, Robin",6.50,18.30
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,3,10,51,1,"Jump Shot","2PT Field Goal",19,"New York Knicks",-89,169,0,0.80,"Lopez, Robin",5.60,8.40
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,2,7,02,0,"Jump Shot","3PT Field Goal",26,"New York Knicks",6,263,0,0.90,"Grant, Jerian",12.90,15.30
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,2,7,23,1,"Jump Shot","3PT Field Goal",26,"New York Knicks",18,268,0,1.50,"Grant, Jerian",9.50,16.40
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,2,9,44,0,"Jump Shot","2PT Field Goal",10,"New York Knicks",-3,100,0,0.00,"Galloway, Langston",2.00,16.90
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,3,9,24,1,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",148,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,1,8,04,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",82,237,0,0.80,"Lopez, Robin",6.60,16.60
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,3,6,17,1,"Jump Shot","2PT Field Goal",19,"Miami Heat",-84,178,0,0.90,"Whiteside, Hassan",7.40,13.20
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,2,7,55,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-16,242,0,0.90,"Haslem, Udonis",6.90,14.80
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,2,10,24,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-174,-11,0,0.90,"Vaughn, Rashad",6.90,17.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,2,2,37,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",4,33,0,0.00,"Lopez, Robin",2.70,8.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,1,10,27,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",161,56,0,2.20,"Porzingis, Kristaps",4.70,14.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,9,39,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",169,36,0,2.20,"Gasol, Pau",5.80,13.90
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,2,9,59,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-112,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,3,9,07,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-228,33,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,1,1,32,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",56,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,4,10,51,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-16,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,3,10,56,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",240,23,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,2,3,42,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-107,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,1,8,10,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",163,188,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,4,10,27,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-232,51,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,1,6,41,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",228,41,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,1,7,51,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",110,224,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,3,6,34,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",78,228,0,0.90,"Gasol, Pau",11.40,12.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,1,8,10,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",-110,90,0,1.00,"Gasol, Pau",5.30,18.30
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,2,2,01,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",92,149,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,3,8,19,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-129,210,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,4,1,28,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",17,239,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,3,11,37,1,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-179,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,4,1,56,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",-17,200,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,2,3,42,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-232,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,4,9,57,1,"Jump Shot","2PT Field Goal",13,"Miami Heat",114,65,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,2,2,29,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",141,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,3,6,44,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-24,237,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,5,0,05,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-1,218,0,0.80,"Henson, John",7.40,0.00
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,1,10,34,0,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",-117,75,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,5,3,58,1,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",9,149,1,2.00,"Parker, Jabari",5.60,4.20
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,1,06,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",60,154,0,1.10,"Carter-Williams, Michael",3.60,13.40
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,3,10,21,0,"Jump Shot","2PT Field Goal",17,"Miami Heat",174,16,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,10,14,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-143,134,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,4,7,26,1,"Jump Shot","2PT Field Goal",18,"Miami Heat",177,46,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,3,8,45,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-34,237,0,0.80,"Crabbe, Allen",6.30,17.50
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,1,6,31,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-2,239,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,3,10,47,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",238,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,2,10,11,0,"Jump Shot","2PT Field Goal",7,"Boston Celtics",51,51,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,4,1,50,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",143,200,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,3,01,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",153,16,0,1.00,"Plumlee, Mason",5.70,9.80
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,2,11,34,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",174,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,1,2,03,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",27,156,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,7,18,0,"Jump Shot","2PT Field Goal",13,"New York Knicks",69,120,0,0.80,"O'Quinn, Kyle",5.20,9.10
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,2,4,18,1,"Jump Shot","2PT Field Goal",17,"Miami Heat",9,170,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,10,55,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-204,11,0,0.90,"Olynyk, Kelly",8.20,13.60
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,4,10,00,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-174,36,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,2,58,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",156,205,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,2,1,52,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-191,174,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,1,6,22,1,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",-24,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-25,2015,3213,1610612737,400828559,1,9,49,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",222,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,1,8,34,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",-140,134,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,2,3,37,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",232,23,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-31,2015,3213,1610612737,400828602,1,7,57,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-135,210,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,4,46,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",182,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,1,6,48,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",225,18,0,1.00,"Bosh, Chris",4.30,11.30
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,1,11,08,1,"Jump Shot","2PT Field Goal",18,"Miami Heat",114,151,0,0.90,"Whiteside, Hassan",9.00,10.90
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,4,0,57,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",230,7,0,1.00,"Dragic, Goran",7.50,16.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,3,8,45,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-73,237,0,1.00,"Udrih, Beno",10.90,14.70
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,3,9,59,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",86,185,0,0.90,"Dragic, Goran",5.20,13.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,0,00,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-132,134,1,1.10,"Jerebko, Jonas",4.40,12.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,10,41,1,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-160,-1,0,0.80,"Monroe, Greg",5.50,11.90
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,11,20,0,"Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",-27,46,0,0.50,"Monroe, Greg",1.80,9.80
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,2,2,40,0,"Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",27,23,1,2.20,"Henson, John",2.30,17.20
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,6,05,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-2,267,0,1.80,"Monroe, Greg",5.40,17.20
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,2,0,03,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-61,262,0,0.80,"Henson, John",8.50,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,3,42,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",128,75,0,1.20,"Parker, Jabari",8.10,10.80
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,5,1,53,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-145,219,0,1.00,"Middleton, Khris",9.00,15.80
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,3,8,55,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-191,0,0,0.90,"Mahinmi, Ian",9.10,13.50
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,3,11,44,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",156,193,0,0.90,"George, Paul",11.20,10.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,1,0,22,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",195,85,0,0.80,"Porzingis, Kristaps",7.20,12.50
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,3,6,42,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-102,223,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,1,11,41,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",22,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,1,9,55,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-9,164,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,1,6,32,0,"Jump Shot","2PT Field Goal",9,"Chicago Bulls",-2,90,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,2,0,51,1,"Jump Shot","2PT Field Goal",21,"Indiana Pacers",-210,-10,0,0.80,"Mahinmi, Ian",7.70,13.50
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,2,5,06,0,"Jump Shot","2PT Field Goal",7,"Chicago Bulls",43,65,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,1,45,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",233,2,0,0.90,"Afflalo, Arron",10.30,17.50
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,1,1,23,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",33,183,0,0.00,"Turner, Evan",3.80,4.20
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,1,11,22,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",164,41,0,0.80,"Mahinmi, Ian",6.10,10.70
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,2,0,33,1,"Jump Shot","2PT Field Goal",14,"New York Knicks",143,2,0,0.90,"Lopez, Robin",10.90,12.90
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,6,36,1,"Jump Shot","2PT Field Goal",17,"New York Knicks",6,178,0,0.80,"O'Quinn, Kyle",6.90,9.30
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,3,10,38,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",173,21,0,0.90,"Sloan, Donald",7.40,13.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,3,11,43,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",-168,110,0,0.80,"Lopez, Robin",6.80,9.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,1,10,53,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-45,242,0,0.90,"Lopez, Robin",12.70,17.10
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,4,4,11,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-48,242,0,0.90,"O'Quinn, Kyle",8.50,16.80
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,1,5,25,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-2,242,0,0.90,"Davis, Ed",9.10,17.10
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,4,0,22,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-16,254,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,2,7,40,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-230,16,0,0.80,"Davis, Ed",12.00,11.50
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,3,8,00,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-65,154,0,0.80,"Aminu, Al-Farouq",6.90,11.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,1,53,1,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",153,46,0,0.80,"Plumlee, Mason",5.50,13.90
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,1,9,07,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-91,18,0,0.60,"Plumlee, Mason",3.80,14.50
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,5,12,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",28,239,0,1.10,"Lillard, Damian",18.00,16.90
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,2,10,56,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",151,11,0,3.30,"Leonard, Meyers",3.50,9.90
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,11,20,0,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-169,13,0,0.80,"Davis, Ed",6.90,12.60
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,4,3,09,1,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-153,43,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,8,00,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",140,208,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,10,52,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-74,174,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,2,13,0,"Jump Shot","2PT Field Goal",15,"Orlando Magic",-34,154,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,4,5,06,1,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-158,136,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,1,7,05,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",82,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,1,42,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",151,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,8,37,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",9,262,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,2,07,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",228,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,2,41,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",179,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,4,6,39,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-196,13,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,3,10,05,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",97,232,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,1,03,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-109,234,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,11,38,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",94,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,1,10,17,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",114,151,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,2,8,09,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",96,164,0,0.80,"Lopez, Robin",6.80,10.50
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,8,00,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",125,210,0,0.90,"Lopez, Robin",8.00,12.60
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,2,8,50,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-161,57,0,0.90,"Grant, Jerian",8.50,9.30
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,6,57,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-173,174,0,0.80,"Williams, Derrick",11.20,24.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,2,11,19,1,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",130,134,0,1.50,"Holmes, Richaun",4.60,8.80
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,1,8,49,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-27,242,0,0.90,"Ellington, Wayne",7.20,17.70
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,1,7,42,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",163,111,1,1.60,"Plumlee, Mason",6.80,20.30
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,4,7,24,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",-37,159,0,3.10,"Plumlee, Mason",4.70,1.60
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,1,10,54,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",236,2,0,0.60,"Plumlee, Mason",5.90,5.80
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,4,6,22,1,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",163,7,0,2.60,"Reed, Willie",5.60,13.90
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,4,1,05,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-217,28,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,2,7,22,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",158,28,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,1,5,20,0,"Jump Shot","2PT Field Goal",3,"Toronto Raptors",30,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-04,2015,3213,1610612737,400828808,3,8,14,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",68,180,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-04,2015,3213,1610612737,400828808,1,0,02,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-94,229,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,2,4,56,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-205,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,4,11,15,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-106,228,0,1.00,"Okafor, Jahlil",6.30,14.20
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,4,3,49,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",148,120,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,8,35,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-4,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,7,13,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-7,178,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,4,0,55,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",19,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,3,42,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",215,124,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,3,6,23,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-38,193,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,2,6,31,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-78,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,4,9,36,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",117,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,1,10,24,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",163,23,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,2,35,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",4,247,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,11,26,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-145,67,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,6,15,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",84,178,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,4,37,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-16,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,10,29,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",92,224,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,2,11,30,1,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-156,67,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,3,10,05,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",42,237,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,1,10,55,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-88,151,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,2,1,29,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-114,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,1,7,22,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",135,87,0,4.10,"Okafor, Jahlil",4.80,13.30
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,1,6,25,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",232,47,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,1,11,24,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",6,239,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,4,9,33,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-56,237,0,0.90,"Lopez, Brook",7.80,24.00
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,1,9,50,1,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-73,193,0,0.60,"Lopez, Brook",11.70,10.40
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,1,8,51,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",155,33,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,3,0,05,1,"Jump Shot","2PT Field Goal",23,"Toronto Raptors",104,210,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,3,10,02,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-74,257,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,4,3,22,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-205,144,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-10,2015,3213,1610612737,400828846,3,11,24,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",163,198,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,1,11,01,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-37,239,0,1.10,"Pachulia, Zaza",6.50,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,3,5,45,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",60,188,0,0.80,"Pachulia, Zaza",5.10,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,3,1,40,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",17,178,0,1.00,"Powell, Dwight",5.50,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,1,8,09,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-6,165,0,0.90,"Mahinmi, Ian",6.00,10.80
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,1,10,30,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",164,2,1,3.90,"Pachulia, Zaza",5.10,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,2,7,18,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",168,-1,0,1.00,"Matthews, Wesley",5.50,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,1,11,20,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",86,165,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,2,10,43,1,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",-37,198,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,1,7,31,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",153,188,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,3,7,56,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-96,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,3,7,33,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-81,237,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,3,10,45,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",230,-19,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,2,0,50,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",125,213,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,4,3,39,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",150,205,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,4,9,15,1,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,4,11,08,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",191,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,2,10,23,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",42,149,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,4,3,13,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",12,188,0,1.00,"Drummond, Andre",5.30,7.60
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,1,10,10,0,"Jump Shot","2PT Field Goal",5,"Houston Rockets",-43,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,9,30,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",168,185,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,1,8,30,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",14,244,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,11,05,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-106,223,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,3,9,51,1,"Jump Shot","2PT Field Goal",16,"Houston Rockets",43,164,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,3,12,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",228,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,1,5,52,1,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-143,95,0,4.30,"Holmes, Richaun",4.60,11.10
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,3,6,49,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-151,3,0,0.90,"Okafor, Jahlil",10.60,18.80
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,4,9,44,1,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",15,56,0,0.50,"Okafor, Jahlil",4.10,4.60
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,1,5,20,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-48,178,0,0.90,"Wroten, Tony",5.60,13.60
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,3,10,50,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-40,188,0,0.90,"Marshall, Kendall",8.90,7.90
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,2,8,56,0,"Jump Shot","2PT Field Goal",5,"Indiana Pacers",-38,38,1,1.00,"Hill, Jordan",2.20,4.40
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,0,21,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",12,183,0,0.90,"Kanter, Enes",6.30,13.30
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,6,12,0,"Jump Shot","2PT Field Goal",13,"Philadelphia 76ers",-133,8,0,0.80,"Okafor, Jahlil",5.80,12.00
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,4,10,58,1,"Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",117,13,0,1.00,"Collison, Nick",4.60,12.50
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,5,09,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-16,242,0,1.70,"Westbrook, Russell",5.70,15.20
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,11,44,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-145,190,0,0.90,"Adams, Steven",7.60,10.80
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,6,35,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-110,144,0,2.20,"Westbrook, Russell",8.80,13.00
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,4,10,29,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-52,244,0,1.00,"Morrow, Anthony",11.10,15.50
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,1,8,27,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-230,28,0,1.00,"Adams, Steven",6.20,7.30
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,2,3,06,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",99,185,0,2.90,"Adams, Steven",5.80,10.80
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,1,25,1,"Jump Shot","2PT Field Goal",22,"Boston Celtics",-138,183,0,1.00,"Johnson, Amir",7.60,16.10
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,0,58,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",46,242,0,1.20,"Johnson, Amir",7.90,13.80
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,3,7,51,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",236,18,0,1.00,"Sullinger, Jared",9.20,12.60
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,3,11,30,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-189,151,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,2,1,15,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",46,164,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,2,9,02,1,"Jump Shot","2PT Field Goal",9,"Philadelphia 76ers",-14,97,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-27,2015,3213,1610612737,400828574,4,1,43,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-158,200,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,0,05,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",55,257,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,4,4,10,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",9,178,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,1,0,01,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",9,61,0,0.60,"Ilyasova, Ersan",2.60,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,1,8,12,0,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",9,213,0,0.90,"Drummond, Andre",9.10,16.40
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,1,7,34,1,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-115,156,0,0.80,"Okafor, Jahlil",4.60,12.30
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,8,34,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",24,267,0,2.40,"Okafor, Jahlil",2.70,17.30
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,2,11,17,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-27,253,0,0.90,"Okafor, Jahlil",7.40,18.80
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,1,10,04,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",0,170,1,2.60,"Smith, Ish",3.80,7.30
+"Al Horford","Atlanta Hawks",2016-02-03,2015,3213,1610612737,400828623,1,11,30,1,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-147,65,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,2,10,00,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",102,165,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,2,1,41,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",81,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,2,2,59,1,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",30,18,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,1,10,57,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",58,120,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,1,9,29,1,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-42,183,0,1.10,"Drummond, Andre",6.00,14.10
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,1,9,57,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",148,205,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,3,7,42,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",69,257,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,10,54,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-112,95,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,2,7,39,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-7,183,0,0.90,"Smith, Jason",7.00,11.40
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,4,0,09,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-27,188,0,0.90,"Drummond, Andre",5.80,3.90
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,4,11,11,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",15,247,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,9,33,0,"Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",163,26,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,1,10,52,1,"Jump Shot","2PT Field Goal",20,"Orlando Magic",194,52,0,0.80,"Vucevic, Nikola",5.60,7.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,4,9,41,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",177,8,0,0.80,"Drummond, Andre",6.20,5.50
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,6,25,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-102,224,0,1.00,"Green, Danny",4.80,16.30
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,1,7,22,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",138,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,2,8,56,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-135,208,0,0.80,"Brewer, Corey",10.60,10.20
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,2,10,26,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",71,232,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,4,11,03,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-120,218,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,1,10,10,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-25,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,1,10,34,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",-145,131,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,2,11,08,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",63,115,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,2,5,48,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-168,180,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,10,34,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-40,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,4,10,00,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",42,244,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,10,14,1,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",128,31,3,6.20,"Len, Alex",4.60,13.30
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,10,41,1,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",-122,47,0,1.90,"Len, Alex",5.20,17.80
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,9,46,0,"Jump Shot","2PT Field Goal",12,"Phoenix Suns",-81,95,0,0.90,"Len, Alex",10.70,13.70
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,2,1,08,0,"Jump Shot","2PT Field Goal",21,"Phoenix Suns",-174,120,0,1.90,"Len, Alex",5.80,4.60
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,4,11,44,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-102,229,0,1.00,"Len, Alex",15.70,12.10
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,3,46,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-25,257,0,1.50,"Len, Alex",9.20,18.60
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,3,0,06,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-243,46,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,3,9,24,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",232,28,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,3,0,08,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",64,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,1,7,55,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",9,252,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,3,9,04,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-22,252,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,5,0,58,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",66,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,2,7,10,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",30,247,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,5,4,00,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",35,188,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,1,9,45,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-94,149,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,2,11,19,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",233,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,4,10,22,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",184,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,5,3,09,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-78,232,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,4,8,34,1,"Jump Shot","2PT Field Goal",19,"Cleveland Cavaliers",-1,190,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,4,10,46,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",137,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,4,8,53,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",141,223,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,2,9,08,1,"Jump Shot","3PT Field Goal",26,"Washington Wizards",68,254,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-23,2015,3213,1610612737,400828943,1,9,37,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-201,159,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,1,9,44,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",204,164,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,3,8,16,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",143,70,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,1,1,44,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-37,257,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,3,4,47,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-161,214,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,3,4,42,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-233,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,2,1,20,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",161,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,4,0,05,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",102,218,0,1.10,"Morris, Marcus",10.10,0.00
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,1,1,19,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",143,16,0,1.40,"Bosh, Chris",5.20,7.10
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,1,7,56,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-30,183,0,1.00,"Drummond, Andre",6.00,12.80
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,1,8,24,0,"Jump Shot","2PT Field Goal",20,"Miami Heat",12,208,0,1.20,"Whiteside, Hassan",9.50,17.30
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,2,1,31,1,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",138,3,0,4.00,"Drummond, Andre",5.60,10.00
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,1,10,27,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",-117,164,0,2.50,"Drummond, Andre",5.10,8.90
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,4,10,47,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-73,174,0,1.00,"Koufos, Kosta",7.30,4.60
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,2,2,35,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",135,208,0,0.90,"Jefferson, Al",8.30,15.80
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,2,4,03,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",6,210,0,1.10,"Cousins, DeMarcus",6.20,17.60
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,3,11,41,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-156,0,0,0.80,"Green, Danny",10.70,7.30
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,3,11,05,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-125,105,0,1.00,"Green, Danny",7.40,11.90
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,3,9,06,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-97,159,0,1.30,"Acy, Quincy",5.00,15.30
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,2,2,57,1,"Jump Shot","2PT Field Goal",5,"Miami Heat",-27,43,1,1.70,"Bosh, Chris",4.20,7.60
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,7,44,1,"Jump Shot","2PT Field Goal",11,"Miami Heat",73,90,0,0.60,"Whiteside, Hassan",5.60,21.10
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,8,56,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",92,129,0,1.40,"Bosh, Chris",9.60,11.20
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,1,0,00,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",87,7,0,3.80,"Winslow, Justise",3.40,0.00
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,1,1,11,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",187,8,0,0.70,"West, David",4.50,7.60
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,1,9,15,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",105,156,0,2.60,"Parker, Tony",3.90,9.80
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,1,7,32,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-94,232,0,1.00,"Parker, Tony",6.50,21.30
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,1,1,03,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",177,7,0,0.80,"Lin, Jeremy",6.20,11.50
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,4,11,36,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-232,3,0,0.90,"Hawes, Spencer",12.10,9.50
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,3,6,41,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",115,139,0,2.10,"Walker, Kemba",2.30,13.40
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,4,11,20,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",87,224,0,0.90,"Koufos, Kosta",10.00,6.90
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,2,1,00,1,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",158,21,0,1.50,"Lopez, Brook",5.60,17.10
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,2,2,08,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",4,188,0,1.00,"Lee, David",5.50,13.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,2,0,59,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",120,160,0,0.80,"Acy, Quincy",5.10,15.00
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,3,11,28,1,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-169,-5,0,1.10,"Lopez, Brook",6.40,19.20
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,3,9,11,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",91,228,0,0.90,"Lopez, Brook",7.00,10.60
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,3,8,06,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",17,239,0,1.10,"Sullinger, Jared",12.90,10.30
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,1,7,01,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",107,165,0,3.90,"Jefferson, Al",5.30,9.60
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,1,8,47,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-81,165,0,1.20,"Crowder, Jae",17.70,6.40
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,3,11,27,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",186,7,0,3.20,"Adams, Steven",4.80,4.90
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,1,8,04,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-47,237,0,0.90,"Adams, Steven",9.60,16.60
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,4,6,32,1,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-112,144,0,3.10,"Ibaka, Serge",5.50,2.80
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,2,8,33,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",66,183,0,0.90,"Muhammad, Shabazz",8.20,13.50
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,3,1,06,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-76,174,0,0.80,"Collison, Nick",6.40,8.80
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,4,7,09,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-84,229,0,1.10,"Dieng, Gorgui",13.20,16.60
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,2,8,58,1,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",138,11,0,4.80,"Martin, Kevin",4.30,13.30
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,4,0,36,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",14,252,0,0.90,"Towns, Karl-Anthony",5.90,20.10
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,7,34,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-129,208,0,1.20,"Towns, Karl-Anthony",9.80,15.60
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,1,7,35,0,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-168,13,0,0.80,"Towns, Karl-Anthony",6.50,10.10
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,1,7,06,0,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-63,164,0,0.90,"Towns, Karl-Anthony",6.80,10.20
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,11,03,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-169,95,0,1.10,"Towns, Karl-Anthony",8.10,13.80
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,3,9,13,0,"Jump Shot","2PT Field Goal",13,"Minnesota Timberwolves",130,8,0,3.90,"Towns, Karl-Anthony",4.90,14.40
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,11,28,1,"Jump Shot","2PT Field Goal",17,"Minnesota Timberwolves",-37,174,0,1.80,"Towns, Karl-Anthony",4.80,8.30
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,1,8,19,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,11,0,0.80,"Towns, Karl-Anthony",7.30,9.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,2,8,53,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",207,141,0,1.10,"Waiters, Dion",8.50,7.10
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,3,0,31,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",69,234,0,0.90,"Durant, Kevin",10.10,16.50
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,2,7,09,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-130,120,0,2.90,"Ibaka, Serge",4.90,8.50
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,2,1,28,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",125,-1,0,1.30,"Ibaka, Serge",5.00,2.40
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,4,8,43,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",27,245,0,1.10,"Hawes, Spencer",8.40,6.50
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,3,0,00,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",32,16,0,3.30,"Davis, Anthony",3.70,0.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,4,2,30,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",45,31,11,7.90,"Porzingis, Kristaps",1.40,8.00
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,3,9,17,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",-7,61,0,0.60,"Williams, Marvin",3.10,15.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,2,10,31,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",89,183,0,1.00,"O'Quinn, Kyle",10.30,10.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,10,46,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",153,7,0,1.60,"Lopez, Robin",4.90,4.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,1,7,30,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-187,154,0,1.20,"Lopez, Robin",7.20,17.60
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,1,7,51,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",110,218,0,1.30,"Lopez, Robin",6.80,17.30
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,11,26,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",155,26,0,0.80,"Lopez, Robin",6.90,11.60
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,11,45,0,"Jump Shot","2PT Field Goal",17,"Utah Jazz",-45,169,0,0.90,"Booker, Trevor",4.60,10.90
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,6,06,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",69,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,3,7,23,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-7,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,1,6,55,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-25,239,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,1,7,22,1,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",173,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,3,10,21,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",32,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,3,11,31,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",10,247,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,4,9,51,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",148,-6,0,4.80,"Varejao, Anderson",4.60,12.70
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,4,3,18,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",10,242,0,0.90,"Nogueira, Lucas",8.30,13.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,3,20,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",164,7,0,0.80,"Gobert, Rudy",6.40,13.20
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,1,58,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-212,131,0,0.90,"Favors, Derrick",12.40,3.30
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,0,33,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",233,8,0,0.80,"Burks, Alec",7.90,20.60
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,1,11,07,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",104,218,0,0.90,"Hood, Rodney",8.50,14.90
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,1,7,27,0,"Jump Shot","3PT Field Goal",22,"Utah Jazz",227,11,0,1.00,"Gobert, Rudy",13.30,8.50
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,1,11,46,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",20,185,0,0.40,"Lopez, Brook",9.00,11.80
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,4,0,00,0,"Jump Shot","2PT Field Goal",7,"Minnesota Timberwolves",-7,75,0,0.00,"Wiggins, Andrew",6.90,0.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,3,9,27,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",-129,136,0,0.90,"Gortat, Marcin",6.10,17.10
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,4,2,17,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",232,3,0,0.50,"Lopez, Brook",6.40,1.60
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,4,4,30,1,"Jump Shot","2PT Field Goal",22,"Boston Celtics",84,213,0,1.10,"Sullinger, Jared",7.20,0.00
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,1,10,45,0,"Jump Shot","2PT Field Goal",20,"Boston Celtics",-65,198,0,1.00,"Sullinger, Jared",5.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,4,4,51,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-101,232,0,0.90,"Thompson, Tristan",6.60,13.30
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,4,9,27,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",110,129,0,0.80,"Jefferson, Richard",6.20,10.80
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,4,2,24,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",15,244,0,1.10,"Turner, Evan",12.90,0.00
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,4,5,15,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-6,190,0,0.90,"Lopez, Brook",9.80,13.70
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,4,1,14,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",28,190,0,0.80,"Lopez, Brook",7.00,13.00
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,3,8,42,1,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",158,-11,0,2.20,"Hollis-Jefferson, Rondae",4.80,13.90
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,4,3,53,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",173,180,0,0.80,"Nogueira, Lucas",9.20,15.10
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,1,6,23,1,"Jump Shot","2PT Field Goal",12,"Toronto Raptors",-38,116,0,0.90,"Scola, Luis",7.40,14.80
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,2,8,31,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",84,164,0,1.00,"Zeller, Tyler",8.20,0.00
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,2,0,03,0,"Jump Shot","2PT Field Goal",12,"Brooklyn Nets",120,8,0,0.70,"Johnson, Joe",2.80,4.50
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,3,6,22,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-238,-15,0,0.90,"Lopez, Brook",9.80,15.90
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,11,02,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-43,208,0,1.00,"Gasol, Marc",6.50,13.80
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,4,27,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-120,224,0,0.90,"Gasol, Marc",8.60,13.10
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,8,10,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",240,-11,0,0.90,"Barnes, Matt",12.10,12.50
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,1,8,50,0,"Jump Shot","2PT Field Goal",18,"Detroit Pistons",-65,169,0,0.90,"Drummond, Andre",6.80,7.80
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,4,9,29,1,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",177,26,0,2.30,"Baynes, Aron",5.40,13.90
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,2,10,31,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-19,237,0,1.00,"Ilyasova, Ersan",7.40,18.00
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,3,1,20,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",27,242,0,1.00,"Drummond, Andre",6.20,16.80
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,6,37,0,"Jump Shot","2PT Field Goal",7,"Miami Heat",79,7,3,15.80,"Deng, Luol",1.40,10.30
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,4,1,16,0,"Jump Shot","2PT Field Goal",9,"Miami Heat",-81,41,0,0.60,"Whiteside, Hassan",4.50,6.60
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,3,6,31,0,"Jump Shot","2PT Field Goal",5,"San Antonio Spurs",45,33,1,3.00,"Parker, Tony",1.70,8.80
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,2,2,35,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",73,185,0,5.40,"Duncan, Tim",6.70,11.70
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,10,16,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-50,237,0,1.10,"Hibbert, Roy",11.50,16.10
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,2,9,57,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",179,-5,0,0.80,"Bass, Brandon",11.60,10.10
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,9,46,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-165,2,0,0.80,"Hibbert, Roy",9.40,15.90
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,1,24,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-130,90,1,3.90,"Nance Jr., Larry",3.50,1.30
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,3,7,26,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-73,170,0,1.00,"Hibbert, Roy",6.60,10.70
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,6,58,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-55,242,0,1.00,"Hibbert, Roy",11.70,17.70
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,8,05,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",232,28,0,1.10,"Randle, Julius",5.60,6.00
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,1,8,59,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",232,23,0,0.90,"Hibbert, Roy",6.70,9.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,2,8,22,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",107,170,0,0.90,"Koufos, Kosta",7.50,6.20
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,4,8,11,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-165,0,0,1.00,"Belinelli, Marco",9.40,4.30
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,3,11,17,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",230,16,0,0.80,"Cousins, DeMarcus",7.60,9.10
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,3,8,36,1,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",184,-6,0,0.90,"Brown, Markel",5.20,8.30
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,1,7,41,1,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",153,11,0,0.90,"Lopez, Brook",8.60,14.30
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,3,3,02,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-29,247,0,0.90,"Zeller, Cody",6.50,17.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,4,3,06,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",225,11,0,0.80,"Jefferson, Al",5.70,5.50
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,4,10,45,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",32,190,0,0.90,"Lee, David",5.40,12.10
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,1,7,46,0,"Jump Shot","3PT Field Goal",22,"Boston Celtics",227,7,0,0.90,"Bradley, Avery",7.30,14.10
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,1,7,01,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-63,237,0,1.10,"Sullinger, Jared",7.90,16.90
+"Al Horford","Atlanta Hawks",2015-11-09,2015,3213,1610612737,400827988,3,3,44,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-142,208,0,1.40,"Towns, Karl-Anthony",5.20,14.40
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,2,9,24,0,"Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",-158,41,0,1.30,"Kanter, Enes",4.60,15.30
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,2,0,01,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-6,193,0,0.90,"Smith, Ish",5.30,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,4,5,23,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",0,195,0,1.10,"Davis, Anthony",6.30,21.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,1,9,17,1,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",0,208,0,2.40,"Davis, Anthony",5.60,12.80
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,1,11,44,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-119,121,0,0.90,"Davis, Anthony",8.60,11.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,3,4,40,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",53,239,0,0.90,"Holiday, Jrue",4.70,15.90
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,1,8,14,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",55,232,0,1.00,"Davis, Anthony",8.80,12.80
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,3,9,51,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",232,11,0,3.70,"Davis, Anthony",5.80,14.30
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,4,9,12,0,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",9,198,0,0.70,"Davis, Anthony",6.60,5.80
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,3,8,01,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",231,6,0,1.00,"Walker, Kemba",8.60,9.80
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,1,7,39,1,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-97,179,0,1.00,"Hairston, PJ",4.60,15.10
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,4,6,01,1,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-2,143,0,0.90,"Jefferson, Al",5.70,14.40
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,3,7,37,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-98,165,0,1.00,"Walker, Kemba",5.90,16.90
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,6,20,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",227,-2,0,0.90,"Lamb, Jeremy",11.00,7.80
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,3,10,39,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-73,233,0,0.90,"Jefferson, Al",6.80,12.80
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,4,5,27,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",229,0,0,1.00,"Batum, Nicolas",7.50,11.70
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,8,28,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",164,0,0,0.80,"Hawes, Spencer",10.30,0.50
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,2,9,27,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-151,-10,0,2.50,"O'Quinn, Kyle",5.20,14.70
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,9,53,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",-81,164,1,1.20,"Lopez, Robin",7.90,9.30
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,10,23,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",66,242,0,1.00,"Lopez, Robin",6.70,17.40
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,8,50,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",209,124,0,1.00,"Lopez, Robin",8.40,12.60
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,0,40,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",140,200,0,1.00,"Galloway, Langston",7.90,5.40
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,9,34,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",137,218,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,1,0,33,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",127,214,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,1,9,03,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",-178,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,4,8,35,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",164,188,0,1.50,"Favors, Derrick",6.40,12.60
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,1,11,40,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-50,239,0,1.00,"Hood, Rodney",15.60,7.20
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,4,10,01,1,"Jump Shot","2PT Field Goal",4,"Minnesota Timberwolves",40,16,0,0.00,"Muhammad, Shabazz",2.00,11.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,1,10,11,0,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",-53,214,0,0.90,"Towns, Karl-Anthony",5.80,13.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,3,0,04,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,21,0,0.90,"Dieng, Gorgui",4.40,0.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,4,7,50,0,"Jump Shot","2PT Field Goal",8,"Minnesota Timberwolves",17,80,0,0.80,"Prince, Tayshaun",3.60,12.70
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,2,0,40,0,"Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",58,11,2,4.40,"Towns, Karl-Anthony",0.60,11.20
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,2,7,43,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-74,234,0,0.80,"Thompson, Tristan",6.00,12.40
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,3,0,37,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",10,242,0,0.70,"Dieng, Gorgui",8.20,7.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,2,1,57,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",225,26,0,0.90,"Garnett, Kevin",8.00,8.60
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,2,2,43,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",-228,18,0,0.90,"Humphries, Kris",12.00,7.20
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,1,7,25,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-235,16,0,0.90,"Biyombo, Bismack",6.20,13.70
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,1,11,46,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",228,16,0,0.80,"Gortat, Marcin",6.50,14.30
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,4,9,20,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-19,242,0,0.90,"Beal, Bradley",7.40,14.70
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,2,10,09,0,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",137,85,0,1.00,"Thompson, Tristan",6.00,12.70
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,2,11,15,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-191,174,0,1.00,"Jefferson, Richard",8.90,16.20
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,1,8,26,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-94,164,0,1.10,"Thompson, Tristan",5.10,15.40
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,3,11,20,0,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-124,174,0,0.80,"Lowry, Kyle",4.90,10.10
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,4,4,33,0,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-6,198,0,1.30,"Nogueira, Lucas",7.30,11.30
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,2,3,56,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-84,224,0,1.10,"Lopez, Brook",8.70,6.50
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,1,1,17,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",133,219,0,1.10,"Olynyk, Kelly",9.30,0.00
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,3,1,07,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",1,195,0,1.10,"Carter, Vince",9.30,9.00
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,3,9,28,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",115,183,0,0.90,"Allen, Tony",6.00,10.70
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,7,42,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-122,218,0,1.00,"Gasol, Marc",14.80,16.60
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,3,11,04,0,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-56,164,0,0.80,"Conley, Mike",8.50,9.90
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,9,05,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-179,193,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,8,05,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-29,252,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,1,6,40,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-91,28,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,3,40,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",222,120,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,1,6,19,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",209,144,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,4,0,32,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",35,151,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,4,10,58,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",148,146,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,1,18,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-2,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,3,7,02,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-10,244,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,1,7,33,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",166,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,2,1,50,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-4,242,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,2,1,40,1,"Jump Shot","2PT Field Goal",17,"Orlando Magic",176,-1,0,1.30,"Vucevic, Nikola",5.50,15.50
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,4,11,01,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",27,242,0,1.10,"Napier, Shabazz",12.70,18.00
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,3,5,23,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",168,131,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,2,2,55,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",4,178,0,1.10,"Payton, Elfrid",9.70,9.80
+"Al Horford","Atlanta Hawks",2016-01-18,2015,3213,1610612737,400828507,1,8,34,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-6,244,0,0.90,"Vucevic, Nikola",6.40,16.90
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,2,6,00,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-235,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,2,0,22,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",148,218,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,4,41,0,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",155,51,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,9,53,0,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",10,183,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,1,8,56,0,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",68,208,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,3,6,20,1,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",-74,116,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,6,20,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",4,257,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,2,0,08,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",78,160,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,1,0,43,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",-9,57,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,5,4,35,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",9,244,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,3,7,42,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",115,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,2,32,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",-24,82,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,0,52,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",233,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,6,38,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",9,170,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,1,5,48,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-160,193,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,4,8,18,1,"Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",-30,67,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,2,7,07,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-92,164,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,2,11,43,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",166,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,4,9,51,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",28,239,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,6,42,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",204,28,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,4,36,0,"Jump Shot","2PT Field Goal",18,"Washington Wizards",132,124,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,1,11,27,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",150,198,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,3,31,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",207,136,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,4,9,27,1,"Jump Shot","2PT Field Goal",17,"Washington Wizards",50,170,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,10,58,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",91,228,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,2,20,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-11,193,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,4,10,04,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-150,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,3,1,40,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",24,247,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,4,2,53,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-150,195,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,3,3,48,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",230,-1,0,1.10,"Chandler, Tyson",17.20,22.50
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,1,8,42,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-92,178,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,2,10,48,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",46,175,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,1,7,29,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-66,169,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,6,30,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,7,0,0.50,"Parker, Jabari",4.40,16.90
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,1,1,27,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",25,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,4,3,56,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",19,11,0,1.00,"Anderson, Ryan",2.00,24.00
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,4,3,27,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",12,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,4,5,14,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-03,2015,3213,1610612737,400828393,1,6,51,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",17,23,0,3.60,"Porzingis, Kristaps",2.20,15.10
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,4,7,08,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-6,7,0,1.00,"Waiters, Dion",7.30,24.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,2,6,40,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-24,2,7,5.40,"Williams, Derrick",2.60,11.50
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,2,7,19,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-06,2015,3213,1610612737,400827968,1,9,47,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-6,21,0,0.80,"Davis, Anthony",2.80,11.40
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,1,8,22,1,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-24,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-21,2015,3213,1610612737,400828935,4,2,08,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",17,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,3,1,11,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-24,-1,0,0.80,"O'Quinn, Kyle",4.10,11.90
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,1,6,13,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",16,4,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,4,11,43,1,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",25,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,4,9,41,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",9,2,1,2.70,"Conley, Mike",2.40,5.60
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,5,08,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",15,11,1,1.90,"McRoberts, Josh",2.90,11.30
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,2,5,05,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-7,7,1,0.70,"Lopez, Brook",3.00,6.40
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,1,9,44,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,2,0,1.20,"Adams, Steven",6.80,12.90
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,4,7,07,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,3,9,04,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",4,16,0,0.50,"Duncan, Tim",2.10,20.20
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,4,9,07,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-29,2,0,1.20,"O'Quinn, Kyle",6.30,1.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,2,7,37,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",10,8,0,0.80,"Grant, Jerian",3.70,6.80
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,9,10,1,"Layup Shot","2PT Field Goal",5,"Charlotte Hornets",52,13,0,0.70,"Hawes, Spencer",3.60,19.30
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,4,22,0,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,-1,0,0.30,"Booker, Devin",2.30,17.90
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,2,6,34,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",12,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,2,11,26,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",22,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,2,4,14,1,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-20,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,6,51,1,"Layup Shot","2PT Field Goal",0,"Houston Rockets",4,-5,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,4,9,20,1,"Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",37,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,4,4,05,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",2,13,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-04,2015,3213,1610612737,400828173,2,7,12,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",14,-1,0,0.50,"Bryant, Kobe",1.60,16.20
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,4,9,28,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,4,11,45,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,2,0,1.60,Nene,3.50,11.80
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,3,8,14,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",10,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,4,8,22,0,"Layup Shot","2PT Field Goal",0,"New York Knicks",-4,8,0,0.80,"Vujacic, Sasha",3.40,17.70
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,1,8,17,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",12,11,0,0.80,"Vucevic, Nikola",2.40,8.50
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,9,07,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,9,1,1.80,"Duncan, Tim",2.10,2.70
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,4,8,58,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,8,0,0.70,"Bogdanovic, Bojan",2.10,7.70
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,4,7,38,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,7,2,4.10,"Davis, Ed",0.10,10.20
+"Al Horford","Atlanta Hawks",2015-10-29,2015,3213,1610612737,400827906,1,8,15,1,"Layup Shot","2PT Field Goal",2,"New York Knicks",-24,11,0,0.80,"Lopez, Robin",3.80,8.20
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,4,45,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-12,7,0,0.60,"Monroe, Greg",1.60,13.70
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,1,9,47,1,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-19,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,3,54,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,-1,2,4.20,"Aminu, Al-Farouq",0.30,15.90
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,2,10,40,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-1,-10,0,0.60,"Dieng, Gorgui",1.80,11.50
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,2,8,02,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",12,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,4,4,59,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",19,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-27,2015,3213,1610612737,400827888,3,0,01,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",14,-1,0,0.70,"Johnson, Stanley",3.30,0.00
+"Al Horford","Atlanta Hawks",2016-01-16,2015,3213,1610612737,400828489,1,7,30,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",19,-1,0,0.00,"Lopez, Brook",1.90,13.60
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,9,36,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,0,0,0.50,"Middleton, Khris",3.50,16.30
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,3,8,00,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",14,11,0,0.70,"Gobert, Rudy",5.20,13.40
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,1,11,39,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-9,26,0,0.60,"Johnson, Amir",3.10,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,1,0,50,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,-5,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,3,6,57,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",25,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,4,9,20,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",12,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,2,0,44,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",17,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,1,10,22,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,-5,0,0.60,"Walker, Kemba",1.20,18.90
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,3,11,37,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",12,3,0,0.70,"Vonleh, Noah",0.70,18.40
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,2,2,52,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-16,21,0,1.00,"Johnson, Amir",1.90,0.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,1,6,30,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-6,16,2,5.10,"Durant, Kevin",3.20,5.80
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,3,7,17,1,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",14,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-03,2015,3213,1610612737,400828623,3,8,01,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-17,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-16,2015,3213,1610612737,400828894,3,9,35,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",2,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-26,2015,3213,1610612737,400828972,2,10,14,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-05,2015,3213,1610612737,400828816,3,6,50,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",17,16,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,4,11,43,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-17,-11,0,1.60,"Antetokounmpo, Giannis",3.20,14.10
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,1,7,33,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",14,2,0,0.80,"Wall, John",0.70,13.20
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,10,33,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",14,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,2,1,08,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",1,11,1,3.20,"Henson, John",4.10,9.90
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,1,01,1,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-12,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,3,8,11,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",17,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-13,2015,3213,1610612737,400828464,1,6,04,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",10,18,1,1.30,"Williams, Marvin",2.60,17.70
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,3,14,0,"Layup Shot","2PT Field Goal",0,"Charlotte Hornets",-1,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,6,0,14,0,"Pullup Jump shot","3PT Field Goal",23,"Milwaukee Bucks",-232,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,2,1,31,0,"Pullup Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",24,51,4,8.10,"Ibaka, Serge",1.30,3.70
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,2,1,09,1,"Pullup Jump shot","2PT Field Goal",6,"Indiana Pacers",-32,56,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,1,0,58,1,"Pullup Jump shot","2PT Field Goal",13,"Miami Heat",-63,115,2,2.50,"Bosh, Chris",0.00,12.10
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,2,7,18,1,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",-10,161,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-30,2015,3213,1610612737,400828143,1,8,31,1,"Pullup Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",-16,51,2,4.60,"Adams, Steven",0.80,9.80
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,3,6,31,1,"Pullup Jump shot","3PT Field Goal",26,"Washington Wizards",22,262,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,3,6,20,1,"Putback Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,"Ariza, Trevor",2.50,9.70
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,4,20,1,"Putback Layup Shot","2PT Field Goal",0,"Phoenix Suns",9,0,0,0.40,"Booker, Devin",2.70,16.60
+"Al Horford","Atlanta Hawks",2016-03-13,2015,3213,1610612737,400828871,1,7,45,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,2,2,34,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",6,2,0,0.60,"Lopez, Robin",2.70,24.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,3,9,59,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",0,-5,0,0.00,"Anthony, Carmelo",1.90,9.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,1,9,35,0,"Putback Layup Shot","2PT Field Goal",1,"Washington Wizards",15,11,0,2.20,"Gortat, Marcin",0.60,21.60
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,4,8,51,0,"Putback Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-1,11,0,0.00,"Muhammad, Shabazz",2.30,23.40
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,2,2,12,1,"Putback Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",10,2,0,0.00,"Noel, Nerlens",3.60,24.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,1,9,38,0,"Putback Layup Shot","2PT Field Goal",0,"Washington Wizards",4,7,0,0.00,"Beal, Bradley",0.00,23.90
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,4,8,41,1,"Putback Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-1,28,0,0.00,"Jefferson, Richard",3.40,19.70
+"Al Horford","Atlanta Hawks",2016-02-28,2015,3213,1610612737,400828765,4,3,11,0,"Putback Layup Shot","2PT Field Goal",1,"Charlotte Hornets",9,7,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-05,2015,3213,1610612737,400828408,4,4,26,1,"Putback Layup Shot","2PT Field Goal",0,"New York Knicks",-2,-1,0,0.10,"Porzingis, Kristaps",1.90,24.00
+"Al Horford","Atlanta Hawks",2016-02-03,2015,3213,1610612737,400828623,3,0,32,1,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",2,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,10,01,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-6,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,4,7,52,1,"Putback Layup Shot","2PT Field Goal",1,"Boston Celtics",2,16,0,2.20,"Turner, Evan",1.60,6.70
+"Al Horford","Atlanta Hawks",2015-10-30,2015,3213,1610612737,400827913,1,9,12,0,"Putback Layup Shot","2PT Field Goal",0,"Charlotte Hornets",6,-5,0,0.20,"Batum, Nicolas",2.20,7.80
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,2,1,24,0,"Putback Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,7,0,0.00,"Hollis-Jefferson, Rondae",3.40,18.50
+"Al Horford","Atlanta Hawks",2016-01-28,2015,3213,1610612737,400828579,1,0,33,1,"Putback Layup Shot","2PT Field Goal",0,"Indiana Pacers",-2,3,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,1,52,1,"Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",14,8,0,0.90,"Walker, Kemba",1.60,8.40
+"Al Horford","Atlanta Hawks",2015-12-02,2015,3213,1610612737,400828159,1,11,42,1,"Reverse Layup Shot","2PT Field Goal",1,"Toronto Raptors",-16,7,0,0.80,"Scola, Luis",2.30,10.30
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,1,1,53,1,"Reverse Layup Shot","2PT Field Goal",1,"New York Knicks",15,2,0,1.00,"Grant, Jerian",4.00,9.30
+"Al Horford","Atlanta Hawks",2015-11-27,2015,3213,1610612737,400828120,1,11,28,0,"Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",19,-1,0,0.60,"Gasol, Marc",4.60,11.50
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,6,34,1,"Reverse Layup Shot","2PT Field Goal",1,"Miami Heat",-14,-1,0,2.30,"Whiteside, Hassan",2.10,21.80
+"Al Horford","Atlanta Hawks",2016-02-10,2015,3213,1610612737,400828683,1,7,16,0,"Reverse Layup Shot","2PT Field Goal",0,"Chicago Bulls",-6,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,2,11,09,1,"Reverse Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-1,2,0,1.00,"Nowitzki, Dirk",2.20,0.00
+"Al Horford","Atlanta Hawks",2016-03-28,2015,3213,1610612737,400828986,1,5,53,0,"Reverse Layup Shot","2PT Field Goal",2,"Chicago Bulls",-20,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,3,9,20,1,"Reverse Layup Shot","2PT Field Goal",2,"Chicago Bulls",-17,11,1,2.80,"Gasol, Pau",1.10,11.40
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,2,0,29,0,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",-16,-1,0,2.00,"Gasol, Pau",0.00,9.00
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,1,1,20,0,"Reverse Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-20,7,2,4.20,"Love, Kevin",2.40,15.20
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,2,2,48,1,"Running Alley Oop Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,6,32,1,"Running Alley Oop Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,"Frye, Channing",3.80,21.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,4,5,59,1,"Running Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,1,8,57,1,"Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,1,1.70,"Williams, Deron",5.20,0.00
+"Al Horford","Atlanta Hawks",2016-03-04,2015,3213,1610612737,400828808,3,6,00,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,1,8,59,1,"Running Dunk Shot","2PT Field Goal",0,"Philadelphia 76ers",0,1,0,0.50,"Covington, Robert",2.90,20.60
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,1,44,1,"Running Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,4,9,59,1,"Running Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.70,"Gasol, Pau",2.00,20.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,4,8,22,1,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",0,2,1,3.70,"Wade, Dwyane",0.90,22.00
+"Al Horford","Atlanta Hawks",2015-11-07,2015,3213,1610612737,400827973,2,8,29,1,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Washington Wizards",-1,-1,0,0.80,Nene,3.80,21.20
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,1,6,08,0,"Running Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",102,218,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,3,0,00,0,"Running Jump Shot","3PT Field Goal",25,"Detroit Pistons",0,257,0,0.70,"Baynes, Aron",10.80,0.00
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,5,0,01,0,"Running Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",4,252,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,4,4,03,0,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",19,-1,0,0.80,"Nowitzki, Dirk",2.20,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,3,6,30,1,"Running Layup Shot","2PT Field Goal",0,"Dallas Mavericks",9,0,0,1.10,"Pachulia, Zaza",5.40,0.00
+"Al Horford","Atlanta Hawks",2016-03-25,2015,3213,1610612737,400828963,1,8,38,1,"Running Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",12,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-09,2015,3213,1610612737,400829075,3,11,40,0,"Running Layup Shot","2PT Field Goal",0,"Boston Celtics",9,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,2,6,55,1,"Running Layup Shot","2PT Field Goal",1,"Phoenix Suns",-1,16,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,10,20,1,"Running Layup Shot","2PT Field Goal",4,"Charlotte Hornets",35,24,1,3.10,"Lin, Jeremy",1.90,20.40
+"Al Horford","Atlanta Hawks",2016-04-07,2015,3213,1610612737,400829060,1,6,17,0,"Running Layup Shot","2PT Field Goal",1,"Toronto Raptors",17,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,1,0,00,0,"Running Pull-Up Jump Shot","3PT Field Goal",27,"Miami Heat",174,213,0,1.00,"Winslow, Justise",5.30,0.00
+"Al Horford","Atlanta Hawks",2015-12-14,2015,3213,1610612737,400828247,2,0,00,0,"Running Reverse Layup Shot","2PT Field Goal",1,"Miami Heat",-14,3,4,3.70,"Bosh, Chris",3.30,0.00
+"Al Horford","Atlanta Hawks",2015-11-24,2015,3213,1610612737,400828097,3,9,38,0,"Step Back Jump shot","2PT Field Goal",15,"Boston Celtics",-125,92,0,4.40,"Sullinger, Jared",4.70,13.80
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,1,59,1,"Step Back Jump shot","2PT Field Goal",8,"Boston Celtics",-22,87,2,3.70,"Johnson, Amir",4.80,5.30
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,1,4,34,0,"Step Back Jump shot","2PT Field Goal",18,"Phoenix Suns",187,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,4,1,28,0,"Step Back Jump shot","2PT Field Goal",16,"Sacramento Kings",-115,120,1,3.80,"Gay, Rudy",7.30,0.60
+"Al Horford","Atlanta Hawks",2016-02-01,2015,3213,1610612737,400828610,4,8,49,0,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",-147,8,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-15,2015,3213,1610612737,400828035,3,10,26,0,"Step Back Jump shot","2PT Field Goal",11,"Utah Jazz",-106,36,0,1.10,"Neto, Raul",4.00,15.00
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,3,4,21,0,"Step Back Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",97,85,1,2.60,"Adams, Steven",4.90,5.40
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,1,11,03,0,"Step Back Jump shot","2PT Field Goal",19,"Sacramento Kings",-109,160,0,1.70,"Cousins, DeMarcus",4.20,16.30
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,3,10,13,0,"Step Back Jump shot","2PT Field Goal",16,"Toronto Raptors",163,31,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-12,2015,3213,1610612737,400828861,2,0,29,1,"Tip Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-12,2015,3213,1610612737,400828234,1,0,56,1,"Tip Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,0,0.40,"Mills, Patty",2.20,24.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,1,8,26,1,"Tip Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-20,2015,3213,1610612737,400828294,2,0,26,1,"Tip Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.00,"Nicholson, Andrew",1.70,24.00
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,2,7,07,1,"Tip Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-7,7,1,0.80,"Smith, J.R.",1.70,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,9,50,0,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,-5,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,2,7,38,0,"Tip Layup Shot","2PT Field Goal",1,"Houston Rockets",-5,10,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-28,2015,3213,1610612737,400828129,3,9,03,1,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",1,8,0,0.00,"Duncan, Tim",0.00,24.00
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,1,6,34,0,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",-2,-1,0,1.40,"Chandler, Tyson",2.40,24.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,2,1,37,0,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",-5,-1,0,1.50,"Gasol, Pau",6.60,10.70
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,4,9,12,0,"Tip Layup Shot","2PT Field Goal",0,"Miami Heat",-7,2,0,0.80,"Johnson, Tyler",4.20,23.30
+"Al Horford","Atlanta Hawks",2016-03-08,2015,3213,1610612737,400828834,4,9,00,1,"Tip Layup Shot","2PT Field Goal",1,"Utah Jazz",10,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,3,7,20,1,"Tip Layup Shot","2PT Field Goal",1,"Indiana Pacers",-14,7,0,0.40,"Hill, George",1.90,24.00
+"Al Horford","Atlanta Hawks",2015-11-11,2015,3213,1610612737,400828004,2,4,43,1,"Tip Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",9,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-28,2015,3213,1610612737,400828346,2,8,54,1,"Tip Layup Shot","2PT Field Goal",1,"Indiana Pacers",15,2,0,0.00,"Hill, Jordan",0.00,23.20
+"Al Horford","Atlanta Hawks",2015-11-13,2015,3213,1610612737,400828016,3,11,29,1,"Tip Layup Shot","2PT Field Goal",0,"Boston Celtics",-4,-1,0,0.00,"Johnson, Amir",2.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,3,7,31,1,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",4,0,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-29,2015,3213,1610612737,400828357,4,3,20,1,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",-2,-6,0,0.00,"Howard, Dwight",1.10,13.60
+"Al Horford","Atlanta Hawks",2016-03-30,2015,3213,1610612737,400829000,2,0,47,0,"Tip Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,15,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-09,2015,3213,1610612737,400828438,2,1,36,1,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",-1,-1,0,1.00,"Mirotic, Nikola",2.40,24.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,11,18,0,"Tip Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-12,2,0,0.50,"Monroe, Greg",1.40,9.40
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,2,8,07,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-1,7,0,0.00,"McCollum, CJ",2.00,24.00
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,3,11,28,1,"Tip Layup Shot","2PT Field Goal",1,"Golden State Warriors",14,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,3,9,34,1,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,7,0,0.20,"Antetokounmpo, Giannis",1.70,24.00
+"Al Horford","Atlanta Hawks",2015-11-17,2015,3213,1610612737,400828046,2,4,40,1,"Tip Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,2,0,0.30,"Lopez, Brook",4.80,21.40
+"Al Horford","Atlanta Hawks",2016-02-20,2015,3213,1610612737,400828706,4,9,15,0,"Tip Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",2,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,1,0,30,1,"Tip Layup Shot","2PT Field Goal",0,"Miami Heat",-1,2,0,0.60,"Bosh, Chris",2.40,24.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,0,49,1,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",-1,-1,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-05,2015,3213,1610612737,400829044,3,0,50,0,"Tip Layup Shot","2PT Field Goal",0,"Phoenix Suns",1,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-19,2015,3213,1610612737,400828916,4,6,55,0,"Tip Layup Shot","2PT Field Goal",0,"Houston Rockets",2,2,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-07,2015,3213,1610612737,400828423,3,5,46,0,"Turnaround Bank shot","2PT Field Goal",2,"Philadelphia 76ers",27,8,4,4.70,"Okafor, Jahlil",1.80,13.60
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,4,1,27,1,"Turnaround Bank shot","2PT Field Goal",8,"Portland Trail Blazers",84,26,0,2.80,"Plumlee, Mason",3.80,5.60
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,3,4,56,1,"Turnaround Bank shot","2PT Field Goal",7,"Cleveland Cavaliers",35,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-13,2015,3213,1610612737,400828464,3,7,57,1,"Turnaround Bank shot","2PT Field Goal",6,"Charlotte Hornets",56,28,2,2.60,"Hairston, PJ",1.50,9.20
+"Al Horford","Atlanta Hawks",2015-12-16,2015,3213,1610612737,400828263,2,3,32,1,"Turnaround Bank shot","2PT Field Goal",7,"Philadelphia 76ers",64,31,0,0.70,"Holmes, Richaun",2.20,13.70
+"Al Horford","Atlanta Hawks",2015-11-21,2015,3213,1610612737,400828078,2,2,12,0,"Turnaround Bank shot","2PT Field Goal",8,"Cleveland Cavaliers",78,26,3,4.30,"Thompson, Tristan",4.00,10.20
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,1,9,29,1,"Turnaround Hook Shot","2PT Field Goal",9,"Miami Heat",2,90,0,1.10,"Bosh, Chris",2.20,8.60
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,3,4,33,0,"Turnaround Hook Shot","2PT Field Goal",6,"Miami Heat",-32,61,2,3.60,"Whiteside, Hassan",3.40,24.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,1,2,16,0,"Turnaround Hook Shot","2PT Field Goal",7,"Miami Heat",-1,70,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-18,2015,3213,1610612737,400828056,2,11,05,0,"Turnaround Hook Shot","2PT Field Goal",13,"Sacramento Kings",115,61,3,7.10,"Koufos, Kosta",2.30,11.70
+"Al Horford","Atlanta Hawks",2016-01-23,2015,3213,1610612737,400828547,4,4,01,0,"Turnaround Hook Shot","2PT Field Goal",3,"Phoenix Suns",28,21,1,3.10,"Len, Alex",2.40,9.60
+"Al Horford","Atlanta Hawks",2015-11-03,2015,3213,1610612737,400827942,4,8,34,0,"Turnaround Hook Shot","2PT Field Goal",6,"Miami Heat",-32,51,0,1.00,"Andersen, Chris",2.90,23.80
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,1,9,49,0,"Turnaround Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",-6,56,1,6.20,"Plumlee, Mason",2.30,6.90
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,4,9,14,0,"Turnaround Hook Shot","2PT Field Goal",8,"Dallas Mavericks",-20,82,3,4.70,"Matthews, Wesley",3.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-08,2015,3213,1610612737,400828667,2,9,44,1,"Turnaround Hook Shot","2PT Field Goal",11,"Orlando Magic",114,21,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,1,9,18,0,"Turnaround Hook Shot","2PT Field Goal",3,"Denver Nuggets",32,11,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-25,2015,3213,1610612737,400828109,3,11,28,0,"Turnaround Hook Shot","2PT Field Goal",9,"Minnesota Timberwolves",96,26,6,5.00,"Towns, Karl-Anthony",3.10,3.40
+"Al Horford","Atlanta Hawks",2016-04-01,2015,3213,1610612737,400829018,4,1,26,0,"Turnaround Hook Shot","2PT Field Goal",8,"Cleveland Cavaliers",-7,80,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-26,2015,3213,1610612737,400828752,4,10,59,0,"Turnaround Hook Shot","2PT Field Goal",6,"Chicago Bulls",-4,62,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-04-13,2015,3213,1610612737,400829108,4,4,59,1,"Turnaround Hook Shot","2PT Field Goal",12,"Washington Wizards",127,16,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-03-01,2015,3213,1610612737,400828782,3,11,23,1,"Turnaround Hook Shot","2PT Field Goal",11,"Golden State Warriors",-102,43,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-18,2015,3213,1610612737,400828276,2,1,35,0,"Turnaround Hook Shot","2PT Field Goal",6,"Boston Celtics",68,7,0,2.30,"Johnson, Amir",1.40,16.40
+"Al Horford","Atlanta Hawks",2016-01-20,2015,3213,1610612737,400828526,1,10,20,0,"Turnaround Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-63,75,1,3.50,"Lillard, Damian",2.30,15.10
+"Al Horford","Atlanta Hawks",2015-11-04,2015,3213,1610612737,400827949,1,6,32,0,"Turnaround Jump Shot","2PT Field Goal",10,"Brooklyn Nets",0,100,2,3.00,"Jack, Jarrett",5.00,11.40
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,1,1,54,0,"Turnaround Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-161,56,0,1.60,"Parker, Jabari",4.60,0.50
+"Al Horford","Atlanta Hawks",2016-02-22,2015,3213,1610612737,400828723,1,0,22,0,"Turnaround Jump Shot","2PT Field Goal",15,"Golden State Warriors",-4,154,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2016-02-19,2015,3213,1610612737,400828695,4,7,58,0,"Turnaround Jump Shot","2PT Field Goal",8,"Miami Heat",78,23,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-09,2015,3213,1610612737,400828215,1,7,02,0,"Turnaround Jump Shot","2PT Field Goal",10,"Dallas Mavericks",92,41,4,6.00,"Nowitzki, Dirk",4.00,0.00
+"Al Horford","Atlanta Hawks",2016-01-15,2015,3213,1610612737,400828486,1,1,21,0,"Turnaround Jump Shot","2PT Field Goal",3,"Milwaukee Bucks",32,3,1,4.20,"Henson, John",2.30,11.50
+"Al Horford","Atlanta Hawks",2015-12-23,2015,3213,1610612737,400828316,1,11,44,0,"Turnaround Jump Shot","2PT Field Goal",10,"Detroit Pistons",-34,101,0,0.70,"Ilyasova, Ersan",3.10,11.50
+"Al Horford","Atlanta Hawks",2015-12-26,2015,3213,1610612737,400828329,1,0,28,0,"Turnaround Jump Shot","2PT Field Goal",5,"New York Knicks",6,57,0,0.90,"Grant, Jerian",4.00,11.30
+"Al Horford","Atlanta Hawks",2016-04-11,2015,3213,1610612737,400829090,1,8,57,1,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-119,41,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,3,6,44,0,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",99,92,3,6.30,"Plumlee, Mason",2.30,8.90
+"Al Horford","Atlanta Hawks",2016-03-17,2015,3213,1610612737,400828902,1,0,00,0,"Turnaround Jump Shot","2PT Field Goal",18,"Denver Nuggets",182,-6,0,0.00,,0.00,0.00
+"Al Horford","Atlanta Hawks",2015-11-01,2015,3213,1610612737,400827926,2,6,52,1,"Turnaround Jump Shot","2PT Field Goal",10,"Charlotte Hornets",100,13,2,7.10,"Hawes, Spencer",4.60,8.70
+"Al Horford","Atlanta Hawks",2015-12-21,2015,3213,1610612737,400828300,1,9,08,1,"Turnaround Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",30,11,1,2.50,"Aminu, Al-Farouq",1.90,3.10
+"Al Horford","Atlanta Hawks",2015-12-10,2015,3213,1610612737,400828218,1,9,00,0,"Turnaround Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-122,8,6,4.90,"Adams, Steven",5.10,10.00

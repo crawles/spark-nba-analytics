@@ -1,0 +1,1069 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,10,33,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,4,6,12,1,"Alley Oop Layup shot","2PT Field Goal",1,"Washington Wizards",-11,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,7,54,1,"Alley Oop Layup shot","2PT Field Goal",1,"Toronto Raptors",-17,8,0,0.00,"Carroll, DeMarre",1.20,19.90
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,2,9,30,1,"Alley Oop Layup shot","2PT Field Goal",1,"Utah Jazz",-19,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,1,05,1,"Alley Oop Layup shot","2PT Field Goal",1,"Oklahoma City Thunder",-12,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,6,14,1,"Alley Oop Layup shot","2PT Field Goal",1,"Denver Nuggets",12,-11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,2,4,26,1,"Cutting Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,3,7,15,1,"Cutting Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,4,13,1,"Cutting Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,1.00,"Motiejunas, Donatas",2.10,19.90
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,4,7,52,1,"Cutting Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,5,54,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,1.00,"Sullinger, Jared",5.60,16.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,3,48,1,"Cutting Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",2,7,0,1.00,"Okafor, Jahlil",5.40,13.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,4,43,1,"Cutting Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",4,8,1,1.80,"Smith, Ish",1.00,6.90
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,0,01,1,"Cutting Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,4,1,50,1,"Cutting Layup Shot","2PT Field Goal",2,"Phoenix Suns",-22,-10,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,4,7,11,1,"Cutting Layup Shot","2PT Field Goal",1,"Orlando Magic",15,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,0,51,1,"Cutting Layup Shot","2PT Field Goal",1,"Boston Celtics",12,7,0,0.70,"Young, James",1.00,12.20
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,8,52,1,"Cutting Layup Shot","2PT Field Goal",1,"New York Knicks",12,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,6,46,1,"Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",10,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,2,3,52,1,"Cutting Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-9,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,3,11,36,0,"Cutting Layup Shot","2PT Field Goal",1,"Phoenix Suns",10,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,4,44,1,"Cutting Layup Shot","2PT Field Goal",1,"Houston Rockets",10,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,1,5,40,1,"Driving Bank shot","2PT Field Goal",7,"New Orleans Pelicans",43,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,3,7,48,1,"Driving Bank shot","2PT Field Goal",9,"Indiana Pacers",94,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,2,2,15,1,"Driving Bank shot","2PT Field Goal",3,"Utah Jazz",19,26,9,11.60,"Neto, Raul",3.80,12.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,1,6,30,1,"Driving Bank shot","2PT Field Goal",8,"Brooklyn Nets",79,21,15,15.70,"Hollis-Jefferson, Rondae",1.90,8.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,2,14,1,"Driving Bank shot","2PT Field Goal",7,"Denver Nuggets",60,41,12,8.90,"Nelson, Jameer",2.50,15.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,3,8,07,0,"Driving Bank shot","2PT Field Goal",4,"Brooklyn Nets",37,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,2,3,26,1,"Driving Bank shot","2PT Field Goal",11,"Indiana Pacers",107,36,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,4,0,19,0,"Driving Bank shot","2PT Field Goal",5,"Dallas Mavericks",40,31,1,2.30,"Felton, Raymond",1.50,20.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,4,2,30,1,"Driving Bank shot","2PT Field Goal",8,"Boston Celtics",-74,31,17,18.50,"Lee, David",0.80,4.40
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,3,10,03,1,"Driving Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,4,4,37,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,3,0,31,1,"Driving Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,2,3.30,"Len, Alex",4.60,10.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,3,10,31,1,"Driving Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,2,2.00,"McLemore, Ben",2.20,19.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,6,25,1,"Driving Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.90,"Walker, Kemba",0.50,15.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,8,02,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",12,21,8,8.70,"Covington, Robert",3.60,16.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,1,18,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Miami Heat",9,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,8,03,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,2,7,7.50,"Plumlee, Mason",4.50,16.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,3,6,45,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Miami Heat",35,11,2,2.60,"Whiteside, Hassan",1.80,8.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,1,4,54,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-1,11,4,5.20,"Rubio, Ricky",1.90,5.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,1,7,40,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New York Knicks",4,11,5,4.10,"Vujacic, Sasha",4.10,20.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,6,46,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Toronto Raptors",6,16,3,2.40,"Valanciunas, Jonas",1.50,12.70
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,2,6,58,0,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Phoenix Suns",25,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,3,9,29,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",-2,11,13,13.60,"Chandler, Tyson",3.70,10.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,4,9,53,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-19,-5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,3,7,38,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",17,16,10,8.30,"Jordan, DeAndre",2.90,23.40
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,7,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Sacramento Kings",-19,31,8,9.20,"Cauley-Stein, Willie",0.80,14.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,2,2,38,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Charlotte Hornets",15,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,2,2,28,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Detroit Pistons",9,33,3,2.50,"Ilyasova, Ersan",4.30,8.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,1,5,04,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Dallas Mavericks",9,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,2,4,08,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",24,0,4,4.50,"Davis, Ed",2.50,11.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,7,27,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Sacramento Kings",-1,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,1,10,51,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Minnesota Timberwolves",11,40,2,2.40,"Garnett, Kevin",0.40,10.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,5,36,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Brooklyn Nets",1,18,2,2.30,"Young, Thaddeus",3.30,9.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,2,10,54,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-9,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,4,9,32,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",55,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,3,5,34,0,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",30,14,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,3,6,51,1,"Driving Floating Bank Jump Shot","2PT Field Goal",4,"Miami Heat",15,47,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,1,10,58,1,"Driving Floating Bank Jump Shot","2PT Field Goal",2,"Memphis Grizzlies",27,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,11,06,0,"Driving Floating Jump Shot","2PT Field Goal",11,"Houston Rockets",-34,110,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,4,6,11,1,"Driving Floating Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",27,41,5,7.70,"Gordon, Eric",2.90,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,3,5,35,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",64,36,13,12.70,"Gasol, Marc",3.50,11.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,2,45,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Sacramento Kings",-9,57,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,7,10,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Chicago Bulls",24,65,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,1,1,17,1,"Driving Floating Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",61,3,3,3.10,"Crabbe, Allen",2.00,8.80
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,0,55,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Houston Rockets",-1,33,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,1,9,29,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Houston Rockets",-14,87,5,5.20,"Howard, Dwight",4.10,13.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,2,1,42,0,"Driving Floating Jump Shot","2PT Field Goal",7,"Dallas Mavericks",71,11,7,6.30,"Nowitzki, Dirk",3.10,16.20
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,3,4,10,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Brooklyn Nets",-2,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,3,28,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Minnesota Timberwolves",10,57,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,2,2,35,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Phoenix Suns",-29,115,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,3,4,51,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Phoenix Suns",-2,67,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,1,1,00,1,"Driving Floating Jump Shot","2PT Field Goal",4,"Brooklyn Nets",45,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,2,11,02,1,"Driving Floating Jump Shot","2PT Field Goal",5,"San Antonio Spurs",25,47,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,9,32,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Boston Celtics",40,41,3,5.70,"Bradley, Avery",2.00,6.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,3,8,43,1,"Driving Floating Jump Shot","2PT Field Goal",8,"Denver Nuggets",9,85,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,3,4,42,0,"Driving Floating Jump Shot","2PT Field Goal",5,"Indiana Pacers",4,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,2,1,00,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Brooklyn Nets",-2,38,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,6,54,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",63,36,13,12.40,"Lillard, Damian",0.50,11.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,4,7,35,1,"Driving Floating Jump Shot","2PT Field Goal",2,"Memphis Grizzlies",1,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,7,40,1,"Driving Floating Jump Shot","2PT Field Goal",4,"New York Knicks",-2,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,1,3,23,1,"Driving Hook Shot","2PT Field Goal",7,"Utah Jazz",74,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,1,6,16,0,"Driving Hook Shot","2PT Field Goal",4,"Toronto Raptors",19,41,3,2.20,"Biyombo, Bismack",3.50,17.30
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,0,19,1,"Driving Hook Shot","2PT Field Goal",6,"Minnesota Timberwolves",60,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,9,33,1,"Driving Hook Shot","2PT Field Goal",6,"Golden State Warriors",38,51,0,0.00,"Curry, Stephen",2.80,14.40
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,7,04,0,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-1,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,2,3,12,1,"Driving Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",12,16,8,9.80,"Towns, Karl-Anthony",2.80,15.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,7,06,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-6,21,6,6.80,"Asik, Omer",2.60,16.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,11,05,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,11,3,3.30,"Anderson, Ryan",2.30,14.20
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,1,02,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",2,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,1,7,53,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",14,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,1,40,1,"Driving Layup Shot","2PT Field Goal",3,"Philadelphia 76ers",25,26,13,12.50,"Noel, Nerlens",3.00,11.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,3,10,52,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-11,-5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,3,1,51,1,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",19,7,0,1.90,"Middleton, Khris",2.20,7.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,10,37,1,"Driving Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",6,7,5,4.60,"Mayo, O.J.",0.50,19.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,5,3,25,1,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",27,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,2,0,57,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-6,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,2,1,07,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",12,3,0,2.90,"Anthony, Carmelo",3.00,18.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,8,15,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",10,8,2,2.60,"McCollum, CJ",2.10,10.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,1,8,01,1,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",6,7,8,7.00,"Leuer, Jon",2.50,16.20
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,8,19,1,"Driving Layup Shot","2PT Field Goal",3,"Memphis Grizzlies",32,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,10,09,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-25,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,6,40,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-25,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,8,41,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",4,11,3,3.90,"Howard, Dwight",2.80,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,1,11,04,0,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",15,11,1,1.30,"Chandler, Tyson",2.60,5.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,0,37,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",17,-1,3,4.50,"Ibaka, Serge",3.00,18.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,1,7,05,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,16,4,2.90,"Adams, Steven",1.90,6.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,2,42,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-17,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,2,27,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",0,-1,4,3.90,"Foye, Randy",2.10,22.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,7,05,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",0,18,5,3.90,"Jokic, Nikola",1.60,21.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,1,9,51,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",28,0,2,2.00,"Nelson, Jameer",2.20,8.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,3,1,37,1,"Driving Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-6,7,2,4.20,"Collison, Nick",2.10,13.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,2,2,57,1,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,0,10,7.60,"Gasol, Marc",3.10,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,3,7,42,0,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",4,2,3,3.10,"Carroll, DeMarre",2.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,10,29,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",25,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,2,6,00,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",12,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,3,1,24,1,"Driving Layup Shot","2PT Field Goal",3,"Dallas Mavericks",25,20,10,10.10,"Nowitzki, Dirk",2.30,14.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,1,8,08,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,0,10,9.80,"Gasol, Marc",1.10,13.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,4,22,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",20,8,3,3.80,"Williams, Marvin",1.80,6.90
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,7,01,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-20,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,8,45,0,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",-14,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,9,03,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-5,15,4,4.20,"Cousins, DeMarcus",1.80,13.40
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,6,50,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",22,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,2,43,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",0,13,4,2.50,"Bargnani, Andrea",2.00,12.70
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,1,8,36,0,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",9,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,6,08,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",14,7,6,5.80,"Young, Thaddeus",3.50,5.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,2,0,42,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-19,2,10,9.20,"Grant, Jerami",2.60,13.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,3,9,13,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-14,11,3,3.20,"Morris, Marcus",2.40,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,2,46,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,3,3,3.90,"Plumlee, Mason",1.90,9.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,3,10,30,1,"Driving Layup Shot","2PT Field Goal",1,"Phoenix Suns",-16,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,3,3,02,0,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-11,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,1,9,44,1,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-16,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,1,05,1,"Driving Layup Shot","2PT Field Goal",0,"Utah Jazz",2,8,11,10.50,"Withey, Jeff",0.80,15.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,10,28,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,11,6,7.70,"Faried, Kenneth",3.00,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,4,26,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",9,21,1,1.70,"Cole, Norris",1.40,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,9,55,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",-22,-1,5,3.60,"Knight, Brandon",1.50,11.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,1,9,08,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",2,21,5,5.40,"Bogut, Andrew",1.60,18.10
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,3,10,15,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,1,05,1,"Driving Layup Shot","2PT Field Goal",4,"Sacramento Kings",-40,21,3,3.60,"Koufos, Kosta",1.50,13.10
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,9,40,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",15,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,3,10,00,1,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-16,16,8,8.00,"Gobert, Rudy",1.30,15.70
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,2,05,0,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,1,10,47,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",14,2,6,8.20,"Gobert, Rudy",1.50,14.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,1,1,20,1,"Driving Layup Shot","2PT Field Goal",0,"Golden State Warriors",9,3,2,2.90,"Clark, Ian",3.40,11.90
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,1,7,27,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",25,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,1,5,20,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",0,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,1,10,19,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-12,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,10,43,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-17,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,9,37,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",10,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,4,2,12,1,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",-9,2,4,5.10,"Patterson, Patrick",2.10,17.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,1,10,32,0,"Driving Layup Shot","2PT Field Goal",0,"Houston Rockets",0,7,6,7.90,"Terry, Jason",2.50,14.80
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,1,0,46,1,"Driving Layup Shot","2PT Field Goal",3,"Minnesota Timberwolves",-34,14,3,4.40,"LaVine, Zach",2.30,18.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,2,0,08,0,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",20,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,3,9,04,1,"Driving Layup Shot","2PT Field Goal",4,"Toronto Raptors",48,2,13,9.90,"Biyombo, Bismack",2.10,13.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,3,4,14,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-1,13,15,15.60,"Whiteside, Hassan",1.60,8.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,7,59,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-20,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,9,57,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-12,0,3,4.90,"Davis, Ed",1.00,8.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,8,35,0,"Driving Layup Shot","2PT Field Goal",2,"Miami Heat",19,11,5,6.00,"Wade, Dwyane",2.40,23.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,3,9,26,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",14,7,4,4.30,"Sullinger, Jared",1.50,10.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,2,5,54,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-4,2,9,7.00,"Dieng, Gorgui",1.50,4.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,2,0,00,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-25,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,5,22,1,"Driving Reverse Layup Shot","2PT Field Goal",3,"Sacramento Kings",-24,28,9,8.00,"Gay, Rudy",2.10,15.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,1,4,12,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",-11,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,1,9,33,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",-2,3,12,9.20,"Ibaka, Serge",2.00,15.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,1,9,20,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-1,-1,3,5.20,"Rubio, Ricky",2.80,19.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,1,4,24,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,-6,0,0.80,"Rubio, Ricky",1.60,14.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,3,5,10,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",1,-1,0,2.00,"Crowder, Jae",4.60,1.70
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,4,6,36,0,"Driving Reverse Layup Shot","2PT Field Goal",0,"Indiana Pacers",6,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,2,2,16,0,"Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,1,7,27,1,"Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,0,0.60,"DeRozan, DeMar",3.40,14.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,3,10,0,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,1,1.60,"Cousins, DeMarcus",2.30,14.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,1,8,39,0,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,13,10.60,"Asik, Omer",1.60,13.60
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,4,0,04,1,"Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,3,7,42,0,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,2,56,1,"Fadeaway Bank shot","2PT Field Goal",6,"Philadelphia 76ers",58,26,9,8.80,"Grant, Jerami",5.30,14.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,10,13,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Houston Rockets",-112,-6,0,0.80,"Terry, Jason",2.90,11.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,1,7,29,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",-114,-6,1,5.10,"Neto, Raul",3.10,16.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,1,7,35,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Phoenix Suns",120,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,3,11,37,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",143,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,1,26,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Utah Jazz",161,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,1,5,43,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Utah Jazz",125,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,3,11,12,1,"Fadeaway Jump Shot","3PT Field Goal",25,"Golden State Warriors",158,198,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,8,11,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Chicago Bulls",30,52,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,3,9,51,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Phoenix Suns",-6,141,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,2,0,36,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Toronto Raptors",60,-1,1,1.50,"Lowry, Kyle",1.90,6.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,7,26,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Houston Rockets",-143,-6,1,2.30,"Howard, Dwight",5.30,5.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,1,7,15,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Houston Rockets",-153,-1,1,2.00,"Terry, Jason",4.80,10.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,4,20,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Orlando Magic",27,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,3,1,30,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",-1,18,11,10.50,"Teletovic, Mirza",0.60,13.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,3,6,53,1,"Finger Roll Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,11,2,3.10,"Bogut, Andrew",1.60,8.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,4,0,17,1,"Floating Jump shot","2PT Field Goal",6,"Indiana Pacers",48,46,1,1.50,"Miles, CJ",5.60,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,8,32,1,"Floating Jump shot","2PT Field Goal",8,"Boston Celtics",-2,80,0,0.50,"Johnson, Amir",7.40,9.70
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,1,9,46,1,"Floating Jump shot","2PT Field Goal",3,"Los Angeles Clippers",-22,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,2,5,50,0,"Floating Jump shot","2PT Field Goal",3,"Los Angeles Clippers",-20,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,4,6,26,1,"Floating Jump shot","2PT Field Goal",7,"Indiana Pacers",33,70,9,8.00,"Ellis, Monta",2.20,12.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,4,3,58,0,"Floating Jump shot","2PT Field Goal",11,"Miami Heat",17,115,9,8.90,"Dragic, Goran",3.40,15.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,2,1,05,0,"Floating Jump shot","2PT Field Goal",5,"Washington Wizards",-35,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,5,31,0,"Floating Jump shot","2PT Field Goal",11,"San Antonio Spurs",69,90,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,10,29,0,"Floating Jump shot","2PT Field Goal",3,"San Antonio Spurs",33,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,4,4,31,1,"Floating Jump shot","2PT Field Goal",6,"Brooklyn Nets",14,61,2,2.00,"Young, Thaddeus",2.80,7.50
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,7,58,1,"Floating Jump shot","2PT Field Goal",6,"San Antonio Spurs",60,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,3,7,08,1,"Floating Jump shot","2PT Field Goal",8,"Chicago Bulls",-78,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,4,5,37,1,"Floating Jump shot","2PT Field Goal",7,"New Orleans Pelicans",-14,72,3,3.20,"Gordon, Eric",2.80,12.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,2,1,38,0,"Floating Jump shot","2PT Field Goal",7,"Miami Heat",38,65,0,0.60,"Whiteside, Hassan",4.70,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,1,10,19,0,"Floating Jump shot","2PT Field Goal",13,"Chicago Bulls",48,124,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,2,3,57,0,"Floating Jump shot","2PT Field Goal",5,"New Orleans Pelicans",38,41,0,0.90,"Evans, Tyreke",0.40,8.70
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,4,3,40,0,"Floating Jump shot","2PT Field Goal",5,"Oklahoma City Thunder",-6,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,1,42,1,"Floating Jump shot","2PT Field Goal",5,"Philadelphia 76ers",-6,54,0,0.60,"Holmes, Richaun",2.20,5.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,2,2,05,1,"Floating Jump shot","2PT Field Goal",6,"Toronto Raptors",25,65,4,3.80,"Valanciunas, Jonas",4.70,9.60
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,10,19,0,"Floating Jump shot","2PT Field Goal",4,"Memphis Grizzlies",33,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,7,55,1,"Floating Jump shot","2PT Field Goal",8,"Sacramento Kings",22,80,1,3.60,"Rondo, Rajon",3.80,12.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,3,3,10,1,"Floating Jump shot","2PT Field Goal",6,"Orlando Magic",60,7,11,11.30,"Gordon, Aaron",3.70,12.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,3,9,21,1,"Floating Jump shot","2PT Field Goal",7,"Oklahoma City Thunder",42,57,2,6.10,"Adams, Steven",3.00,4.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,4,10,51,0,"Floating Jump shot","2PT Field Goal",9,"Oklahoma City Thunder",92,23,0,0.40,"Waiters, Dion",5.60,13.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,4,5,57,0,"Floating Jump shot","2PT Field Goal",7,"Utah Jazz",38,61,4,6.00,"Neto, Raul",5.10,9.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,4,9,00,1,"Floating Jump shot","2PT Field Goal",7,"Utah Jazz",45,65,12,10.20,"Neto, Raul",3.00,12.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,2,23,0,"Floating Jump shot","2PT Field Goal",7,"Golden State Warriors",-2,75,2,7.00,"Curry, Stephen",0.40,5.90
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,8,14,0,"Floating Jump shot","2PT Field Goal",4,"Minnesota Timberwolves",1,46,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,1,10,14,1,"Floating Jump shot","2PT Field Goal",13,"Minnesota Timberwolves",117,70,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,4,2,43,1,"Floating Jump shot","2PT Field Goal",8,"Minnesota Timberwolves",28,85,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,4,6,17,1,"Floating Jump shot","2PT Field Goal",7,"Utah Jazz",-40,62,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,9,21,1,"Floating Jump shot","2PT Field Goal",8,"Golden State Warriors",84,18,4,5.00,"Curry, Stephen",0.50,5.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,4,7,38,0,"Floating Jump shot","2PT Field Goal",3,"Charlotte Hornets",-11,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,2,3,11,1,"Floating Jump shot","2PT Field Goal",4,"Houston Rockets",-25,36,2,2.00,"Terry, Jason",2.00,6.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,3,8,43,1,"Floating Jump shot","2PT Field Goal",9,"Los Angeles Clippers",9,92,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,5,14,0,"Floating Jump shot","2PT Field Goal",12,"Golden State Warriors",-129,-16,0,2.40,"Iguodala, Andre",0.20,5.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,3,46,1,"Floating Jump shot","2PT Field Goal",5,"Houston Rockets",-29,51,0,0.60,"Harden, James",4.20,10.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,4,8,10,1,"Floating Jump shot","2PT Field Goal",4,"Los Angeles Clippers",1,47,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,2,3,08,0,"Floating Jump shot","2PT Field Goal",12,"Los Angeles Clippers",-12,124,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,1,6,48,1,"Floating Jump shot","2PT Field Goal",4,"Houston Rockets",-43,8,0,0.70,"Jones, Terrence",5.80,13.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,1,5,11,1,"Floating Jump shot","2PT Field Goal",3,"Golden State Warriors",24,26,0,1.40,"Curry, Stephen",3.90,11.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,8,27,1,"Floating Jump shot","2PT Field Goal",9,"Chicago Bulls",30,85,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,7,02,0,"Floating Jump shot","2PT Field Goal",12,"Houston Rockets",37,115,6,9.60,"Terry, Jason",2.90,14.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,1,1,52,1,"Floating Jump shot","2PT Field Goal",8,"Detroit Pistons",-6,87,4,3.60,"Blake, Steve",2.10,9.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,5,12,0,"Floating Jump shot","2PT Field Goal",8,"Sacramento Kings",-55,70,0,0.50,"Rondo, Rajon",4.00,15.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,3,10,10,1,"Floating Jump shot","2PT Field Goal",7,"Sacramento Kings",-12,75,4,2.80,"McLemore, Ben",2.90,11.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,4,20,0,"Floating Jump shot","2PT Field Goal",4,"Chicago Bulls",4,46,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,10,56,1,"Floating Jump shot","2PT Field Goal",16,"Dallas Mavericks",112,115,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,6,39,0,"Floating Jump shot","2PT Field Goal",6,"Sacramento Kings",9,62,13,13.50,"Collison, Darren",0.00,9.50
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,3,10,24,1,"Floating Jump shot","2PT Field Goal",3,"Boston Celtics",-38,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,4,1,36,1,"Floating Jump shot","2PT Field Goal",4,"Dallas Mavericks",24,33,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,4,0,35,0,"Floating Jump shot","2PT Field Goal",15,"Dallas Mavericks",92,124,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,2,2,19,0,"Floating Jump shot","2PT Field Goal",8,"Portland Trail Blazers",78,38,3,5.90,"Aminu, Al-Farouq",1.40,5.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,2,33,0,"Floating Jump shot","2PT Field Goal",6,"Portland Trail Blazers",-52,46,7,6.10,"Lillard, Damian",2.60,17.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,9,34,0,"Floating Jump shot","2PT Field Goal",3,"Portland Trail Blazers",12,38,3,5.80,"Lillard, Damian",1.00,10.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,2,1,01,0,"Floating Jump shot","2PT Field Goal",6,"San Antonio Spurs",4,62,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,4,7,25,1,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",30,75,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,0,10,1,"Floating Jump shot","2PT Field Goal",7,"Memphis Grizzlies",51,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,4,46,0,"Floating Jump shot","2PT Field Goal",7,"Miami Heat",46,62,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,11,03,1,"Floating Jump shot","2PT Field Goal",5,"Memphis Grizzlies",-50,-11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,1,2,39,1,"Floating Jump shot","2PT Field Goal",7,"Philadelphia 76ers",27,70,9,10.40,"McConnell, TJ",0.10,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,1,9,23,1,"Floating Jump shot","2PT Field Goal",9,"Minnesota Timberwolves",19,90,6,4.30,"Wiggins, Andrew",1.30,11.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,11,18,1,"Floating Jump shot","2PT Field Goal",10,"Washington Wizards",102,8,0,0.60,"Wall, John",3.60,12.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,3,8,06,0,"Floating Jump shot","2PT Field Goal",6,"New York Knicks",-61,-5,4,4.40,"Galloway, Langston",1.70,6.60
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,4,8,57,1,"Floating Jump shot","2PT Field Goal",9,"Orlando Magic",-70,62,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,4,2,41,1,"Floating Jump shot","2PT Field Goal",13,"Dallas Mavericks",-58,124,4,5.50,"Williams, Deron",2.90,9.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,11,15,0,"Floating Jump shot","2PT Field Goal",8,"Milwaukee Bucks",-83,31,0,0.20,"Mayo, O.J.",4.00,22.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,3,7,53,0,"Floating Jump shot","2PT Field Goal",3,"Milwaukee Bucks",-9,31,1,1.40,"Henson, John",3.90,8.30
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,9,06,1,"Floating Jump shot","2PT Field Goal",11,"Houston Rockets",-40,106,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,9,10,0,"Floating Jump shot","2PT Field Goal",8,"Portland Trail Blazers",-1,82,3,2.90,"Lillard, Damian",7.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,2,4,05,1,"Floating Jump shot","2PT Field Goal",15,"Dallas Mavericks",-151,7,1,1.10,"Matthews, Wesley",3.50,16.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,3,1,06,0,"Floating Jump shot","2PT Field Goal",3,"Oklahoma City Thunder",30,16,10,8.10,"Kanter, Enes",1.70,13.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,2,2,32,1,"Floating Jump shot","2PT Field Goal",6,"Golden State Warriors",-1,62,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,1,56,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Clippers",-32,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,3,27,1,"Floating Jump shot","2PT Field Goal",3,"Denver Nuggets",4,31,12,11.90,"Hickson, JJ",5.20,11.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,4,8,40,1,"Floating Jump shot","2PT Field Goal",8,"Memphis Grizzlies",58,56,0,0.80,"Chalmers, Mario",3.60,6.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,7,22,1,"Floating Jump shot","2PT Field Goal",3,"Denver Nuggets",-20,31,4,5.10,"Harris, Gary",1.10,19.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,3,8,40,0,"Floating Jump shot","2PT Field Goal",5,"Utah Jazz",-4,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,2,3,37,1,"Floating Jump shot","2PT Field Goal",10,"Denver Nuggets",-107,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,2,1,23,1,"Hook Shot","2PT Field Goal",6,"Los Angeles Clippers",46,52,8,7.80,"Griffin, Blake",1.10,2.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,3,3,36,1,"Hook Shot","2PT Field Goal",3,"Indiana Pacers",30,3,1,3.30,"Hill, Jordan",4.40,12.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,5,46,0,"Hook Shot","2PT Field Goal",2,"Philadelphia 76ers",-20,11,2,2.60,"Grant, Jerami",2.40,12.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,8,10,0,"Hook Shot","2PT Field Goal",1,"Utah Jazz",10,2,5,6.00,"Hood, Rodney",2.50,16.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,4,1,14,1,"Jump Bank Shot","2PT Field Goal",4,"Denver Nuggets",-1,41,5,5.60,"Mudiay, Emmanuel",1.20,19.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,2,3,46,0,"Jump Bank Shot","2PT Field Goal",6,"Cleveland Cavaliers",58,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,3,3,42,1,"Jump Bank Shot","2PT Field Goal",12,"Minnesota Timberwolves",120,43,2,3.10,"Muhammad, Shabazz",4.40,12.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,3,48,0,"Jump Bank Shot","2PT Field Goal",4,"Los Angeles Clippers",24,38,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,2,4,51,1,"Jump Bank Shot","2PT Field Goal",6,"Cleveland Cavaliers",56,36,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,0,49,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-68,159,8,8.70,"Barton, Will",4.40,14.80
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,6,43,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-147,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,1,9,05,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-171,174,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,11,22,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",63,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,3,10,09,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-183,174,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,1,53,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",228,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,1,11,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",233,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,1,4,33,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-50,239,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,9,42,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",207,141,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,11,32,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-169,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,1,9,13,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",117,219,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,4,8,47,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",225,100,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,7,29,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-225,-11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,4,4,52,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-158,205,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,4,11,06,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-232,43,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,3,7,12,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-2,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,6,59,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",212,151,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,3,10,09,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",61,249,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,4,21,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-7,267,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,1,8,09,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",117,223,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,1,1,06,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",146,200,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,4,10,44,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-74,234,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,4,4,10,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",-237,-16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,4,3,21,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",240,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,2,0,33,0,"Jump Shot","3PT Field Goal",27,"Boston Celtics",-176,205,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,4,3,40,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",10,43,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,0,43,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-138,210,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,4,7,02,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",15,257,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,4,5,32,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-214,144,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,1,8,16,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-40,239,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,5,56,1,"Jump Shot","2PT Field Goal",10,"Miami Heat",101,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,1,10,36,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",173,174,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,3,4,16,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",12,195,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,3,6,10,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-91,229,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,2,2,03,0,"Jump Shot","2PT Field Goal",12,"Utah Jazz",-76,95,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,9,50,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",58,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,8,34,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-225,110,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,2,5,12,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-183,169,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,4,2,21,1,"Jump Shot","3PT Field Goal",22,"Utah Jazz",-228,-16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,11,15,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",97,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,1,58,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",50,36,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,1,14,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-140,219,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,3,13,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",37,242,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,0,30,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-58,242,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,1,9,08,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",91,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,3,10,30,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",91,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,2,8,36,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-241,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,2,6,51,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",12,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,3,5,15,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-245,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,4,3,39,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-173,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,4,4,31,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",50,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,4,3,31,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-222,87,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,5,57,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-178,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,2,0,31,0,"Jump Shot","3PT Field Goal",29,"Memphis Grizzlies",-163,242,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,1,9,53,1,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",135,223,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,1,9,23,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",15,244,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,2,7,12,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-232,-21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,2,5,37,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",37,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,1,10,21,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-217,139,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,1,5,43,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",112,232,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,2,3,05,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-115,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,1,6,38,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-78,252,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,4,4,23,1,"Jump Shot","3PT Field Goal",27,"Sacramento Kings",-171,210,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,2,31,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-181,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,4,0,47,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-161,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,3,9,55,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-127,232,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,1,22,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",127,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,6,27,0,"Jump Shot","2PT Field Goal",9,"New York Knicks",-11,95,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,10,03,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",14,28,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,4,15,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",96,75,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,10,25,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",-11,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,1,11,25,0,"Jump Shot","2PT Field Goal",7,"New York Knicks",79,-4,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,6,48,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-112,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,9,02,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",200,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,4,7,41,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-165,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,2,6,33,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",81,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,2,3,05,0,"Jump Shot","2PT Field Goal",9,"Cleveland Cavaliers",27,92,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,4,8,12,1,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-127,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,4,9,13,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-196,156,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,2,10,21,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-209,134,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,4,2,32,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",74,229,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,1,8,04,0,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",166,170,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,4,0,19,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",117,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,10,02,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-88,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,4,3,24,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-237,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,3,8,32,0,"Jump Shot","3PT Field Goal",31,"Orlando Magic",-155,277,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,0,02,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-11,244,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,4,2,46,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-130,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,4,43,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",168,180,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,3,4,50,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-155,208,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,0,26,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",245,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,2,10,02,0,"Jump Shot","2PT Field Goal",3,"Orlando Magic",-17,33,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,1,1,14,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",74,242,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,1,20,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-74,80,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,3,4,35,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-173,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,10,07,1,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",-150,46,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,4,2,16,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-120,214,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,3,09,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-150,223,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,2,3,47,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",184,33,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,3,7,01,0,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",27,18,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,10,57,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",161,188,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,2,2,51,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",225,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,2,1,41,0,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",1,52,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,1,13,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-196,164,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,3,10,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-138,213,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,3,58,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-138,224,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,0,54,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-196,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,3,7,48,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",114,218,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,1,4,22,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-160,195,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,4,1,55,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-94,223,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,4,2,56,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",119,242,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,2,3,29,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",127,-11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,2,9,54,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-248,-19,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,4,2,47,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-246,-5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,5,44,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-184,208,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,2,42,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-201,178,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,8,33,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-29,252,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,4,6,00,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",195,139,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,1,8,52,0,"Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",15,43,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,2,8,33,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",120,87,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,1,9,09,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-142,208,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,3,0,35,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-19,267,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,4,2,49,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-187,188,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,3,6,48,0,"Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",-89,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,4,1,14,1,"Jump Shot","3PT Field Goal",23,"Cleveland Cavaliers",230,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,1,5,25,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",141,200,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,9,46,0,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",4,67,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,1,8,47,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",64,232,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,1,10,34,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",82,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,8,17,0,"Jump Shot","2PT Field Goal",15,"Chicago Bulls",117,97,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,3,10,28,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",104,232,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,4,9,28,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-99,232,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,9,29,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",-112,164,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,8,20,0,"Jump Shot","2PT Field Goal",20,"Chicago Bulls",122,165,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,9,01,1,"Jump Shot","2PT Field Goal",4,"Chicago Bulls",-7,46,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,4,10,30,1,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",112,188,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,2,9,03,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-227,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,4,6,26,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-88,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,4,8,54,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",123,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,6,22,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",38,249,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,3,10,38,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",235,-15,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,7,19,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-124,213,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,1,11,35,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",177,128,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,3,9,18,0,"Jump Shot","2PT Field Goal",5,"Milwaukee Bucks",45,39,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,3,22,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-169,195,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,5,44,1,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-199,162,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,4,2,24,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",223,-15,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,4,2,53,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-179,159,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,5,51,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-151,193,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,11,07,0,"Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-92,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,1,2,20,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-1,252,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,2,29,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-171,178,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,2,2,34,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-1,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,4,9,00,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-42,244,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,2,4,00,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",235,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,3,8,05,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-81,257,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,3,10,32,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",86,180,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,4,8,57,0,"Jump Shot","2PT Field Goal",16,"Indiana Pacers",-165,-21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,2,2,49,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",159,208,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,2,6,43,1,"Jump Shot","3PT Field Goal",28,"New Orleans Pelicans",110,262,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,4,7,11,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-178,51,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,4,7,56,0,"Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",73,43,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,4,6,38,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-238,90,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,3,1,15,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-14,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,2,2,14,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-225,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,1,9,34,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",-117,126,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,1,6,24,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",205,141,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,1,7,56,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-166,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,2,0,02,0,"Jump Shot","2PT Field Goal",3,"Charlotte Hornets",2,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,1,8,51,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",225,100,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,3,9,14,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",-132,159,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,1,10,27,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-171,200,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,4,3,20,0,"Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",43,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,4,0,23,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-60,267,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,2,0,50,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",55,111,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,3,17,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",123,131,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,2,1,01,0,"Jump Shot","2PT Field Goal",3,"Chicago Bulls",32,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,11,09,0,"Jump Shot","2PT Field Goal",13,"Chicago Bulls",-125,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,6,04,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-171,180,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,2,0,07,0,"Jump Shot","2PT Field Goal",14,"Chicago Bulls",-99,110,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,9,46,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-153,193,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,1,4,08,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-47,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,0,00,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-171,57,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,1,0,00,0,"Jump Shot","3PT Field Goal",43,"Dallas Mavericks",-78,424,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,2,6,18,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-47,90,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,6,19,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,4,11,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-135,218,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,3,0,30,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-137,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,4,1,04,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-155,95,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,7,45,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-238,-1,0,0.90,"Plumlee, Mason",8.50,18.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,2,11,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-237,2,0,1.00,"Vonleh, Noah",9.70,15.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,3,7,24,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-222,111,0,1.10,"Lillard, Damian",5.10,10.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-23,2015,2528426,1610612747,400828549,1,0,05,0,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-12,144,3,10.00,"Crabbe, Allen",2.90,5.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,3,9,53,1,"Jump Shot","2PT Field Goal",8,"San Antonio Spurs",-83,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,1,0,55,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",96,234,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,3,11,07,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",19,259,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,2,0,38,0,"Jump Shot","2PT Field Goal",10,"Brooklyn Nets",0,106,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,3,10,53,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",42,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,9,43,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-12,262,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,3,8,12,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-156,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,4,9,48,0,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",20,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,3,9,21,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",101,239,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,3,6,08,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-43,257,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,2,1,11,0,"Jump Shot","2PT Field Goal",7,"Memphis Grizzlies",53,47,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,7,10,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",138,214,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,4,7,47,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-228,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,2,24,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-30,183,4,6.30,"Rondo, Rajon",4.60,7.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,2,11,35,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",222,8,0,0.80,"Belinelli, Marco",4.40,3.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,1,8,53,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",235,11,0,0.70,"Gay, Rudy",4.20,8.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,1,11,19,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-50,21,4,4.70,"Cauley-Stein, Willie",3.90,4.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,6,30,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",53,7,0,1.80,"Gay, Rudy",2.90,13.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,1,34,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",89,156,2,2.20,"Thornton, Marcus",2.70,10.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,1,2,00,0,"Jump Shot","2PT Field Goal",17,"Houston Rockets",96,146,5,4.90,"Harden, James",4.00,3.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,2,0,00,0,"Jump Shot","3PT Field Goal",50,"Houston Rockets",53,501,1,1.90,"Lawson, Ty",11.40,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,11,22,0,"Jump Shot","2PT Field Goal",6,"Utah Jazz",46,43,6,6.30,"Burke, Trey",0.00,5.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,8,33,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-156,183,2,3.80,"Hood, Rodney",4.50,8.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,3,8,31,0,"Jump Shot","2PT Field Goal",3,"Utah Jazz",33,8,1,1.30,"Lyles, Trey",2.30,12.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,6,05,0,"Jump Shot","2PT Field Goal",6,"Utah Jazz",61,31,5,6.60,"Johnson, Chris",1.00,13.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,1,10,09,1,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-147,149,2,3.50,"Neto, Raul",2.10,10.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,1,10,17,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",109,149,5,6.40,"Bogut, Andrew",4.90,15.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,0,05,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-12,28,9,6.90,"Iguodala, Andre",2.10,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,6,57,1,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",120,26,7,6.70,"Bogut, Andrew",8.50,16.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,4,5,37,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-201,178,0,1.00,"Barbosa, Leandro",4.10,17.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,4,45,1,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-235,-19,0,0.80,"Gordon, Eric",1.70,3.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,11,14,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-240,65,0,0.70,"Neto, Raul",4.60,2.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,5,14,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-96,228,0,0.80,"Neto, Raul",5.80,7.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,2,5,11,0,"Jump Shot","2PT Field Goal",5,"Utah Jazz",-1,56,6,8.40,"Lyles, Trey",2.80,14.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,6,57,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-194,8,0,0.40,"Neto, Raul",3.20,11.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,5,38,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-240,36,0,0.90,"Lyles, Trey",8.00,20.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,10,01,1,"Jump Shot","2PT Field Goal",6,"Utah Jazz",-43,46,3,4.70,"Neto, Raul",2.20,2.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,8,00,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-243,-6,0,0.70,"Lyles, Trey",7.90,17.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,7,29,0,"Jump Shot","2PT Field Goal",10,"Utah Jazz",-104,8,7,5.90,"Neto, Raul",3.60,7.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,2,2,02,0,"Jump Shot","2PT Field Goal",21,"Oklahoma City Thunder",-32,208,2,3.60,"Westbrook, Russell",5.70,1.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,3,5,00,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-171,170,0,0.90,"Westbrook, Russell",15.60,7.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,2,0,48,0,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",132,111,5,4.00,"Payne, Cameron",3.20,9.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,3,0,40,1,"Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-1,70,6,6.20,"Durant, Kevin",1.90,6.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,1,0,00,1,"Jump Shot","3PT Field Goal",40,"Oklahoma City Thunder",94,395,2,2.80,"Waiters, Dion",3.50,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,2,10,51,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",12,80,0,0.00,"Collison, Darren",2.70,14.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,4,56,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-117,149,0,3.00,"McLemore, Ben",4.20,3.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,1,50,0,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",42,18,2,2.80,"Cousins, DeMarcus",3.80,7.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,1,8,46,0,"Jump Shot","2PT Field Goal",17,"Sacramento Kings",-92,154,14,13.20,"McLemore, Ben",3.00,11.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,2,10,21,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-242,9,0,0.90,"Curry, Seth",5.50,8.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,1,34,1,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",191,120,2,2.30,"Cousins, DeMarcus",5.30,13.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,3,11,01,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",137,208,1,4.00,"McLemore, Ben",3.60,8.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,0,31,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",10,57,21,19.20,"Rondo, Rajon",0.40,4.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,0,11,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-42,46,19,17.40,"Clark, Ian",2.30,5.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,3,00,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-241,56,4,6.00,"Speights, Marreese",5.00,18.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,1,4,45,0,"Jump Shot","2PT Field Goal",10,"Golden State Warriors",-66,80,7,7.90,"Curry, Stephen",2.10,15.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,10,59,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-245,-16,0,1.10,"Curry, Stephen",2.50,14.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,2,4,35,0,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",-22,70,3,3.70,"Curry, Stephen",2.80,3.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,9,53,0,"Jump Shot","2PT Field Goal",11,"Golden State Warriors",33,105,6,6.40,"Rush, Brandon",2.20,16.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,7,21,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",189,180,1,1.00,"Curry, Stephen",4.20,8.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,1,10,22,1,"Jump Shot","2PT Field Goal",2,"Golden State Warriors",-7,26,0,1.60,"Thompson, Klay",4.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,8,29,1,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",-222,3,1,1.80,"Thompson, Klay",5.40,5.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,2,1,47,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",32,38,2,4.50,"Leuer, Jon",2.60,5.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,2,11,40,0,"Jump Shot","3PT Field Goal",26,"Phoenix Suns",-156,218,0,0.80,"Goodwin, Archie",7.20,7.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,3,3,19,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-11,149,0,0.80,"Knight, Brandon",7.70,11.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,4,3,46,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",146,188,1,2.00,"Knight, Brandon",3.30,2.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,2,3,54,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-125,120,2,9.20,"Noel, Nerlens",5.70,13.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,11,45,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-160,21,0,0.90,"Sampson, JaKarr",5.50,12.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,0,07,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",227,8,0,0.80,"Holiday, Jrue",4.40,5.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,1,7,02,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-241,11,3,3.00,"Evans, Tyreke",3.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,5,52,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",119,219,0,0.80,"Cole, Norris",5.20,17.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,11,34,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-240,-26,0,2.00,"Evans, Tyreke",2.50,0.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,1,11,20,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",37,13,5,4.90,"Cunningham, Dante",0.50,20.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,3,50,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-183,193,0,0.90,"Gee, Alonzo",15.30,16.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,3,9,06,1,"Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",-81,85,11,9.10,"Noel, Nerlens",3.10,1.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,3,10,30,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",87,223,3,5.00,"Grant, Jerami",4.60,1.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,8,50,0,"Jump Shot","2PT Field Goal",15,"Philadelphia 76ers",-151,28,0,0.30,"Sampson, JaKarr",5.80,6.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,3,4,16,1,"Jump Shot","3PT Field Goal",26,"Boston Celtics",195,178,0,0.60,"Johnson, Amir",7.30,5.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,4,3,21,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",92,156,10,15.00,"Thomas, Isaiah",2.20,13.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,2,0,43,1,"Jump Shot","2PT Field Goal",21,"Boston Celtics",-91,190,19,17.10,"Smart, Marcus",4.50,7.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,4,0,41,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",114,144,22,24.90,"Thomas, Isaiah",2.30,0.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,3,14,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-169,97,0,0.80,"Turner, Evan",4.60,14.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,2,4,12,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-52,242,0,0.90,"Walker, Kemba",5.30,2.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,4,1,12,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-6,249,0,0.80,"Walker, Kemba",6.30,23.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,11,03,0,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-145,160,0,1.10,"Walker, Kemba",4.50,8.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,4,1,46,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-114,159,11,8.30,"Williams, Marvin",4.70,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,2,08,0,"Jump Shot","2PT Field Goal",9,"Charlotte Hornets",-6,90,10,9.80,"Walker, Kemba",1.30,13.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,10,38,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",2,65,9,8.10,"Walker, Kemba",1.20,16.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,1,0,10,0,"Jump Shot","2PT Field Goal",16,"Charlotte Hornets",141,80,2,3.20,"Lin, Jeremy",1.70,1.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,8,36,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-138,228,0,0.90,"Walker, Kemba",4.40,4.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,0,45,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-34,193,2,2.80,"Lin, Jeremy",2.00,11.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,3,10,32,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",235,28,0,0.80,"Hairston, PJ",3.60,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,1,3,07,0,"Jump Shot","2PT Field Goal",6,"Charlotte Hornets",27,56,3,3.20,"Lin, Jeremy",0.40,15.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,3,9,10,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",150,210,0,0.90,"Gasol, Marc",18.40,16.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,2,4,43,1,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",140,156,10,6.70,"Green, Jeff",5.90,12.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,3,7,59,1,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",130,169,3,3.30,"Lee, Courtney",2.10,13.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,3,2,03,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",78,169,8,9.50,"Jordan, DeAndre",3.00,0.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,2,8,15,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",-173,228,0,0.70,"Crawford, Jamal",4.70,23.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,2,5,34,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-160,193,2,2.20,"Griffin, Blake",5.80,1.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-109,228,4,2.80,"Paul, Chris",4.90,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,2,3,27,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",110,149,7,7.40,"Paul, Chris",5.60,16.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,3,10,28,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",225,11,0,0.80,"Ibaka, Serge",7.20,1.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,2,14,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",191,-6,3,3.80,"Ibaka, Serge",4.70,2.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,3,10,59,0,"Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",45,116,12,10.90,"Westbrook, Russell",5.80,11.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,6,23,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-84,239,0,0.90,"Adams, Steven",14.00,17.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,1,46,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",159,2,5,5.20,"Jokic, Nikola",5.00,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,0,09,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-240,-10,0,0.80,"Harris, Gary",1.80,6.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,4,11,36,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",166,0,5,4.80,"Foye, Randy",3.30,0.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,8,18,1,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",109,57,1,3.60,"Nelson, Jameer",1.60,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,1,11,37,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",123,139,2,3.20,"Nelson, Jameer",5.00,4.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,2,0,39,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-205,164,0,0.60,"Nelson, Jameer",2.80,18.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,3,5,53,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-192,164,0,1.50,"Adams, Steven",7.30,2.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,3,8,39,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",151,47,0,0.50,"Westbrook, Russell",5.80,14.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,5,46,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-223,16,0,0.00,"Westbrook, Russell",5.70,3.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,3,13,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",209,8,4,6.60,"Ibaka, Serge",5.60,1.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,1,10,57,1,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-151,28,0,0.60,"Ibaka, Serge",5.30,0.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,1,33,0,"Jump Shot","3PT Field Goal",25,"Houston Rockets",2,252,0,0.70,"Terry, Jason",5.30,4.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,4,1,26,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-135,229,1,2.60,"Brewer, Corey",4.30,10.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,10,20,0,"Jump Shot","2PT Field Goal",8,"Houston Rockets",82,16,1,3.70,"Howard, Dwight",2.80,6.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,4,1,49,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-151,193,0,0.80,"Brewer, Corey",5.60,6.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,2,4,14,1,"Jump Shot","2PT Field Goal",17,"Houston Rockets",104,141,0,0.70,"Beverley, Patrick",4.90,6.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,4,3,52,0,"Jump Shot","3PT Field Goal",26,"Houston Rockets",-132,232,0,0.90,"Harden, James",4.60,11.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,11,32,0,"Jump Shot","3PT Field Goal",28,"Houston Rockets",-246,144,0,0.80,"Beverley, Patrick",3.70,19.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,2,8,34,0,"Jump Shot","2PT Field Goal",22,"Milwaukee Bucks",-137,174,3,3.20,"Carter-Williams, Michael",4.00,1.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,3,9,35,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-196,164,0,0.80,"Mayo, O.J.",4.50,16.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,2,3,51,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-241,7,0,1.80,"Mayo, O.J.",4.50,1.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,3,9,58,1,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",107,11,2,2.80,"Mayo, O.J.",4.40,6.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,11,19,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",92,170,5,6.10,"Mayo, O.J.",3.30,4.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,1,8,41,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",161,183,2,1.80,"Rubio, Ricky",4.40,12.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,3,8,41,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",189,149,0,1.00,"Rubio, Ricky",15.40,13.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,1,9,40,1,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",1,144,0,0.70,"Martin, Kevin",4.50,13.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-09,2015,2528426,1610612747,400828212,2,0,49,0,"Jump Shot","2PT Field Goal",14,"Minnesota Timberwolves",146,18,19,18.80,"Rubio, Ricky",2.50,5.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,4,1,05,0,"Jump Shot","2PT Field Goal",7,"Toronto Raptors",24,75,2,1.90,"Biyombo, Bismack",0.80,7.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,1,11,21,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-150,218,0,0.80,"Lowry, Kyle",4.30,9.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,4,1,49,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-220,146,0,0.90,"Joseph, Cory",3.80,14.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,1,9,54,1,"Jump Shot","2PT Field Goal",14,"Toronto Raptors",146,28,1,1.50,"Lowry, Kyle",3.70,18.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,3,0,35,0,"Jump Shot","2PT Field Goal",17,"Detroit Pistons",158,70,8,8.00,"Drummond, Andre",6.60,12.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,2,0,08,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-19,31,20,18.30,"Baynes, Aron",0.90,5.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,3,1,32,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-148,213,0,0.80,"Caldwell-Pope, Kentavious",5.00,9.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,3,2,55,0,"Jump Shot","2PT Field Goal",21,"Detroit Pistons",173,129,8,7.90,"Johnson, Stanley",5.30,15.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,1,3,43,0,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",133,46,2,4.20,"Jackson, Reggie",0.20,12.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,1,11,01,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",127,106,0,1.20,"Caldwell-Pope, Kentavious",3.40,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,1,0,03,0,"Jump Shot","2PT Field Goal",5,"Detroit Pistons",-11,51,10,9.10,"Blake, Steve",1.90,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,2,1,08,1,"Jump Shot","2PT Field Goal",10,"Detroit Pistons",84,65,4,5.30,"Jackson, Reggie",4.90,5.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,2,0,46,1,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-94,121,8,8.10,"Caldwell-Pope, Kentavious",2.00,16.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,2,0,01,1,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",133,237,6,7.80,"Green, Draymond",5.10,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,4,1,32,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-91,174,10,12.80,"Noel, Nerlens",3.90,2.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,3,1,49,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",66,70,10,10.90,"Wall, John",2.70,12.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,4,1,13,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",12,139,15,16.60,"Dudley, Jared",0.60,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,5,14,0,"Jump Shot","3PT Field Goal",22,"Washington Wizards",223,-26,1,1.40,"Beal, Bradley",4.80,16.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,4,4,24,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",112,110,13,12.80,"Wall, John",5.00,11.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,2,0,49,0,"Jump Shot","2PT Field Goal",11,"Washington Wizards",104,56,12,17.00,"Gortat, Marcin",4.50,3.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,4,00,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-245,-16,0,0.60,"Beal, Bradley",3.60,15.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,1,11,1,"Jump Shot","2PT Field Goal",8,"Washington Wizards",-83,16,0,0.00,"Sessions, Ramon",0.00,15.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,1,7,09,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-148,141,1,1.60,"Matthews, Wesley",7.90,18.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,1,33,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-130,164,12,9.30,"Bledsoe, Eric",3.20,13.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,1,8,22,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",-81,159,0,0.80,"Knight, Brandon",5.10,8.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,8,58,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-142,8,0,1.10,"Chandler, Tyson",5.10,3.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,10,52,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",189,164,0,0.70,"Bledsoe, Eric",5.00,12.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,2,1,12,1,"Jump Shot","2PT Field Goal",16,"Phoenix Suns",-165,-5,3,2.20,"Leuer, Jon",5.00,13.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,2,4,43,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-199,165,0,0.70,"Dinwiddie, Spencer",3.90,12.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,3,5,59,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",64,124,2,2.30,"Caldwell-Pope, Kentavious",1.10,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,3,7,15,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-145,223,0,0.80,"Caldwell-Pope, Kentavious",9.40,13.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,1,7,33,1,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",176,200,0,1.00,"Caldwell-Pope, Kentavious",5.90,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,3,9,01,0,"Jump Shot","2PT Field Goal",12,"Orlando Magic",-129,2,1,1.40,"Fournier, Evan",1.60,6.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,2,0,03,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",16,250,0,0.80,"Payton, Elfrid",4.30,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,2,4,16,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",66,247,0,0.70,"Fournier, Evan",5.60,12.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,2,0,08,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",122,141,19,19.90,"Fournier, Evan",3.60,4.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,1,11,41,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-117,115,2,3.30,"Oladipo, Victor",2.30,7.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,4,3,58,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",230,62,0,0.70,"Lowry, Kyle",4.90,21.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,10,14,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-219,120,0,0.80,"Wade, Dwyane",5.70,12.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,2,1,42,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",92,159,4,3.30,"Bosh, Chris",4.10,18.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,2,48,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-189,154,0,0.70,"Winslow, Justise",5.80,6.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,4,03,1,"Jump Shot","2PT Field Goal",18,"Miami Heat",17,188,3,3.70,"Dragic, Goran",5.30,11.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,3,8,21,1,"Jump Shot","2PT Field Goal",20,"Miami Heat",194,52,0,1.50,"Wade, Dwyane",3.60,12.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,1,4,31,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",81,95,5,5.30,"McConnell, TJ",1.50,9.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,4,4,39,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-92,131,11,10.40,"Okafor, Jahlil",5.50,4.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,2,0,00,0,"Jump Shot","3PT Field Goal",28,"Philadelphia 76ers",213,185,1,0.10,"Covington, Robert",8.50,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,4,5,29,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-129,214,0,0.70,"Canaan, Isaiah",2.30,20.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,3,9,56,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-185,154,1,1.30,"Felton, Raymond",5.00,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,3,1,00,0,"Jump Shot","2PT Field Goal",15,"Dallas Mavericks",47,148,10,8.10,"Harris, Devin",2.30,16.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,1,0,47,0,"Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-35,109,14,13.90,"Barea, Jose Juan",3.20,10.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,3,0,01,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,38,0,0.80,"Barea, Jose Juan",3.90,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,2,3,34,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",38,245,0,1.10,"Villanueva, Charlie",7.80,13.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,9,51,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-199,149,2,1.70,"Jack, Jarrett",3.70,13.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,2,5,42,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-11,267,0,0.80,"Jack, Jarrett",5.60,14.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,4,2,04,0,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",9,144,2,2.00,"Jack, Jarrett",2.50,5.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,5,13,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",69,252,0,0.80,"Jack, Jarrett",6.60,15.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,1,3,57,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-202,154,0,0.60,"Jack, Jarrett",5.40,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,3,22,1,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-1,190,4,4.20,"McConnell, TJ",1.80,0.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,2,4,26,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-160,203,0,0.80,"Green, Draymond",4.00,15.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,6,06,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",125,82,2,2.40,"Thompson, Klay",2.30,17.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,1,8,26,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",115,218,0,1.50,"Ellis, Monta",6.40,17.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,3,1,32,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",105,249,1,1.70,"Ellis, Monta",4.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,3,2,19,0,"Jump Shot","2PT Field Goal",7,"Indiana Pacers",9,72,4,4.80,"Stuckey, Rodney",4.90,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,3,8,03,0,"Jump Shot","2PT Field Goal",11,"Indiana Pacers",43,106,0,0.80,"Mahinmi, Ian",9.20,10.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,1,5,19,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",141,203,0,2.10,"Ellis, Monta",10.10,11.80
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,1,43,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",-166,105,1,2.30,"Collison, Darren",1.60,13.90
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,8,12,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-235,2,0,0.70,"McLemore, Ben",7.30,11.80
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,6,51,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",40,247,0,1.30,"McLemore, Ben",9.30,16.30
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,3,11,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-55,23,4,4.40,"Cousins, DeMarcus",0.00,18.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,1,2,14,1,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-189,7,0,1.00,"Schroder, Dennis",5.10,9.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,4,0,28,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",32,242,4,3.30,"Frazier, Tim",2.60,21.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,4,9,14,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",125,203,2,4.00,"Davis, Ed",4.40,1.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,4,5,41,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-47,21,12,10.00,"Plumlee, Mason",3.50,0.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,2,3,29,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",145,198,0,0.70,"Lillard, Damian",7.20,16.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,3,0,55,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-220,101,0,0.90,"Harkless, Maurice",6.10,16.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,3,9,41,1,"Jump Shot","3PT Field Goal",28,"Portland Trail Blazers",-201,198,0,0.90,"McCollum, CJ",4.30,14.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,4,2,22,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",228,13,0,0.70,"Mudiay, Emmanuel",4.40,16.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,2,0,27,0,"Jump Shot","3PT Field Goal",27,"Denver Nuggets",-83,257,1,1.50,"Harris, Gary",4.00,14.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,6,03,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-106,154,3,4.50,"Harris, Gary",3.90,18.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,4,3,14,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",132,120,4,4.30,"Ellis, Monta",2.80,6.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,8,18,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",48,170,6,6.60,"Harris, Gary",4.50,8.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,7,02,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-243,2,0,0.90,"Mudiay, Emmanuel",6.90,17.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,4,12,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-92,178,3,3.60,"Gallinari, Danilo",7.10,7.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,2,0,47,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-83,247,0,0.80,"Harris, Gary",7.10,14.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,4,1,35,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-171,193,1,2.20,"McCollum, CJ",3.50,18.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,0,38,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",51,247,5,7.30,"Lillard, Damian",1.80,16.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,1,35,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-1,51,6,5.50,"Plumlee, Mason",2.50,16.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,9,16,0,"Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-63,51,6,5.30,"McCollum, CJ",3.80,10.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,10,08,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-110,106,6,4.80,"McCollum, CJ",4.00,17.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,8,54,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-240,0,0,0.90,"McCollum, CJ",4.20,14.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,4,4,43,0,"Jump Shot","2PT Field Goal",14,"New York Knicks",-65,131,3,5.40,"Galloway, Langston",2.10,11.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,2,3,26,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",123,11,1,3.70,"Vujacic, Sasha",4.60,13.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,4,0,30,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",-230,-26,0,0.70,"Calderon, Jose",2.10,23.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,4,1,21,0,"Jump Shot","2PT Field Goal",17,"New York Knicks",-47,169,3,3.40,"Calderon, Jose",2.10,20.40
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,1,7,40,0,"Jump Shot","2PT Field Goal",10,"Minnesota Timberwolves",92,56,11,12.80,"Wiggins, Andrew",2.20,11.40
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,2,2,29,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",6,259,1,3.30,"Rubio, Ricky",5.10,3.30
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,3,7,20,0,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",220,-8,0,0.90,"Rubio, Ricky",3.80,13.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,4,6,24,1,"Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-53,152,8,9.20,"Rubio, Ricky",1.60,14.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,4,4,48,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-160,23,0,0.80,"Williams, Deron",2.90,8.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,3,5,43,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",99,223,0,0.70,"Felton, Raymond",5.50,5.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,1,9,45,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-232,92,0,0.90,"Matthews, Wesley",5.80,13.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,3,11,41,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",205,141,0,0.70,"Teague, Jeff",4.30,7.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,3,7,42,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",233,46,0,0.90,"Teague, Jeff",5.30,20.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,3,2,31,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-230,31,0,1.40,"Teague, Jeff",8.10,8.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,3,6,53,0,"Jump Shot","2PT Field Goal",3,"Washington Wizards",9,38,3,3.70,"Porter, Otto",3.60,9.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,7,20,1,"Jump Shot","2PT Field Goal",18,"Washington Wizards",171,57,6,4.00,"Beal, Bradley",4.10,12.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,4,1,08,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",-4,82,0,0.00,"Dudley, Jared",1.90,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,3,9,12,1,"Jump Shot","2PT Field Goal",14,"Washington Wizards",-17,139,3,4.40,"Beal, Bradley",3.10,10.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,0,00,0,"Jump Shot","3PT Field Goal",43,"Philadelphia 76ers",192,385,2,2.20,"Noel, Nerlens",4.30,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,8,48,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",0,180,6,5.00,"Covington, Robert",3.60,13.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,2,4,57,0,"Jump Shot","2PT Field Goal",11,"Philadelphia 76ers",-104,36,1,1.90,"Thompson, Hollis",0.60,19.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,1,9,01,0,"Jump Shot","2PT Field Goal",5,"Philadelphia 76ers",51,16,6,6.30,"Grant, Jerami",2.00,18.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,0,07,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-60,164,24,19.90,"Thompson, Hollis",4.90,4.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,4,5,57,0,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-1,178,10,8.10,"Okafor, Jahlil",7.30,15.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,2,3,13,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",233,-1,0,0.60,"Ellis, Monta",9.50,11.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,4,4,01,1,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",114,100,10,9.10,"Ellis, Monta",7.60,9.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,4,4,58,0,"Jump Shot","2PT Field Goal",6,"Indiana Pacers",-45,41,7,8.50,"Ellis, Monta",0.60,16.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,1,1,51,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-74,60,18,18.50,"Green, Draymond",2.90,5.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,6,53,0,"Jump Shot","2PT Field Goal",6,"Golden State Warriors",-61,28,0,0.80,"Curry, Stephen",1.80,12.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,2,5,59,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",117,210,0,1.00,"Lillard, Damian",13.70,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,3,35,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",91,242,2,2.40,"Lillard, Damian",4.20,6.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,4,47,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-135,213,0,0.90,"DeRozan, DeMar",8.80,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,11,05,1,"Jump Shot","2PT Field Goal",19,"Toronto Raptors",-120,156,2,2.80,"DeRozan, DeMar",2.50,9.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,2,2,52,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",137,198,0,0.90,"Lowry, Kyle",4.10,20.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,4,4,08,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-202,149,0,0.80,"Goodwin, Archie",6.10,13.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,10,22,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",232,31,0,0.60,"Bledsoe, Eric",4.90,12.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,3,5,12,0,"Jump Shot","2PT Field Goal",3,"Phoenix Suns",-19,31,2,2.90,"Teletovic, Mirza",3.80,6.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,1,9,04,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-133,218,1,1.30,"Ilyasova, Ersan",6.90,19.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,3,5,00,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",60,239,7,7.90,"Williams, Deron",3.20,3.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,4,1,01,1,"Jump Shot","2PT Field Goal",4,"Dallas Mavericks",-19,36,0,0.80,"Pachulia, Zaza",4.50,23.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,2,5,42,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",140,203,0,0.80,"Matthews, Wesley",6.30,6.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,3,10,12,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",187,154,0,0.60,"Parsons, Chandler",5.00,10.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,2,1,07,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-42,188,8,8.20,"Williams, Deron",5.20,14.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,1,12,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-88,129,4,3.80,"Johnson, Tyler",2.70,3.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,1,6,02,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",158,124,0,0.50,"Vujacic, Sasha",4.60,23.30
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,2,0,33,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-158,180,2,5.40,"Calderon, Jose",2.50,14.70
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,3,4,45,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-150,205,0,0.80,"Calderon, Jose",3.20,12.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,2,2,26,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",117,146,3,6.40,"Vujacic, Sasha",3.10,8.10
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,4,4,42,0,"Jump Shot","2PT Field Goal",12,"Minnesota Timberwolves",-116,58,11,11.10,"Rubio, Ricky",3.40,9.60
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,4,5,13,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-31,192,10,8.30,"Rubio, Ricky",6.40,14.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,4,2,08,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-138,131,8,7.30,"Hickson, JJ",11.10,16.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,2,2,10,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",233,57,0,0.70,"Harris, Gary",5.20,14.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,9,35,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",166,178,0,0.80,"Mudiay, Emmanuel",8.10,16.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,1,6,10,0,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",-68,188,4,4.70,"Faried, Kenneth",0.00,12.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,2,1,00,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-13,253,0,1.00,"Barea, Jose Juan",4.80,21.60
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,2,0,03,0,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-6,200,21,19.70,"McLemore, Ben",5.20,4.30
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,2,27,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-176,170,0,0.70,"Rondo, Rajon",4.30,16.40
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,2,1,54,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",168,180,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,3,6,46,1,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",19,8,0,0.00,"Aminu, Al-Farouq",2.20,19.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,0,29,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",1,21,5,4.20,"Lyles, Trey",1.30,18.30
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,4,0,55,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-9,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,1,10,58,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-14,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,4,21,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-6,28,1,2.30,"Bogut, Andrew",3.10,6.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,0,39,0,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",4,0,0,1.00,"Anderson, Ryan",1.30,23.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,1,11,43,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",15,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,3,8,51,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-7,-1,5,4.70,"Sampson, JaKarr",1.30,19.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,10,25,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",17,11,6,5.70,"Sampson, JaKarr",1.10,1.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,4,1,52,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",9,13,3,4.10,"Cole, Norris",0.90,16.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,2,2,12,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",1,11,0,0.80,"Wade, Dwyane",0.90,6.10
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,7,50,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-22,5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,1,4,47,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-24,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,2,1,56,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-25,8,11,10.50,"Lauvergne, Joffrey",2.00,13.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,3,6,15,0,"Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",0,3,2,3.20,"Babcock, Chris",1.40,13.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,4,11,19,0,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",-6,7,0,0.70,"Barton, Will",1.40,11.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,3,3,33,1,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,7,0,0.80,"Lowry, Kyle",0.10,13.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,2,1,35,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,2,3,2.40,"Curry, Stephen",3.20,3.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,3,5,35,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",2,21,12,13.10,"Bogut, Andrew",2.10,11.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,1,08,0,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",1,7,5,3.70,"Roberson, Andre",0.80,20.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,11,26,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-1,26,4,4.20,"Okafor, Jahlil",3.20,11.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,3,5,05,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-19,11,3,1.70,"Adams, Steven",3.40,12.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,4,0,45,0,"Layup Shot","2PT Field Goal",1,"Toronto Raptors",0,13,5,5.30,"Scola, Luis",1.30,18.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,0,23,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-1,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,3,8,32,0,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",6,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,4,5,12,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-12,4,0,0.00,"Rubio, Ricky",5.90,14.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,10,33,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-7,28,6,7.40,"Waiters, Dion",3.00,14.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,4,0,00,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-9,11,0,0.00,"Clark, Ian",5.40,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,2,5,48,1,"Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",10,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,2,18,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",22,8,0,1.10,"Faried, Kenneth",4.40,20.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,2,3,34,0,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",2,0,1,2.00,"Valanciunas, Jonas",1.30,21.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,6,18,0,"Layup Shot","2PT Field Goal",0,"Utah Jazz",2,2,2,2.30,"Hayward, Gordon",1.60,22.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,2,1,10,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",9,7,7,7.70,"Gobert, Rudy",2.80,15.20
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,2,4,31,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",-29,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,6,05,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",6,16,2,2.90,"Withey, Jeff",2.00,22.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,2,0,38,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,11,11,11.40,"Bogut, Andrew",1.70,12.30
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,3,0,08,0,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",9,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,2,30,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",20,-1,2,2.80,"Valanciunas, Jonas",1.50,6.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,11,34,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",4,11,7,6.50,"Green, Draymond",1.00,1.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,4,0,46,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",12,18,7,8.90,"Lawson, Ty",2.80,15.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,1,10,26,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-17,13,5,7.60,"Thompson, Klay",0.30,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,3,9,05,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-12,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,3,10,53,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-16,7,3,2.30,"Hayward, Gordon",1.90,20.50
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,4,3,07,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",1,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,2,4,58,0,"Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",4,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,3,9,20,0,"Layup Shot","2PT Field Goal",2,"Miami Heat",-7,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,4,4,08,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",9,8,5,5.40,"Lopez, Robin",2.00,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-08,2015,2528426,1610612747,400827982,3,7,43,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",-2,16,0,2.60,"Lopez, Robin",2.00,19.50
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,2,21,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",14,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,1,5,07,1,"Layup Shot","2PT Field Goal",0,"Phoenix Suns",9,-1,3,2.00,"Bledsoe, Eric",3.60,10.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,3,8,00,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",14,-10,0,0.70,"Redick, JJ",4.80,17.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-03,2015,2528426,1610612747,400827946,3,0,10,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-27,7,17,18.60,"Arthur, Darrell",0.70,5.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,5,37,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",-27,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,3,7,37,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",9,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,4,10,21,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",19,-1,6,5.70,"Randolph, Zach",2.00,6.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,1,10,58,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",2,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,4,7,55,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-14,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,4,8,26,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",10,21,3,3.90,"Howard, Dwight",2.30,11.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,1,6,24,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",12,7,0,1.00,"Wall, John",2.80,20.60
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,2,0,46,0,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",4,13,8,7.70,"Towns, Karl-Anthony",1.80,13.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,3,7,44,1,"Layup Shot","2PT Field Goal",3,"Houston Rockets",-17,28,3,11.00,"Beverley, Patrick",3.20,4.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,1,7,04,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",24,7,7,8.20,"Capela, Clint",2.20,4.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-02,2015,2528426,1610612747,400828156,3,5,56,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",2,-1,0,4.10,"Dudley, Jared",0.80,22.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,2,6,00,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-16,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-01,2015,2528426,1610612747,400827932,1,5,11,0,"Layup Shot","2PT Field Goal",7,"Dallas Mavericks",71,9,1,1.80,"Williams, Deron",1.60,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,3,8,46,0,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",4,7,11,8.60,"Cousins, DeMarcus",3.00,15.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,3,5,48,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,11,3,2.80,"Westbrook, Russell",2.10,22.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,4,1,28,1,"Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-6,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,1,1,21,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",28,7,1,2.40,"Young, James",2.00,16.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,11,12,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",4,18,0,1.30,"Collison, Nick",3.00,11.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-10,2015,2528426,1610612747,400828849,2,11,28,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-14,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,8,22,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",9,2,0,0.70,"Whiteside, Hassan",1.40,20.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,9,18,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-25,3,0,0.40,"Henson, John",7.00,6.20
+"Jordan Clarkson","Los Angeles Lakers",2015-12-06,2015,2528426,1610612747,400828188,1,0,30,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",0,3,9,5.10,"Baynes, Aron",1.00,18.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,3,5,10,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-11,2,0,1.20,"Babcock, Chris",5.90,11.90
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,4,10,23,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,3,9,44,1,"Layup Shot","2PT Field Goal",2,"Miami Heat",25,13,0,0.90,"Deng, Luol",3.20,14.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,8,54,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",2,26,3,5.00,"Sampson, JaKarr",3.70,10.70
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,3,11,46,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",15,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,3,4,08,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,16,8,6.60,"Harris, Gary",2.70,16.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,3,6,59,0,"Layup Shot","2PT Field Goal",4,"Los Angeles Clippers",-27,31,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,2,7,10,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",9,21,2,2.30,"Jokic, Nikola",1.20,18.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,1,2,25,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",17,2,10,10.50,"George, Paul",3.60,13.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,9,55,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",9,11,3,2.90,"Middleton, Khris",0.50,3.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,9,04,1,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-9,18,0,0.70,"Howard, Dwight",5.80,16.80
+"Jordan Clarkson","Los Angeles Lakers",2015-12-22,2015,2528426,1610612747,400828309,4,1,56,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",14,13,17,15.00,"Barton, Will",3.70,8.60
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,5,26,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",6,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,3,6,22,1,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-4,23,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,1,7,22,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",10,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,3,15,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",19,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,2,6,15,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",14,16,3,4.30,"Plumlee, Miles",1.50,14.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-21,2015,2528426,1610612747,400828718,1,7,54,0,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",14,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,1,8,25,1,"Pullup Bank shot","2PT Field Goal",17,"Milwaukee Bucks",-65,165,5,4.80,"Middleton, Khris",3.10,19.40
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,2,5,03,0,"Pullup Jump shot","2PT Field Goal",12,"Boston Celtics",37,115,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,2,4,31,0,"Pullup Jump shot","2PT Field Goal",21,"Atlanta Hawks",-76,198,2,3.20,"Teague, Jeff",3.40,8.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,1,9,16,0,"Pullup Jump shot","2PT Field Goal",9,"Atlanta Hawks",92,23,3,6.10,"Korver, Kyle",4.70,16.50
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,3,0,47,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",119,120,14,12.50,"Teague, Jeff",6.30,9.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,3,9,21,1,"Pullup Jump shot","2PT Field Goal",18,"Indiana Pacers",-19,185,1,1.30,"Ellis, Monta",5.70,11.90
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,3,5,13,1,"Pullup Jump shot","3PT Field Goal",24,"Orlando Magic",122,208,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,3,7,07,1,"Pullup Jump shot","2PT Field Goal",7,"Orlando Magic",-70,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,1,6,08,0,"Pullup Jump shot","2PT Field Goal",18,"Portland Trail Blazers",117,144,2,1.80,"McCollum, CJ",1.10,10.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,4,6,31,0,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",-161,21,4,4.10,"Lillard, Damian",3.30,7.90
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,2,56,0,"Pullup Jump shot","2PT Field Goal",17,"New York Knicks",105,141,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,2,2,16,0,"Pullup Jump shot","2PT Field Goal",7,"Boston Celtics",9,75,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,4,2,49,0,"Pullup Jump shot","2PT Field Goal",19,"Toronto Raptors",140,136,8,4.60,"Joseph, Cory",6.90,18.60
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,3,4,32,0,"Pullup Jump shot","2PT Field Goal",15,"Toronto Raptors",19,154,2,2.90,"Biyombo, Bismack",5.80,8.80
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,1,0,11,1,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-129,149,18,18.60,"Lillard, Damian",2.70,5.40
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,3,4,58,0,"Pullup Jump shot","3PT Field Goal",25,"Toronto Raptors",17,259,3,2.80,"Lowry, Kyle",3.20,3.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-26,2015,2528426,1610612747,400828755,1,4,51,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",-83,164,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,1,3,59,0,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-1,154,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,0,44,1,"Pullup Jump shot","2PT Field Goal",16,"Sacramento Kings",-70,151,10,6.60,"Collison, Darren",3.80,17.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,11,41,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-106,229,0,0.20,"Green, Draymond",6.40,21.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,1,10,43,0,"Pullup Jump shot","2PT Field Goal",20,"Sacramento Kings",-201,-6,2,4.00,"Rondo, Rajon",3.20,13.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,3,9,49,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",-153,101,6,6.80,"McLemore, Ben",5.50,14.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,1,8,56,0,"Pullup Jump shot","2PT Field Goal",21,"Dallas Mavericks",-114,180,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,0,01,0,"Pullup Jump shot","2PT Field Goal",18,"Chicago Bulls",-9,188,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,1,5,51,1,"Pullup Jump shot","2PT Field Goal",17,"Sacramento Kings",-169,46,5,7.80,"Cousins, DeMarcus",5.00,16.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,3,12,0,"Pullup Jump shot","2PT Field Goal",10,"Sacramento Kings",51,95,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-08,2015,2528426,1610612747,400828836,2,3,17,1,"Pullup Jump shot","3PT Field Goal",27,"Orlando Magic",-112,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,1,3,47,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Clippers",-1,159,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,5,10,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-137,90,5,6.30,"Harden, James",5.60,16.40
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,1,8,41,1,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Clippers",-142,134,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,4,9,31,0,"Pullup Jump shot","3PT Field Goal",25,"Los Angeles Clippers",-132,218,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-29,2015,2528426,1610612747,400828593,2,4,44,1,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Clippers",-7,185,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,2,0,33,0,"Pullup Jump shot","2PT Field Goal",11,"Houston Rockets",63,92,9,9.00,"Lawson, Ty",2.10,13.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,2,1,44,1,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",-43,160,6,5.90,"Lawson, Ty",4.70,15.90
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,2,0,55,1,"Pullup Jump shot","2PT Field Goal",16,"Charlotte Hornets",128,111,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,3,9,22,0,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",-160,129,5,5.50,"Neto, Raul",4.20,18.70
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,3,6,59,0,"Pullup Jump shot","2PT Field Goal",15,"Phoenix Suns",117,106,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,10,52,1,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",181,87,3,3.00,"Hood, Rodney",1.90,6.90
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,3,10,52,1,"Pullup Jump shot","2PT Field Goal",6,"Minnesota Timberwolves",-4,65,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,3,6,03,0,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",-24,247,3,3.70,"Thompson, Klay",8.00,3.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,3,47,1,"Pullup Jump shot","2PT Field Goal",18,"Golden State Warriors",-137,120,0,2.90,"Barbosa, Leandro",3.80,8.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,4,6,06,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-194,174,0,1.00,"Barbosa, Leandro",7.20,13.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,4,7,25,1,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",-124,129,8,5.90,"Livingston, Shaun",3.30,23.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,1,2,23,0,"Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",63,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,2,7,36,1,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",151,72,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,8,46,1,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",-30,169,7,8.00,"Ezeli, Festus",5.90,5.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,4,7,59,1,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",-19,169,1,1.70,"Ezeli, Festus",5.00,23.30
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,3,11,08,0,"Pullup Jump shot","2PT Field Goal",20,"Utah Jazz",53,200,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-22,2015,2528426,1610612747,400828088,3,6,35,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",151,85,6,5.30,"McCollum, CJ",5.30,8.70
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,3,8,57,1,"Pullup Jump shot","2PT Field Goal",14,"New Orleans Pelicans",132,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,4,6,39,1,"Pullup Jump shot","2PT Field Goal",17,"Dallas Mavericks",37,169,6,6.20,"Williams, Deron",2.00,16.40
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,3,0,55,1,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",87,154,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,1,0,48,0,"Pullup Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",-119,169,1,4.10,"Ibaka, Serge",5.80,19.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,2,8,28,0,"Pullup Jump shot","2PT Field Goal",16,"Miami Heat",63,151,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,1,7,14,1,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",125,144,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,1,3,07,1,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",110,110,5,6.10,"Waiters, Dion",1.20,18.20
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,2,1,54,0,"Pullup Jump shot","2PT Field Goal",19,"Memphis Grizzlies",-65,188,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,2,6,17,0,"Pullup Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-205,154,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,1,7,47,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",-220,105,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,1,3,55,1,"Pullup Jump shot","2PT Field Goal",8,"Phoenix Suns",58,61,1,1.90,"Bledsoe, Eric",2.30,17.10
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,4,46,1,"Pullup Jump shot","2PT Field Goal",8,"Memphis Grizzlies",27,80,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,11,15,1,"Pullup Jump shot","2PT Field Goal",12,"Golden State Warriors",115,51,4,5.00,"Green, Draymond",4.00,17.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-05,2015,2528426,1610612747,400828411,3,2,18,1,"Pullup Jump shot","2PT Field Goal",13,"Golden State Warriors",-71,120,10,9.40,"Clark, Ian",2.40,13.60
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,7,44,0,"Pullup Jump shot","2PT Field Goal",8,"Memphis Grizzlies",4,80,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,10,00,1,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",-168,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,11,11,0,"Pullup Jump shot","2PT Field Goal",10,"Memphis Grizzlies",66,77,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,4,0,08,1,"Pullup Jump shot","3PT Field Goal",26,"Phoenix Suns",-37,267,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,2,4,48,1,"Pullup Jump shot","3PT Field Goal",27,"Milwaukee Bucks",171,216,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,0,32,0,"Pullup Jump shot","2PT Field Goal",18,"Los Angeles Clippers",123,134,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,1,0,42,1,"Pullup Jump shot","3PT Field Goal",24,"San Antonio Spurs",55,237,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-27,2015,2528426,1610612747,400828983,2,1,34,0,"Pullup Jump shot","3PT Field Goal",24,"Washington Wizards",123,213,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,6,30,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Clippers",112,100,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,2,7,45,0,"Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",48,149,3,3.50,"Barea, Jose Juan",3.60,10.30
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,4,11,18,1,"Pullup Jump shot","2PT Field Goal",18,"Boston Celtics",138,121,3,2.20,"Turner, Evan",4.10,10.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,2,2,17,0,"Pullup Jump shot","2PT Field Goal",17,"Brooklyn Nets",87,154,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,5,1,29,1,"Pullup Jump shot","2PT Field Goal",11,"Miami Heat",-7,115,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,1,7,00,0,"Pullup Jump shot","2PT Field Goal",16,"Brooklyn Nets",101,136,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-04,2015,2528426,1610612747,400828173,3,11,07,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",182,80,4,2.40,"Teague, Jeff",5.10,12.90
+"Jordan Clarkson","Los Angeles Lakers",2015-10-28,2015,2528426,1610612747,400827904,4,5,11,1,"Pullup Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",153,23,0,0.00,"Rubio, Ricky",5.30,14.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,4,08,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",107,149,12,11.20,"Cousins, DeMarcus",4.10,13.10
+"Jordan Clarkson","Los Angeles Lakers",2015-12-28,2015,2528426,1610612747,400828345,1,9,56,0,"Pullup Jump shot","2PT Field Goal",20,"Charlotte Hornets",25,203,2,3.60,"Zeller, Cody",6.20,18.30
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,3,7,52,0,"Pullup Jump shot","2PT Field Goal",10,"Denver Nuggets",-22,101,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,4,6,06,1,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",27,154,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,7,28,1,"Pullup Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-89,129,15,14.20,"Sampson, JaKarr",7.90,10.70
+"Jordan Clarkson","Los Angeles Lakers",2015-12-25,2015,2528426,1610612747,400828327,3,5,23,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Clippers",-140,144,2,2.10,"Mbah a Moute, Luc",4.20,20.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,1,3,51,0,"Pullup Jump shot","2PT Field Goal",14,"Golden State Warriors",-147,26,2,3.20,"Curry, Stephen",5.20,7.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,11,44,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-140,218,3,3.40,"Curry, Stephen",4.20,10.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,11,44,1,"Pullup Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",-56,183,8,6.90,"Waiters, Dion",1.80,10.20
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,1,7,10,0,"Pullup Jump shot","2PT Field Goal",15,"Golden State Warriors",155,8,0,0.80,"Thompson, Klay",3.30,11.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,6,37,0,"Pullup Jump shot","2PT Field Goal",20,"Golden State Warriors",143,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,2,6,44,1,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",-84,170,2,2.10,"Adams, Steven",5.40,14.30
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,4,9,29,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-168,190,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,2,2,33,0,"Pullup Jump shot","2PT Field Goal",13,"Golden State Warriors",-71,116,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,1,7,42,0,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",-124,134,2,4.30,"Durant, Kevin",5.20,19.80
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,3,47,0,"Pullup Jump shot","2PT Field Goal",17,"Golden State Warriors",117,124,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,8,37,0,"Pullup Jump shot","2PT Field Goal",16,"Houston Rockets",2,164,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,9,28,1,"Pullup Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",-25,169,6,7.50,"Westbrook, Russell",2.80,2.90
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,2,3,15,1,"Pullup Jump shot","2PT Field Goal",16,"Philadelphia 76ers",-102,124,3,4.00,"Thompson, Hollis",3.20,14.10
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,1,11,26,0,"Pullup Jump shot","2PT Field Goal",17,"Boston Celtics",24,169,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-17,2015,2528426,1610612747,400828272,3,3,50,1,"Pullup Jump shot","2PT Field Goal",14,"Houston Rockets",-56,134,6,7.30,"Beverley, Patrick",3.90,15.50
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,2,1,20,1,"Putback Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,"Green, Draymond",3.60,6.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-16,2015,2528426,1610612747,400828044,1,5,35,0,"Putback Layup Shot","2PT Field Goal",1,"Phoenix Suns",9,-5,0,0.00,"Bledsoe, Eric",1.70,9.30
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,2,0,28,1,"Putback Layup Shot","2PT Field Goal",2,"Utah Jazz",-1,26,0,0.00,"Burke, Trey",3.60,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,11,09,0,"Putback Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",10,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,3,4,30,0,"Putback Layup Shot","2PT Field Goal",1,"Toronto Raptors",-16,8,0,0.00,"Patterson, Patrick",2.60,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-12,2015,2528426,1610612747,400828463,3,0,05,1,"Putback Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-6,2,0,0.90,"Anderson, Ryan",2.40,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,9,51,1,"Putback Layup Shot","2PT Field Goal",3,"Sacramento Kings",-29,16,0,0.00,"Collison, Darren",3.50,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,3,3,58,0,"Reverse Layup Shot","2PT Field Goal",1,"Phoenix Suns",-16,-5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,1,9,45,1,"Reverse Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-22,7,0,1.20,"Westbrook, Russell",3.40,13.30
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,1,6,03,0,"Reverse Layup Shot","2PT Field Goal",1,"Utah Jazz",-11,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-20,2015,2528426,1610612747,400828525,4,9,40,1,"Reverse Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,7,0,0.70,"Gay, Rudy",5.60,13.80
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,3,9,33,1,"Reverse Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-26,2015,2528426,1610612747,400828570,1,5,00,1,"Reverse Layup Shot","2PT Field Goal",0,"Dallas Mavericks",9,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,2,0,29,1,"Running Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,3,1,08,0,"Running Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",-16,3,1,3.50,"Durant, Kevin",3.10,21.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,10,01,1,"Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,1,4.50,"McLemore, Ben",22.60,21.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,2,0,03,1,"Running Dunk Shot","2PT Field Goal",1,"Phoenix Suns",19,3,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,5,34,1,"Running Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,3,6,14,1,"Running Dunk Shot","2PT Field Goal",0,"Utah Jazz",0,1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,2,3,09,0,"Running Dunk Shot","2PT Field Goal",2,"Toronto Raptors",15,15,5,5.80,"DeRozan, DeMar",4.00,18.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,1,9,31,1,"Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",-1,2,1,3.20,"Nowitzki, Dirk",15.40,21.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,1,55,1,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Denver Nuggets",-16,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,2,1,22,1,"Running Finger Roll Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",9,0,3,5.50,"Payne, Cameron",2.40,5.40
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,1,2,48,0,"Running Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,-10,4,3.70,"Plumlee, Mason",1.00,19.20
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,4,2,24,0,"Running Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",45,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,0,01,0,"Running Jump Shot","2PT Field Goal",5,"Sacramento Kings",45,28,23,20.00,"Collison, Darren",1.10,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,3,9,02,1,"Running Jump Shot","2PT Field Goal",6,"Cleveland Cavaliers",-45,46,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,1,5,16,1,"Running Jump Shot","2PT Field Goal",5,"Sacramento Kings",56,21,9,8.80,"Gay, Rudy",6.40,4.30
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,0,00,0,"Running Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-135,41,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,2,0,00,0,"Running Jump Shot","3PT Field Goal",38,"Brooklyn Nets",199,332,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,1,7,44,0,"Running Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-42,95,6,8.70,"Hollis-Jefferson, Rondae",0.00,15.20
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,2,3,19,1,"Running Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-204,156,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,1,11,38,1,"Running Jump Shot","2PT Field Goal",3,"Oklahoma City Thunder",2,36,5,4.00,"Ibaka, Serge",3.40,19.70
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,3,7,51,0,"Running Jump Shot","2PT Field Goal",1,"Phoenix Suns",0,15,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,5,41,0,"Running Jump Shot","2PT Field Goal",8,"Sacramento Kings",58,56,3,3.80,"Cousins, DeMarcus",2.50,12.70
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,6,25,1,"Running Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-140,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,4,3,49,1,"Running Jump Shot","2PT Field Goal",7,"Sacramento Kings",9,75,4,5.30,"Gay, Rudy",4.50,10.50
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,3,9,43,1,"Running Jump Shot","2PT Field Goal",5,"Detroit Pistons",-17,57,6,7.10,"Caldwell-Pope, Kentavious",3.30,17.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-11,2015,2528426,1610612747,400828001,3,7,02,1,"Running Jump Shot","2PT Field Goal",7,"Orlando Magic",-73,11,2,1.90,"Dedmon, Dewayne",4.80,19.50
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,5,26,0,"Running Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-174,198,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,1,2,43,1,"Running Layup Shot","2PT Field Goal",1,"Phoenix Suns",-9,16,0,0.70,"Teletovic, Mirza",2.90,19.60
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,3,6,24,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,0,1,1.70,"Nowitzki, Dirk",1.10,20.30
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,1,1,57,0,"Running Layup Shot","2PT Field Goal",1,"Boston Celtics",-12,8,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-06,2015,2528426,1610612747,400827964,3,8,40,1,"Running Layup Shot","2PT Field Goal",2,"Brooklyn Nets",28,3,0,0.90,"Jack, Jarrett",2.20,19.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-13,2015,2528426,1610612747,400828022,3,4,07,0,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",12,7,4,4.10,"Felton, Raymond",2.40,20.70
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,3,10,57,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",2,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,5,44,0,"Running Layup Shot","2PT Field Goal",0,"Chicago Bulls",-2,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,1,3,49,1,"Running Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-6,-1,2,2.20,"Lillard, Damian",3.90,19.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,3,11,10,0,"Running Layup Shot","2PT Field Goal",1,"Detroit Pistons",17,-1,3,3.60,"Caldwell-Pope, Kentavious",2.60,21.20
+"Jordan Clarkson","Los Angeles Lakers",2016-02-22,2015,2528426,1610612747,400828724,1,7,59,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",5,4,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,3,8,32,1,"Running Layup Shot","2PT Field Goal",3,"San Antonio Spurs",28,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,1,11,07,1,"Running Layup Shot","2PT Field Goal",2,"Utah Jazz",27,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-17,2015,2528426,1610612747,400828501,3,5,45,0,"Running Layup Shot","2PT Field Goal",0,"Houston Rockets",9,3,6,4.80,"Harrell, Montrezl",5.60,23.90
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,1,7,46,1,"Running Layup Shot","2PT Field Goal",1,"Miami Heat",9,8,0,1.70,"Wade, Dwyane",2.40,19.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-10,2015,2528426,1610612747,400827995,2,0,41,1,"Running Layup Shot","2PT Field Goal",1,"Miami Heat",4,18,0,0.80,"Wade, Dwyane",1.60,20.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-28,2015,2528426,1610612747,400828131,4,8,08,1,"Running Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",-4,-6,3,2.30,"Crabbe, Allen",3.70,22.20
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,2,3,12,1,"Running Layup Shot","2PT Field Goal",1,"Houston Rockets",15,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-04,2015,2528426,1610612747,400828634,1,11,33,1,"Running Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",6,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,2,0,00,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",15,11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,8,56,1,"Running Pull-Up Jump Shot","3PT Field Goal",24,"Denver Nuggets",-25,247,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,4,0,12,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Sacramento Kings",32,254,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,3,0,33,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",151,203,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,1,0,30,1,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Chicago Bulls",-173,185,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,3,0,01,0,"Running Pull-Up Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-120,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-22,2015,2528426,1610612747,400828942,3,2,36,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,13,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,1,6,20,1,"Step Back Jump shot","2PT Field Goal",19,"Utah Jazz",-145,134,2,4.80,"Neto, Raul",4.10,1.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-01,2015,2528426,1610612747,400828783,3,0,00,1,"Step Back Jump shot","3PT Field Goal",24,"Brooklyn Nets",117,214,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,8,52,0,"Step Back Jump shot","2PT Field Goal",17,"Golden State Warriors",-97,144,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-15,2015,2528426,1610612747,400828257,3,2,16,0,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",107,131,7,6.60,"Middleton, Khris",3.90,4.80
+"Jordan Clarkson","Los Angeles Lakers",2016-01-22,2015,2528426,1610612747,400828540,4,6,37,1,"Step Back Jump shot","2PT Field Goal",14,"San Antonio Spurs",140,-5,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,6,32,0,"Step Back Jump shot","2PT Field Goal",17,"Denver Nuggets",-42,174,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,4,10,06,0,"Step Back Jump shot","2PT Field Goal",14,"Denver Nuggets",86,120,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,3,8,31,1,"Step Back Jump shot","2PT Field Goal",20,"Charlotte Hornets",22,205,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,2,25,1,"Step Back Jump shot","3PT Field Goal",24,"Denver Nuggets",164,185,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-02,2015,2528426,1610612747,400828793,1,0,01,0,"Step Back Jump shot","3PT Field Goal",26,"Denver Nuggets",179,193,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-19,2015,2528426,1610612747,400828285,2,4,16,0,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",69,151,6,7.10,"Adams, Steven",4.20,3.40
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,1,7,36,1,"Step Back Jump shot","3PT Field Goal",25,"Denver Nuggets",-223,116,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-10-30,2015,2528426,1610612747,400827918,3,7,43,1,"Step Back Jump shot","2PT Field Goal",16,"Sacramento Kings",161,47,1,2.10,"McLemore, Ben",5.00,15.60
+"Jordan Clarkson","Los Angeles Lakers",2016-03-30,2015,2528426,1610612747,400829008,4,4,50,1,"Step Back Jump shot","2PT Field Goal",16,"Miami Heat",-65,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,2,43,1,"Step Back Jump shot","2PT Field Goal",17,"Golden State Warriors",-112,139,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-01,2015,2528426,1610612747,400828150,3,8,25,1,"Step Back Jump shot","2PT Field Goal",18,"Philadelphia 76ers",-115,149,6,5.50,"Sampson, JaKarr",5.00,15.50
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,3,0,10,0,"Step Back Jump shot","2PT Field Goal",15,"Memphis Grizzlies",158,-6,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,1,0,10,0,"Step Back Jump shot","2PT Field Goal",16,"Golden State Warriors",-17,164,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-20,2015,2528426,1610612747,400828075,1,9,43,0,"Step Back Jump shot","2PT Field Goal",14,"Toronto Raptors",-127,72,4,4.50,"DeRozan, DeMar",4.20,6.90
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,3,8,22,0,"Step Back Jump shot","2PT Field Goal",16,"Phoenix Suns",-163,-1,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-07,2015,2528426,1610612747,400828195,2,0,00,0,"Step Back Jump shot","3PT Field Goal",26,"Toronto Raptors",220,154,3,2.90,"Lowry, Kyle",3.40,0.70
+"Jordan Clarkson","Los Angeles Lakers",2016-01-08,2015,2528426,1610612747,400828436,4,0,18,1,"Step Back Jump shot","3PT Field Goal",25,"Oklahoma City Thunder",-246,65,3,1.90,"Westbrook, Russell",3.80,14.60
+"Jordan Clarkson","Los Angeles Lakers",2016-01-10,2015,2528426,1610612747,400828452,4,6,36,0,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",150,13,7,6.40,"Neto, Raul",3.20,16.90
+"Jordan Clarkson","Los Angeles Lakers",2016-04-11,2015,2528426,1610612747,400829096,3,7,47,0,"Step Back Jump shot","3PT Field Goal",22,"Oklahoma City Thunder",-227,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-07,2015,2528426,1610612747,400828426,2,8,15,1,"Step Back Jump shot","2PT Field Goal",18,"Sacramento Kings",37,183,2,3.80,"Curry, Seth",5.10,6.80
+"Jordan Clarkson","Los Angeles Lakers",2016-02-24,2015,2528426,1610612747,400828738,2,0,01,0,"Step Back Jump shot","3PT Field Goal",24,"Memphis Grizzlies",-205,129,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-05,2015,2528426,1610612747,400829051,2,1,03,1,"Step Back Jump shot","2PT Field Goal",8,"Los Angeles Clippers",-61,52,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-19,2015,2528426,1610612747,400828705,3,0,32,0,"Step Back Jump shot","3PT Field Goal",25,"San Antonio Spurs",-114,228,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,2,8,47,0,"Step Back Jump shot","2PT Field Goal",19,"Utah Jazz",58,183,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,3,8,47,0,"Step Back Jump shot","2PT Field Goal",19,"Golden State Warriors",-145,136,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-25,2015,2528426,1610612747,400828968,2,0,01,0,"Step Back Jump shot","3PT Field Goal",24,"Denver Nuggets",-151,193,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-28,2015,2528426,1610612747,400828991,2,6,47,1,"Step Back Jump shot","2PT Field Goal",15,"Utah Jazz",-140,61,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-10,2015,2528426,1610612747,400828682,2,5,41,0,"Step Back Jump shot","2PT Field Goal",16,"Cleveland Cavaliers",161,-15,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,3,6,14,0,"Step Back Jump shot","3PT Field Goal",25,"Sacramento Kings",-171,185,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-06,2015,2528426,1610612747,400829059,2,7,56,0,"Step Back Jump shot","2PT Field Goal",18,"Los Angeles Clippers",-178,28,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-30,2015,2528426,1610612747,400828363,3,10,03,1,"Step Back Jump shot","2PT Field Goal",20,"Boston Celtics",15,208,2,6.40,"Bradley, Avery",2.60,4.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-27,2015,2528426,1610612747,400828342,1,7,51,1,"Tip Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,11,0,0.00,"Green, Jeff",0.80,19.40
+"Jordan Clarkson","Los Angeles Lakers",2016-04-10,2015,2528426,1610612747,400829082,3,11,05,1,"Tip Layup Shot","2PT Field Goal",1,"Houston Rockets",-2,16,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-28,2015,2528426,1610612747,400828584,3,8,59,0,"Tip Layup Shot","2PT Field Goal",0,"Chicago Bulls",4,0,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-13,2015,2528426,1610612747,400829115,2,5,33,1,"Tip Layup Shot","2PT Field Goal",1,"Utah Jazz",-1,-11,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,1,1,55,0,"Tip Layup Shot","2PT Field Goal",1,"Boston Celtics",-17,7,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-18,2015,2528426,1610612747,400828914,2,5,31,0,"Tip Layup Shot","2PT Field Goal",1,"Phoenix Suns",-6,14,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-12-23,2015,2528426,1610612747,400828322,3,5,02,0,"Tip Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-14,11,0,0.00,"Ibaka, Serge",1.30,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-16,2015,2528426,1610612747,400828495,1,10,46,1,"Tip Layup Shot","2PT Field Goal",1,"Utah Jazz",12,-1,0,0.00,"Gobert, Rudy",2.80,24.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-24,2015,2528426,1610612747,400828101,3,5,24,1,"Tip Layup Shot","2PT Field Goal",0,"Golden State Warriors",3,9,0,0.00,"Bogut, Andrew",2.30,24.00
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,3,8,40,1,"Tip Layup Shot","2PT Field Goal",0,"Boston Celtics",-1,2,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-31,2015,2528426,1610612747,400828607,1,3,49,0,"Turnaround Bank shot","2PT Field Goal",5,"Charlotte Hornets",-38,36,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-02,2015,2528426,1610612747,400828621,3,4,03,0,"Turnaround Fadeaway shot","2PT Field Goal",7,"Minnesota Timberwolves",1,70,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-15,2015,2528426,1610612747,400828889,1,8,50,0,"Turnaround Fadeaway shot","2PT Field Goal",5,"Sacramento Kings",-53,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-14,2015,2528426,1610612747,400828479,3,6,30,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Golden State Warriors",-7,90,10,10.90,"Rush, Brandon",4.40,12.10
+"Jordan Clarkson","Los Angeles Lakers",2015-11-29,2015,2528426,1610612747,400828140,2,4,16,1,"Turnaround Fadeaway shot","2PT Field Goal",7,"Indiana Pacers",27,75,8,9.30,"Ellis, Monta",4.20,13.10
+"Jordan Clarkson","Los Angeles Lakers",2016-01-03,2015,2528426,1610612747,400828397,1,4,14,1,"Turnaround Fadeaway shot","2PT Field Goal",6,"Phoenix Suns",-61,-1,3,5.50,"Booker, Devin",2.80,1.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-23,2015,2528426,1610612747,400828952,1,7,31,1,"Turnaround Hook Shot","2PT Field Goal",4,"Phoenix Suns",45,21,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,7,06,1,"Turnaround Jump Shot","2PT Field Goal",6,"New York Knicks",63,26,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2015-11-15,2015,2528426,1610612747,400828038,4,3,04,1,"Turnaround Jump Shot","2PT Field Goal",12,"Detroit Pistons",45,115,4,5.10,"Ilyasova, Ersan",6.30,6.60
+"Jordan Clarkson","Los Angeles Lakers",2016-04-03,2015,2528426,1610612747,400829040,2,3,15,0,"Turnaround Jump Shot","2PT Field Goal",16,"Boston Celtics",-74,149,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-01-01,2015,2528426,1610612747,400828381,1,8,12,1,"Turnaround Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",50,67,3,5.50,"Noel, Nerlens",7.70,2.50
+"Jordan Clarkson","Los Angeles Lakers",2016-03-13,2015,2528426,1610612747,400828874,2,4,56,1,"Turnaround Jump Shot","2PT Field Goal",9,"New York Knicks",4,97,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-03-06,2015,2528426,1610612747,400828818,3,2,26,0,"Turnaround Jump Shot","3PT Field Goal",23,"Golden State Warriors",-238,-19,0,0.00,,0.00,0.00
+"Jordan Clarkson","Los Angeles Lakers",2016-02-08,2015,2528426,1610612747,400828663,1,9,53,0,"Turnaround Jump Shot","2PT Field Goal",15,"Indiana Pacers",-156,-6,0,0.00,,0.00,0.00

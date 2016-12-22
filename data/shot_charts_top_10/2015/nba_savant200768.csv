@@ -1,0 +1,1044 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,2,5,20,1,"Driving Bank shot","2PT Field Goal",3,"Miami Heat",31,3,2,3.20,"Hamilton, Justin",2.50,7.20
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,5,00,0,"Driving Bank shot","2PT Field Goal",4,"Cleveland Cavaliers",-40,6,7,6.60,"Irving, Kyrie",1.20,2.70
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,2,10,52,1,"Driving Bank shot","2PT Field Goal",4,"New York Knicks",36,20,3,3.40,"Hardaway Jr., Tim",2.30,21.40
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,4,6,16,1,"Driving Bank shot","2PT Field Goal",5,"Denver Nuggets",-51,25,2,3.40,"Arthur, Darrell",2.20,15.00
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,9,45,0,"Driving Bank shot","2PT Field Goal",5,"San Antonio Spurs",43,28,17,15.50,"Splitter, Tiago",2.40,8.90
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,4,2,09,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",0,11,3,3.80,"Tucker, PJ",3.30,7.60
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,4,1,38,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-4,26,1,1.90,"Randolph, Zach",3.10,9.60
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,1,5,47,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",26,22,1,2.00,"Knight, Brandon",1.60,22.50
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,4,3,48,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Brooklyn Nets",1,33,2,2.60,"Jack, Jarrett",1.90,11.50
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,2,3,55,0,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Indiana Pacers",0,39,2,2.60,"Hibbert, Roy",3.30,9.30
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,4,2,19,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",21,-2,14,16.70,"Jordan, DeAndre",4.30,7.20
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,3,11,28,0,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Charlotte Hornets",7,48,0,1.60,"Biyombo, Bismack",3.30,12.50
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,4,3,59,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",-21,-5,18,17.30,"Mozgov, Timofey",1.70,5.70
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,4,4,48,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-10,26,3,2.80,"Henderson, Gerald",1.70,15.10
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,1,8,25,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Chicago Bulls",14,20,2,2.70,"Rose, Derrick",4.00,15.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,9,54,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",-2,23,9,9.00,"Faried, Kenneth",2.60,15.00
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,5,3,11,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Washington Wizards",13,6,16,13.40,Nene,2.00,9.70
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,1,10,24,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Boston Celtics",7,-6,9,7.10,"Smart, Marcus",0.60,15.60
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,2,3,11,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Phoenix Suns",-13,11,3,3.60,"Tucker, PJ",1.80,10.30
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,1,9,45,0,"Driving Hook Shot","2PT Field Goal",6,"Atlanta Hawks",48,42,1,3.00,"Korver, Kyle",3.70,17.80
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,2,12,0,"Driving Hook Shot","2PT Field Goal",4,"Washington Wizards",6,48,3,3.60,"Gortat, Marcin",2.30,12.90
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,9,44,1,"Driving Hook Shot","2PT Field Goal",4,"Dallas Mavericks",29,39,2,2.20,"Parsons, Chandler",3.20,1.10
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,3,38,1,"Driving Hook Shot","2PT Field Goal",6,"Chicago Bulls",53,37,18,16.40,"Gibson, Taj",0.60,7.30
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,4,0,21,1,"Driving Hook Shot","2PT Field Goal",8,"Miami Heat",83,1,4,2.50,"Bosh, Chris",4.30,21.00
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,2,1,09,0,"Driving Hook Shot","2PT Field Goal",1,"New Orleans Pelicans",12,12,3,5.10,"Asik, Omer",2.30,6.40
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,3,05,1,"Driving Hook Shot","2PT Field Goal",5,"Chicago Bulls",50,11,8,5.00,"Gasol, Pau",1.10,18.00
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,4,43,0,"Driving Jump shot","2PT Field Goal",3,"Chicago Bulls",1,36,2,2.40,"Gibson, Taj",1.40,7.40
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,4,46,0,"Driving Jump shot","2PT Field Goal",4,"Dallas Mavericks",28,30,4,2.90,"Barea, Jose Juan",3.20,11.10
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,1,6,51,1,"Driving Jump shot","2PT Field Goal",4,"Miami Heat",-27,37,2,5.80,"Cole, Norris",2.40,8.30
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,3,58,0,"Driving Jump shot","2PT Field Goal",8,"Charlotte Hornets",-87,3,3,4.40,"Henderson, Gerald",0.80,18.80
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,4,4,21,0,"Driving Jump shot","2PT Field Goal",7,"Boston Celtics",32,71,19,14.80,"Sullinger, Jared",3.00,8.40
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,2,0,26,0,"Driving Jump shot","2PT Field Goal",5,"Charlotte Hornets",-13,58,2,1.70,"Williams, Mo",3.80,6.90
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,10,37,1,"Driving Jump shot","2PT Field Goal",6,"San Antonio Spurs",61,11,4,3.70,"Splitter, Tiago",2.00,12.90
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,5,3,36,0,"Driving Jump shot","2PT Field Goal",6,"Brooklyn Nets",13,60,2,2.60,"Jack, Jarrett",3.10,1.70
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,1,10,58,1,"Driving Jump shot","2PT Field Goal",3,"Sacramento Kings",31,-3,6,5.60,"Collison, Darren",2.40,18.20
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,3,9,12,1,"Driving Jump shot","2PT Field Goal",6,"Atlanta Hawks",51,34,5,3.30,"Teague, Jeff",2.60,6.00
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,3,3,33,0,"Driving Jump shot","2PT Field Goal",14,"Brooklyn Nets",-146,7,1,1.70,"Jack, Jarrett",2.00,12.30
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,1,4,56,0,"Driving Jump shot","2PT Field Goal",8,"Charlotte Hornets",40,75,4,5.60,"Williams, Marvin",2.80,7.30
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,4,0,00,0,"Driving Jump shot","2PT Field Goal",5,"New York Knicks",-52,19,2,1.90,"Hardaway Jr., Tim",5.80,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,0,41,0,"Driving Jump shot","2PT Field Goal",8,"Chicago Bulls",23,86,5,4.90,"Gasol, Pau",3.80,19.10
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,0,07,0,"Driving Jump shot","2PT Field Goal",7,"Detroit Pistons",-62,36,7,5.40,"Monroe, Greg",3.20,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,6,40,0,"Driving Jump shot","2PT Field Goal",7,"Washington Wizards",61,42,2,2.60,Nene,1.00,9.60
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,1,0,41,0,"Driving Jump shot","2PT Field Goal",3,"Utah Jazz",36,12,9,6.30,"Favors, Derrick",1.00,7.00
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,2,1,52,0,"Driving Jump shot","2PT Field Goal",3,"Philadelphia 76ers",-37,11,0,3.00,"Thompson, Hollis",2.60,24.00
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,15,1,"Driving Jump shot","2PT Field Goal",3,"Dallas Mavericks",1,36,5,4.50,"Parsons, Chandler",5.20,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,1,4,01,0,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,7,11,9.90,"Sullinger, Jared",1.10,14.50
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,1,9,25,0,"Driving Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-19,7,6,5.20,"Sanders, Larry",2.20,19.20
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,0,29,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,-2,2,2.40,"Batum, Nicolas",2.10,19.00
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,3,04,0,"Driving Layup Shot","2PT Field Goal",4,"Charlotte Hornets",31,31,2,2.60,"Biyombo, Bismack",2.10,8.30
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,0,10,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",13,3,5,5.70,"Freeland, Joel",2.30,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,5,0,57,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-11,7,0,1.00,"Freeland, Joel",1.50,14.30
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,5,0,17,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-13,4,1,1.70,"Freeland, Joel",1.10,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,1,8,26,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-24,0,6,4.80,"Johnson, Joe",2.70,18.10
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,1,3,51,0,"Driving Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",37,3,4,3.20,"Pachulia, Zaza",1.90,15.50
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,9,34,0,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-16,-2,4,3.90,"Henderson, Gerald",2.40,20.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,4,13,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",-16,14,2,2.60,"Mozgov, Timofey",2.50,1.70
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,4,2,50,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",18,9,3,6.90,"Leonard, Kawhi",1.60,12.10
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,2,9,45,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,-3,3,2.40,"Thompson, Tristan",4.50,8.20
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,4,06,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-8,-3,18,16.10,"Jordan, DeAndre",2.40,11.50
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,3,2,52,0,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",26,7,1,1.70,"Arthur, Darrell",3.10,2.00
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,2,2,49,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",13,-6,2,2.90,"Griffin, Blake",1.20,22.30
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,2,4,24,1,"Driving Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-13,-2,10,8.10,"Varejao, Anderson",4.20,16.10
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,3,2,53,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",26,0,12,11.20,"Jordan, DeAndre",3.90,11.10
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,1,05,0,"Driving Layup Shot","2PT Field Goal",4,"Cleveland Cavaliers",-40,-6,1,1.10,"Irving, Kyrie",2.20,22.00
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,2,6,13,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",7,25,1,1.00,"Barnes, Harrison",3.50,21.60
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,2,4,03,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,12,2,2.90,"Green, Draymond",25.00,21.60
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,1,0,55,0,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-30,6,5,3.80,"Teletovic, Mirza",2.00,19.50
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,3,1,08,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",0,12,0,0.80,"Curry, Stephen",3.50,13.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,3,8,21,0,"Driving Layup Shot","2PT Field Goal",2,"Charlotte Hornets",24,14,1,2.30,"Biyombo, Bismack",2.40,3.70
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,1,45,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-5,0,11,10.10,"Lee, Courtney",2.30,14.50
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,0,57,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",18,4,1,2.90,"Neal, Gary",1.80,6.20
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,1,5,42,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,-2,2,2.50,"Bledsoe, Eric",1.50,9.30
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,3,1,59,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-18,7,2,2.90,"Millsap, Paul",2.00,17.90
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,3,6,52,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",24,0,1,1.70,"Morris, Marcus",13.10,21.30
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,3,1,41,1,"Driving Layup Shot","2PT Field Goal",3,"Phoenix Suns",26,15,2,2.00,"Dragic, Goran",1.40,24.00
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,1,3,36,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",18,0,9,8.00,"Caldwell-Pope, Kentavious",2.60,16.80
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,1,2,15,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",1,9,4,4.30,"Covington, Robert",7.70,20.70
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,1,16,0,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",-21,11,18,10.40,"Monroe, Greg",1.90,13.40
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,33,1,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",26,0,2,3.10,"Nowitzki, Dirk",3.60,20.70
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,25,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",9,1,8,6.40,"Crowder, Jae",2.40,17.60
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,1,10,32,0,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-11,15,3,2.90,"Cousins, DeMarcus",1.70,18.90
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,4,12,1,"Driving Layup Shot","2PT Field Goal",2,"Detroit Pistons",17,23,1,2.30,"Monroe, Greg",2.00,8.70
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,3,8,08,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-23,11,1,1.80,"Anderson, Ryan",1.40,12.90
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,1,2,48,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-8,14,7,5.30,"Price, Ronnie",1.30,13.60
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,1,2,04,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",12,17,1,2.10,"Sacre, Robert",1.10,7.10
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,1,11,22,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",-13,-2,15,10.90,"Payton, Elfrid",1.90,13.00
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,1,18,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",13,-3,3,2.60,"Olynyk, Kelly",1.80,11.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,4,5,52,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",20,12,1,1.80,"Sacre, Robert",3.20,10.70
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,4,4,09,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",10,14,3,3.20,"Young, Nick",4.70,21.50
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,2,1,47,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",15,12,0,0.00,"Horford, Al",4.10,18.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,0,43,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",9,11,4,3.00,"Hill, Jordan",2.60,21.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,0,08,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-8,11,2,4.30,"Lin, Jeremy",3.70,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,1,11,12,1,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",31,4,1,1.80,"McLemore, Ben",2.10,17.50
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,2,2,13,1,"Driving Layup Shot","2PT Field Goal",1,"Houston Rockets",-10,-5,5,4.20,"Motiejunas, Donatas",0.30,19.80
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,0,59,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",9,-2,1,1.80,"Turner, Evan",1.90,19.60
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,8,33,0,"Driving Layup Shot","2PT Field Goal",3,"Cleveland Cavaliers",23,22,15,11.10,"Jones, James",1.90,12.30
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,4,0,55,0,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",0,1,21,12.00,"Sullinger, Jared",1.40,11.10
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,3,59,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-10,14,2,2.50,"Henderson, Gerald",3.70,17.60
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,4,2,34,1,"Driving Layup Shot","2PT Field Goal",0,"Boston Celtics",2,-2,12,9.60,"Olynyk, Kelly",4.00,9.50
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,2,4,39,0,"Driving Layup Shot","2PT Field Goal",3,"Sacramento Kings",20,30,14,13.40,"Landry, Carl",3.50,10.90
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,1,08,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",28,1,3,4.40,"Plumlee, Mason",2.10,3.60
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,8,43,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",-21,6,3,4.30,"Thompson, Jason",1.70,12.10
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,1,0,46,0,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",15,0,4,5.50,"Whiteside, Hassan",2.10,10.70
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,5,57,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",23,0,4,12.30,"Thompson, Jason",2.70,9.40
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,2,0,45,0,"Driving Layup Shot","2PT Field Goal",4,"Brooklyn Nets",-9,40,1,3.10,"Plumlee, Mason",2.80,3.10
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,0,06,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,3,24,22.00,"Mills, Patty",3.60,2.40
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,3,3,15,0,"Driving Layup Shot","2PT Field Goal",4,"Orlando Magic",39,11,12,11.10,"Vucevic, Nikola",0.70,13.30
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,4,4,48,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",17,-2,11,11.70,"Monroe, Greg",2.70,13.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,7,27,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,0,16,15.90,"Lopez, Brook",3.00,7.90
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,1,13,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-11,9,18,8.70,"Jerebko, Jonas",2.50,14.70
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,4,9,29,0,"Driving Layup Shot","2PT Field Goal",3,"Denver Nuggets",36,4,2,2.80,"Mozgov, Timofey",1.60,15.20
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,4,0,31,1,"Driving Layup Shot","2PT Field Goal",2,"Boston Celtics",20,3,2,2.40,"Smart, Marcus",0.40,21.70
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,2,9,50,1,"Driving Layup Shot","2PT Field Goal",3,"Cleveland Cavaliers",26,27,3,2.60,"Thompson, Tristan",2.10,13.40
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,4,0,10,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-15,-2,4,2.90,"Smart, Marcus",1.90,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,3,30,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",15,9,11,10.20,"Gortat, Marcin",0.00,14.10
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,2,56,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-13,-8,2,2.10,"Jefferson, Cory",3.90,6.90
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,3,4,48,0,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",12,1,2,2.60,"Sampson, JaKarr",2.60,22.80
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,2,10,43,1,"Driving Layup Shot","2PT Field Goal",0,"Orlando Magic",0,-3,4,4.10,"Gordon, Aaron",2.50,19.10
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,3,5,08,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-10,6,9,7.30,"Waiters, Dion",1.50,14.50
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,2,0,03,1,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-19,7,25,22.10,"Davies, Brandon",3.30,1.90
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,4,4,16,0,"Driving Layup Shot","2PT Field Goal",4,"Washington Wizards",39,20,15,12.50,Nene,2.00,12.40
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,1,11,46,0,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",18,0,6,10.50,"Ibaka, Serge",1.00,12.40
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,7,53,0,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",18,11,4,3.80,"Wall, John",1.40,8.00
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,8,58,1,"Driving Layup Shot","2PT Field Goal",4,"Utah Jazz",40,3,3,2.30,"Kanter, Enes",0.40,19.40
+"Kyle Lowry","Toronto Raptors",2015-03-24,2014,3012,1610612761,400579346,1,9,54,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",9,1,1,2.40,"Drummond, Andre",4.70,9.70
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,1,3,10,1,"Driving Layup Shot","2PT Field Goal",3,"Atlanta Hawks",31,15,6,5.00,"Schroder, Dennis",1.90,3.60
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,5,25,0,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",29,1,4,4.40,"Johnson, Chris",0.60,18.60
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,1,6,28,1,"Driving Layup Shot","2PT Field Goal",1,"Indiana Pacers",-13,0,3,1.20,"Hibbert, Roy",2.50,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,2,30,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",21,7,2,4.20,"Duncan, Tim",15.10,22.40
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,2,3,28,1,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",21,7,10,8.30,"Leonard, Kawhi",2.20,12.30
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,2,1,38,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",23,3,17,12.70,"Vucevic, Nikola",2.00,10.50
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,3,13,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-5,14,2,2.10,"Jefferson, Al",2.80,4.80
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,2,0,54,1,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",-15,12,9,7.40,"Vucevic, Nikola",2.70,17.00
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,3,6,42,1,"Driving Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-2,0,0,0.00,"Irving, Kyrie",3.20,5.90
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,3,10,59,1,"Driving Layup Shot","2PT Field Goal",4,"Orlando Magic",39,19,3,2.60,"Vucevic, Nikola",2.60,13.70
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,3,2,12,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",7,17,9,7.40,"Turner, Evan",2.90,16.30
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,1,1,52,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",18,-2,0,1.80,"Bradley, Avery",4.10,13.00
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,3,3,19,0,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-26,7,15,12.60,"Kaman, Chris",2.70,12.40
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,4,52,0,"Driving Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",1,14,2,2.10,"Lee, Courtney",2.40,5.00
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,1,42,0,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-3,6,3.40,"Randolph, Zach",3.20,20.00
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,4,5,41,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-15,7,2,2.50,"Jordan, Jerome",3.50,20.00
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,1,8,19,1,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",15,7,3,3.40,"Kanter, Enes",2.00,6.80
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,4,3,16,1,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",29,20,2,2.50,"Williams, Deron",3.40,18.00
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,3,2,30,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",12,7,2,2.20,"Deng, Luol",3.00,12.20
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,2,0,00,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-15,14,6,3.00,"Favors, Derrick",2.70,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,1,3,17,1,"Driving Layup Shot","2PT Field Goal",0,"Brooklyn Nets",6,-3,2,2.40,"Lopez, Brook",7.90,21.10
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,4,6,16,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",24,6,4,3.90,"Jack, Jarrett",0.70,18.30
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,2,2,11,1,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",13,9,4,5.00,"Horford, Al",2.30,8.60
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,0,33,1,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",-29,7,11,7.30,"Randolph, Zach",1.40,16.60
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,4,2,58,1,"Driving Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,4,3,2.80,"Conley, Mike",1.60,8.90
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,7,13,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-24,11,11,9.60,"Noah, Joakim",1.40,13.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,4,31,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",15,6,2,6.10,"Rose, Derrick",2.10,3.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,3,32,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",15,1,19,14.40,"Mirotic, Nikola",1.40,9.40
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,1,09,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-5,11,5,5.40,"Rose, Derrick",0.00,16.60
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,0,20,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",23,3,2,2.40,"Noah, Joakim",3.90,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,5,44,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-24,-5,2,4.70,"Blake, Steve",0.80,13.00
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,4,7,56,0,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",1,14,5,6.30,"Wear, Travis",1.60,17.60
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,2,5,19,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-10,-11,13,11.60,"Bayless, Jerryd",1.20,12.90
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,2,2,28,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Orlando Magic",2,11,3,4.40,"Gordon, Aaron",4.00,19.80
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,1,8,44,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",-27,4,2,2.90,"Gortat, Marcin",0.00,18.20
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,3,10,51,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-15,1,3,2.40,"Adams, Steven",4.00,10.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,2,2,15,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",20,12,8,8.20,"Waiters, Dion",1.80,16.10
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,2,2,44,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Brooklyn Nets",12,1,2,2.20,"Jefferson, Cory",1.80,7.60
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,3,11,40,0,"Fadeaway Bank shot","2PT Field Goal",11,"Golden State Warriors",-68,89,3,3.50,"Curry, Stephen",2.60,6.20
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,1,11,23,0,"Fadeaway Bank shot","2PT Field Goal",12,"Chicago Bulls",121,39,2,2.20,"Rose, Derrick",1.90,4.80
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,3,7,23,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Boston Celtics",-160,42,3,3.20,"Bradley, Avery",4.50,10.20
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,1,10,23,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Washington Wizards",-71,153,7,8.40,"Beal, Bradley",4.00,16.00
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,3,9,22,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Atlanta Hawks",10,88,9,8.10,"Korver, Kyle",5.20,13.90
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,1,4,33,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-24,145,2,3.20,"Jordan, DeAndre",5.00,8.70
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,2,7,23,0,"Fadeaway Jump Shot","2PT Field Goal",15,"San Antonio Spurs",-155,20,2,3.50,"Green, Danny",4.00,3.70
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,1,1,23,0,"Fadeaway Jump Shot","2PT Field Goal",11,"Atlanta Hawks",-111,45,6,5.40,"Bazemore, Kent",4.20,18.00
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,1,10,47,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Utah Jazz",110,48,9,7.30,"Favors, Derrick",5.20,16.90
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,1,11,42,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Boston Celtics",-67,142,3,2.60,"Smart, Marcus",4.10,9.00
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,1,4,12,1,"Fadeaway Jump Shot","3PT Field Goal",24,"Dallas Mavericks",157,184,12,11.10,"Ellis, Monta",2.70,12.90
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,1,4,17,1,"Fadeaway Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",-5,179,6,5.60,"Grant, Jerami",3.50,2.10
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,1,8,17,1,"Fadeaway Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-152,97,1,3.20,"Teague, Jeff",4.60,11.10
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,4,03,1,"Fadeaway Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-187,101,3,3.10,"Babbitt, Luke",3.10,1.00
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,2,0,09,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Utah Jazz",51,101,19,18.00,"Burke, Trey",4.20,4.90
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,1,3,13,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Milwaukee Bucks",-161,15,4,6.70,"Knight, Brandon",1.80,7.00
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,3,9,27,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Brooklyn Nets",152,39,6,6.40,"Jack, Jarrett",4.20,16.20
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,1,5,37,0,"Fadeaway Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-152,34,3,6.40,"Conley, Mike",2.20,8.60
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,2,4,00,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-16,99,17,13.20,"Barea, Jose Juan",4.00,9.60
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,1,5,09,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Washington Wizards",-141,37,2,2.20,"Beal, Bradley",4.60,8.00
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,3,10,12,1,"Fadeaway Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",-196,94,3,2.60,"Middleton, Khris",3.40,21.90
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,4,2,45,0,"Fadeaway Jump Shot","2PT Field Goal",14,"Miami Heat",-130,60,23,21.20,"Beasley, Michael",4.90,3.10
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,1,8,22,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",9,148,9,9.20,"Matthews, Wesley",2.80,15.30
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,2,1,12,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Dallas Mavericks",-76,30,13,13.40,"Chandler, Tyson",2.10,10.90
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,3,8,43,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Miami Heat",-202,3,3,3.30,"Cole, Norris",3.50,10.50
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,2,3,23,0,"Fadeaway Jump Shot","2PT Field Goal",11,"New York Knicks",-86,82,13,14.40,"Acy, Quincy",3.30,11.40
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,5,2,00,1,"Fadeaway Jump Shot","2PT Field Goal",16,"New York Knicks",-160,12,3,2.70,"Calderon, Jose",5.80,8.50
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,1,7,41,0,"Fadeaway Jump Shot","2PT Field Goal",12,"New York Knicks",-97,71,7,7.20,"Anthony, Carmelo",3.40,17.10
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,2,0,36,0,"Fadeaway Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",53,55,14,12.60,"Farmar, Jordan",1.50,8.60
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,3,11,25,1,"Fadeaway Jump Shot","2PT Field Goal",11,"Orlando Magic",-116,9,4,5.80,"Vucevic, Nikola",4.10,4.60
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,4,0,08,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Memphis Grizzlies",-120,110,21,19.40,"Conley, Mike",2.10,1.10
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,2,1,08,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Sacramento Kings",129,7,9,7.40,"Landry, Carl",2.60,15.40
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,7,11,1,"Fadeaway Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",72,99,12,11.00,"Calathes, Nick",4.80,12.20
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,2,3,22,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Denver Nuggets",-158,3,4,2.90,"Faried, Kenneth",3.40,10.60
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,1,3,32,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Chicago Bulls",-13,107,4,3.10,"Hinrich, Kirk",4.10,12.00
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,2,9,08,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",133,140,1,3.50,"Lee, Courtney",2.50,10.60
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,4,2,41,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Golden State Warriors",-152,116,10,10.40,"Curry, Stephen",4.10,13.90
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,1,8,54,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Brooklyn Nets",-160,-3,4,4.20,"Johnson, Joe",3.50,3.50
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,1,5,18,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Brooklyn Nets",140,112,2,2.90,"Jack, Jarrett",3.50,15.40
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,4,3,22,1,"Fadeaway Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-123,146,0,1.50,"Leonard, Kawhi",4.20,9.00
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,1,6,20,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Orlando Magic",168,36,0,0.90,"Oladipo, Victor",3.50,9.30
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,3,4,27,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Sacramento Kings",-73,110,4,3.30,"Sessions, Ramon",3.20,10.70
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,5,11,0,"Fadeaway Jump Shot","2PT Field Goal",21,"Charlotte Hornets",-11,216,10,7.50,"Roberts, Brian",2.60,0.70
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,1,9,37,1,"Fadeaway Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-201,64,4,5.40,"Chandler, Tyson",8.00,8.50
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,2,4,37,0,"Fadeaway Jump Shot","2PT Field Goal",10,"New York Knicks",-81,71,3,4.70,"Acy, Quincy",3.70,17.20
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,3,4,16,0,"Fadeaway Jump Shot","2PT Field Goal",17,"New York Knicks",-175,7,3,5.20,"Calderon, Jose",4.20,17.90
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,3,7,37,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Detroit Pistons",-131,108,13,12.10,"Jennings, Brandon",3.00,11.30
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,1,0,45,1,"Finger Roll Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-5,-2,0,0.80,"Payne, Adreian",4.50,24.00
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,3,6,16,1,"Finger Roll Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",9,22,4,3.50,"Cunningham, Dante",4.20,15.30
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,2,3,11,1,"Finger Roll Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",1,22,10,6.40,"Conley, Mike",2.10,17.70
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,1,2,41,1,"Floating Jump shot","2PT Field Goal",8,"Detroit Pistons",77,22,1,1.70,"Smith, Josh",5.70,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,2,4,41,0,"Floating Jump shot","2PT Field Goal",10,"Cleveland Cavaliers",4,101,2,2.90,"Thompson, Tristan",2.40,13.60
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,2,19,1,"Floating Jump shot","2PT Field Goal",18,"Philadelphia 76ers",-172,72,2,2.50,"McDaniels, KJ",4.20,11.20
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,2,0,49,1,"Floating Jump shot","2PT Field Goal",7,"Philadelphia 76ers",-5,72,8,6.50,"Noel, Nerlens",4.60,9.20
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,3,5,58,0,"Floating Jump shot","2PT Field Goal",20,"Orlando Magic",-153,140,1,1.50,"Oladipo, Victor",3.20,16.50
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,3,1,51,1,"Floating Jump shot","2PT Field Goal",8,"Miami Heat",20,83,1,1.90,"Bosh, Chris",2.40,11.30
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,8,42,0,"Floating Jump shot","2PT Field Goal",13,"Indiana Pacers",59,126,2,2.00,"Watson, CJ",4.10,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,2,1,24,1,"Floating Jump shot","2PT Field Goal",5,"Orlando Magic",7,56,7,3.10,"Frye, Channing",3.30,20.10
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,2,27,1,"Floating Jump shot","2PT Field Goal",5,"Sacramento Kings",-23,48,6,4.70,"Sessions, Ramon",2.90,19.70
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,4,32,1,"Floating Jump shot","2PT Field Goal",15,"Sacramento Kings",-27,153,14,11.90,"Collison, Darren",2.80,12.30
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,4,0,41,0,"Floating Jump shot","2PT Field Goal",8,"Orlando Magic",75,34,13,12.00,"Ridnour, Luke",2.30,12.00
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,3,5,39,1,"Floating Jump shot","2PT Field Goal",9,"Miami Heat",-4,91,1,1.60,"Haslem, Udonis",4.50,7.50
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,10,48,0,"Floating Jump shot","2PT Field Goal",9,"Los Angeles Clippers",95,4,1,1.30,"Jordan, DeAndre",3.30,1.80
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,2,2,45,1,"Floating Jump shot","2PT Field Goal",8,"Chicago Bulls",-51,66,3,2.80,"Rose, Derrick",3.50,5.90
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,5,02,0,"Floating Jump shot","2PT Field Goal",6,"Charlotte Hornets",40,55,0,0.30,"Walker, Kemba",3.40,11.80
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,1,9,05,0,"Floating Jump shot","2PT Field Goal",10,"Miami Heat",-8,104,3,3.20,"Whiteside, Hassan",4.70,7.50
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,2,0,36,1,"Floating Jump shot","2PT Field Goal",12,"Boston Celtics",10,126,10,9.90,"Rondo, Rajon",2.00,14.20
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,1,4,31,0,"Floating Jump shot","2PT Field Goal",3,"Cleveland Cavaliers",-30,26,2,2.30,"Thompson, Tristan",2.20,8.00
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,4,2,08,0,"Floating Jump shot","3PT Field Goal",25,"Dallas Mavericks",-81,242,9,9.40,"Barea, Jose Juan",1.90,14.70
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,3,6,07,0,"Floating Jump shot","2PT Field Goal",6,"Detroit Pistons",4,69,1,1.50,"Jennings, Brandon",2.50,13.90
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,3,09,1,"Floating Jump shot","2PT Field Goal",4,"Washington Wizards",-7,45,8,6.70,"Gortat, Marcin",3.10,15.30
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,2,0,00,0,"Floating Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",40,187,5,4.50,"Jackson, Reggie",4.80,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,1,5,01,1,"Hook Bank Shot","2PT Field Goal",2,"Cleveland Cavaliers",-23,7,12,11.20,"Thompson, Tristan",4.00,11.20
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,5,08,1,"Hook Shot","2PT Field Goal",5,"Portland Trail Blazers",45,22,8,6.90,"Batum, Nicolas",1.80,17.50
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,6,15,0,"Hook Shot","2PT Field Goal",8,"Milwaukee Bucks",84,-10,5,7.90,"Knight, Brandon",3.10,5.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,2,01,1,"Jump Bank Shot","2PT Field Goal",10,"Los Angeles Lakers",86,67,10,11.10,"Johnson, Wesley",3.10,12.00
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,1,8,35,0,"Jump Bank Shot","2PT Field Goal",10,"Cleveland Cavaliers",99,47,4,4.30,"Irving, Kyrie",5.30,6.70
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,4,0,00,0,"Jump Bank Shot","3PT Field Goal",27,"Denver Nuggets",-158,220,2,3.30,"Afflalo, Arron",4.20,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,1,5,58,0,"Jump Bank Shot","2PT Field Goal",12,"Cleveland Cavaliers",-108,66,5,4.40,"Irving, Kyrie",2.80,10.10
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,2,0,04,1,"Jump Bank Shot","2PT Field Goal",2,"Brooklyn Nets",-16,12,23,21.70,"Plumlee, Mason",1.80,2.20
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,4,1,47,1,"Jump Bank Shot","3PT Field Goal",26,"Orlando Magic",48,265,0,0.80,"Oladipo, Victor",2.00,1.40
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,9,35,0,"Jump Bank Shot","2PT Field Goal",15,"Phoenix Suns",-144,60,4,3.80,"Dragic, Goran",4.00,19.80
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,2,0,00,0,"Jump Bank Shot","3PT Field Goal",24,"Orlando Magic",-239,34,0,0.70,"Harris, Tobias",2.60,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,09,1,"Jump Bank Shot","2PT Field Goal",2,"Dallas Mavericks",28,0,5,4.80,"Crowder, Jae",0.00,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,10,56,0,"Jump Hook Shot","2PT Field Goal",4,"Dallas Mavericks",7,41,12,9.30,"Ellis, Monta",1.70,13.50
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,3,3,29,0,"Jump Hook Shot","2PT Field Goal",6,"Chicago Bulls",56,34,13,10.90,"Hinrich, Kirk",1.20,14.70
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,3,2,42,1,"Jump Shot","2PT Field Goal",2,"Detroit Pistons",-24,4,0,0.60,"Augustin, D.J.",1.80,4.00
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,1,9,30,1,"Jump Shot","3PT Field Goal",27,"Dallas Mavericks",-51,266,5,4.00,"Harris, Devin",7.40,17.00
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,3,6,41,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",155,217,0,1.10,"Wall, John",4.20,14.00
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,1,0,28,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",237,42,0,0.80,"Terry, Jason",4.00,15.00
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,2,0,00,0,"Jump Shot","3PT Field Goal",53,"Orlando Magic",23,530,1,2.20,"Ridnour, Luke",6.40,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,3,8,07,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",15,255,2,2.50,"Payton, Elfrid",2.80,10.80
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,2,0,40,1,"Jump Shot","2PT Field Goal",18,"Miami Heat",106,149,1,2.30,"Cole, Norris",2.50,11.40
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,3,0,34,0,"Jump Shot","2PT Field Goal",22,"Miami Heat",113,192,1,4.90,"Deng, Luol",4.10,4.90
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,4,11,19,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",-150,190,1,2.20,"Napier, Shabazz",8.30,5.90
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,2,2,57,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-128,224,1,1.30,"Green, Jeff",5.50,23.30
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,4,51,1,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-157,200,13,12.60,"Rondo, Rajon",4.40,12.30
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,3,14,1,"Jump Shot","2PT Field Goal",6,"Boston Celtics",-45,48,17,17.50,"Bass, Brandon",3.40,6.30
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,4,0,08,1,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-171,63,28,19.60,"Bradley, Avery",3.90,4.40
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,2,4,16,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",144,192,0,0.80,"Pierce, Paul",3.20,19.90
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,4,02,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-67,238,10,9.00,"Temple, Garrett",5.00,15.40
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,1,4,44,1,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",91,194,10,8.40,"Thompson, Hollis",5.90,15.80
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,3,33,1,"Jump Shot","2PT Field Goal",17,"Philadelphia 76ers",0,173,4,3.60,"Johnson, Chris",3.80,9.10
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,1,7,04,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-217,134,0,1.00,"Payton, Elfrid",6.10,18.20
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,2,2,07,1,"Jump Shot","3PT Field Goal",27,"Chicago Bulls",-120,244,8,5.60,"Rose, Derrick",1.80,8.90
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,4,14,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-62,250,0,0.80,"Hinrich, Kirk",5.10,18.20
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,1,1,37,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",89,231,2,2.60,"Ingles, Joe",4.50,21.10
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,3,5,19,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",105,121,12,9.60,"Exum, Dante",1.00,13.20
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,1,10,38,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",233,61,1,3.30,"Conley, Mike",2.40,6.80
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,10,08,0,"Jump Shot","3PT Field Goal",27,"Memphis Grizzlies",-144,235,0,0.90,"Conley, Mike",3.70,13.60
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,4,45,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-232,-5,0,0.20,"Pondexter, Quincy",13.70,23.10
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,1,9,12,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-212,131,0,0.80,"Bayless, Jerryd",2.90,7.90
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,3,9,37,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-215,126,0,0.80,"Middleton, Khris",4.10,12.00
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,3,4,59,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",97,222,0,0.90,"Parker, Jabari",5.60,16.90
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,1,7,29,1,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-229,-8,0,1.40,"Marion, Shawn",3.20,4.90
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,11,17,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-105,154,18,12.20,"Love, Kevin",4.10,8.20
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,2,35,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-134,222,0,1.00,"Waiters, Dion",5.40,18.60
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,1,23,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-223,157,5,4.00,"James, LeBron",6.00,20.40
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,2,0,56,0,"Jump Shot","2PT Field Goal",2,"Phoenix Suns",-22,4,0,0.00,"Morris, Marcus",1.90,9.30
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,5,11,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-54,257,4,3.30,"Barea, Jose Juan",2.30,10.20
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,3,06,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Lakers",-172,146,2,2.60,"Johnson, Wesley",5.00,12.10
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,3,4,34,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-127,211,4,4.70,"Bryant, Kobe",9.00,18.10
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,1,9,45,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",21,247,0,1.20,"Hollins, Ryan",9.30,18.40
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,1,6,41,1,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-60,22,10,7.20,"Thompson, Jason",6.40,16.60
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,1,3,57,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-146,113,4,4.50,"Evans, Reggie",8.40,3.30
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,6,28,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",24,86,13,13.10,"Thompson, Jason",3.60,11.00
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,4,39,0,"Jump Shot","2PT Field Goal",3,"Sacramento Kings",39,6,9,8.30,"Evans, Reggie",2.50,2.00
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,1,19,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",32,58,20,19.00,"Evans, Reggie",2.80,5.00
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,0,57,1,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",56,189,20,18.10,"Williams, Derrick",3.40,5.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,3,10,46,1,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-169,34,0,1.00,"Irving, Kyrie",5.20,13.80
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,3,7,14,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-201,170,0,1.70,"Marion, Shawn",5.20,16.50
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,2,6,50,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",7,249,0,1.10,"Hood, Rodney",4.00,19.10
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,2,3,20,1,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-78,249,14,12.80,"Burke, Trey",4.00,11.50
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,2,0,30,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-93,231,0,1.20,"Burke, Trey",3.70,16.60
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,8,23,1,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-163,44,1,3.00,"Kanter, Enes",5.20,13.90
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,7,14,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-187,6,3,2.60,"Favors, Derrick",4.40,13.00
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,9,37,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-45,9,28,23.30,"Exum, Dante",4.00,1.20
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,8,49,1,"Jump Shot","2PT Field Goal",18,"Utah Jazz",-40,178,16,13.30,"Exum, Dante",8.30,10.80
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,8,09,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-57,242,2,2.40,"Ingles, Joe",4.50,9.40
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,2,29,1,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-174,184,0,1.30,"Hood, Rodney",4.20,10.10
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,1,58,1,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-210,44,7,5.10,"Favors, Derrick",4.00,11.40
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,1,5,19,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-106,247,0,1.40,"James, LeBron",5.60,10.00
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,2,0,00,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-57,249,25,21.80,"Irving, Kyrie",3.30,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,3,7,47,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-166,190,2,2.70,"Marion, Shawn",6.20,18.20
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,8,58,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-144,219,0,1.00,"Dellavedova, Matthew",8.10,15.10
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,5,33,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-139,36,9,7.10,"Love, Kevin",5.30,9.30
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,0,25,0,"Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-120,0,11,11.40,"Thompson, Tristan",2.50,3.90
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,1,11,21,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",72,205,1,1.30,"Lawson, Ty",3.20,6.00
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,1,4,49,1,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-215,-3,1,4.50,"Afflalo, Arron",3.40,13.60
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,1,10,44,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",-73,247,7,7.30,"Calderon, Jose",5.20,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,1,3,27,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",-56,142,1,1.30,"Calderon, Jose",2.70,11.20
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,2,5,01,1,"Jump Shot","2PT Field Goal",19,"New York Knicks",-198,17,4,3.60,"Calderon, Jose",4.80,6.10
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,5,3,33,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",116,172,23,18.60,"Anthony, Carmelo",3.30,4.20
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,1,4,02,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-157,209,0,1.40,"Oladipo, Victor",3.30,14.10
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,3,11,00,1,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-224,30,0,1.00,"Oladipo, Victor",4.60,12.30
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,3,2,26,1,"Jump Shot","3PT Field Goal",26,"Orlando Magic",140,224,0,0.90,"Oladipo, Victor",3.70,19.80
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,1,3,47,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-233,-1,0,1.10,"Jack, Jarrett",1.90,12.90
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,4,3,46,1,"Jump Shot","2PT Field Goal",4,"Brooklyn Nets",-7,45,3,3.30,"Williams, Deron",2.00,2.10
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,2,0,37,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",86,44,5,5.50,"Augustin, D.J.",3.30,20.00
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,1,9,46,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",28,25,2,2.90,"Drummond, Andre",2.30,10.30
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,2,1,05,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-65,250,5,5.60,"Augustin, D.J.",7.00,19.20
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,2,0,03,0,"Jump Shot","2PT Field Goal",13,"Detroit Pistons",-122,58,9,14.40,"Monroe, Greg",4.40,2.60
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,3,5,57,1,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",184,52,0,0.80,"Jennings, Brandon",7.90,10.30
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,2,5,57,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",230,77,0,0.70,"Calderon, Jose",3.00,11.40
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,3,8,55,1,"Jump Shot","2PT Field Goal",21,"New York Knicks",-108,187,6,6.00,"Calderon, Jose",4.00,18.80
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,4,5,35,1,"Jump Shot","2PT Field Goal",20,"New York Knicks",-194,58,0,1.20,"Calderon, Jose",4.60,12.80
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,1,9,35,1,"Jump Shot","3PT Field Goal",28,"Chicago Bulls",-112,265,0,1.20,"Rose, Derrick",3.40,10.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,2,0,35,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-134,214,2,2.40,"Butler, Jimmy",5.20,17.30
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,3,9,38,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",113,222,7,6.00,"Rose, Derrick",5.00,19.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,3,6,13,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-215,-8,10,7.80,"Butler, Jimmy",4.30,16.30
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,8,53,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",166,194,4,4.10,"Gibson, Taj",4.70,4.10
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,7,42,1,"Jump Shot","2PT Field Goal",6,"Chicago Bulls",4,67,2,4.70,"Hinrich, Kirk",3.00,3.10
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,0,15,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-92,239,1,1.50,"Brooks, Aaron",4.10,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,3,1,05,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-123,159,13,12.40,"Batum, Nicolas",4.60,10.50
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,6,13,1,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-205,14,0,1.10,"Blake, Steve",4.10,13.60
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,0,23,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-205,7,0,1.00,"Batum, Nicolas",7.20,13.90
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,1,6,04,1,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",160,205,0,0.90,"Lawson, Ty",4.10,16.60
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,1,3,10,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-86,134,2,2.40,"Lawson, Ty",2.50,8.40
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,2,4,18,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-111,115,1,1.50,"Chandler, Wilson",4.80,12.90
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,11,44,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",48,104,1,2.00,"Afflalo, Arron",3.20,21.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,8,12,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-207,145,10,7.20,"Lawson, Ty",5.80,17.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,6,42,1,"Jump Shot","2PT Field Goal",3,"Denver Nuggets",31,3,0,0.80,"Mozgov, Timofey",2.10,18.30
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,4,11,35,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-217,131,0,1.30,"Robinson, Nate",3.60,11.40
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,11,29,1,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-187,186,0,1.70,"Paul, Chris",4.20,20.90
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,3,3,24,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",189,194,1,1.70,"Paul, Chris",1.90,9.90
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,3,2,34,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",-150,113,8,7.60,"Paul, Chris",4.10,15.80
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,4,10,49,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",100,173,8,7.10,"Green, Draymond",4.70,4.40
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,1,7,12,1,"Jump Shot","2PT Field Goal",6,"Phoenix Suns",-46,42,3,5.60,"Bledsoe, Eric",1.40,4.50
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,1,5,57,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-175,181,0,1.40,"Bledsoe, Eric",5.20,3.80
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,9,56,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",80,242,9,8.00,"Bledsoe, Eric",5.20,15.30
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,5,26,1,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",-8,45,2,2.70,"Morris, Markieff",4.90,12.50
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,2,30,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",177,176,1,1.40,"Bledsoe, Eric",2.00,5.60
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,0,00,0,"Jump Shot","2PT Field Goal",9,"Phoenix Suns",-59,80,2,3.00,"Morris, Marcus",2.40,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,4,4,10,1,"Jump Shot","3PT Field Goal",27,"Phoenix Suns",-164,220,0,0.70,"Goodwin, Archie",7.50,14.80
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,4,2,50,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-242,-14,16,13.70,"Covington, Robert",3.10,10.80
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,4,3,39,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-111,231,14,11.50,"Carter-Williams, Michael",3.00,13.00
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,4,5,10,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-150,206,6,5.00,"Covington, Robert",4.30,20.00
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,2,2,19,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",99,224,0,1.00,"Augustin, D.J.",6.80,8.60
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,0,29,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-30,261,9,7.40,"Sessions, Ramon",3.80,16.60
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,1,4,00,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-209,149,0,0.00,"Collison, Darren",2.60,10.50
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,1,17,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-70,250,6,6.00,"Sessions, Ramon",4.40,17.50
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,5,40,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",50,250,0,0.80,"Stuckey, Rodney",2.70,0.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,8,46,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-226,104,7,5.30,"Smart, Marcus",3.50,1.60
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,6,49,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",-155,22,1,3.00,"Williams, Mo",1.50,9.60
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,3,5,41,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-86,235,0,0.90,"Ellis, Monta",1.20,0.50
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,1,5,08,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-223,-2,4,4.20,"Harris, Devin",7.70,14.20
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,3,8,57,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-232,1,0,0.80,"Jefferson, Richard",6.90,22.70
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,3,3,04,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",56,247,0,0.00,"Harris, Devin",6.00,8.90
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,2,4,52,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",198,3,0,1.20,"Gordon, Eric",5.00,1.10
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,2,3,15,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-103,230,0,1.00,"Harris, Devin",6.80,9.60
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,3,8,26,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-168,71,1,5.10,"Rondo, Rajon",4.50,10.40
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,3,9,29,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",130,205,0,4.10,"Anderson, Ryan",6.20,14.60
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,4,10,03,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-155,96,8,7.80,"Ajinca, Alexis",4.50,12.20
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,1,8,19,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-64,241,4,5.30,"Evans, Tyreke",3.80,9.50
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,1,2,12,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-160,187,0,1.00,"Fredette, Jimmer",5.20,6.70
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,4,2,08,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-108,131,16,14.90,"Gordon, Eric",3.90,9.70
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,1,3,45,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",103,151,2,2.20,"Ellis, Monta",3.50,10.40
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,3,9,29,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",157,183,1,1.50,"Rondo, Rajon",3.80,7.50
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,0,04,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",73,247,7,5.40,"Henderson, Gerald",4.40,0.00
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,3,8,27,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-243,7,0,1.00,"Haslem, Udonis",5.10,16.80
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,1,0,06,0,"Jump Shot","2PT Field Goal",10,"Houston Rockets",-97,31,3,16.20,"Smith, Josh",1.70,4.30
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,1,6,00,1,"Jump Shot","2PT Field Goal",4,"Houston Rockets",-11,42,1,2.70,"Motiejunas, Donatas",0.60,9.00
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,2,10,41,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-41,246,4,4.10,"Johnson, Tyler",4.30,12.90
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,2,7,58,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",86,231,2,2.30,"Johnson, Tyler",2.20,13.50
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,1,5,31,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",226,67,0,0.90,"Wade, Dwyane",1.90,11.70
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,4,0,53,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",173,168,1,1.70,"Wade, Dwyane",8.50,4.90
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,3,10,17,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",81,30,0,1.20,"Wade, Dwyane",2.90,22.80
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,3,11,29,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-168,183,0,1.20,"Dragic, Goran",3.80,14.50
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,3,7,19,0,"Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-116,4,8,8.80,"Ibaka, Serge",6.80,15.90
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,4,11,45,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",177,170,0,0.80,"Chalmers, Mario",5.10,23.10
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,4,4,27,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-191,160,0,1.60,"Johnson, Tyler",2.90,11.70
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,2,20,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",13,254,0,0.90,"Williams, Mo",5.40,22.60
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,8,23,0,"Jump Shot","2PT Field Goal",14,"Boston Celtics",-128,63,5,6.40,"Smart, Marcus",2.20,17.90
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,1,9,03,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-4,266,0,1.10,"Watson, CJ",4.30,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,1,8,37,1,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",-123,167,0,0.80,"Watson, CJ",5.40,0.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,2,3,38,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-161,69,0,0.70,"Bradley, Avery",8.00,3.10
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,4,3,11,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-172,97,18,16.40,"Smart, Marcus",3.70,7.50
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,11,29,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-60,238,0,0.80,"Bradley, Avery",5.20,12.30
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,4,1,23,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",-51,26,7,10.20,Nene,2.60,3.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,2,4,57,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-116,222,4,4.30,"Bass, Brandon",4.60,15.90
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,10,24,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-160,72,3,2.50,"Turner, Evan",4.80,18.30
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,5,49,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-185,50,6,4.30,"Smart, Marcus",3.10,12.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,2,5,46,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-204,137,7,4.50,"Bradley, Avery",3.20,7.90
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,2,5,31,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-155,205,1,1.90,"Gortat, Marcin",4.60,0.40
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,1,6,15,1,"Jump Shot","3PT Field Goal",27,"Washington Wizards",-108,258,0,0.90,"Beal, Bradley",2.90,8.10
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,2,6,00,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",-234,-6,0,0.70,"Johnson, Tyler",8.40,18.20
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,2,4,30,1,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-226,9,0,0.80,"Westbrook, Russell",7.20,10.60
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,1,9,35,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-52,246,0,0.00,"Westbrook, Russell",18.30,24.00
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,4,7,47,0,"Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-133,63,2,2.40,"Augustin, D.J.",2.80,1.20
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,0,13,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-93,246,2,2.80,"Williams, Mo",3.70,0.00
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,1,9,40,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-128,157,0,1.20,"Westbrook, Russell",5.00,9.70
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,4,3,47,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-190,157,0,0.90,"Augustin, D.J.",7.30,14.00
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,1,5,52,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-128,52,1,5.10,"Westbrook, Russell",4.10,7.90
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,6,39,0,"Jump Shot","2PT Field Goal",21,"San Antonio Spurs",-174,129,0,2.20,"Parker, Tony",3.10,6.20
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,1,2,45,1,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",-234,45,9,8.00,"Stuckey, Rodney",4.20,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,6,10,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",70,242,0,0.90,"Watson, CJ",3.90,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,10,43,1,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-114,154,1,1.30,"Watson, CJ",4.20,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,2,04,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",36,252,2,2.20,"Hill, George",4.50,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,7,50,0,"Jump Shot","3PT Field Goal",23,"Indiana Pacers",236,25,0,0.80,"Watson, CJ",7.60,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,2,3,21,0,"Jump Shot","2PT Field Goal",20,"Indiana Pacers",9,209,2,2.00,"Hill, George",4.30,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,3,1,59,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-108,238,0,0.90,"Farmar, Jordan",1.90,13.80
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,4,23,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-18,36,6,5.50,"Gobert, Rudy",1.60,10.80
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,4,8,58,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-213,119,7,7.20,"Iguodala, Andre",4.70,17.00
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,1,11,32,0,"Jump Shot","3PT Field Goal",23,"New York Knicks",182,154,5,9.50,"Acy, Quincy",7.30,17.70
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,5,53,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",86,181,2,2.20,"Burke, Trey",2.20,10.80
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,1,8,23,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",70,184,9,7.60,"Teletovic, Mirza",4.60,17.10
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,3,11,38,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-250,12,0,0.90,"Butler, Jimmy",6.70,6.80
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,2,0,19,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-235,34,0,1.10,"Dudley, Jared",2.40,3.60
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,1,11,42,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-175,183,5,4.00,"Varejao, Anderson",6.40,8.60
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,6,56,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-18,33,13,10.70,"Price, Ronnie",1.60,14.70
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,3,7,53,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",130,225,0,0.90,"Wall, John",5.10,12.00
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,3,11,45,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-21,254,0,0.80,"Jackson, Reggie",5.10,11.20
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,4,0,53,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",135,216,19,15.30,"Dalembert, Samuel",5.10,5.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,3,3,58,0,"Jump Shot","2PT Field Goal",21,"Cleveland Cavaliers",45,206,15,9.60,"Irving, Kyrie",4.50,14.10
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,4,0,28,0,"Jump Shot","3PT Field Goal",26,"Utah Jazz",-142,227,22,16.30,"Burks, Alec",4.20,8.80
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,5,3,38,0,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-196,97,7,7.10,"Aldridge, LaMarcus",5.00,3.50
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,3,3,29,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",113,235,6,8.30,"Bryant, Kobe",3.40,8.30
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,4,2,42,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",75,115,13,10.90,"Humphries, Kris",3.10,9.60
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,3,5,43,0,"Jump Shot","3PT Field Goal",26,"Chicago Bulls",-114,236,10,9.50,"Rose, Derrick",3.00,14.10
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,1,50,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-29,45,7,8.40,"Williams, Derrick",1.20,5.60
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,4,7,33,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-228,129,1,2.10,"Lawson, Ty",6.20,12.30
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,1,06,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-229,0,2,2.80,"Lin, Jeremy",4.40,12.60
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,2,2,17,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-142,25,2,2.10,"Calathes, Nick",3.90,11.00
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,2,0,59,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",165,201,0,0.90,"Beal, Bradley",3.00,12.70
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,0,58,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-122,148,11,7.90,"Hill, Jordan",4.80,16.40
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,1,9,32,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",40,172,2,1.90,"Curry, Stephen",4.20,11.50
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,1,3,09,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-65,44,3,5.10,"Drew, Larry",1.50,8.50
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,0,28,0,"Jump Shot","3PT Field Goal",22,"Cleveland Cavaliers",-224,25,12,11.70,"Harris, Joe",4.10,12.30
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,7,54,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",160,213,2,3.80,"Redick, JJ",3.20,20.30
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,2,0,07,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-138,101,19,17.90,"Ridnour, Luke",4.00,6.20
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,2,6,18,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-232,45,1,1.50,"Udrih, Beno",2.80,3.60
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,2,3,02,0,"Jump Shot","2PT Field Goal",19,"Boston Celtics",-142,132,1,1.90,"Bradley, Avery",3.30,9.00
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,4,11,40,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-235,-5,0,1.00,"Beasley, Michael",8.70,6.30
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,4,7,51,1,"Jump Shot","3PT Field Goal",26,"Miami Heat",-114,244,3,6.10,"Johnson, Tyler",2.80,1.00
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,2,2,17,1,"Jump Shot","3PT Field Goal",27,"Miami Heat",-131,238,0,1.00,"Deng, Luol",7.70,16.80
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,3,13,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",231,12,0,1.00,"Young, James",5.90,6.10
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,4,8,30,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-127,209,16,15.40,"Thomas, Isaiah",5.80,9.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,2,3,42,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-182,181,5,3.20,"Afflalo, Arron",4.10,14.20
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,2,8,44,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-158,52,3,4.50,"Exum, Dante",3.30,6.40
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,3,7,35,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-163,184,1,1.60,"Augustin, D.J.",2.60,18.20
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,3,8,11,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-147,211,2,3.00,"Calderon, Jose",5.30,11.50
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,4,49,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-229,12,0,0.90,"Randolph, Zach",6.00,17.70
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,9,04,0,"Jump Shot","2PT Field Goal",16,"Utah Jazz",-67,153,0,1.00,"Burke, Trey",5.10,13.40
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,3,5,47,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-123,216,21,19.90,"Lillard, Damian",3.30,4.80
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,4,7,17,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-116,216,0,1.00,"Green, Danny",3.90,19.90
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,2,33,0,"Jump Shot","3PT Field Goal",23,"Washington Wizards",-237,1,0,1.00,"Porter, Otto",3.60,7.30
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,1,2,50,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-231,3,0,1.00,"Lillard, Damian",14.70,21.40
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,3,8,46,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-105,64,7,7.00,"Johnson, Wesley",2.30,6.20
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,6,52,0,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",-68,102,2,4.30,"Williams, Derrick",2.10,7.50
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,1,11,26,0,"Jump Shot","2PT Field Goal",21,"New York Knicks",-149,153,0,-1.40,"Calderon, Jose",12.90,4.30
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,2,44,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-120,228,0,1.00,"Butler, Jimmy",6.00,18.70
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,4,8,17,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-231,66,0,1.10,"Dragic, Goran",2.90,11.30
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,3,10,40,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",67,247,6,5.80,"Middleton, Khris",2.10,7.70
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,2,8,56,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-160,33,14,10.50,"McLemore, Ben",4.20,13.00
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,3,49,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",15,66,23,17.20,"Faried, Kenneth",4.80,6.50
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,4,6,35,0,"Jump Shot","2PT Field Goal",19,"Washington Wizards",-199,0,1,1.60,"Miller, Andre",3.80,7.00
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,6,57,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-34,186,2,1.90,"Collison, Darren",4.90,13.70
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,1,9,11,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",-105,129,14,12.40,"Singler, Kyle",3.80,23.70
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,3,9,17,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-202,190,3,4.40,"James, LeBron",3.60,13.20
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,1,11,18,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-221,127,0,0.90,"Bledsoe, Eric",2.20,21.10
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,1,16,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",125,225,8,7.30,"Lee, Courtney",4.80,16.60
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,3,11,44,0,"Jump Shot","2PT Field Goal",19,"Chicago Bulls",149,132,2,2.60,"Rose, Derrick",3.20,11.00
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,2,3,48,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-207,138,0,0.90,"Beverley, Patrick",7.60,19.20
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,3,7,10,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",13,268,6,7.00,"Jennings, Brandon",1.60,18.90
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,4,28,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",141,219,9,9.70,"Johnson, Wesley",4.10,13.70
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,3,3,50,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",138,241,0,1.00,"Wolters, Nate",2.40,17.60
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,3,4,41,0,"Jump Shot","2PT Field Goal",3,"Houston Rockets",32,-5,0,1.10,"Brewer, Corey",0.20,19.30
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,3,47,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",12,257,4,3.90,"Ellis, Monta",3.30,17.70
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,1,9,27,0,"Jump Shot","3PT Field Goal",26,"Oklahoma City Thunder",-207,165,0,0.50,"Jackson, Reggie",8.90,9.80
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,6,20,0,"Jump Shot","2PT Field Goal",7,"Portland Trail Blazers",73,-3,11,9.30,"Blake, Steve",1.70,14.20
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,1,1,21,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",103,244,0,0.90,"Wall, John",5.70,9.60
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,4,8,40,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",2,61,0,1.20,"Robinson, Nate",1.90,18.90
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,1,3,17,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",230,121,0,0.60,"Ibaka, Serge",5.20,9.60
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,5,14,0,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",45,203,12,9.40,"Chandler, Tyson",6.10,14.20
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,0,36,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-93,230,12,14.30,"Aldridge, LaMarcus",6.40,2.20
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,3,5,19,0,"Jump Shot","3PT Field Goal",26,"Miami Heat",-174,198,0,1.50,"Walker, Henry",4.30,8.60
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,4,0,39,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-152,222,23,19.50,"Vucevic, Nikola",3.50,3.70
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,7,37,0,"Jump Shot","3PT Field Goal",33,"Denver Nuggets",-191,279,4,8.20,"Lawson, Ty",2.10,3.80
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,3,11,33,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-81,233,0,1.10,"Johnson, Wesley",6.20,12.00
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,2,0,59,0,"Jump Shot","2PT Field Goal",4,"Phoenix Suns",-10,45,0,0.40,"Morris, Marcus",1.50,9.40
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,3,5,16,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",-209,168,6,6.20,"Williams, Deron",4.40,17.00
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,2,4,06,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-190,183,0,0.90,"Augustin, D.J.",3.00,17.70
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,0,18,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",-24,56,20,17.80,"Sessions, Ramon",3.30,1.50
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,1,2,36,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-122,206,0,0.90,"Morris, Markieff",4.00,18.50
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,6,20,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",231,14,5,5.50,"Lucas, Kalin",18.90,18.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,4,23,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-191,159,4,4.50,"Lin, Jeremy",5.60,16.40
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,1,4,44,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",32,6,3,3.30,"Covington, Robert",1.20,19.70
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,4,9,23,0,"Jump Shot","3PT Field Goal",28,"Los Angeles Clippers",-168,227,0,1.10,"Barnes, Matt",7.70,18.90
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,2,4,05,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-81,250,1,3.70,"Gordon, Ben",5.20,18.60
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,5,0,10,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-149,138,20,19.50,"Calderon, Jose",4.40,4.10
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,1,10,12,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",-175,143,5,4.90,"Carter-Williams, Michael",4.50,19.00
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,1,9,00,0,"Jump Shot","2PT Field Goal",22,"Philadelphia 76ers",-174,135,5,3.90,"Wroten, Tony",3.30,12.90
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,1,8,54,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-193,178,0,0.80,"Singler, Kyle",6.50,18.90
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,1,9,48,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",106,236,8,6.50,"Allen, Tony",4.10,17.80
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,2,1,26,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-166,112,5,5.90,"Chandler, Wilson",2.70,6.90
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,1,4,38,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",81,239,0,1.00,"Harris, Tobias",4.70,17.90
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,4,1,05,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-103,172,7,8.20,"Morris, Markieff",5.70,15.60
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,5,0,27,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-138,135,4,3.60,"Matthews, Wesley",2.90,18.50
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,4,5,39,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",-82,235,13,12.50,"Stoudemire, Amare",3.70,11.00
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,2,4,15,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-122,213,0,0.80,"Caldwell-Pope, Kentavious",4.80,19.60
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,3,6,00,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-190,175,1,1.90,"Covington, Robert",12.00,23.10
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,1,5,50,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-139,220,6,5.80,"McLemore, Ben",6.80,18.10
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,1,2,55,0,"Jump Shot","2PT Field Goal",18,"Orlando Magic",-78,170,3,3.40,"Ridnour, Luke",2.90,6.10
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,1,5,26,0,"Jump Shot","2PT Field Goal",22,"Memphis Grizzlies",89,205,0,1.00,"Conley, Mike",6.80,13.80
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,2,16,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-136,126,20,17.10,"Sessions, Ramon",4.70,7.30
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,3,10,40,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",230,78,0,1.20,"Wall, John",3.90,3.60
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,0,38,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-210,126,0,0.90,"Bledsoe, Eric",2.60,17.90
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,10,07,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-226,63,1,2.00,"Wroten, Tony",5.90,12.00
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,4,3,39,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-15,260,16,14.90,"Crawford, Jamal",3.40,5.20
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,3,11,38,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",215,124,0,1.00,"Gay, Rudy",7.30,9.30
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,2,4,20,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-144,156,2,4.20,"Rose, Derrick",2.00,9.10
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,2,25,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-120,230,0,0.90,"Lee, Courtney",3.30,11.90
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,1,7,50,0,"Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-49,-5,0,1.20,"Covington, Robert",1.10,10.70
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,0,03,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",4,30,0,0.40,"Johnson, Wesley",2.00,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,2,3,37,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",-136,77,8,7.30,"Augustin, D.J.",2.30,14.40
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,4,2,49,0,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",157,131,16,17.10,"Lawson, Ty",2.80,6.00
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,0,06,0,"Jump Shot","3PT Field Goal",27,"Cleveland Cavaliers",-168,214,0,1.80,"Dellavedova, Matthew",3.10,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,2,0,29,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-4,242,5,5.00,"Parker, Tony",4.40,18.50
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,2,2,47,0,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",-125,238,1,1.10,"Barea, Jose Juan",2.20,14.20
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,1,4,13,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-122,118,1,1.90,"Rose, Derrick",3.00,3.60
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,2,3,38,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-190,156,1,1.60,"Bledsoe, Eric",2.20,5.70
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,3,6,33,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",203,151,0,0.80,"Paul, Chris",15.60,19.80
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,0,28,0,"Jump Shot","3PT Field Goal",26,"Boston Celtics",-13,266,19,17.30,"Bradley, Avery",2.50,5.90
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,10,20,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-229,83,0,0.90,"Rondo, Rajon",7.00,16.10
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,1,5,52,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",190,167,0,1.00,"Cole, Norris",2.20,19.80
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,3,8,16,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-133,205,0,0.90,"Teague, Jeff",5.10,14.60
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,4,5,12,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-75,260,15,12.90,"Crawford, Jamal",4.60,11.10
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,4,1,53,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",141,205,17,14.80,"Mirotic, Nikola",5.80,9.40
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,1,9,26,0,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",-161,-14,2,1.80,"Irving, Kyrie",2.70,11.10
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,3,11,17,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-130,225,0,1.10,"Hickson, JJ",5.50,13.40
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,3,6,41,0,"Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-81,67,4,5.20,"Aldridge, LaMarcus",0.00,12.10
+"Kyle Lowry","Toronto Raptors",2014-11-02,2014,3012,1610612761,400578332,4,10,14,0,"Jump Shot","2PT Field Goal",12,"Miami Heat",-105,64,4,2.70,"Napier, Shabazz",4.80,7.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,3,8,14,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-168,186,0,1.60,"Boozer, Carlos",14.90,13.00
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,1,0,07,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-60,236,21,19.30,"Favors, Derrick",5.30,4.60
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,1,4,16,0,"Jump Shot","3PT Field Goal",28,"Orlando Magic",-133,249,6,5.80,"Ridnour, Luke",4.90,17.30
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,3,2,19,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-218,134,7,8.10,"Hinrich, Kirk",2.10,3.50
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,2,5,33,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-239,1,0,1.10,"Adams, Steven",10.90,5.20
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,7,22,0,"Jump Shot","3PT Field Goal",29,"Phoenix Suns",-174,233,0,1.80,"Bledsoe, Eric",4.60,11.40
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,1,8,52,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",151,-25,6,7.90,"Burke, Trey",2.30,13.20
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,10,32,0,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",-228,17,1,1.50,"Jack, Jarrett",3.10,10.70
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,1,5,40,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-78,257,0,1.20,"Watson, CJ",4.50,8.10
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,1,11,37,1,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-155,112,5,5.80,"Lillard, Damian",2.30,17.10
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,3,9,16,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",-52,145,4,4.60,"Lillard, Damian",4.00,13.70
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,1,4,14,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-130,219,6,4.60,"Lopez, Robin",6.80,2.40
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,3,6,01,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",217,126,0,0.70,"Lillard, Damian",9.20,8.90
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,4,3,29,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-234,4,0,0.90,"Blake, Steve",6.90,16.50
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,3,11,35,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-127,209,1,2.00,"Lillard, Damian",9.00,1.50
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,4,5,10,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-89,242,1,2.20,"Afflalo, Arron",4.50,20.00
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,5,29,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-224,7,0,1.00,"Olynyk, Kelly",3.90,8.00
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,3,5,34,1,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",103,132,3,3.30,"Teague, Jeff",2.20,8.70
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,3,6,05,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-215,143,0,1.00,"Bradley, Avery",5.90,20.10
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,3,7,43,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",64,239,4,4.40,"Millsap, Paul",6.80,18.70
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,5,26,1,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-79,173,0,1.10,"Zeller, Cody",5.60,14.10
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,0,55,1,"Jump Shot","3PT Field Goal",27,"Charlotte Hornets",-125,250,3,4.00,"Zeller, Cody",9.30,20.70
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,4,02,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-232,31,0,0.90,"Williams, Mo",3.00,15.50
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,4,53,1,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",-59,283,0,0.80,"Williams, Mo",7.00,8.70
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,2,45,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",73,71,1,4.90,"Williams, Mo",2.70,3.20
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,0,01,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",-146,119,12,13.30,"Williams, Mo",3.50,0.00
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,2,7,29,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",-190,181,0,0.80,"Oladipo, Victor",5.90,13.40
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,11,13,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",91,241,0,1.10,"Williams, Mo",14.20,9.30
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,2,4,13,0,"Jump Shot","2PT Field Goal",4,"Charlotte Hornets",-4,44,0,1.40,"Kidd-Gilchrist, Michael",1.60,11.50
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,7,18,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",83,244,2,4.20,"Williams, Mo",3.40,17.00
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,9,23,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-15,250,3,4.50,"Williams, Mo",12.00,20.00
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,5,49,0,"Jump Shot","2PT Field Goal",17,"Charlotte Hornets",62,165,3,5.10,"Williams, Mo",3.40,13.60
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,3,11,38,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",218,118,0,1.00,"Carter-Williams, Michael",5.30,21.60
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,4,3,16,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-78,249,0,1.40,"McDaniels, KJ",8.20,11.70
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,3,4,27,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-138,219,0,1.00,"Cole, Norris",4.90,13.70
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,1,5,11,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-183,183,0,1.00,"Carter-Williams, Michael",2.50,6.70
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,2,0,26,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",59,255,0,0.90,"McDaniels, KJ",7.20,19.30
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,3,4,57,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-229,26,0,0.80,"Carter-Williams, Michael",5.50,14.00
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,2,2,45,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",-160,113,3,5.10,"Sims, Henry",5.00,4.20
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,3,3,41,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",-19,263,0,1.00,"Noel, Nerlens",5.00,17.90
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,4,1,29,0,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",204,168,0,0.90,"Grant, Jerami",5.70,5.50
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,3,48,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",28,242,12,15.40,"Jack, Jarrett",4.30,8.30
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,2,3,59,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-122,220,0,0.90,"Jack, Jarrett",6.60,7.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,7,13,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",-103,230,0,1.00,"Anderson, Alan",4.70,16.50
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,5,58,0,"Jump Shot","3PT Field Goal",26,"Brooklyn Nets",9,266,0,1.10,"Johnson, Joe",4.10,15.40
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,5,1,43,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-62,170,17,16.00,"Johnson, Joe",3.70,6.10
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,0,39,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-70,127,11,8.90,"Ajinca, Alexis",4.20,15.10
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,3,1,01,1,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-86,102,13,10.40,"Gordon, Eric",3.40,11.90
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,1,5,40,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",136,211,0,0.90,"Gordon, Eric",7.10,21.20
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,0,00,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-142,227,5,3.70,"Fredette, Jimmer",4.30,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,1,4,10,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-221,154,14,13.70,"Cole, Norris",5.80,10.30
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,5,22,0,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",39,160,11,7.20,"Asik, Omer",4.10,3.50
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,2,5,39,0,"Jump Shot","2PT Field Goal",21,"New Orleans Pelicans",-81,200,1,2.70,"Evans, Tyreke",3.50,3.20
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,2,1,04,0,"Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",12,72,14,10.50,"Pondexter, Quincy",2.00,13.90
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,3,5,01,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-188,179,0,3.60,"Cunningham, Dante",4.20,11.30
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,1,11,18,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-98,241,2,2.80,"Evans, Tyreke",8.20,14.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,4,7,03,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",64,257,2,2.00,"Walker, Kemba",2.30,12.60
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,4,28,1,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",225,11,0,0.80,"Williams, Marvin",8.50,14.80
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,4,2,47,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",73,255,3,2.80,"Walker, Kemba",3.90,15.20
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,2,4,07,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-226,67,0,0.80,"Jefferson, Cory",7.10,1.90
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,3,6,43,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",174,25,7,6.70,"Jack, Jarrett",4.00,7.10
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,6,45,0,"Jump Shot","2PT Field Goal",19,"Charlotte Hornets",-175,91,2,4.70,"Roberts, Brian",3.80,2.70
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,3,6,30,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",6,249,0,0.90,"Walker, Kemba",7.70,16.90
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,0,42,1,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",223,11,0,0.80,"Jennings, Brandon",1.80,14.40
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,2,41,0,"Jump Shot","2PT Field Goal",4,"Detroit Pistons",-34,26,1,1.90,"Monroe, Greg",3.90,10.60
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,7,54,1,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-193,172,0,0.80,"Augustin, D.J.",8.20,17.10
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,3,09,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-67,247,2,2.00,"Monroe, Greg",5.10,14.40
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,1,3,47,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-166,194,4,4.20,"Butler, Caron",6.60,20.90
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,6,47,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-166,195,0,0.90,"Augustin, D.J.",3.20,10.90
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,3,10,27,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-64,254,0,1.00,"Jennings, Brandon",3.90,4.70
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,4,30,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-188,187,0,1.00,"Walker, Kemba",3.70,13.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,2,19,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",77,238,0,1.00,"Williams, Marvin",9.20,17.20
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,3,7,47,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-235,-2,0,1.00,"Walker, Kemba",4.20,6.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,10,20,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-187,172,2,4.00,"Walker, Kemba",3.40,17.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,2,0,30,0,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-213,129,0,2.40,"Walker, Kemba",3.70,13.50
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,4,2,19,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",73,249,2,2.30,"Walker, Kemba",2.10,15.80
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,4,6,05,0,"Jump Shot","3PT Field Goal",28,"Brooklyn Nets",163,230,0,0.80,"Williams, Deron",2.90,7.80
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,4,36,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-235,-8,0,1.10,"Knight, Brandon",5.30,12.50
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,2,36,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",162,192,0,1.10,"Mayo, O.J.",5.90,5.90
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,3,4,07,0,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",48,249,11,11.70,"Jack, Jarrett",5.20,13.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,1,41,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",-166,222,13,13.80,"Mayo, O.J.",3.50,10.30
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,9,40,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",-183,83,17,11.40,"Ilyasova, Ersan",5.00,12.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,4,01,0,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",-149,96,8,7.20,"Henson, John",4.40,16.40
+"Kyle Lowry","Toronto Raptors",2015-03-24,2014,3012,1610612761,400579346,1,4,45,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",26,263,0,0.90,"Jackson, Reggie",5.20,13.80
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,3,9,33,0,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-185,198,0,1.20,"Watson, CJ",3.30,8.50
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,3,5,17,0,"Jump Shot","2PT Field Goal",4,"Indiana Pacers",-41,1,3,6.60,"Allen, Lavoy",0.40,12.50
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,1,11,24,1,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-11,107,1,6.30,"Knight, Brandon",4.30,8.30
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,3,6,20,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-228,78,0,1.20,"Pachulia, Zaza",15.30,18.70
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,3,7,33,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",244,3,0,0.80,"Knight, Brandon",13.20,7.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,6,57,1,"Jump Shot","2PT Field Goal",20,"Milwaukee Bucks",203,14,0,1.00,"Henson, John",5.70,3.80
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,7,56,0,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-98,31,4,3.00,"Ilyasova, Ersan",3.50,11.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,0,26,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",133,165,9,9.00,"Knight, Brandon",3.40,13.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,2,50,0,"Jump Shot","3PT Field Goal",27,"Milwaukee Bucks",155,231,0,0.80,"Knight, Brandon",7.30,10.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,8,33,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-239,48,7,7.00,"Knight, Brandon",2.80,3.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,3,10,44,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",130,214,5,5.30,"Middleton, Khris",5.20,16.60
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,7,02,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-243,9,0,5.00,"Mayo, O.J.",23.00,20.70
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,3,6,47,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",-142,115,2,3.40,"Knight, Brandon",3.20,6.90
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,9,01,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",65,241,0,0.80,"Joseph, Cory",6.20,22.10
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,3,5,08,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",42,244,5,4.40,"Parker, Tony",5.50,17.00
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,0,12,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-234,108,2,2.50,"Joseph, Cory",2.90,0.00
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,4,05,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-215,105,0,0.60,"Leonard, Kawhi",11.10,22.50
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,4,50,0,"Jump Shot","2PT Field Goal",9,"San Antonio Spurs",-18,97,4,2.80,"Duncan, Tim",0.80,14.70
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,0,18,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",42,238,1,1.20,"Parker, Tony",0.90,14.70
+"Kyle Lowry","Toronto Raptors",2015-03-24,2014,3012,1610612761,400579346,1,5,54,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",113,239,0,2.10,"Jackson, Reggie",3.60,17.70
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,3,3,25,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-232,55,1,2.50,"Parker, Tony",5.80,15.00
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,3,9,29,1,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-128,220,0,1.20,"Payton, Elfrid",4.80,13.50
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,0,03,1,"Jump Shot","3PT Field Goal",31,"San Antonio Spurs",-196,250,3,2.90,"Joseph, Cory",3.80,0.00
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,1,0,49,0,"Jump Shot","2PT Field Goal",9,"Orlando Magic",73,66,3,2.10,"Dedmon, Dewayne",4.10,16.30
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,3,8,38,0,"Jump Shot","3PT Field Goal",27,"Orlando Magic",-171,216,0,1.00,"Payton, Elfrid",8.00,15.40
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,1,10,41,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-29,250,0,0.80,"Harris, Tobias",4.50,22.30
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,4,3,33,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",193,175,0,1.10,"Vucevic, Nikola",12.20,18.30
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,2,3,53,1,"Jump Shot","2PT Field Goal",22,"San Antonio Spurs",189,129,7,5.30,"Belinelli, Marco",3.80,18.00
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,3,2,47,1,"Jump Shot","2PT Field Goal",6,"San Antonio Spurs",-46,50,0,0.60,"Duncan, Tim",3.80,18.90
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,3,2,13,1,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-86,170,15,13.40,"Belinelli, Marco",2.80,11.00
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,7,22,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-193,145,0,0.80,"Parker, Tony",2.00,15.30
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,1,3,28,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-160,0,14,12.50,"Duncan, Tim",4.30,11.90
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,2,0,35,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",203,148,8,7.60,"Parker, Tony",3.40,16.30
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,3,10,24,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",17,153,1,1.30,"Duncan, Tim",3.40,11.70
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,3,5,02,0,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",-16,224,3,3.60,"Budinger, Chase",3.30,10.20
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,5,36,1,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",-60,265,0,0.90,"Teague, Jeff",4.30,9.60
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,2,1,53,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",138,208,0,1.00,"Teague, Jeff",8.80,13.00
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,4,12,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",116,228,0,1.50,"Schroder, Dennis",4.40,11.80
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,2,2,57,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",28,255,2,2.50,"Teague, Jeff",4.40,10.30
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,1,9,01,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-243,-16,0,3.40,"Teague, Jeff",3.70,13.20
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,1,31,0,"Jump Shot","3PT Field Goal",26,"Atlanta Hawks",226,132,0,0.90,"Millsap, Paul",5.30,19.00
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,2,11,11,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-218,129,0,0.80,"Martin, Kevin",5.90,18.60
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,2,8,43,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-205,159,0,1.00,"Martin, Kevin",8.30,4.90
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,2,0,00,0,"Jump Shot","3PT Field Goal",27,"Atlanta Hawks",39,269,9,10.10,"Teague, Jeff",4.50,0.00
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,3,6,11,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",122,228,1,2.50,"Rubio, Ricky",4.10,13.70
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,4,10,58,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-215,134,1,1.00,"Schroder, Dennis",4.20,7.90
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,3,8,15,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",86,242,0,0.90,"Teague, Jeff",5.50,10.10
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,4,2,41,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-13,154,15,11.40,"Hill, George",3.70,14.80
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,2,11,50,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",65,250,1,1.40,"Stuckey, Rodney",4.00,16.10
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,4,3,35,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",10,260,14,16.90,"Hill, George",3.20,7.50
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,1,5,34,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",151,225,3,4.70,"Hill, George",6.30,19.70
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,3,7,52,1,"Jump Shot","3PT Field Goal",27,"Indiana Pacers",-90,255,2,2.50,"Hill, George",1.80,9.40
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,1,11,17,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-87,241,4,4.80,"West, David",4.30,1.80
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,3,6,50,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-204,167,0,0.90,"Hill, George",3.20,13.90
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,4,1,38,0,"Jump Shot","2PT Field Goal",18,"Indiana Pacers",-136,118,18,20.50,"Copeland, Chris",7.10,3.80
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,2,6,12,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-41,252,3,4.50,"Stuckey, Rodney",5.30,19.20
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,2,3,13,0,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-157,214,0,1.10,"Watson, CJ",4.50,14.40
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,2,9,33,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-204,170,0,1.30,"Roberts, Brian",4.80,16.10
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,1,8,52,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-205,162,0,0.50,"Walker, Kemba",3.80,18.40
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,1,9,17,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",54,254,1,3.10,"Walker, Kemba",7.30,12.00
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,3,11,04,1,"Jump Shot","2PT Field Goal",22,"Charlotte Hornets",9,227,0,1.00,"Walker, Kemba",5.60,3.50
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,8,10,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",130,227,0,1.10,"Roberts, Brian",3.30,10.80
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,9,15,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-231,26,0,0.80,"Roberts, Brian",6.10,9.50
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,3,10,05,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-163,200,0,1.10,"Walker, Kemba",3.40,18.80
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,7,42,0,"Jump Shot","3PT Field Goal",28,"Charlotte Hornets",-164,230,0,1.20,"Roberts, Brian",4.90,18.30
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,1,4,32,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-68,254,11,7.20,"Curry, Stephen",2.80,16.00
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,3,11,43,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-117,225,0,1.10,"Curry, Stephen",5.10,10.10
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,1,2,50,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-234,-2,0,0.80,"Curry, Stephen",6.90,1.80
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,0,38,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",20,258,6,3.40,"Irving, Kyrie",2.60,20.60
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,3,2,56,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-175,190,0,0.80,"Grant, Jerami",5.40,18.20
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,3,2,52,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-164,192,0,1.00,"Grant, Jerami",5.10,22.20
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,4,7,13,0,"Jump Shot","2PT Field Goal",3,"Philadelphia 76ers",0,33,4,3.20,"Noel, Nerlens",2.30,10.40
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,6,41,1,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",146,134,8,6.40,"Lee, Courtney",2.70,3.70
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,5,35,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",225,-6,0,0.70,"Conley, Mike",6.60,9.60
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,3,14,1,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-234,53,0,1.10,"Calathes, Nick",5.00,7.80
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,3,13,1,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",12,55,9,7.80,"Udrih, Beno",1.20,16.80
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,2,5,27,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",43,260,0,1.20,"Budinger, Chase",7.00,16.00
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,1,10,43,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",168,184,0,0.80,"Parker, Tony",3.20,12.50
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,4,01,0,"Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-141,61,2,5.10,"Jack, Jarrett",4.40,10.60
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,1,8,12,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-185,176,0,1.10,"Mbah a Moute, Luc",5.30,18.50
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,3,6,32,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-144,225,2,3.20,"Beal, Bradley",3.90,21.90
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,6,57,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-231,20,0,0.80,"Johnson, Joe",6.10,16.00
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,4,7,17,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",-105,242,10,12.00,"Beal, Bradley",3.10,13.10
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,2,0,23,0,"Jump Shot","2PT Field Goal",9,"Washington Wizards",-89,19,10,7.10,"Gortat, Marcin",2.10,7.60
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,1,8,53,0,"Jump Shot","3PT Field Goal",27,"Washington Wizards",-179,209,5,4.20,"Wall, John",4.80,6.20
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,4,2,35,1,"Jump Shot","3PT Field Goal",26,"Philadelphia 76ers",103,241,0,1.00,"Grant, Jerami",4.90,7.60
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,1,4,07,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-239,44,10,8.80,"Porter, Otto",4.20,15.50
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,1,5,39,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-93,228,0,0.90,"Bradley, Avery",3.00,20.50
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,3,5,28,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-54,113,16,12.80,"Faried, Kenneth",6.10,12.10
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,3,2,59,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",-196,1,11,8.40,"Burks, Alec",6.60,16.50
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,4,5,23,0,"Jump Shot","2PT Field Goal",4,"Orlando Magic",-15,45,14,13.40,"Payton, Elfrid",4.30,10.90
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,1,4,45,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",163,175,0,0.80,"Millsap, Paul",8.70,6.10
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,4,2,50,0,"Jump Shot","2PT Field Goal",19,"Detroit Pistons",-144,129,11,10.20,"Augustin, D.J.",5.70,11.70
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,1,4,04,0,"Jump Shot","2PT Field Goal",19,"Milwaukee Bucks",168,101,1,3.70,"Middleton, Khris",4.10,9.10
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,1,0,33,0,"Jump Shot","3PT Field Goal",26,"Orlando Magic",65,254,5,6.40,"Gordon, Ben",4.30,19.70
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,4,0,35,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",-149,214,15,20.00,"Cunningham, Jared",4.60,3.70
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,4,5,47,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-240,0,0,0.80,"Wall, John",3.90,18.50
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,4,39,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-235,-5,0,0.90,"Aminu, Al-Farouq",4.30,21.80
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,2,2,25,1,"Jump Shot","2PT Field Goal",5,"Washington Wizards",13,56,5,5.20,"Wall, John",2.60,19.70
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,3,11,13,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-149,140,2,2.80,"Calderon, Jose",4.70,17.10
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,1,9,53,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-234,11,0,1.10,"Johnson, Wesley",8.20,7.80
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,1,3,10,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",222,99,0,4.60,"Carter, Vince",4.40,14.90
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,2,6,24,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",73,154,6,5.90,"Lin, Jeremy",2.20,9.00
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,1,11,43,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",75,241,0,0.90,"Wall, John",4.60,11.90
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,3,7,10,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",244,6,0,0.90,"Varejao, Anderson",10.70,11.00
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,2,4,49,0,"Jump Shot","2PT Field Goal",19,"New York Knicks",149,129,0,0.90,"Calderon, Jose",3.10,11.90
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,4,2,05,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-54,195,12,11.40,"Calderon, Jose",3.60,11.60
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,2,4,13,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-56,244,4,3.90,"James, LeBron",6.80,18.00
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,3,4,08,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-201,165,0,3.80,"Smith, Josh",5.50,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,2,4,52,0,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",21,254,0,1.00,"Rose, Derrick",3.50,20.20
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,4,0,33,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-212,131,8,7.60,"Carter-Williams, Michael",2.20,16.50
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,5,12,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,6,5,4.00,"Koufos, Kosta",2.50,12.00
+"Kyle Lowry","Toronto Raptors",2015-03-24,2014,3012,1610612761,400579346,2,11,04,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",15,9,1,1.80,"Anthony, Joel",3.30,21.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,7,25,1,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",0,23,10,9.40,"Hill, Solomon",2.10,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,1,3,18,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",0,3,3,3.60,"Zeller, Tyler",2.90,15.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,5,25,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-2,9,10,8.80,"Ilyasova, Ersan",2.10,12.40
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,6,46,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",-7,4,0,1.00,"Kanter, Enes",4.30,16.40
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,2,10,52,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-13,1,1,2.40,"Augustin, D.J.",5.70,21.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,3,3,33,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-7,0,2,4.70,"Henson, John",1.50,8.70
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,2,8,33,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",21,-2,0,0.70,"Waiters, Dion",3.00,22.40
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,3,33,1,"Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,7,9,6.40,"Varejao, Anderson",0.40,20.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,1,52,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,-6,8,4.30,"Knight, Brandon",0.90,21.00
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,3,0,43,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-2,25,2,2.60,"Nicholson, Andrew",0.50,3.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,5,29,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",21,-2,12,7.70,"Zeller, Tyler",3.00,16.40
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,4,7,24,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",17,22,12,6.80,"Henderson, Gerald",2.80,16.80
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,1,2,04,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-2,0,12,8.80,"Smart, Marcus",1.70,16.00
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,3,3,16,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",7,4,1,1.10,"Gordon, Eric",11.00,20.30
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,3,6,23,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",4,22,1,2.70,"Speights, Marreese",3.80,13.10
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,2,2,27,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,-8,2,2.80,"Ellis, Monta",1.10,19.20
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,3,51,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-21,7,3,4.80,"Hill, Jordan",2.00,14.80
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,3,8,48,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-5,15,0,0.80,"Kidd-Gilchrist, Michael",6.80,20.30
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,3,11,21,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",20,0,12,11.60,"Plumlee, Miles",3.00,14.60
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,1,2,34,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-23,11,3,2.40,"Ajinca, Alexis",1.80,5.00
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,0,06,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-23,9,4,4.00,"Asik, Omer",0.90,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,3,3,42,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-23,7,2,2.60,"Jones, Terrence",0.90,19.30
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,8,18,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",-5,3,2,3.90,"Bass, Brandon",1.00,13.90
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,8,44,1,"Layup Shot","2PT Field Goal",3,"Boston Celtics",-5,31,4,3.20,"Turner, Evan",1.90,13.90
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,2,8,14,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-8,15,9,5.60,"Mills, Patty",0.00,17.70
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,1,7,09,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",18,4,6,6.00,"Calderon, Jose",2.00,0.20
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,3,8,06,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-13,3,1,2.40,"Millsap, Paul",2.10,1.30
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,1,2,47,1,"Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,4,1,1.40,"Kanter, Enes",20.10,21.10
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,4,11,37,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",13,3,0,1.70,"Adams, Steven",2.20,2.40
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,4,7,59,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,3,0,0.70,"Chandler, Wilson",2.80,17.30
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,1,1,20,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",6,7,0,0.60,"Dragic, Goran",2.30,9.40
+"Kyle Lowry","Toronto Raptors",2015-04-11,2014,3012,1610612761,400579480,3,10,11,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",17,0,0,0.00,"Dragic, Goran",5.30,24.00
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,2,4,54,1,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-8,14,1,1.50,"Carroll, DeMarre",5.10,20.10
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,4,6,18,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-10,11,0,0.40,"Butler, Rasual",2.10,24.00
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,3,0,00,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-27,-3,4,3.50,"Mahinmi, Ian",1.50,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,3,02,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",-7,0,0,0.00,"Paul, Chris",2.60,24.00
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,8,29,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-2,11,3,7.20,"Love, Kevin",1.70,7.60
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,3,0,36,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",7,6,0,0.70,"Sullinger, Jared",7.80,19.10
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,1,10,36,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",10,1,1,2.10,"Barnes, Harrison",1.50,13.50
+"Kyle Lowry","Toronto Raptors",2014-12-19,2014,3012,1610612761,400578679,1,5,00,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",6,6,3,7.80,"Monroe, Greg",1.10,9.50
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,3,1,12,1,"Layup Shot","2PT Field Goal",0,"Indiana Pacers",-5,3,1,1.60,"Miles, CJ",2.70,20.10
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,2,2,07,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-5,14,4,4.20,"Knight, Brandon",1.00,18.20
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,3,7,31,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",9,23,1,2.30,"Speights, Marreese",2.10,10.50
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,1,28,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-19,4,11,5.80,"Freeland, Joel",1.50,17.60
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,1,8,59,0,"Layup Shot","2PT Field Goal",2,"Chicago Bulls",-26,3,6,4.40,"Rose, Derrick",2.20,19.90
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,2,8,25,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-10,11,3,2.50,"Harris, Tobias",2.10,11.90
+"Kyle Lowry","Toronto Raptors",2014-11-22,2014,3012,1610612761,400578478,3,0,04,0,"Layup Shot","2PT Field Goal",1,"Cleveland Cavaliers",-4,19,11,17.40,"Harris, Joe",1.10,2.10
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,2,0,37,0,"Layup Shot","2PT Field Goal",2,"Dallas Mavericks",-21,6,0,1.30,"Chandler, Tyson",1.70,6.90
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,4,2,56,1,"Layup Shot","2PT Field Goal",3,"Sacramento Kings",18,30,19,16.40,"Sessions, Ramon",0.00,5.30
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,1,23,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-4,1,1,2.00,"Ilyasova, Ersan",2.20,12.60
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,8,00,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-5,26,13,13.10,"Dellavedova, Matthew",0.00,24.00
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,4,11,52,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",1,12,4,3.40,"Nicholson, Andrew",2.50,16.60
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,4,2,00,1,"Layup Shot","2PT Field Goal",1,"Orlando Magic",0,17,2,2.80,"Vucevic, Nikola",1.30,15.80
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,5,1,41,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",0,25,11,8.50,"Hill, Jordan",1.70,15.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,6,38,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",9,-11,4,3.60,"Garnett, Kevin",13.30,21.80
+"Kyle Lowry","Toronto Raptors",2015-04-10,2014,3012,1610612761,400579467,4,9,56,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",-4,17,0,1.70,"Payton, Elfrid",2.00,22.90
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,3,10,57,1,"Layup Shot","2PT Field Goal",1,"Chicago Bulls",-19,6,0,1.60,"Rose, Derrick",3.50,19.50
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,1,57,0,"Layup Shot","2PT Field Goal",0,"Atlanta Hawks",1,3,1,2.00,"Bazemore, Kent",0.10,22.70
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,3,10,19,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",1,6,2,1.90,"Bradley, Avery",2.60,23.30
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,1,11,36,0,"Layup Shot","2PT Field Goal",2,"Charlotte Hornets",-24,12,7,5.80,"Williams, Mo",3.80,18.00
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,4,3,39,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-8,0,7,8.00,"Henson, John",3.00,14.40
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,4,5,17,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",21,6,3,2.40,"Sacre, Robert",2.10,15.00
+"Kyle Lowry","Toronto Raptors",2015-01-18,2014,3012,1610612761,400578900,1,8,53,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",7,4,0,1.20,"Gordon, Eric",1.70,23.60
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,4,8,05,0,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",-23,11,11,10.40,"Morris, Markieff",2.20,13.30
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,4,3,45,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",13,9,0,1.20,"Millsap, Paul",1.60,13.10
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,2,5,15,1,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-19,0,0,0.00,"Mayo, O.J.",2.90,24.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,2,4,46,0,"Pullup Jump shot","3PT Field Goal",25,"Indiana Pacers",214,143,3,3.80,"Hill, George",3.30,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,3,4,54,0,"Pullup Jump shot","2PT Field Goal",16,"Orlando Magic",6,167,11,7.80,"Payton, Elfrid",2.80,15.30
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,2,5,40,0,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",176,184,0,0.90,"Livingston, Shaun",3.30,13.70
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,3,8,33,1,"Pullup Jump shot","3PT Field Goal",27,"Los Angeles Clippers",13,279,4,5.20,"Paul, Chris",4.40,7.60
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,4,8,24,0,"Pullup Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-16,246,0,1.00,"Morrow, Anthony",4.40,20.00
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,3,3,15,1,"Pullup Jump shot","3PT Field Goal",24,"Los Angeles Clippers",-164,184,16,13.90,"Rivers, Austin",5.00,10.30
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,1,6,12,1,"Pullup Jump shot","2PT Field Goal",10,"Phoenix Suns",91,56,3,2.70,"Len, Alex",4.30,12.80
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,2,2,52,1,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",94,184,3,4.30,"Wall, John",6.80,10.70
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,1,6,00,0,"Pullup Jump shot","2PT Field Goal",23,"Boston Celtics",23,235,7,6.90,"Bradley, Avery",3.50,18.00
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,5,2,25,1,"Pullup Jump shot","2PT Field Goal",20,"Washington Wizards",-67,189,19,17.40,Nene,5.20,7.20
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,2,4,46,0,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",-194,173,2,2.50,"Lawson, Ty",2.70,12.20
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,3,1,05,0,"Pullup Jump shot","3PT Field Goal",26,"Houston Rockets",-161,205,4,4.60,"Brewer, Corey",4.20,8.90
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,2,2,50,1,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",122,224,4,5.60,"Payton, Elfrid",4.90,18.80
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,3,5,27,1,"Pullup Jump shot","3PT Field Goal",24,"Milwaukee Bucks",-105,225,11,9.20,"Wolters, Nate",2.20,9.70
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,1,10,28,1,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",-141,66,5,4.70,"Leonard, Kawhi",6.10,20.00
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,2,3,32,0,"Pullup Jump shot","3PT Field Goal",27,"Memphis Grizzlies",-21,277,4,3.50,"Conley, Mike",11.40,18.40
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,3,3,30,0,"Pullup Jump shot","3PT Field Goal",25,"Orlando Magic",-60,247,6,5.20,"Ridnour, Luke",4.70,17.90
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,1,4,25,0,"Pullup Jump shot","2PT Field Goal",19,"Portland Trail Blazers",-108,159,10,7.60,"Lillard, Damian",3.10,15.20
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,1,6,21,0,"Pullup Jump shot","3PT Field Goal",28,"Los Angeles Clippers",-182,217,1,1.90,"Paul, Chris",3.80,20.80
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,3,7,11,0,"Pullup Jump shot","2PT Field Goal",20,"Denver Nuggets",45,197,0,0.90,"Lawson, Ty",2.00,9.50
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,1,3,37,0,"Pullup Jump shot","2PT Field Goal",22,"Chicago Bulls",-19,224,1,4.50,"Gibson, Taj",6.00,10.90
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,4,1,55,1,"Pullup Jump shot","3PT Field Goal",26,"Utah Jazz",-13,269,13,11.30,"Exum, Dante",4.80,12.00
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,2,1,01,0,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",155,211,0,0.90,"Green, Draymond",10.10,7.70
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,2,3,54,1,"Pullup Jump shot","2PT Field Goal",20,"Golden State Warriors",154,135,1,2.80,"Thompson, Klay",2.70,8.20
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,3,5,00,1,"Pullup Jump shot","2PT Field Goal",20,"Chicago Bulls",97,175,13,12.60,"Rose, Derrick",1.40,12.70
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,1,4,09,1,"Pullup Jump shot","3PT Field Goal",26,"Chicago Bulls",72,250,10,6.40,"Rose, Derrick",1.50,17.30
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,4,27,0,"Pullup Jump shot","3PT Field Goal",26,"Cleveland Cavaliers",-84,250,14,10.40,"Irving, Kyrie",4.00,12.80
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,4,6,19,0,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",-147,107,14,12.10,"Gasol, Marc",4.60,11.60
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,3,5,25,1,"Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",88,170,9,5.90,"Payton, Elfrid",3.50,17.80
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,4,55,1,"Pullup Jump shot","2PT Field Goal",9,"Boston Celtics",-5,91,14,14.10,"Sullinger, Jared",4.90,10.80
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,4,3,29,0,"Pullup Jump shot","2PT Field Goal",21,"Portland Trail Blazers",-150,151,13,12.20,"Batum, Nicolas",5.90,11.00
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,6,55,1,"Pullup Jump shot","3PT Field Goal",25,"Boston Celtics",47,255,20,14.40,"Pressey, Phil",1.50,9.60
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,3,8,53,0,"Pullup Jump shot","2PT Field Goal",16,"Brooklyn Nets",-153,74,10,8.40,"Williams, Deron",3.60,15.40
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,4,3,48,0,"Pullup Jump shot","3PT Field Goal",25,"Boston Celtics",-199,167,4,4.30,"Smart, Marcus",5.00,20.70
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,1,4,21,1,"Pullup Jump shot","2PT Field Goal",20,"Denver Nuggets",121,160,5,4.60,"Chandler, Wilson",6.00,17.70
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,2,0,50,0,"Pullup Jump shot","3PT Field Goal",25,"Sacramento Kings",-212,149,1,2.10,"Gay, Rudy",7.40,20.10
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,1,9,20,0,"Pullup Jump shot","2PT Field Goal",21,"Atlanta Hawks",102,192,8,6.70,"Teague, Jeff",5.50,9.70
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,11,02,0,"Pullup Jump shot","2PT Field Goal",19,"San Antonio Spurs",-150,121,7,5.60,"Green, Danny",2.30,16.80
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,1,3,04,0,"Pullup Jump shot","2PT Field Goal",19,"Atlanta Hawks",-191,39,3,4.00,"Antic, Pero",5.20,14.30
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,2,3,35,1,"Pullup Jump shot","3PT Field Goal",24,"Boston Celtics",6,247,0,1.50,"Smart, Marcus",5.20,22.90
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,3,7,34,1,"Pullup Jump shot","2PT Field Goal",16,"Miami Heat",-160,15,1,3.20,"Dragic, Goran",3.90,7.60
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,2,5,00,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",103,230,7,6.50,"Teague, Jeff",3.20,18.00
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,1,7,57,1,"Pullup Jump shot","3PT Field Goal",25,"Miami Heat",-24,255,5,4.20,"Dragic, Goran",4.90,19.60
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,3,8,24,0,"Pullup Jump shot","2PT Field Goal",19,"Indiana Pacers",-182,69,5,6.20,"West, David",7.90,18.00
+"Kyle Lowry","Toronto Raptors",2015-03-18,2014,3012,1610612761,400579300,1,6,58,0,"Pullup Jump shot","2PT Field Goal",17,"Minnesota Timberwolves",-172,50,4,5.00,"Rubio, Ricky",4.20,17.80
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,1,4,07,1,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",-117,134,12,7.60,"Watson, CJ",2.70,15.80
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,3,0,58,0,"Pullup Jump shot","3PT Field Goal",26,"Memphis Grizzlies",62,257,13,7.70,"Conley, Mike",3.40,15.60
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,0,44,0,"Pullup Jump shot","2PT Field Goal",16,"Memphis Grizzlies",80,146,5,3.80,"Conley, Mike",3.70,20.40
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,1,10,52,0,"Pullup Jump shot","2PT Field Goal",22,"Indiana Pacers",-29,222,6,5.40,"Watson, CJ",5.00,18.30
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,2,11,38,0,"Pullup Jump shot","2PT Field Goal",12,"Miami Heat",-8,129,1,1.30,"Chalmers, Mario",3.00,16.90
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,2,0,03,0,"Pullup Jump shot","3PT Field Goal",26,"Orlando Magic",50,257,21,19.50,"Ridnour, Luke",1.90,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,3,4,53,0,"Pullup Jump shot","3PT Field Goal",25,"Indiana Pacers",95,242,11,8.00,"Watson, CJ",1.80,15.40
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,1,9,14,0,"Pullup Jump shot","3PT Field Goal",27,"Houston Rockets",-87,265,1,1.80,"Beverley, Patrick",4.70,19.00
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,4,4,15,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",-89,118,12,10.60,"Teague, Jeff",5.40,14.00
+"Kyle Lowry","Toronto Raptors",2015-01-14,2014,3012,1610612761,400578870,1,8,39,1,"Pullup Jump shot","3PT Field Goal",27,"Philadelphia 76ers",-106,252,14,12.70,"Carter-Williams, Michael",4.30,7.20
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,2,3,18,0,"Pullup Jump shot","3PT Field Goal",26,"Cleveland Cavaliers",-152,220,3,4.30,"Thompson, Tristan",7.70,20.20
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,5,26,0,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",140,143,10,8.90,"Lee, Courtney",2.70,15.50
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,4,1,44,0,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",111,225,0,0.80,"Barea, Jose Juan",2.40,18.50
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,3,5,29,0,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",88,165,1,2.50,"Bledsoe, Eric",2.20,12.30
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,2,7,51,0,"Pullup Jump shot","3PT Field Goal",25,"Memphis Grizzlies",138,214,1,1.80,"Lee, Courtney",4.00,20.20
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,4,5,46,1,"Pullup Jump shot","3PT Field Goal",26,"Cleveland Cavaliers",-45,258,5,5.10,"Waiters, Dion",4.40,18.50
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,1,7,36,1,"Pullup Jump shot","2PT Field Goal",17,"Cleveland Cavaliers",-179,1,2,2.30,"Varejao, Anderson",4.90,11.40
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,3,2,06,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-193,42,2,2.30,"Smith, Josh",4.60,14.20
+"Kyle Lowry","Toronto Raptors",2015-01-23,2014,3012,1610612761,400578933,3,10,41,1,"Pullup Jump shot","2PT Field Goal",17,"Philadelphia 76ers",-119,132,4,4.70,"Carter-Williams, Michael",5.30,15.50
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,1,3,49,0,"Pullup Jump shot","2PT Field Goal",18,"Milwaukee Bucks",-16,186,4,4.20,"Dudley, Jared",3.40,19.50
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,4,4,41,0,"Pullup Jump shot","3PT Field Goal",25,"Denver Nuggets",-30,252,8,6.40,"Lawson, Ty",4.70,17.20
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,3,2,20,1,"Pullup Jump shot","3PT Field Goal",27,"Golden State Warriors",110,252,0,0.80,"Curry, Stephen",4.00,20.30
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,2,3,57,1,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",61,252,5,4.80,"Walker, Kemba",4.30,20.80
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,1,2,41,1,"Pullup Jump shot","3PT Field Goal",26,"Golden State Warriors",-26,260,3,3.30,"Thompson, Klay",10.40,19.60
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,2,2,54,0,"Pullup Jump shot","3PT Field Goal",27,"Washington Wizards",-147,233,0,1.20,"Wall, John",6.10,6.70
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,1,9,06,1,"Pullup Jump shot","2PT Field Goal",14,"Golden State Warriors",-142,17,0,1.00,"Thompson, Klay",7.20,4.90
+"Kyle Lowry","Toronto Raptors",2015-02-02,2014,3012,1610612761,400579013,1,9,21,0,"Pullup Jump shot","2PT Field Goal",15,"Milwaukee Bucks",-158,11,2,4.40,"Henson, John",4.70,9.80
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,2,3,22,1,"Pullup Jump shot","2PT Field Goal",14,"New Orleans Pelicans",-101,105,19,15.90,"Evans, Tyreke",3.30,8.20
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,3,11,42,1,"Pullup Jump shot","2PT Field Goal",9,"Atlanta Hawks",-38,82,5,3.10,"Teague, Jeff",4.60,8.70
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,4,1,16,1,"Pullup Jump shot","2PT Field Goal",10,"New Orleans Pelicans",26,99,6,5.20,"Cole, Norris",2.00,18.00
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,1,6,39,0,"Pullup Jump shot","2PT Field Goal",4,"Cleveland Cavaliers",-5,41,2,2.10,"Varejao, Anderson",3.30,10.00
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,1,8,07,1,"Pullup Jump shot","2PT Field Goal",21,"Atlanta Hawks",32,209,5,4.80,"Millsap, Paul",8.60,18.30
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,1,2,01,1,"Pullup Jump shot","2PT Field Goal",21,"Washington Wizards",-81,194,4,5.40,"Beal, Bradley",2.90,6.40
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,3,10,15,1,"Pullup Jump shot","3PT Field Goal",25,"Los Angeles Clippers",-144,213,3,3.70,"Redick, JJ",2.90,20.40
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,1,10,51,1,"Pullup Jump shot","2PT Field Goal",21,"New Orleans Pelicans",69,200,9,8.50,"Gordon, Eric",6.20,13.10
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,2,0,53,1,"Pullup Jump shot","2PT Field Goal",9,"Atlanta Hawks",51,80,4,4.00,"Korver, Kyle",0.40,11.70
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,1,6,41,0,"Pullup Jump shot","3PT Field Goal",29,"Dallas Mavericks",-81,285,4,4.50,"Harris, Devin",4.80,19.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,1,5,16,0,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-79,151,1,1.30,"Lillard, Damian",2.70,16.80
+"Kyle Lowry","Toronto Raptors",2014-11-04,2014,3012,1610612761,400578344,2,3,05,1,"Pullup Jump shot","2PT Field Goal",15,"Oklahoma City Thunder",-158,9,1,2.60,"Jones, Perry",8.20,15.00
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,2,11,13,1,"Pullup Jump shot","3PT Field Goal",25,"Charlotte Hornets",81,246,2,2.10,"Roberts, Brian",5.60,16.60
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,2,4,53,0,"Pullup Jump shot","2PT Field Goal",17,"Chicago Bulls",2,170,3,2.70,"Hinrich, Kirk",8.30,11.60
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,4,2,47,0,"Pullup Jump shot","2PT Field Goal",11,"Los Angeles Lakers",1,110,9,9.60,"Hill, Jordan",4.40,13.50
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,2,0,00,0,"Pullup Jump shot","3PT Field Goal",29,"Philadelphia 76ers",-212,198,0,0.00,"Wroten, Tony",3.20,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,4,3,39,0,"Pullup Jump shot","2PT Field Goal",6,"Charlotte Hornets",-5,60,2,2.10,"Biyombo, Bismack",3.70,13.40
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,3,2,40,0,"Pullup Jump shot","2PT Field Goal",20,"Memphis Grizzlies",138,153,2,1.70,"Udrih, Beno",4.80,14.50
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,1,4,49,0,"Pullup Jump shot","3PT Field Goal",24,"Atlanta Hawks",-67,236,4,4.40,"Carroll, DeMarre",10.60,18.70
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,11,40,0,"Pullup Jump shot","3PT Field Goal",24,"Philadelphia 76ers",-153,190,2,2.90,"Wroten, Tony",4.30,6.20
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,1,1,52,0,"Pullup Jump shot","3PT Field Goal",25,"Atlanta Hawks",-149,201,2,2.10,"Mack, Shelvin",4.30,13.40
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,1,6,23,1,"Pullup Jump shot","2PT Field Goal",16,"Boston Celtics",-62,148,11,10.20,"Smart, Marcus",2.80,14.40
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,1,11,01,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Lakers",0,208,1,1.30,"Johnson, Wesley",9.80,8.90
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,1,5,18,0,"Pullup Jump shot","3PT Field Goal",26,"Atlanta Hawks",-180,192,5,4.40,"Teague, Jeff",4.30,20.40
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,3,9,59,1,"Pullup Jump shot","2PT Field Goal",19,"New York Knicks",-125,149,18,16.00,"Acy, Quincy",2.70,8.20
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,3,0,08,0,"Pullup Jump shot","3PT Field Goal",26,"Houston Rockets",-172,205,18,15.80,"Smith, Josh",4.60,7.00
+"Kyle Lowry","Toronto Raptors",2014-12-08,2014,3012,1610612761,400578596,3,4,40,0,"Pullup Jump shot","2PT Field Goal",18,"Denver Nuggets",-116,149,14,11.60,"Lawson, Ty",1.60,13.90
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,01,0,"Pullup Jump shot","3PT Field Goal",28,"Dallas Mavericks",7,283,4,3.80,"Barea, Jose Juan",3.80,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,3,6,50,1,"Pullup Jump shot","3PT Field Goal",25,"Dallas Mavericks",-46,252,4,3.50,"Ellis, Monta",8.10,21.00
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,1,6,41,1,"Pullup Jump shot","3PT Field Goal",24,"New York Knicks",75,228,6,5.10,"Calderon, Jose",3.70,19.70
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,1,3,38,1,"Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",18,192,7,6.80,"Oladipo, Victor",3.80,17.60
+"Kyle Lowry","Toronto Raptors",2015-01-12,2014,3012,1610612761,400578857,4,2,04,0,"Pullup Jump shot","2PT Field Goal",11,"Detroit Pistons",39,113,0,0.60,"Jennings, Brandon",3.40,9.30
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,4,5,23,0,"Pullup Jump shot","3PT Field Goal",25,"Phoenix Suns",-196,159,3,3.50,"Morris, Marcus",5.10,20.20
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,2,7,31,1,"Putback Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-2,3,0,0.30,"Carter, Vince",3.70,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-22,2014,3012,1610612761,400578702,2,0,00,1,"Putback Layup Shot","2PT Field Goal",2,"Chicago Bulls",13,20,0,0.50,"Noah, Joakim",3.50,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,0,02,1,"Putback Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",17,-5,0,1.10,"Batum, Nicolas",1.30,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-09,2014,3012,1610612761,400578385,3,7,04,1,"Putback Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",6,7,0,0.20,"Davies, Brandon",2.30,24.00
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,8,25,0,"Putback Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-8,6,0,0.30,"Korver, Kyle",0.30,20.10
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,2,9,43,1,"Putback Layup Shot","2PT Field Goal",2,"Indiana Pacers",6,25,0,0.70,"Hill, Solomon",3.20,24.00
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,1,3,14,0,"Reverse Layup Shot","2PT Field Goal",2,"Boston Celtics",-24,6,0,1.60,"Olynyk, Kelly",4.00,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-12,2014,3012,1610612761,400578625,3,5,13,1,"Reverse Layup Shot","2PT Field Goal",1,"Indiana Pacers",6,9,0,1.80,"Allen, Lavoy",2.50,10.70
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,2,5,40,1,"Running Bank shot","2PT Field Goal",5,"Phoenix Suns",53,17,10,8.60,"Len, Alex",2.10,16.30
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,1,10,09,0,"Running Bank shot","2PT Field Goal",13,"Golden State Warriors",132,36,1,2.20,"Barnes, Harrison",3.30,18.30
+"Kyle Lowry","Toronto Raptors",2014-12-28,2014,3012,1610612761,400578749,2,9,09,1,"Running Bank shot","2PT Field Goal",5,"Denver Nuggets",-41,41,10,8.20,"Lawson, Ty",1.90,15.30
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,0,53,0,"Running Hook Shot","3PT Field Goal",25,"Chicago Bulls",138,211,2,1.80,"Hinrich, Kirk",4.20,20.80
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,3,1,32,0,"Running Jump Shot","2PT Field Goal",8,"Portland Trail Blazers",-5,88,5,4.70,"Blake, Steve",2.80,14.10
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,2,7,02,1,"Running Jump Shot","2PT Field Goal",5,"New York Knicks",23,50,1,1.90,"Anthony, Carmelo",4.10,11.00
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,4,11,42,0,"Running Jump Shot","2PT Field Goal",6,"Utah Jazz",-7,61,18,15.20,"Exum, Dante",2.50,8.80
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,3,0,00,0,"Running Jump Shot","3PT Field Goal",55,"Atlanta Hawks",196,518,0,0.30,"Schroder, Dennis",2.60,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,1,7,56,0,"Running Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-7,30,7,6.60,"Hill, Jordan",1.60,19.10
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,5,45,0,"Running Jump Shot","2PT Field Goal",8,"Charlotte Hornets",12,80,1,1.40,"Williams, Marvin",3.30,10.30
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,2,35,0,"Running Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",7,48,1,1.50,"Matthews, Wesley",0.40,13.80
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,2,1,32,1,"Running Jump Shot","2PT Field Goal",3,"Utah Jazz",-5,33,16,12.40,"Burke, Trey",2.90,8.50
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,2,00,0,"Running Jump Shot","2PT Field Goal",7,"Cleveland Cavaliers",61,36,20,19.40,"Dellavedova, Matthew",0.00,3.20
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,3,10,13,1,"Running Jump Shot","2PT Field Goal",7,"Utah Jazz",43,60,8,7.10,"Hood, Rodney",2.40,17.30
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,3,10,15,0,"Running Jump Shot","2PT Field Goal",6,"Indiana Pacers",7,66,2,1.60,"Hibbert, Roy",1.80,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,2,0,49,1,"Running Jump Shot","2PT Field Goal",3,"Indiana Pacers",0,30,0,0.70,"Hill, George",1.60,0.00
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,1,8,37,0,"Running Jump Shot","2PT Field Goal",10,"Dallas Mavericks",56,83,9,7.10,"Rondo, Rajon",2.30,16.20
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,1,8,21,0,"Running Jump Shot","2PT Field Goal",10,"Boston Celtics",89,52,8,6.50,"Zeller, Tyler",4.00,9.40
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,2,0,00,0,"Running Jump Shot","3PT Field Goal",27,"Houston Rockets",10,272,3,3.40,"Beverley, Patrick",4.40,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,2,6,04,0,"Running Jump Shot","2PT Field Goal",4,"Orlando Magic",29,37,1,2.20,"Vucevic, Nikola",1.40,12.80
+"Kyle Lowry","Toronto Raptors",2014-12-02,2014,3012,1610612761,400578553,3,6,13,1,"Running Jump Shot","2PT Field Goal",9,"Sacramento Kings",7,96,3,3.60,"Collison, Darren",1.20,12.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,4,8,22,0,"Running Jump Shot","2PT Field Goal",12,"Brooklyn Nets",61,105,19,14.40,"Jack, Jarrett",1.90,6.20
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,1,34,0,"Running Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",50,39,2,2.40,"Gasol, Marc",2.50,12.50
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,2,7,01,1,"Running Layup Shot","2PT Field Goal",0,"Washington Wizards",-7,0,2,1.80,"Butler, Rasual",3.00,18.20
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,4,6,25,1,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-21,-5,0,0.90,"Paul, Chris",4.20,16.00
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,2,0,04,1,"Running Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,11,0,1.00,"Morris, Markieff",4.10,3.40
+"Kyle Lowry","Toronto Raptors",2015-02-06,2014,3012,1610612761,400579044,3,9,16,1,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-23,15,0,1.40,"Jordan, DeAndre",0.00,1.70
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,4,5,24,0,"Running Layup Shot","2PT Field Goal",2,"Charlotte Hornets",24,17,0,0.60,"Maxiell, Jason",2.60,13.60
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,4,1,34,0,"Running Layup Shot","2PT Field Goal",2,"Atlanta Hawks",23,9,1,1.40,"Scott, Mike",2.50,2.50
+"Kyle Lowry","Toronto Raptors",2015-01-16,2014,3012,1610612761,400578884,4,11,42,1,"Running Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-16,3,0,0.80,"Schroder, Dennis",3.30,10.30
+"Kyle Lowry","Toronto Raptors",2015-03-10,2014,3012,1610612761,400579241,4,1,22,0,"Running Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",13,7,9,6.90,"Duncan, Tim",3.70,16.70
+"Kyle Lowry","Toronto Raptors",2015-04-15,2014,3012,1610612761,400579520,3,3,03,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Charlotte Hornets",18,7,0,0.80,"Walker, Kemba",1.50,7.10
+"Kyle Lowry","Toronto Raptors",2015-03-08,2014,3012,1610612761,400579228,3,3,38,1,"Step Back Jump shot","2PT Field Goal",17,"Oklahoma City Thunder",-160,63,5,9.60,"Ibaka, Serge",4.10,9.70
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,3,5,11,0,"Step Back Jump shot","3PT Field Goal",24,"San Antonio Spurs",21,242,0,2.60,"Leonard, Kawhi",2.80,7.50
+"Kyle Lowry","Toronto Raptors",2015-01-19,2014,3012,1610612761,400578911,1,9,42,0,"Step Back Jump shot","2PT Field Goal",16,"Milwaukee Bucks",-108,126,4,6.10,"Middleton, Khris",4.10,13.70
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,4,0,05,0,"Step Back Jump shot","2PT Field Goal",21,"San Antonio Spurs",-142,157,22,23.80,"Ginobili, Manu",4.90,1.50
+"Kyle Lowry","Toronto Raptors",2015-01-21,2014,0,1610612761,0,4,0,24,0,"Step Back Jump shot","3PT Field Goal",23,"Memphis Grizzlies",-239,7,1,2.30,"Gasol, Marc",4.10,15.60
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,1,2,13,0,"Step Back Jump shot","2PT Field Goal",19,"Utah Jazz",-114,153,14,13.40,"Burke, Trey",3.90,11.20
+"Kyle Lowry","Toronto Raptors",2015-02-11,2014,3012,1610612761,400579083,4,2,22,0,"Step Back Jump shot","2PT Field Goal",18,"Washington Wizards",-187,3,2,2.50,"Wall, John",2.90,2.90
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,4,2,33,0,"Step Back Jump shot","2PT Field Goal",16,"Orlando Magic",-21,159,8,12.20,"Harris, Tobias",2.60,3.20
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,4,4,17,0,"Step Back Jump shot","3PT Field Goal",24,"New York Knicks",-141,203,15,14.60,"Calderon, Jose",5.40,9.80
+"Kyle Lowry","Toronto Raptors",2014-11-01,2014,3012,1610612761,400578321,3,2,59,1,"Step Back Jump shot","2PT Field Goal",19,"Orlando Magic",-172,99,1,1.80,"Harkless, Maurice",5.00,12.60
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,3,11,19,1,"Step Back Jump shot","2PT Field Goal",18,"Orlando Magic",-185,3,4,4.50,"Payton, Elfrid",3.50,4.60
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,1,5,47,0,"Step Back Jump shot","3PT Field Goal",24,"Golden State Warriors",-234,61,1,2.00,"Curry, Stephen",7.10,5.40
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,3,2,36,1,"Step Back Jump shot","2PT Field Goal",17,"Boston Celtics",171,31,9,8.80,"Thornton, Marcus",8.00,16.20
+"Kyle Lowry","Toronto Raptors",2014-11-07,2014,3012,1610612761,400578369,3,9,38,0,"Step Back Jump shot","3PT Field Goal",25,"Washington Wizards",106,228,10,10.00,"Pierce, Paul",5.70,14.60
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,2,6,31,1,"Step Back Jump shot","3PT Field Goal",25,"Miami Heat",-218,127,2,1.60,"Johnson, Tyler",4.20,10.90
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,2,0,46,0,"Step Back Jump shot","2PT Field Goal",18,"Cleveland Cavaliers",-141,121,18,17.40,"Irving, Kyrie",3.40,6.20
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,0,49,1,"Step Back Jump shot","3PT Field Goal",26,"Dallas Mavericks",-160,211,6,2.80,"Chandler, Tyson",7.30,21.10
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,1,49,0,"Step Back Jump shot","2PT Field Goal",18,"Charlotte Hornets",110,151,3,3.90,"Walker, Kemba",3.20,8.10
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,4,3,12,0,"Step Back Jump shot","3PT Field Goal",23,"Dallas Mavericks",-232,47,0,1.20,"Harris, Devin",9.70,14.80
+"Kyle Lowry","Toronto Raptors",2014-11-05,2014,3012,1610612761,400578351,2,0,00,1,"Step Back Jump shot","2PT Field Goal",16,"Boston Celtics",-161,11,5,4.30,"Rondo, Rajon",7.60,0.00
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,1,0,33,1,"Step Back Jump shot","3PT Field Goal",25,"Brooklyn Nets",-228,124,8,7.60,"Jack, Jarrett",4.50,16.90
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,1,4,24,1,"Step Back Jump shot","2PT Field Goal",19,"Cleveland Cavaliers",190,22,14,10.40,"Waiters, Dion",3.70,13.90
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,3,9,16,1,"Step Back Jump shot","2PT Field Goal",21,"Utah Jazz",0,219,3,2.20,"Burks, Alec",3.80,11.70
+"Kyle Lowry","Toronto Raptors",2014-11-19,2014,3012,1610612761,400578458,2,0,00,0,"Step Back Jump shot","2PT Field Goal",21,"Memphis Grizzlies",-46,209,25,21.50,"Pondexter, Quincy",2.90,0.00
+"Kyle Lowry","Toronto Raptors",2014-11-21,2014,3012,1610612761,400578467,2,0,36,1,"Step Back Jump shot","2PT Field Goal",22,"Milwaukee Bucks",-123,183,19,15.30,"Wolters, Nate",5.20,9.00
+"Kyle Lowry","Toronto Raptors",2015-02-23,2014,3012,1610612761,400579125,2,5,06,1,"Tip Shot","2PT Field Goal",1,"New Orleans Pelicans",-8,7,0,0.10,"Asik, Omer",2.40,24.00
+"Kyle Lowry","Toronto Raptors",2014-11-30,2014,3012,1610612761,400578540,4,2,03,0,"Tip Shot","2PT Field Goal",0,"Los Angeles Lakers",4,6,0,0.10,"Boozer, Carlos",2.30,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,2,34,1,"Tip Shot","2PT Field Goal",0,"Portland Trail Blazers",9,1,0,0.10,"Aldridge, LaMarcus",1.90,24.00
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,7,59,0,"Tip Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,3,0,-1.80,"Dellavedova, Matthew",0.60,11.80
+"Kyle Lowry","Toronto Raptors",2015-01-02,2014,3012,1610612761,400578785,2,2,26,1,"Tip Shot","2PT Field Goal",1,"Golden State Warriors",10,0,0,0.00,"Curry, Stephen",3.10,24.00
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,4,1,39,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Indiana Pacers",-125,110,22,22.50,"Stuckey, Rodney",2.40,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,3,1,41,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Brooklyn Nets",13,132,18,19.80,"Plumlee, Mason",2.70,4.60
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,3,11,00,0,"Turnaround Fadeaway shot","2PT Field Goal",21,"Sacramento Kings",-24,211,3,4.00,"Collison, Darren",3.50,0.10
+"Kyle Lowry","Toronto Raptors",2015-02-08,2014,3012,1610612761,400579064,1,11,08,1,"Turnaround Fadeaway shot","2PT Field Goal",16,"San Antonio Spurs",-149,80,10,7.80,"Parker, Tony",3.70,16.50
+"Kyle Lowry","Toronto Raptors",2015-02-04,2014,3012,1610612761,400579026,1,10,58,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Brooklyn Nets",-40,178,8,7.40,"Jack, Jarrett",4.40,16.80
+"Kyle Lowry","Toronto Raptors",2015-01-25,2014,3012,1610612761,400578956,1,3,03,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Detroit Pistons",-130,11,2,4.00,"Augustin, D.J.",3.80,10.90
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,2,4,39,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Los Angeles Clippers",106,74,1,6.70,"Paul, Chris",3.60,0.50
+"Kyle Lowry","Toronto Raptors",2014-12-21,2014,3012,1610612761,400578692,2,8,16,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"New York Knicks",-84,119,3,6.00,"Calderon, Jose",3.40,4.30
+"Kyle Lowry","Toronto Raptors",2015-02-21,2014,3012,1610612761,400579111,1,7,17,0,"Turnaround Fadeaway shot","3PT Field Goal",23,"Houston Rockets",-231,20,2,3.90,"Dorsey, Joey",5.20,0.70
+"Kyle Lowry","Toronto Raptors",2015-02-24,2014,3012,1610612761,400579133,2,4,44,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Dallas Mavericks",-125,132,7,6.30,"Rondo, Rajon",4.40,11.30
+"Kyle Lowry","Toronto Raptors",2015-01-27,2014,3012,1610612761,400578967,1,4,43,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Indiana Pacers",-114,56,5,4.90,"Stuckey, Rodney",2.70,0.00
+"Kyle Lowry","Toronto Raptors",2015-01-31,2014,3012,1610612761,400578999,4,7,58,1,"Turnaround Fadeaway shot","2PT Field Goal",17,"Washington Wizards",-60,164,12,8.60,"Beal, Bradley",3.90,14.70
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,4,2,29,0,"Turnaround Fadeaway shot","2PT Field Goal",19,"Atlanta Hawks",-171,89,10,11.90,"Teague, Jeff",1.90,5.70
+"Kyle Lowry","Toronto Raptors",2014-10-29,2014,3012,1610612761,400578300,1,7,39,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Atlanta Hawks",-163,39,4,4.50,"Teague, Jeff",5.20,10.50
+"Kyle Lowry","Toronto Raptors",2014-12-27,2014,3012,1610612761,400578735,1,1,56,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Los Angeles Clippers",-4,149,8,7.30,"Farmar, Jordan",4.30,10.40
+"Kyle Lowry","Toronto Raptors",2014-12-15,2014,3012,1610612761,400578651,1,7,24,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Orlando Magic",-142,82,7,7.90,"Oladipo, Victor",3.20,14.60
+"Kyle Lowry","Toronto Raptors",2015-02-27,2014,3012,1610612761,400579153,1,10,58,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Golden State Warriors",-150,42,3,6.00,"Curry, Stephen",3.00,6.60
+"Kyle Lowry","Toronto Raptors",2015-03-06,2014,3012,1610612761,400579203,2,5,41,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Charlotte Hornets",-97,53,3,3.40,"Roberts, Brian",3.00,11.80
+"Kyle Lowry","Toronto Raptors",2014-11-28,2014,3012,1610612761,400578519,1,5,49,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",-38,127,11,8.60,"Nowitzki, Dirk",5.00,7.10
+"Kyle Lowry","Toronto Raptors",2014-12-14,2014,3012,1610612761,400578645,2,8,39,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"New York Knicks",-136,14,10,9.70,"Prigioni, Pablo",2.70,10.90
+"Kyle Lowry","Toronto Raptors",2014-11-13,2014,3012,1610612761,400578411,4,1,20,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Chicago Bulls",-4,107,16,10.10,"Noah, Joakim",5.70,13.30
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,4,6,09,1,"Turnaround Fadeaway shot","2PT Field Goal",15,"Cleveland Cavaliers",-114,99,11,8.50,"Love, Kevin",4.40,3.30
+"Kyle Lowry","Toronto Raptors",2014-12-17,2014,3012,1610612761,400578666,3,4,06,0,"Turnaround Fadeaway shot","2PT Field Goal",18,"Brooklyn Nets",187,9,5,4.60,"Anderson, Alan",3.40,3.40
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,2,1,12,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Utah Jazz",-128,14,13,10.70,"Burke, Trey",3.10,13.70
+"Kyle Lowry","Toronto Raptors",2015-01-10,2014,3012,1610612761,400578845,2,4,18,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Boston Celtics",-109,60,4,6.60,"Bradley, Avery",2.80,6.70
+"Kyle Lowry","Toronto Raptors",2014-11-15,2014,3012,1610612761,400578426,3,11,43,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Utah Jazz",-149,17,3,6.00,"Burke, Trey",2.00,9.20
+"Kyle Lowry","Toronto Raptors",2014-12-05,2014,3012,1610612761,400578573,1,7,07,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Cleveland Cavaliers",-2,89,5,4.10,"Love, Kevin",3.60,9.50
+"Kyle Lowry","Toronto Raptors",2015-03-16,2014,3012,1610612761,400579282,1,10,41,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Indiana Pacers",-141,3,0,0.50,"Hill, George",5.10,15.60
+"Kyle Lowry","Toronto Raptors",2014-12-03,2014,3012,1610612761,400578563,1,6,05,1,"Turnaround Fadeaway shot","2PT Field Goal",18,"Utah Jazz",-65,178,3,2.40,"Burke, Trey",2.80,9.00
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,1,9,05,0,"Turnaround Fadeaway shot","2PT Field Goal",18,"Orlando Magic",-142,121,8,5.80,"Payton, Elfrid",2.60,18.20
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,3,4,24,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"Portland Trail Blazers",-5,142,13,11.40,"Lillard, Damian",3.90,10.70
+"Kyle Lowry","Toronto Raptors",2014-12-30,2014,3012,1610612761,400578765,2,1,53,1,"Turnaround Fadeaway shot","2PT Field Goal",7,"Portland Trail Blazers",64,34,3,6.20,"Batum, Nicolas",4.50,4.40
+"Kyle Lowry","Toronto Raptors",2015-01-08,2014,3012,1610612761,400578827,1,7,55,1,"Turnaround Hook Shot","2PT Field Goal",4,"Charlotte Hornets",47,14,6,6.40,"Walker, Kemba",1.50,2.50
+"Kyle Lowry","Toronto Raptors",2015-03-13,2014,3012,1610612761,400579262,3,9,42,1,"Turnaround Jump Shot","2PT Field Goal",9,"Miami Heat",-56,72,9,6.70,"Dragic, Goran",3.60,10.20
+"Kyle Lowry","Toronto Raptors",2014-11-24,2014,3012,1610612761,400578493,4,0,52,0,"Turnaround Jump Shot","2PT Field Goal",2,"Phoenix Suns",-16,12,9,10.70,"Bledsoe, Eric",1.60,12.40
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,4,6,37,0,"Turnaround Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-57,93,2,2.80,"Jack, Jarrett",3.90,3.60
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,1,1,10,0,"Turnaround Jump Shot","2PT Field Goal",6,"Atlanta Hawks",-1,67,3,4.20,"Schroder, Dennis",2.20,11.10
+"Kyle Lowry","Toronto Raptors",2014-11-26,2014,3012,1610612761,400578507,3,3,20,1,"Turnaround Jump Shot","2PT Field Goal",4,"Atlanta Hawks",0,47,4,5.90,"Schroder, Dennis",2.60,5.70
+"Kyle Lowry","Toronto Raptors",2014-11-11,2014,3012,1610612761,400578395,4,4,43,1,"Turnaround Jump Shot","2PT Field Goal",6,"Orlando Magic",-4,67,19,17.30,"Ridnour, Luke",3.90,7.20
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,2,2,00,0,"Turnaround Jump Shot","2PT Field Goal",17,"Phoenix Suns",-160,72,5,5.60,"Bledsoe, Eric",3.20,7.20
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,1,11,33,0,"Turnaround Jump Shot","2PT Field Goal",15,"Phoenix Suns",78,138,3,4.30,"Bledsoe, Eric",3.00,4.70
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,2,3,47,0,"Turnaround Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-108,118,4,3.20,"Carroll, DeMarre",5.50,12.00
+"Kyle Lowry","Toronto Raptors",2015-01-30,2014,3012,1610612761,400578991,1,5,23,0,"Turnaround Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-87,124,3,6.50,"Jack, Jarrett",4.40,7.60
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,2,5,12,0,"Turnaround Jump Shot","2PT Field Goal",13,"Portland Trail Blazers",113,82,7,8.20,"Blake, Steve",2.50,14.70
+"Kyle Lowry","Toronto Raptors",2015-03-15,2014,3012,1610612761,400579279,1,8,38,1,"Turnaround Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",-7,108,6,4.80,"Lillard, Damian",3.40,18.60
+"Kyle Lowry","Toronto Raptors",2015-01-28,2014,3012,1610612761,400578976,2,2,29,0,"Turnaround Jump Shot","2PT Field Goal",6,"Sacramento Kings",-27,58,4,5.00,"Collison, Darren",1.70,12.00
+"Kyle Lowry","Toronto Raptors",2015-02-20,2014,3012,1610612761,400579097,2,1,54,0,"Turnaround Jump Shot","2PT Field Goal",7,"Atlanta Hawks",-15,74,4,6.80,"Teague, Jeff",1.10,2.50
+"Kyle Lowry","Toronto Raptors",2015-01-04,2014,3012,1610612761,400578799,2,4,58,0,"Turnaround Jump Shot","2PT Field Goal",19,"Phoenix Suns",-101,167,5,5.50,"Bledsoe, Eric",3.00,18.60
+"Kyle Lowry","Toronto Raptors",2015-04-14,2014,3012,1610612761,400579506,2,0,05,0,"Turnaround Jump Shot","2PT Field Goal",19,"Boston Celtics",-38,187,16,17.50,"Thomas, Isaiah",3.20,3.50
+"Kyle Lowry","Toronto Raptors",2014-12-09,2014,3012,1610612761,400578600,3,4,14,1,"Turnaround Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",7,42,5,13.00,"Waiters, Dion",0.50,4.30

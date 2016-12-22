@@ -1,0 +1,1023 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,3,5,54,1,"Alley Oop Layup shot","2PT Field Goal",2,"Philadelphia 76ers",-18,12,0,1.40,"Young, Thaddeus",5.40,7.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,6,09,1,"Alley Oop Layup shot","2PT Field Goal",0,"New Orleans Pelicans",7,3,0,0.00,"Rivers, Austin",6.50,20.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,4,5,40,1,"Driving Bank shot","2PT Field Goal",4,"Toronto Raptors",37,30,4,3.80,"Patterson, Patrick",3.80,0.20
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,3,8,07,1,"Driving Bank shot","2PT Field Goal",8,"Oklahoma City Thunder",73,39,4,3.70,"Sefolosha, Thabo",2.80,6.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,0,31,1,"Driving Dunk Shot","2PT Field Goal",1,"Denver Nuggets",10,14,0,0.00,"Foye, Randy",8.70,21.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,3,6,58,1,"Driving Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,-2,0,0.80,"Teletovic, Mirza",7.30,21.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,3,2,47,1,"Driving Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.70,"Udoh, Ekpe",2.80,15.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,5,59,1,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",-2,3,0,3.00,"Battier, Shane",20.70,23.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,4,3,26,1,"Driving Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",-11,11,1,1.50,"Redick, JJ",3.40,15.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,0,43,1,"Driving Dunk Shot","2PT Field Goal",2,"Los Angeles Clippers",7,25,0,0.80,"Paul, Chris",1.60,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,2,1,03,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Utah Jazz",0,-2,3,3.10,"Burke, Trey",1.30,20.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,2,4,27,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",0,-2,2,2.20,"Gasol, Marc",2.90,9.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,11,24,1,"Driving Finger Roll Layup Shot","2PT Field Goal",4,"Golden State Warriors",7,48,3,2.40,"Iguodala, Andre",3.20,2.40
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,3,9,44,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",1,22,0,0.50,"Jackson, Reggie",5.20,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,10,33,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",24,6,0,1.80,"Kaman, Chris",1.10,14.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,4,11,35,1,"Driving Finger Roll Layup Shot","2PT Field Goal",3,"Brooklyn Nets",31,7,0,1.10,"Anderson, Alan",11.50,21.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,1,4,44,1,"Driving Finger Roll Layup Shot","2PT Field Goal",2,"Denver Nuggets",21,11,8,8.20,"Hickson, JJ",4.20,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,6,11,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Atlanta Hawks",4,-3,1,2.40,"Carroll, DeMarre",3.60,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,0,25,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Denver Nuggets",-7,7,0,2.30,"Faried, Kenneth",5.20,21.80
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,4,7,13,1,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,0,1,3.60,"Allen, Tony",2.40,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,3,3,56,1,"Driving Jump shot","2PT Field Goal",4,"Atlanta Hawks",1,44,2,2.70,"Brand, Elton",2.00,8.60
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,6,12,0,"Driving Jump shot","2PT Field Goal",5,"Los Angeles Lakers",36,39,2,3.30,"Johnson, Wesley",2.20,9.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,2,2,40,1,"Driving Jump shot","2PT Field Goal",4,"Toronto Raptors",-29,34,3,4.70,"Lowry, Kyle",0.60,2.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,5,53,0,"Driving Jump shot","2PT Field Goal",3,"Toronto Raptors",-30,19,5,4.70,"Ross, Terrence",0.40,17.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,3,4,23,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-13,-8,3,4.70,"Sessions, Ramon",1.60,20.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,1,11,22,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",13,1,0,3.50,"Henderson, Gerald",1.10,22.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,2,3,42,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,15,0,0.40,"Lamb, Jeremy",1.50,14.60
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,1,7,24,0,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",10,-17,1,1.60,"Harkless, Maurice",2.80,22.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,3,1,05,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,1,2,3.40,"Jefferson, Al",3.10,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,3,55,1,"Driving Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,3,1,1.40,"Thompson, Jason",1.80,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,3,34,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",6,14,2,2.70,"Thompson, Jason",4.30,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,2,2,24,0,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",6,-2,0,0.90,"Bazemore, Kent",2.50,21.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,9,30,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-7,11,0,1.10,"Ellis, Monta",5.10,21.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,2,3,08,1,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",13,0,3,2.50,"Gortat, Marcin",1.20,19.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,4,25,1,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",6,19,0,0.60,"Curry, Stephen",0.90,19.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,1,11,06,0,"Driving Layup Shot","2PT Field Goal",0,"Washington Wizards",1,1,8,6.30,"Booker, Trevor",0.60,8.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,8,22,1,"Driving Layup Shot","2PT Field Goal",1,"Sacramento Kings",-4,12,2,2.80,"Thomas, Isaiah",3.60,22.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,5,56,1,"Driving Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",7,3,5,5.40,"Lopez, Robin",1.70,19.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,4,9,37,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",13,6,1,1.60,"Matthews, Wesley",3.20,12.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,3,44,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",1,14,2,1.80,"Redick, JJ",1.60,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,2,4,32,0,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-10,6,5,5.20,"Nowitzki, Dirk",0.40,12.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,9,27,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",-11,9,2,6.70,"Carroll, DeMarre",2.20,7.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,6,25,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-15,14,0,1.10,"Teague, Jeff",1.20,21.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,6,51,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",18,12,2,4.50,"Mack, Shelvin",2.00,22.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,1,6,57,0,"Driving Layup Shot","2PT Field Goal",1,"Utah Jazz",13,14,1,1.60,"Burke, Trey",2.30,20.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,2,10,52,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",-15,9,2,3.90,"Wade, Dwyane",2.50,21.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,9,41,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",10,6,0,0.80,"Kelly, Ryan",3.70,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,2,2,50,0,"Driving Layup Shot","2PT Field Goal",2,"Utah Jazz",-13,19,6,7.50,"Favors, Derrick",1.30,8.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,1,4,54,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",10,-2,3,3.60,"Felton, Raymond",2.00,20.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,10,54,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",-16,11,1,1.70,"Smith, Josh",5.80,16.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,1,7,38,0,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",6,20,2,6.70,"Dudley, Jared",0.20,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,9,22,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",13,-6,1,2.00,"Collison, Darren",5.10,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,2,4,06,0,"Driving Layup Shot","2PT Field Goal",1,"Washington Wizards",-8,11,1,1.60,"Gortat, Marcin",2.30,12.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,5,09,1,"Driving Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,0,4,4.30,"Singler, Kyle",1.50,16.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,3,42,0,"Driving Layup Shot","2PT Field Goal",1,"Atlanta Hawks",0,-16,2,4.60,"Millsap, Paul",2.70,13.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,6,01,1,"Driving Layup Shot","2PT Field Goal",0,"Denver Nuggets",-8,0,0,0.50,"Foye, Randy",2.10,17.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,8,27,0,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",20,9,1,3.60,"Evans, Reggie",2.10,16.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,1,22,1,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",0,14,0,0.90,"Meeks, Jodie",2.20,21.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,1,40,0,"Driving Layup Shot","2PT Field Goal",2,"Dallas Mavericks",6,20,7,8.20,"Marion, Shawn",3.30,16.50
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,1,9,47,1,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",-4,26,1,1.30,"Afflalo, Arron",1.90,12.20
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,3,22,0,"Driving Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-10,14,3,3.80,"Young, Nick",1.60,21.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,1,11,39,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-11,7,1,1.50,"Henderson, Gerald",4.20,6.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,3,33,0,"Driving Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,9,2,2.50,"Hayes, Charles",2.00,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,4,2,50,0,"Driving Layup Shot","2PT Field Goal",0,"Phoenix Suns",2,4,1,1.60,"Plumlee, Miles",2.30,11.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,1,9,58,1,"Driving Layup Shot","2PT Field Goal",1,"New York Knicks",11,3,0,0.20,"Shumpert, Iman",0.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,11,40,1,"Driving Layup Shot","2PT Field Goal",0,"Philadelphia 76ers",-4,3,1,1.60,"Carter-Williams, Michael",1.10,20.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,1,11,30,1,"Driving Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",17,0,1,3.50,"Carter-Williams, Michael",4.60,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,8,25,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",20,-5,0,0.60,"Fisher, Derek",1.20,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,7,53,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",4,20,4,4.20,"Prince, Tayshaun",2.10,20.40
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,1,10,57,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Atlanta Hawks",23,4,2,4.10,"Millsap, Paul",4.90,14.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,2,3,03,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",17,4,1,1.90,"Holiday, Jrue",4.20,20.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,2,10,45,0,"Driving Reverse Layup Shot","2PT Field Goal",2,"Indiana Pacers",24,0,0,0.70,"Mahinmi, Ian",1.80,17.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,1,4,00,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,1,0,0.60,"Leonard, Kawhi",1.90,14.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,4,20,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-16,11,3,5.40,"Marion, Shawn",1.60,10.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,4,4,34,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",-4,4,0,0.80,"Lee, Courtney",1.30,20.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,3,7,05,1,"Dunk Shot","2PT Field Goal",1,"Utah Jazz",-13,-5,0,0.70,"Jefferson, Richard",6.60,21.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,4,28,1,"Dunk Shot","2PT Field Goal",1,"Denver Nuggets",17,4,0,1.00,"Miller, Andre",6.80,21.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,5,25,1,"Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,1.10,"Lee, Courtney",6.30,21.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,2,0,34,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",6,3,0,0.80,"Lin, Jeremy",6.20,21.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,4,0,06,1,"Dunk Shot","2PT Field Goal",1,"New Orleans Pelicans",0,11,0,0.50,"Evans, Tyreke",3.70,2.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,2,3,26,1,"Dunk Shot","2PT Field Goal",0,"Houston Rockets",6,6,0,1.20,"Parsons, Chandler",6.40,21.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,3,2,24,1,"Dunk Shot","2PT Field Goal",1,"Brooklyn Nets",2,-11,0,0.70,"Teletovic, Mirza",4.70,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,3,7,15,1,"Dunk Shot","2PT Field Goal",1,"Milwaukee Bucks",1,14,1,2.90,"Wolters, Nate",6.70,23.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,1,3,02,1,"Dunk Shot","2PT Field Goal",0,"Sacramento Kings",4,6,0,0.00,"Thornton, Marcus",2.90,21.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,1,8,25,1,"Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",9,3,1,1.90,"Green, Danny",6.70,21.60
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,9,09,1,"Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",2,11,0,0.60,"Kelly, Ryan",3.60,19.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,7,07,1,"Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",2,0,1,1.60,"Evans, Tyreke",23.00,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,2,28,0,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",7,6,4,4.00,"Kaman, Chris",3.70,19.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,6,29,1,"Dunk Shot","2PT Field Goal",2,"Portland Trail Blazers",-19,7,0,0.50,"Matthews, Wesley",3.30,15.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,5,59,1,"Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",15,3,2,2.60,"Lillard, Damian",6.30,20.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,1,9,09,1,"Dunk Shot","2PT Field Goal",1,"Oklahoma City Thunder",0,12,0,0.00,"Sefolosha, Thabo",3.50,12.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,7,16,1,"Dunk Shot","2PT Field Goal",2,"Oklahoma City Thunder",10,20,0,1.00,"Sefolosha, Thabo",7.90,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,3,29,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",0,-13,1,2.00,"Gee, Alonzo",13.90,20.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,3,8,11,1,"Dunk Shot","2PT Field Goal",1,"Dallas Mavericks",-8,17,0,0.50,"Marion, Shawn",2.20,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,8,36,1,"Dunk Shot","2PT Field Goal",1,"Cleveland Cavaliers",12,0,0,1.20,"Irving, Kyrie",5.50,23.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,3,11,11,1,"Dunk Shot","2PT Field Goal",1,"Portland Trail Blazers",-5,15,0,1.00,"Lillard, Damian",6.80,22.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,2,7,17,1,"Fadeaway Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",-136,22,1,3.60,"Lamb, Jeremy",3.20,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,0,02,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Golden State Warriors",-152,97,15,10.60,"Curry, Stephen",3.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,2,22,1,"Fadeaway Jump Shot","2PT Field Goal",14,"Sacramento Kings",119,80,1,2.40,"McLemore, Ben",3.90,10.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,2,1,51,1,"Fadeaway Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",95,168,0,1.20,"Kelly, Ryan",3.70,12.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,2,5,33,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Denver Nuggets",6,83,1,1.40,"Foye, Randy",2.40,14.50
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,3,42,0,"Fadeaway Jump Shot","2PT Field Goal",13,"Utah Jazz",-122,47,3,3.70,"Hayward, Gordon",3.80,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,3,5,37,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Atlanta Hawks",-105,23,2,1.70,"Carroll, DeMarre",2.80,15.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,1,2,48,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Dallas Mavericks",-128,115,3,4.50,"Ellis, Monta",2.10,0.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,3,7,04,0,"Fadeaway Jump Shot","2PT Field Goal",3,"Chicago Bulls",6,36,2,1.80,"Dunleavy, Mike",4.20,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,2,2,39,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",-8,105,3,2.70,"Hollins, Ryan",7.10,11.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,4,47,0,"Fadeaway Jump Shot","2PT Field Goal",19,"Sacramento Kings",-122,151,1,1.80,"Evans, Reggie",4.40,12.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,2,19,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",70,53,1,2.10,"Redick, JJ",2.10,12.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,2,1,13,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",-101,25,2,1.90,"Miller, Mike",3.30,15.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,11,30,0,"Finger Roll Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,9,1,3.20,"Meeks, Jodie",6.50,22.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,1,10,37,0,"Finger Roll Layup Shot","2PT Field Goal",4,"Indiana Pacers",-38,15,0,0.80,"George, Paul",4.10,6.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,2,3,13,0,"Floating Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",-147,-2,1,5.20,"Sefolosha, Thabo",2.00,18.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,3,11,34,1,"Floating Jump shot","2PT Field Goal",11,"San Antonio Spurs",-114,22,4,3.60,"Leonard, Kawhi",3.20,17.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,8,53,1,"Floating Jump shot","2PT Field Goal",17,"Brooklyn Nets",72,154,0,0.90,"Livingston, Shaun",3.60,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,1,8,30,1,"Floating Jump shot","2PT Field Goal",13,"Charlotte Hornets",-46,123,2,1.80,"Henderson, Gerald",3.90,11.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,1,5,39,0,"Floating Jump shot","2PT Field Goal",12,"Sacramento Kings",-89,83,1,1.60,"Thornton, Marcus",4.40,13.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,4,4,46,1,"Floating Jump shot","2PT Field Goal",8,"Indiana Pacers",-54,66,2,5.20,"George, Paul",1.00,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,2,0,03,1,"Floating Jump shot","2PT Field Goal",8,"Portland Trail Blazers",29,78,17,17.20,"Aldridge, LaMarcus",4.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,0,51,1,"Floating Jump shot","2PT Field Goal",5,"Los Angeles Clippers",-56,20,0,0.20,"Redick, JJ",0.40,15.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,4,9,20,1,"Floating Jump shot","2PT Field Goal",6,"Golden State Warriors",-26,60,7,8.50,"Green, Draymond",2.10,1.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,1,3,57,1,"Floating Jump shot","2PT Field Goal",8,"Dallas Mavericks",42,69,3,3.00,"Ellis, Monta",3.80,5.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,7,33,1,"Jump Bank Shot","2PT Field Goal",5,"Portland Trail Blazers",-56,6,5,6.40,"Lillard, Damian",1.60,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,4,11,17,1,"Jump Bank Shot","2PT Field Goal",11,"Golden State Warriors",-109,34,0,1.00,"Thompson, Klay",3.90,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,11,40,0,"Jump Bank Shot","2PT Field Goal",9,"Portland Trail Blazers",95,30,1,1.70,"Matthews, Wesley",3.40,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,1,0,36,0,"Jump Bank Shot","2PT Field Goal",7,"Charlotte Hornets",-67,39,2,2.60,"Neal, Gary",3.60,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,1,5,04,0,"Jump Bank Shot","2PT Field Goal",5,"New Orleans Pelicans",-45,31,2,2.20,"Ajinca, Alexis",4.90,6.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,3,44,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",106,222,0,0.90,"Blatche, Andray",6.30,18.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,3,5,34,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-89,231,1,2.60,"Johnson, Joe",6.30,11.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,10,59,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-228,61,0,1.10,"Burks, Alec",12.70,19.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,8,26,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-13,172,1,1.30,"Iguodala, Andre",3.40,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,2,21,0,"Jump Shot","2PT Field Goal",8,"Golden State Warriors",26,85,1,2.00,"Thompson, Klay",2.30,6.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,3,8,18,1,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",122,238,0,1.20,"Iguodala, Andre",3.90,14.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,3,4,38,1,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-188,89,4,4.90,"Iguodala, Andre",4.20,11.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,3,2,53,1,"Jump Shot","3PT Field Goal",27,"Golden State Warriors",-141,233,0,2.30,"Curry, Stephen",4.40,18.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,4,5,55,1,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-201,157,0,1.80,"Thompson, Klay",3.30,15.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,4,0,08,1,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-191,56,0,1.00,"Thompson, Klay",3.50,6.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,1,10,12,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",214,131,0,1.30,"Matthews, Wesley",6.30,20.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,1,4,12,1,"Jump Shot","2PT Field Goal",14,"Portland Trail Blazers",-27,138,0,0.70,"Aldridge, LaMarcus",5.60,13.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,1,2,59,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-161,183,1,2.70,"Batum, Nicolas",4.50,12.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,6,22,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-229,9,0,0.70,"Lillard, Damian",4.40,8.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,1,28,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-212,123,1,1.80,"Robinson, Thomas",4.70,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,0,00,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",47,148,5,6.50,"Williams, Mo",1.50,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,3,3,51,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-193,170,0,1.80,"Matthews, Wesley",4.30,18.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,3,1,55,1,"Jump Shot","2PT Field Goal",21,"Portland Trail Blazers",-205,77,2,3.00,"Aldridge, LaMarcus",4.20,10.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,4,10,09,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-228,63,0,1.10,"Matthews, Wesley",3.40,18.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,4,3,04,1,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-175,48,1,1.20,"Batum, Nicolas",2.00,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,4,1,40,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",-92,197,0,0.00,,0.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,1,5,48,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",-183,175,0,1.60,"Gibson, Taj",4.30,11.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,2,2,56,1,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",-146,113,7,4.80,"Butler, Jimmy",4.20,9.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,3,11,49,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",10,173,2,1.90,"Butler, Jimmy",3.20,16.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,7,01,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",-139,118,2,4.40,"Gordon, Eric",3.60,9.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,5,21,1,"Jump Shot","2PT Field Goal",19,"New Orleans Pelicans",-45,190,0,1.00,"Stiemsma, Greg",6.70,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,2,0,55,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",102,230,1,1.00,"Evans, Tyreke",6.40,16.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,4,16,1,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",24,22,0,0.80,"Lee, Courtney",1.30,14.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,3,03,1,"Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",69,63,6,5.20,"Lee, Courtney",1.90,5.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,2,1,53,0,"Jump Shot","2PT Field Goal",13,"Memphis Grizzlies",132,33,1,3.30,"Lee, Courtney",0.90,7.90
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,3,10,46,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-11,247,0,1.50,"Carroll, DeMarre",4.20,16.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,11,22,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",102,233,0,1.10,"Blake, Steve",3.30,12.30
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,10,35,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-160,184,0,1.00,"Nash, Steve",4.10,16.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,3,19,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",184,101,0,0.70,"Johnson, Wesley",6.50,22.50
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,2,31,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-226,96,0,1.10,"Marshall, Kendall",15.70,18.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,2,1,00,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-172,192,0,0.80,"Harris, Manny",2.30,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,1,46,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-152,6,0,0.00,"Harris, Manny",2.80,9.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,6,10,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-82,160,1,2.00,"Blake, Steve",3.60,13.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,1,47,1,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-141,110,1,1.70,"Harris, Manny",1.80,5.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,1,9,29,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-158,195,0,4.40,"Aminu, Al-Farouq",12.90,24.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,1,6,18,1,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",-130,47,8,6.20,"Aminu, Al-Farouq",4.50,16.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,1,3,37,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-226,-2,0,1.20,"Evans, Tyreke",5.30,18.20
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,2,4,27,1,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",9,66,7,6.70,"Davis, Anthony",3.40,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,3,5,23,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-141,69,4,6.30,"Gordon, Eric",1.70,10.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,3,1,16,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",-153,7,2,2.80,"Roberts, Brian",1.40,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,9,22,1,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-138,99,1,1.60,"McLemore, Ben",7.50,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,7,47,1,"Jump Shot","2PT Field Goal",11,"Sacramento Kings",-114,6,0,1.00,"McLemore, Ben",1.50,4.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,4,28,1,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",28,187,2,2.30,"McLemore, Ben",4.00,13.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,2,4,32,1,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",0,78,1,3.50,"McLemore, Ben",1.90,13.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,3,8,28,1,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-147,30,0,0.40,"McLemore, Ben",3.50,10.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,3,5,33,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-103,228,2,3.00,"McLemore, Ben",5.60,13.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,2,4,29,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-142,209,0,1.00,"Chandler, Tyson",8.80,22.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,3,6,29,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-81,242,0,1.20,"Smith, J.R.",21.70,17.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,3,5,30,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",-7,50,4,4.60,"Smith, J.R.",1.60,18.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,4,3,47,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-223,25,0,1.40,"Felton, Raymond",12.30,19.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,4,1,03,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-243,31,0,0.90,"Hardaway Jr., Tim",3.50,20.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,9,35,1,"Jump Shot","2PT Field Goal",14,"Detroit Pistons",-144,33,0,2.90,"Singler, Kyle",4.40,8.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,2,0,32,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-89,224,0,1.00,"Stuckey, Rodney",4.30,11.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,6,13,0,"Jump Shot","2PT Field Goal",9,"Detroit Pistons",-93,31,2,5.00,"Singler, Kyle",1.80,10.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,4,11,0,"Jump Shot","2PT Field Goal",4,"Toronto Raptors",-43,23,1,2.50,"Ross, Terrence",1.30,18.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,1,57,1,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-155,97,4,3.40,"Ross, Terrence",3.00,18.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,2,0,43,1,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-60,75,0,1.00,"Vasquez, Greivis",4.20,14.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,6,34,1,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",32,170,4,5.50,"Valanciunas, Jonas",5.60,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,3,10,1,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-226,11,0,1.10,"Novak, Steve",10.50,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,4,10,43,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-138,154,1,1.50,"Hayes, Charles",5.60,14.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,2,38,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-210,138,0,0.90,"Antetokounmpo, Giannis",4.30,6.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,2,4,20,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",34,83,2,2.80,"Sessions, Ramon",3.90,17.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,3,10,08,1,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-226,36,0,0.80,"Knight, Brandon",3.50,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,3,1,26,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-147,192,2,2.70,"Antetokounmpo, Giannis",5.20,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,1,5,04,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-232,77,0,1.00,"Neal, Gary",3.30,15.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,1,3,14,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-166,190,0,1.80,"Neal, Gary",4.30,10.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,2,1,11,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",51,261,6,7.70,"Henderson, Gerald",5.60,15.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,3,4,26,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-177,189,0,0.90,"Henderson, Gerald",3.60,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,6,14,1,"Jump Shot","2PT Field Goal",20,"Sacramento Kings",-46,203,4,3.40,"McLemore, Ben",3.20,8.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,4,7,38,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-185,164,6,3.20,"Outlaw, Travis",5.00,12.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,1,9,53,1,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-234,25,0,1.20,"Nowitzki, Dirk",10.40,18.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,1,7,41,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",95,187,1,2.10,"Ellis, Monta",4.20,9.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,3,6,15,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-166,187,1,3.00,"Ellis, Monta",3.80,11.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,3,2,47,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-213,112,0,1.20,"Crowder, Jae",3.20,16.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-20,2013,2394,1610612750,400489892,1,2,52,1,"Jump Shot","3PT Field Goal",25,"Houston Rockets",-209,140,0,1.00,"Lin, Jeremy",2.30,12.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,1,6,32,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-217,135,0,1.00,"Tucker, PJ",3.80,16.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,1,5,01,1,"Jump Shot","2PT Field Goal",8,"Phoenix Suns",12,88,2,3.20,"Dragic, Goran",3.00,13.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,11,03,1,"Jump Shot","3PT Field Goal",22,"Phoenix Suns",-228,17,0,0.80,"Tucker, PJ",5.70,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,9,42,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",-5,74,1,1.40,"Bledsoe, Eric",1.50,12.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,2,30,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",-119,94,0,1.20,"Morris, Markieff",6.70,12.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,4,6,26,1,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-120,146,1,2.10,"Tucker, PJ",3.60,7.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,3,37,1,"Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",-169,61,0,3.20,"Calathes, Nick",4.00,14.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,5,13,1,"Jump Shot","2PT Field Goal",15,"Atlanta Hawks",-142,66,6,4.90,"Scott, Mike",6.20,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,2,3,41,1,"Jump Shot","2PT Field Goal",16,"Atlanta Hawks",-158,34,0,1.00,"Millsap, Paul",12.00,22.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,9,37,1,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",10,186,1,1.50,"Carroll, DeMarre",4.10,14.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,4,05,1,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-231,14,0,1.10,"Carroll, DeMarre",3.90,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,1,5,26,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-157,194,0,1.10,"Johnson, Wesley",3.60,7.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,8,26,1,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",147,11,0,0.70,"Meeks, Jodie",1.70,23.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,6,34,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-152,138,1,1.60,"Kelly, Ryan",5.80,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,6,01,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-172,190,0,0.90,"Meeks, Jodie",5.00,9.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,11,20,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",195,44,1,1.90,"Livingston, Shaun",3.90,7.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,11,08,1,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",-179,15,0,0.80,"Johnson, Joe",6.20,16.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,5,36,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-157,190,0,1.30,"Pierce, Paul",4.80,19.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,4,23,1,"Jump Shot","2PT Field Goal",20,"Brooklyn Nets",-164,131,2,2.90,"Thornton, Marcus",4.40,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,2,4,58,1,"Jump Shot","2PT Field Goal",16,"Brooklyn Nets",77,148,9,7.10,"Williams, Deron",3.50,18.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,3,9,05,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",77,183,1,1.40,"Williams, Deron",5.80,17.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,1,4,42,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-90,231,0,0.90,"Paul, Chris",4.60,11.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,8,15,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-190,151,0,1.10,"Davis, Glen",6.80,17.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,2,28,1,"Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",-37,89,0,1.30,"Barnes, Matt",1.00,10.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,1,2,26,1,"Jump Shot","2PT Field Goal",18,"Memphis Grizzlies",-82,164,0,2.40,"Lee, Courtney",4.60,14.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,5,42,1,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",75,242,0,0.80,"Lee, Courtney",5.20,11.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,4,3,56,1,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-147,28,0,1.00,"Lee, Courtney",4.00,9.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,3,10,20,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-166,9,1,2.70,"McLemore, Ben",3.90,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,1,10,10,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-228,55,0,1.00,"Burks, Alec",4.20,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,3,11,37,0,"Jump Shot","2PT Field Goal",7,"Utah Jazz",-7,71,2,2.40,"Burks, Alec",1.60,4.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,3,9,07,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-231,22,0,0.90,"Burks, Alec",4.30,11.80
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,1,48,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-89,227,0,1.10,"Evans, Jeremy",11.50,16.40
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,1,7,06,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-194,146,0,0.80,"Afflalo, Arron",4.40,15.80
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,1,2,23,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-111,119,0,0.80,"Oladipo, Victor",1.60,20.90
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,3,6,18,0,"Jump Shot","2PT Field Goal",8,"Orlando Magic",-76,31,0,1.20,"Vucevic, Nikola",8.60,19.30
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,3,6,05,1,"Jump Shot","3PT Field Goal",22,"Orlando Magic",-228,22,3,3.90,"Vucevic, Nikola",4.20,14.40
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,4,8,28,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-172,181,0,0.70,"Oladipo, Victor",4.90,23.30
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,4,2,47,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-187,164,2,2.60,"Oladipo, Victor",4.70,8.60
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,5,0,54,1,"Jump Shot","2PT Field Goal",18,"Orlando Magic",138,121,0,0.00,,0.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,4,08,1,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-155,131,1,2.50,"Lamb, Jeremy",2.70,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,3,04,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-87,162,1,1.20,"Lamb, Jeremy",4.30,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,4,2,07,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-235,28,0,1.10,"Ellis, Monta",3.00,9.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,6,23,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-183,173,0,1.10,"Carroll, DeMarre",4.50,20.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,1,10,21,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-125,225,0,0.90,"Leonard, Kawhi",4.00,14.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,2,4,20,0,"Jump Shot","2PT Field Goal",6,"Washington Wizards",61,33,1,1.70,"Gortat, Marcin",2.40,13.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,3,46,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",-134,45,0,0.40,"Nash, Steve",4.10,19.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,6,55,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-218,23,0,1.10,"Outlaw, Travis",3.30,11.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,1,7,43,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-152,-2,0,0.70,"Redick, JJ",2.00,23.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,3,4,24,0,"Jump Shot","2PT Field Goal",16,"Chicago Bulls",-38,159,1,1.60,"Butler, Jimmy",2.50,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,2,3,44,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-180,22,0,1.00,"Carroll, DeMarre",5.60,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,3,8,18,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",166,192,0,1.50,"Jefferson, Richard",5.60,8.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,2,4,08,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-147,31,2,1.90,"Jones, Perry",6.00,15.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,1,38,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",0,208,1,1.60,"Green, Draymond",6.10,7.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,3,52,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-182,186,0,1.20,"McLemore, Ben",4.70,15.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,4,10,35,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-163,190,0,1.10,"Andersen, Chris",5.70,18.50
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,2,0,18,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-11,200,3,3.10,"Morrow, Anthony",6.10,8.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,2,2,37,0,"Jump Shot","2PT Field Goal",11,"Memphis Grizzlies",-67,99,1,1.40,"Lee, Courtney",2.50,8.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,8,59,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-105,219,0,0.90,"Crawford, Jamal",4.80,7.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,3,10,0,"Jump Shot","2PT Field Goal",10,"Brooklyn Nets",-43,97,4,3.70,"Williams, Deron",2.50,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,4,5,12,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",146,115,1,2.00,"Felton, Raymond",2.70,6.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,4,24,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-228,17,0,1.00,"Foye, Randy",5.20,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,10,49,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",162,189,0,1.00,"Gordon, Eric",3.90,17.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,2,1,28,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-134,217,0,1.40,"Felton, Raymond",6.40,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,3,5,26,0,"Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",144,47,0,1.00,"Lee, Courtney",2.60,11.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,4,7,45,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",-62,132,5,4.80,"Bledsoe, Eric",2.00,9.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,4,6,41,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-171,181,0,1.00,"Gordon, Eric",4.70,12.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,3,3,55,0,"Jump Shot","3PT Field Goal",26,"Detroit Pistons",-150,219,0,2.10,"Jennings, Brandon",2.00,6.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,4,5,42,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",118,219,0,0.90,"Fisher, Derek",4.50,18.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,4,9,48,0,"Jump Shot","2PT Field Goal",8,"Brooklyn Nets",-11,83,1,1.20,"Anderson, Alan",2.60,7.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,1,37,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",127,213,0,1.20,"Rush, Brandon",5.20,14.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,4,0,03,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-90,129,10,9.00,"Redick, JJ",2.90,13.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,2,42,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",-117,145,0,0.60,"ONeal, Jermaine",3.30,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,2,39,0,"Jump Shot","2PT Field Goal",21,"Memphis Grizzlies",-75,205,1,1.80,"Calathes, Nick",6.90,18.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,2,23,0,"Jump Shot","2PT Field Goal",8,"Oklahoma City Thunder",2,83,3,4.10,"Lamb, Jeremy",3.40,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,11,07,0,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",228,-2,0,1.30,"Lee, Courtney",3.50,23.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,2,6,59,0,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",91,105,10,9.70,"Bledsoe, Eric",0.20,15.40
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,2,0,19,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",170,28,0,0.90,"Williams, Louis",6.50,9.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,11,18,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",196,66,0,1.00,"Jefferson, Richard",7.40,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,2,4,20,0,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",-123,75,2,1.60,"Johnson, Joe",2.50,3.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,1,8,01,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-15,170,0,0.90,"Meeks, Jodie",2.00,20.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,3,11,46,0,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",58,181,0,0.00,"Ellis, Monta",3.90,12.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,9,23,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",-7,33,0,0.90,"Iguodala, Andre",2.80,10.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,3,7,15,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",0,55,4,5.50,"McLemore, Ben",2.10,10.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,4,11,42,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-166,194,0,1.40,"Novak, Steve",4.30,8.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,11,51,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",15,189,0,0.90,"Crawford, Jamal",3.90,16.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,2,3,36,0,"Jump Shot","2PT Field Goal",3,"Dallas Mavericks",31,1,1,2.20,"Carter, Vince",2.00,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,1,6,54,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",130,3,2,3.50,"Temple, Garrett",1.70,11.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,1,6,09,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-120,58,1,2.00,"Collison, Darren",4.50,20.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,6,14,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-223,-8,0,0.90,"Turner, Evan",5.90,17.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,8,49,0,"Jump Shot","3PT Field Goal",22,"Milwaukee Bucks",-223,30,0,0.80,"Henson, John",5.80,8.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,2,2,59,0,"Jump Shot","3PT Field Goal",23,"Utah Jazz",-229,31,0,0.90,"Clark, Ian",5.40,14.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,7,14,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-98,142,0,1.10,"Dudley, Jared",8.10,9.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,3,56,0,"Jump Shot","2PT Field Goal",10,"Milwaukee Bucks",-89,55,3,4.30,"Wolters, Nate",4.30,20.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,3,11,09,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",108,227,0,1.00,"Stephenson, Lance",13.60,11.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,5,42,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",110,189,0,1.10,"Burks, Alec",5.10,17.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,1,7,23,0,"Jump Shot","2PT Field Goal",18,"Atlanta Hawks",-182,31,6,7.30,"Carroll, DeMarre",6.70,17.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,2,30,0,"Jump Shot","2PT Field Goal",21,"Utah Jazz",-114,187,0,1.20,"Burks, Alec",6.20,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,2,3,58,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-116,224,0,1.00,"Gay, Rudy",9.50,10.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,2,40,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",7,263,0,1.10,"Johnson, Wesley",13.50,21.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,9,22,0,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-174,34,1,2.30,"Bradley, Avery",2.80,3.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,2,22,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-8,39,1,3.60,"Redick, JJ",1.90,14.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,1,8,02,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-231,75,0,1.20,"Green, Danny",10.70,16.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,6,55,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-160,200,0,1.00,"Mekel, Gal",4.00,11.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,3,5,30,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",116,217,1,1.80,"Iguodala, Andre",2.00,10.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,1,10,28,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-183,170,0,1.20,"Foye, Randy",9.60,18.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,3,8,44,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",-97,168,1,1.60,"Sefolosha, Thabo",2.50,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,4,4,51,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",-34,184,0,0.90,"McCallum, Ray",3.10,13.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,2,04,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-163,37,1,1.40,"Outlaw, Travis",5.20,14.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,7,21,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-30,175,1,1.90,"Young, Nick",1.80,12.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,7,35,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-220,113,4,4.50,"Miller, Andre",3.00,17.60
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,3,4,19,0,"Jump Shot","2PT Field Goal",23,"Oklahoma City Thunder",193,131,5,6.80,"Sefolosha, Thabo",3.50,7.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,4,9,06,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-29,246,0,0.80,"Matthews, Wesley",4.80,8.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,2,2,51,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-223,99,0,0.90,"Ross, Terrence",4.80,19.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,2,2,49,0,"Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",24,50,0,1.20,"Randolph, Zach",3.00,8.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,10,41,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",7,252,0,1.00,"Meeks, Jodie",1.70,12.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,6,03,0,"Jump Shot","2PT Field Goal",19,"Utah Jazz",67,179,2,4.30,"Burks, Alec",3.90,11.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,3,11,03,0,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-166,26,0,0.00,"Ellis, Monta",3.90,23.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,4,4,39,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-136,206,0,1.60,"Batum, Nicolas",4.70,10.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,2,0,30,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-190,167,0,1.70,"Rice Jr., Glen",3.90,13.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,1,11,28,0,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",6,91,0,0.00,"Lowry, Kyle",3.00,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,9,44,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",-134,124,1,1.70,"Harris, Manny",2.40,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,3,4,24,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-93,9,5,4.70,"Matthews, Wesley",2.20,5.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,4,8,17,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-185,170,3,2.20,"Lewis, Rashard",4.50,10.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,3,7,51,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-212,134,0,0.90,"Beal, Bradley",4.10,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,1,11,14,0,"Jump Shot","2PT Field Goal",4,"Brooklyn Nets",42,3,1,2.00,"Plumlee, Mason",5.10,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,1,9,07,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-187,153,0,1.20,"Green, Danny",5.00,22.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,3,0,04,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",-21,28,19,15.60,"Martin, Kenyon",2.30,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,3,10,16,0,"Jump Shot","3PT Field Goal",27,"New Orleans Pelicans",-146,235,1,4.40,"Gordon, Eric",4.20,11.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,4,10,09,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",29,250,0,0.90,"Brooks, MarShon",4.80,8.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,3,6,56,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-112,126,2,8.80,"Meeks, Jodie",1.30,6.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,3,3,07,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-187,170,2,2.20,"Crowder, Jae",4.70,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,3,4,01,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-172,183,0,0.90,"Foye, Randy",3.50,18.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,2,7,53,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-229,58,0,0.80,"Henson, John",5.20,9.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,2,5,34,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-43,252,0,0.90,"Bradley, Avery",4.30,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,6,59,0,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",-149,-5,1,2.30,"Turner, Evan",3.40,16.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,4,7,13,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",-54,178,0,1.00,"Parker, Tony",12.50,6.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,4,8,15,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-199,160,0,0.00,,0.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,1,10,31,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",62,231,0,3.20,"Afflalo, Arron",4.60,10.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,9,32,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-193,146,0,2.40,"Jefferson, Richard",3.00,13.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,1,9,52,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",217,113,0,0.90,"Green, Danny",3.90,7.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,3,2,45,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",0,181,0,0.70,"Sessions, Ramon",3.70,14.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,1,5,43,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-123,96,8,9.60,"Temple, Garrett",4.50,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,10,02,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-179,184,0,1.10,"Evans, Tyreke",6.70,20.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,2,2,56,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",-7,124,0,0.80,"Thompson, Klay",2.20,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,4,4,38,0,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-116,242,0,1.00,"McRoberts, Josh",3.90,16.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,2,8,28,0,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-160,201,0,1.40,"Johnson, Orlando",3.40,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,5,0,23,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-153,39,1,5.20,"Evans, Jeremy",6.60,16.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,3,46,0,"Jump Shot","2PT Field Goal",9,"Utah Jazz",1,94,5,3.90,"Burke, Trey",2.00,18.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,11,44,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",152,134,0,0.00,"Dudley, Jared",4.40,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,4,53,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-152,192,0,1.30,"Gordon, Eric",3.80,20.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,9,17,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-250,37,0,1.10,"Antetokounmpo, Giannis",7.00,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,2,4,59,0,"Jump Shot","2PT Field Goal",7,"Golden State Warriors",-15,75,2,2.00,"Thompson, Klay",2.10,11.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,3,1,09,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-199,154,0,1.00,"Batum, Nicolas",4.30,7.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,4,31,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-155,219,0,1.10,"Gee, Alonzo",4.40,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,2,3,09,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",0,149,3,3.70,"McLemore, Ben",3.80,15.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,8,33,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-171,146,6,4.70,"Ellis, Monta",3.40,10.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,1,34,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",149,205,1,1.40,"Ross, Terrence",5.10,16.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,8,04,0,"Jump Shot","2PT Field Goal",18,"Portland Trail Blazers",-144,108,1,2.40,"McCollum, CJ",3.00,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,11,29,0,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-26,93,2,2.20,"Lowry, Kyle",4.90,16.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,4,23,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",171,175,0,0.80,"Lee, Courtney",3.50,13.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,1,3,45,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-234,53,0,4.40,"Jordan, DeAndre",3.50,17.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,1,8,09,0,"Jump Shot","2PT Field Goal",13,"Washington Wizards",114,71,2,2.40,"Wall, John",2.60,15.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,2,21,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-220,123,0,1.20,"Barbosa, Leandro",6.00,20.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,4,3,32,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",34,250,0,0.80,"Evans, Tyreke",5.00,4.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,10,39,0,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",157,192,0,0.90,"Waiters, Dion",5.10,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,4,0,25,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-152,25,3,3.50,"Beal, Bradley",1.10,8.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,9,15,0,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-149,227,6,5.10,"Redick, JJ",1.30,16.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,4,1,58,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-212,115,4,6.60,"Marion, Shawn",4.30,6.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,3,11,26,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-201,154,0,1.00,"Foye, Randy",4.40,11.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,3,2,47,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",-34,250,0,0.90,"Johnson, James",4.90,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,4,7,30,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-97,85,1,4.10,"Meeks, Jodie",2.00,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,1,9,55,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",-155,135,7,6.80,"Matthews, Wesley",3.90,17.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,2,2,20,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-224,3,0,0.80,"Withey, Jeff",8.70,13.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,4,3,54,0,"Jump Shot","2PT Field Goal",15,"Indiana Pacers",-117,104,2,2.50,"George, Paul",11.70,19.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,4,10,20,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-228,36,0,1.30,"Matthews, Wesley",3.80,11.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,3,8,04,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",58,235,0,1.00,"Ross, Terrence",9.70,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,5,30,0,"Jump Shot","2PT Field Goal",13,"Utah Jazz",67,121,2,2.90,"Burks, Alec",3.20,10.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,1,10,27,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-59,201,1,1.90,"Tucker, PJ",4.80,10.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,2,2,14,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",-209,146,1,2.40,"James, LeBron",3.60,3.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,2,1,44,0,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-26,195,0,0.80,"Leonard, Kawhi",5.30,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,1,28,0,"Jump Shot","3PT Field Goal",22,"Philadelphia 76ers",-228,23,1,2.20,"Anderson, James",4.20,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,1,2,19,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-116,217,0,2.30,"Ellis, Monta",5.10,12.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-15,2013,2394,1610612750,400489224,1,1,27,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-235,-10,0,1.00,"Randolph, Zach",11.40,21.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,3,3,44,0,"Jump Shot","2PT Field Goal",21,"Houston Rockets",7,213,0,0.90,"Beverley, Patrick",2.00,16.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,8,25,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-224,118,0,0.80,"Gee, Alonzo",4.70,14.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,10,32,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-230,69,0,1.50,"Nash, Steve",4.10,13.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,8,24,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-224,22,0,0.80,"Singler, Kyle",3.40,9.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,3,10,35,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-224,108,2,4.60,"Aldridge, LaMarcus",5.60,10.50
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,4,6,17,0,"Jump Shot","2PT Field Goal",4,"New Orleans Pelicans",-45,17,2,3.70,"Babbitt, Luke",2.80,11.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,1,8,36,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-217,116,0,0.70,"McLemore, Ben",4.00,18.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,2,9,33,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",4,179,1,2.00,"Stephenson, Lance",3.90,20.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,8,28,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-161,186,0,1.10,"Bass, Brandon",10.00,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,1,23,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-228,37,1,2.60,"Marion, Shawn",4.00,4.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,2,8,25,0,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",-187,45,0,1.00,"Pierce, Paul",4.00,14.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,3,7,20,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-76,230,0,1.20,"Westbrook, Russell",5.00,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,4,0,10,0,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-133,181,0,1.20,"Marion, Shawn",5.50,5.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,4,0,53,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",-71,101,0,2.80,"Collison, Darren",2.60,23.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,3,11,18,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-26,254,0,2.10,"Ross, Terrence",5.50,13.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,2,1,09,0,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-204,173,0,0.90,"Middleton, Khris",6.60,17.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,11,40,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-205,148,0,1.30,"Robinson, Nate",5.60,22.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,1,6,46,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-164,183,0,0.90,"Bradley, Avery",5.30,11.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,4,7,50,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",141,197,0,1.20,"Johnson, Orlando",8.00,10.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,9,39,0,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",105,190,0,0.00,"Garnett, Kevin",21.80,23.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,3,9,14,0,"Jump Shot","3PT Field Goal",29,"Oklahoma City Thunder",-95,274,2,2.80,"Sefolosha, Thabo",4.50,4.20
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,3,10,08,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-116,217,5,5.60,"Vucevic, Nikola",0.80,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,1,36,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-180,172,0,1.10,"Lawson, Ty",13.70,20.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,6,58,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-185,48,2,4.80,"Iguodala, Andre",4.30,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,11,39,0,"Jump Shot","2PT Field Goal",14,"Phoenix Suns",94,111,3,6.40,"Green, Gerald",4.30,6.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,10,20,0,"Jump Shot","2PT Field Goal",18,"Milwaukee Bucks",181,33,2,2.30,"Wolters, Nate",3.50,11.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,3,6,51,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",225,102,0,1.30,"Hill, George",4.10,18.50
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,2,1,24,0,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",-8,172,1,1.20,"Korver, Kyle",2.90,18.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,4,22,0,"Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",-93,25,8,9.30,"Griffin, Blake",4.40,15.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,2,4,36,0,"Jump Shot","2PT Field Goal",17,"Los Angeles Clippers",-125,119,1,2.60,"Crawford, Jamal",3.30,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,4,3,21,0,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",-108,186,1,2.10,"Marion, Shawn",5.00,1.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,4,6,49,0,"Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-68,1,0,1.20,"Sacre, Robert",1.80,6.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,3,18,0,"Jump Shot","2PT Field Goal",15,"Phoenix Suns",146,53,3,5.60,"Barbosa, Leandro",3.30,5.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,2,5,03,0,"Jump Shot","2PT Field Goal",17,"Indiana Pacers",-171,44,4,3.80,"Watson, CJ",3.00,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,1,5,48,0,"Jump Shot","2PT Field Goal",18,"Oklahoma City Thunder",-108,146,1,3.20,"Sefolosha, Thabo",2.70,11.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,2,3,15,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-231,9,0,1.00,"Lawson, Ty",7.50,15.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,3,9,06,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",24,261,0,0.90,"Beal, Bradley",3.20,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,10,57,0,"Jump Shot","2PT Field Goal",14,"Sacramento Kings",-142,25,0,1.20,"McLemore, Ben",2.60,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,4,9,20,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-29,244,0,0.80,"Gutierrez, Jorge",3.10,17.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,7,04,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",222,56,0,1.20,"Caldwell-Pope, Kentavious",4.40,17.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,6,58,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-169,113,3,4.40,"Sefolosha, Thabo",2.70,15.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,2,4,15,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-29,183,0,0.90,"Thompson, Hollis",7.40,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,4,4,30,0,"Jump Shot","2PT Field Goal",18,"Phoenix Suns",-26,187,1,1.40,"Bledsoe, Eric",2.00,11.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,2,0,51,0,"Jump Shot","2PT Field Goal",21,"Milwaukee Bucks",196,86,0,0.90,"Knight, Brandon",5.00,9.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,0,30,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-10,252,0,1.00,"Hayward, Gordon",5.90,13.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,3,41,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",160,192,0,0.90,"Lee, Courtney",4.30,11.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,10,20,0,"Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",51,69,0,1.60,"Gee, Alonzo",0.80,15.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,6,24,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-7,257,0,1.10,"Outlaw, Travis",7.20,10.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,3,6,43,0,"Jump Shot","2PT Field Goal",16,"New York Knicks",-161,-22,12,10.90,"World Peace, Metta",4.20,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,4,10,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",-82,63,1,10.70,"Blake, Steve",1.80,17.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,3,2,18,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-174,181,0,0.90,"Paul, Chris",0.20,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,3,53,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-196,151,0,0.80,"Aminu, Al-Farouq",6.10,18.80
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,4,7,10,0,"Jump Shot","2PT Field Goal",17,"Orlando Magic",-169,33,0,0.40,"Oladipo, Victor",1.70,13.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,2,3,21,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-2,44,4,4.40,"Webster, Martell",3.40,18.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,3,25,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-100,181,2,3.20,"Lamb, Jeremy",4.90,9.30
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,2,2,27,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-185,165,0,1.20,"Harkless, Maurice",3.80,16.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,10,14,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-188,80,5,5.50,"Henry, Xavier",2.60,17.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,2,0,01,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-155,11,1,2.00,"Williams, Shawne",3.30,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,1,4,14,0,"Jump Shot","2PT Field Goal",6,"Toronto Raptors",-56,37,1,4.40,"Johnson, Amir",4.20,14.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,2,5,30,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-37,12,1,3.60,"Crawford, Jamal",2.60,5.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,8,47,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-133,205,0,0.90,"Hawes, Spencer",6.60,17.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,2,3,01,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",209,140,1,1.70,"Chalmers, Mario",4.30,20.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,11,08,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Clippers",118,148,1,1.30,"Redick, JJ",1.00,21.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,3,7,23,0,"Jump Shot","2PT Field Goal",12,"Miami Heat",-128,11,0,1.30,"Chalmers, Mario",2.10,22.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,6,1,28,0,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-144,55,1,1.40,"Hayward, Gordon",1.70,5.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,2,2,01,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-152,208,0,1.10,"Cousins, DeMarcus",6.80,18.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,5,50,0,"Jump Shot","2PT Field Goal",20,"Los Angeles Clippers",114,167,0,0.80,"Redick, JJ",3.00,13.90
+"Kevin Martin","Minnesota Timberwolves",2014-02-07,2013,2394,1610612750,400489620,4,5,34,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",47,247,0,0.80,"Gordon, Eric",3.10,8.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,3,8,29,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-123,167,0,1.20,"Lee, Courtney",2.20,10.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,4,0,36,0,"Jump Shot","2PT Field Goal",7,"Toronto Raptors",47,52,2,3.50,"Johnson, Amir",3.80,20.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,1,5,57,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",-37,42,3,2.40,"Sefolosha, Thabo",1.70,9.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,2,0,04,0,"Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-153,28,0,0.00,"Fisher, Derek",5.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,11,00,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-229,15,0,0.90,"Blake, Steve",3.60,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,1,56,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-123,211,0,1.00,"Paul, Chris",3.70,15.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,2,2,34,0,"Jump Shot","2PT Field Goal",7,"Washington Wizards",69,20,0,0.90,"Gortat, Marcin",1.60,14.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,4,0,00,0,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",-38,66,2,2.00,"Tucker, PJ",3.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,4,11,11,0,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-190,192,0,1.40,"Lin, Jeremy",2.60,10.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,3,10,24,0,"Jump Shot","3PT Field Goal",23,"Miami Heat",103,216,0,1.00,"Battier, Shane",6.90,17.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,2,6,02,0,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-223,14,0,0.90,"Foye, Randy",6.90,14.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,9,16,0,"Jump Shot","2PT Field Goal",7,"Los Angeles Clippers",-43,56,2,2.90,"Collison, Darren",2.70,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,3,7,13,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",-119,30,5,5.90,"Foye, Randy",1.20,9.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,11,21,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",136,55,0,0.00,"Conley, Mike",3.90,9.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,2,45,0,"Jump Shot","2PT Field Goal",18,"Utah Jazz",179,20,0,2.90,"Garrett, Diante",4.30,11.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,2,0,39,0,"Jump Shot","2PT Field Goal",4,"Boston Celtics",37,22,0,0.00,"Faverani, Vitor",3.80,16.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,1,5,17,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-235,0,0,4.60,"Dunleavy, Mike",3.00,16.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,3,4,41,0,"Jump Shot","2PT Field Goal",15,"Washington Wizards",-150,45,2,3.60,"Beal, Bradley",4.20,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,2,0,51,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",135,208,0,2.00,"Lin, Jeremy",3.00,8.70
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,2,4,34,0,"Jump Shot","2PT Field Goal",16,"Orlando Magic",-160,39,0,1.00,"Moore, ETwaun",4.40,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,4,2,39,0,"Jump Shot","2PT Field Goal",6,"Sacramento Kings",2,67,0,1.20,"McCallum, Ray",1.70,8.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,3,32,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-38,201,0,0.90,"Thompson, Klay",4.40,14.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,8,34,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",133,131,1,2.50,"Gordon, Eric",5.60,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,0,03,0,"Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-13,126,1,2.30,"Davis, Ed",4.60,3.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,2,3,09,0,"Jump Shot","3PT Field Goal",26,"Denver Nuggets",-224,137,0,1.10,"Foye, Randy",4.20,19.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,1,7,06,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-128,34,0,1.00,"Ellis, Monta",4.50,10.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,3,2,43,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-147,83,1,2.00,"Jordan, DeAndre",5.10,14.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,1,7,40,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",170,184,5,4.60,"Sefolosha, Thabo",5.60,17.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,5,4,29,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-234,41,0,0.70,"Ellis, Monta",3.10,8.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,2,4,13,0,"Jump Shot","2PT Field Goal",21,"Denver Nuggets",-127,175,7,5.90,"Fournier, Evan",4.60,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,3,11,48,0,"Jump Shot","2PT Field Goal",3,"Memphis Grizzlies",-13,33,0,0.70,"Lee, Courtney",2.00,14.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,3,9,24,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",241,56,0,1.00,"McLemore, Ben",6.50,14.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,3,9,36,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-183,23,0,1.50,"Nowitzki, Dirk",7.20,14.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,8,46,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",97,74,4,4.50,"Redick, JJ",3.40,15.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,2,3,00,0,"Jump Shot","2PT Field Goal",6,"Detroit Pistons",-64,11,2,3.30,"Caldwell-Pope, Kentavious",1.50,10.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,0,56,0,"Jump Shot","2PT Field Goal",20,"Golden State Warriors",-68,194,0,1.40,"Douglas, Toney",8.00,20.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,3,11,25,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",-70,77,4,3.60,"Walker, Kemba",1.70,15.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,7,18,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-111,222,0,1.40,"Dudley, Jared",3.00,11.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,2,16,0,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",88,189,2,2.20,"Green, Gerald",4.40,11.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,1,7,43,0,"Jump Shot","2PT Field Goal",19,"Sacramento Kings",124,145,0,0.90,"Thornton, Marcus",3.40,12.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,1,2,04,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-125,211,0,1.40,"Porter, Otto",3.70,11.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,4,1,30,0,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-153,14,11,11.60,"Faried, Kenneth",1.90,5.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,1,10,40,0,"Jump Shot","3PT Field Goal",25,"Utah Jazz",-199,156,0,0.80,"Burks, Alec",7.00,13.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,2,38,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",88,37,1,2.40,"Wright, Dorell",1.80,5.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,3,7,58,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",-4,239,0,1.80,"Lee, Courtney",3.70,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,2,2,27,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-127,214,2,2.80,"Singler, Kyle",5.00,14.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,1,52,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",-155,34,0,0.60,"McCallum, Ray",5.40,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,1,5,07,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-187,-10,1,1.90,"Thompson, Hollis",3.80,17.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,3,6,23,0,"Jump Shot","2PT Field Goal",20,"Utah Jazz",-13,209,0,1.00,"Favors, Derrick",9.70,11.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,2,3,59,0,"Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",-108,44,1,2.10,"Jones, Perry",2.70,17.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,1,09,0,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",-144,-5,2,3.70,"Middleton, Khris",3.90,13.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-20,2013,2394,1610612750,400489892,1,3,46,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-231,25,0,0.90,"Parsons, Chandler",8.40,17.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,1,7,39,0,"Jump Shot","2PT Field Goal",21,"Sacramento Kings",-201,85,0,1.20,"Thomas, Isaiah",6.30,18.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,3,27,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",78,121,2,3.60,"Meeks, Jodie",3.40,8.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,9,10,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-26,242,7,8.00,"Hayward, Gordon",5.20,16.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,2,3,26,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",192,168,0,1.30,"Dragic, Goran",14.20,20.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,1,4,00,0,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",-224,15,0,0.90,"Evans, Tyreke",6.90,16.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,1,9,14,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-179,170,0,1.00,"Curry, Stephen",3.20,16.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,3,15,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-158,64,1,2.50,"Barnes, Harrison",3.10,14.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,3,4,44,0,"Jump Shot","3PT Field Goal",26,"Portland Trail Blazers",-169,198,0,1.10,"Aldridge, LaMarcus",5.80,4.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,8,03,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",225,93,0,0.80,"Dragic, Goran",2.50,13.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,6,34,0,"Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-123,64,2,1.90,"Ellis, Monta",3.30,12.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,4,0,17,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-215,107,0,1.00,"Green, Gerald",7.00,19.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,2,1,42,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-221,15,0,0.90,"McLemore, Ben",2.40,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,1,5,21,0,"Jump Shot","2PT Field Goal",12,"New York Knicks",-117,36,6,6.60,"Smith, J.R.",0.70,9.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,0,45,0,"Jump Shot","3PT Field Goal",22,"Oklahoma City Thunder",-223,53,0,0.90,"Lamb, Jeremy",4.60,11.40
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,3,7,43,0,"Jump Shot","3PT Field Goal",25,"Atlanta Hawks",-182,172,0,1.00,"Teague, Jeff",3.10,10.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,4,7,33,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",83,236,0,1.00,"Green, Gerald",6.20,9.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,2,2,49,0,"Jump Shot","2PT Field Goal",15,"Charlotte Hornets",1,157,1,2.60,"Kidd-Gilchrist, Michael",4.50,13.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,1,0,44,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-201,6,0,0.80,"Lamb, Jeremy",3.80,12.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,4,2,20,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Clippers",-196,17,0,1.70,"Crawford, Jamal",12.80,21.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,6,08,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Clippers",144,228,2,2.70,"Paul, Chris",2.50,21.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,0,05,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",59,55,22,20.10,"Meeks, Jodie",2.00,4.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,1,5,24,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-120,213,0,0.90,"Carroll, DeMarre",4.20,15.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,1,5,08,0,"Jump Shot","2PT Field Goal",16,"Denver Nuggets",29,159,1,1.70,"Robinson, Nate",1.90,18.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-20,2013,2394,1610612750,400489892,1,5,57,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-103,225,4,4.50,"Jones, Terrence",3.50,8.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,7,39,0,"Jump Shot","2PT Field Goal",17,"Toronto Raptors",-168,42,2,2.60,"Ross, Terrence",6.00,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,3,8,59,0,"Jump Shot","2PT Field Goal",7,"Atlanta Hawks",17,71,0,0.70,"Millsap, Paul",3.60,12.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,8,01,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-149,108,0,1.20,"Ross, Terrence",2.80,14.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,1,06,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-234,28,0,1.20,"Shengelia, Tornike",5.80,17.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,3,7,44,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-231,12,0,0.90,"Leonard, Kawhi",2.80,13.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,1,5,51,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-169,190,5,4.40,"Crawford, Jordan",5.00,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,4,9,08,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-8,242,0,3.00,"McCollum, CJ",2.10,21.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,1,9,41,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",42,101,2,3.30,"Foye, Randy",2.70,16.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,10,03,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-120,25,0,0.60,"Meeks, Jodie",2.20,9.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,6,20,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-144,201,1,1.80,"Johnson, Joe",4.30,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,4,2,08,0,"Jump Shot","2PT Field Goal",12,"Sacramento Kings",-127,20,0,1.40,"McLemore, Ben",1.10,8.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,1,3,50,1,"Jump Shot","3PT Field Goal",25,"New York Knicks",234,97,0,0.90,"Hardaway Jr., Tim",6.10,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,1,2,22,1,"Jump Shot","2PT Field Goal",7,"New York Knicks",-52,53,2,4.20,"Hardaway Jr., Tim",2.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,3,10,04,1,"Jump Shot","3PT Field Goal",22,"New York Knicks",-223,-13,0,1.00,"Bargnani, Andrea",5.20,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,3,1,25,1,"Jump Shot","3PT Field Goal",23,"New York Knicks",-213,107,0,1.00,"Hardaway Jr., Tim",3.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,3,0,46,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-194,145,0,0.90,"World Peace, Metta",7.30,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,4,4,31,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-224,89,0,1.00,"Felton, Raymond",2.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,9,45,1,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-149,216,4,3.90,"Irving, Kyrie",3.80,20.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,7,32,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-163,197,0,1.20,"Waiters, Dion",6.00,12.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,5,44,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-183,168,0,1.10,"Waiters, Dion",6.00,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,4,14,0,"Jump Shot","2PT Field Goal",14,"Cleveland Cavaliers",-70,124,2,3.40,"Waiters, Dion",3.00,11.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,1,4,10,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-175,39,0,0.70,"Jack, Jarrett",4.30,8.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,2,3,54,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-209,145,0,0.90,"Waiters, Dion",3.40,13.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,2,2,39,0,"Jump Shot","2PT Field Goal",18,"Cleveland Cavaliers",-141,115,0,0.00,"Waiters, Dion",1.70,13.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,8,47,1,"Jump Shot","3PT Field Goal",24,"Cleveland Cavaliers",-210,131,0,1.20,"Gee, Alonzo",5.80,19.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,7,35,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-125,214,0,1.70,"ONeal, Jermaine",6.40,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,3,10,43,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",99,225,3,3.80,"Thompson, Klay",2.90,14.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,3,7,02,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-234,45,0,0.90,"Thompson, Klay",3.80,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,2,33,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-180,178,0,0.80,"Ellis, Monta",6.10,22.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,1,15,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-23,190,1,2.50,"Ellis, Monta",5.40,16.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,3,8,27,0,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-175,179,1,1.20,"Ellis, Monta",10.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,3,8,22,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",187,89,0,0.90,"Ellis, Monta",7.30,23.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,3,7,56,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",2,247,0,2.60,"Ellis, Monta",4.90,13.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,3,5,04,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-205,138,0,1.00,"Calderon, Jose",8.80,19.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,10,47,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",-95,176,9,8.60,"Ellington, Wayne",3.40,4.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,5,46,1,"Jump Shot","2PT Field Goal",20,"Dallas Mavericks",95,181,0,0.90,"Calderon, Jose",4.00,10.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,4,27,1,"Jump Shot","2PT Field Goal",19,"Dallas Mavericks",-49,192,7,6.10,"Calderon, Jose",6.00,12.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,7,15,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",-49,200,0,0.00,"Blake, Steve",2.10,14.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,6,49,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-226,75,0,1.00,"Nash, Steve",4.00,16.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,8,28,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Lakers",-175,187,1,1.90,"Henry, Xavier",3.90,10.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,5,21,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-212,121,0,1.40,"Kaman, Chris",14.10,20.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,4,19,1,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-190,3,2,3.60,"Blake, Steve",2.10,9.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,3,08,1,"Jump Shot","2PT Field Goal",14,"Los Angeles Lakers",130,60,0,0.00,"Meeks, Jodie",2.80,19.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,8,28,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",108,173,0,1.20,"Meeks, Jodie",1.00,14.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,2,36,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-150,189,1,3.30,"Meeks, Jodie",2.60,0.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,1,11,23,1,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",7,112,0,0.80,"Redick, JJ",2.00,13.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,1,6,17,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-41,271,0,1.00,"Redick, JJ",2.80,13.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,5,18,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",4,140,0,0.90,"Dudley, Jared",4.80,8.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,3,51,1,"Jump Shot","2PT Field Goal",11,"Los Angeles Clippers",42,107,2,4.70,"Crawford, Jamal",4.70,12.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,0,03,0,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-87,242,2,2.70,"Hollins, Ryan",14.70,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,4,4,23,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-127,215,1,1.50,"Crawford, Jamal",10.20,0.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,4,3,48,1,"Jump Shot","3PT Field Goal",27,"Los Angeles Clippers",-127,247,3,5.10,"Barnes, Matt",4.00,9.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,1,7,00,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",230,22,0,0.90,"Foye, Randy",2.40,14.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,10,21,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",-223,3,0,1.00,"Miller, Andre",2.00,18.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,7,19,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-152,203,0,1.30,"Miller, Andre",5.20,18.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,5,17,1,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-100,37,0,0.80,"Miller, Andre",2.00,23.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,2,11,1,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",-172,52,1,2.20,"Foye, Randy",6.60,6.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,2,1,06,1,"Jump Shot","2PT Field Goal",15,"Denver Nuggets",-153,36,2,3.80,"Faried, Kenneth",4.20,10.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,1,7,31,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",237,45,0,1.30,"Bass, Brandon",5.80,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,2,7,05,1,"Jump Shot","2PT Field Goal",17,"Boston Celtics",-89,153,1,1.60,"Faverani, Vitor",10.50,23.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,7,31,1,"Jump Shot","3PT Field Goal",22,"Boston Celtics",-224,19,0,1.00,"Green, Jeff",5.40,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,2,3,00,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",-123,108,0,0.00,"Beal, Bradley",1.30,23.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,4,7,17,0,"Jump Shot","2PT Field Goal",17,"Washington Wizards",88,151,2,4.60,"Temple, Garrett",3.10,1.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,4,1,11,1,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-109,230,0,0.90,"Webster, Martell",5.00,10.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,10,58,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-146,72,3,4.90,"Redick, JJ",3.10,13.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,8,35,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",-45,250,0,1.00,"Redick, JJ",2.80,13.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,8,56,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-120,206,0,1.00,"Dudley, Jared",6.50,20.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,4,00,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",233,75,0,1.00,"Redick, JJ",3.30,12.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,0,26,1,"Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",-89,31,0,0.60,"Redick, JJ",2.00,20.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,0,06,1,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-147,47,1,1.50,"Paul, Chris",2.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,8,23,1,"Jump Shot","2PT Field Goal",9,"Brooklyn Nets",64,75,1,2.00,"Livingston, Shaun",2.10,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,5,10,0,"Jump Shot","2PT Field Goal",13,"Brooklyn Nets",-116,77,2,2.10,"Anderson, Alan",4.00,20.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,4,41,1,"Jump Shot","2PT Field Goal",19,"Brooklyn Nets",0,190,1,1.50,"Plumlee, Mason",5.30,13.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,3,8,47,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-150,194,1,1.00,"Johnson, Joe",4.00,15.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,3,3,01,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-224,86,0,0.00,"Taylor, Tyshawn",3.00,9.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,5,50,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-105,220,0,1.00,"Beverley, Patrick",4.20,19.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,3,9,09,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-191,157,0,0.80,"Lin, Jeremy",6.60,13.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,4,7,52,1,"Jump Shot","3PT Field Goal",27,"Houston Rockets",-190,194,0,1.90,"Parsons, Chandler",3.90,17.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,1,11,41,1,"Jump Shot","3PT Field Goal",26,"Indiana Pacers",-34,258,0,0.00,"George, Paul",6.10,10.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,4,5,51,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-245,11,0,0.80,"Stephenson, Lance",4.00,19.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,2,16,1,"Jump Shot","2PT Field Goal",20,"Denver Nuggets",-48,195,1,2.10,"Foye, Randy",4.80,6.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,0,20,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",135,205,0,0.80,"Foye, Randy",3.90,21.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,1,7,44,1,"Jump Shot","3PT Field Goal",25,"Dallas Mavericks",-215,131,0,1.10,"Dalembert, Samuel",6.80,19.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,2,9,22,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-109,219,0,1.00,"Ellington, Wayne",3.40,12.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,2,8,13,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-175,172,1,1.00,"Ellington, Wayne",2.60,13.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,7,56,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-223,14,0,0.80,"Larkin, Shane",2.30,11.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,7,48,0,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",37,173,2,5.00,"Mekel, Gal",2.50,17.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,5,36,1,"Jump Shot","2PT Field Goal",22,"Dallas Mavericks",-191,110,0,0.00,"Carter, Vince",13.10,20.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,4,00,1,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",89,160,1,2.00,"Marion, Shawn",1.00,1.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-30,2013,2394,1610612750,400489117,4,3,13,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",138,208,0,0.90,"Marion, Shawn",8.10,8.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,1,10,16,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-174,167,0,1.00,"Sefolosha, Thabo",4.40,11.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,2,2,29,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",149,209,0,1.10,"Durant, Kevin",12.50,20.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,3,9,53,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",171,179,0,1.30,"Sefolosha, Thabo",9.90,20.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,6,55,1,"Jump Shot","2PT Field Goal",15,"Miami Heat",-150,36,0,0.70,"Wade, Dwyane",4.00,11.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,4,7,36,0,"Jump Shot","2PT Field Goal",11,"Miami Heat",-71,91,1,1.60,"Lewis, Rashard",5.90,21.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,2,5,02,1,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",-223,26,0,1.00,"Caldwell-Pope, Kentavious",8.50,16.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,3,1,50,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",234,30,0,0.80,"Jerebko, Jonas",7.30,8.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,3,1,18,1,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-232,44,0,0.80,"Jennings, Brandon",2.50,6.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,9,11,0,"Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",162,39,1,1.70,"Hawes, Spencer",8.50,20.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,3,8,57,0,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",28,252,0,0.90,"Thompson, Hollis",5.80,16.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,2,4,39,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",77,15,3,3.00,"Leonard, Kawhi",1.90,13.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,2,3,12,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",170,190,0,0.80,"Belinelli, Marco",5.40,10.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,3,6,34,1,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-139,195,0,1.10,"Diaw, Boris",6.20,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,3,2,36,0,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-240,80,0,0.90,"Parker, Tony",5.00,20.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-15,2013,2394,1610612750,400489224,1,2,25,0,"Jump Shot","3PT Field Goal",26,"Memphis Grizzlies",-190,178,0,0.90,"Allen, Tony",6.50,19.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-15,2013,2394,1610612750,400489224,2,1,19,0,"Jump Shot","2PT Field Goal",20,"Memphis Grizzlies",-89,187,1,1.60,"Conley, Mike",2.40,2.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,3,22,1,"Jump Shot","2PT Field Goal",16,"Portland Trail Blazers",59,156,0,0.60,"Matthews, Wesley",4.90,16.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,3,1,47,1,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-188,175,0,1.00,"Williams, Mo",3.70,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,7,46,1,"Jump Shot","2PT Field Goal",20,"Los Angeles Lakers",102,183,0,1.00,"Meeks, Jodie",4.30,13.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,3,11,07,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-146,48,1,4.70,"Meeks, Jodie",1.70,13.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,4,6,07,0,"Jump Shot","3PT Field Goal",22,"Los Angeles Lakers",-228,-10,0,3.50,"Meeks, Jodie",2.00,2.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,4,3,37,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Lakers",12,101,2,1.90,"Gasol, Pau",4.80,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,1,4,03,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-62,121,0,0.60,"Dudley, Jared",2.80,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,7,13,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",220,91,0,0.90,"Dudley, Jared",5.40,17.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,1,2,56,1,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-8,44,0,0.40,"Webster, Martell",1.80,15.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,3,2,10,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",65,192,0,1.00,Nene,7.60,12.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,9,36,1,"Jump Shot","2PT Field Goal",8,"Milwaukee Bucks",-78,39,5,5.70,"Knight, Brandon",1.60,19.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,8,40,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-221,143,0,1.60,"Middleton, Khris",3.90,11.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,6,50,1,"Jump Shot","2PT Field Goal",14,"Milwaukee Bucks",114,91,3,4.20,"Knight, Brandon",2.30,7.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,6,26,1,"Jump Shot","2PT Field Goal",17,"Milwaukee Bucks",50,170,1,2.00,"Knight, Brandon",7.40,16.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,9,33,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",160,186,2,1.40,"Middleton, Khris",6.00,18.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,4,32,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",91,230,0,1.70,"Butler, Caron",11.00,17.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,3,05,1,"Jump Shot","3PT Field Goal",26,"Milwaukee Bucks",-205,173,0,1.00,"Mayo, O.J.",4.30,15.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,0,00,0,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-117,104,1,1.70,"Middleton, Khris",6.40,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,4,1,37,1,"Jump Shot","2PT Field Goal",15,"Milwaukee Bucks",-13,154,1,2.70,"Knight, Brandon",6.50,12.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,10,42,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-155,189,0,1.10,"Ellis, Monta",3.00,12.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,2,7,51,0,"Jump Shot","2PT Field Goal",10,"Dallas Mavericks",-100,34,1,0.90,"Calderon, Jose",2.10,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,3,11,07,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",-226,22,0,0.90,"Marion, Shawn",5.40,17.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,3,9,16,1,"Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-160,41,0,1.00,"Nowitzki, Dirk",11.30,18.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,3,4,55,1,"Jump Shot","2PT Field Goal",21,"Dallas Mavericks",32,209,6,5.80,"Calderon, Jose",5.50,14.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,3,09,1,"Jump Shot","2PT Field Goal",16,"New Orleans Pelicans",-161,42,0,0.90,"Roberts, Brian",5.40,20.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,5,55,1,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",69,247,0,0.70,"Sefolosha, Thabo",6.80,4.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,1,10,06,0,"Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-62,50,3,5.10,"Thompson, Hollis",3.20,18.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,1,9,46,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-239,30,0,1.50,"Young, Thaddeus",5.70,19.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,10,19,1,"Jump Shot","3PT Field Goal",25,"Philadelphia 76ers",-179,175,0,0.80,"Thompson, Hollis",4.70,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,5,11,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",12,246,0,1.00,"Turner, Evan",5.50,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,1,10,51,1,"Jump Shot","2PT Field Goal",20,"Phoenix Suns",-67,197,0,0.00,"Green, Gerald",10.00,13.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,1,9,56,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-112,220,0,2.90,"Green, Gerald",4.40,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,8,20,1,"Jump Shot","2PT Field Goal",13,"Phoenix Suns",0,132,1,2.10,"Green, Gerald",11.20,22.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,2,1,01,1,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-134,214,0,1.10,"Tucker, PJ",3.00,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,6,14,1,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",13,198,2,2.10,"Green, Gerald",4.50,15.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,3,4,15,0,"Jump Shot","2PT Field Goal",17,"Phoenix Suns",154,83,0,0.90,"Morris, Marcus",4.30,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,1,7,56,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",81,170,0,0.90,"McRoberts, Josh",6.60,15.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,1,3,52,1,"Jump Shot","2PT Field Goal",21,"Charlotte Hornets",177,118,0,1.40,"Henderson, Gerald",6.50,20.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,2,1,00,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",-19,244,0,1.00,"Tolliver, Anthony",11.20,9.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,7,54,0,"Jump Shot","3PT Field Goal",23,"San Antonio Spurs",-235,-14,0,1.00,"Parker, Tony",4.90,7.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,5,41,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",72,164,1,1.50,"Duncan, Tim",5.60,7.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,4,2,39,0,"Jump Shot","2PT Field Goal",17,"San Antonio Spurs",-153,85,1,3.00,"De Colo, Nando",3.10,14.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,1,4,16,0,"Jump Shot","2PT Field Goal",9,"Sacramento Kings",84,53,1,1.40,"Thomas, Isaiah",2.70,8.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,2,1,13,1,"Jump Shot","2PT Field Goal",13,"Sacramento Kings",88,101,0,1.00,"Thornton, Marcus",2.50,10.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,10,38,0,"Jump Shot","2PT Field Goal",16,"Sacramento Kings",-130,108,0,0.50,"Thornton, Marcus",2.60,19.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,6,34,0,"Jump Shot","2PT Field Goal",15,"Sacramento Kings",23,154,1,1.40,"Thornton, Marcus",2.80,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,2,2,48,0,"Jump Shot","3PT Field Goal",22,"Toronto Raptors",-228,-9,0,1.00,"Ross, Terrence",4.20,19.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,4,7,01,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-209,132,0,1.20,"Vasquez, Greivis",4.00,15.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,4,1,27,1,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",-81,252,0,1.30,"Lowry, Kyle",4.10,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,4,0,08,1,"Jump Shot","2PT Field Goal",21,"Toronto Raptors",-172,121,1,2.90,"Ross, Terrence",3.90,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,4,0,00,1,"Jump Shot","2PT Field Goal",20,"Toronto Raptors",-139,148,0,1.10,"Ross, Terrence",3.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,8,15,1,"Jump Shot","2PT Field Goal",11,"Utah Jazz",-68,89,0,0.70,"Burks, Alec",5.10,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,2,3,29,1,"Jump Shot","2PT Field Goal",10,"Utah Jazz",-101,17,0,0.90,"Clark, Ian",5.00,4.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,2,0,02,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-174,179,0,1.10,"Clark, Ian",3.40,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,10,22,1,"Jump Shot","3PT Field Goal",23,"Utah Jazz",138,194,0,1.60,"Hayward, Gordon",4.70,13.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,9,44,1,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-125,214,0,1.70,"Jefferson, Richard",3.50,15.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,5,50,0,"Jump Shot","2PT Field Goal",11,"Utah Jazz",4,110,3,5.30,"Burks, Alec",1.90,4.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,2,0,01,0,"Jump Shot","3PT Field Goal",24,"Utah Jazz",-101,219,3,3.20,"Burke, Trey",4.40,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,5,01,1,"Jump Shot","2PT Field Goal",15,"Utah Jazz",-158,3,0,0.10,"Burks, Alec",1.10,23.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,4,25,1,"Jump Shot","2PT Field Goal",3,"Utah Jazz",2,39,0,1.10,"Burks, Alec",2.60,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,2,1,42,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",155,190,0,1.10,"Carroll, DeMarre",5.90,14.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,4,55,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",-224,11,0,0.90,"Chalmers, Mario",6.30,18.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,5,59,0,"Jump Shot","2PT Field Goal",11,"Denver Nuggets",70,86,5,6.80,"Miller, Andre",2.40,8.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,3,9,13,0,"Jump Shot","2PT Field Goal",4,"Utah Jazz",-37,28,11,9.50,"Williams, Marvin",2.70,14.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,4,3,37,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",-250,9,1,1.50,"Middleton, Khris",5.90,19.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,8,48,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",155,74,1,3.20,"Gordon, Eric",4.10,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,4,15,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",147,203,1,1.10,"McCallum, Ray",5.80,14.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,1,11,26,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-183,176,0,0.80,"Sefolosha, Thabo",11.10,8.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,1,11,07,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",73,142,5,4.80,"Dudley, Jared",2.20,11.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,10,30,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-146,213,0,1.20,"Singler, Kyle",6.20,18.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,1,10,40,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-144,28,0,0.40,"Paul, Chris",3.00,23.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,2,4,04,0,"Jump Shot","2PT Field Goal",10,"Charlotte Hornets",47,93,5,5.70,"Neal, Gary",3.00,9.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,3,0,07,0,"Jump Shot","2PT Field Goal",18,"Golden State Warriors",181,37,1,2.70,"Iguodala, Andre",2.70,7.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,3,8,17,0,"Jump Shot","2PT Field Goal",15,"Los Angeles Lakers",-152,15,3,3.80,"Meeks, Jodie",1.30,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,4,3,17,0,"Jump Shot","2PT Field Goal",8,"Boston Celtics",-15,82,4,5.40,"Bradley, Avery",1.10,4.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,3,11,44,0,"Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",95,101,2,3.10,"Sefolosha, Thabo",0.70,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,10,28,0,"Jump Shot","2PT Field Goal",19,"Memphis Grizzlies",-193,-2,0,0.90,"Prince, Tayshaun",7.40,19.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,2,1,18,0,"Jump Shot","3PT Field Goal",25,"Washington Wizards",-161,201,0,2.10,"Webster, Martell",3.20,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,3,8,51,0,"Jump Shot","3PT Field Goal",25,"Detroit Pistons",-98,235,0,1.40,"Jerebko, Jonas",3.90,17.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,4,1,51,0,"Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",-59,135,7,4.80,"Redick, JJ",2.50,12.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,6,26,0,"Jump Shot","2PT Field Goal",6,"Portland Trail Blazers",-67,19,1,1.80,"Lopez, Robin",2.30,11.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,3,10,23,0,"Jump Shot","3PT Field Goal",26,"Washington Wizards",116,238,0,1.00,"Beal, Bradley",3.90,18.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-05,2013,2394,1610612750,400489784,2,4,34,0,"Jump Shot","2PT Field Goal",5,"New York Knicks",-48,33,3,3.20,"Smith, J.R.",3.10,15.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,3,8,45,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-217,118,0,0.80,"Paul, Chris",3.30,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,2,53,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-198,140,0,0.90,"Johnson, Wesley",3.50,20.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,3,11,06,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-229,55,2,1.00,"Foye, Randy",3.60,15.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,7,47,0,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-4,9,0,1.00,"Lee, Courtney",2.10,16.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,2,1,13,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",12,0,0,0.60,"Pachulia, Zaza",2.70,14.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,3,46,1,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",0,3,1,1.50,"Iguodala, Andre",6.40,21.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,1,5,14,1,"Layup Shot","2PT Field Goal",2,"Phoenix Suns",21,6,0,1.10,"Plumlee, Miles",3.00,21.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,2,31,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-13,-10,3,3.70,"Joseph, Cory",0.90,10.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,2,5,05,0,"Layup Shot","2PT Field Goal",2,"Utah Jazz",26,7,2,2.10,"Hayward, Gordon",1.90,10.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,1,6,58,1,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",20,19,0,1.10,"McLemore, Ben",5.40,14.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,3,8,40,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",-13,4,1,3.00,"Foye, Randy",1.50,11.10
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,8,36,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",-19,6,0,1.20,"Prince, Tayshaun",2.50,20.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,5,18,1,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",28,-3,0,1.30,"Middleton, Khris",1.30,19.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,2,38,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",2,7,4,3.70,"Faried, Kenneth",2.40,19.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,3,4,07,1,"Layup Shot","2PT Field Goal",1,"Utah Jazz",15,11,0,1.10,"Evans, Jeremy",9.20,20.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,4,54,1,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",4,0,0,0.40,"Knight, Brandon",3.50,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,6,32,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-21,-13,2,2.30,"Leonard, Kawhi",0.30,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,3,9,51,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",12,17,0,1.00,"Fisher, Derek",5.00,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,7,01,1,"Layup Shot","2PT Field Goal",1,"Boston Celtics",10,12,0,0.30,"Bradley, Avery",2.20,10.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,3,33,1,"Layup Shot","2PT Field Goal",0,"Boston Celtics",7,3,1,1.20,"Olynyk, Kelly",1.00,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,1,11,41,1,"Layup Shot","2PT Field Goal",1,"Washington Wizards",9,6,2,5.20,"Beal, Bradley",3.00,8.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,1,9,34,1,"Layup Shot","2PT Field Goal",0,"Washington Wizards",-2,0,0,0.50,"Beal, Bradley",4.90,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,5,4,00,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-13,11,0,0.60,"Nowitzki, Dirk",1.10,12.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-19,2013,2394,1610612750,400489029,4,1,57,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-18,4,6,7.00,"Gortat, Marcin",2.40,18.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,3,05,1,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",0,4,1,1.10,"McCallum, Ray",0.20,20.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,9,20,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",6,4,0,0.00,"Aminu, Al-Farouq",3.50,21.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,1,47,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-18,17,8,10.10,"Miller, Darius",3.90,14.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,1,7,36,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",23,14,0,1.20,"Crawford, Jordan",1.30,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,1,5,54,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",18,9,0,0.70,"Burks, Alec",1.70,5.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,2,4,56,0,"Layup Shot","2PT Field Goal",3,"Houston Rockets",6,31,0,1.60,"Howard, Dwight",4.50,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,1,6,44,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",9,15,0,1.00,"Sefolosha, Thabo",1.50,11.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,6,55,0,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-2,23,1,3.60,"Ibaka, Serge",1.50,22.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,3,6,50,1,"Layup Shot","2PT Field Goal",2,"Utah Jazz",18,11,0,1.00,"Burke, Trey",2.90,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,9,55,0,"Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",-8,6,0,1.60,"Wroten, Tony",3.40,21.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,2,08,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",9,11,0,0.80,"Iguodala, Andre",2.90,14.10
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,1,10,46,0,"Layup Shot","2PT Field Goal",2,"Golden State Warriors",-15,14,1,2.00,"Barnes, Harrison",2.60,20.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,4,6,12,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",6,3,0,0.00,"Lee, Courtney",1.30,12.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,1,0,40,1,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",9,1,0,1.00,"Lee, David",8.20,20.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,3,8,53,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",17,19,1,1.80,"Jones, Terrence",2.40,20.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,6,10,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",13,12,0,0.90,"Thornton, Marcus",1.80,20.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-06,2013,2394,1610612750,400489378,3,3,17,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-7,28,0,0.50,"Anderson, James",3.60,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,3,2,02,1,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",0,11,0,0.50,"Lee, Courtney",0.70,7.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,3,4,29,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",21,15,0,1.70,"Adrien, Jeff",2.20,10.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,11,08,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,0,0,1.50,"Dalembert, Samuel",2.90,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,3,0,24,0,"Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-19,-24,0,0.50,"Livingston, Shaun",3.50,15.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,11,49,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",17,1,0,0.80,"Thompson, Jason",3.80,15.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,6,23,0,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-8,3,0,0.60,"Ellis, Monta",2.50,23.90
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,2,11,23,0,"Layup Shot","2PT Field Goal",1,"Orlando Magic",12,6,0,1.20,"Afflalo, Arron",3.60,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,4,49,1,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",1,11,0,0.90,"Robinson, Nate",2.90,21.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,7,07,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-18,0,4,4.80,"Raduljica, Miroslav",1.30,9.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,1,5,43,1,"Layup Shot","2PT Field Goal",0,"Dallas Mavericks",7,7,0,1.00,"Calderon, Jose",3.70,14.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,3,26,1,"Layup Shot","2PT Field Goal",0,"New Orleans Pelicans",-4,4,0,1.20,"Stiemsma, Greg",0.80,24.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,1,9,54,0,"Layup Shot","2PT Field Goal",2,"Indiana Pacers",-21,19,0,0.30,"Hibbert, Roy",2.00,23.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,2,7,08,0,"Layup Shot","2PT Field Goal",2,"Brooklyn Nets",-29,-6,3,2.70,"Anderson, Alan",1.70,19.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,2,2,41,1,"Layup Shot","2PT Field Goal",1,"New York Knicks",-11,3,0,0.60,"Hardaway Jr., Tim",3.50,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,4,1,11,0,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-4,12,0,0.90,"McLemore, Ben",2.60,10.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,3,9,11,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",-1,0,1,1.80,"Ilyasova, Ersan",2.10,20.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,3,5,04,0,"Layup Shot","2PT Field Goal",1,"Utah Jazz",-5,17,0,0.70,"Burks, Alec",1.80,15.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,11,10,0,"Layup Shot","2PT Field Goal",1,"Atlanta Hawks",7,9,0,0.40,"Carroll, DeMarre",1.40,10.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,9,47,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",10,4,0,0.70,"Singler, Kyle",4.40,22.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,11,48,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",16,14,0,5.10,"Bradley, Avery",2.30,19.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,1,4,05,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",2,11,0,0.90,"Sacre, Robert",2.90,9.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,1,9,23,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,0,0,1.00,"Meeks, Jodie",7.90,21.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,2,11,45,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",6,3,0,0.50,"Caldwell-Pope, Kentavious",4.70,13.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,6,41,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Clippers",0,4,0,0.40,"Jordan, DeAndre",5.00,13.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,2,2,33,1,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",1,0,1,1.30,"Jennings, Brandon",0.80,21.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,2,29,1,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,4,1,1.60,"Harris, Manny",17.10,21.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,9,02,0,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",26,4,3,4.60,"Foye, Randy",1.80,9.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,1,5,34,1,"Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-4,6,0,0.80,"Green, Danny",2.00,12.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-13,2013,2394,1610612750,400489211,3,3,01,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",15,7,1,1.30,"Belinelli, Marco",1.70,21.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-10,2013,2394,1610612750,400489188,3,9,14,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-2,-8,4,3.70,"Singler, Kyle",1.20,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,10,35,0,"Layup Shot","2PT Field Goal",0,"Sacramento Kings",-2,7,0,0.30,"Thornton, Marcus",0.80,23.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,1,8,55,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",-5,14,0,0.50,"Plumlee, Miles",1.20,12.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,2,7,12,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-2,4,2,2.60,"Hill, Jordan",3.30,7.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,1,0,29,1,"Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",1,0,0,1.00,"Williams, Mo",3.60,21.10
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,9,59,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-8,6,0,0.60,"Johnson, Wesley",4.90,19.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,1,9,19,1,"Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-8,4,0,1.00,"Lee, Courtney",5.50,21.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,5,35,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",7,12,7,8.00,"Kaman, Chris",0.20,16.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,1,9,29,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-13,1,2,2.20,"Duncan, Tim",2.60,9.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,2,2,40,1,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-7,11,0,0.30,"Henderson, Gerald",3.40,15.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,8,09,0,"Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",-15,15,6,4.60,"Wolters, Nate",4.00,15.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,3,10,26,0,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-4,19,3,4.80,"Marion, Shawn",2.80,6.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,3,26,1,"Layup Shot","2PT Field Goal",0,"Toronto Raptors",-7,6,0,0.70,"DeRozan, DeMar",4.40,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-13,2013,2394,1610612750,400490075,1,4,19,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-21,7,0,0.00,"McLemore, Ben",1.90,11.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,1,20,1,"Layup Shot","2PT Field Goal",0,"Utah Jazz",9,3,0,0.40,"Favors, Derrick",2.90,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,4,0,09,0,"Layup Shot","2PT Field Goal",1,"Memphis Grizzlies",12,0,4,3.70,"Prince, Tayshaun",1.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,4,37,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",20,9,8,8.00,"Gasol, Pau",2.50,17.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,6,30,0,"Layup Shot","2PT Field Goal",0,"Golden State Warriors",-4,9,1,2.30,"Thompson, Klay",3.40,16.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,2,45,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-8,-8,0,0.90,"Lamb, Jeremy",3.50,18.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,4,4,47,0,"Layup Shot","2PT Field Goal",1,"Milwaukee Bucks",-16,3,0,0.60,"Antetokounmpo, Giannis",2.80,10.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,3,6,09,1,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-11,12,0,0.60,"Jackson, Reggie",1.60,15.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,6,50,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",0,28,0,4.00,"Dudley, Jared",6.60,1.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,3,9,10,0,"Layup Shot","2PT Field Goal",2,"Toronto Raptors",9,20,2,2.60,"Valanciunas, Jonas",0.30,13.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,2,3,40,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",12,6,2,4.10,"Henderson, Gerald",0.70,21.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,10,17,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",0,14,0,0.70,"Jennings, Brandon",3.40,20.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,3,3,26,1,"Pullup Jump shot","2PT Field Goal",18,"Charlotte Hornets",-93,159,1,2.20,"Sessions, Ramon",2.90,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,1,6,04,1,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",-71,146,1,1.40,"Gordon, Eric",1.90,14.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,1,5,34,0,"Pullup Jump shot","2PT Field Goal",15,"Indiana Pacers",1,153,3,4.30,"Hill, George",3.20,20.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-25,2013,2394,1610612750,400489076,1,7,51,1,"Pullup Jump shot","2PT Field Goal",17,"Indiana Pacers",7,178,5,5.00,"Stephenson, Lance",8.20,17.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,2,7,08,0,"Pullup Jump shot","2PT Field Goal",15,"Dallas Mavericks",4,151,0,0.60,"Ellis, Monta",3.40,10.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,5,2,40,1,"Pullup Jump shot","2PT Field Goal",20,"Los Angeles Clippers",-68,194,1,1.90,"Paul, Chris",9.10,3.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,4,10,1,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Clippers",-112,105,2,2.10,"Dudley, Jared",4.00,9.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,3,5,44,1,"Pullup Jump shot","2PT Field Goal",9,"Los Angeles Clippers",-46,85,1,1.80,"Dudley, Jared",0.60,16.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,3,7,43,0,"Pullup Jump shot","3PT Field Goal",24,"Denver Nuggets",-150,198,2,3.80,"Faried, Kenneth",8.80,19.50
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,1,4,47,0,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",-10,145,2,1.80,"Burks, Alec",3.30,13.90
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,2,45,1,"Pullup Jump shot","2PT Field Goal",19,"Los Angeles Lakers",-174,80,1,1.60,"Johnson, Wesley",5.40,16.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,6,16,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Lakers",-142,20,2,2.40,"Meeks, Jodie",2.00,4.30
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,8,11,0,"Pullup Jump shot","2PT Field Goal",15,"Los Angeles Lakers",18,154,2,2.40,"Nash, Steve",3.10,13.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,7,04,0,"Pullup Jump shot","2PT Field Goal",17,"Denver Nuggets",-149,89,3,3.00,"Arthur, Darrell",2.70,17.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,5,39,1,"Pullup Jump shot","2PT Field Goal",16,"Utah Jazz",-97,131,2,2.10,"Burks, Alec",4.00,9.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,3,3,06,1,"Pullup Jump shot","2PT Field Goal",21,"Phoenix Suns",-59,209,1,3.60,"Dragic, Goran",3.50,7.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,7,36,0,"Pullup Jump shot","2PT Field Goal",15,"Atlanta Hawks",-150,42,9,10.40,"Carroll, DeMarre",3.10,14.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,4,4,19,1,"Pullup Jump shot","2PT Field Goal",16,"Chicago Bulls",-164,-27,0,0.00,,0.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,4,10,03,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",-201,159,0,1.20,"Speights, Marreese",9.90,10.50
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,4,4,56,0,"Pullup Jump shot","2PT Field Goal",19,"Orlando Magic",-147,131,1,2.00,"Oladipo, Victor",4.80,8.20
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,3,9,10,1,"Pullup Jump shot","2PT Field Goal",19,"Golden State Warriors",-172,85,0,1.20,"Barnes, Harrison",6.40,11.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,4,4,55,0,"Pullup Jump shot","2PT Field Goal",19,"Houston Rockets",-191,47,10,9.40,"Lin, Jeremy",3.00,13.60
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,5,22,0,"Pullup Jump shot","2PT Field Goal",12,"Los Angeles Lakers",-4,121,1,1.80,"Sacre, Robert",3.70,13.60
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,3,11,48,1,"Pullup Jump shot","2PT Field Goal",18,"Golden State Warriors",-106,154,1,1.70,"Barnes, Harrison",5.80,14.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,2,4,11,1,"Pullup Jump shot","2PT Field Goal",14,"Utah Jazz",-64,132,1,1.60,"Clark, Ian",2.30,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,11,18,0,"Pullup Jump shot","2PT Field Goal",20,"New Orleans Pelicans",-78,192,8,7.20,"Gordon, Eric",3.70,17.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,2,0,37,0,"Pullup Jump shot","2PT Field Goal",14,"Phoenix Suns",105,96,4,4.60,"Tucker, PJ",3.50,18.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,4,38,1,"Pullup Jump shot","2PT Field Goal",19,"San Antonio Spurs",-105,162,7,7.70,"Belinelli, Marco",3.90,15.90
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,1,3,58,1,"Pullup Jump shot","3PT Field Goal",23,"Golden State Warriors",-237,1,0,1.30,"Green, Draymond",10.20,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,1,1,54,1,"Pullup Jump shot","2PT Field Goal",18,"Toronto Raptors",-152,110,2,2.30,"Hayes, Charles",5.60,20.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,1,4,30,0,"Pullup Jump shot","2PT Field Goal",18,"Washington Wizards",-73,175,7,7.00,Nene,8.30,15.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,3,7,54,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",21,159,8,7.20,"Scott, Mike",6.50,17.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-12,2013,2394,1610612750,400489427,3,9,07,0,"Pullup Jump shot","2PT Field Goal",13,"San Antonio Spurs",0,134,2,1.70,"Duncan, Tim",6.80,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,5,02,1,"Pullup Jump shot","2PT Field Goal",12,"Utah Jazz",-117,28,4,4.10,"Burks, Alec",4.20,16.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,4,6,06,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",100,228,4,5.90,"Lin, Jeremy",1.80,17.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,3,11,06,1,"Putback Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-8,0,0,0.00,"Hill, Jordan",1.30,24.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,1,9,29,1,"Putback Layup Shot","2PT Field Goal",1,"Denver Nuggets",6,14,0,0.20,"Foye, Randy",1.50,24.00
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,4,6,41,1,"Reverse Layup Shot","2PT Field Goal",2,"Orlando Magic",21,4,10,12.20,"Afflalo, Arron",3.40,12.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-20,2013,2394,1610612750,400489892,1,1,33,0,"Reverse Layup Shot","2PT Field Goal",3,"Houston Rockets",32,6,0,0.70,"Beverley, Patrick",2.30,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-01,2013,2394,1610612750,400489754,2,1,00,0,"Reverse Layup Shot","2PT Field Goal",3,"Sacramento Kings",36,6,0,0.80,"McCallum, Ray",1.20,15.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,6,32,1,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",1,11,0,0.70,"Young, Nick",1.30,21.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,1,10,07,1,"Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-13,11,0,0.80,"Iguodala, Andre",3.80,10.20
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,1,4,37,0,"Reverse Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",15,6,2,2.60,"Perkins, Kendrick",5.10,22.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-28,2013,2394,1610612750,400489954,3,8,30,0,"Reverse Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",13,-3,0,0.60,"Bazemore, Kent",5.10,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,3,7,20,0,"Reverse Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-7,-5,0,1.20,"Irving, Kyrie",5.10,21.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,3,9,40,0,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-26,7,0,0.00,"Meeks, Jodie",2.80,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,8,55,1,"Reverse Layup Shot","2PT Field Goal",0,"Detroit Pistons",-7,4,0,1.20,"Jennings, Brandon",1.10,20.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,1,5,08,0,"Running Bank shot","2PT Field Goal",9,"New Orleans Pelicans",-84,39,6,5.90,"Aminu, Al-Farouq",2.30,15.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,5,19,1,"Running Bank shot","2PT Field Goal",7,"Los Angeles Clippers",-51,53,3,2.50,"Redick, JJ",2.00,13.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,1,2,22,1,"Running Bank shot","2PT Field Goal",3,"Oklahoma City Thunder",-30,4,3,2.80,"Adams, Steven",1.80,14.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-22,2013,2394,1610612750,400489279,1,6,26,1,"Running Bank shot","2PT Field Goal",10,"Los Angeles Clippers",94,53,2,2.40,"Dudley, Jared",4.40,16.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,9,06,1,"Running Bank shot","2PT Field Goal",5,"Sacramento Kings",47,28,3,3.00,"Thomas, Isaiah",1.80,20.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,2,0,54,1,"Running Dunk Shot","2PT Field Goal",1,"Atlanta Hawks",12,1,0,1.00,"Teague, Jeff",6.30,21.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-21,2013,2394,1610612750,400489493,1,2,02,0,"Running Jump Shot","2PT Field Goal",4,"Utah Jazz",1,47,0,3.20,"Hayward, Gordon",7.50,24.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,3,5,05,0,"Running Jump Shot","2PT Field Goal",4,"Denver Nuggets",40,28,4,4.40,"Hickson, JJ",2.50,16.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-01,2013,2394,1610612750,400488900,1,5,58,0,"Running Jump Shot","2PT Field Goal",12,"Oklahoma City Thunder",-119,33,4,5.40,"Sefolosha, Thabo",1.50,8.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,3,3,51,0,"Running Jump Shot","2PT Field Goal",15,"Golden State Warriors",-130,78,0,0.60,"Iguodala, Andre",2.30,6.00
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,5,2,36,1,"Running Jump Shot","2PT Field Goal",17,"Orlando Magic",-2,170,4,3.30,"Oladipo, Victor",5.80,7.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,2,3,13,0,"Running Jump Shot","2PT Field Goal",11,"Dallas Mavericks",-98,53,2,2.60,"Crowder, Jae",3.30,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,0,49,0,"Running Jump Shot","2PT Field Goal",4,"Los Angeles Clippers",39,22,1,3.40,"Barnes, Matt",4.30,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,6,1,35,0,"Running Jump Shot","2PT Field Goal",11,"Utah Jazz",-103,52,6,6.60,"Hayward, Gordon",1.70,10.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,3,3,21,0,"Running Jump Shot","2PT Field Goal",9,"New Orleans Pelicans",-89,20,4,4.90,"Rivers, Austin",1.90,15.10
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,5,1,00,1,"Running Jump Shot","2PT Field Goal",8,"Utah Jazz",31,77,2,2.40,"Jefferson, Richard",3.40,19.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,4,10,24,1,"Running Jump Shot","2PT Field Goal",6,"Memphis Grizzlies",18,58,3,3.20,"Miller, Mike",2.20,18.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,3,10,57,1,"Running Jump Shot","2PT Field Goal",12,"Los Angeles Clippers",-111,53,3,1.90,"Redick, JJ",2.80,12.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,3,01,0,"Running Jump Shot","2PT Field Goal",5,"Denver Nuggets",1,50,1,3.60,"Mozgov, Timofey",1.30,13.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,4,4,34,1,"Running Jump Shot","2PT Field Goal",11,"Utah Jazz",28,112,2,6.20,"Favors, Derrick",3.70,11.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,2,6,42,0,"Running Jump Shot","2PT Field Goal",8,"Atlanta Hawks",83,11,4,5.10,"Williams, Louis",5.80,16.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,4,04,1,"Running Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",12,77,1,1.70,"Stiemsma, Greg",3.30,13.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,3,3,57,0,"Running Jump Shot","2PT Field Goal",15,"Denver Nuggets",-139,78,3,3.30,"Robinson, Nate",3.10,12.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,1,8,22,1,"Running Jump Shot","2PT Field Goal",9,"Los Angeles Clippers",40,82,0,1.50,"Redick, JJ",2.90,12.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,4,0,17,0,"Running Jump Shot","2PT Field Goal",12,"Memphis Grizzlies",-120,25,1,2.10,"Prince, Tayshaun",4.80,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,1,11,01,0,"Running Jump Shot","2PT Field Goal",16,"Denver Nuggets",-168,22,3,4.80,"Foye, Randy",3.00,12.90
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,1,2,05,0,"Running Jump Shot","2PT Field Goal",7,"Brooklyn Nets",72,11,3,5.50,"Plumlee, Mason",2.70,8.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,7,58,1,"Running Jump Shot","2PT Field Goal",16,"Houston Rockets",78,146,3,3.50,"Lin, Jeremy",1.80,10.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,1,6,31,1,"Running Jump Shot","2PT Field Goal",11,"Oklahoma City Thunder",0,116,1,1.80,"Sefolosha, Thabo",3.60,15.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,3,1,23,0,"Running Jump Shot","2PT Field Goal",4,"Portland Trail Blazers",32,34,1,2.00,"Lillard, Damian",2.00,16.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,4,10,12,1,"Running Jump Shot","2PT Field Goal",7,"Houston Rockets",70,0,5,4.50,"Garcia, Francisco",4.10,20.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,2,5,29,1,"Running Jump Shot","2PT Field Goal",14,"Denver Nuggets",-89,113,1,1.40,"Fournier, Evan",2.00,17.30
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,4,8,42,1,"Running Jump Shot","2PT Field Goal",9,"Denver Nuggets",95,23,7,7.10,"Hamilton, Jordan",3.70,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,4,7,08,0,"Running Jump Shot","2PT Field Goal",11,"Sacramento Kings",-116,22,4,3.80,"McLemore, Ben",3.30,11.80
+"Kevin Martin","Minnesota Timberwolves",2014-03-30,2013,2394,1610612750,400489968,2,2,09,1,"Running Jump Shot","2PT Field Goal",4,"Brooklyn Nets",17,42,3,2.60,"Anderson, Alan",2.00,5.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,8,26,0,"Running Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",6,60,1,1.20,"Young, Thaddeus",1.10,12.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,1,5,11,1,"Running Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-26,146,1,1.40,"Sefolosha, Thabo",3.30,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-27,2013,2394,1610612750,400489537,4,3,26,0,"Running Jump Shot","2PT Field Goal",6,"Chicago Bulls",-16,67,0,0.00,,0.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,3,19,1,"Running Jump Shot","2PT Field Goal",7,"Miami Heat",75,25,3,4.70,"Allen, Ray",1.80,13.20
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,3,3,27,0,"Running Jump Shot","2PT Field Goal",8,"Charlotte Hornets",26,86,2,4.00,"Kidd-Gilchrist, Michael",2.10,10.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,2,0,01,0,"Running Jump Shot","2PT Field Goal",14,"Oklahoma City Thunder",-141,47,2,2.90,"Sefolosha, Thabo",2.10,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,2,2,51,0,"Running Jump Shot","2PT Field Goal",11,"Portland Trail Blazers",-78,82,4,6.80,"Matthews, Wesley",0.50,8.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,2,0,02,1,"Running Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",-16,48,20,18.10,"Prince, Tayshaun",3.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,5,41,1,"Running Jump Shot","2PT Field Goal",15,"Memphis Grizzlies",-131,85,1,2.50,"Lee, Courtney",2.00,11.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,1,8,16,0,"Running Jump Shot","2PT Field Goal",12,"New Orleans Pelicans",-119,33,6,5.80,"Aminu, Al-Farouq",2.60,16.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-23,2013,2394,1610612750,400489914,2,2,06,1,"Running Jump Shot","2PT Field Goal",8,"Phoenix Suns",-15,80,4,4.80,"Dragic, Goran",2.80,2.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,3,7,24,1,"Running Jump Shot","2PT Field Goal",11,"Washington Wizards",4,112,1,1.80,"Beal, Bradley",3.20,12.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,7,28,0,"Running Jump Shot","2PT Field Goal",4,"Houston Rockets",4,48,5,5.50,"Lin, Jeremy",1.90,16.40
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,9,39,1,"Running Jump Shot","2PT Field Goal",5,"Los Angeles Lakers",1,58,2,4.50,"Blake, Steve",0.60,5.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,4,40,0,"Running Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-116,72,1,2.20,"Marshall, Kendall",1.90,8.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,2,4,21,1,"Running Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-100,56,1,1.80,"Gordon, Eric",2.90,19.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,1,32,1,"Running Jump Shot","2PT Field Goal",8,"Sacramento Kings",83,11,8,8.50,"Outlaw, Travis",8.90,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,9,12,0,"Running Jump Shot","2PT Field Goal",14,"Toronto Raptors",13,145,1,3.40,"Lowry, Kyle",4.20,15.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,4,3,07,1,"Running Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",23,64,4,5.80,"Morrow, Anthony",2.40,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,2,7,53,1,"Running Jump Shot","2PT Field Goal",6,"Oklahoma City Thunder",67,17,2,2.00,"Lamb, Jeremy",1.40,9.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-14,2013,2394,1610612750,400489844,3,9,28,1,"Running Jump Shot","2PT Field Goal",14,"Charlotte Hornets",-136,50,1,1.80,"Kidd-Gilchrist, Michael",4.90,15.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,1,0,00,0,"Running Jump Shot","2PT Field Goal",10,"Sacramento Kings",0,105,1,1.50,"McCallum, Ray",1.50,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,10,24,0,"Running Jump Shot","2PT Field Goal",3,"Houston Rockets",-4,37,6,4.60,"Lin, Jeremy",1.60,6.80
+"Kevin Martin","Minnesota Timberwolves",2013-12-11,2013,2394,1610612750,400489195,1,1,57,0,"Running Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",-72,9,4,3.40,"Anderson, James",2.50,8.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,1,36,0,"Running Jump Shot","2PT Field Goal",14,"Dallas Mavericks",-15,140,6,4.80,"Marion, Shawn",3.30,5.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,4,0,13,1,"Running Jump Shot","2PT Field Goal",10,"Detroit Pistons",-100,36,2,3.00,"Caldwell-Pope, Kentavious",2.00,2.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-11,2013,2394,1610612750,400488979,1,8,23,0,"Running Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",81,115,4,6.00,"Redick, JJ",6.10,0.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,1,12,1,"Running Jump Shot","2PT Field Goal",8,"Sacramento Kings",-5,85,0,0.20,"Thompson, Jason",3.20,19.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,5,24,0,"Running Jump Shot","2PT Field Goal",8,"Denver Nuggets",-75,30,3,2.60,"Foye, Randy",3.30,19.00
+"Kevin Martin","Minnesota Timberwolves",2013-10-30,2013,2394,1610612750,400488883,3,5,12,0,"Running Jump Shot","2PT Field Goal",7,"Orlando Magic",-46,63,1,1.30,"Oladipo, Victor",3.40,13.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,1,6,27,1,"Running Layup Shot","2PT Field Goal",0,"Oklahoma City Thunder",2,0,0,0.80,"Sefolosha, Thabo",0.60,12.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,1,9,46,1,"Running Layup Shot","2PT Field Goal",2,"Milwaukee Bucks",26,11,0,1.00,"Henson, John",2.90,17.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,3,8,41,1,"Running Layup Shot","2PT Field Goal",3,"Toronto Raptors",-8,30,0,0.60,"Ross, Terrence",2.50,14.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,4,0,02,0,"Running Layup Shot","2PT Field Goal",2,"Denver Nuggets",-21,14,3,2.70,"Chandler, Wilson",1.80,0.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,2,2,20,1,"Running Layup Shot","2PT Field Goal",0,"Atlanta Hawks",0,7,0,0.80,"Scott, Mike",4.90,16.50
+"Kevin Martin","Minnesota Timberwolves",2014-03-09,2013,2394,1610612750,400489813,1,4,41,1,"Running Layup Shot","2PT Field Goal",0,"Toronto Raptors",0,7,0,0.60,"Ross, Terrence",2.30,15.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,2,2,28,1,"Running Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",4,-2,0,1.20,"Lee, Courtney",2.00,21.70
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,1,6,08,1,"Running Layup Shot","2PT Field Goal",2,"Charlotte Hornets",21,12,1,2.00,"Walker, Kemba",3.90,15.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,6,05,1,"Running Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-2,7,0,0.50,"Ellis, Monta",2.90,15.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,2,1,39,1,"Running Reverse Layup Shot","2PT Field Goal",1,"Dallas Mavericks",18,-8,0,0.70,"Harris, Devin",0.50,16.30
+"Kevin Martin","Minnesota Timberwolves",2014-03-11,2013,2394,1610612750,400489827,2,6,44,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",4,6,0,0.90,"Pachulia, Zaza",2.90,9.80
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,1,6,38,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Atlanta Hawks",-2,0,0,1.00,"Carroll, DeMarre",1.90,18.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,5,15,1,"Running Tip Shot","2PT Field Goal",0,"Denver Nuggets",-4,6,0,0.00,"Chandler, Wilson",1.60,24.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,4,40,1,"Slam Dunk Shot","2PT Field Goal",1,"Sacramento Kings",-7,-10,0,1.60,"Thornton, Marcus",8.50,21.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,3,9,11,1,"Slam Dunk Shot","2PT Field Goal",1,"Los Angeles Lakers",-19,-5,0,0.70,"Hill, Jordan",5.00,17.40
+"Kevin Martin","Minnesota Timberwolves",2013-12-20,2013,2394,1610612750,400489264,1,5,33,1,"Slam Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",-5,0,0,0.60,"Gasol, Pau",3.90,2.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,3,9,37,1,"Slam Dunk Shot","2PT Field Goal",1,"Memphis Grizzlies",18,7,0,0.70,"Prince, Tayshaun",2.10,14.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-04,2013,2394,1610612750,400489366,2,6,05,0,"Step Back Jump shot","3PT Field Goal",23,"Oklahoma City Thunder",-237,25,3,3.80,"Lamb, Jeremy",5.00,6.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-28,2013,2394,1610612750,400489317,1,5,54,0,"Step Back Jump shot","2PT Field Goal",13,"Milwaukee Bucks",130,11,1,1.80,"Antetokounmpo, Giannis",4.30,13.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,3,3,22,0,"Step Back Jump shot","2PT Field Goal",21,"Detroit Pistons",-114,187,1,2.00,"Caldwell-Pope, Kentavious",5.40,7.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,2,1,47,0,"Step Back Jump shot","2PT Field Goal",19,"Sacramento Kings",-144,131,3,5.00,"Outlaw, Travis",5.00,8.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,1,3,45,0,"Step Back Jump shot","2PT Field Goal",18,"Detroit Pistons",-131,126,2,3.40,"Stuckey, Rodney",3.80,12.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,10,33,0,"Step Back Jump shot","3PT Field Goal",25,"Memphis Grizzlies",-60,246,6,6.20,"Lee, Courtney",4.50,16.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-05,2013,2394,1610612750,400489605,2,2,19,0,"Step Back Jump shot","2PT Field Goal",22,"Oklahoma City Thunder",-116,189,3,5.30,"Sefolosha, Thabo",4.10,7.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,3,44,0,"Step Back Jump shot","2PT Field Goal",17,"Los Angeles Clippers",-155,72,2,2.70,"Barnes, Matt",3.40,3.10
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,2,3,51,0,"Step Back Jump shot","2PT Field Goal",16,"Memphis Grizzlies",92,135,2,5.60,"Lee, Courtney",3.40,10.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,1,8,05,0,"Step Back Jump shot","2PT Field Goal",20,"Sacramento Kings",94,179,2,3.40,"Thornton, Marcus",3.70,8.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,4,8,48,0,"Step Back Jump shot","3PT Field Goal",24,"Memphis Grizzlies",-112,217,2,3.40,"Prince, Tayshaun",6.40,15.30
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,8,34,1,"Step Back Jump shot","3PT Field Goal",23,"Miami Heat",-218,99,6,4.70,"Battier, Shane",4.70,13.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-18,2013,2394,1610612750,400489249,3,9,36,0,"Step Back Jump shot","2PT Field Goal",18,"Portland Trail Blazers",154,104,6,6.30,"Aldridge, LaMarcus",6.00,7.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,2,6,14,1,"Step Back Jump shot","3PT Field Goal",24,"Oklahoma City Thunder",-196,154,1,1.90,"Westbrook, Russell",10.70,5.20
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,3,10,13,1,"Step Back Jump shot","2PT Field Goal",13,"Washington Wizards",136,11,1,1.90,"Gortat, Marcin",5.60,12.30
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,3,9,40,0,"Step Back Jump shot","3PT Field Goal",25,"Utah Jazz",-177,178,0,1.00,"Jefferson, Richard",3.30,13.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-01,2013,2394,1610612750,400489343,4,3,41,0,"Step Back Jump shot","2PT Field Goal",21,"New Orleans Pelicans",146,153,1,1.50,"Davis, Anthony",5.90,12.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-24,2013,2394,1610612750,400489518,2,3,02,1,"Tip Shot","2PT Field Goal",3,"Golden State Warriors",-5,30,0,0.00,"Curry, Stephen",5.00,23.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-26,2013,2394,1610612750,400489938,1,9,25,0,"Tip Shot","2PT Field Goal",1,"Atlanta Hawks",9,6,0,0.00,"Antic, Pero",2.30,24.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-20,2013,2394,1610612750,400489041,3,5,09,1,"Turnaround Bank shot","2PT Field Goal",11,"Los Angeles Clippers",99,55,2,4.00,"Redick, JJ",2.10,12.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,4,19,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"Houston Rockets",-149,9,7,6.90,"Lin, Jeremy",2.40,7.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-20,2013,2394,1610612750,400489892,1,10,28,1,"Turnaround Fadeaway shot","2PT Field Goal",5,"Houston Rockets",6,50,0,0.70,"Harden, James",3.70,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,2,3,44,0,"Turnaround Fadeaway shot","2PT Field Goal",14,"New York Knicks",-142,-8,1,2.60,"Felton, Raymond",2.00,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,4,9,31,0,"Turnaround Fadeaway shot","2PT Field Goal",12,"Boston Celtics",119,34,3,4.00,"Brooks, MarShon",2.10,8.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,1,4,02,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Dallas Mavericks",-134,33,3,3.20,"Calderon, Jose",2.20,11.60
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,3,4,27,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Memphis Grizzlies",-90,12,3,5.40,"Randolph, Zach",3.60,14.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-24,2013,2394,1610612750,400489924,3,3,40,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Memphis Grizzlies",-75,63,3,4.60,"Johnson, James",4.60,3.60
+"Kevin Martin","Minnesota Timberwolves",2014-01-10,2013,2394,1610612750,400489408,3,8,42,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Charlotte Hornets",-146,44,9,8.30,"Henderson, Gerald",3.70,4.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-03,2013,2394,1610612750,400489768,1,7,40,0,"Turnaround Fadeaway shot","2PT Field Goal",15,"Denver Nuggets",-152,14,10,10.10,"Foye, Randy",1.80,13.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-14,2013,2394,1610612750,400490086,1,3,05,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Golden State Warriors",-130,30,5,8.40,"Curry, Stephen",2.30,15.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-25,2013,2394,1610612750,400489526,1,7,58,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Portland Trail Blazers",-152,58,3,4.20,"Matthews, Wesley",2.50,16.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,1,10,1,"Turnaround Fadeaway shot","2PT Field Goal",13,"Memphis Grizzlies",-130,33,1,3.10,"Lee, Courtney",2.70,6.50
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,3,11,41,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Houston Rockets",86,99,1,5.70,"Lin, Jeremy",2.80,7.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-27,2013,2394,1610612750,400489304,3,2,56,1,"Turnaround Jump Shot","2PT Field Goal",14,"Washington Wizards",-138,47,4,4.40,"Ariza, Trevor",2.30,10.50
+"Kevin Martin","Minnesota Timberwolves",2014-01-31,2013,2394,1610612750,400489564,1,7,17,1,"Turnaround Jump Shot","2PT Field Goal",17,"Memphis Grizzlies",152,77,3,6.50,"Lee, Courtney",2.40,3.40
+"Kevin Martin","Minnesota Timberwolves",2014-03-31,2013,2394,1610612750,400489980,2,7,30,0,"Turnaround Jump Shot","2PT Field Goal",14,"Los Angeles Clippers",127,64,1,2.90,"Paul, Chris",0.20,2.40
+"Kevin Martin","Minnesota Timberwolves",2013-11-03,2013,2394,1610612750,400488918,1,7,46,1,"Turnaround Jump Shot","2PT Field Goal",16,"New York Knicks",149,80,2,3.10,"Felton, Raymond",3.40,0.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,3,4,32,1,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-139,71,1,2.20,"Robinson, Nate",4.30,8.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-27,2013,2394,1610612750,400489096,1,8,15,1,"Turnaround Jump Shot","2PT Field Goal",17,"Denver Nuggets",174,4,0,0.00,"Foye, Randy",4.10,5.10
+"Kevin Martin","Minnesota Timberwolves",2013-11-22,2013,2394,1610612750,400489055,3,11,03,1,"Turnaround Jump Shot","2PT Field Goal",15,"Brooklyn Nets",-134,78,2,5.10,"Johnson, Joe",2.50,2.90
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,2,2,44,1,"Turnaround Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-139,47,6,7.30,"Gordon, Eric",1.60,6.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,0,26,0,"Turnaround Jump Shot","2PT Field Goal",11,"Los Angeles Lakers",-29,113,6,4.50,"Johnson, Wesley",2.70,16.60
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,1,56,0,"Turnaround Jump Shot","2PT Field Goal",15,"Miami Heat",-141,52,3,3.40,"Allen, Ray",1.80,14.80
+"Kevin Martin","Minnesota Timberwolves",2013-11-23,2013,2394,1610612750,400489065,1,6,59,0,"Turnaround Jump Shot","2PT Field Goal",6,"Houston Rockets",47,50,4,6.00,"Lin, Jeremy",1.40,10.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,2,0,21,1,"Turnaround Jump Shot","2PT Field Goal",4,"Utah Jazz",36,28,1,1.80,"Burke, Trey",4.00,20.00
+"Kevin Martin","Minnesota Timberwolves",2014-03-16,2013,2394,1610612750,400489864,3,10,10,1,"Turnaround Jump Shot","2PT Field Goal",15,"Sacramento Kings",-153,20,4,4.90,"McLemore, Ben",3.80,7.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,4,2,39,0,"Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",-177,12,4,5.00,"Blake, Steve",0.90,0.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,3,5,46,0,"Turnaround Jump Shot","2PT Field Goal",18,"Miami Heat",132,129,1,7.10,"Wade, Dwyane",1.40,9.10
+"Kevin Martin","Minnesota Timberwolves",2014-01-29,2013,2394,1610612750,400489553,3,6,08,0,"Turnaround Jump Shot","2PT Field Goal",11,"New Orleans Pelicans",-116,17,1,1.60,"Gordon, Eric",3.20,9.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-08,2013,2394,1610612750,400489397,1,8,05,0,"Turnaround Jump Shot","2PT Field Goal",16,"Phoenix Suns",-60,157,2,3.20,"Green, Gerald",6.30,19.40
+"Kevin Martin","Minnesota Timberwolves",2014-01-18,2013,2394,1610612750,400489471,1,7,40,1,"Turnaround Jump Shot","2PT Field Goal",9,"Utah Jazz",-56,82,2,3.80,"Burks, Alec",2.80,11.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,1,9,54,1,"Turnaround Jump Shot","2PT Field Goal",6,"Boston Celtics",34,52,1,1.90,"Bradley, Avery",0.40,12.70
+"Kevin Martin","Minnesota Timberwolves",2013-12-07,2013,2394,1610612750,400489167,1,7,32,0,"Turnaround Jump Shot","2PT Field Goal",22,"Miami Heat",113,197,2,3.70,"Battier, Shane",4.30,7.00
+"Kevin Martin","Minnesota Timberwolves",2014-02-01,2013,2394,1610612750,400489572,1,3,08,0,"Turnaround Jump Shot","2PT Field Goal",12,"Atlanta Hawks",-122,36,0,1.40,"Williams, Louis",4.00,11.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,3,4,14,0,"Turnaround Jump Shot","2PT Field Goal",15,"Denver Nuggets",-153,31,2,3.20,"Fournier, Evan",1.80,8.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-15,2013,2394,1610612750,400489004,3,4,51,1,"Turnaround Jump Shot","2PT Field Goal",16,"Denver Nuggets",-158,47,7,6.10,"Foye, Randy",2.50,10.30
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,1,5,24,0,"Turnaround Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",-142,20,3,3.20,"Lee, Courtney",3.80,6.20
+"Kevin Martin","Minnesota Timberwolves",2013-11-04,2013,2394,1610612750,400488920,2,0,40,0,"Turnaround Jump Shot","2PT Field Goal",12,"Cleveland Cavaliers",-122,33,2,2.40,"Waiters, Dion",3.90,17.70
+"Kevin Martin","Minnesota Timberwolves",2014-03-19,2013,2394,1610612750,400489887,1,4,23,0,"Turnaround Jump Shot","2PT Field Goal",5,"Dallas Mavericks",-35,39,3,5.60,"Ellis, Monta",1.60,7.10
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,3,8,40,0,"Turnaround Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-161,17,1,2.40,"Blake, Steve",3.70,10.70
+"Kevin Martin","Minnesota Timberwolves",2013-11-16,2013,2394,1610612750,400489015,3,4,56,1,"Turnaround Jump Shot","2PT Field Goal",13,"Boston Celtics",-130,33,4,3.80,"Bradley, Avery",1.00,6.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-10,2013,2394,1610612750,400488970,1,9,18,1,"Turnaround Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",121,112,2,5.20,"Blake, Steve",1.40,10.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,4,11,45,0,"Turnaround Jump Shot","2PT Field Goal",13,"Oklahoma City Thunder",103,88,7,7.10,"Fisher, Derek",2.30,11.10
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,6,2,25,1,"Turnaround Jump Shot","2PT Field Goal",14,"Utah Jazz",-133,58,5,6.20,"Hayward, Gordon",5.70,7.60
+"Kevin Martin","Minnesota Timberwolves",2013-11-08,2013,2394,1610612750,400488953,4,0,52,1,"Turnaround Jump Shot","2PT Field Goal",16,"Dallas Mavericks",-164,22,1,3.20,"Ellington, Wayne",2.50,6.90
+"Kevin Martin","Minnesota Timberwolves",2014-03-07,2013,2394,1610612750,400489795,4,4,05,1,"Turnaround Jump Shot","2PT Field Goal",11,"Detroit Pistons",-106,47,3,3.40,"Caldwell-Pope, Kentavious",2.20,7.00
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,4,7,55,0,"Turnaround Jump Shot","2PT Field Goal",15,"Oklahoma City Thunder",-146,44,10,8.30,"Fisher, Derek",1.60,9.70
+"Kevin Martin","Minnesota Timberwolves",2014-04-02,2013,2394,1610612750,400489995,1,8,19,0,"Turnaround Jump Shot","2PT Field Goal",9,"Memphis Grizzlies",-98,15,0,1.10,"Conley, Mike",3.80,22.50
+"Kevin Martin","Minnesota Timberwolves",2013-12-30,2013,2394,1610612750,400489328,1,9,55,0,"Turnaround Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-120,26,3,4.70,"Ellis, Monta",2.20,3.00
+"Kevin Martin","Minnesota Timberwolves",2013-11-06,2013,2394,1610612750,400488940,2,4,03,1,"Turnaround Jump Shot","2PT Field Goal",15,"Golden State Warriors",135,71,1,1.00,"Iguodala, Andre",4.90,16.00
+"Kevin Martin","Minnesota Timberwolves",2014-04-16,2013,2394,1610612750,400490091,3,6,57,0,"Turnaround Jump Shot","2PT Field Goal",8,"Utah Jazz",-86,25,2,3.20,"Burks, Alec",1.20,7.70
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,2,2,14,1,"Turnaround Jump Shot","2PT Field Goal",16,"Los Angeles Lakers",-138,91,4,3.90,"Harris, Manny",1.60,9.80
+"Kevin Martin","Minnesota Timberwolves",2014-01-17,2013,2394,1610612750,400489457,1,9,50,0,"Turnaround Jump Shot","2PT Field Goal",6,"Toronto Raptors",-68,15,1,2.30,"Ross, Terrence",2.90,12.00
+"Kevin Martin","Minnesota Timberwolves",2014-01-15,2013,2394,1610612750,400489444,3,1,33,1,"Turnaround Jump Shot","2PT Field Goal",8,"Sacramento Kings",-57,69,4,6.10,"Thornton, Marcus",2.50,11.30
+"Kevin Martin","Minnesota Timberwolves",2014-02-04,2013,2394,1610612750,400489595,1,1,00,0,"Turnaround Jump Shot","2PT Field Goal",17,"Los Angeles Lakers",102,138,2,4.00,"Marshall, Kendall",2.40,14.90
+"Kevin Martin","Minnesota Timberwolves",2013-12-01,2013,2394,1610612750,400489126,4,11,11,0,"Turnaround Jump Shot","2PT Field Goal",7,"Oklahoma City Thunder",-46,58,3,3.30,"Fisher, Derek",2.40,12.00

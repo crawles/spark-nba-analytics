@@ -1,0 +1,1150 @@
+name,team_name,game_date,season,espn_player_id,team_id,espn_game_id,period,minutes_remaining,seconds_remaining,shot_made_flag,action_type,shot_type,shot_distance,opponent,x,y,dribbles,touch_time,defender_name,defender_distance,shot_clock
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,2,9,46,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,3,8,43,0,"Alley Oop Dunk Shot","2PT Field Goal",1,"Orlando Magic",6,8,0,4.60,"Vucevic, Nikola",4.20,19.20
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,3,6,40,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,0,3.10,"Thomas, Lance",2.90,15.20
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,2,16,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,1,1,53,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,2,1,59,1,"Alley Oop Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,0.00,"Deng, Luol",6.10,20.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,2,2,10,0,"Alley Oop Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,1,10,46,1,"Alley Oop Layup shot","2PT Field Goal",1,"San Antonio Spurs",19,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,8,46,0,"Alley Oop Layup shot","2PT Field Goal",1,"Los Angeles Lakers",-14,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,1,8,13,1,"Alley Oop Layup shot","2PT Field Goal",1,"Dallas Mavericks",19,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,5,0,59,1,"Cutting Dunk Shot","2PT Field Goal",0,"Chicago Bulls",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,6,39,1,"Cutting Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,1,1.30,"Walker, Kemba",3.40,23.90
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,1,1,18,1,"Cutting Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,3,4,24,1,"Cutting Dunk Shot","2PT Field Goal",0,"Boston Celtics",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,3,5,18,1,"Cutting Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",9,-1,0,0.70,"Vonleh, Noah",5.20,21.30
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,2,44,1,"Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-9,-1,0,1.00,"Love, Kevin",1.60,14.30
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,1,5,54,1,"Cutting Layup Shot","2PT Field Goal",0,"Cleveland Cavaliers",-4,7,0,0.70,"Love, Kevin",3.60,21.20
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,5,18,1,"Driving Bank shot","2PT Field Goal",7,"Miami Heat",69,33,2,2.50,"Udrih, Beno",1.60,18.70
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,8,04,0,"Driving Bank shot","2PT Field Goal",3,"Dallas Mavericks",22,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,0,38,1,"Driving Bank shot","2PT Field Goal",7,"Washington Wizards",48,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,0,14,0,"Driving Bank shot","2PT Field Goal",6,"Los Angeles Clippers",60,11,15,16.00,"Rivers, Austin",2.20,7.90
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,3,10,06,0,"Driving Bank shot","2PT Field Goal",5,"Chicago Bulls",19,52,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,2,1,54,1,"Driving Bank shot","2PT Field Goal",11,"Los Angeles Lakers",-68,90,0,0.00,"Williams, Lou",1.30,6.90
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,3,2,09,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,4,6,22,1,"Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,4,0,02,0,"Driving Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,1,6,53,1,"Driving Dunk Shot","2PT Field Goal",0,"San Antonio Spurs",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,3,5,50,1,"Driving Dunk Shot","2PT Field Goal",0,"New Orleans Pelicans",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,6,08,1,"Driving Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,3,9,23,1,"Driving Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.60,"Hibbert, Roy",3.60,14.90
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,2,3,14,1,"Driving Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,1,1.30,"Durant, Kevin",2.50,17.40
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,7,22,0,"Driving Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,2,2.30,"Bosh, Chris",4.80,5.30
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,0,30,1,"Driving Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,8,58,1,"Driving Dunk Shot","2PT Field Goal",1,"Miami Heat",-9,16,1,1.40,"Bosh, Chris",2.80,14.70
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,3,9,22,0,"Driving Dunk Shot","2PT Field Goal",0,"Houston Rockets",0,1,0,1.20,"Ariza, Trevor",3.80,15.80
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,1,52,1,"Driving Dunk Shot","2PT Field Goal",0,"New York Knicks",0,1,1,1.10,"Calderon, Jose",5.40,19.80
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,5,54,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,2,57,1,"Driving Dunk Shot","2PT Field Goal",0,"Golden State Warriors",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,2,4,22,1,"Driving Dunk Shot","2PT Field Goal",1,"Los Angeles Clippers",0,11,4,4.60,"Crawford, Jamal",2.40,14.20
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,3,2,30,1,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,11,5,7.60,"Aminu, Al-Farouq",2.90,5.60
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,7,27,0,"Driving Finger Roll Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",17,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,3,57,0,"Driving Finger Roll Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-2,3,5,4.00,"Duncan, Tim",1.90,8.20
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,1,9,07,1,"Driving Floating Bank Jump Shot","2PT Field Goal",8,"Brooklyn Nets",76,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,1,8,07,1,"Driving Floating Bank Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-38,82,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,1,2,23,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",-53,16,7,6.90,"Davis, Ed",3.30,2.10
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,3,2,33,1,"Driving Floating Bank Jump Shot","2PT Field Goal",8,"New Orleans Pelicans",-66,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,9,27,1,"Driving Floating Bank Jump Shot","2PT Field Goal",3,"Los Angeles Clippers",-2,38,1,1.50,"Stephenson, Lance",5.00,21.20
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,4,3,26,1,"Driving Floating Bank Jump Shot","2PT Field Goal",5,"New Orleans Pelicans",37,43,9,8.90,"Davis, Anthony",3.40,6.60
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,1,3,50,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Brooklyn Nets",-2,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,3,10,53,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Boston Celtics",-40,87,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,2,1,52,0,"Driving Floating Jump Shot","2PT Field Goal",4,"San Antonio Spurs",-19,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,3,40,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Atlanta Hawks",-17,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,2,0,50,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Atlanta Hawks",-4,61,1,1.90,"Sefolosha, Thabo",2.10,1.50
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,2,3,46,0,"Driving Floating Jump Shot","2PT Field Goal",4,"Toronto Raptors",37,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,4,1,04,1,"Driving Floating Jump Shot","2PT Field Goal",7,"Chicago Bulls",73,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,1,8,09,1,"Driving Floating Jump Shot","2PT Field Goal",3,"Charlotte Hornets",-24,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,4,6,06,0,"Driving Floating Jump Shot","2PT Field Goal",10,"Memphis Grizzlies",101,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,2,2,54,1,"Driving Floating Jump Shot","2PT Field Goal",11,"Indiana Pacers",9,117,9,8.20,"George, Paul",1.50,5.70
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,3,2,40,1,"Driving Floating Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",28,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,11,30,1,"Driving Floating Jump Shot","2PT Field Goal",9,"Toronto Raptors",1,95,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,3,3,44,1,"Driving Floating Jump Shot","2PT Field Goal",13,"Houston Rockets",84,110,3,5.60,"Ariza, Trevor",1.90,11.70
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,7,21,0,"Driving Floating Jump Shot","2PT Field Goal",9,"Toronto Raptors",-56,75,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,4,55,0,"Driving Floating Jump Shot","2PT Field Goal",3,"Toronto Raptors",-2,38,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,9,19,0,"Driving Floating Jump Shot","2PT Field Goal",6,"Toronto Raptors",-58,38,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,11,17,1,"Driving Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",-2,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,0,17,1,"Driving Layup Shot","2PT Field Goal",2,"Phoenix Suns",24,11,4,9.50,"Len, Alex",1.00,8.60
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,4,43,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-19,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,3,6,52,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",5,10,2,2.50,"Ilyasova, Ersan",1.70,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,3,6,26,0,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",17,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,4,9,12,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",19,-1,3,4.20,"Biyombo, Bismack",1.10,11.40
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,2,7,29,0,"Driving Layup Shot","2PT Field Goal",1,"New Orleans Pelicans",-2,16,7,7.10,"Anderson, Ryan",2.50,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,6,57,1,"Driving Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,1,8,48,1,"Driving Layup Shot","2PT Field Goal",3,"Brooklyn Nets",-32,11,10,7.10,"Johnson, Joe",1.80,3.10
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,4,8,06,1,"Driving Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",-7,-6,7,6.30,"Payne, Adreian",3.50,15.60
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,1,10,48,1,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",24,3,1,2.00,"Gordon, Eric",4.90,19.40
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,1,2,27,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",-12,0,3,3.30,"Reed, Willie",3.60,16.90
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,8,56,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",-2,8,1,2.30,"Clarkson, Jordan",4.20,20.70
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,4,5,20,1,"Driving Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,4,4,39,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",-17,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,2,8,28,1,"Driving Layup Shot","2PT Field Goal",1,"Brooklyn Nets",14,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,3,8,25,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",8,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,4,0,23,1,"Driving Layup Shot","2PT Field Goal",4,"Detroit Pistons",34,32,4,4.20,"Drummond, Andre",2.90,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,3,8,09,1,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",20,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,1,2,37,1,"Driving Layup Shot","2PT Field Goal",2,"Brooklyn Nets",27,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,10,07,1,"Driving Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",-4,11,4,4.60,"Roberson, Andre",2.40,4.60
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,1,4,26,0,"Driving Layup Shot","2PT Field Goal",0,"Indiana Pacers",3,7,0,1.00,"George, Paul",0.00,7.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,3,7,53,0,"Driving Layup Shot","2PT Field Goal",1,"Orlando Magic",6,18,10,10.40,"Frye, Channing",2.10,13.20
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,3,9,34,0,"Driving Layup Shot","2PT Field Goal",2,"Memphis Grizzlies",28,2,0,0.90,"Conley, Mike",0.10,17.70
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,5,38,1,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",-16,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,2,3,29,0,"Driving Layup Shot","2PT Field Goal",2,"Orlando Magic",25,-5,7,5.70,"Vucevic, Nikola",2.70,18.30
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,0,28,1,"Driving Layup Shot","2PT Field Goal",1,"Charlotte Hornets",2,11,6,5.90,"Zeller, Cody",1.60,18.20
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,2,3,22,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",25,2,1,2.40,"Mbah a Moute, Luc",0.70,15.20
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,0,31,1,"Driving Layup Shot","2PT Field Goal",1,"Miami Heat",17,-5,1,1.80,"Winslow, Justise",6.80,6.60
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,8,18,1,"Driving Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-9,7,8,6.50,"West, David",0.30,9.60
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,3,6,29,0,"Driving Layup Shot","2PT Field Goal",2,"Houston Rockets",-20,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,2,36,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-1,-1,2,3.20,"Ginobili, Manu",1.90,11.20
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,3,9,21,0,"Driving Layup Shot","2PT Field Goal",1,"Golden State Warriors",-14,11,9,6.40,"Bogut, Andrew",3.10,18.40
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,2,29,1,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",19,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,3,4,12,0,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",19,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,1,8,20,1,"Driving Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",27,-1,1,1.60,"Mbah a Moute, Luc",0.10,9.50
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,3,10,06,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",9,16,3,2.90,"Gallinari, Danilo",2.90,24.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,1,3,06,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-16,16,2,5.90,"Ajinca, Alexis",2.20,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,2,3,37,1,"Driving Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",24,8,1,4.40,"Roberson, Andre",1.80,12.10
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,4,0,16,1,"Driving Layup Shot","2PT Field Goal",1,"Dallas Mavericks",15,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,1,38,1,"Driving Layup Shot","2PT Field Goal",3,"Detroit Pistons",-32,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,7,21,0,"Driving Layup Shot","2PT Field Goal",1,"Detroit Pistons",2,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,9,59,1,"Driving Layup Shot","2PT Field Goal",2,"Sacramento Kings",14,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,1,6,38,1,"Driving Layup Shot","2PT Field Goal",2,"Atlanta Hawks",-20,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,3,26,0,"Driving Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",-22,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,4,10,49,1,"Driving Layup Shot","2PT Field Goal",2,"Golden State Warriors",-25,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,1,4,38,0,"Driving Layup Shot","2PT Field Goal",1,"Boston Celtics",17,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,2,3,32,1,"Driving Layup Shot","2PT Field Goal",0,"Dallas Mavericks",-4,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,1,0,59,0,"Driving Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-24,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,1,51,0,"Driving Layup Shot","2PT Field Goal",3,"New Orleans Pelicans",-30,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,0,04,1,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",-20,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,3,11,37,1,"Driving Layup Shot","2PT Field Goal",3,"San Antonio Spurs",33,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,3,13,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",1,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,3,6,50,0,"Driving Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",10,26,6,6.00,"Holmes, Richaun",5.30,8.10
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,10,24,0,"Driving Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-4,-1,4,4.50,"Green, Danny",1.90,2.20
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,1,7,33,1,"Driving Layup Shot","2PT Field Goal",2,"Washington Wizards",17,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,3,2,13,1,"Driving Layup Shot","2PT Field Goal",1,"Chicago Bulls",-19,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,1,8,09,0,"Driving Layup Shot","2PT Field Goal",2,"Chicago Bulls",22,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,10,33,0,"Driving Layup Shot","2PT Field Goal",3,"Atlanta Hawks",-34,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,4,11,35,1,"Driving Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,-6,1,2.00,"Davis, Ed",5.10,2.30
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,2,2,07,1,"Driving Layup Shot","2PT Field Goal",2,"Denver Nuggets",19,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,3,33,1,"Driving Layup Shot","2PT Field Goal",1,"Denver Nuggets",19,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,1,5,17,1,"Driving Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",0,16,3,4.80,"Aminu, Al-Farouq",3.30,12.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,2,6,49,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",12,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,3,3,31,1,"Driving Reverse Layup Shot","2PT Field Goal",2,"San Antonio Spurs",28,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,4,0,27,1,"Driving Reverse Layup Shot","2PT Field Goal",1,"Denver Nuggets",17,-1,6,15.20,"Harris, Gary",1.90,7.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,4,6,17,0,"Driving Reverse Layup Shot","2PT Field Goal",1,"Golden State Warriors",-6,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,3,4,23,1,"Driving Reverse Layup Shot","2PT Field Goal",0,"Brooklyn Nets",-9,-1,11,9.30,"Young, Thaddeus",4.00,14.60
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,3,1,40,0,"Driving Reverse Layup Shot","2PT Field Goal",3,"Chicago Bulls",33,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,1,7,33,1,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,1,1.40,"Durant, Kevin",8.00,22.00
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,4,4,52,1,"Dunk Shot","2PT Field Goal",0,"Denver Nuggets",0,1,0,0.90,"Harris, Gary",2.60,12.10
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,4,38,0,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,4,4,18,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,5,1,45,0,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,3,2.90,"Ibaka, Serge",2.60,21.20
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,4,3,16,0,"Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,2,2.10,"Durant, Kevin",2.10,11.90
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,3,3,00,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,2,1.90,"Johnson, Tyler",3.60,22.90
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,1,19,1,"Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,4,1,06,1,"Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,3,3.60,"Deng, Luol",23.90,20.10
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,6,32,1,"Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,5,2,37,1,"Dunk Shot","2PT Field Goal",0,"Indiana Pacers",0,1,1,0.90,"Miles, CJ",4.10,23.10
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,2,0,05,1,"Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,1,9,55,0,"Fadeaway Bank shot","2PT Field Goal",4,"Los Angeles Clippers",-14,46,2,4.00,"Johnson, Wesley",4.50,8.50
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,1,39,1,"Fadeaway Bank shot","2PT Field Goal",6,"Minnesota Timberwolves",-37,52,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,1,1,54,1,"Fadeaway Bank shot","3PT Field Goal",29,"Dallas Mavericks",192,223,0,1.00,"Matthews, Wesley",4.70,0.60
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,3,0,04,1,"Fadeaway Bank shot","2PT Field Goal",2,"Houston Rockets",20,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,10,23,1,"Fadeaway Bank shot","2PT Field Goal",5,"Golden State Warriors",-47,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,5,3,35,1,"Fadeaway Bank shot","2PT Field Goal",7,"Chicago Bulls",-73,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,2,4,51,0,"Fadeaway Bank shot","2PT Field Goal",8,"Dallas Mavericks",-4,80,2,2.70,"Parsons, Chandler",2.50,16.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,2,2,57,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",-71,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,5,38,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Dallas Mavericks",-71,100,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,4,47,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Miami Heat",66,70,7,8.50,"Deng, Luol",2.00,4.50
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,2,4,33,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Minnesota Timberwolves",-166,23,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,6,37,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Philadelphia 76ers",-169,18,3,2.10,"Grant, Jerami",4.10,13.50
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,4,1,08,0,"Fadeaway Jump Shot","2PT Field Goal",16,"Oklahoma City Thunder",138,97,16,18.90,"Durant, Kevin",3.90,4.40
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,5,12,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Golden State Warriors",-2,100,2,4.20,"Green, Draymond",5.60,9.50
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,2,4,05,1,"Fadeaway Jump Shot","2PT Field Goal",10,"Golden State Warriors",42,100,6,6.00,"Iguodala, Andre",3.80,5.10
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,4,0,46,1,"Fadeaway Jump Shot","2PT Field Goal",15,"Los Angeles Clippers",-151,7,17,13.80,"Mbah a Moute, Luc",4.90,9.50
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,2,2,49,0,"Fadeaway Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-66,28,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,1,9,20,0,"Fadeaway Jump Shot","2PT Field Goal",2,"Washington Wizards",-17,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,2,2,39,0,"Fadeaway Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",123,29,6,7.40,"Stauskas, Nik",4.20,6.50
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,4,2,19,1,"Fadeaway Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",35,51,9,9.60,"Davis, Anthony",4.50,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,1,9,26,1,"Fadeaway Jump Shot","2PT Field Goal",5,"Memphis Grizzlies",-22,46,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,1,7,43,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Indiana Pacers",1,70,1,2.00,"Miles, CJ",4.00,14.60
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,1,8,22,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Houston Rockets",-68,16,1,3.80,"Capela, Clint",2.30,5.10
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,3,5,17,0,"Fadeaway Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",153,139,4,4.60,"Waiters, Dion",5.00,8.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,2,2,09,1,"Fadeaway Jump Shot","2PT Field Goal",8,"Boston Celtics",74,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,2,0,58,0,"Fadeaway Jump Shot","2PT Field Goal",10,"Denver Nuggets",76,67,3,2.30,"Gallinari, Danilo",2.20,18.30
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,3,9,46,1,"Fadeaway Jump Shot","2PT Field Goal",16,"Charlotte Hornets",-130,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,10,13,1,"Fadeaway Jump Shot","2PT Field Goal",6,"Philadelphia 76ers",37,51,4,4.80,"Sampson, JaKarr",2.40,12.90
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,2,2,15,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",169,61,3,5.70,"Durant, Kevin",5.60,5.90
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,7,17,1,"Fadeaway Jump Shot","2PT Field Goal",7,"Philadelphia 76ers",69,13,2,3.10,"Smith, Ish",4.80,12.60
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,9,59,1,"Fadeaway Jump Shot","2PT Field Goal",9,"Houston Rockets",86,36,9,8.20,"Harden, James",4.20,16.30
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,1,11,15,0,"Fadeaway Jump Shot","2PT Field Goal",18,"Denver Nuggets",181,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,3,7,54,0,"Fadeaway Jump Shot","2PT Field Goal",9,"Atlanta Hawks",-29,90,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,6,06,0,"Fadeaway Jump Shot","2PT Field Goal",4,"Philadelphia 76ers",-34,36,6,5.50,"Canaan, Isaiah",3.50,9.20
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,11,06,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Detroit Pistons",82,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,9,06,1,"Fadeaway Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",-209,75,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,4,46,0,"Fadeaway Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",15,80,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,2,5,30,0,"Fadeaway Jump Shot","2PT Field Goal",6,"Los Angeles Lakers",-58,21,0,4.30,"Russell, D'Angelo",2.60,11.10
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,6,14,0,"Fadeaway Jump Shot","2PT Field Goal",17,"Detroit Pistons",-158,70,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,2,2,35,1,"Fadeaway Jump Shot","2PT Field Goal",14,"New York Knicks",78,124,5,7.80,"Vujacic, Sasha",4.70,2.10
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,3,9,32,0,"Fadeaway Jump Shot","2PT Field Goal",5,"Golden State Warriors",2,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,4,20,1,"Finger Roll Layup Shot","2PT Field Goal",0,"San Antonio Spurs",-6,3,0,0.00,"Duncan, Tim",1.80,15.70
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,3,7,48,0,"Floating Jump shot","2PT Field Goal",11,"Golden State Warriors",58,95,3,3.60,"Thompson, Klay",1.80,13.40
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,9,40,1,"Floating Jump shot","2PT Field Goal",6,"Golden State Warriors",68,2,4,4.20,"Iguodala, Andre",0.30,11.40
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,5,17,1,"Floating Jump shot","2PT Field Goal",5,"Dallas Mavericks",-37,46,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,3,4,59,1,"Floating Jump shot","2PT Field Goal",4,"Orlando Magic",-14,43,1,1.40,"Vucevic, Nikola",2.20,3.50
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,2,3,27,0,"Floating Jump shot","2PT Field Goal",6,"Indiana Pacers",-19,61,1,2.00,"Miles, CJ",3.70,14.60
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,4,1,14,1,"Floating Jump shot","2PT Field Goal",10,"Dallas Mavericks",40,100,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,3,1,00,1,"Floating Jump shot","2PT Field Goal",8,"Denver Nuggets",86,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,3,4,00,1,"Floating Jump shot","2PT Field Goal",10,"Minnesota Timberwolves",-55,85,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,2,2,10,0,"Floating Jump shot","2PT Field Goal",4,"Minnesota Timberwolves",25,43,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,2,3,40,0,"Floating Jump shot","2PT Field Goal",9,"Minnesota Timberwolves",-65,65,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,8,19,1,"Floating Jump shot","2PT Field Goal",3,"Orlando Magic",12,38,9,6.70,"Fournier, Evan",0.20,6.10
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,0,51,0,"Floating Jump shot","2PT Field Goal",5,"Golden State Warriors",50,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,0,57,1,"Floating Jump shot","2PT Field Goal",9,"Phoenix Suns",15,95,3,4.70,"Morris, Markieff",0.20,9.00
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,10,25,1,"Floating Jump shot","2PT Field Goal",8,"Phoenix Suns",42,72,2,2.70,"Booker, Devin",3.10,11.70
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,3,4,09,0,"Floating Jump shot","2PT Field Goal",7,"Orlando Magic",-58,51,1,2.20,"Oladipo, Victor",2.40,6.20
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,1,42,0,"Floating Jump shot","2PT Field Goal",3,"Golden State Warriors",4,38,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,8,43,1,"Floating Jump shot","2PT Field Goal",6,"Charlotte Hornets",-30,56,2,2.30,"Williams, Marvin",1.90,10.30
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,9,30,0,"Floating Jump shot","2PT Field Goal",6,"Los Angeles Clippers",-32,56,3,2.60,"Redick, JJ",0.70,15.60
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,2,1,52,0,"Floating Jump shot","2PT Field Goal",8,"Orlando Magic",76,41,1,1.80,"Vucevic, Nikola",0.80,8.60
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,3,2,31,0,"Floating Jump shot","2PT Field Goal",6,"Brooklyn Nets",33,61,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,1,6,44,0,"Floating Jump shot","2PT Field Goal",4,"Memphis Grizzlies",46,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,2,0,00,0,"Floating Jump shot","2PT Field Goal",11,"Memphis Grizzlies",56,97,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,1,7,05,1,"Floating Jump shot","2PT Field Goal",10,"Memphis Grizzlies",105,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,1,00,1,"Floating Jump shot","2PT Field Goal",5,"Miami Heat",6,56,5,4.20,"Winslow, Justise",0.00,14.60
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,2,1,15,1,"Floating Jump shot","2PT Field Goal",9,"Denver Nuggets",-94,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,1,56,0,"Floating Jump shot","2PT Field Goal",13,"San Antonio Spurs",128,28,0,0.00,"West, David",3.20,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,4,6,29,1,"Floating Jump shot","2PT Field Goal",8,"Dallas Mavericks",87,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,6,54,0,"Floating Jump shot","2PT Field Goal",10,"Minnesota Timberwolves",27,101,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,9,32,0,"Floating Jump shot","2PT Field Goal",3,"Los Angeles Lakers",-17,33,6,5.80,"Nance Jr., Larry",2.60,1.10
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,1,4,06,0,"Floating Jump shot","2PT Field Goal",17,"Dallas Mavericks",169,46,3,5.30,"Williams, Deron",2.50,10.30
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,3,3,01,0,"Floating Jump shot","2PT Field Goal",9,"New York Knicks",71,70,3,5.30,"Thomas, Lance",1.80,10.80
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,4,27,0,"Floating Jump shot","2PT Field Goal",3,"New York Knicks",15,36,8,7.20,"Seraphin, Kevin",2.20,16.10
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,6,37,1,"Floating Jump shot","2PT Field Goal",14,"New Orleans Pelicans",94,111,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,4,6,46,1,"Floating Jump shot","2PT Field Goal",5,"Minnesota Timberwolves",46,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,5,2,03,1,"Floating Jump shot","2PT Field Goal",19,"Dallas Mavericks",177,77,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,4,7,03,1,"Floating Jump shot","2PT Field Goal",10,"Boston Celtics",79,75,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,1,2,00,0,"Floating Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",-22,144,0,4.80,"Augustin, D.J.",7.90,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,2,2,15,0,"Floating Jump shot","2PT Field Goal",12,"San Antonio Spurs",-122,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,5,23,0,"Floating Jump shot","2PT Field Goal",12,"Philadelphia 76ers",-7,129,1,1.40,"Thompson, Hollis",2.80,12.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,10,25,0,"Floating Jump shot","2PT Field Goal",4,"Phoenix Suns",-14,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,3,5,19,1,"Floating Jump shot","2PT Field Goal",5,"Brooklyn Nets",-1,56,1,1.70,"Johnson, Joe",4.20,8.30
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,5,1,13,0,"Floating Jump shot","2PT Field Goal",10,"Indiana Pacers",-55,90,3,4.90,"George, Paul",4.60,6.70
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,2,7,48,0,"Hook Shot","2PT Field Goal",2,"San Antonio Spurs",0,28,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,1,11,47,1,"Hook Shot","2PT Field Goal",5,"Detroit Pistons",15,54,1,3.90,"Jackson, Reggie",2.40,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,7,28,0,"Hook Shot","2PT Field Goal",4,"Toronto Raptors",-29,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,2,4,30,1,"Hook Shot","2PT Field Goal",4,"Portland Trail Blazers",-27,36,2,5.20,"Aminu, Al-Farouq",2.00,4.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,6,21,1,"Jump Bank Shot","2PT Field Goal",3,"Toronto Raptors",-30,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,1,0,58,0,"Jump Bank Shot","2PT Field Goal",4,"Houston Rockets",37,21,8,7.80,"Brewer, Corey",2.30,4.70
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,6,17,1,"Jump Bank Shot","2PT Field Goal",7,"New Orleans Pelicans",-60,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,1,9,09,0,"Jump Bank Shot","2PT Field Goal",10,"Chicago Bulls",89,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,2,4,46,0,"Jump Bank Shot","3PT Field Goal",30,"Toronto Raptors",9,308,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,2,0,20,0,"Jump Bank Shot","2PT Field Goal",13,"Portland Trail Blazers",-106,80,7,8.30,"Aminu, Al-Farouq",2.90,10.80
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,5,3,27,1,"Jump Bank Shot","2PT Field Goal",3,"Dallas Mavericks",24,23,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,3,6,55,0,"Jump Bank Shot","2PT Field Goal",4,"Los Angeles Lakers",-47,7,3,4.80,"Williams, Lou",1.20,20.40
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,10,24,1,"Jump Bank Shot","2PT Field Goal",2,"Los Angeles Lakers",-27,2,3,4.70,"Hibbert, Roy",4.60,6.10
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,0,01,0,"Jump Bank Shot","2PT Field Goal",8,"Denver Nuggets",73,41,18,17.40,"Jokic, Nikola",0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,7,11,1,"Jump Bank Shot","3PT Field Goal",25,"Charlotte Hornets",76,239,7,7.60,"Williams, Marvin",5.20,6.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,1,22,0,"Jump Bank Shot","2PT Field Goal",4,"Golden State Warriors",-42,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,1,54,0,"Jump Bank Shot","2PT Field Goal",9,"New Orleans Pelicans",63,72,4,5.40,"Gee, Alonzo",2.90,3.20
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,4,0,01,0,"Jump Bank Shot","3PT Field Goal",47,"Houston Rockets",-197,437,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,4,2,42,1,"Jump Bank Shot","2PT Field Goal",2,"Dallas Mavericks",-29,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,4,57,1,"Jump Bank Shot","2PT Field Goal",7,"New Orleans Pelicans",68,33,0,0.00,"Anderson, Ryan",1.00,13.20
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,3,49,1,"Jump Bank Shot","2PT Field Goal",8,"Sacramento Kings",79,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,1,00,1,"Jump Bank Shot","2PT Field Goal",9,"Minnesota Timberwolves",-83,38,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,4,0,35,1,"Jump Bank Shot","2PT Field Goal",10,"Houston Rockets",-101,41,0,1.40,"Beverley, Patrick",1.90,14.80
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,4,3,35,1,"Jump Bank Shot","2PT Field Goal",3,"Portland Trail Blazers",28,11,2,3.10,"Leonard, Meyers",0.90,9.40
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,9,33,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",215,120,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,5,23,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-73,247,0,1.10,"Batum, Nicolas",6.10,13.70
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,3,9,26,0,"Jump Shot","2PT Field Goal",14,"Charlotte Hornets",0,141,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,3,7,16,0,"Jump Shot","2PT Field Goal",19,"Phoenix Suns",125,151,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,3,11,28,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",28,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,8,02,1,"Jump Shot","2PT Field Goal",7,"Phoenix Suns",58,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,3,1,14,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-176,175,0,0.90,"Waiters, Dion",15.10,20.30
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,1,7,30,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",156,188,0,1.00,"Westbrook, Russell",6.20,8.70
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,1,8,24,1,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",66,80,4,5.20,"Adams, Steven",4.10,17.70
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,2,3,42,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",117,213,0,1.10,"Roberson, Andre",3.90,8.40
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,1,3,44,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-19,242,0,1.00,"Durant, Kevin",5.30,10.20
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,1,8,30,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-58,232,0,0.80,"Gallinari, Danilo",5.20,4.60
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,1,4,04,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-147,213,0,1.00,"Gallinari, Danilo",4.90,4.70
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,4,47,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-135,131,1,1.60,"Harris, Gary",3.00,7.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,1,09,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",230,43,0,1.60,"Barton, Will",7.60,13.90
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,4,8,11,1,"Jump Shot","3PT Field Goal",22,"Denver Nuggets",228,-5,0,0.70,"Papanikolaou, Kostas",5.50,7.80
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,2,2,16,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",187,154,0,0.90,"Harris, Gary",4.70,9.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,9,31,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",151,111,2,3.10,"Harris, Gary",2.70,11.90
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,6,42,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",-79,67,3,3.10,"Harris, Gary",1.70,13.90
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,3,4,21,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",233,0,0,0.90,"Gallinari, Danilo",4.90,15.40
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,3,7,48,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",182,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,7,04,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-25,257,0,0.80,"Hairston, PJ",6.70,1.20
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,1,1,46,0,"Jump Shot","3PT Field Goal",25,"Oklahoma City Thunder",-132,214,0,0.60,"Durant, Kevin",3.80,5.10
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,1,10,21,0,"Jump Shot","2PT Field Goal",20,"Washington Wizards",46,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,3,17,0,"Jump Shot","2PT Field Goal",8,"Washington Wizards",64,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,1,0,00,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",20,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,2,1,52,1,"Jump Shot","3PT Field Goal",29,"Washington Wizards",-135,257,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,8,42,0,"Jump Shot","3PT Field Goal",28,"Washington Wizards",189,213,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,4,5,08,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",182,160,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,1,11,1,"Jump Shot","2PT Field Goal",7,"Washington Wizards",-42,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,4,3,23,0,"Jump Shot","2PT Field Goal",4,"Washington Wizards",-35,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,7,47,1,"Jump Shot","2PT Field Goal",16,"Washington Wizards",158,28,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,2,3,23,0,"Jump Shot","2PT Field Goal",6,"Brooklyn Nets",68,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,1,16,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",66,232,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,2,4,16,0,"Jump Shot","2PT Field Goal",19,"Atlanta Hawks",19,193,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,2,4,01,1,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",-22,237,0,1.10,"Ibaka, Serge",6.90,16.50
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,3,0,18,0,"Jump Shot","2PT Field Goal",10,"Oklahoma City Thunder",91,46,9,8.00,"Waiters, Dion",3.30,12.70
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,2,2,39,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",33,242,7,6.40,"Ibaka, Serge",9.40,14.50
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,9,26,0,"Jump Shot","3PT Field Goal",22,"Sacramento Kings",-227,7,0,1.00,"Gay, Rudy",5.60,7.80
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,4,0,39,0,"Jump Shot","2PT Field Goal",10,"Sacramento Kings",105,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,11,31,0,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-129,218,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,0,16,0,"Jump Shot","2PT Field Goal",23,"Minnesota Timberwolves",-61,228,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,3,53,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-70,218,2,2.20,"Cousins, DeMarcus",5.80,6.90
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,2,49,0,"Jump Shot","2PT Field Goal",23,"Sacramento Kings",66,223,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,2,25,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",117,210,0,0.90,"Belinelli, Marco",13.30,22.10
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,3,45,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-130,200,0,0.90,"Belinelli, Marco",5.70,16.40
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,2,6,17,0,"Jump Shot","2PT Field Goal",8,"Sacramento Kings",78,21,5,6.40,"Cousins, DeMarcus",3.10,10.30
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,5,55,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-222,95,0,0.70,"Cousins, DeMarcus",8.00,10.70
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,1,32,0,"Jump Shot","2PT Field Goal",4,"Sacramento Kings",4,43,9,9.80,"Casspi, Omri",2.60,9.10
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,9,25,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-222,100,0,0.90,"McLemore, Ben",5.00,14.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,2,1,07,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",127,205,0,0.80,"Rondo, Rajon",2.20,11.20
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,1,1,38,0,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",-210,116,8,11.30,"Koufos, Kosta",5.50,13.60
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,2,3,32,0,"Jump Shot","2PT Field Goal",5,"Sacramento Kings",-14,56,3,3.30,"Cousins, DeMarcus",0.80,24.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,8,01,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",66,232,0,1.00,"Gay, Rudy",6.10,11.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,6,08,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-178,169,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,1,06,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",-68,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,6,17,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",189,170,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,7,00,1,"Jump Shot","3PT Field Goal",23,"Sacramento Kings",236,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,4,5,58,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",28,247,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,4,34,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",240,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,7,21,0,"Jump Shot","2PT Field Goal",22,"Sacramento Kings",-6,223,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,2,4,17,1,"Jump Shot","3PT Field Goal",25,"Sacramento Kings",153,200,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,10,51,0,"Jump Shot","3PT Field Goal",26,"Sacramento Kings",-101,244,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,4,5,29,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",-120,224,0,1.10,"Galloway, Langston",7.90,20.20
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,2,1,27,1,"Jump Shot","3PT Field Goal",24,"Miami Heat",199,146,0,0.90,"Deng, Luol",6.60,10.40
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,9,47,1,"Jump Shot","3PT Field Goal",23,"Miami Heat",-56,232,0,1.40,"Deng, Luol",3.80,14.20
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,7,06,0,"Jump Shot","2PT Field Goal",4,"Miami Heat",0,43,6,8.00,"Deng, Luol",2.00,13.90
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,7,25,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",89,232,1,1.60,"Deng, Luol",6.50,8.40
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,2,2,49,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-205,129,6,5.70,"Bosh, Chris",4.80,17.70
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,6,58,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",110,214,0,0.80,"Deng, Luol",3.70,18.90
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,3,14,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",191,159,1,1.90,"Winslow, Justise",3.30,0.70
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,5,29,0,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",50,72,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,1,8,59,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",220,97,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,3,15,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",138,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,3,7,31,1,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-102,218,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,1,20,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",181,164,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,4,17,1,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",228,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,3,3,35,0,"Jump Shot","2PT Field Goal",8,"Atlanta Hawks",-27,85,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,1,9,18,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-24,193,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,5,57,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-238,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,4,05,0,"Jump Shot","2PT Field Goal",15,"Minnesota Timberwolves",-143,65,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-14,2015,4249,1610612762,400828251,3,11,41,1,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",155,100,0,0.90,"Leonard, Kawhi",4.00,12.00
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,3,4,12,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,26,0,0.70,"Wiggins, Andrew",8.10,17.30
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,3,1,46,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-12,247,1,0.90,"Wiggins, Andrew",6.00,22.30
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,2,5,54,1,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",-225,21,0,1.00,"Jones, Tyus",16.00,20.10
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,2,10,24,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",104,223,0,0.80,"Budinger, Chase",6.10,22.00
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,1,3,19,0,"Jump Shot","2PT Field Goal",22,"Minnesota Timberwolves",161,154,0,0.90,"Wiggins, Andrew",5.70,10.50
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,1,7,17,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-114,213,0,1.10,"George, Paul",6.30,10.40
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,4,4,53,0,"Jump Shot","3PT Field Goal",26,"Minnesota Timberwolves",-132,224,2,2.50,"Wiggins, Andrew",5.30,4.70
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,4,3,25,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",120,223,1,2.90,"Stuckey, Rodney",4.60,14.20
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,4,5,08,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-74,237,3,4.50,"Stuckey, Rodney",3.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,3,6,55,0,"Jump Shot","2PT Field Goal",13,"Indiana Pacers",64,124,4,4.90,"Ellis, Monta",2.60,11.10
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,3,2,45,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",102,223,0,0.90,"George, Paul",6.10,10.70
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,3,8,20,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",233,67,0,0.70,"George, Paul",6.40,9.30
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,3,0,40,0,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",235,61,0,2.40,"Stuckey, Rodney",4.10,5.30
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,7,48,0,"Jump Shot","2PT Field Goal",18,"New York Knicks",181,-1,0,3.40,"Calderon, Jose",3.80,12.60
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,3,10,18,1,"Jump Shot","2PT Field Goal",10,"New York Knicks",101,13,3,4.60,"Calderon, Jose",4.10,6.60
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,3,1,13,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",122,213,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,1,7,57,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",107,218,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,1,3,29,1,"Jump Shot","2PT Field Goal",16,"Houston Rockets",168,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,2,5,56,1,"Jump Shot","2PT Field Goal",9,"Houston Rockets",74,57,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-23,2015,4249,1610612762,400828730,1,6,22,1,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-223,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,3,9,32,0,"Jump Shot","2PT Field Goal",15,"New York Knicks",-150,13,0,1.00,"Afflalo, Arron",9.90,1.90
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,0,46,1,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",-163,188,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,1,11,42,0,"Jump Shot","2PT Field Goal",7,"Brooklyn Nets",-16,75,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,3,5,29,1,"Jump Shot","2PT Field Goal",21,"Brooklyn Nets",-168,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,2,6,56,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",27,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,3,7,52,0,"Jump Shot","2PT Field Goal",14,"Brooklyn Nets",12,144,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,4,1,19,1,"Jump Shot","2PT Field Goal",4,"Los Angeles Lakers",42,16,15,16.00,"Randle, Julius",3.70,1.90
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,3,28,0,"Jump Shot","2PT Field Goal",18,"Brooklyn Nets",-186,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,2,6,30,0,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",-32,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,3,7,25,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",227,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,1,11,36,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",58,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,3,8,34,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",189,149,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,3,9,02,1,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",195,146,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,3,3,02,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",228,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,4,15,0,"Jump Shot","2PT Field Goal",20,"Detroit Pistons",182,100,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,3,1,36,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-22,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,2,31,0,"Jump Shot","3PT Field Goal",22,"Detroit Pistons",228,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,4,19,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",192,151,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,0,01,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",-145,193,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,2,1,14,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",-32,52,8,9.00,"Afflalo, Arron",2.00,10.20
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,3,48,0,"Jump Shot","2PT Field Goal",3,"Detroit Pistons",-35,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,3,09,0,"Jump Shot","2PT Field Goal",16,"Detroit Pistons",37,156,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,3,8,10,0,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",42,180,1,1.70,"Williams, Lou",5.50,5.10
+"Gordon Hayward","Utah Jazz",2015-12-14,2015,4249,1610612762,400828251,3,6,46,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",169,8,11,7.40,"West, David",6.30,15.90
+"Gordon Hayward","Utah Jazz",2015-12-14,2015,4249,1610612762,400828251,3,7,52,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-151,75,2,2.50,"Leonard, Kawhi",4.60,9.20
+"Gordon Hayward","Utah Jazz",2015-12-14,2015,4249,1610612762,400828251,1,9,29,0,"Jump Shot","2PT Field Goal",16,"San Antonio Spurs",-166,18,0,1.20,"Parker, Tony",6.70,11.40
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,1,1,39,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",230,33,0,0.80,"Capela, Clint",6.10,8.30
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,2,3,00,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",96,223,5,3.90,"Howard, Dwight",6.90,7.20
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,2,3,34,1,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-232,-1,0,1.00,"Ariza, Trevor",6.80,11.40
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,1,2,59,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-130,213,0,0.90,"Brewer, Corey",6.10,8.30
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,1,8,19,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",-230,38,0,0.80,"Ariza, Trevor",6.00,9.80
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,2,1,39,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",228,67,0,1.00,"Harden, James",10.30,2.60
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,4,5,41,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",-233,7,0,1.00,"Crabbe, Allen",7.60,7.80
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,3,11,28,1,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",233,-6,0,0.70,"Aminu, Al-Farouq",7.10,6.40
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,3,8,37,1,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-66,232,0,4.80,"McCollum, CJ",9.50,22.50
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,4,06,0,"Jump Shot","2PT Field Goal",19,"Los Angeles Lakers",-1,190,4,6.20,"Brown, Anthony",4.00,16.70
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,3,0,33,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",158,193,5,4.40,"Crabbe, Allen",5.40,18.70
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,5,40,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",141,208,0,1.00,"Aminu, Al-Farouq",6.30,11.70
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,11,21,1,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",-235,16,0,0.90,"Bledsoe, Eric",7.30,11.00
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,3,8,43,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-4,247,0,4.70,"Aminu, Al-Farouq",6.30,1.10
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,4,6,13,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-150,198,1,1.80,"Crabbe, Allen",4.60,3.20
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,2,3,00,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-233,65,0,0.80,"Aminu, Al-Farouq",4.60,6.80
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,8,43,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",151,188,0,0.80,"Aminu, Al-Farouq",5.00,11.60
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,3,7,52,0,"Jump Shot","2PT Field Goal",22,"Portland Trail Blazers",182,129,0,1.10,"Aminu, Al-Farouq",6.30,9.10
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,2,2,30,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",28,249,0,0.80,"Aminu, Al-Farouq",6.40,5.50
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,2,4,14,0,"Jump Shot","2PT Field Goal",9,"Portland Trail Blazers",-96,8,5,6.80,"Leonard, Meyers",2.20,19.10
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,0,58,0,"Jump Shot","3PT Field Goal",25,"Portland Trail Blazers",-150,203,1,2.00,"Harkless, Maurice",5.10,12.50
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,1,11,46,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",122,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,3,9,50,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",71,228,1,2.60,"Brown, Anthony",3.40,14.40
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,0,00,1,"Jump Shot","2PT Field Goal",22,"Los Angeles Lakers",189,126,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,7,55,0,"Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",1,72,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,6,02,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",33,2,3,4.40,"Brown, Anthony",2.50,10.40
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,2,0,52,0,"Jump Shot","2PT Field Goal",3,"Los Angeles Lakers",-32,11,0,1.30,"Hibbert, Roy",3.40,15.60
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,4,4,05,0,"Jump Shot","3PT Field Goal",26,"Los Angeles Lakers",-160,208,0,1.00,"World Peace, Metta",4.20,3.80
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,2,59,0,"Jump Shot","2PT Field Goal",8,"Los Angeles Lakers",19,80,2,3.00,"Clarkson, Jordan",3.70,10.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,2,0,31,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Lakers",-101,92,13,11.80,"Brown, Anthony",4.30,11.60
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,4,27,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-153,190,5,5.80,"Brown, Anthony",7.40,6.70
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,10,51,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-201,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,3,2,43,0,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",114,70,3,4.80,"Mbah a Moute, Luc",5.20,6.80
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,11,40,1,"Jump Shot","2PT Field Goal",8,"Phoenix Suns",87,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,3,4,48,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",135,208,0,0.80,"Mbah a Moute, Luc",5.80,20.30
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,3,5,34,0,"Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",32,95,8,8.20,"Pierce, Paul",4.00,8.80
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,3,4,17,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",128,205,0,0.90,"Mbah a Moute, Luc",5.90,9.40
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,2,0,00,0,"Jump Shot","2PT Field Goal",10,"New York Knicks",-68,82,1,1.40,"Lopez, Robin",6.70,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,2,0,39,1,"Jump Shot","2PT Field Goal",15,"New York Knicks",-119,100,2,3.10,"Lopez, Robin",5.50,8.10
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,5,30,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",207,134,0,0.90,"Porzingis, Kristaps",11.90,15.10
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,3,51,1,"Jump Shot","2PT Field Goal",10,"New York Knicks",-60,80,0,1.00,"Williams, Derrick",3.50,13.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,3,7,23,1,"Jump Shot","2PT Field Goal",19,"New York Knicks",-114,164,4,6.40,"Anthony, Carmelo",4.10,9.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,6,03,0,"Jump Shot","3PT Field Goal",24,"New York Knicks",204,134,1,1.90,"Anthony, Carmelo",8.00,16.80
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,1,8,53,0,"Jump Shot","2PT Field Goal",20,"New York Knicks",-130,156,6,7.00,"Porzingis, Kristaps",5.50,5.20
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,4,7,58,0,"Jump Shot","3PT Field Goal",25,"New York Knicks",189,164,7,6.40,"Williams, Derrick",5.30,6.10
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,5,2,06,0,"Jump Shot","2PT Field Goal",6,"New York Knicks",58,28,2,4.20,"Anthony, Carmelo",2.20,7.80
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,3,7,22,0,"Jump Shot","2PT Field Goal",23,"Minnesota Timberwolves",-210,100,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,2,2,15,0,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",159,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,8,39,1,"Jump Shot","3PT Field Goal",22,"Minnesota Timberwolves",227,-16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,2,27,1,"Jump Shot","3PT Field Goal",25,"Minnesota Timberwolves",-215,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,4,4,06,1,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-238,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,3,10,28,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",187,160,0,0.90,"Booker, Devin",7.00,11.80
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,4,2,25,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",141,203,0,0.80,"Knight, Brandon",3.80,5.10
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,2,0,28,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",213,110,0,0.90,"Knight, Brandon",5.00,9.90
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,4,9,29,0,"Jump Shot","3PT Field Goal",25,"Phoenix Suns",-102,234,1,2.30,"Tucker, PJ",8.80,9.60
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,4,9,09,0,"Jump Shot","3PT Field Goal",23,"Phoenix Suns",24,237,0,0.90,"Tucker, PJ",5.30,6.30
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,2,1,32,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-92,228,0,1.60,"Bledsoe, Eric",4.40,9.30
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,10,45,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",241,2,0,0.80,"Booker, Devin",5.80,3.10
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,2,2,07,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",104,219,0,0.80,"Knight, Brandon",6.70,8.20
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,4,17,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-132,146,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,11,36,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",-1,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,4,24,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",130,228,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,5,30,0,"Jump Shot","2PT Field Goal",12,"Golden State Warriors",128,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,7,52,1,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-232,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,3,11,01,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",56,247,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,8,30,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-168,190,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,4,45,0,"Jump Shot","3PT Field Goal",26,"Golden State Warriors",-166,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,3,5,34,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",228,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,2,5,37,0,"Jump Shot","3PT Field Goal",25,"Memphis Grizzlies",176,185,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,2,0,58,0,"Jump Shot","3PT Field Goal",22,"Charlotte Hornets",-228,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,2,2,21,1,"Jump Shot","3PT Field Goal",24,"Charlotte Hornets",133,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,1,10,30,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",146,198,0,0.80,"Gee, Alonzo",4.60,0.00
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,3,7,28,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-147,193,0,0.80,"Durant, Kevin",7.00,3.70
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,2,2,49,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-222,97,0,0.80,"Durant, Kevin",4.90,7.30
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,3,5,13,1,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-40,67,5,6.20,"Leonard, Kawhi",2.90,8.90
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,3,10,13,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-232,7,0,0.60,"Brown, Anthony",4.20,18.60
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,3,45,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-169,175,0,2.30,"Green, Danny",4.30,11.60
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,4,7,27,1,"Jump Shot","2PT Field Goal",18,"Los Angeles Lakers",30,180,3,4.90,"Young, Nick",4.40,6.80
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,2,50,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Lakers",-79,224,0,1.10,"Brown, Anthony",2.50,11.50
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,2,0,04,0,"Jump Shot","2PT Field Goal",12,"Los Angeles Lakers",-60,115,2,3.30,"Brown, Anthony",3.90,2.10
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,3,2,50,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",146,193,0,1.20,"Brown, Anthony",6.80,18.20
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,6,06,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",2,249,12,13.10,"Randle, Julius",5.20,11.20
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,5,25,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",-2,244,0,1.00,"Afflalo, Arron",4.80,15.50
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,10,42,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",107,223,1,2.00,"Porzingis, Kristaps",8.10,13.50
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,8,28,0,"Jump Shot","2PT Field Goal",3,"New York Knicks",30,7,3,3.80,"Anthony, Carmelo",1.80,13.30
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,2,5,20,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",46,36,4,4.20,"Durant, Kevin",0.70,12.30
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,2,5,39,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",109,218,0,0.90,"Afflalo, Arron",5.50,8.80
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,11,12,1,"Jump Shot","3PT Field Goal",24,"New York Knicks",164,178,0,1.00,"Anthony, Carmelo",3.20,11.80
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,3,11,35,1,"Jump Shot","2PT Field Goal",18,"New York Knicks",-186,2,6,5.60,"Anthony, Carmelo",8.30,6.60
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,6,17,1,"Jump Shot","2PT Field Goal",19,"San Antonio Spurs",-187,67,1,1.50,"Leonard, Kawhi",5.60,12.30
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,5,24,1,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",173,67,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,1,3,46,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-61,254,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,1,2,43,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",159,205,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,3,10,41,1,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",33,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,1,0,00,0,"Jump Shot","2PT Field Goal",13,"New Orleans Pelicans",61,120,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,10,07,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-65,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,3,7,36,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",215,144,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,2,2,14,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-207,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,1,1,28,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,4,10,40,1,"Jump Shot","2PT Field Goal",6,"New Orleans Pelicans",-27,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,2,1,17,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-183,169,5,6.00,"Faried, Kenneth",4.90,8.30
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,1,11,28,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",-209,121,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,3,10,04,0,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-223,136,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,3,6,26,0,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",87,120,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,1,9,32,1,"Jump Shot","2PT Field Goal",8,"Denver Nuggets",86,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,2,6,42,1,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",230,80,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,3,4,48,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-73,234,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,2,23,0,"Jump Shot","2PT Field Goal",21,"Chicago Bulls",218,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,1,2,06,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-160,185,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,1,1,26,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",58,234,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,3,0,01,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",232,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,0,01,0,"Jump Shot","2PT Field Goal",18,"Chicago Bulls",184,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,1,17,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-137,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,4,0,33,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",68,234,2,3.20,"Grant, Jerami",9.80,20.70
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,1,4,34,0,"Jump Shot","2PT Field Goal",20,"Oklahoma City Thunder",-119,164,6,6.50,"Adams, Steven",8.60,9.20
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,1,2,51,0,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",40,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,1,11,09,0,"Jump Shot","3PT Field Goal",23,"Chicago Bulls",-135,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,1,11,42,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-102,223,0,0.80,"Casspi, Omri",5.40,11.50
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,3,4,30,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",79,11,3,3.00,"Gay, Rudy",1.80,13.70
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,3,2,31,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-24,247,0,0.80,"Cousins, DeMarcus",5.80,18.70
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,4,1,14,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",153,188,0,1.00,"Rondo, Rajon",3.70,15.90
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,2,2,03,1,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-30,242,0,0.70,"Rondo, Rajon",1.00,0.20
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,2,3,14,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",-125,213,0,0.90,"Gay, Rudy",6.50,2.90
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,1,6,06,0,"Jump Shot","2PT Field Goal",7,"Sacramento Kings",63,38,1,1.40,"Gay, Rudy",1.40,9.60
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,3,9,17,0,"Jump Shot","2PT Field Goal",18,"Sacramento Kings",181,26,7,6.80,"Gay, Rudy",3.20,9.70
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,3,2,41,0,"Jump Shot","3PT Field Goal",24,"Sacramento Kings",125,210,0,1.10,"Rondo, Rajon",8.60,20.20
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,2,7,52,0,"Jump Shot","2PT Field Goal",17,"Chicago Bulls",171,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,4,0,20,0,"Jump Shot","2PT Field Goal",18,"Boston Celtics",-163,90,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,1,0,58,1,"Jump Shot","3PT Field Goal",25,"Chicago Bulls",15,257,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,4,2,44,0,"Jump Shot","3PT Field Goal",24,"Chicago Bulls",-187,160,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,1,1,28,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",53,139,3,3.30,"Chalmers, Mario",1.50,7.40
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,3,6,25,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-114,51,5,5.20,"Smith, Ish",3.60,11.80
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,1,6,08,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-168,188,0,0.90,"Gee, Alonzo",4.90,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,3,5,20,1,"Jump Shot","3PT Field Goal",22,"New Orleans Pelicans",228,16,0,0.80,"Davis, Anthony",7.70,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,4,4,27,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",155,183,0,0.80,"Cunningham, Dante",5.80,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,1,5,32,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",102,223,0,0.80,"Gee, Alonzo",5.50,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,4,6,09,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-179,180,0,0.70,"Evans, Tyreke",5.50,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,3,10,21,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",233,46,0,0.70,"Gee, Alonzo",7.50,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,9,40,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-138,219,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-11,2015,4249,1610612762,400828228,3,1,56,0,"Jump Shot","2PT Field Goal",19,"Oklahoma City Thunder",15,195,2,2.20,"Collison, Nick",6.60,12.80
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,7,18,1,"Jump Shot","3PT Field Goal",25,"San Antonio Spurs",-133,223,0,0.80,"Green, Danny",5.40,16.30
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,9,56,1,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",133,208,0,1.30,"Leonard, Kawhi",4.20,11.30
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,1,00,0,"Jump Shot","2PT Field Goal",14,"San Antonio Spurs",-115,80,0,1.40,"Anderson, Kyle",0.50,14.70
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,5,08,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-243,28,1,1.80,"Leonard, Kawhi",3.60,10.40
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,1,4,33,1,"Jump Shot","3PT Field Goal",24,"Phoenix Suns",-24,247,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,4,7,07,0,"Jump Shot","2PT Field Goal",19,"Philadelphia 76ers",192,41,2,7.50,"Covington, Robert",2.20,5.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,3,0,01,0,"Jump Shot","2PT Field Goal",16,"Boston Celtics",143,80,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,8,39,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",81,232,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,5,41,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-186,180,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,2,3,17,0,"Jump Shot","2PT Field Goal",10,"Boston Celtics",-60,82,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,4,9,41,0,"Jump Shot","2PT Field Goal",6,"Boston Celtics",-1,62,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,4,10,24,0,"Jump Shot","3PT Field Goal",25,"Boston Celtics",-42,249,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,2,10,0,"Jump Shot","2PT Field Goal",6,"Boston Celtics",60,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,4,7,03,1,"Jump Shot","2PT Field Goal",15,"Boston Celtics",-55,146,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,3,15,1,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-196,154,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,4,9,19,0,"Jump Shot","2PT Field Goal",9,"Boston Celtics",17,95,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,3,4,04,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-110,218,4,4.40,"Lee, Courtney",4.80,9.30
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,1,5,11,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",105,149,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,4,4,05,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-233,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,1,2,09,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",-230,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,3,11,39,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-96,223,0,0.90,"Grant, Jerami",5.00,5.90
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,4,19,0,"Jump Shot","3PT Field Goal",23,"Philadelphia 76ers",-58,232,0,0.20,"Smith, Ish",2.20,1.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,2,11,0,"Jump Shot","2PT Field Goal",14,"Philadelphia 76ers",117,85,4,3.90,"McConnell, TJ",4.80,6.80
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,3,10,02,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",128,205,4,4.00,"Thompson, Hollis",4.70,9.90
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,5,49,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",91,223,0,1.30,"Thompson, Hollis",6.10,13.60
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,3,7,40,0,"Jump Shot","2PT Field Goal",12,"Philadelphia 76ers",-1,121,6,4.40,"Covington, Robert",5.60,7.30
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,6,03,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",233,70,0,1.00,"Smith, Ish",3.90,20.10
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,3,11,34,1,"Jump Shot","2PT Field Goal",16,"Houston Rockets",166,2,1,2.10,"Ariza, Trevor",4.30,1.50
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,1,11,18,0,"Jump Shot","3PT Field Goal",23,"Houston Rockets",230,0,0,0.00,"Ariza, Trevor",5.00,5.80
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,2,0,01,0,"Jump Shot","2PT Field Goal",13,"Houston Rockets",-68,121,10,16.50,"Ariza, Trevor",2.00,1.30
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,3,8,08,0,"Jump Shot","3PT Field Goal",24,"Houston Rockets",210,134,0,0.70,"Ariza, Trevor",4.70,15.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,8,36,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",138,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,4,5,53,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-237,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,2,6,02,0,"Jump Shot","2PT Field Goal",12,"Denver Nuggets",120,-19,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,1,0,49,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",-230,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,1,45,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-117,218,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,4,9,00,1,"Jump Shot","2PT Field Goal",5,"Denver Nuggets",1,52,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,4,8,17,0,"Jump Shot","2PT Field Goal",6,"Denver Nuggets",58,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,1,4,46,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",94,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,9,19,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-237,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,4,3,09,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",182,178,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,3,4,27,0,"Jump Shot","2PT Field Goal",15,"New Orleans Pelicans",87,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,4,4,09,0,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-174,188,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,2,33,1,"Jump Shot","3PT Field Goal",26,"New Orleans Pelicans",-115,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,4,4,20,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",236,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,3,10,08,1,"Jump Shot","2PT Field Goal",14,"New Orleans Pelicans",-99,110,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,2,2,19,1,"Jump Shot","3PT Field Goal",25,"New Orleans Pelicans",-179,188,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,2,4,15,0,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",241,-10,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,3,3,42,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-201,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,7,17,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-179,160,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,1,44,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-150,195,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,2,1,59,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",84,232,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,2,41,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",227,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,2,1,26,0,"Jump Shot","2PT Field Goal",18,"Dallas Mavericks",-106,146,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,4,2,50,1,"Jump Shot","2PT Field Goal",19,"Washington Wizards",0,190,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,5,50,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",155,203,0,0.80,"Hairston, PJ",5.40,5.10
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,11,30,1,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",61,247,0,1.00,"Hairston, PJ",4.80,10.70
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,4,1,22,0,"Jump Shot","2PT Field Goal",4,"Milwaukee Bucks",45,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,3,8,33,1,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",235,-11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,1,5,36,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-114,214,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,4,3,38,0,"Jump Shot","3PT Field Goal",25,"Milwaukee Bucks",218,129,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,2,10,22,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",-125,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,2,7,30,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",-161,187,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,1,11,02,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",125,211,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,1,8,30,0,"Jump Shot","3PT Field Goal",23,"Milwaukee Bucks",235,23,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,3,10,06,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",168,180,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,2,9,39,0,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",241,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,3,1,35,1,"Jump Shot","3PT Field Goal",24,"Milwaukee Bucks",213,128,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,4,3,49,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",61,195,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,3,4,59,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-122,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,2,1,53,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",222,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,1,2,57,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",30,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,1,6,29,0,"Jump Shot","2PT Field Goal",17,"Portland Trail Blazers",89,154,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,3,1,12,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",7,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,1,7,36,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",15,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,1,5,06,0,"Jump Shot","2PT Field Goal",19,"Portland Trail Blazers",-153,126,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,4,6,35,1,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",227,52,0,0.80,"Williams, Marvin",6.30,4.20
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,8,51,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-232,85,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,3,6,29,1,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-127,205,0,0.80,"Allen, Tony",3.40,2.80
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,3,5,50,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",199,144,0,0.80,"Allen, Tony",2.90,7.10
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,1,2,39,0,"Jump Shot","3PT Field Goal",24,"Memphis Grizzlies",-176,165,0,1.00,"Lee, Courtney",3.90,11.00
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,4,12,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",225,36,0,0.70,"Thompson, Klay",3.60,7.40
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,3,7,14,0,"Jump Shot","2PT Field Goal",10,"Portland Trail Blazers",89,56,5,7.70,"Vonleh, Noah",0.70,4.60
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,2,2,42,1,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",-171,2,0,1.00,"Iguodala, Andre",7.20,22.70
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,9,53,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",40,43,6,7.60,"Bogut, Andrew",1.10,14.30
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,3,4,51,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",4,247,0,1.00,"Barbosa, Leandro",6.90,4.70
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,8,56,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-225,61,0,0.80,"Rush, Brandon",4.80,6.10
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,11,45,0,"Jump Shot","2PT Field Goal",15,"Golden State Warriors",102,111,0,0.90,"Thompson, Klay",2.90,11.60
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,4,6,30,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",145,7,4,5.80,"Green, Draymond",4.80,2.70
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,4,8,29,0,"Jump Shot","2PT Field Goal",14,"Golden State Warriors",119,82,3,4.10,"Thompson, Klay",3.10,11.20
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,1,11,43,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",25,36,0,0.00,"Bogut, Andrew",1.00,22.90
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,3,3,06,0,"Jump Shot","3PT Field Goal",23,"Golden State Warriors",-232,2,0,0.70,"Barbosa, Leandro",4.70,6.70
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,3,9,43,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-89,174,3,3.60,"Rush, Brandon",4.60,8.30
+"Gordon Hayward","Utah Jazz",2015-12-23,2015,4249,1610612762,400828321,3,8,07,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",-104,228,0,1.70,"Rush, Brandon",5.10,10.70
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,3,7,32,1,"Jump Shot","2PT Field Goal",14,"Denver Nuggets",146,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,3,3,55,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-76,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,1,2,01,0,"Jump Shot","2PT Field Goal",7,"Denver Nuggets",69,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,1,8,07,0,"Jump Shot","2PT Field Goal",5,"Washington Wizards",2,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,4,7,17,0,"Jump Shot","3PT Field Goal",24,"Washington Wizards",24,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,1,10,13,1,"Jump Shot","3PT Field Goal",24,"Washington Wizards",-34,239,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,4,6,29,1,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-223,16,0,0.90,"Davis, Ed",7.10,12.10
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,2,1,15,0,"Jump Shot","3PT Field Goal",22,"Portland Trail Blazers",-223,7,0,0.90,"Aminu, Al-Farouq",5.60,3.20
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,3,4,39,0,"Jump Shot","2PT Field Goal",3,"Portland Trail Blazers",-2,38,2,2.10,"Aminu, Al-Farouq",2.50,9.70
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,1,9,09,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",-88,224,1,1.60,"Aminu, Al-Farouq",3.80,14.20
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,3,6,03,1,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-147,120,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,2,5,24,0,"Jump Shot","2PT Field Goal",8,"Charlotte Hornets",-74,46,2,4.70,"Kaminsky, Frank",3.90,13.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,2,4,54,1,"Jump Shot","3PT Field Goal",26,"Charlotte Hornets",-161,208,0,0.00,"Batum, Nicolas",3.70,23.90
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,2,11,1,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",51,178,2,2.50,"Williams, Marvin",5.80,13.70
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,0,47,0,"Jump Shot","2PT Field Goal",20,"Charlotte Hornets",-153,129,0,0.80,"Williams, Marvin",5.00,17.20
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,5,2,49,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",158,203,0,0.80,"Batum, Nicolas",6.00,5.60
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,2,1,41,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-114,228,1,1.60,"Batum, Nicolas",4.70,9.40
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,3,15,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",166,190,0,1.20,"Lin, Jeremy",5.80,15.10
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,8,58,0,"Jump Shot","3PT Field Goal",25,"Charlotte Hornets",-65,244,0,0.80,"Hairston, PJ",6.80,24.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,9,54,0,"Jump Shot","3PT Field Goal",23,"Charlotte Hornets",232,21,0,0.80,"Williams, Marvin",6.20,12.20
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,10,09,0,"Jump Shot","2PT Field Goal",18,"Charlotte Hornets",176,46,8,6.30,"Williams, Marvin",5.30,14.80
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,2,1,04,0,"Jump Shot","2PT Field Goal",5,"Charlotte Hornets",-27,51,2,1.70,"Daniels, Troy",1.00,10.40
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,3,9,09,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",227,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,4,0,00,0,"Jump Shot","2PT Field Goal",13,"Golden State Warriors",137,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,3,4,51,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",222,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,2,8,26,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-63,232,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,3,10,37,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",141,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,4,1,26,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",163,183,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,4,58,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-145,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,5,0,58,0,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-228,95,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,3,1,16,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",9,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,2,3,09,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-25,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,2,0,30,0,"Jump Shot","2PT Field Goal",19,"Minnesota Timberwolves",-24,195,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,4,9,20,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",230,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,1,10,22,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-210,126,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,4,3,54,1,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-232,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,4,8,06,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",233,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,1,9,32,0,"Jump Shot","2PT Field Goal",11,"Brooklyn Nets",-112,3,0,1.00,"Johnson, Joe",4.60,12.70
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,2,2,26,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-78,229,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,1,0,26,0,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-112,228,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,1,4,47,0,"Jump Shot","2PT Field Goal",10,"Denver Nuggets",74,75,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,3,1,40,0,"Jump Shot","2PT Field Goal",17,"Denver Nuggets",122,124,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,0,29,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",132,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,9,16,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",236,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,7,38,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",235,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,0,46,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",225,70,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,6,25,1,"Jump Shot","2PT Field Goal",8,"Dallas Mavericks",1,87,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,11,14,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-232,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,3,1,41,0,"Jump Shot","3PT Field Goal",23,"Dallas Mavericks",-160,178,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,9,20,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",138,203,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,9,02,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-132,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,4,0,17,1,"Jump Shot","3PT Field Goal",26,"Dallas Mavericks",138,229,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,1,9,26,0,"Jump Shot","2PT Field Goal",18,"San Antonio Spurs",117,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,3,3,51,0,"Jump Shot","2PT Field Goal",15,"San Antonio Spurs",68,141,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,1,1,25,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-38,239,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,1,0,30,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",137,198,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,2,4,22,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",-233,82,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,2,5,01,0,"Jump Shot","2PT Field Goal",12,"San Antonio Spurs",125,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,1,4,43,1,"Jump Shot","3PT Field Goal",25,"Brooklyn Nets",4,254,0,1.00,"Johnson, Joe",4.70,10.90
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,2,0,20,1,"Jump Shot","3PT Field Goal",23,"Brooklyn Nets",230,31,0,1.00,"Johnson, Joe",10.20,1.30
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,1,2,56,1,"Jump Shot","3PT Field Goal",22,"Brooklyn Nets",227,-6,0,0.80,"Johnson, Joe",7.40,9.70
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,3,8,45,0,"Jump Shot","2PT Field Goal",17,"Brooklyn Nets",107,144,3,4.40,"Ellington, Wayne",4.00,5.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,2,1,54,0,"Jump Shot","3PT Field Goal",24,"Brooklyn Nets",63,239,0,0.90,"Johnson, Joe",4.20,8.10
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,3,0,01,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",220,97,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,1,7,48,0,"Jump Shot","3PT Field Goal",24,"San Antonio Spurs",133,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,2,8,52,0,"Jump Shot","2PT Field Goal",7,"San Antonio Spurs",-66,38,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,7,52,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-12,247,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,11,25,0,"Jump Shot","3PT Field Goal",26,"Toronto Raptors",64,257,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,2,5,49,1,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",236,56,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,3,0,52,0,"Jump Shot","3PT Field Goal",27,"Toronto Raptors",-47,272,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,4,26,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-230,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,4,4,29,1,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",127,223,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,4,2,18,0,"Jump Shot","3PT Field Goal",25,"Toronto Raptors",-4,252,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,1,9,34,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",176,169,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,3,8,33,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-194,144,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,2,0,01,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",1,249,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,1,6,45,0,"Jump Shot","3PT Field Goal",23,"Boston Celtics",19,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,3,7,29,1,"Jump Shot","3PT Field Goal",23,"Boston Celtics",235,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,2,6,38,0,"Jump Shot","2PT Field Goal",12,"Boston Celtics",125,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,4,3,06,0,"Jump Shot","3PT Field Goal",24,"Boston Celtics",-22,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,3,7,30,1,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",55,234,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,4,5,19,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",197,149,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,7,35,0,"Jump Shot","3PT Field Goal",23,"Minnesota Timberwolves",-237,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,7,20,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-225,95,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,4,3,07,0,"Jump Shot","2PT Field Goal",9,"Minnesota Timberwolves",89,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,2,11,0,"Jump Shot","3PT Field Goal",24,"Minnesota Timberwolves",-148,200,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,4,3,43,0,"Jump Shot","2PT Field Goal",10,"Houston Rockets",-102,16,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,4,8,44,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",122,218,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,2,10,19,0,"Jump Shot","3PT Field Goal",22,"Houston Rockets",-225,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,1,10,43,1,"Jump Shot","3PT Field Goal",24,"Houston Rockets",-187,164,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,10,21,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",74,237,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,2,3,24,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-137,200,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,9,25,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-14,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,4,1,08,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-97,228,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,7,23,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Lakers",-22,247,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,4,11,41,1,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-19,244,1,2.80,"Okafor, Jahlil",4.80,9.20
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,4,8,51,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",12,239,13,12.30,"Smith, Jason",5.50,8.70
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,10,52,1,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-235,-1,0,0.80,"Fournier, Evan",7.10,10.50
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,7,34,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",228,65,1,1.80,"Cunningham, Dante",0.80,0.80
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,3,0,28,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",168,176,0,0.90,"Thompson, Hollis",4.90,15.70
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,3,46,0,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",156,185,0,1.00,"Durant, Kevin",5.10,8.90
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,1,16,1,"Jump Shot","3PT Field Goal",24,"Oklahoma City Thunder",-129,210,0,1.20,"Kanter, Enes",6.20,20.20
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,4,8,49,0,"Jump Shot","2PT Field Goal",20,"Philadelphia 76ers",37,205,1,1.60,"Thompson, Hollis",4.50,13.20
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,4,4,54,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-52,234,0,0.80,"Carroll, DeMarre",3.40,5.10
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,3,8,03,0,"Jump Shot","2PT Field Goal",3,"Indiana Pacers",-37,14,4,3.20,"Mahinmi, Ian",1.00,19.70
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,3,8,53,1,"Jump Shot","3PT Field Goal",24,"Indiana Pacers",-87,230,0,0.60,"George, Paul",7.80,14.10
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,8,34,0,"Jump Shot","3PT Field Goal",22,"Golden State Warriors",225,2,0,0.80,"Thompson, Klay",4.60,19.30
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,1,9,58,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",123,210,0,0.90,"Green, Draymond",3.40,21.10
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,4,0,01,0,"Jump Shot","3PT Field Goal",48,"Golden State Warriors",176,452,1,1.40,"Curry, Stephen",4.60,0.00
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,6,08,0,"Jump Shot","2PT Field Goal",5,"Golden State Warriors",-25,52,12,9.70,"Thompson, Klay",0.70,15.10
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,4,2,33,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",159,46,0,1.00,"Livingston, Shaun",5.40,9.00
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,5,17,1,"Jump Shot","2PT Field Goal",8,"Cleveland Cavaliers",20,85,1,4.00,"Love, Kevin",6.20,8.20
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,3,1,28,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",141,208,0,1.00,"Bosh, Chris",6.10,21.40
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,1,6,05,1,"Jump Shot","2PT Field Goal",13,"Miami Heat",-9,139,2,2.30,"Deng, Luol",1.80,13.70
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,3,0,00,0,"Jump Shot","2PT Field Goal",8,"Dallas Mavericks",76,41,0,0.00,"Nowitzki, Dirk",4.80,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,2,4,17,1,"Jump Shot","2PT Field Goal",12,"Dallas Mavericks",46,111,2,2.10,"Pachulia, Zaza",4.20,5.40
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,1,6,26,1,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",146,193,0,0.70,"Matthews, Wesley",5.40,5.60
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,1,1,20,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",230,-6,0,0.70,"Sefolosha, Thabo",4.40,23.90
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,3,4,38,1,"Jump Shot","2PT Field Goal",17,"Atlanta Hawks",174,18,0,0.90,"Bazemore, Kent",0.00,12.90
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,3,9,06,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",230,56,6,7.30,"Frye, Channing",5.40,14.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,10,38,1,"Jump Shot","2PT Field Goal",13,"Los Angeles Clippers",-133,41,2,2.20,"Smith, Josh",6.40,21.70
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,1,8,04,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",137,213,1,1.50,"Johnson, Wesley",5.00,8.50
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,3,01,1,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",-233,13,0,0.40,"Griffin, Blake",13.00,3.40
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,3,7,30,1,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",230,70,0,0.80,"Johnson, Wesley",6.30,10.70
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,9,51,1,"Jump Shot","2PT Field Goal",5,"Los Angeles Clippers",22,46,3,4.60,"Rivers, Austin",5.50,8.40
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,7,17,1,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",120,111,2,3.30,"Stephenson, Lance",3.30,15.60
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,5,15,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",132,219,1,1.90,"Johnson, Wesley",4.90,11.00
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,1,6,24,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",233,3,0,0.90,"Randolph, Zach",13.60,8.70
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,1,4,00,1,"Jump Shot","3PT Field Goal",22,"Memphis Grizzlies",-227,-6,0,0.80,"Wright, Brandan",6.70,0.30
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,4,4,04,0,"Jump Shot","2PT Field Goal",20,"New Orleans Pelicans",-32,198,2,2.60,"Anderson, Ryan",6.90,9.80
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,1,8,42,0,"Jump Shot","2PT Field Goal",21,"Philadelphia 76ers",-200,77,1,1.80,"Sampson, JaKarr",5.10,15.80
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,2,2,15,0,"Jump Shot","3PT Field Goal",23,"Denver Nuggets",230,2,0,0.90,"Gallinari, Danilo",12.80,10.50
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,8,52,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-176,164,4,3.90,"Fournier, Evan",4.70,17.30
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,4,54,1,"Jump Shot","2PT Field Goal",5,"Orlando Magic",50,0,3,3.90,"Gordon, Aaron",0.20,14.30
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,1,48,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",141,198,0,1.10,"Gordon, Aaron",6.80,19.80
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,3,2,10,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",187,160,0,1.10,"Harris, Tobias",5.90,14.40
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,4,9,23,0,"Jump Shot","3PT Field Goal",24,"Orlando Magic",104,218,0,0.20,"Fournier, Evan",8.90,11.90
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,4,0,21,0,"Jump Shot","3PT Field Goal",23,"Orlando Magic",-233,-1,0,0.80,"Vucevic, Nikola",5.80,14.40
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,4,5,27,1,"Jump Shot","3PT Field Goal",24,"New Orleans Pelicans",119,219,0,1.00,"Smith, Ish",6.40,12.50
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,9,01,0,"Jump Shot","2PT Field Goal",18,"New Orleans Pelicans",128,134,7,4.80,"Ajinca, Alexis",5.90,8.20
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,2,48,0,"Jump Shot","2PT Field Goal",17,"New Orleans Pelicans",179,-1,0,1.00,"Gee, Alonzo",4.10,14.60
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,1,11,34,0,"Jump Shot","3PT Field Goal",23,"New Orleans Pelicans",-235,47,0,1.20,"Gee, Alonzo",7.30,17.20
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,3,6,58,0,"Jump Shot","2PT Field Goal",3,"New Orleans Pelicans",32,-1,2,3.30,"Davis, Anthony",6.30,18.00
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,2,3,49,1,"Jump Shot","2PT Field Goal",17,"Oklahoma City Thunder",-158,77,0,1.10,"Durant, Kevin",6.10,21.20
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,5,56,0,"Jump Shot","2PT Field Goal",5,"Oklahoma City Thunder",56,2,4,5.60,"Roberson, Andre",1.60,13.90
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,4,45,0,"Jump Shot","3PT Field Goal",23,"Oklahoma City Thunder",4,239,0,0.80,"Ibaka, Serge",5.60,2.30
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,3,4,37,0,"Jump Shot","2PT Field Goal",8,"Philadelphia 76ers",-5,82,4,5.50,"Grant, Jerami",2.40,9.80
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,4,6,43,1,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-230,2,0,0.80,"Valanciunas, Jonas",8.20,4.90
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,4,1,43,0,"Jump Shot","2PT Field Goal",9,"Toronto Raptors",-40,82,10,10.60,"Carroll, DeMarre",2.00,5.10
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,2,2,45,0,"Jump Shot","2PT Field Goal",16,"Toronto Raptors",92,134,2,2.00,"Scola, Luis",3.40,15.10
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,2,0,26,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-92,224,1,3.40,"Carroll, DeMarre",5.70,6.70
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,1,2,19,0,"Jump Shot","3PT Field Goal",24,"Toronto Raptors",-147,195,0,1.40,"Johnson, James",5.80,10.80
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,4,3,51,0,"Jump Shot","3PT Field Goal",23,"Toronto Raptors",-237,-11,0,0.80,"Carroll, DeMarre",5.40,7.70
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,3,5,19,0,"Jump Shot","2PT Field Goal",15,"Toronto Raptors",-127,85,3,4.10,"Carroll, DeMarre",2.30,4.00
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,1,9,40,0,"Jump Shot","2PT Field Goal",18,"Toronto Raptors",-181,-1,0,0.80,"Carroll, DeMarre",4.60,3.90
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,1,8,03,0,"Jump Shot","3PT Field Goal",23,"Portland Trail Blazers",84,223,1,1.50,"Aminu, Al-Farouq",3.90,12.20
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,1,4,53,0,"Jump Shot","2PT Field Goal",20,"Portland Trail Blazers",0,205,6,6.50,"Aminu, Al-Farouq",7.30,17.50
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,5,29,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",159,188,0,1.10,"Aminu, Al-Farouq",7.20,15.30
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,7,30,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",158,183,0,1.00,"Aminu, Al-Farouq",6.50,21.10
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,9,37,0,"Jump Shot","2PT Field Goal",5,"Portland Trail Blazers",51,23,3,3.50,"Aminu, Al-Farouq",0.20,11.20
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,2,0,58,0,"Jump Shot","2PT Field Goal",15,"Portland Trail Blazers",58,144,2,2.80,"McCollum, CJ",3.90,6.40
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,4,3,32,0,"Jump Shot","3PT Field Goal",24,"Portland Trail Blazers",45,239,1,1.90,"Aminu, Al-Farouq",5.00,11.40
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,8,22,0,"Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",-68,110,3,3.30,"Aminu, Al-Farouq",5.10,6.50
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,2,3,36,0,"Jump Shot","2PT Field Goal",18,"Denver Nuggets",-112,149,3,4.20,"Mudiay, Emmanuel",6.80,10.90
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,2,10,29,1,"Jump Shot","3PT Field Goal",25,"Denver Nuggets",-125,224,0,0.90,"Jokic, Nikola",11.30,20.90
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,2,4,58,1,"Jump Shot","2PT Field Goal",19,"Denver Nuggets",32,193,0,0.90,"Gallinari, Danilo",3.90,12.80
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,1,9,11,1,"Jump Shot","2PT Field Goal",13,"Denver Nuggets",-9,139,3,5.40,"Gallinari, Danilo",2.10,12.40
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,4,5,54,1,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",176,164,0,1.10,"Nelson, Jameer",10.30,16.50
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,1,7,06,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",99,223,0,0.90,"Gallinari, Danilo",8.20,11.70
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,2,7,02,0,"Jump Shot","3PT Field Goal",24,"Denver Nuggets",-207,136,0,0.90,"Nelson, Jameer",3.80,9.80
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,1,5,50,0,"Jump Shot","2PT Field Goal",18,"Philadelphia 76ers",-97,155,4,4.40,"Okafor, Jahlil",5.80,5.80
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,4,8,13,0,"Jump Shot","2PT Field Goal",10,"Philadelphia 76ers",0,100,3,3.40,"Stauskas, Nik",1.10,9.60
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,1,9,10,0,"Jump Shot","3PT Field Goal",24,"Philadelphia 76ers",-206,131,0,1.10,"Thompson, Hollis",6.10,16.00
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,4,5,01,1,"Jump Shot","3PT Field Goal",25,"Indiana Pacers",-168,187,0,0.80,"George, Paul",5.40,10.10
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,1,9,22,0,"Jump Shot","3PT Field Goal",22,"Indiana Pacers",224,9,0,1.00,"Hill, George",4.40,18.80
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,4,7,16,0,"Jump Shot","2PT Field Goal",19,"Indiana Pacers",-85,180,1,1.80,"Miles, CJ",6.60,8.60
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,3,8,47,1,"Jump Shot","2PT Field Goal",21,"Golden State Warriors",-179,115,0,0.90,"Rush, Brandon",7.00,11.30
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,3,5,49,1,"Jump Shot","2PT Field Goal",16,"Golden State Warriors",166,2,1,1.40,"Thompson, Klay",6.40,6.50
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,4,6,36,0,"Jump Shot","2PT Field Goal",4,"Golden State Warriors",48,-1,16,15.40,"Iguodala, Andre",1.90,9.40
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,1,4,46,1,"Jump Shot","3PT Field Goal",24,"Golden State Warriors",-140,203,4,5.30,"Green, Draymond",3.80,6.80
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,4,6,27,0,"Jump Shot","2PT Field Goal",9,"Golden State Warriors",-24,90,2,2.80,"Livingston, Shaun",4.40,1.00
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,1,8,51,0,"Jump Shot","2PT Field Goal",19,"Golden State Warriors",-114,154,4,4.00,"Rush, Brandon",4.70,9.70
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,1,32,0,"Jump Shot","2PT Field Goal",3,"Golden State Warriors",30,7,1,2.00,"Thompson, Klay",4.00,11.80
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,10,33,0,"Jump Shot","2PT Field Goal",17,"Golden State Warriors",143,100,4,4.60,"Barbosa, Leandro",3.40,5.00
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,4,5,21,0,"Jump Shot","3PT Field Goal",25,"Golden State Warriors",210,151,0,0.90,"Thompson, Klay",6.90,9.70
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,4,7,53,1,"Jump Shot","2PT Field Goal",16,"Cleveland Cavaliers",68,154,2,2.10,"Jefferson, Richard",3.70,10.60
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,1,11,24,1,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",2,257,0,1.30,"Williams, Mo",6.10,9.50
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,1,6,04,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-155,77,1,2.10,"Smith, J.R.",1.90,12.10
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,1,27,0,"Jump Shot","2PT Field Goal",17,"Cleveland Cavaliers",-166,57,5,5.20,"Love, Kevin",3.60,3.70
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,4,3,43,0,"Jump Shot","3PT Field Goal",26,"Cleveland Cavaliers",-143,218,19,19.70,"Thompson, Tristan",4.80,5.20
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,1,2,37,0,"Jump Shot","3PT Field Goal",25,"Cleveland Cavaliers",-215,146,0,0.80,"Jefferson, Richard",5.10,16.70
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,4,4,43,0,"Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",53,13,14,12.80,"Jefferson, Richard",2.80,9.50
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,1,10,55,0,"Jump Shot","3PT Field Goal",22,"Dallas Mavericks",228,2,0,0.90,"Matthews, Wesley",5.70,12.00
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,2,3,57,0,"Jump Shot","3PT Field Goal",24,"Miami Heat",-192,149,0,0.90,"Deng, Luol",4.90,16.30
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,0,31,0,"Jump Shot","2PT Field Goal",14,"Miami Heat",118,80,4,3.60,"Winslow, Justise",2.30,20.40
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,8,01,0,"Jump Shot","2PT Field Goal",19,"Miami Heat",125,144,1,1.90,"Winslow, Justise",1.90,12.70
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,1,5,26,0,"Jump Shot","3PT Field Goal",22,"Miami Heat",228,11,0,0.00,"Winslow, Justise",4.70,15.70
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,1,7,23,0,"Jump Shot","2PT Field Goal",15,"Miami Heat",-137,80,5,7.20,"Deng, Luol",3.00,16.90
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,3,8,58,0,"Jump Shot","2PT Field Goal",16,"Miami Heat",-99,134,2,2.40,"Deng, Luol",3.40,17.60
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,3,10,57,0,"Jump Shot","2PT Field Goal",18,"Miami Heat",-187,7,6,7.40,"Bosh, Chris",4.80,5.90
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,0,06,0,"Jump Shot","3PT Field Goal",25,"Miami Heat",235,95,0,0.60,"Winslow, Justise",2.90,0.00
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,5,55,0,"Jump Shot","2PT Field Goal",8,"Miami Heat",-66,61,3,2.80,"McRoberts, Josh",0.10,12.10
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,2,2,21,1,"Jump Shot","2PT Field Goal",14,"Dallas Mavericks",-52,134,2,2.50,"Nowitzki, Dirk",5.80,13.30
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,4,0,21,1,"Jump Shot","2PT Field Goal",17,"Dallas Mavericks",148,101,1,2.20,"Williams, Deron",8.00,20.40
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,3,8,39,0,"Jump Shot","3PT Field Goal",24,"Dallas Mavericks",-112,219,5,5.30,"Matthews, Wesley",6.40,15.70
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,1,3,53,0,"Jump Shot","3PT Field Goal",23,"Atlanta Hawks",-230,36,0,0.60,"Sefolosha, Thabo",3.80,13.20
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,4,9,31,0,"Jump Shot","3PT Field Goal",22,"Atlanta Hawks",-228,-1,0,0.90,"Sefolosha, Thabo",12.20,12.10
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,3,6,39,0,"Jump Shot","3PT Field Goal",24,"Atlanta Hawks",-220,115,0,1.10,"Horford, Al",17.10,21.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,1,7,33,1,"Jump Shot","3PT Field Goal",25,"Los Angeles Clippers",138,218,17,13.80,"Jordan, DeAndre",6.20,8.30
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,2,43,0,"Jump Shot","2PT Field Goal",16,"Los Angeles Clippers",-104,134,2,3.20,"Rivers, Austin",2.60,6.70
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,1,11,18,0,"Jump Shot","3PT Field Goal",23,"Los Angeles Clippers",233,46,0,0.70,"Johnson, Wesley",8.90,0.50
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,3,10,42,0,"Jump Shot","3PT Field Goal",24,"Los Angeles Clippers",-156,193,0,4.70,"Johnson, Wesley",6.50,12.10
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,3,8,26,0,"Jump Shot","3PT Field Goal",23,"Memphis Grizzlies",143,190,1,3.30,"Allen, Tony",12.80,15.10
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,4,5,07,0,"Jump Shot","2PT Field Goal",14,"Memphis Grizzlies",40,139,15,11.00,"Barnes, Matt",4.40,12.60
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,2,3,19,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",-124,218,0,0.90,"Payton, Elfrid",7.50,17.40
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,3,9,22,1,"Jump Shot","3PT Field Goal",24,"Orlando Magic",-160,183,0,1.00,"Payton, Elfrid",8.20,2.70
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,1,6,09,0,"Jump Shot","3PT Field Goal",25,"Orlando Magic",64,247,0,0.80,"Fournier, Evan",5.10,5.90
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,3,1,19,0,"Jump Shot","3PT Field Goal",23,"Detroit Pistons",-220,92,0,0.50,"Morris, Marcus",4.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,3,6,27,0,"Jump Shot","2PT Field Goal",15,"Detroit Pistons",128,84,2,3.00,"Morris, Marcus",2.20,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,1,11,12,0,"Jump Shot","2PT Field Goal",2,"Detroit Pistons",-28,5,2,6.00,"Jackson, Reggie",2.90,0.00
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,3,8,54,0,"Jump Shot","3PT Field Goal",24,"Detroit Pistons",95,229,0,1.40,"Morris, Marcus",3.80,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,1,7,32,0,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-16,16,6,6.40,"Duncan, Tim",3.50,8.50
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,4,1,43,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",25,7,2,5.40,"Lillard, Damian",1.70,19.60
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,4,6,46,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-24,8,7,6.50,"World Peace, Metta",0.60,7.60
+"Gordon Hayward","Utah Jazz",2016-03-28,2015,4249,1610612762,400828991,3,9,30,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-16,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,3,35,0,"Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",-25,2,3,3.60,"Plumlee, Mason",2.40,10.00
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,4,25,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-14,21,4,4.60,"Jefferson, Richard",1.70,13.90
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,3,0,59,0,"Layup Shot","2PT Field Goal",2,"Sacramento Kings",-20,19,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,3,8,06,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",9,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,2,3,32,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",-12,-10,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,1,11,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",-14,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,1,7,28,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",9,11,1,2.40,"Leonard, Meyers",4.10,7.50
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,2,8,14,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,7,0,1.20,"Jones, Tyus",3.70,19.90
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,1,6,51,1,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",-9,-17,0,0.00,"Morris, Marcus",4.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,1,28,1,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",22,-1,1,2.10,"Gee, Alonzo",1.70,12.80
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,2,1,01,0,"Layup Shot","2PT Field Goal",10,"Philadelphia 76ers",48,91,4,6.40,"Okafor, Jahlil",4.30,18.60
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,3,3,29,1,"Layup Shot","2PT Field Goal",0,"Denver Nuggets",1,-1,0,1.00,"Gallinari, Danilo",0.60,20.80
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,2,1,21,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",19,23,0,0.00,"Nance Jr., Larry",11.10,23.70
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,1,11,07,0,"Layup Shot","2PT Field Goal",2,"Orlando Magic",-19,13,0,0.60,"Vucevic, Nikola",3.60,6.20
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,3,0,04,0,"Layup Shot","2PT Field Goal",0,"Detroit Pistons",-8,-4,0,0.00,"Morris, Marcus",2.30,0.00
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,3,10,38,1,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",17,-6,1,1.60,"Rush, Brandon",1.30,15.80
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,3,27,0,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",15,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,4,0,48,1,"Layup Shot","2PT Field Goal",4,"Sacramento Kings",42,24,8,7.40,"Cousins, DeMarcus",5.70,15.50
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,4,2,50,0,"Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",1,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,2,4,58,0,"Layup Shot","2PT Field Goal",1,"New York Knicks",10,7,2,2.10,"Lopez, Robin",3.00,12.10
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,4,0,08,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",2,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,4,1,42,0,"Layup Shot","2PT Field Goal",1,"Indiana Pacers",19,-6,2,4.80,"Allen, Lavoy",1.70,13.70
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,5,0,09,1,"Layup Shot","2PT Field Goal",2,"Oklahoma City Thunder",-2,26,0,2.70,"Durant, Kevin",2.70,0.00
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,3,7,15,0,"Layup Shot","2PT Field Goal",2,"New Orleans Pelicans",28,8,2,2.50,"Anderson, Ryan",2.60,10.70
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,6,2,34,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",14,11,2,3.30,"Batum, Nicolas",4.60,6.60
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,4,1,51,0,"Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",4,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,0,06,1,"Layup Shot","2PT Field Goal",1,"Brooklyn Nets",15,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,1,11,40,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",-17,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,6,36,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",17,0,2,2.80,"Hibbert, Roy",3.20,19.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,4,0,07,1,"Layup Shot","2PT Field Goal",1,"Dallas Mavericks",-12,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,1,7,48,0,"Layup Shot","2PT Field Goal",3,"Brooklyn Nets",32,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,1,7,25,1,"Layup Shot","2PT Field Goal",4,"Indiana Pacers",-26,33,1,1.70,"Miles, CJ",4.20,15.60
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,2,4,58,1,"Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",10,7,12,10.50,"Nance Jr., Larry",3.60,12.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,2,3,58,0,"Layup Shot","2PT Field Goal",0,"Boston Celtics",2,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,4,54,0,"Layup Shot","2PT Field Goal",2,"Houston Rockets",-20,7,0,0.90,"Brewer, Corey",1.50,24.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,0,43,0,"Layup Shot","2PT Field Goal",2,"Minnesota Timberwolves",19,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,4,7,14,0,"Layup Shot","2PT Field Goal",2,"New York Knicks",10,18,1,5.20,"Vujacic, Sasha",0.10,2.70
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,3,9,32,0,"Layup Shot","2PT Field Goal",0,"Miami Heat",-1,7,1,1.20,"Bosh, Chris",0.80,20.80
+"Gordon Hayward","Utah Jazz",2016-01-29,2015,4249,1610612762,400828591,1,4,03,1,"Layup Shot","2PT Field Goal",1,"Minnesota Timberwolves",17,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,9,49,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",2,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,1,4,58,1,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-27,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,4,9,01,1,"Layup Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,3,0,27,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",14,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,1,4,20,0,"Layup Shot","2PT Field Goal",1,"Washington Wizards",6,-11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,2,2,38,1,"Layup Shot","2PT Field Goal",2,"Denver Nuggets",25,2,5,5.90,"Gallinari, Danilo",1.80,8.40
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,2,0,58,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",22,4,4,4.60,"Johnson, Stanley",1.10,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,1,32,0,"Layup Shot","2PT Field Goal",2,"Philadelphia 76ers",-20,8,1,1.40,"Thompson, Hollis",1.90,18.80
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,4,1,43,0,"Layup Shot","2PT Field Goal",2,"Boston Celtics",-12,18,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,10,44,0,"Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",4,11,1,2.40,"Rivers, Austin",3.20,17.50
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,1,5,10,1,"Layup Shot","2PT Field Goal",1,"Phoenix Suns",14,-1,0,0.80,"Chandler, Tyson",6.00,15.60
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,4,1,59,0,"Layup Shot","2PT Field Goal",1,"San Antonio Spurs",-17,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,4,1,55,0,"Layup Shot","2PT Field Goal",1,"Miami Heat",9,7,6,5.80,"Green, Gerald",3.50,9.90
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,3,6,58,0,"Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-20,8,1,1.20,"Hibbert, Roy",2.50,7.30
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,4,35,0,"Layup Shot","2PT Field Goal",1,"Golden State Warriors",-11,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,3,6,44,0,"Layup Shot","2PT Field Goal",2,"Detroit Pistons",22,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,3,0,46,0,"Layup Shot","2PT Field Goal",1,"Charlotte Hornets",9,11,2,4.90,"Lin, Jeremy",1.30,10.70
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,3,04,1,"Layup Shot","2PT Field Goal",0,"Miami Heat",9,2,0,0.60,"Winslow, Justise",5.00,11.00
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,9,21,0,"Layup Shot","2PT Field Goal",1,"Boston Celtics",17,3,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,1,4,55,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",14,11,1,2.30,"Winslow, Justise",2.00,13.30
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,1,6,44,1,"Layup Shot","2PT Field Goal",1,"Sacramento Kings",-16,2,1,1.10,"Cousins, DeMarcus",3.40,19.30
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,1,11,05,0,"Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-6,16,0,2.40,"Plumlee, Mason",2.50,11.20
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,1,4,43,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",17,7,0,1.10,"Whiteside, Hassan",1.90,3.40
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,0,05,1,"Layup Shot","2PT Field Goal",1,"Miami Heat",10,8,0,1.70,"Bosh, Chris",3.10,0.00
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,2,6,19,1,"Layup Shot","2PT Field Goal",2,"San Antonio Spurs",-24,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,9,21,0,"Layup Shot","2PT Field Goal",1,"Houston Rockets",19,-6,0,0.80,"Capela, Clint",2.30,11.30
+"Gordon Hayward","Utah Jazz",2016-04-10,2015,4249,1610612762,400829085,3,7,21,0,"Layup Shot","2PT Field Goal",1,"Denver Nuggets",14,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,3,9,36,0,"Layup Shot","2PT Field Goal",1,"Oklahoma City Thunder",6,16,1,1.30,"Westbrook, Russell",3.80,15.30
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,1,7,58,0,"Layup Shot","2PT Field Goal",1,"Detroit Pistons",19,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,5,50,0,"Layup Shot","2PT Field Goal",2,"Cleveland Cavaliers",-17,11,2,2.40,"Love, Kevin",2.60,10.20
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,3,1,41,1,"Pullup Bank shot","2PT Field Goal",4,"Oklahoma City Thunder",-14,46,1,1.90,"Kanter, Enes",3.70,1.10
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,2,1,00,1,"Pullup Bank shot","2PT Field Goal",7,"Sacramento Kings",64,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,7,33,1,"Pullup Bank shot","2PT Field Goal",11,"Detroit Pistons",-71,90,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,0,00,1,"Pullup Jump shot","2PT Field Goal",20,"Toronto Raptors",166,126,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,2,15,0,"Pullup Jump shot","2PT Field Goal",7,"Houston Rockets",-60,47,1,1.40,"Harden, James",4.90,19.90
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,5,55,0,"Pullup Jump shot","3PT Field Goal",26,"Toronto Raptors",109,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,11,07,1,"Pullup Jump shot","2PT Field Goal",16,"Toronto Raptors",148,72,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,1,7,19,0,"Pullup Jump shot","2PT Field Goal",9,"Denver Nuggets",94,31,6,6.40,"Lauvergne, Joffrey",2.70,17.40
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,3,6,44,0,"Pullup Jump shot","2PT Field Goal",17,"Houston Rockets",-130,120,1,1.90,"Howard, Dwight",4.00,0.90
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,3,11,31,0,"Pullup Jump shot","2PT Field Goal",11,"Boston Celtics",-74,90,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,9,54,1,"Pullup Jump shot","2PT Field Goal",9,"Phoenix Suns",82,47,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,3,0,28,1,"Pullup Jump shot","2PT Field Goal",18,"Phoenix Suns",150,116,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,2,3,39,0,"Pullup Jump shot","2PT Field Goal",17,"Orlando Magic",14,178,3,2.60,"Fournier, Evan",3.30,14.90
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,2,4,54,1,"Pullup Jump shot","2PT Field Goal",12,"Charlotte Hornets",58,111,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,1,4,05,0,"Pullup Jump shot","2PT Field Goal",9,"Sacramento Kings",81,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,1,3,24,0,"Pullup Jump shot","2PT Field Goal",15,"Philadelphia 76ers",-25,154,2,2.70,"Stauskas, Nik",3.80,3.20
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,4,6,15,1,"Pullup Jump shot","2PT Field Goal",5,"Philadelphia 76ers",43,36,1,2.30,"Holmes, Richaun",0.70,12.40
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,4,0,25,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",173,175,4,4.00,"Harrell, Montrezl",3.50,19.90
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,3,11,05,1,"Pullup Jump shot","2PT Field Goal",6,"Boston Celtics",46,52,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-16,2015,4249,1610612762,400828267,2,7,52,0,"Pullup Jump shot","2PT Field Goal",18,"New Orleans Pelicans",-42,183,12,11.60,"Anderson, Ryan",5.60,0.00
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,3,5,01,0,"Pullup Jump shot","3PT Field Goal",25,"Chicago Bulls",69,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,4,4,51,1,"Pullup Jump shot","3PT Field Goal",25,"Houston Rockets",-186,175,5,5.20,"Harrell, Montrezl",4.60,7.60
+"Gordon Hayward","Utah Jazz",2016-03-19,2015,4249,1610612762,400828921,4,7,51,0,"Pullup Jump shot","2PT Field Goal",18,"Chicago Bulls",6,183,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,6,16,1,"Pullup Jump shot","2PT Field Goal",16,"Detroit Pistons",17,164,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,3,11,20,0,"Pullup Jump shot","2PT Field Goal",19,"Chicago Bulls",-160,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,3,9,38,1,"Pullup Jump shot","2PT Field Goal",21,"Minnesota Timberwolves",-163,144,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,2,0,32,0,"Pullup Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",137,85,19,14.50,"Ibaka, Serge",5.30,9.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,0,55,1,"Pullup Jump shot","2PT Field Goal",8,"New Orleans Pelicans",46,72,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-05,2015,4249,1610612762,400828812,1,3,04,1,"Pullup Jump shot","2PT Field Goal",16,"New Orleans Pelicans",94,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,4,0,45,1,"Pullup Jump shot","2PT Field Goal",14,"Oklahoma City Thunder",24,144,3,2.60,"Durant, Kevin",4.50,21.50
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,2,7,53,0,"Pullup Jump shot","3PT Field Goal",24,"Houston Rockets",2,242,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,4,2,33,1,"Pullup Jump shot","2PT Field Goal",11,"Brooklyn Nets",15,110,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,4,2,52,0,"Pullup Jump shot","2PT Field Goal",11,"Dallas Mavericks",102,57,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,3,5,55,1,"Pullup Jump shot","2PT Field Goal",14,"Chicago Bulls",140,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,1,4,51,1,"Pullup Jump shot","2PT Field Goal",12,"Orlando Magic",-60,110,4,7.10,"Fournier, Evan",2.20,7.50
+"Gordon Hayward","Utah Jazz",2016-02-10,2015,4249,1610612762,400828685,3,0,33,1,"Pullup Jump shot","3PT Field Goal",24,"New Orleans Pelicans",40,239,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,1,8,27,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",4,149,2,2.40,"Bazemore, Kent",2.00,7.40
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,4,4,28,0,"Pullup Jump shot","2PT Field Goal",12,"Los Angeles Clippers",104,61,0,1.20,"Redick, JJ",2.70,6.80
+"Gordon Hayward","Utah Jazz",2015-12-05,2015,4249,1610612762,400828184,2,0,36,0,"Pullup Jump shot","3PT Field Goal",24,"Indiana Pacers",125,208,19,15.90,"George, Paul",4.70,8.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,1,7,32,0,"Pullup Jump shot","3PT Field Goal",25,"Los Angeles Lakers",-207,151,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,3,6,36,1,"Pullup Jump shot","2PT Field Goal",13,"Milwaukee Bucks",53,128,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,4,6,05,1,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-89,232,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,3,6,30,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",97,151,2,3.00,"Aminu, Al-Farouq",7.90,10.10
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,1,6,55,1,"Pullup Jump shot","2PT Field Goal",10,"Orlando Magic",105,11,1,2.40,"Fournier, Evan",2.90,4.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,3,9,24,1,"Pullup Jump shot","2PT Field Goal",8,"Portland Trail Blazers",0,82,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,3,8,06,0,"Pullup Jump shot","2PT Field Goal",11,"Minnesota Timberwolves",114,18,1,2.70,"Prince, Tayshaun",2.70,17.20
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,3,10,43,1,"Pullup Jump shot","2PT Field Goal",13,"Memphis Grizzlies",-14,131,2,2.80,"Allen, Tony",5.00,9.90
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,4,2,34,0,"Pullup Jump shot","2PT Field Goal",17,"Memphis Grizzlies",28,169,1,1.80,"Allen, Tony",2.80,5.80
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,3,5,25,0,"Pullup Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-7,247,14,11.80,"Plumlee, Mason",6.50,9.90
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,4,7,29,1,"Pullup Jump shot","2PT Field Goal",14,"Portland Trail Blazers",128,72,2,2.30,"Aminu, Al-Farouq",0.40,15.10
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,2,5,50,1,"Pullup Jump shot","2PT Field Goal",16,"Portland Trail Blazers",148,67,2,2.90,"Aminu, Al-Farouq",7.00,15.30
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,9,22,0,"Pullup Jump shot","2PT Field Goal",8,"Atlanta Hawks",-79,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,11,40,1,"Pullup Jump shot","2PT Field Goal",13,"Sacramento Kings",68,111,9,8.80,"Cauley-Stein, Willie",5.80,5.10
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,8,17,1,"Pullup Jump shot","2PT Field Goal",8,"Golden State Warriors",-1,82,4,7.60,"Thompson, Klay",1.40,10.40
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,5,2,13,1,"Pullup Jump shot","2PT Field Goal",15,"Chicago Bulls",-65,141,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,3,11,08,0,"Pullup Jump shot","2PT Field Goal",12,"Cleveland Cavaliers",92,85,1,2.60,"Williams, Mo",0.20,9.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,1,7,58,1,"Pullup Jump shot","2PT Field Goal",16,"Atlanta Hawks",-119,115,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,2,0,02,1,"Pullup Jump shot","2PT Field Goal",11,"Charlotte Hornets",-25,111,8,4.30,"Batum, Nicolas",3.90,0.00
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,4,6,11,1,"Pullup Jump shot","3PT Field Goal",25,"Golden State Warriors",148,208,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,3,11,20,0,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",86,116,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,5,33,1,"Pullup Jump shot","2PT Field Goal",18,"Sacramento Kings",79,164,6,8.70,"Cauley-Stein, Willie",5.00,15.10
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,3,4,27,0,"Pullup Jump shot","2PT Field Goal",8,"Atlanta Hawks",-2,80,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,3,1,28,1,"Pullup Jump shot","2PT Field Goal",16,"Dallas Mavericks",169,13,9,8.00,"Matthews, Wesley",3.00,15.70
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,2,5,35,0,"Pullup Jump shot","2PT Field Goal",16,"Phoenix Suns",164,36,3,3.40,"Bledsoe, Eric",3.70,12.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,5,4,30,1,"Pullup Jump shot","2PT Field Goal",9,"Golden State Warriors",-65,72,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,2,0,01,0,"Pullup Jump shot","3PT Field Goal",24,"Golden State Warriors",164,188,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,2,6,15,0,"Pullup Jump shot","2PT Field Goal",17,"Los Angeles Clippers",128,115,2,3.90,"Johnson, Wesley",5.00,11.00
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,4,4,04,1,"Pullup Jump shot","2PT Field Goal",14,"Atlanta Hawks",9,149,1,1.60,"Bazemore, Kent",3.30,5.80
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,5,3,28,0,"Pullup Jump shot","2PT Field Goal",19,"Oklahoma City Thunder",25,190,2,2.10,"Adams, Steven",5.20,15.80
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,3,5,31,1,"Pullup Jump shot","2PT Field Goal",15,"Washington Wizards",117,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,3,9,50,1,"Pullup Jump shot","2PT Field Goal",20,"Minnesota Timberwolves",74,195,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-03,2015,4249,1610612762,400828630,4,7,08,1,"Pullup Jump shot","2PT Field Goal",16,"Denver Nuggets",-88,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,3,9,02,1,"Pullup Jump shot","2PT Field Goal",18,"Oklahoma City Thunder",119,144,4,7.10,"Adams, Steven",6.00,9.90
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,6,58,1,"Pullup Jump shot","2PT Field Goal",11,"Dallas Mavericks",91,70,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,1,1,41,0,"Pullup Jump shot","2PT Field Goal",7,"Los Angeles Clippers",-25,70,3,5.40,"Aldrich, Cole",4.20,2.30
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,3,1,08,0,"Pullup Jump shot","2PT Field Goal",16,"Los Angeles Clippers",-55,154,5,7.60,"Mbah a Moute, Luc",3.40,7.00
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,1,5,14,1,"Pullup Jump shot","3PT Field Goal",24,"Memphis Grizzlies",112,213,2,2.50,"Barnes, Matt",4.20,14.80
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,1,9,31,0,"Pullup Jump shot","2PT Field Goal",18,"Dallas Mavericks",127,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,4,15,1,"Pullup Jump shot","2PT Field Goal",18,"Miami Heat",174,75,6,6.20,"Winslow, Justise",3.80,16.60
+"Gordon Hayward","Utah Jazz",2016-02-25,2015,4249,1610612762,400828747,1,5,20,1,"Pullup Jump shot","2PT Field Goal",15,"San Antonio Spurs",89,124,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,4,4,45,1,"Pullup Jump shot","2PT Field Goal",14,"Los Angeles Lakers",30,144,2,5.30,"World Peace, Metta",5.10,10.10
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,6,10,1,"Pullup Jump shot","2PT Field Goal",15,"Miami Heat",0,159,2,1.60,"Winslow, Justise",3.80,11.70
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,3,38,1,"Pullup Jump shot","2PT Field Goal",17,"Portland Trail Blazers",-155,72,10,11.80,"Henderson, Gerald",6.20,6.70
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,3,8,02,1,"Pullup Jump shot","2PT Field Goal",18,"Memphis Grizzlies",64,169,2,3.40,"Allen, Tony",1.50,12.30
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,4,9,04,1,"Pullup Jump shot","2PT Field Goal",15,"Boston Celtics",35,154,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,5,46,1,"Pullup Jump shot","2PT Field Goal",8,"Miami Heat",19,85,4,3.40,"Winslow, Justise",3.40,14.40
+"Gordon Hayward","Utah Jazz",2016-02-19,2015,4249,1610612762,400828704,4,10,13,0,"Pullup Jump shot","2PT Field Goal",20,"Boston Celtics",-83,183,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,1,8,44,1,"Pullup Jump shot","2PT Field Goal",10,"New Orleans Pelicans",-79,75,1,2.10,"Asik, Omer",4.80,6.80
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,1,8,26,1,"Putback Dunk Shot","2PT Field Goal",0,"Milwaukee Bucks",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,3,11,18,1,"Putback Layup Shot","2PT Field Goal",1,"Chicago Bulls",-4,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,1,5,52,1,"Reverse Layup Shot","2PT Field Goal",2,"Toronto Raptors",-29,-6,0,0.80,"Valanciunas, Jonas",3.20,11.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,2,3,42,0,"Reverse Layup Shot","2PT Field Goal",2,"Houston Rockets",-20,-5,0,1.60,"Harden, James",2.70,6.10
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,2,3,34,1,"Reverse Layup Shot","2PT Field Goal",1,"Detroit Pistons",14,-1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,4,3,27,0,"Reverse Layup Shot","2PT Field Goal",2,"Miami Heat",22,0,0,1.20,"Whiteside, Hassan",4.10,12.40
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,1,6,20,1,"Reverse Layup Shot","2PT Field Goal",1,"Philadelphia 76ers",14,-5,3,3.40,"Okafor, Jahlil",3.40,10.10
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,1,2,39,0,"Reverse Layup Shot","2PT Field Goal",1,"Chicago Bulls",10,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,1,6,22,1,"Reverse Layup Shot","2PT Field Goal",2,"Los Angeles Clippers",-20,-5,0,1.00,"Jordan, DeAndre",3.40,14.70
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,2,4,07,1,"Running Dunk Shot","2PT Field Goal",0,"Toronto Raptors",0,1,1,1.90,"DeRozan, DeMar",3.00,20.40
+"Gordon Hayward","Utah Jazz",2016-04-01,2015,4249,1610612762,400829021,1,0,37,1,"Running Dunk Shot","2PT Field Goal",0,"Minnesota Timberwolves",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-23,2015,4249,1610612762,400828095,1,6,38,1,"Running Dunk Shot","2PT Field Goal",0,"Oklahoma City Thunder",0,1,4,3.90,"Durant, Kevin",8.10,21.30
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,4,5,38,1,"Running Dunk Shot","2PT Field Goal",0,"Miami Heat",0,1,0,1.80,"Bosh, Chris",4.00,21.40
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,2,1,55,1,"Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,3,2,15,1,"Running Dunk Shot","2PT Field Goal",0,"Brooklyn Nets",0,1,2,3.60,"Bogdanovic, Bojan",3.30,21.40
+"Gordon Hayward","Utah Jazz",2015-12-26,2015,4249,1610612762,400828339,2,5,02,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Clippers",0,1,1,1.20,"Stephenson, Lance",6.40,20.50
+"Gordon Hayward","Utah Jazz",2016-03-13,2015,4249,1610612762,400828873,4,0,08,1,"Running Dunk Shot","2PT Field Goal",0,"Sacramento Kings",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,2,5,08,1,"Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,1,2.00,"Green, Jeff",12.40,21.10
+"Gordon Hayward","Utah Jazz",2015-10-30,2015,4249,1610612762,400827910,4,10,22,1,"Running Dunk Shot","2PT Field Goal",4,"Philadelphia 76ers",17,38,0,0.70,"Sampson, JaKarr",2.20,20.80
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,4,2,45,1,"Running Dunk Shot","2PT Field Goal",0,"Phoenix Suns",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,4,55,1,"Running Dunk Shot","2PT Field Goal",0,"Los Angeles Lakers",0,1,0,0.60,"Randle, Julius",3.60,20.40
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,4,3,47,1,"Running Dunk Shot","2PT Field Goal",0,"Charlotte Hornets",0,1,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,3,1,07,1,"Running Dunk Shot","2PT Field Goal",0,"Dallas Mavericks",0,1,1,1.40,"Nowitzki, Dirk",1.50,20.40
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,7,03,1,"Running Dunk Shot","2PT Field Goal",0,"Cleveland Cavaliers",0,1,3,3.80,"Love, Kevin",23.50,22.10
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,2,9,35,1,"Running Dunk Shot","2PT Field Goal",0,"Orlando Magic",0,1,0,0.80,"Gordon, Aaron",1.50,20.90
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,3,7,47,1,"Running Dunk Shot","2PT Field Goal",2,"New York Knicks",-22,11,0,0.70,"Lopez, Robin",1.90,20.90
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,2,1,43,1,"Running Dunk Shot","2PT Field Goal",0,"Memphis Grizzlies",0,1,1,3.20,"Green, Jeff",9.10,21.70
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,2,1,03,1,"Running Finger Roll Layup Shot","2PT Field Goal",2,"Portland Trail Blazers",20,7,3,3.30,"McCollum, CJ",2.10,21.80
+"Gordon Hayward","Utah Jazz",2015-12-14,2015,4249,1610612762,400828251,1,8,15,0,"Running Jump Shot","2PT Field Goal",10,"San Antonio Spurs",-11,100,0,0.80,"Leonard, Kawhi",1.00,12.20
+"Gordon Hayward","Utah Jazz",2015-10-28,2015,4249,1610612762,400827894,2,3,28,1,"Running Jump Shot","2PT Field Goal",16,"Detroit Pistons",-120,118,5,3.80,"Johnson, Stanley",3.60,0.00
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,2,7,59,0,"Running Jump Shot","2PT Field Goal",4,"Cleveland Cavaliers",-25,43,2,5.20,"Varejao, Anderson",1.90,7.40
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,2,2,16,1,"Running Jump Shot","2PT Field Goal",8,"Miami Heat",0,85,7,7.30,"Bosh, Chris",4.60,16.50
+"Gordon Hayward","Utah Jazz",2015-12-03,2015,4249,1610612762,400828166,3,6,40,1,"Running Jump Shot","3PT Field Goal",24,"Orlando Magic",173,178,0,1.80,"Frye, Channing",19.70,20.50
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,5,0,32,1,"Running Jump Shot","2PT Field Goal",21,"New York Knicks",173,129,0,0.00,"Anthony, Carmelo",8.00,19.60
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,5,32,1,"Running Jump Shot","2PT Field Goal",8,"Los Angeles Clippers",-43,77,0,0.00,"Redick, JJ",1.30,3.80
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,1,8,17,1,"Running Jump Shot","2PT Field Goal",13,"Orlando Magic",114,75,2,3.00,"Payton, Elfrid",3.50,20.10
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,2,1,20,1,"Running Layup Shot","2PT Field Goal",2,"Phoenix Suns",25,3,1,2.80,"Teletovic, Mirza",6.10,20.30
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,4,3,05,1,"Running Layup Shot","2PT Field Goal",1,"Denver Nuggets",10,11,1,1.80,"Harris, Gary",4.40,19.90
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,1,9,02,1,"Running Layup Shot","2PT Field Goal",1,"Washington Wizards",19,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,1,9,40,0,"Running Layup Shot","2PT Field Goal",2,"Chicago Bulls",17,-11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,3,59,0,"Running Layup Shot","2PT Field Goal",1,"Los Angeles Clippers",14,13,3,4.10,"Griffin, Blake",1.90,20.20
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,2,0,09,1,"Running Layup Shot","2PT Field Goal",2,"Houston Rockets",20,2,1,1.60,"Brewer, Corey",3.80,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,1,4,12,1,"Running Layup Shot","2PT Field Goal",1,"Houston Rockets",1,16,1,1.60,"Terry, Jason",5.00,20.30
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,4,0,29,1,"Running Layup Shot","2PT Field Goal",1,"Sacramento Kings",-2,18,2,3.90,"Cauley-Stein, Willie",0.90,20.10
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,2,5,19,1,"Running Layup Shot","2PT Field Goal",1,"Portland Trail Blazers",-17,-1,2,4.00,"Crabbe, Allen",1.70,21.80
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,4,1,43,1,"Running Layup Shot","2PT Field Goal",1,"Dallas Mavericks",9,-5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-13,2015,4249,1610612762,400828015,2,2,31,1,"Running Layup Shot","2PT Field Goal",2,"Orlando Magic",10,18,3,4.80,"Frye, Channing",2.50,20.30
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,2,2,51,1,"Running Layup Shot","2PT Field Goal",0,"Houston Rockets",-4,7,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,4,04,1,"Running Layup Shot","2PT Field Goal",2,"New York Knicks",-22,0,0,0.80,"Calderon, Jose",1.00,20.50
+"Gordon Hayward","Utah Jazz",2016-03-23,2015,4249,1610612762,400828948,3,2,22,1,"Running Layup Shot","2PT Field Goal",1,"Houston Rockets",14,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,4,4,07,0,"Running Layup Shot","2PT Field Goal",3,"Milwaukee Bucks",-20,34,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,3,4,29,1,"Running Layup Shot","2PT Field Goal",0,"Los Angeles Lakers",9,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-20,2015,4249,1610612762,400828928,3,7,08,1,"Running Layup Shot","2PT Field Goal",0,"Milwaukee Bucks",3,5,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,5,45,1,"Running Layup Shot","2PT Field Goal",2,"Houston Rockets",20,-1,3,3.80,"Harden, James",4.20,20.80
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,2,2,26,0,"Running Layup Shot","2PT Field Goal",2,"Los Angeles Lakers",-24,3,2,4.00,"Brown, Anthony",2.30,20.40
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,3,3,04,1,"Running Pull-Up Jump Shot","2PT Field Goal",8,"Charlotte Hornets",12,82,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,0,31,1,"Running Pull-Up Jump Shot","2PT Field Goal",3,"Toronto Raptors",24,23,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,4,6,07,1,"Running Pull-Up Jump Shot","2PT Field Goal",3,"Atlanta Hawks",-32,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-11,2015,4249,1610612762,400828856,3,8,47,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Washington Wizards",-22,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,3,11,45,1,"Running Reverse Layup Shot","2PT Field Goal",0,"Memphis Grizzlies",-6,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-30,2015,4249,1610612762,400828146,2,10,19,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Golden State Warriors",20,-5,2,3.10,"Ezeli, Festus",3.80,20.80
+"Gordon Hayward","Utah Jazz",2015-12-21,2015,4249,1610612762,400828304,4,7,13,1,"Running Reverse Layup Shot","2PT Field Goal",2,"Phoenix Suns",-22,-5,6,6.40,"Teletovic, Mirza",4.20,17.70
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,1,10,50,1,"Step Back Bank Jump Shot","2PT Field Goal",14,"Dallas Mavericks",135,43,1,1.60,"Nowitzki, Dirk",5.80,22.00
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,4,3,32,0,"Step Back Bank Jump Shot","2PT Field Goal",17,"Toronto Raptors",32,174,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,1,9,59,1,"Step Back Jump shot","2PT Field Goal",18,"Memphis Grizzlies",182,-11,4,5.20,"Allen, Tony",5.10,8.20
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,1,0,00,0,"Step Back Jump shot","2PT Field Goal",14,"Los Angeles Clippers",-107,95,11,9.00,"Smith, Josh",5.40,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,1,9,56,1,"Step Back Jump shot","2PT Field Goal",10,"Los Angeles Lakers",-97,31,3,3.20,"Williams, Lou",1.50,7.70
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,1,5,24,1,"Step Back Jump shot","2PT Field Goal",14,"Toronto Raptors",-142,-1,2,2.40,"DeRozan, DeMar",6.30,14.30
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,2,3,05,1,"Step Back Jump shot","2PT Field Goal",14,"Memphis Grizzlies",137,51,5,4.50,"Green, Jeff",6.30,20.10
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,3,6,04,0,"Step Back Jump shot","2PT Field Goal",20,"Denver Nuggets",-97,183,12,8.90,"Hickson, JJ",4.70,4.10
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,4,4,52,1,"Step Back Jump shot","2PT Field Goal",19,"Golden State Warriors",-135,134,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,4,2,50,0,"Step Back Jump shot","2PT Field Goal",14,"Memphis Grizzlies",-65,129,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,3,9,52,0,"Step Back Jump shot","2PT Field Goal",15,"San Antonio Spurs",-156,7,1,1.80,"Anderson, Kyle",5.80,20.50
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,2,10,14,0,"Step Back Jump shot","2PT Field Goal",12,"Minnesota Timberwolves",68,101,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,1,27,0,"Step Back Jump shot","2PT Field Goal",10,"Miami Heat",-92,56,7,7.20,"Johnson, Tyler",4.80,6.00
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,2,08,1,"Step Back Jump shot","3PT Field Goal",24,"Portland Trail Blazers",130,203,1,1.60,"Leonard, Meyers",7.10,15.60
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,2,3,26,1,"Step Back Jump shot","2PT Field Goal",18,"Philadelphia 76ers",174,72,5,5.10,"Sampson, JaKarr",4.20,17.10
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,1,5,31,0,"Step Back Jump shot","2PT Field Goal",20,"Phoenix Suns",-115,169,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-07,2015,4249,1610612762,400827978,2,1,08,1,"Step Back Jump shot","2PT Field Goal",18,"Memphis Grizzlies",177,57,4,5.60,"Green, Jeff",4.40,10.90
+"Gordon Hayward","Utah Jazz",2016-01-20,2015,4249,1610612762,400828519,4,4,48,1,"Step Back Jump shot","2PT Field Goal",14,"New York Knicks",-115,85,2,3.20,"Anthony, Carmelo",4.60,6.20
+"Gordon Hayward","Utah Jazz",2016-03-02,2015,4249,1610612762,400828787,1,1,44,0,"Step Back Jump shot","2PT Field Goal",13,"Toronto Raptors",137,8,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,3,5,05,0,"Step Back Jump shot","2PT Field Goal",20,"Dallas Mavericks",-78,193,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-30,2015,4249,1610612762,400828366,2,4,22,0,"Step Back Jump shot","2PT Field Goal",15,"Minnesota Timberwolves",156,8,6,5.70,"Wiggins, Andrew",4.30,7.60
+"Gordon Hayward","Utah Jazz",2016-01-04,2015,4249,1610612762,400828405,4,6,10,0,"Step Back Jump shot","2PT Field Goal",18,"Houston Rockets",105,154,1,1.40,"Brewer, Corey",6.30,6.60
+"Gordon Hayward","Utah Jazz",2016-02-29,2015,4249,1610612762,400828773,1,0,42,0,"Step Back Jump shot","2PT Field Goal",17,"Boston Celtics",-171,-6,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-13,2015,4249,1610612762,400829115,1,6,36,0,"Step Back Jump shot","2PT Field Goal",18,"Los Angeles Lakers",-94,165,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,1,3,56,1,"Step Back Jump shot","2PT Field Goal",15,"Dallas Mavericks",-147,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-26,2015,4249,1610612762,400828974,2,0,01,0,"Step Back Jump shot","2PT Field Goal",18,"Minnesota Timberwolves",187,0,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,1,7,20,0,"Step Back Jump shot","2PT Field Goal",18,"New York Knicks",-176,65,2,3.00,"Porzingis, Kristaps",5.50,12.10
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,4,4,55,0,"Step Back Jump shot","3PT Field Goal",28,"Dallas Mavericks",40,287,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-09,2015,4249,1610612762,400828214,3,10,17,1,"Step Back Jump shot","2PT Field Goal",19,"New York Knicks",-114,164,4,4.70,"Porzingis, Kristaps",6.00,7.10
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,1,4,08,1,"Step Back Jump shot","2PT Field Goal",19,"Los Angeles Lakers",-148,134,9,8.40,"Hibbert, Roy",6.50,2.60
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,3,4,21,0,"Step Back Jump shot","2PT Field Goal",14,"Dallas Mavericks",140,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,4,1,47,1,"Step Back Jump shot","2PT Field Goal",14,"Los Angeles Lakers",-138,51,2,6.60,"Clarkson, Jordan",3.50,6.50
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,4,5,34,0,"Step Back Jump shot","2PT Field Goal",20,"Oklahoma City Thunder",-88,180,4,5.00,"Ibaka, Serge",5.20,6.70
+"Gordon Hayward","Utah Jazz",2015-11-04,2015,4249,1610612762,400827955,2,2,35,1,"Step Back Jump shot","3PT Field Goal",24,"Portland Trail Blazers",-150,193,1,2.80,"Aminu, Al-Farouq",5.60,11.80
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,1,8,14,0,"Step Back Jump shot","2PT Field Goal",20,"Indiana Pacers",120,161,2,3.00,"George, Paul",5.00,10.50
+"Gordon Hayward","Utah Jazz",2016-02-09,2015,4249,1610612762,400828674,5,0,00,1,"Step Back Jump shot","2PT Field Goal",17,"Dallas Mavericks",-173,11,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,1,1,34,1,"Step Back Jump shot","2PT Field Goal",16,"Oklahoma City Thunder",-129,106,6,8.90,"Collison, Nick",6.50,14.10
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,1,7,35,1,"Step Back Jump shot","2PT Field Goal",20,"Golden State Warriors",-143,144,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-02,2015,4249,1610612762,400828390,1,9,16,1,"Step Back Jump shot","2PT Field Goal",8,"Memphis Grizzlies",79,41,1,2.60,"Allen, Tony",3.90,6.10
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,3,0,56,0,"Step Back Jump shot","3PT Field Goal",24,"Houston Rockets",215,116,0,1.30,"Brewer, Corey",4.60,16.30
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,2,2,14,0,"Step Back Jump shot","2PT Field Goal",13,"Indiana Pacers",130,-20,3,3.30,"Mahinmi, Ian",5.70,8.60
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,11,16,1,"Step Back Jump shot","2PT Field Goal",20,"Miami Heat",179,105,4,6.30,"Bosh, Chris",6.80,6.90
+"Gordon Hayward","Utah Jazz",2016-01-18,2015,4249,1610612762,400828503,1,5,27,1,"Step Back Jump shot","2PT Field Goal",18,"Charlotte Hornets",177,46,2,2.60,"Hairston, PJ",5.50,24.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,6,57,1,"Step Back Jump shot","2PT Field Goal",14,"Detroit Pistons",-19,139,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-22,2015,4249,1610612762,400828534,3,10,31,0,"Step Back Jump shot","2PT Field Goal",11,"Brooklyn Nets",-78,80,5,5.20,"Young, Thaddeus",5.50,24.00
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,4,2,29,0,"Step Back Jump shot","3PT Field Goal",24,"Houston Rockets",-220,106,1,1.70,"Ariza, Trevor",8.40,12.20
+"Gordon Hayward","Utah Jazz",2015-12-13,2015,4249,1610612762,400828243,3,9,53,0,"Step Back Jump shot","2PT Field Goal",12,"Oklahoma City Thunder",4,124,5,6.30,"Westbrook, Russell",4.90,7.30
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,1,0,41,1,"Step Back Jump shot","2PT Field Goal",19,"Houston Rockets",43,190,2,3.20,"Thornton, Marcus",7.20,1.80
+"Gordon Hayward","Utah Jazz",2016-01-07,2015,4249,1610612762,400828425,1,0,00,0,"Step Back Jump shot","3PT Field Goal",26,"Houston Rockets",-165,203,9,8.20,"Harrell, Montrezl",4.50,0.00
+"Gordon Hayward","Utah Jazz",2016-01-09,2015,4249,1610612762,400828442,3,1,02,1,"Step Back Jump shot","2PT Field Goal",15,"Miami Heat",-101,120,9,8.00,"Deng, Luol",3.50,4.40
+"Gordon Hayward","Utah Jazz",2016-02-18,2015,4249,1610612762,0,4,3,55,1,"Step Back Jump shot","2PT Field Goal",17,"Washington Wizards",159,61,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,1,29,1,"Step Back Jump shot","2PT Field Goal",20,"Portland Trail Blazers",205,7,2,2.80,"Harkless, Maurice",10.00,7.00
+"Gordon Hayward","Utah Jazz",2015-12-08,2015,4249,1610612762,400828205,2,6,00,1,"Step Back Jump shot","2PT Field Goal",15,"Sacramento Kings",130,87,1,5.40,"Casspi, Omri",2.60,3.10
+"Gordon Hayward","Utah Jazz",2016-03-04,2015,4249,1610612762,400828805,3,2,14,1,"Step Back Jump shot","2PT Field Goal",19,"Memphis Grizzlies",-187,36,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-15,2015,4249,1610612762,400828035,1,3,14,1,"Tip Dunk Shot","2PT Field Goal",0,"Atlanta Hawks",0,1,1,0.90,"Millsap, Paul",1.70,24.00
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,4,4,08,1,"Tip Layup Shot","2PT Field Goal",0,"Portland Trail Blazers",4,2,0,0.30,"Leonard, Meyers",5.80,24.00
+"Gordon Hayward","Utah Jazz",2016-01-16,2015,4249,1610612762,400828495,2,3,29,1,"Tip Layup Shot","2PT Field Goal",1,"Los Angeles Lakers",15,7,0,0.00,"Kelly, Ryan",4.20,20.00
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,3,3,35,0,"Tip Layup Shot","2PT Field Goal",1,"Toronto Raptors",10,2,0,0.10,"Biyombo, Bismack",1.30,0.00
+"Gordon Hayward","Utah Jazz",2016-01-06,2015,4249,1610612762,400828419,2,2,34,0,"Tip Layup Shot","2PT Field Goal",0,"San Antonio Spurs",9,2,0,0.70,"West, David",1.30,23.50
+"Gordon Hayward","Utah Jazz",2015-11-12,2015,4249,1610612762,400828011,4,5,53,0,"Tip Layup Shot","2PT Field Goal",1,"Miami Heat",10,8,0,0.30,"Winslow, Justise",3.20,23.10
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,3,15,1,"Tip Layup Shot","2PT Field Goal",1,"Chicago Bulls",-2,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-25,2015,4249,1610612762,400828560,4,0,24,0,"Turnaround Bank shot","2PT Field Goal",3,"Detroit Pistons",33,13,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-05,2015,4249,1610612762,400827960,3,2,17,0,"Turnaround Fadeaway Bank Jump Shot","2PT Field Goal",12,"Denver Nuggets",1,120,6,5.30,"Foye, Randy",2.50,7.00
+"Gordon Hayward","Utah Jazz",2016-02-21,2015,4249,1610612762,400828719,4,0,29,1,"Turnaround Fadeaway shot","2PT Field Goal",9,"Portland Trail Blazers",42,85,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,3,6,44,1,"Turnaround Fadeaway shot","2PT Field Goal",14,"San Antonio Spurs",-71,121,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-31,2015,4249,1610612762,400828376,1,6,03,0,"Turnaround Fadeaway shot","2PT Field Goal",16,"Portland Trail Blazers",-161,2,7,6.20,"McCollum, CJ",3.30,17.70
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,1,6,55,0,"Turnaround Fadeaway shot","2PT Field Goal",9,"Charlotte Hornets",94,2,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-03-30,2015,4249,1610612762,400829006,4,3,57,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Golden State Warriors",-22,100,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-27,2015,4249,1610612762,400828763,3,5,57,0,"Turnaround Fadeaway shot","2PT Field Goal",5,"Brooklyn Nets",6,51,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,1,7,28,0,"Turnaround Fadeaway shot","2PT Field Goal",3,"San Antonio Spurs",-34,21,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-18,2015,4249,1610612762,400828282,4,1,46,0,"Turnaround Fadeaway shot","2PT Field Goal",13,"Denver Nuggets",-32,136,5,6.40,"Nelson, Jameer",4.30,6.80
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,3,0,00,1,"Turnaround Fadeaway shot","2PT Field Goal",12,"Sacramento Kings",48,110,6,6.00,"Koufos, Kosta",4.60,0.00
+"Gordon Hayward","Utah Jazz",2016-04-11,2015,4249,1610612762,400829097,2,8,42,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Dallas Mavericks",-76,26,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-12-28,2015,4249,1610612762,400828354,4,2,20,0,"Turnaround Fadeaway shot","2PT Field Goal",8,"Philadelphia 76ers",42,75,3,7.20,"Covington, Robert",2.20,1.80
+"Gordon Hayward","Utah Jazz",2016-04-03,2015,4249,1610612762,400829036,2,1,46,1,"Turnaround Fadeaway shot","2PT Field Goal",8,"Phoenix Suns",-7,87,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,7,02,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Los Angeles Clippers",104,16,5,6.60,"Redick, JJ",5.10,4.80
+"Gordon Hayward","Utah Jazz",2016-03-09,2015,4249,1610612762,400828845,1,5,44,0,"Turnaround Fadeaway shot","2PT Field Goal",10,"Golden State Warriors",-43,92,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-14,2015,4249,1610612762,400828478,4,5,55,0,"Turnaround Fadeaway shot","2PT Field Goal",11,"Sacramento Kings",-68,87,10,9.20,"Gay, Rudy",2.30,8.20
+"Gordon Hayward","Utah Jazz",2016-03-08,2015,4249,1610612762,400828834,2,5,52,0,"Turnaround Fadeaway shot","2PT Field Goal",6,"Atlanta Hawks",-1,65,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-02-01,2015,4249,1610612762,400828615,4,5,30,1,"Turnaround Jump Shot","2PT Field Goal",11,"Chicago Bulls",-52,105,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2015-11-20,2015,4249,1610612762,400828071,4,4,26,0,"Turnaround Jump Shot","2PT Field Goal",13,"Dallas Mavericks",-35,134,5,6.00,"Barea, Jose Juan",2.20,16.50
+"Gordon Hayward","Utah Jazz",2016-01-10,2015,4249,1610612762,400828452,3,7,46,1,"Turnaround Jump Shot","2PT Field Goal",7,"Los Angeles Lakers",-16,77,3,3.60,"Brown, Anthony",4.90,12.30
+"Gordon Hayward","Utah Jazz",2015-11-25,2015,4249,1610612762,400828113,4,6,39,1,"Turnaround Jump Shot","2PT Field Goal",10,"Los Angeles Clippers",27,100,8,9.70,"Paul, Chris",1.90,6.50
+"Gordon Hayward","Utah Jazz",2015-10-31,2015,4249,1610612762,400827920,2,1,44,0,"Turnaround Jump Shot","2PT Field Goal",14,"Indiana Pacers",-59,130,5,5.60,"Hill, George",3.50,8.00
+"Gordon Hayward","Utah Jazz",2016-04-05,2015,4249,1610612762,400829048,4,0,27,1,"Turnaround Jump Shot","2PT Field Goal",3,"San Antonio Spurs",-4,31,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-27,2015,4249,1610612762,400828577,2,0,30,0,"Turnaround Jump Shot","2PT Field Goal",4,"Charlotte Hornets",0,41,0,0.00,,0.00,0.00
+"Gordon Hayward","Utah Jazz",2016-01-13,2015,4249,1610612762,400828471,1,4,07,0,"Turnaround Jump Shot","2PT Field Goal",12,"Portland Trail Blazers",78,95,8,7.40,"Aminu, Al-Farouq",3.10,5.90
+"Gordon Hayward","Utah Jazz",2015-11-28,2015,4249,1610612762,400828130,2,3,14,0,"Turnaround Jump Shot","2PT Field Goal",7,"New Orleans Pelicans",-12,72,3,3.40,"Gee, Alonzo",1.10,9.70
+"Gordon Hayward","Utah Jazz",2015-11-18,2015,4249,1610612762,400828060,3,3,38,0,"Turnaround Jump Shot","2PT Field Goal",6,"Toronto Raptors",-45,52,6,5.80,"Biyombo, Bismack",2.90,18.50
+"Gordon Hayward","Utah Jazz",2015-11-10,2015,4249,1610612762,400827993,4,6,42,0,"Turnaround Jump Shot","2PT Field Goal",5,"Cleveland Cavaliers",45,26,1,4.10,"Jefferson, Richard",1.80,8.10
