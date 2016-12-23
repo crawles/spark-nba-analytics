@@ -81,9 +81,10 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
                                                                           norm = norm))
     joint_shot_chart.fig.set_size_inches(12,11)
     
-    # color bar
-#     cax = joint_shot_chart.fig.add_axes([.77, .03, .03, .2]) # size and placement of bar
-#     plt.colorbar(cax=cax)
+
+    if kind == 'hex':# color bar
+        cax = joint_shot_chart.fig.add_axes([.77, .03, .03, .2]) # size and placement of bar
+        plt.colorbar(cax=cax)
     
     # A joint plot has 3 Axes, the first one called ax_joint 
     # is the one we want to draw our court onto 
@@ -101,7 +102,7 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
     ax.tick_params(labelbottom='off', labelleft='off')
 
     # Add Data Source
-    ax.text(-250,445,'Data Source: stats.nba.com', fontsize=12)
+    ax.text(-250,445,'Data Source: stats.nba.com via NBAsavant', fontsize=12)
     
     # label
     ax.text(-200,405,label, fontsize=30)
