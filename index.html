@@ -13729,7 +13729,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Using-Spark-To-Analyze-the-NBA-and-the-3-point-Shot">Using Spark To Analyze the NBA and the 3-point Shot<a class="anchor-link" href="#Using-Spark-To-Analyze-the-NBA-and-the-3-point-Shot">&#182;</a></h2><p><div style="font-size:16px;color:grey">Chris Rawles</div>
+<h2 id="Using-Python-and-Apache-Spark-to-Analyze-the-NBA-and-the-3-point-Shot">Using Python and Apache Spark to Analyze the NBA and the 3-point Shot<a class="anchor-link" href="#Using-Python-and-Apache-Spark-to-Analyze-the-NBA-and-the-3-point-Shot">&#182;</a></h2><p><div style="font-size:16px;color:grey">Chris Rawles</div>
 <a href="https://github.com/crawles/spark-nba-analytics"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a></p>
 
 </div>
@@ -13740,7 +13740,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Spark has become a common tool for large-scale data analysis, and in this post we show how to use the (at time of writing) newest version of Spark, <a href="https://spark.apache.org/releases/spark-release-2-1-0.html">Spark 2.1.0</a>, to analyze NBA data. Specifically we will use season totals data from 1979 to 2016 and shot chart data to visualize how the NBA has continued to trend towards shooting more and more 3-point shots.</p>
+<p>Apache Spark has become a common tool for large-scale data analysis, and in this post we show how to use the (at time of writing) newest version of Spark, <a href="https://spark.apache.org/releases/spark-release-2-1-0.html">Spark 2.1.0</a>, to analyze NBA data. Specifically we will use season totals data from 1979 to 2016 and shot chart data to visualize how the NBA has continued to trend towards shooting more and more 3-point shots.</p>
 <p>Using Python 3, we utilize the Spark Python API (PySpark) to create and analyze Spark <a href="http://spark.apache.org/docs/latest/sql-programming-guide.html#overview">DataFrames</a>. In addition, we utilize both <a href="http://spark.apache.org/docs/latest/sql-programming-guide.html#overview">Spark SQL</a> and the Spark DataFrame’s <a href="http://spark.apache.org/docs/latest/sql-programming-guide.html#untyped-dataset-operations-aka-dataframe-operations">domain-specific language</a> to cleanse and visualize the season total data, finally building building a simple linear regression model using ML Pipelines -- Spark’s soon-to-be <a href="https://databricks.com/blog/2016/07/26/introducing-apache-spark-2-0.html">primary machine learning API</a>. In the second half of this notebook, we utilize shot chart data to visualize the the 3-point trend.</p>
 <p>Since the 3-point line was introduced in the 1979-80 season, there has been a steady increase in the number of 3-point shots taken. At it's core this phenomenon can be explained by the average number of points per shot. Simply put, shooting a high accuracy from three results in a very high points per shot. At the end of this post we visually demonstrate the power of the 3-point shot and its very high efficiency.</p>
 
@@ -13804,7 +13804,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[25]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># set default plot settings</span>
@@ -13820,9 +13820,26 @@ div#notebook {
 <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">&#39;ytick.labelsize&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">14</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">&#39;legend.fontsize&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">20</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">&#39;figure.titlesize&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">24</span>
+
+<span class="n">display</span><span class="p">(</span><span class="n">HTML</span><span class="p">(</span><span class="s1">&#39;&lt;style&gt;.container {width:80% !important;}&lt;/style&gt;&#39;</span><span class="p">))</span>
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt"></div>
+
+<div class="output_html rendered_html output_subarea ">
+<style>.container {width:80% !important;}</style>
+</div>
+
+</div>
+
 </div>
 </div>
 
