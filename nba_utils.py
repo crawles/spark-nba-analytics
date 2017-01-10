@@ -83,7 +83,7 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
     
 
     if kind == 'hex':# color bar
-        cax = joint_shot_chart.fig.add_axes([.77, .03, .03, .2]) # size and placement of bar
+        cax = joint_shot_chart.fig.add_axes([.77, .04, .03, .2]) # size and placement of bar
         plt.colorbar(cax=cax)
     
     # A joint plot has 3 Axes, the first one called ax_joint 
@@ -102,7 +102,8 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
     ax.tick_params(labelbottom='off', labelleft='off')
 
     # Add Data Source
-    ax.text(-250,445,'Data Source: stats.nba.com via NBAsavant', fontsize=12)
+    ax.text(-250,435,'Data Source: stats.nba.com via NBAsavant', fontsize=12)
+    ax.text(165,435,'Author: Chris Rawles', fontsize=12)
     
     # label
     ax.text(-200,405,label, fontsize=30)
@@ -124,5 +125,5 @@ def draw_3pt_piechart(per_3, per_midrange):
     #                         labels = labels,
     #                         labeldistance = .4,
                     counterclock = False)
-    plt.legend(patches, labels, loc=3 ,shadow=True, fontsize='x-large', frameon = True) 
+    plt.legend(patches, labels, loc=3 ,shadow=True, fontsize='large', frameon = True) 
     plt.title('Percentage of shots', y = -0.08)

@@ -2,3 +2,5 @@ old
 *spark-warehouse
 *.pyc
 spark-warehouse
+0*ipynb
+sb.ipynb
