@@ -1,6 +1,7 @@
 from matplotlib.patches import Circle, Rectangle, Arc
 from matplotlib import pyplot as plt
 import seaborn as sns
+sns.set_style("white")
 
 def draw_court(ax=None, color='black', lw=2, outer_lines=False):
     '''Draws NBA court on axis. 
@@ -102,8 +103,7 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
     ax.tick_params(labelbottom='off', labelleft='off')
 
     # Add Data Source
-    ax.text(-250,435,'Data Source: stats.nba.com via NBAsavant', fontsize=12)
-    ax.text(165,435,'Author: Chris Rawles', fontsize=12)
+    ax.text(-250,439,'Data source: stats.nba.com via NBAsavant\nPlotting code source: Savvas Tjortjoglou', fontsize=12)
     
     # label
     ax.text(-200,405,label, fontsize=30)
