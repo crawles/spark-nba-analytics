@@ -80,7 +80,7 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
                                      kind=kind, space=0, color=cmap(.2), 
                                      cmap=cmap, size = 20, joint_kws=dict(gridsize=gridsize,
                                                                           norm = norm))
-    joint_shot_chart.fig.set_size_inches(12,11)
+    joint_shot_chart.fig.set_size_inches(9,8.25)
     
 
     if kind == 'hex':# color bar
@@ -103,10 +103,10 @@ def plot_shot_chart(x,y,kind = 'hex', gridsize = 15, norm = None, label = '', ti
     ax.tick_params(labelbottom='off', labelleft='off')
 
     # Add Data Source
-    ax.text(-250,439,'Data source: stats.nba.com via NBAsavant\nPlotting code source: Savvas Tjortjoglou', fontsize=12)
+    ax.text(-250,442,'Data source: stats.nba.com via NBAsavant\nPlotting code source: Savvas Tjortjoglou', fontsize=9)
     
     # label
-    ax.text(-200,405,label, fontsize=30)
+    ax.text(-200,405,label, fontsize=20)
     return joint_shot_chart
 
 sns_colors = sns.color_palette('deep',8)
